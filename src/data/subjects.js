@@ -1,0 +1,50 @@
+export const SUBJECTS = [
+  {
+    id: 'physics',
+    name: 'Physics',
+    tagline: 'Small visual tricks for big concepts & derivations!',
+    description: 'Mechanics • Electrodynamics • Optics • Modern Physics',
+    accentColor: '#5B8DEF',
+    lightColor: '#DCE8FF',
+    bgColor: '#EDF4FF',
+    borderColor: '#B3CEFF',
+    icon: 'atom',
+    totalChapters: 19,
+    totalTopics: 180,
+    totalMnemonics: 85,
+    ncertScope: 'Official NTA NEET UG Physics (Class 11 & 12 Complete)',
+    highlights: ['Units & Dimensions', 'Kinematics SUVAT', 'Laws of Motion', 'Gravitation', 'Thermodynamics', 'Electrostatics', 'Current & Kirchhoff', 'Optics & Lenses', 'Modern Physics & Semiconductors']
+  },
+  {
+    id: 'chemistry',
+    name: 'Chemistry',
+    tagline: 'Master reactions, trends, formulas & tables effortlessly!',
+    description: 'Physical • Inorganic • Organic Chemistry',
+    accentColor: '#A66CFF',
+    lightColor: '#EFE4FF',
+    bgColor: '#F7F0FF',
+    borderColor: '#D7BEFF',
+    icon: 'flask',
+    totalChapters: 20,
+    totalTopics: 195,
+    totalMnemonics: 95,
+    ncertScope: 'Official NTA NEET UG Chemistry (Class 11 & 12 Complete)',
+    highlights: ['Mole Concept', 'Periodic Trends', 'Chemical Bonding', 'Thermodynamics', 'Equilibrium', 'Coordination Compounds', 'Aldol & Name Reactions', 'Biomolecules']
+  },
+  {
+    id: 'biology',
+    name: 'Biology',
+    tagline: 'Visual NCERT facts, taxonomy, pathways & diagrams!',
+    description: 'Botany • Zoology • Human Physiology • Genetics',
+    accentColor: '#3DBE75',
+    lightColor: '#DDF7E8',
+    bgColor: '#EFFBF4',
+    borderColor: '#A7E8C1',
+    icon: 'leaf',
+    totalChapters: 32,
+    totalTopics: 280,
+    totalMnemonics: 140,
+    ncertScope: 'Official NTA NEET UG Biology (Complete NCERT 11th & 12th)',
+    highlights: ['Taxonomic Hierarchy', 'Plant Kingdom Algae', 'Plant Hormones', 'PMAT Mitosis & Meiosis', 'Heart Valves & Circulation', 'Genetics Dihybrid', 'Molecular Central Dogma', 'Ecology Evil Quartet']
+  }
+];

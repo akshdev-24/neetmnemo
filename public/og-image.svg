@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@700;800&amp;family=Nunito:wght@600;700;800;900&amp;family=Patrick+Hand&amp;display=swap');
+      .title { font-family: 'Baloo 2', sans-serif; font-weight: 800; fill: #243044; }
+      .brand-blue { fill: #5B8DEF; }
+      .brand-coral { fill: #FF8D78; }
+      .subtitle { font-family: 'Nunito', sans-serif; font-weight: 700; fill: #667085; font-size: 26px; }
+      .hand { font-family: 'Patrick Hand', cursive; font-size: 32px; fill: #243044; }
+      .pill-text { font-family: 'Baloo 2', sans-serif; font-weight: 700; font-size: 22px; }
+    </style>
+    <filter id="sketch-shadow" x="-5%" y="-5%" width="110%" height="115%">
+      <feDropShadow dx="5" dy="5" stdDeviation="0" flood-color="#243044" flood-opacity="1"/>
+    </filter>
+  </defs>
+
+  <!-- Background Warm Notebook Paper -->
+  <rect width="1200" height="630" fill="#FFFDF7" />
+
+  <!-- Dotted Grid pattern -->
+  <g opacity="0.15">
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#243044" />
+    </pattern>
+    <rect width="1200" height="630" fill="url(#grid)" />
+  </g>
+
+  <!-- Border Frame -->
+  <rect x="25" y="25" width="1150" height="580" rx="36" fill="none" stroke="#243044" stroke-width="4" stroke-dasharray="16,8" />
+
+  <!-- Main Card in Center -->
+  <g transform="translate(60, 60)">
+    <rect x="0" y="0" width="1080" height="510" rx="32" fill="#FFFFFF" stroke="#243044" stroke-width="4" filter="url(#sketch-shadow)" />
+
+    <!-- Top Badge -->
+    <g transform="translate(60, 45)">
+      <rect x="0" y="0" width="280" height="42" rx="21" fill="#FFE681" stroke="#243044" stroke-width="2.5" />
+      <text x="140" y="28" text-anchor="middle" font-family="'Baloo 2', sans-serif" font-weight="700" font-size="18" fill="#243044">✨ Visual NEET UG Revision</text>
+    </g>
+
+    <!-- Main Title -->
+    <g transform="translate(60, 160)">
+      <text x="0" y="0" class="title" font-size="64">Turn Hard Facts</text>
+      <text x="0" y="70" class="title" font-size="64">into <tspan fill="#FF8D78">Easy Memories</tspan></text>
+    </g>
+
+    <!-- Subtitle -->
+    <text x="60" y="290" class="subtitle">
+      100+ Handcrafted Visual Mnemonics &amp; Memory Hooks for NEET UG
+    </text>
+
+    <!-- Subject Badges Row -->
+    <g transform="translate(60, 340)">
+      <!-- Physics -->
+      <g transform="translate(0, 0)">
+        <rect width="210" height="60" rx="20" fill="#EDF4FF" stroke="#243044" stroke-width="3" filter="url(#sketch-shadow)" />
+        <text x="105" y="38" text-anchor="middle" class="pill-text" fill="#5B8DEF">⚛️ NEET Physics</text>
+      </g>
+
+      <!-- Chemistry -->
+      <g transform="translate(240, 0)">
+        <rect width="230" height="60" rx="20" fill="#F7F0FF" stroke="#243044" stroke-width="3" filter="url(#sketch-shadow)" />
+        <text x="115" y="38" text-anchor="middle" class="pill-text" fill="#A66CFF">🧪 NEET Chemistry</text>
+      </g>
+
+      <!-- Biology -->
+      <g transform="translate(500, 0)">
+        <rect width="220" height="60" rx="20" fill="#EFFBF4" stroke="#243044" stroke-width="3" filter="url(#sketch-shadow)" />
+        <text x="110" y="38" text-anchor="middle" class="pill-text" fill="#3DBE75">🌿 NEET Biology</text>
+      </g>
+    </g>
+
+    <!-- Right Side Mascot & Sticker Illustration -->
+    <g transform="translate(820, 140)">
+      <rect x="0" y="0" width="200" height="230" rx="24" fill="#FFF9E6" stroke="#243044" stroke-width="3.5" transform="rotate(4 100 115)" filter="url(#sketch-shadow)" />
+      <!-- Mascot Icon -->
+      <circle cx="100" cy="80" r="45" fill="#FF8D78" stroke="#243044" stroke-width="3" />
+      <circle cx="85" cy="75" r="5" fill="#243044" />
+      <circle cx="115" cy="75" r="5" fill="#243044" />
+      <path d="M 88 95 Q 100 108 112 95" stroke="#243044" stroke-width="3.5" fill="none" stroke-linecap="round" />
+      <!-- Sticker text -->
+      <text x="100" y="160" text-anchor="middle" class="hand">Remember More.</text>
+      <text x="100" y="195" text-anchor="middle" class="hand" fill="#5B8DEF">Revise Faster!</text>
+    </g>
+
+    <!-- Footer URL Stamp -->
+    <text x="60" y="455" font-family="'Nunito', sans-serif" font-weight="800" font-size="20" fill="#243044">
+      neetmnemo.pages.dev <tspan fill="#667085" font-weight="600">• 100% NCERT Scope</tspan>
+    </text>
+  </g>
+</svg>

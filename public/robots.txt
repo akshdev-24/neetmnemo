@@ -1,0 +1,9 @@
+# NEET Mnemo Robots.txt (https://neetmnemo.pages.dev)
+User-agent: *
+Allow: /
+Disallow: /favorites
+Disallow: /progress
+Disallow: /search
+
+# Search Engine Sitemap Location
+Sitemap: https://neetmnemo.pages.dev/sitemap.xml

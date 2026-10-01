@@ -1,0 +1,1520 @@
+export const bioCh02Mnemonics = [
+  {
+    "id": "mnemo-bio-ch02-01",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-1",
+    "topicTitle": "Whittaker 5-Kingdom Criteria",
+    "topic": "5-Kingdom Criteria",
+    "mnemonicNumber": 1,
+    "title": "Whittaker 5 Criteria: \"C-T-N-R-P: Cell, Thallus, Nutrition, Repro, Phylo\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "C-T-N-R-P: Cell structure, Thallus organisation, Mode of Nutrition, Reproduction, Phylogenetic relationships",
+    "memoryHook": "Can True Naturalists Remember Phylogeny? Cell, Thallus, Nutrition, Reproduction, and Phylogeny are the 5 criteria of R.H. Whittaker (1969)!",
+    "expandedMeaning": "R.H. Whittaker (1969) proposed the Five Kingdom Classification: Monera, Protista, Fungi, Plantae, and Animalia based on: Cell structure, Body organisation (Thallus), Mode of nutrition, Reproduction, and Phylogenetic relationships.",
+    "fact": "Whittaker kingdom classification gave primary importance to mode of nutrition and cell wall composition, placing fungi into a separate kingdom distinct from Plantae.",
+    "breakdown": [
+      {
+        "key": "C",
+        "label": "Cell structure (Prokaryotic vs Eukaryotic)"
+      },
+      {
+        "key": "T",
+        "label": "Thallus organisation (Unicellular vs Multicellular/Tissue)"
+      },
+      {
+        "key": "N",
+        "label": "Mode of Nutrition (Autotrophic vs Heterotrophic absorption/ingestion)"
+      },
+      {
+        "key": "R",
+        "label": "Reproduction (Vegetative, Asexual, Sexual)"
+      },
+      {
+        "key": "P",
+        "label": "Phylogenetic relationships (Evolutionary descent)"
+      }
+    ],
+    "doodleBadge": "C-T-N-R-P Criteria",
+    "doodleSubtext": "Whittaker 1969",
+    "explanation": "Earlier classifications did not distinguish between prokaryotes and eukaryotes, unicellular and multicellular, or photosynthetic and non-photosynthetic organisms.",
+    "whyItWorks": "Directly provides the 5 exact criteria explicitly listed in NCERT Section 2.1.",
+    "alsoRemember": "Three-domain system divides Monera into two domains (Archaea and Bacteria) leaving eukaryotes in the third domain (six kingdom classification).",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.1",
+    "neetTrap": "Which criterion was NOT used by Whittaker? Chromosome number or physiological biochemical pathways are common incorrect options.",
+    "commonMistake": "Forgetting phylogenetic relationships as one of the 5 core criteria.",
+    "tags": [
+      "Whittaker",
+      "5-Kingdom",
+      "Monera",
+      "Protista",
+      "Fungi",
+      "Class 11"
+    ],
+    "visualDescription": "Five pillars supporting a temple, each inscribed with C, T, N, R, and P.",
+    "neetRelevance": "NEET 2019, 2014 questions asking which criteria were used by R.H. Whittaker.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following was NOT one of the main criteria used by R.H. Whittaker for five-kingdom classification?",
+      "options": [
+        "Cell structure",
+        "Mode of nutrition",
+        "Anatomy of respiratory system",
+        "Phylogenetic relationships"
+      ],
+      "answerIndex": 2,
+      "explanation": "Whittaker used cell structure, thallus organisation, mode of nutrition, reproduction, and phylogenetic relationships."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-02",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-1",
+    "topicTitle": "Kingdom Monera",
+    "topic": "Bacterial Shapes",
+    "mnemonicNumber": 2,
+    "title": "Bacterial Shapes: \"C-Round, B-Rod, S-Spiral, V-Comma\"",
+    "badgeText": "Classification",
+    "importance": "Medium",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Coccus = Circle | Bacillus = Bar/Rod | Spirillum = Spiral | Vibrio = Comma (,)",
+    "memoryHook": "Round Coins are Coccus, Long Batons are Bacillus, Corkscrews are Spirillum, and Punctuation marks are Vibrio!",
+    "expandedMeaning": "Bacteria are grouped into four categories based on their shape: spherical Coccus (pl. Cocci), rod-shaped Bacillus (pl. Bacilli), comma-shaped Vibrio (pl. Vibrios), and spiral Spirillum (pl. Spirilla).",
+    "fact": "Though bacterial structure is very simple, their behavior is very complex and bacteria as a group show the most extensive metabolic diversity.",
+    "breakdown": [
+      {
+        "key": "Coccus",
+        "label": "Spherical / Round shape (e.g. Streptococcus)"
+      },
+      {
+        "key": "Bacillus",
+        "label": "Rod / Bar shape with or without spores (e.g. Lactobacillus)"
+      },
+      {
+        "key": "Spirillum",
+        "label": "Spiral / Corkscrew with flagella"
+      },
+      {
+        "key": "Vibrio",
+        "label": "Comma-shaped (e.g. Vibrio cholerae)"
+      }
+    ],
+    "doodleBadge": "● Coccus | ❚ Bacillus | ~ Spirillum | , Vibrio",
+    "doodleSubtext": "4 Bacterial Shapes",
+    "explanation": "Bacteria occur almost everywhere. Some are autotrophic (photosynthetic or chemosynthetic), but the vast majority are heterotrophs.",
+    "whyItWorks": "Pairs the English letter shape (C=Circle, B=Bar, S=Spiral, V=Comma) directly to the scientific name.",
+    "alsoRemember": "Vibrio cholerae causes cholera and is distinctly comma-shaped.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.1.1",
+    "neetTrap": "Assuming all bacteria have flagella. Cocci are generally non-motile and lack flagella.",
+    "commonMistake": "Confusing Bacillus (rod) with Vibrio (comma).",
+    "tags": [
+      "Monera",
+      "Bacteria",
+      "Coccus",
+      "Bacillus",
+      "Spirillum",
+      "Vibrio"
+    ],
+    "visualDescription": "Four drawings: a circle (coccus), a pill rod (bacillus), a wavy line (spirillum), and a giant comma (vibrio).",
+    "neetRelevance": "Diagram identification question in NEET 2013 and basic terminology.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.1.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Comma-shaped bacteria are classified morphologically as:",
+      "options": [
+        "Cocci",
+        "Bacilli",
+        "Spirilla",
+        "Vibrio"
+      ],
+      "answerIndex": 3,
+      "explanation": "Comma-shaped bacteria are designated as Vibrio (e.g., Vibrio cholerae)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-03",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-1",
+    "topicTitle": "Kingdom Monera",
+    "topic": "Archaebacteria Habitats & Cell Wall",
+    "mnemonicNumber": 3,
+    "title": "Archaebacteria: \"Halo-Salt, Thermo-Hot Sulfur, Methano-Marsh & Cow Rumen\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Halophiles = Extreme Salty | Thermoacidophiles = Hot Acidic Springs | Methanogens = Marshy & Ruminant Gut (Biogas)",
+    "memoryHook": "Halo loves Salty snacks, Thermo baths in Hot acid, and Methano makes Biogas in cow bellies! Different CELL WALL allows extreme survival!",
+    "expandedMeaning": "Archaebacteria differ from other bacteria in having a different cell wall structure (branched chain lipids/pseudomurein) which is responsible for their survival in extreme conditions. Methanogens are present in the gut of several ruminant animals such as cows and buffaloes and produce biogas (methane).",
+    "fact": "Archaebacteria survive in extreme environments because of branched lipid chains in their cell membranes and absence of peptidoglycan.",
+    "breakdown": [
+      {
+        "key": "Halophiles",
+        "label": "Extreme salty areas (e.g. Halobacterium)"
+      },
+      {
+        "key": "Thermoacidophiles",
+        "label": "Hot sulfur springs (high temp, low pH)"
+      },
+      {
+        "key": "Methanogens",
+        "label": "Marshy areas, cow/buffalo gut → produce methane (CH4 biogas)"
+      },
+      {
+        "key": "Survival secret",
+        "label": "Unique cell wall and ether-linked branched lipid membrane"
+      }
+    ],
+    "doodleBadge": "Halophile (Salt) | Thermo (Hot) | Methano (Gut)",
+    "doodleSubtext": "Archaebacteria Extremes",
+    "explanation": "Methanogens are obligate anaerobes producing methane gas from cow dung (gobar gas).",
+    "whyItWorks": "Direct habitat mapping connects to the three named groups in NCERT.",
+    "alsoRemember": "Peptidoglycan is absent in the cell wall of Archaebacteria.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.1.1",
+    "neetTrap": "Claiming eubacteria produce biogas in cow rumen. It is ARCHAEBACTERIA (Methanogens).",
+    "commonMistake": "Saying halophiles live in hot springs (Thermoacidophiles live in hot springs; Halophiles in salty water).",
+    "tags": [
+      "Archaebacteria",
+      "Methanogens",
+      "Halophiles",
+      "Thermoacidophiles",
+      "Biogas"
+    ],
+    "visualDescription": "Three panels: a salt flat (Halophile), a steaming volcano spring (Thermoacidophile), and a smiling cow (Methanogen).",
+    "neetRelevance": "NEET 2020, 2019, 2017 repeatedly tested methanogens in ruminant gut and biogas.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.1.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which group of archaebacteria is responsible for the production of biogas from the dung of ruminant animals?",
+      "options": [
+        "Halophiles",
+        "Thermoacidophiles",
+        "Methanogens",
+        "Cyanobacteria"
+      ],
+      "answerIndex": 2,
+      "explanation": "Methanogens present in the gut of ruminants produce methane gas (biogas) from dung."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-04",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-1",
+    "topicTitle": "Kingdom Monera",
+    "topic": "Cyanobacteria Features",
+    "mnemonicNumber": 4,
+    "title": "Cyanobacteria: \"Chl-a, Gelatinous Sheath, Heterocysts in Nostoc & Anabaena\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "BGA = Chlorophyll-a + Gelatinous Mucilage + Heterocyst N2-Fixation (Nostoc & Anabaena)",
+    "memoryHook": "Blue-Green Algae are actually photosynthetic Eubacteria! They have Chlorophyll-a like green plants, live in gelatinous sheaths, and fix Nitrogen in special thick-walled cells called HETEROCYSTS!",
+    "expandedMeaning": "Cyanobacteria (BGA) have chlorophyll-a similar to green plants and are oxygenic photosynthetic autotrophs. Unicellular, colonial or filamentous, surrounded by a gelatinous/mucilaginous sheath. Some fix atmospheric nitrogen in specialized cells called heterocysts (e.g. Nostoc and Anabaena).",
+    "fact": "Heterocysts lack Photosystem II (PS-II), meaning no oxygen is evolved inside them, maintaining anaerobic conditions for nitrogenase enzyme.",
+    "breakdown": [
+      {
+        "key": "Pigment",
+        "label": "Chlorophyll-a (oxygenic photosynthesis like plants)"
+      },
+      {
+        "key": "Sheath",
+        "label": "Mucilaginous / Gelatinous covering forming water blooms in polluted waters"
+      },
+      {
+        "key": "Heterocysts",
+        "label": "Thick-walled specialized cells that fix atmospheric N2"
+      },
+      {
+        "key": "Examples",
+        "label": "Nostoc and Anabaena"
+      }
+    ],
+    "doodleBadge": "Heterocyst = N2 Fixation",
+    "doodleSubtext": "Cyanobacteria Adaptations",
+    "explanation": "Chemosynthetic autotrophs oxidize inorganic substances (nitrates, nitrites, ammonia) to release ATP and recycle nutrients (N, P, Fe, S).",
+    "whyItWorks": "Directly bundles chlorophyll-a, mucilage sheath, heterocyst, and Nostoc/Anabaena.",
+    "alsoRemember": "Spirulina is a cyanobacterium rich in proteins used as a single-cell protein (SCP) food supplement.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.1.2",
+    "neetTrap": "Questions calling cyanobacteria eukaryotic because they have Chlorophyll-a. They are strictly PROKARYOTES (Monera).",
+    "commonMistake": "Confusing heterocysts with reproductive spores (they are vegetative N2-fixing cells).",
+    "tags": [
+      "Cyanobacteria",
+      "Nostoc",
+      "Anabaena",
+      "Heterocyst",
+      "Chlorophyll-a"
+    ],
+    "visualDescription": "A filament of Nostoc cells with a large thick-walled barrel cell labeled Heterocyst fixing N2.",
+    "neetRelevance": "NEET 2020, 2016 questions on heterocysts and oxygenic photosynthesis in prokaryotes.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.1.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Specialized cells found in Nostoc and Anabaena that carry out nitrogen fixation are called:",
+      "options": [
+        "Akinetes",
+        "Heterocysts",
+        "Endospores",
+        "Trichomes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Heterocysts are specialized, thick-walled, anaerobic cells that house nitrogenase for N2 fixation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-05",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-1",
+    "topicTitle": "Kingdom Monera",
+    "topic": "Mycoplasma (PPLO) Special Traits",
+    "mnemonicNumber": 5,
+    "title": "Mycoplasma: \"No Wall, Smallest Cell, Oxygen Not Needed, Penicillin Resistant\"",
+    "badgeText": "Exception Alert",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "exception",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Mycoplasma = No Cell Wall + Smallest Living Cell (0.3 µm) + Survives Without O2 + Penicillin Insensitive",
+    "memoryHook": "Mycoplasma is the naked baby of bacteria! Completely lacks a cell wall, passes through bacteria-proof filters (0.3 µm), lives happily without oxygen, and laughs at penicillin!",
+    "expandedMeaning": "Mycoplasma are organisms that completely lack a cell wall. They are the smallest living cells known (0.3 µm in length) and can survive without oxygen. Many are pathogenic in animals and plants.",
+    "fact": "Because penicillin targets cell wall peptidoglycan synthesis, Mycoplasma is naturally resistant (insensitive) to penicillin antibiotics.",
+    "breakdown": [
+      {
+        "key": "Cell Wall",
+        "label": "Completely ABSENT (pleomorphic shape / Jokers of plant kingdom)"
+      },
+      {
+        "key": "Size",
+        "label": "Smallest known living cells (0.3 µm length)"
+      },
+      {
+        "key": "Respiration",
+        "label": "Facultative anaerobes (can survive WITHOUT oxygen)"
+      },
+      {
+        "key": "Pathogenicity",
+        "label": "Cause pleuropneumonia in cattle and witches broom in plants"
+      },
+      {
+        "key": "Antibiotic trap",
+        "label": "Resistant to penicillin, sensitive to tetracycline"
+      }
+    ],
+    "doodleBadge": "0.3 µm | No Cell Wall | Survives -O2",
+    "doodleSubtext": "Mycoplasma Extremes",
+    "explanation": "PPLO (Pleuro Pneumonia-Like Organisms) are about 0.1 µm while typical bacteria are 1 to 2 µm.",
+    "whyItWorks": "Every single line in this mnemonic answers a classic 4-mark NEET multiple-choice question.",
+    "alsoRemember": "Because they lack a cell wall, mycoplasmas can change shape and are called pleomorphic.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.1.2",
+    "neetTrap": "Can Mycoplasma survive in aerobic conditions? Yes, they are facultative anaerobes (can survive with OR without O2).",
+    "commonMistake": "Treating Mycoplasma infections with penicillin (penicillin is useless against organisms without cell walls).",
+    "tags": [
+      "Mycoplasma",
+      "PPLO",
+      "No Cell Wall",
+      "Anaerobic",
+      "Class 11"
+    ],
+    "visualDescription": "A tiny flexible blob cell without a rigid wall slipping easily through a pore filter.",
+    "neetRelevance": "NEET 2020, 2017, 2015 repeatedly asked about cell wall absence and anaerobic survival.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.1.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following characteristics is true for Mycoplasma?",
+      "options": [
+        "They possess a rigid peptidoglycan cell wall",
+        "They are obligate aerobes requiring oxygen",
+        "They completely lack a cell wall and survive without oxygen",
+        "They are the largest known prokaryotes"
+      ],
+      "answerIndex": 2,
+      "explanation": "Mycoplasma completely lack a cell wall, measure 0.3 µm, and can survive without oxygen."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-06",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-1",
+    "topicTitle": "Kingdom Protista",
+    "topic": "Chrysophytes & Diatomaceous Earth",
+    "mnemonicNumber": 6,
+    "title": "Chrysophytes: \"Soap-Box Silica Shells & Chief Producers in Oceans\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Diatoms = Soap-box Overlapping Silica Shells + Diatomaceous Earth + Chief Ocean Producers",
+    "memoryHook": "Diatoms wash the ocean with Soap-boxes! Their indestructible silica cell walls overlap like a soap box, deposit gritty diatomaceous earth for polish and filtration, and make them the CHIEF PRODUCERS of the oceans!",
+    "expandedMeaning": "Chrysophytes include diatoms and golden algae (desmids). Found in fresh water and marine environments. In diatoms, the cell walls form two thin overlapping shells fitting like a soap box, embedded with silica making walls indestructible. They leave behind huge cell wall deposits called \"diatomaceous earth\" used in polishing, filtration of oils and syrups.",
+    "fact": "Diatoms are the chief \"producers\" in the oceans and float passively in water currents (plankton).",
+    "breakdown": [
+      {
+        "key": "Chrysophytes",
+        "label": "Diatoms + Golden algae (Desmids)"
+      },
+      {
+        "key": "Cell wall",
+        "label": "Silica embedded, 2 overlapping shells fitting like a soap box (indestructible)"
+      },
+      {
+        "key": "Diatomaceous earth",
+        "label": "Accumulation of billions of years of silica walls; gritty nature"
+      },
+      {
+        "key": "Industrial use",
+        "label": "Polishing, filtration of oils and syrups"
+      },
+      {
+        "key": "Ecological role",
+        "label": "Chief \"producers\" in the oceans (Planktonic)"
+      }
+    ],
+    "doodleBadge": "Silica Soap-Box | Diatomaceous Earth",
+    "doodleSubtext": "Chief Producers",
+    "explanation": "Being gritty, diatomaceous earth is utilized in polishing and filtration industries.",
+    "whyItWorks": "Links \"Soap-box\", \"Silica\", \"Diatomaceous Earth\", and \"Chief Producers\".",
+    "alsoRemember": "Desmids are unicellular green golden algae included under Chrysophytes.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.2.1",
+    "neetTrap": "Calling Dinoflagellates the chief producers in oceans. DIATOMS are the chief producers!",
+    "commonMistake": "Thinking diatom walls are made of cellulose alone (they are heavily impregnated with silica).",
+    "tags": [
+      "Chrysophytes",
+      "Diatoms",
+      "Silica",
+      "Diatomaceous Earth",
+      "Ocean Producers"
+    ],
+    "visualDescription": "A classic clamshell soap box opening up to reveal glittering silica crystals inside the ocean.",
+    "neetRelevance": "NEET 2018, 2016 asked for \"Chief producers in oceans\" and properties of diatomaceous earth.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.2.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which organisms are described in NCERT as the \"chief producers in the oceans\"?",
+      "options": [
+        "Dinoflagellates",
+        "Diatoms (Chrysophytes)",
+        "Euglenoids",
+        "Cyanobacteria"
+      ],
+      "answerIndex": 1,
+      "explanation": "Diatoms (members of Chrysophytes) are the chief producers in the oceans."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-07",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-1",
+    "topicTitle": "Kingdom Protista",
+    "topic": "Dinoflagellates & Gonyaulax",
+    "mnemonicNumber": 7,
+    "title": "Dinoflagellates: \"Stiff Cellulose Plates, 2 Flagella, Gonyaulax Red Tides\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Dino = 2 Flagella (Cross & Long) + Stiff Armor Plates + Gonyaulax Red Tide Toxins",
+    "memoryHook": "Dino has 2 flagella spinning like a whirly dinosaur! Stiff armor plates of cellulose protect it. Red Gonyaulax blooms turn the sea red and release saxitoxin killing marine fishes!",
+    "expandedMeaning": "Dinoflagellates are mostly marine and photosynthetic. Cell wall has stiff cellulose plates on the outer surface. Most have two flagella: one lies longitudinally and the other transversely in a furrow between wall plates. Red dinoflagellates (e.g. Gonyaulax) undergo rapid multiplication making the sea appear red (red tides) and release toxins killing marine organisms.",
+    "fact": "The two flagella generate a spinning motion, hence dinoflagellates are called \"whirling whips\". The toxin produced by Gonyaulax is saxitoxin, a potent neurotoxin.",
+    "breakdown": [
+      {
+        "key": "Habitat",
+        "label": "Mostly marine, photosynthetic (yellow, green, brown, blue, red)"
+      },
+      {
+        "key": "Wall structure",
+        "label": "Stiff cellulose plates (armored appearance)"
+      },
+      {
+        "key": "Flagella (2)",
+        "label": "One longitudinal + one transverse in a groove (spinning motion)"
+      },
+      {
+        "key": "Red Tide culprit",
+        "label": "Gonyaulax (multiplies rapidly, sea looks red)"
+      },
+      {
+        "key": "Toxin impact",
+        "label": "Toxins released in large amounts kill marine animals like fishes"
+      }
+    ],
+    "doodleBadge": "Gonyaulax = Red Tides | 2 Flagella",
+    "doodleSubtext": "Dinoflagellate Plates",
+    "explanation": "Red sea color can also be caused by cyanobacterium Trichodesmium erythraeum, but \"Red Tides\" in NCERT is caused by Gonyaulax.",
+    "whyItWorks": "Links the 2 perpendicular flagella to the red tide organism Gonyaulax.",
+    "alsoRemember": "Bioluminescence (\"fire algae\" / night glow) is shown by dinoflagellates like Noctiluca.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.2.2",
+    "neetTrap": "Confusing Red Sea (Trichodesmium, cyanobacteria) with Red Tides (Gonyaulax, dinoflagellate).",
+    "commonMistake": "Stating that dinoflagellates lack a cell wall (they have stiff cellulose plates).",
+    "tags": [
+      "Dinoflagellates",
+      "Gonyaulax",
+      "Red Tides",
+      "Flagella",
+      "Protista"
+    ],
+    "visualDescription": "A microscopic cell with intersecting grooves and 2 flagella, causing waves of crimson red water.",
+    "neetRelevance": "NEET 2019, 2016 questions on Gonyaulax and red tides.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.2.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Red tides in warm marine waters are frequently caused by rapid multiplication of which organism?",
+      "options": [
+        "Euglena",
+        "Diatoms",
+        "Gonyaulax",
+        "Trypanosoma"
+      ],
+      "answerIndex": 2,
+      "explanation": "Red tides are caused by rapid proliferation of red dinoflagellates like Gonyaulax."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-08",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-1",
+    "topicTitle": "Kingdom Protista",
+    "topic": "Euglenoids Features",
+    "mnemonicNumber": 8,
+    "title": "Euglenoids: \"Pellicle Makes Flexible, Mixotrophic, Plant-like Pigments\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Euglena = Protein PELLICLE (No wall) + 1 Long & 1 Short Flagella + MIXOTROPHIC nutrition",
+    "memoryHook": "Euglena is a flexible gymnast wearing a protein Pellicle suit! Photosynthetic in sunlight like a plant, but hunts like a predator in the dark (Mixotrophic)!",
+    "expandedMeaning": "Majority of euglenoids are freshwater organisms found in stagnant water. Instead of a cell wall, they have a protein-rich layer called PELLICLE which makes their body flexible. They have two flagella: a short and a long one. They are photosynthetic in sunlight, but when deprived of sunlight behave like heterotrophs by predating on smaller organisms (mixotrophic).",
+    "fact": "The pigments of euglenoids are IDENTICAL to those present in higher plants (Chlorophyll a and b).",
+    "breakdown": [
+      {
+        "key": "Cell Covering",
+        "label": "PELLICLE: protein-rich layer giving body flexibility (NO cell wall)"
+      },
+      {
+        "key": "Flagella",
+        "label": "2 flagella: one short, one long"
+      },
+      {
+        "key": "Habitat",
+        "label": "Freshwater stagnant water"
+      },
+      {
+        "key": "Nutrition",
+        "label": "Mixotrophic: autotrophic in light, predaceous heterotroph in dark"
+      },
+      {
+        "key": "Pigments",
+        "label": "Identical to higher plants (Chlorophyll a and b)"
+      }
+    ],
+    "doodleBadge": "Pellicle = Flexible | Mixotrophic",
+    "doodleSubtext": "Euglena Adaptations",
+    "explanation": "Euglena represents the evolutionary link between plants and animals.",
+    "whyItWorks": "Highlights the three distinctive hallmarks: Pellicle, 2 unequal flagella, and mixotrophy.",
+    "alsoRemember": "Eye spot or stigma contains astaxanthin to detect light direction (phototaxis).",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.2.3",
+    "neetTrap": "Does Euglena have a cellulosic cell wall? NO, strictly absent; replaced by a proteinaceous pellicle.",
+    "commonMistake": "Believing euglenoid pigments are different from land plants (they are identical).",
+    "tags": [
+      "Euglenoids",
+      "Pellicle",
+      "Mixotrophic",
+      "Flagella",
+      "Protista"
+    ],
+    "visualDescription": "A spindle-shaped green Euglena flexing its body with a long whip-like flagellum protruding from anterior gullet.",
+    "neetRelevance": "NEET 2021, 2017 questions on the protein pellicle and mixotrophic nutrition.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.2.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Instead of a cell wall, euglenoids have a protein-rich flexible layer called:",
+      "options": [
+        "Capsule",
+        "Pellicle",
+        "Theca",
+        "Sheath"
+      ],
+      "answerIndex": 1,
+      "explanation": "Euglenoids lack a cell wall and possess an elastic, proteinaceous pellicle."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-09",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-1",
+    "topicTitle": "Kingdom Protista",
+    "topic": "Slime Moulds Life Cycle",
+    "mnemonicNumber": 9,
+    "title": "Slime Moulds: \"Plasmodium When Happy, Spores With True Walls When Stressed\"",
+    "badgeText": "Memory Trick",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Suitable conditions = PLASMODIUM aggregate | Unfavorable = Fruiting bodies with TRUE-WALLED Spores",
+    "memoryHook": "When life is sweet, slime moulds play together as a giant slimy PLASMODIUM. When conditions get tough, they form fruiting bodies whose spores possess real TRUE WALLS dispersed by air!",
+    "expandedMeaning": "Slime moulds are saprophytic protists moving along decaying twigs engulfing organic material. Under suitable conditions, they form an aggregation called plasmodium which may grow several feet. During unfavorable conditions, the plasmodium differentiates and forms fruiting bodies bearing spores at their tips. The spores possess TRUE walls and are extremely resistant, dispersed by air currents.",
+    "fact": "While the vegetative plasmodium lacks any cell wall, the spores possess TRUE cellulosic walls resistant to adverse conditions for years.",
+    "breakdown": [
+      {
+        "key": "Nature",
+        "label": "Saprophytic protists on decaying vegetation"
+      },
+      {
+        "key": "Suitable conditions",
+        "label": "Form multinucleate slime aggregate called PLASMODIUM"
+      },
+      {
+        "key": "Unfavorable conditions",
+        "label": "Differentiate into fruiting bodies with spores"
+      },
+      {
+        "key": "Spores",
+        "label": "Possess TRUE cell walls, highly resistant, survive for years"
+      },
+      {
+        "key": "Dispersal",
+        "label": "Dispersed by air currents"
+      }
+    ],
+    "doodleBadge": "Plasmodium (Good) → Spores (Tough)",
+    "doodleSubtext": "Slime Mould Strategy",
+    "explanation": "Do not confuse the slime mould plasmodium (lowercase p, aggregation) with the genus Plasmodium (malarial parasite, uppercase P).",
+    "whyItWorks": "Direct contrast of suitable (plasmodium) vs unfavorable (resistant spores with true walls).",
+    "alsoRemember": "Spores are dispersed passively by air currents.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.2.4",
+    "neetTrap": "Do slime moulds have cell walls? In vegetative state: NO. In spore state: YES, true walls!",
+    "commonMistake": "Confusing malarial parasite Plasmodium with slime mould plasmodium stage.",
+    "tags": [
+      "Slime Moulds",
+      "Plasmodium",
+      "Spores",
+      "Saprophytic",
+      "Protista"
+    ],
+    "visualDescription": "A golden slime mass creeping over a rotting log transforming into tiny lollipop-like fruiting bodies.",
+    "neetRelevance": "NEET 2017, 2016 questions on spore wall characteristics and plasmodium aggregation.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.2.4"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following statements is TRUE regarding slime moulds?",
+      "options": [
+        "They are photosynthetic autotrophs",
+        "Their spores lack cell walls and are killed easily",
+        "Under favorable conditions, they form an aggregation called plasmodium",
+        "They are parasitic within human red blood cells"
+      ],
+      "answerIndex": 2,
+      "explanation": "Under favorable conditions, slime moulds aggregate to form a multinucleate mass called a plasmodium."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-10",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-1",
+    "topicTitle": "Kingdom Protista",
+    "topic": "Protozoan 4 Groups & Examples",
+    "mnemonicNumber": 10,
+    "title": "Protozoan 4 Classes: \"A-F-C-S: Amoeba, Flagella, Cilia, Spores\"",
+    "badgeText": "Classification",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Amoeboid (Entamoeba) | Flagellated (Trypanosoma) | Ciliated (Paramoecium) | Sporozoan (Plasmodium)",
+    "memoryHook": "All Fast Creatures Sleep: Amoeboid crawls with pseudopodia, Flagellated swims to sleep (sleeping sickness Trypanosoma), Ciliated gulps food in gullet (Paramoecium), and Sporozoans make infectious spores (Plasmodium malaria)!",
+    "expandedMeaning": "Protozoans are heterotrophs (predators or parasites) believed to be primitive relatives of animals. 4 major groups: 1. Amoeboid (pseudopodia, e.g. Amoeba, parasitic Entamoeba histolytica; marine forms have silica shells). 2. Flagellated (have flagella, parasites cause sleeping sickness, e.g. Trypanosoma). 3. Ciliated (cilia movement, gullet opening, e.g. Paramoecium). 4. Sporozoans (infectious spore-like stage, e.g. Plasmodium).",
+    "fact": "Marine amoeboid forms have silica shells on their surface, exactly like diatoms and radiolarians.",
+    "breakdown": [
+      {
+        "key": "Amoeboid",
+        "label": "Pseudopodia; Amoeba & Entamoeba (causes amoebic dysentery)"
+      },
+      {
+        "key": "Flagellated",
+        "label": "Flagella; Trypanosoma (causes sleeping sickness transmitted by tsetse fly)"
+      },
+      {
+        "key": "Ciliated",
+        "label": "Thousands of cilia & gullet cavity; Paramoecium (coordinated beat)"
+      },
+      {
+        "key": "Sporozoans",
+        "label": "Infectious spore-like stage; Plasmodium (causes malaria)"
+      }
+    ],
+    "doodleBadge": "A-F-C-S Protozoans",
+    "doodleSubtext": "Locomotion Modes",
+    "explanation": "Paramoecium exhibits nuclear dimorphism: a large macronucleus (vegetative) and a small micronucleus (reproductive).",
+    "whyItWorks": "Pairs the 4 protozoan classes directly with their hallmark locomotion and disease example.",
+    "alsoRemember": "Entamoeba histolytica causes amoebiasis; Trypanosoma gambiense causes African sleeping sickness.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.2.5",
+    "neetTrap": "NEET questions ask which protozoan has a gullet opening. It is Ciliated Paramoecium.",
+    "commonMistake": "Classifying Plasmodium as an amoeboid protozoan (it is a Sporozoan).",
+    "tags": [
+      "Protozoa",
+      "Amoeboid",
+      "Trypanosoma",
+      "Paramoecium",
+      "Plasmodium"
+    ],
+    "visualDescription": "Four protozoans side by side: Entamoeba with pseudopodia, Trypanosoma with flagellum, Paramoecium with cilia, and Plasmodium sporozoite.",
+    "neetRelevance": "Match the following questions in NEET 2021, 2018 on protozoan types and diseases.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.2.5"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following protozoans moves food into its gullet using coordinated ciliary movements?",
+      "options": [
+        "Entamoeba",
+        "Trypanosoma",
+        "Paramoecium",
+        "Plasmodium"
+      ],
+      "answerIndex": 2,
+      "explanation": "Paramoecium uses coordinated water currents produced by thousands of cilia to steer food into its gullet."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-11",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-2",
+    "topicTitle": "Kingdom Fungi",
+    "topic": "Phycomycetes (Algal Fungi)",
+    "mnemonicNumber": 11,
+    "title": "Phycomycetes: \"R-A-M: Rhizopus, Albugo, Mucor with Aseptate Mycelium\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "RAM = Rhizopus (Bread mould) + Albugo (Mustard white rust) + Mucor",
+    "memoryHook": "Phyco RAM: Rhizopus, Albugo, and Mucor are the lower fungi! Their mycelium is ASEPTATE and COENOCYTIC (no cross walls, multi-nucleated). Spores are produced endogenously in sporangia!",
+    "expandedMeaning": "Phycomycetes are found in aquatic habitats and on decaying wood in moist places or as obligate parasites on plants. Mycelium is aseptate and coenocytic. Asexual reproduction takes place by zoospores (motile) or aplanospores (non-motile), produced endogenously in sporangium. Zygospore is formed by fusion of two gametes (isogamous or anisogamous/oogamous). Examples: Mucor, Rhizopus, Albugo.",
+    "fact": "Phycomycetes is the ONLY fungal class with aseptate, coenocytic mycelium. All other three fungal classes (Ascomycetes, Basidiomycetes, Deuteromycetes) have septate, branched mycelium.",
+    "breakdown": [
+      {
+        "key": "Mycelium",
+        "label": "ASEPTATE and COENOCYTIC (no septa, multinucleate tube)"
+      },
+      {
+        "key": "Asexual spores",
+        "label": "Zoospores (motile) & Aplanospores (non-motile) produced ENDOGENOUSLY in sporangium"
+      },
+      {
+        "key": "Rhizopus",
+        "label": "Bread mould"
+      },
+      {
+        "key": "Albugo",
+        "label": "Parasitic fungi on mustard (causes white rust)"
+      },
+      {
+        "key": "Mucor",
+        "label": "Pin mould"
+      }
+    ],
+    "doodleBadge": "RAM: Rhizopus, Albugo, Mucor",
+    "doodleSubtext": "Aseptate Coenocytic",
+    "explanation": "Aseptate means continuous tubular hyphae filled with multinucleated cytoplasm.",
+    "whyItWorks": "RAM acronym is the most famous NEET trick for Phycomycetes examples.",
+    "alsoRemember": "Albugo candida causes white rust of crucifers (mustard).",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.3.1",
+    "neetTrap": "Are spores in Phycomycetes endogenous or exogenous? ENDOGENOUS in sporangium (Ascomycetes conidia are exogenous!).",
+    "commonMistake": "Thinking Ascomycetes has coenocytic hyphae (only Phycomycetes is coenocytic).",
+    "tags": [
+      "Phycomycetes",
+      "Rhizopus",
+      "Albugo",
+      "Mucor",
+      "Coenocytic",
+      "Fungi"
+    ],
+    "visualDescription": "A ram head icon next to bread mould (Rhizopus) and a mustard leaf with white spots (Albugo).",
+    "neetRelevance": "NEET 2020, 2018, 2017 questions on coenocytic mycelium and Albugo.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.3.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Aseptate and coenocytic mycelium is characteristic of which fungal class?",
+      "options": [
+        "Ascomycetes",
+        "Basidiomycetes",
+        "Phycomycetes",
+        "Deuteromycetes"
+      ],
+      "answerIndex": 2,
+      "explanation": "Phycomycetes possess continuous multinucleate hyphae without septa (aseptate and coenocytic)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-12",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-2",
+    "topicTitle": "Kingdom Fungi",
+    "topic": "Ascomycetes (Sac Fungi) Examples",
+    "mnemonicNumber": 12,
+    "title": "Ascomycetes: \"CAN P-Y-M-T: Claviceps, Aspergillus, Neurospora, Penicillium, Yeast, Morels, Truffles\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "CAN PYMT: Claviceps + Aspergillus + Neurospora + Penicillium + Yeast + Morels & Truffles",
+    "memoryHook": "CAN Peter Yield More Truffles? Claviceps (ergot), Aspergillus, Neurospora (genetic Drosophila of plant kingdom), Penicillium, Yeast (unicellular!), and delicious Morels & Truffles are all Sac Fungi!",
+    "expandedMeaning": "Ascomycetes (sac-fungi) are mostly multicellular (Penicillium) or rarely unicellular (Yeast / Saccharomyces). Saprophytic, decomposers, parasitic or coprophilous (growing on dung). Mycelium is branched and septate. Asexual spores are CONIDIA produced EXOGENOUSLY on conidiophores. Sexual spores are ASCOSPORES produced ENDOGENOUSLY in sac-like asci arranged in ascocarps.",
+    "fact": "Neurospora is extensively used in biochemical and genetic work (often called the Drosophila of the plant kingdom). Morels and truffles are edible delicacies.",
+    "breakdown": [
+      {
+        "key": "Conidia",
+        "label": "Asexual, produced EXOGENOUSLY on conidiophores"
+      },
+      {
+        "key": "Ascospores",
+        "label": "Sexual, produced ENDOGENOUSLY in sac-like asci"
+      },
+      {
+        "key": "Yeast",
+        "label": "Saccharomyces: unicellular ascomycete"
+      },
+      {
+        "key": "Neurospora",
+        "label": "Used in genetic and biochemical research"
+      },
+      {
+        "key": "Morels & Truffles",
+        "label": "Edible delicacies (ascomycetes)"
+      }
+    ],
+    "doodleBadge": "Conidia = Exogenous | Ascospores = Endogenous",
+    "doodleSubtext": "Ascomycete Spore Rule",
+    "explanation": "Coprophilous fungi grow specifically on animal dung.",
+    "whyItWorks": "Directly clarifies the spore locations: asexual conidia = outside (exogenous), sexual ascospores = inside sac (endogenous).",
+    "alsoRemember": "Claviceps purpurea causes ergot disease of rye.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.3.2",
+    "neetTrap": "Are conidia endogenous or exogenous? EXOGENOUS! Are ascospores endogenous or exogenous? ENDOGENOUS in asci!",
+    "commonMistake": "Labeling yeast as a primitive phycomycete (it is an ascomycete).",
+    "tags": [
+      "Ascomycetes",
+      "Neurospora",
+      "Yeast",
+      "Penicillium",
+      "Conidia",
+      "Asci"
+    ],
+    "visualDescription": "A sac holding 8 ascospores inside, with chains of external conidia budding outside.",
+    "neetRelevance": "NEET 2021, 2019, 2015 questions on Neurospora and conidia formation.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.3.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which fungus is used extensively in biochemical and genetic research?",
+      "options": [
+        "Claviceps",
+        "Neurospora",
+        "Rhizopus",
+        "Puccinia"
+      ],
+      "answerIndex": 1,
+      "explanation": "Neurospora is an ascomycete used widely as a model organism in genetics and biochemistry."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-13",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-2",
+    "topicTitle": "Kingdom Fungi",
+    "topic": "Basidiomycetes (Club Fungi)",
+    "mnemonicNumber": 13,
+    "title": "Basidiomycetes: \"PUA: Puccinia (Rust), Ustilago (Smut), Agaricus (Mushroom)\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "PUA = Puccinia (Wheat Rust) + Ustilago (Smut) + Agaricus (Edible Mushroom)",
+    "memoryHook": "Pick Up Agaricus! Puccinia causes rust, Ustilago causes smut, Agaricus is the mushroom on your pizza. In club fungi, sex organs are ABSENT, but somatogamy produces basidiospores EXOGENOUSLY on basidia!",
+    "expandedMeaning": "Basidiomycetes include mushrooms, bracket fungi, or puffballs. Mycelium is branched and septate. Asexual spores are generally NOT found. Vegetative reproduction by fragmentation is common. Sex organs are absent, but plasmogamy occurs by fusion of two vegetative cells (somatogamy) creating a dikaryotic basidium. Karyogamy and meiosis produce FOUR basidiospores EXOGENOUSLY on the basidium.",
+    "fact": "Basidiospores are produced EXOGENOUSLY (outside) on the sterigmata of the basidium, unlike ascospores which are produced endogenously.",
+    "breakdown": [
+      {
+        "key": "Asexual spores",
+        "label": "Generally NOT found"
+      },
+      {
+        "key": "Sex organs",
+        "label": "Completely ABSENT (somatogamy occurs)"
+      },
+      {
+        "key": "Basidiospores",
+        "label": "Four spores produced EXOGENOUSLY on basidium"
+      },
+      {
+        "key": "Puccinia",
+        "label": "Rust fungus (e.g. Puccinia graminis tritici wheat rust)"
+      },
+      {
+        "key": "Ustilago",
+        "label": "Smut fungus"
+      },
+      {
+        "key": "Agaricus",
+        "label": "Common edible mushroom"
+      }
+    ],
+    "doodleBadge": "PUA: Puccinia, Ustilago, Agaricus",
+    "doodleSubtext": "Exogenous Basidiospores",
+    "explanation": "Basidiocarps are the macroscopic fruiting bodies commonly seen as mushrooms or bracket fungi.",
+    "whyItWorks": "PUA covers the 3 critical exam examples, while \"Exogenous 4 spores\" nails the mechanism.",
+    "alsoRemember": "Clamp connections are characteristic features of the secondary mycelium of Basidiomycetes.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.3.3",
+    "neetTrap": "Are sex organs present in Basidiomycetes? NO, sex organs are absent; plasmogamy is accomplished by somatogamy.",
+    "commonMistake": "Thinking basidiospores are formed endogenously like ascospores (they are EXOGENOUS).",
+    "tags": [
+      "Basidiomycetes",
+      "Agaricus",
+      "Puccinia",
+      "Ustilago",
+      "Rust",
+      "Smut"
+    ],
+    "visualDescription": "A classic umbrella mushroom (Agaricus) showing gills underneath with tiny club-like basidia bearing 4 exterior spores.",
+    "neetRelevance": "NEET 2020, 2019 questions on Puccinia rust, Ustilago smut, and absence of sex organs.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.3.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following statements is true regarding Basidiomycetes?",
+      "options": [
+        "Asexual spores are very common",
+        "Sex organs are well developed with antheridia and oogonia",
+        "Basidiospores are produced exogenously on the basidium",
+        "Mycelium is coenocytic and aseptate"
+      ],
+      "answerIndex": 2,
+      "explanation": "In Basidiomycetes, four basidiospores are produced exogenously following meiosis on the basidium."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-14",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-2",
+    "topicTitle": "Kingdom Fungi",
+    "topic": "Deuteromycetes (Imperfect Fungi)",
+    "mnemonicNumber": 14,
+    "title": "Deuteromycetes: \"C-A-T: Colletotrichum, Alternaria, Trichoderma (No Sex Known)\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "CAT = Colletotrichum (Red rot of sugarcane) + Alternaria (Early blight) + Trichoderma (Biocontrol)",
+    "memoryHook": "The imperfect CAT has no sexual cycle! Deuteromycetes only show asexual reproduction by CONIDIA. Once the sexual stage is discovered, they are promoted into Ascomycetes or Basidiomycetes!",
+    "expandedMeaning": "Deuteromycetes are called imperfect fungi because only the asexual or vegetative phases are known. When sexual forms are discovered, they are moved into Ascomycetes or Basidiomycetes. Reproduce only by asexual spores known as conidia. Mycelium is septate and branched. Many are decomposers of litter helping in mineral cycling. Examples: Alternaria, Colletotrichum, Trichoderma.",
+    "fact": "Trichoderma polysporum produces Cyclosporin A (immunosuppressive drug in organ transplantation, Class 12 Chapter 10). Colletotrichum falcatum causes red rot of sugarcane.",
+    "breakdown": [
+      {
+        "key": "Imperfect status",
+        "label": "Sexual stage unknown or absent"
+      },
+      {
+        "key": "Reproduction",
+        "label": "Exclusively asexual via conidia"
+      },
+      {
+        "key": "Ecological role",
+        "label": "Decomposers of litter, active in mineral cycling"
+      },
+      {
+        "key": "Colletotrichum",
+        "label": "Causes red rot of sugarcane"
+      },
+      {
+        "key": "Alternaria",
+        "label": "Alternaria solani causes early blight of potato"
+      },
+      {
+        "key": "Trichoderma",
+        "label": "Free-living soil fungus used as biocontrol"
+      }
+    ],
+    "doodleBadge": "CAT: Colletotrichum, Alternaria, Trichoderma",
+    "doodleSubtext": "Fungi Imperfecti",
+    "explanation": "If a deuteromycete reproduces sexually, it is reclassified based on whether it forms asci or basidia.",
+    "whyItWorks": "CAT is the classic 3-letter acronym for all 3 NCERT Deuteromycetes examples.",
+    "alsoRemember": "Large number of Deuteromycetes are decomposers of litter and help in mineral cycling.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.3.4",
+    "neetTrap": "Which spores are produced in Deuteromycetes? ONLY CONIDIA. No zoospores, no ascospores, no basidiospores.",
+    "commonMistake": "Placing Albugo in Deuteromycetes (Albugo is a Phycomycete).",
+    "tags": [
+      "Deuteromycetes",
+      "Alternaria",
+      "Colletotrichum",
+      "Trichoderma",
+      "Conidia"
+    ],
+    "visualDescription": "A cat sitting next to a sugarcane stem with red rot and potato leaves with early blight rings.",
+    "neetRelevance": "NEET 2020, 2019, 2016 questions on Deuteromycetes examples and absence of sexual stages.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.3.4"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following sets of fungi belongs to the class Deuteromycetes?",
+      "options": [
+        "Mucor, Rhizopus, Albugo",
+        "Alternaria, Colletotrichum, Trichoderma",
+        "Puccinia, Ustilago, Agaricus",
+        "Penicillium, Aspergillus, Neurospora"
+      ],
+      "answerIndex": 1,
+      "explanation": "Alternaria, Colletotrichum, and Trichoderma are the three standard examples of Deuteromycetes in NCERT."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-15",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-3",
+    "topicTitle": "Lichens and Mycorrhizae",
+    "topic": "Lichen Symbiosis & Pollution Sensitivity",
+    "mnemonicNumber": 15,
+    "title": "Lichens: \"Phyco-Cooks Food, Myco-Provides Shelter, SO2 Kills Them\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Algae (Phycobiont) Prepares Food | Fungi (Mycobiont) Gives Shelter & Minerals | Pollution Indicators (No SO2!)",
+    "memoryHook": "The Phycobiont wife cooks food through photosynthesis; the Mycobiont husband builds the shelter and fetches water & minerals! They refuse to live in smoggy pollution (SO2 indicators)!",
+    "expandedMeaning": "Lichens are symbiotic associations between algae (phycobiont) and fungi (mycobiont). Algae prepare food for fungi and fungi provide shelter and absorb mineral nutrients and water for its partner. Lichens are very good pollution indicators: they do NOT grow in polluted areas (especially sensitive to sulfur dioxide SO2).",
+    "fact": "Lichens are pioneer colonizers on bare rock (lithosere) in ecological succession, secreting carbonic acids that weather rock into soil.",
+    "breakdown": [
+      {
+        "key": "Phycobiont",
+        "label": "Algal component: Autotrophic, synthesizes food"
+      },
+      {
+        "key": "Mycobiont",
+        "label": "Fungal component: Heterotrophic, absorbs water/minerals & provides shelter"
+      },
+      {
+        "key": "Pollution indicator",
+        "label": "Highly sensitive to air pollution; completely absent in SO2-polluted cities"
+      },
+      {
+        "key": "Pioneers",
+        "label": "Pioneer species on bare rocks in primary xerarch succession"
+      }
+    ],
+    "doodleBadge": "Phyco = Food | Myco = Shelter | SO2 = Dead",
+    "doodleSubtext": "Lichen Symbiosis",
+    "explanation": "Their association is so close that seeing a lichen in nature, one would never imagine they are two distinct organisms.",
+    "whyItWorks": "Clear role-division between phycobiont and mycobiont plus the SO2 pollution marker.",
+    "alsoRemember": "Litmus dye used in pH indicators is extracted from the lichen Roccella tinctoria.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.6",
+    "neetTrap": "Which partner makes up the majority of the lichen thallus? The FUNGUS (Mycobiont forms up to 95% of bulk).",
+    "commonMistake": "Stating that lichens thrive near industrial smokestacks (they die immediately from SO2).",
+    "tags": [
+      "Lichens",
+      "Phycobiont",
+      "Mycobiont",
+      "SO2 Pollution",
+      "Symbiosis"
+    ],
+    "visualDescription": "A gray-green lichen crust clinging to a clean woodland rock with a red slash through an industrial smokestack.",
+    "neetRelevance": "NEET 2019, 2015 questions on air pollution bioindicators and algal-fungal partner roles.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.6"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Lichens are well known as sensitive bioindicators of air pollution because they:",
+      "options": [
+        "Grow rapidly in the presence of heavy metals",
+        "Cannot grow in areas with sulfur dioxide (SO2) pollution",
+        "Produce bright flowers when carbon monoxide is high",
+        "Feed exclusively on automobile exhaust fumes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Lichens are extremely sensitive to SO2 pollution and cannot survive in polluted urban/industrial areas."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-16",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-3",
+    "topicTitle": "Viruses",
+    "topic": "Four Virus Scientists",
+    "mnemonicNumber": 16,
+    "title": "Virus Scientists: \"P-Name, I-Discover, B-Fluid, S-Crystals\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Pasteur Named | Ivanowsky Discovered TMV | Beijerinck called Contagium Vivum Fluidum | Stanley Crystallized",
+    "memoryHook": "Please Inspect Biological Specimens! Pasteur gave the name Venom/Virus. Ivanowsky discovered TMV smaller than bacteria. Beijerinck called the infected sap Contagium Vivum Fluidum. Stanley made shiny crystals!",
+    "expandedMeaning": "1. Louis Pasteur gave the name virus (meaning venom or poisonous fluid). 2. D.J. Ivanowsky (1892) recognized microbes causing tobacco mosaic disease that passed through bacteria-proof filters. 3. M.W. Beijerinck (1898) demonstrated extract of infected tobacco plants could infect healthy plants, calling the living infectious fluid \"Contagium vivum fluidum\". 4. W.M. Stanley (1935) showed that viruses could be crystallized, consisting largely of proteins.",
+    "fact": "Viruses are obligate intracellular parasites: inert crystalline structure outside the living cell, but once they infect a host, they take over machinery to replicate, killing the host.",
+    "breakdown": [
+      {
+        "key": "Pasteur",
+        "label": "Coined name \"virus\" meaning venom or poisonous fluid"
+      },
+      {
+        "key": "Ivanowsky (1892)",
+        "label": "Discovered TMV smaller than bacteria (passed through bacterial filter)"
+      },
+      {
+        "key": "Beijerinck (1898)",
+        "label": "Coined \"Contagium vivum fluidum\" (living infectious fluid)"
+      },
+      {
+        "key": "Stanley (1935)",
+        "label": "First crystallized viruses (mostly proteins)"
+      }
+    ],
+    "doodleBadge": "P-Name | I-Found | B-Fluid | S-Crystal",
+    "doodleSubtext": "4 Virus Pioneers",
+    "explanation": "Viruses did not find a place in classification since they are not truly \"living\" if we understand life as cellular structure.",
+    "whyItWorks": "Direct 1-to-1 match for the 4 scientists and their exact contributions in NCERT.",
+    "alsoRemember": "Viruses contain either RNA or DNA; NO virus contains BOTH RNA and DNA.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.6",
+    "neetTrap": "Questions matching Beijerinck with crystals. STANLEY crystallized viruses; BEIJERINCK coined Contagium vivum fluidum.",
+    "commonMistake": "Confusing Ivanowsky with the discovery of Viroids (Diener discovered Viroids).",
+    "tags": [
+      "Viruses",
+      "Pasteur",
+      "Ivanowsky",
+      "Beijerinck",
+      "Stanley",
+      "TMV"
+    ],
+    "visualDescription": "Four scientist portraits labeled with a poison flask (Pasteur), tobacco leaf (Ivanowsky), glowing fluid bottle (Beijerinck), and crystal cubes (Stanley).",
+    "neetRelevance": "Match the following question in NEET 2020, 2018, 2015 on the 4 virus pioneers.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.6"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Who demonstrated that the extract of infected tobacco plants could cause infection in healthy plants and named the fluid \"Contagium vivum fluidum\"?",
+      "options": [
+        "D.J. Ivanowsky",
+        "M.W. Beijerinck",
+        "W.M. Stanley",
+        "T.O. Diener"
+      ],
+      "answerIndex": 1,
+      "explanation": "M.W. Beijerinck (1898) called the infectious extract \"Contagium vivum fluidum\" (living infectious fluid)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-17",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-3",
+    "topicTitle": "Viruses",
+    "topic": "Viral Nucleic Acids",
+    "mnemonicNumber": 17,
+    "title": "Viral Genomes: \"Plants = ssRNA | Phages = dsDNA | Animals = Any (ssRNA, dsRNA, dsDNA)\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Plant Viruses = single-stranded RNA | Bacteriophages = double-stranded DNA | Animal Viruses = ssRNA, dsRNA, or dsDNA",
+    "memoryHook": "Green Leaves have Single Ribs (Plant = ssRNA). Phages kill bacteria with Double Daggers (Bacteriophage = dsDNA). Animal viruses use any weapon in the arsenal!",
+    "expandedMeaning": "In general, viruses that infect plants have single stranded RNA (ssRNA). Viruses that infect animals have either single or double stranded RNA, or double stranded DNA. Bacterial viruses or bacteriophages (viruses that infect bacteria) are usually double stranded DNA (dsDNA) viruses.",
+    "fact": "The protein coat of viruses is called CAPSID, made of small subunits called CAPSOMERES arranged in helical or polyhedral geometric forms.",
+    "breakdown": [
+      {
+        "key": "Plant viruses",
+        "label": "Single-stranded RNA (ssRNA) (e.g. TMV)"
+      },
+      {
+        "key": "Bacteriophages",
+        "label": "Double-stranded DNA (dsDNA) (e.g. T4 phage)"
+      },
+      {
+        "key": "Animal viruses",
+        "label": "ssRNA, dsRNA, or dsDNA (e.g. Retrovirus has ssRNA, Herpes has dsDNA)"
+      },
+      {
+        "key": "Universal Rule",
+        "label": "NO virus contains BOTH DNA and RNA simultaneously"
+      }
+    ],
+    "doodleBadge": "Plant = ssRNA | Phage = dsDNA",
+    "doodleSubtext": "Viral Genetic Code",
+    "explanation": "The genetic material of a virus is infectious. Capsid protects the nucleic acid.",
+    "whyItWorks": "Directly maps host type to the expected genome configuration from NCERT text.",
+    "alsoRemember": "TMV has a single stranded RNA genome wrapped in 2130 capsomeres.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.6",
+    "neetTrap": "Does any virus have both DNA and RNA? ABSOLUTELY NEVER. Only one type is present.",
+    "commonMistake": "Assuming bacteriophages contain RNA (typical bacteriophages have dsDNA).",
+    "tags": [
+      "Viruses",
+      "ssRNA",
+      "dsDNA",
+      "Bacteriophage",
+      "Capsomeres"
+    ],
+    "visualDescription": "A tobacco leaf with a single red RNA ribbon, alongside a lunar-lander bacteriophage holding a blue double DNA helix.",
+    "neetRelevance": "NEET 2021, 2017 questions testing the genetic material of plant viruses and bacteriophages.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.6"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Bacteriophages, the viruses that infect bacteria, usually possess which type of genetic material?",
+      "options": [
+        "Single-stranded RNA",
+        "Double-stranded DNA",
+        "Double-stranded RNA",
+        "Single-stranded DNA"
+      ],
+      "answerIndex": 1,
+      "explanation": "According to NCERT, bacterial viruses (bacteriophages) usually possess double-stranded DNA (dsDNA)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-18",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-3",
+    "topicTitle": "Viroids & Prions",
+    "topic": "Viroids Discovery & Nature",
+    "mnemonicNumber": 18,
+    "title": "Viroids: \"Diener 1971: Naked RNA, Low MW, No Protein Coat, Potato Spindle\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Viroid = Naked Free RNA + Low Molecular Weight + NO Protein Coat + Discovered by T.O. Diener (1971)",
+    "memoryHook": "Diener ate naked Potato: T.O. Diener (1971) found naked free RNA with low molecular weight causing Potato Spindle Tuber disease! Smaller than viruses because it lacks a protein coat!",
+    "expandedMeaning": "In 1971, T.O. Diener discovered a new infectious agent smaller than viruses that caused potato spindle tuber disease. It was found to be a free RNA; it lacked the protein coat that is found in viruses, hence the name viroid. The RNA of the viroid was of low molecular weight.",
+    "fact": "Viroids consist strictly of short circular or linear single-stranded RNA molecules without any capsid protein whatsoever.",
+    "breakdown": [
+      {
+        "key": "Discoverer",
+        "label": "T.O. Diener in 1971"
+      },
+      {
+        "key": "Composition",
+        "label": "Free naked RNA (NO protein coat)"
+      },
+      {
+        "key": "Molecular weight",
+        "label": "LOW molecular weight RNA"
+      },
+      {
+        "key": "Disease",
+        "label": "Potato Spindle Tuber Disease (PSTD)"
+      },
+      {
+        "key": "Size comparison",
+        "label": "Smaller than viruses"
+      }
+    ],
+    "doodleBadge": "Free RNA | Low MW | Diener 1971",
+    "doodleSubtext": "Viroid Hallmarks",
+    "explanation": "The name \"viroid\" means virus-like, but distinguishes it due to total absence of protein encapsulation.",
+    "whyItWorks": "Directly binds the 4 critical facts: Diener, Potato spindle, Free RNA, and Low MW.",
+    "alsoRemember": "Viroids have only been confirmed to cause plant diseases.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.6",
+    "neetTrap": "Options describing viroids with \"high molecular weight RNA\" or \"protein coat present\". It is strictly LOW molecular weight RNA and NO protein coat!",
+    "commonMistake": "Selecting high molecular weight RNA.",
+    "tags": [
+      "Viroids",
+      "T.O. Diener",
+      "Potato Spindle Tuber",
+      "Free RNA",
+      "Low MW"
+    ],
+    "visualDescription": "A wrinkled, elongated potato next to a free strand of naked RNA glowing without any protective shell.",
+    "neetRelevance": "NEET 2020, 2017, 2016 repeatedly tested the definition of viroids.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.6"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following statements about viroids is correct?",
+      "options": [
+        "They have a protein coat called capsid surrounding DNA",
+        "They were discovered by Stanley and have high molecular weight RNA",
+        "They consist of free RNA of low molecular weight and lack a protein coat",
+        "They cause Mad Cow disease in cattle"
+      ],
+      "answerIndex": 2,
+      "explanation": "Viroids discovered by T.O. Diener are free RNA of low molecular weight lacking a protein coat."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-19",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-3",
+    "topicTitle": "Viroids & Prions",
+    "topic": "Prions Structure & Diseases",
+    "mnemonicNumber": 19,
+    "title": "Prions: \"Folded Protein Gone Rogue: Mad Cow (BSE) & Cr-Jacob (CJD)\"",
+    "badgeText": "Concept Rule",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Prion = Abnormally Folded PROTEIN (No Nucleic Acid) → Mad Cow (BSE) & Cr-Jacob (CJD)",
+    "memoryHook": "Prions are purely Protein! Abnormally folded protein molecules similar in size to viruses cause Mad Cow disease (BSE) in cattle and Creutzfeldt-Jakob disease (CJD) in humans!",
+    "expandedMeaning": "In modern medicine, certain neurological diseases were found to be transmitted by an agent consisting of abnormally folded protein. The agent was similar in size to viruses. These agents were called prions. The most notable diseases caused by prions are bovine spongiform encephalopathy (BSE) commonly called mad cow disease in cattle and its analogous variant Cr-Jacob disease (CJD) in humans.",
+    "fact": "Prions contain NO nucleic acid (neither DNA nor RNA) and are resistant to standard autoclaving, UV radiation, and proteases.",
+    "breakdown": [
+      {
+        "key": "Nature",
+        "label": "Infectious abnormally folded PROTEIN (NO DNA / NO RNA)"
+      },
+      {
+        "key": "Size",
+        "label": "Similar in size to typical viruses"
+      },
+      {
+        "key": "Cattle disease",
+        "label": "Bovine Spongiform Encephalopathy (BSE) / Mad Cow Disease"
+      },
+      {
+        "key": "Human disease",
+        "label": "Cr-Jacob Disease (CJD) / Kuru disease (laughing death)"
+      }
+    ],
+    "doodleBadge": "Prion = Misfolded Protein | BSE & CJD",
+    "doodleSubtext": "Proteinaceous Infection",
+    "explanation": "Stanley Prusiner was awarded the Nobel Prize for discovering that proteins alone can transmit infectious diseases.",
+    "whyItWorks": "Prion starts with P for Protein, linking directly to BSE and CJD.",
+    "alsoRemember": "BSE and CJD turn brain tissue into a sponge-like appearance (spongiform encephalopathy).",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.6",
+    "neetTrap": "Questions asking if prions have RNA. Prions have ZERO nucleic acid.",
+    "commonMistake": "Confusing viroids (RNA only) with prions (protein only).",
+    "tags": [
+      "Prions",
+      "BSE",
+      "Mad Cow Disease",
+      "CJD",
+      "Misfolded Protein"
+    ],
+    "visualDescription": "A tangled red protein ribbon next to a silhouette of a cow head and brain with microscopic sponge pores.",
+    "neetRelevance": "NEET 2020, 2019 direct questions on prions, BSE, and CJD.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.6"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Bovine spongiform encephalopathy (BSE), commonly called mad cow disease, is caused by:",
+      "options": [
+        "Viroids with low molecular weight RNA",
+        "Prions consisting of abnormally folded protein",
+        "Bacteriophages with dsDNA",
+        "Gram-negative bacteria"
+      ],
+      "answerIndex": 1,
+      "explanation": "BSE (mad cow disease) is caused by prions, which are infectious abnormally folded proteins."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch02-20",
+    "subject": "biology",
+    "chapterId": "bio-ch-02",
+    "chapterNumber": 2,
+    "chapterTitle": "Biological Classification",
+    "topicId": "bio-top-2-2",
+    "topicTitle": "Kingdom Fungi",
+    "topic": "Fungi Sexual Reproduction Steps",
+    "mnemonicNumber": 20,
+    "title": "Fungi Sex Steps: \"P-K-M: Plasmogamy, Karyogamy, Meiosis\"",
+    "badgeText": "Sequence Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "P-K-M: Plasmogamy (Cytoplasm fuses) → Karyogamy (Nuclei fuse) → Meiosis (Haploid spores)",
+    "memoryHook": "Please Kiss Me: First the Cytoplasm touches (Plasmogamy), then the Nuclei marry (Karyogamy), and finally Meiosis resets to haploid spores! In Ascomycetes and Basidiomycetes, a Dikaryon (n+n) delay occurs!",
+    "expandedMeaning": "The sexual cycle in fungi involves three sequential steps: 1. Plasmogamy: Fusion of protoplasms between two motile or non-motile gametes. 2. Karyogamy: Fusion of two nuclei. 3. Meiosis in zygote resulting in haploid spores. In Ascomycetes and Basidiomycetes, an intervening dikaryotic stage (n + n, two nuclei per cell) occurs, called a dikaryon, and the phase is called dikaryophase.",
+    "fact": "Dikaryophase (n+n) is characteristic of Ascomycetes and Basidiomycetes, but ABSENT in Phycomycetes where zygote (2n) forms immediately.",
+    "breakdown": [
+      {
+        "key": "Step 1: Plasmogamy",
+        "label": "Fusion of protoplasts without nuclear fusion"
+      },
+      {
+        "key": "Dikaryon phase (n+n)",
+        "label": "Occurs in Ascomycetes & Basidiomycetes (two unfused nuclei per cell)"
+      },
+      {
+        "key": "Step 2: Karyogamy",
+        "label": "Fusion of two haploid nuclei into diploid zygote (2n)"
+      },
+      {
+        "key": "Step 3: Meiosis",
+        "label": "Reduction division in zygote to produce haploid spores"
+      }
+    ],
+    "doodleBadge": "Plasmogamy → Karyogamy → Meiosis",
+    "doodleSubtext": "Fungal Sexual Cycle",
+    "explanation": "Later, the parental nuclei fuse and the cells become diploid. The fungi form fruiting bodies in which reduction division occurs.",
+    "whyItWorks": "P-K-M sequence gives the unshakeable chronological order of fungal sexual reproduction.",
+    "alsoRemember": "Dikaryon condition (n + n) is unique to higher fungi.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 2, Section 2.3",
+    "neetTrap": "Does dikaryophase occur in Phycomycetes? NO! Only in Ascomycetes and Basidiomycetes.",
+    "commonMistake": "Reversing Karyogamy and Plasmogamy in chronological order.",
+    "tags": [
+      "Plasmogamy",
+      "Karyogamy",
+      "Meiosis",
+      "Dikaryon",
+      "Fungi"
+    ],
+    "visualDescription": "Three-frame progression: cell fusion (plasmogamy), nuclear fusion (karyogamy), and tetrad haploid spore formation (meiosis).",
+    "neetRelevance": "NEET 2019, 2018 questions on dikaryotic stage and sequence of sexual steps.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 2.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which is the correct chronological sequence of events in the sexual reproduction of fungi?",
+      "options": [
+        "Karyogamy → Plasmogamy → Meiosis",
+        "Plasmogamy → Karyogamy → Meiosis",
+        "Meiosis → Plasmogamy → Karyogamy",
+        "Karyogamy → Meiosis → Plasmogamy"
+      ],
+      "answerIndex": 1,
+      "explanation": "The three sequential steps in fungal sexual reproduction are Plasmogamy (protoplast fusion), Karyogamy (nuclear fusion), and Meiosis."
+    }
+  }
+];
