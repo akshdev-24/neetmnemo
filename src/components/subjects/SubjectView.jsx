@@ -207,15 +207,26 @@ export function SubjectView({
       {activeTab === 'mnemonics' && (
         <section className="grid grid-cols-1 md:grid-cols-2 gap-4" aria-label="All Subject Mnemonics">
           <h2 className="sr-only">All {subject.name} Mnemonics</h2>
-          {subjectMnemonics.map((mnemo) => (
-            <MnemonicCard
-              key={mnemo.id}
-              mnemonic={mnemo}
-              isFavorite={favorites.includes(mnemo.id)}
-              onToggleFavorite={onToggleFavorite}
-              onOpenDetail={onSelectMnemonic}
-            />
-          ))}
+          {subjectMnemonics.length > 0 ? (
+            subjectMnemonics.map((mnemo) => (
+              <MnemonicCard
+                key={mnemo.id}
+                mnemonic={mnemo}
+                isFavorite={favorites.includes(mnemo.id)}
+                onToggleFavorite={onToggleFavorite}
+                onOpenDetail={onSelectMnemonic}
+              />
+            ))
+          ) : (
+            <div className="col-span-full p-8 rounded-3xl bg-white border-2 border-dashed border-[#243044]/30 text-center space-y-2">
+              <p className="font-title text-sm font-bold text-[#243044]">
+                No mnemonics available in this subject yet
+              </p>
+              <p className="text-xs text-[#667085]">
+                Explore chapter topics or practice recall questions!
+              </p>
+            </div>
+          )}
         </section>
       )}
 

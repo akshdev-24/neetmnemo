@@ -220,7 +220,30 @@ export function RevisionModeView({
     );
   }
 
-  // 3. ACTIVE FLASHCARD REVISION SCREEN
+  // 3. EMPTY CARDS SCREEN
+  if (sprintCards.length === 0) {
+    return (
+      <div className="max-w-md mx-auto py-12 px-4 text-center space-y-6">
+        <div className="p-8 rounded-3xl bg-white border-2 border-[#243044] shadow-sketch space-y-4">
+          <DoodleBrainMascot className="w-28 h-28 mx-auto" />
+          <h2 className="font-title text-2xl font-bold text-[#243044]">
+            No Cards in this Sprint
+          </h2>
+          <p className="text-xs text-[#667085] font-sans">
+            There are currently no mnemonics available for the <strong className="text-[#243044]">{activeSet?.title || 'selected'}</strong> deck.
+          </p>
+          <button
+            onClick={() => setActiveSetId(null)}
+            className="w-full py-2.5 rounded-2xl bg-[#243044] text-white font-title text-xs font-bold hover:bg-[#344259] transition-all"
+          >
+            Choose Another Sprint
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  // 4. ACTIVE FLASHCARD REVISION SCREEN
   return (
     <div className="max-w-2xl mx-auto py-6 px-4 space-y-6">
       

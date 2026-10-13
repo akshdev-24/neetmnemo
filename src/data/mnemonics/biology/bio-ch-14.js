@@ -1,0 +1,1459 @@
+/**
+ * Biology Chapter 14: Breathing and Exchange of Gases
+ * 20 High-Yield NEET Mnemonics
+ */
+
+export const bioCh14Mnemonics = [
+  {
+    "id": "mnemo-bio-ch14-01",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Respiratory Volumes & Capacities",
+    "topic": "Respiratory Volumes: TV, IRV, ERV, and RV Values",
+    "mnemonicNumber": 1,
+    "title": "Lung Volumes: TV 500, IRV 3000, ERV 1000, RV 1200",
+    "badgeText": "Formula",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "formula",
+    "mnemonicType": "formula",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Tidal = 500 mL | IRV = 2500-3000 mL | ERV = 1000-1100 mL | RV = 1100-1200 mL",
+    "memoryHook": "Tidal is a normal breath (500 mL). Breathe in as hard as you can = IRV (3000 mL). Breathe out as hard as you can = ERV (1000 mL). What is left trapped in lungs = Residual Volume (1200 mL, cannot be emptied)!",
+    "fact": "Tidal volume (TV) is 500 mL (6000-8000 mL/min). Inspiratory Reserve Volume (IRV) is 2500-3000 mL. Expiratory Reserve Volume (ERV) is 1000-1100 mL. Residual Volume (RV) is 1100-1200 mL remaining even after maximal forced expiration.",
+    "breakdown": [
+      {
+        "key": "Tidal Volume (TV)",
+        "label": "500 mL per quiet breath; 6000-8000 mL per minute"
+      },
+      {
+        "key": "Inspiratory Reserve Volume (IRV)",
+        "label": "2500 to 3000 mL (extra air inhaled forcefully)"
+      },
+      {
+        "key": "Expiratory Reserve Volume (ERV)",
+        "label": "1000 to 1100 mL (extra air exhaled forcefully)"
+      },
+      {
+        "key": "Residual Volume (RV)",
+        "label": "1100 to 1200 mL (trapped air preventing lung collapse; cannot be measured by spirometer)"
+      }
+    ],
+    "doodleBadge": "500 | 3000 | 1000 | 1200",
+    "doodleSubtext": "4 Lung Volumes",
+    "explanation": "Residual volume ensures that lungs never completely empty, allowing continuous gas exchange between breaths.",
+    "alsoRemember": "A healthy human breathes 12-16 times per minute.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.2.1.",
+    "neetTrap": "Residual Volume (RV) CANNOT be measured by a standard spirometer.",
+    "tags": [
+      "Respiratory Volumes",
+      "TV",
+      "IRV",
+      "ERV",
+      "RV",
+      "Spirometer"
+    ],
+    "expandedMeaning": "Standard physiological values for the four primary non-overlapping lung volumes.",
+    "whyItWorks": "Direct numerical pairing (500 -> 3000 -> 1000 -> 1200).",
+    "visualDescription": "A spirogram tracing showing normal 500 mL waves, a giant 3000 mL mountain peak, a 1000 mL valley, and a shaded 1200 mL bedrock floor.",
+    "neetRelevance": "One of the most repeated matching and calculation topics in NEET.",
+    "commonMistake": "Confusing ERV (1000 mL) with RV (1200 mL).",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.2.1",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which respiratory volume represents the volume of air remaining in the lungs even after a forcible expiration?",
+      "options": [
+        "Tidal Volume",
+        "Expiratory Reserve Volume",
+        "Residual Volume",
+        "Inspiratory Reserve Volume"
+      ],
+      "answerIndex": 2,
+      "explanation": "Residual Volume (RV, 1100-1200 mL) is the volume of air remaining in the lungs even after maximal forced expiration."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-02",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Respiratory Capacities",
+    "topic": "Respiratory Capacities Formulas: IC, EC, FRC, VC, and TLC",
+    "mnemonicNumber": 2,
+    "title": "Lung Capacities: Vital Capacity = ERV + TV + IRV (Everything Except RV)",
+    "badgeText": "Formula",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "formula",
+    "mnemonicType": "formula",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "VC = ERV + TV + IRV (Max Air Moved!) | TLC = VC + RV | FRC = ERV + RV",
+    "memoryHook": "Vital Capacity (VC) is the maximum air you can breathe in after forced expiration = ERV + TV + IRV (~4500 mL). Add RV to get Total Lung Capacity (TLC = ~6000 mL). Functional Residual Capacity (FRC) is air left after normal quiet breath = ERV + RV!",
+    "fact": "By adding two or more respiratory volumes, respiratory capacities are derived: Inspiratory Capacity (IC = TV + IRV); Expiratory Capacity (EC = TV + ERV); Functional Residual Capacity (FRC = ERV + RV); Vital Capacity (VC = ERV + TV + IRV); Total Lung Capacity (TLC = RV + ERV + TV + IRV).",
+    "breakdown": [
+      {
+        "key": "Inspiratory Capacity (IC)",
+        "label": "TV + IRV = 3000 to 3500 mL"
+      },
+      {
+        "key": "Expiratory Capacity (EC)",
+        "label": "TV + ERV = 1500 to 1600 mL"
+      },
+      {
+        "key": "Functional Residual Capacity (FRC)",
+        "label": "ERV + RV = 2100 to 2300 mL (volume remaining after normal expiration)"
+      },
+      {
+        "key": "Vital Capacity (VC)",
+        "label": "ERV + TV + IRV = 3500 to 4500 mL (maximum exchangeable volume)"
+      },
+      {
+        "key": "Total Lung Capacity (TLC)",
+        "label": "RV + ERV + TV + IRV (or VC + RV) = 5000 to 6000 mL"
+      }
+    ],
+    "doodleBadge": "VC = E + T + I",
+    "doodleSubtext": "Capacities Math",
+    "explanation": "Any capacity containing RV (FRC and TLC) cannot be measured directly using a spirometer.",
+    "alsoRemember": "Athletes and vocal singers have significantly higher vital capacities.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.2.1.",
+    "neetTrap": "FRC = ERV + RV (NOT TV + RV). FRC is what remains after NORMAL expiration.",
+    "tags": [
+      "Respiratory Capacities",
+      "Vital Capacity",
+      "TLC",
+      "FRC",
+      "IC"
+    ],
+    "expandedMeaning": "Formulas and definitions for all 5 clinical respiratory capacities.",
+    "whyItWorks": "Relies on the rule: VC includes everything you can physically blow out; TLC includes that plus trapped RV.",
+    "visualDescription": "Stacked colored blocks where TV + IRV = IC, TV + ERV = EC, ERV + RV = FRC, and all four stacked = TLC.",
+    "neetRelevance": "Direct algebra formula questions in NEET biology.",
+    "commonMistake": "Adding Tidal Volume into Functional Residual Capacity.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.2.1",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following correctly defines Functional Residual Capacity (FRC)?",
+      "options": [
+        "TV + IRV",
+        "TV + ERV",
+        "ERV + RV",
+        "IRV + TV + ERV"
+      ],
+      "answerIndex": 2,
+      "explanation": "Functional Residual Capacity (FRC) is the volume of air that remains in the lungs after a normal expiration, equal to ERV + RV."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-03",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-2",
+    "topicTitle": "Partial Pressures Table",
+    "topic": "Partial Pressures of O2 and CO2 (NCERT Table 14.1)",
+    "mnemonicNumber": 3,
+    "title": "Partial Pressures: Alveoli 104/40, Deoxy 40/45, Oxy 95/40",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "comparison",
+    "mnemonicType": "comparison",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Alveoli: pO2 104, pCO2 40 | Oxygenated: pO2 95, pCO2 40 | Deoxygenated & Tissues: pO2 40, pCO2 45",
+    "memoryHook": "Alveoli has the highest O2 (104). Oxygenated blood drops slightly to 95. Deoxygenated blood and resting tissues have identical values: low pO2 (40) and high pCO2 (45)! Atmospheric air has pO2 159 and pCO2 0.3.",
+    "fact": "NCERT Table 14.1: Atmospheric air (pO2 159, pCO2 0.3); Alveoli (pO2 104, pCO2 40); Deoxygenated blood (pO2 40, pCO2 45); Oxygenated blood (pO2 95, pCO2 40); Tissues (pO2 40, pCO2 45).",
+    "breakdown": [
+      {
+        "key": "Alveoli",
+        "label": "pO2 = 104 mmHg, pCO2 = 40 mmHg"
+      },
+      {
+        "key": "Oxygenated Blood",
+        "label": "pO2 = 95 mmHg, pCO2 = 40 mmHg"
+      },
+      {
+        "key": "Deoxygenated Blood",
+        "label": "pO2 = 40 mmHg, pCO2 = 45 mmHg"
+      },
+      {
+        "key": "Tissues",
+        "label": "pO2 = 40 mmHg, pCO2 = 45 mmHg (drives O2 unloading from blood to tissue)"
+      },
+      {
+        "key": "Atmosphere",
+        "label": "pO2 = 159 mmHg, pCO2 = 0.3 mmHg"
+      }
+    ],
+    "doodleBadge": "Table 14.1 Values",
+    "doodleSubtext": "pO2 and pCO2 (mmHg)",
+    "explanation": "Notice that pCO2 is exactly 40 in both alveoli and oxygenated blood, and exactly 45 in both deoxygenated blood and tissues.",
+    "alsoRemember": "Gases diffuse down partial pressure gradients from high p to low p.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Table 14.1 & Figure 14.4.",
+    "neetTrap": "In oxygenated blood, pO2 is 95 mmHg (NOT 104 mmHg); 104 is the alveolar value.",
+    "tags": [
+      "Partial Pressures",
+      "Table 14.1",
+      "pO2",
+      "pCO2",
+      "Gas Exchange"
+    ],
+    "expandedMeaning": "Exact NCERT numerical values for oxygen and carbon dioxide partial pressures across physiological compartments.",
+    "whyItWorks": "Highlights that Deoxygenated blood and Tissues share the exact same values (40 and 45).",
+    "visualDescription": "NCERT Figure 14.4 diagram showing circulatory loops with labeled pO2 and pCO2 gauges at alveoli, arteries, capillaries, and veins.",
+    "neetRelevance": "Appears directly in matching questions on gas partial pressures.",
+    "commonMistake": "Writing pO2 = 104 mmHg for arterial blood instead of 95 mmHg.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Table 14.1",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "What are the partial pressures of oxygen (pO2) and carbon dioxide (pCO2) in the alveoli according to NCERT Table 14.1?",
+      "options": [
+        "pO2 = 159 mmHg, pCO2 = 0.3 mmHg",
+        "pO2 = 104 mmHg, pCO2 = 40 mmHg",
+        "pO2 = 95 mmHg, pCO2 = 40 mmHg",
+        "pO2 = 40 mmHg, pCO2 = 45 mmHg"
+      ],
+      "answerIndex": 1,
+      "explanation": "In the alveoli, the partial pressure of oxygen is 104 mmHg and that of carbon dioxide is 40 mmHg."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-04",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-2",
+    "topicTitle": "Diffusion Membrane",
+    "topic": "3 Layers of the Alveolar Diffusion Membrane (< 1 mm)",
+    "mnemonicNumber": 4,
+    "title": "Diffusion Membrane: 3 Layers, Ultra-Thin (< 1 mm)",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "mnemonicType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Squamous Alveolus + Capillary Endothelium + Basement Substance (< 1 mm Total!)",
+    "memoryHook": "The blood-air barrier has 3 ultra-thin layers: 1) Thin squamous epithelium of alveolus, 2) Endothelium of alveolar capillaries, 3) Intervening non-cellular basement substance. Total thickness is LESS than 1 millimeter (fraction of a mm)!",
+    "fact": "The diffusion membrane is made up of three major layers: 1) Thin squamous epithelium of alveoli, 2) Endothelium of alveolar capillaries, and 3) Basement substance between them. Its total thickness is much less than a millimetre.",
+    "breakdown": [
+      {
+        "key": "Layer 1 (Alveolus)",
+        "label": "Thin squamous epithelium lining alveolar wall (single layer of flat cells)"
+      },
+      {
+        "key": "Layer 2 (Capillary)",
+        "label": "Endothelium lining the wall of alveolar blood capillaries"
+      },
+      {
+        "key": "Layer 3 (Middle)",
+        "label": "Basement substance (basement membrane supporting both cellular layers)"
+      },
+      {
+        "key": "Total Thickness",
+        "label": "Much less than a millimetre (~0.2 µm), optimizing rapid gas diffusion"
+      }
+    ],
+    "doodleBadge": "3 Layers < 1 mm",
+    "doodleSubtext": "Diffusion Barrier",
+    "explanation": "The paper-thin membrane combined with enormous surface area (~80 m²) allows near-instantaneous oxygenation of blood as it traverses pulmonary capillaries.",
+    "alsoRemember": "Emphysema damages and breaks these alveolar walls, drastically reducing surface area.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.3 & Figure 14.4.",
+    "neetTrap": "The capillary wall is called an ENDOTHELIUM, while the alveolar wall is a SQUAMOUS EPITHELIUM.",
+    "tags": [
+      "Diffusion Membrane",
+      "Squamous Epithelium",
+      "Endothelium",
+      "Basement Substance",
+      "Figure 14.4"
+    ],
+    "expandedMeaning": "The 3 histological layers of the respiratory diffusion barrier and its ultra-thin dimension.",
+    "whyItWorks": "A 3-layer sandwich model: Alveolus bread + Capillary bread + Basement butter in the middle.",
+    "visualDescription": "NCERT Figure 14.4 microscope cross-section showing red blood cell squeezing through capillary adjacent to single-celled alveolar squamous wall.",
+    "neetRelevance": "Verbatim NCERT question on the layers and thickness of the diffusion membrane.",
+    "commonMistake": "Thinking the membrane is thick or composed of ciliated columnar cells.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.3",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which three layers constitute the respiratory diffusion membrane in human lungs?",
+      "options": [
+        "Ciliated epithelium, smooth muscle, and cartilage",
+        "Squamous epithelium of alveoli, endothelium of alveolar capillaries, and basement substance",
+        "Cuboidal epithelium, connective tissue, and visceral pleura",
+        "Parietal pleura, pleural fluid, and visceral pleura"
+      ],
+      "answerIndex": 1,
+      "explanation": "The diffusion membrane is made of the thin squamous epithelium of alveoli, the endothelium of alveolar capillaries, and the basement substance between them."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-05",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-2",
+    "topicTitle": "Gas Solubility",
+    "topic": "CO2 Solubility vs O2 Solubility (20-25 Times Higher)",
+    "mnemonicNumber": 5,
+    "title": "Solubility Ratio: CO2 is 20 to 25 Times MORE Soluble Than Oxygen",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "comparison",
+    "mnemonicType": "comparison",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "CO2 Solubility = 20-25 × O2! (Diffuses Rapidly Despite Small Delta P)",
+    "memoryHook": "Carbon dioxide is 20 to 25 times MORE soluble than oxygen in blood plasma! That is why CO2 diffuses across the respiratory membrane just as fast as O2, even though its partial pressure gradient (45 - 40 = 5 mmHg) is tiny compared to O2 (104 - 40 = 64 mmHg)!",
+    "fact": "Solubility of CO2 is 20-25 times higher than that of O2. Therefore, the amount of CO2 that can diffuse through the diffusion membrane per unit difference in partial pressure is much higher compared to that of O2.",
+    "breakdown": [
+      {
+        "key": "Solubility Factor",
+        "label": "CO2 is 20 to 25 times more soluble in aqueous liquid than O2"
+      },
+      {
+        "key": "O2 Gradient",
+        "label": "Large gradient: 104 - 40 = 64 mmHg drives oxygen into blood"
+      },
+      {
+        "key": "CO2 Gradient",
+        "label": "Small gradient: 45 - 40 = 5 mmHg, yet compensated by 20-25x higher solubility"
+      },
+      {
+        "key": "Diffusion Rate",
+        "label": "Rate of diffusion depends on pressure gradient, solubility, and membrane thickness"
+      }
+    ],
+    "doodleBadge": "CO2 = 20-25x Soluble",
+    "doodleSubtext": "Solubility Factor",
+    "explanation": "High solubility allows rapid elimination of CO2 from pulmonary capillary blood during the brief 0.75-second transit time through alveoli.",
+    "alsoRemember": "Henry's law states that the amount of dissolved gas is proportional to its partial pressure and solubility coefficient.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.3.",
+    "neetTrap": "CO2 is MORE soluble than O2 (20-25 times), NOT less soluble.",
+    "tags": [
+      "Solubility",
+      "CO2 vs O2",
+      "20-25 Times",
+      "Diffusion Rate"
+    ],
+    "expandedMeaning": "Solubility disparity between CO2 and O2 and its physiological role in equalizing exchange rates.",
+    "whyItWorks": "Pairs the exact 20-25 numerical factor with the small gradient compensation.",
+    "visualDescription": "A balance scale showing a giant O2 gradient weight on one side balancing a tiny CO2 gradient weight multiplied by a \"20-25x Solubility\" booster engine.",
+    "neetRelevance": "One of the most frequently asked numerical ratios in Human Physiology.",
+    "commonMistake": "Believing oxygen is more soluble than carbon dioxide in plasma.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.3",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Approximately how many times higher is the solubility of carbon dioxide compared to that of oxygen in blood plasma?",
+      "options": [
+        "2 to 5 times",
+        "10 to 15 times",
+        "20 to 25 times",
+        "50 to 100 times"
+      ],
+      "answerIndex": 2,
+      "explanation": "The solubility of CO2 is 20 to 25 times higher than that of O2, allowing rapid diffusion across membranes despite smaller partial pressure differences."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-06",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-3",
+    "topicTitle": "Oxygen Transport",
+    "topic": "Oxygen Transport Modes and Delivery Volume",
+    "mnemonicNumber": 6,
+    "title": "Oxygen Transport: 97% on Hemoglobin, 3% Dissolved (Delivers 5 mL/100 mL)",
+    "badgeText": "Formula",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "formula",
+    "mnemonicType": "formula",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "97% Oxyhemoglobin + 3% Dissolved Plasma | 100 mL Delivers 5 mL O2 to Tissues!",
+    "memoryHook": "97% of O2 rides inside RBCs bound to Hemoglobin (Oxyhemoglobin; each Hb carries 4 O2 molecules). Only 3% dissolves in plasma. Under normal resting conditions, every 100 mL of oxygenated blood delivers approximately 5 mL of O2 to tissues!",
+    "fact": "About 97% of O2 is transported by RBCs in the blood. The remaining 3% of O2 is carried in a dissolved state through the plasma. Every 100 mL of oxygenated blood can deliver around 5 mL of O2 to the tissues under normal physiological conditions.",
+    "breakdown": [
+      {
+        "key": "Bound to Hemoglobin (RBCs)",
+        "label": "97% transported as Oxyhemoglobin (Hb4O8)"
+      },
+      {
+        "key": "Dissolved in Plasma",
+        "label": "3% transported dissolved in blood plasma"
+      },
+      {
+        "key": "Binding Capacity",
+        "label": "1 molecule of Hemoglobin carries a maximum of 4 molecules of O2"
+      },
+      {
+        "key": "Tissue Delivery Volume",
+        "label": "100 mL of oxygenated blood delivers ~5 mL of O2 to tissues at rest"
+      },
+      {
+        "key": "Total Oxygen Content",
+        "label": "100 mL blood carries ~20 mL O2 (leaves ~15 mL behind as reserve in deoxygenated blood)"
+      }
+    ],
+    "doodleBadge": "97% Hb | 3% Plasma",
+    "doodleSubtext": "5 mL O2 Delivered",
+    "explanation": "During strenuous exercise, tissue pO2 plunges and blood delivers up to 15 mL of O2 per 100 mL blood by tapping into the venous reserve.",
+    "alsoRemember": "Each gram of hemoglobin binds approximately 1.34 mL of oxygen.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.4.1.",
+    "neetTrap": "100 mL of oxygenated blood delivers 5 mL of O2 to tissues; it does NOT deliver all 20 mL under resting conditions.",
+    "tags": [
+      "Oxygen Transport",
+      "97 Percent",
+      "Oxyhemoglobin",
+      "5 mL Delivery",
+      "Dissolved O2"
+    ],
+    "expandedMeaning": "Modes of oxygen transport in blood and delivery stoichiometry under resting physiological conditions.",
+    "whyItWorks": "Direct pairing: 97:3 transport split and 5 mL delivery per 100 mL.",
+    "visualDescription": "A red blood cell taxi bus loaded with 97 passengers (oxygen molecules) followed by 3 swimming in plasma, dropping off 5 packages at a tissue house.",
+    "neetRelevance": "Direct questions on delivery volumes (5 mL O2 vs 4 mL CO2 per 100 mL blood).",
+    "commonMistake": "Thinking all 20 mL of oxygen is delivered to resting tissues.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.4.1",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Under normal physiological conditions, every 100 mL of oxygenated blood delivers approximately how much oxygen to the tissues?",
+      "options": [
+        "20 mL",
+        "15 mL",
+        "5 mL",
+        "4 mL"
+      ],
+      "answerIndex": 2,
+      "explanation": "Under resting physiological conditions, every 100 mL of oxygenated blood delivers approximately 5 mL of O2 to tissues."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-07",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-3",
+    "topicTitle": "Oxygen Dissociation Curve",
+    "topic": "Oxygen-Hemoglobin Dissociation Curve Shifts (Bohr Effect)",
+    "mnemonicNumber": 7,
+    "title": "Bohr Effect: CADET Shift Right (Unloads O2 at Hardworking Tissues)",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "mnemonicType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Shift to RIGHT (Drops O2): CADET = CO2 ↑, Acid (H+) ↑, DPG ↑, Exercise ↑, Temp ↑",
+    "memoryHook": "The curve is SIGMOID (S-shaped). Shift to RIGHT means lower Hb-affinity → releases O2 to tissues! What happens in hardworking tissues? CADET: High CO2, High Acidity (low pH), High 2,3-DPG, Exercise, High Temperature! Shift to LEFT happens in cool, fresh alveoli (picks up O2)!",
+    "fact": "A sigmoid curve is obtained when percentage saturation of hemoglobin with O2 is plotted against pO2. In tissues, low pO2, high pCO2, high H+ concentration (acidic pH), and higher temperature shift the curve to the right, favoring dissociation of oxygen from hemoglobin (Bohr effect).",
+    "breakdown": [
+      {
+        "key": "Curve Shape",
+        "label": "Sigmoid / S-shaped curve (due to cooperative binding of 4 oxygen molecules)"
+      },
+      {
+        "key": "Shift to RIGHT (Bohr Effect)",
+        "label": "Promotes O2 UNLOADING: High pCO2, High H+ (low pH), High Temp, High 2,3-BPG (occurs at tissues)"
+      },
+      {
+        "key": "Shift to LEFT",
+        "label": "Promotes O2 LOADING: High pO2, Low pCO2, Low H+ (high pH), Low Temp (occurs at alveoli)"
+      },
+      {
+        "key": "P50 Value",
+        "label": "pO2 at which hemoglobin is 50% saturated (~26-28 mmHg); right shift increases P50"
+      }
+    ],
+    "doodleBadge": "CADET Face RIGHT",
+    "doodleSubtext": "Bohr Effect Curve",
+    "explanation": "At the alveoli, high pO2, low pCO2, low H+, and lower temperature shift the curve to the left, maximizing oxygen pickup.",
+    "alsoRemember": "Fetal hemoglobin (HbF) has higher affinity for O2 than adult HbA, shifting its curve to the left.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.4.1 & Figure 14.5.",
+    "neetTrap": "High H+ (acidic pH) shifts the curve to the RIGHT, NOT the left. Low pH = Right shift.",
+    "tags": [
+      "Oxygen Dissociation Curve",
+      "Sigmoid",
+      "Bohr Effect",
+      "Right Shift",
+      "Figure 14.5"
+    ],
+    "expandedMeaning": "Sigmoid curve characteristics, factors shifting right (unloading) and left (loading).",
+    "whyItWorks": "CADET mnemonic is the universal medical school memory trick for right-shift factors.",
+    "visualDescription": "NCERT Figure 14.5 sigmoid curve showing a green normal line, a red right-shifted line (labeled CADET), and a blue left-shifted line (alveoli).",
+    "neetRelevance": "One of the top 3 conceptual questions in human respiration.",
+    "commonMistake": "Associating high pH with a right shift (it is LOW pH / high H+ that causes right shift).",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.4.1",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following conditions favors the dissociation of oxygen from oxyhemoglobin (shifting the curve to the right) in tissues?",
+      "options": [
+        "High pO2 and low pCO2",
+        "Low pCO2 and low H+ concentration",
+        "High pCO2, high H+ concentration, and high temperature",
+        "Low temperature and alkaline pH"
+      ],
+      "answerIndex": 2,
+      "explanation": "In tissues, high pCO2, high H+ concentration (acidosis), and higher temperature shift the curve to the right, facilitating oxygen dissociation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-08",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-3",
+    "topicTitle": "CO2 Transport",
+    "topic": "3 Forms of CO2 Transport in Blood",
+    "mnemonicNumber": 8,
+    "title": "CO2 Transport: 70% Bicarbonate, 20-25% Carbamino-Hb, 7% Dissolved",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "mnemonicType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "70% Bicarbonate (HCO3-) | 20-25% Carbamino-Hb | 7% Dissolved in Plasma",
+    "memoryHook": "Bicarbonate is the massive highway: 70% of CO2 travels as HCO3- in plasma. 20-25% binds amine groups of hemoglobin as Carbamino-hemoglobin. 7% dissolves in plasma! 100 mL deoxygenated blood delivers ~4 mL of CO2 to alveoli!",
+    "fact": "Carbon dioxide is transported in blood in three forms: 1) As bicarbonate ions (HCO3-) in plasma (nearly 70%), 2) Bound to hemoglobin as carbamino-hemoglobin (20-25%), 3) Dissolved state in plasma (7%). Every 100 mL of deoxygenated blood delivers approximately 4 mL of CO2 to the alveoli.",
+    "breakdown": [
+      {
+        "key": "Bicarbonate Ions (HCO3-)",
+        "label": "70% (formed in RBCs via Carbonic Anhydrase, diffuses into plasma)"
+      },
+      {
+        "key": "Carbamino-hemoglobin",
+        "label": "20 to 25% (binds amino groups of hemoglobin globin chains, NOT iron)"
+      },
+      {
+        "key": "Dissolved in Plasma",
+        "label": "7% (due to high solubility of CO2)"
+      },
+      {
+        "key": "Alveolar Delivery Volume",
+        "label": "Every 100 mL of deoxygenated blood delivers ~4 mL of CO2 to alveoli"
+      }
+    ],
+    "doodleBadge": "70% : 20-25% : 7%",
+    "doodleSubtext": "4 mL CO2 Delivered",
+    "explanation": "CO2 binds to the globin amino ends of hemoglobin to form carbamino-hemoglobin; it does NOT compete with oxygen for the iron heme site.",
+    "alsoRemember": "Carbon monoxide (CO) binds heme iron with 200x higher affinity than O2, forming carboxyhemoglobin.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.4.2.",
+    "neetTrap": "Carbamino-hemoglobin is normal CO2 transport (20-25%). Carboxy-hemoglobin is lethal Carbon Monoxide (CO) poisoning.",
+    "tags": [
+      "CO2 Transport",
+      "Bicarbonate",
+      "70 Percent",
+      "Carbamino-hemoglobin",
+      "4 mL Delivery"
+    ],
+    "expandedMeaning": "The three forms of carbon dioxide transport and delivery stoichiometry to the alveoli.",
+    "whyItWorks": "Direct percentage hierarchy: 70% Bicarbonate > 20-25% Carbamino > 7% Dissolved.",
+    "visualDescription": "A pie chart of CO2 transport: giant 70% blue slice (HCO3-), 23% red slice (Carbamino-Hb), and 7% yellow slice (Dissolved).",
+    "neetRelevance": "Matching transport percentages and delivery volume (4 mL CO2 vs 5 mL O2).",
+    "commonMistake": "Confusing Carbamino-hemoglobin (CO2) with Carboxy-hemoglobin (CO).",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.4.2",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "The largest fraction of carbon dioxide is transported in human blood in which form?",
+      "options": [
+        "As carbamino-hemoglobin (20-25%)",
+        "As bicarbonate ions in plasma (~70%)",
+        "As dissolved gas in plasma (7%)",
+        "As carbon monoxide bound to iron"
+      ],
+      "answerIndex": 1,
+      "explanation": "Nearly 70% of carbon dioxide is transported as bicarbonate ions (HCO3-) in the blood plasma."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-09",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-3",
+    "topicTitle": "Carbonic Anhydrase & Chloride Shift",
+    "topic": "Carbonic Anhydrase & Chloride Shift (Hamburger Phenomenon)",
+    "mnemonicNumber": 9,
+    "title": "Chloride Shift: Bicarbonate Out, Chloride In (Hamburger Phenomenon)",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "mnemonicType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "CO2 + H2O ⇌ H2CO3 ⇌ HCO3- + H+ | HCO3- Leaves RBC → Cl- Enters RBC (Chloride Shift)!",
+    "memoryHook": "RBCs contain high concentration of Carbonic Anhydrase (fastest enzyme!). At tissues, CO2 becomes HCO3-. As HCO3- diffuses OUT into plasma, Chloride (Cl-) rushes INTO the RBC to balance negative electrical charge (Hamburger Phenomenon)! Reverses at alveoli!",
+    "fact": "RBCs contain very high concentration of carbonic anhydrase and minute quantities are present in plasma too. At tissues, HCO3- formed in RBCs diffuses out into plasma; to maintain electrostatic neutrality, chloride ions (Cl-) move from plasma into RBCs (Chloride Shift or Hamburger phenomenon).",
+    "breakdown": [
+      {
+        "key": "Enzyme involved",
+        "label": "Carbonic Anhydrase (contains Zn2+ cofactor; accelerates reaction by 10^7 fold)"
+      },
+      {
+        "key": "Tissue Direction",
+        "label": "CO2 + H2O → H2CO3 → HCO3- + H+ (protons buffered by reduced hemoglobin)"
+      },
+      {
+        "key": "Chloride Shift (Tissues)",
+        "label": "HCO3- moves OUT of RBC into plasma; Cl- moves INTO RBC from plasma"
+      },
+      {
+        "key": "Reverse Shift (Alveoli)",
+        "label": "Cl- moves OUT of RBC; HCO3- moves INTO RBC to be converted back into CO2 gas"
+      }
+    ],
+    "doodleBadge": "Chloride Shift",
+    "doodleSubtext": "Hamburger Phenomenon",
+    "explanation": "Because Cl- enters RBCs at tissues, water follows osmotically, making venous RBCs slightly larger than arterial RBCs.",
+    "alsoRemember": "Hartridge and Roughton discovered carbonic anhydrase in 1932.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.4.2.",
+    "neetTrap": "Carbonic anhydrase is found in very high concentration in RBCs, but MINUTE quantities also exist in plasma.",
+    "tags": [
+      "Carbonic Anhydrase",
+      "Chloride Shift",
+      "Hamburger Phenomenon",
+      "Zinc",
+      "Bicarbonate"
+    ],
+    "expandedMeaning": "Enzymatic hydration of CO2 by carbonic anhydrase and chloride-bicarbonate exchange across erythrocyte membrane.",
+    "whyItWorks": "Direct pairing of the ionic swap: Bicarbonate exits -> Chloride enters.",
+    "visualDescription": "An RBC membrane revolving door: a negative HCO3- passenger walks out while a negative Cl- passenger walks in.",
+    "neetRelevance": "Questions on the role of carbonic anhydrase and the definition of chloride shift.",
+    "commonMistake": "Claiming carbonic anhydrase is completely absent in plasma.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.4.2",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "During carbon dioxide transport at the tissue level, what ion enters the erythrocyte in exchange for bicarbonate moving out into plasma?",
+      "options": [
+        "Sodium ion (Na+)",
+        "Potassium ion (K+)",
+        "Chloride ion (Cl-)",
+        "Calcium ion (Ca2+)"
+      ],
+      "answerIndex": 2,
+      "explanation": "To maintain electrical neutrality when bicarbonate diffuses out of RBCs into plasma, chloride ions (Cl-) move into the RBC (Chloride Shift)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-10",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-4",
+    "topicTitle": "Regulation of Respiration",
+    "topic": "Respiratory Centers: Medulla Rhythm vs Pons Pneumotaxic",
+    "mnemonicNumber": 10,
+    "title": "Respiratory Centers: Medulla Sets Rhythm, Pons Pneumotaxic Switches Off Inspiration",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "mnemonicType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Medulla = Rhythm Boss | Pons Pneumotaxic = Switch-Off Button | CO2 & H+ Drive Breathing (NOT O2!)",
+    "memoryHook": "The master Respiratory Rhythm Centre is in the MEDULLA. The Pneumotaxic Centre is in the PONS — it sends inhibitory signals to switch off inspiration, controlling breathing rate. Chemosensitive area cares only about CO2 and H+; Oxygen plays NO role in rhythm regulation!",
+    "fact": "Respiratory rhythm centre in medulla is primarily responsible for regulation. Pneumotaxic centre in pons can moderate rhythm centre functions; signals from it reduce the duration of inspiration. A chemosensitive area adjacent to rhythm centre is highly sensitive to CO2 and H+ ions. Role of oxygen is quite insignificant.",
+    "breakdown": [
+      {
+        "key": "Respiratory Rhythm Centre",
+        "label": "Located in Medulla oblongata; primarily sets basic inspiratory and expiratory rhythm"
+      },
+      {
+        "key": "Pneumotaxic Centre",
+        "label": "Located in Pons varolii; sends inhibitory impulses to \"switch off\" inspiration, increasing breathing rate"
+      },
+      {
+        "key": "Chemosensitive Area",
+        "label": "Adjacent to medulla rhythm centre; activated by excess CO2 and H+ ions (triggers faster breathing)"
+      },
+      {
+        "key": "Peripheral Chemoreceptors",
+        "label": "Aortic arch and Carotid bodies; detect changes in CO2 and H+ concentration"
+      },
+      {
+        "key": "Role of Oxygen",
+        "label": "Role of oxygen in the regulation of respiratory rhythm is QUITE INSIGNIFICANT"
+      }
+    ],
+    "doodleBadge": "Medulla + Pons",
+    "doodleSubtext": "Oxygen Plays No Role",
+    "explanation": "When you hold your breath, the irresistible urge to breathe is triggered by CO2 accumulation and pH drop, NOT oxygen lack!",
+    "alsoRemember": "Carotid bodies signal via glossopharyngeal nerve (CN IX); aortic bodies signal via vagus nerve (CN X).",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.5.",
+    "neetTrap": "The role of oxygen in regulating normal respiratory rhythm is INSIGNIFICANT (NEET repeatedly tests this statement).",
+    "tags": [
+      "Respiratory Regulation",
+      "Medulla",
+      "Pneumotaxic Centre",
+      "Pons",
+      "Chemosensitive",
+      "CO2 Sensor"
+    ],
+    "expandedMeaning": "Medullary rhythm center, pontine pneumotaxic center, central/peripheral chemoreceptors, and the insignificance of oxygen.",
+    "whyItWorks": "Assigns clear distinct titles: Medulla is the Rhythm Boss; Pons is the Switch-off timer.",
+    "visualDescription": "A brainstem diagram showing a metronome in Medulla setting pace, and an off-switch in Pons cutting off inspiration.",
+    "neetRelevance": "Verbatim NCERT statement questions on the role of oxygen and pneumotaxic center location.",
+    "commonMistake": "Claiming oxygen levels in blood are the primary regulator of human respiratory rhythm.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.5",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following statements regarding the neural regulation of respiration in humans is TRUE?",
+      "options": [
+        "The role of oxygen in the regulation of respiratory rhythm is quite insignificant",
+        "Pneumotaxic centre is located in the cerebellum and prolongs inspiration",
+        "The respiratory rhythm centre in medulla is stimulated by low arterial CO2",
+        "Oxygen receptors in lungs primarily dictate the respiratory rate"
+      ],
+      "answerIndex": 0,
+      "explanation": "According to NCERT, the role of oxygen in the regulation of respiratory rhythm is quite insignificant; CO2 and H+ are the primary chemical triggers."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-11",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-5",
+    "topicTitle": "Respiratory Disorders",
+    "topic": "Asthma, Emphysema, and Occupational Lung Disorders",
+    "mnemonicNumber": 11,
+    "title": "Disorders: Asthma Wheezes, Emphysema Smokes, ORD Fibrosis",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "mnemonicType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Asthma = Spasm & Wheeze | Emphysema = Cigarettes Break Alveoli | ORD = Mining Dust Fibrosis",
+    "memoryHook": "Asthma: allergy causes inflammation of bronchi/bronchioles, leading to wheezing. Emphysema: chronic damage to alveolar walls, reducing exchange area (major cause: CIGARETTE SMOKING). Occupational (ORD): stone dust (silica/asbestos) causes FIBROSIS (lung scarring)!",
+    "fact": "Asthma is a difficulty in breathing causing wheezing due to inflammation of bronchi and bronchioles. Emphysema is a chronic disorder in which alveolar walls are damaged whereby respiratory surface is decreased; major cause is cigarette smoking. Occupational respiratory disorders (e.g. Silicosis, Asbestosis) cause chronic inflammation and fibrosis of lung tissues.",
+    "breakdown": [
+      {
+        "key": "Asthma",
+        "label": "Allergic spasm & inflammation of bronchi and bronchioles; characteristic wheezing sound"
+      },
+      {
+        "key": "Emphysema",
+        "label": "Chronic breakdown of alveolar walls; respiratory surface area permanently reduced; Cigarette smoking #1 cause"
+      },
+      {
+        "key": "Occupational Disorders (ORD)",
+        "label": "Silicosis and Asbestosis in stone-breaking and mining workers; chronic inflammation leads to Fibrosis"
+      },
+      {
+        "key": "Fibrosis",
+        "label": "Proliferation of fibrous connective tissue causing irreversible lung stiffening and damage"
+      }
+    ],
+    "doodleBadge": "3 Lung Disorders",
+    "doodleSubtext": "Asthma · Emphysema · ORD",
+    "explanation": "Alpha-1-antitrypsin is a protein used to treat emphysema by counteracting elastase enzymes released by inflammatory cells.",
+    "alsoRemember": "Workers in stone-crushing industries must wear protective masks to prevent inhaling silica dust.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.6.",
+    "neetTrap": "Emphysema damages ALVEOLAR WALLS, whereas Asthma inflames BRONCHI and BRONCHIOLES.",
+    "tags": [
+      "Asthma",
+      "Emphysema",
+      "Cigarette Smoking",
+      "Fibrosis",
+      "Silicosis",
+      "Asbestosis"
+    ],
+    "expandedMeaning": "Etiology, pathological site, and defining clinical features of Asthma, Emphysema, and Occupational lung disorders.",
+    "whyItWorks": "Directly links each disorder to its signature target site and cause.",
+    "visualDescription": "Three panels: inflamed narrowed bronchiole tube (Asthma), broken burst alveolar sacs (Emphysema with cigarette), and rock dust scarring lungs (ORD Fibrosis).",
+    "neetRelevance": "Matching disorders with symptoms and pathological features.",
+    "commonMistake": "Saying emphysema is caused by inflammation of bronchioles.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.6",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which chronic respiratory disorder is characterized by damage to alveolar walls leading to a decrease in respiratory surface area, primarily caused by cigarette smoking?",
+      "options": [
+        "Asthma",
+        "Emphysema",
+        "Silicosis",
+        "Pneumonia"
+      ],
+      "answerIndex": 1,
+      "explanation": "Emphysema is a chronic disorder in which alveolar walls are damaged and respiratory surface area is reduced, with cigarette smoking being the major cause."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-12",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Inspiration Mechanics",
+    "topic": "Mechanism of Inspiration (Diaphragm and External Intercostals)",
+    "mnemonicNumber": 12,
+    "title": "Inspiration: Diaphragm Flattens (A-P), Ribs Lift (D-V), Negative Pressure Sucks Air",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "mnemonicType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Diaphragm Contracts (Flattens) = Antero-Posterior ↑ | External Intercostals Contract = Dorso-Ventral ↑",
+    "memoryHook": "Inspiration is an ACTIVE process! Diaphragm contracts and flattens down, increasing volume in Antero-Posterior axis. External intercostals lift ribs and sternum UP and OUT, increasing Dorso-Ventral axis. Thoracic volume rises -> Intrapulmonary pressure drops below atmospheric (-1 mmHg) -> Air rushes in!",
+    "fact": "Inspiration is initiated by contraction of the diaphragm which increases thoracic volume in the antero-posterior axis. Contraction of external intercostal muscles lifts the ribs and sternum, increasing volume in the dorso-ventral axis. The overall increase in thoracic volume reduces intra-pulmonary pressure below atmospheric pressure, causing inspiration.",
+    "breakdown": [
+      {
+        "key": "Diaphragm Contraction",
+        "label": "Flattens from dome shape; expands thoracic cavity in the ANTERO-POSTERIOR axis"
+      },
+      {
+        "key": "External Intercostal Contraction",
+        "label": "Pulls ribs and sternum upward and outward; expands cavity in the DORSO-VENTRAL axis"
+      },
+      {
+        "key": "Intrapulmonary Pressure",
+        "label": "Falls to -1 mmHg relative to atmosphere (negative pressure breathing)"
+      },
+      {
+        "key": "Boyle's Law Basis",
+        "label": "Increased thoracic volume leads to decreased intrapulmonary pressure; air flows down pressure gradient"
+      }
+    ],
+    "doodleBadge": "A-P Axis + D-V Axis",
+    "doodleSubtext": "Inspiration Mechanics",
+    "explanation": "Humans exhibit negative pressure breathing: air is sucked into the lungs rather than being forced in like a bellows.",
+    "alsoRemember": "Normal quiet expiration is entirely passive, requiring zero muscle contraction.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.2 & Figure 14.2.",
+    "neetTrap": "Diaphragm increases volume in ANTERO-POSTERIOR axis; External intercostals increase volume in DORSO-VENTRAL axis.",
+    "tags": [
+      "Inspiration",
+      "Diaphragm",
+      "External Intercostals",
+      "Antero-Posterior",
+      "Dorso-Ventral",
+      "Figure 14.2"
+    ],
+    "expandedMeaning": "Muscle mechanics, anatomical axes of expansion, and negative pressure generation in inspiration.",
+    "whyItWorks": "Pairs each muscle group strictly with its anatomical axis of thoracic expansion.",
+    "visualDescription": "NCERT Figure 14.2 showing downward arrow on flattening diaphragm (A-P expansion) and outward arrows on lifting sternum/ribs (D-V expansion).",
+    "neetRelevance": "Matching muscle contraction with thoracic axis of expansion.",
+    "commonMistake": "Swapping antero-posterior (diaphragm) with dorso-ventral (intercostals).",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.2",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Contraction of the diaphragm increases the volume of the thoracic chamber in which anatomical axis?",
+      "options": [
+        "Dorso-ventral axis",
+        "Antero-posterior axis",
+        "Lateral-medial axis",
+        "Horizontal axis"
+      ],
+      "answerIndex": 1,
+      "explanation": "Contraction of the diaphragm flattens it and increases the volume of the thoracic cavity in the antero-posterior axis."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-13",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Expiration Mechanics",
+    "topic": "Quiet vs Forced Expiration Muscles",
+    "mnemonicNumber": 13,
+    "title": "Expiration: Quiet is Passive Relaxation, Forced Uses Abs & Internal Intercostals",
+    "badgeText": "Comparison",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "comparison",
+    "mnemonicType": "comparison",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Quiet Expiration = PASSIVE Elastic Recoil | Forced Expiration = ACTIVE (Abdominals + Internal Intercostals)",
+    "memoryHook": "Normal breathing out needs NO energy: diaphragm relaxes back to dome shape, elastic lungs recoil, intrapulmonary pressure rises to +1 mmHg, pushing air out. But when you blow hard (forced expiration), your ABDOMINAL muscles and INTERNAL intercostals contract forcefully!",
+    "fact": "Relaxation of the diaphragm and external intercostal muscles returns the diaphragm and sternum to their normal positions, reducing thoracic volume and causing passive expiration. Forced expiration is active, utilizing internal intercostal muscles and abdominal muscles.",
+    "breakdown": [
+      {
+        "key": "Quiet Expiration",
+        "label": "Purely PASSIVE process due to elastic recoil of lungs and chest wall relaxation"
+      },
+      {
+        "key": "Diaphragm State",
+        "label": "Relaxes and arches upward into its resting dome shape"
+      },
+      {
+        "key": "Forced Expiration Muscles",
+        "label": "ACTIVE: Internal intercostal muscles depress ribs + Abdominal muscles push viscera upward"
+      },
+      {
+        "key": "Intrapulmonary Pressure",
+        "label": "Rises above atmospheric pressure (+1 mmHg quiet, up to +30 mmHg forced)"
+      }
+    ],
+    "doodleBadge": "Passive vs Active Forced",
+    "doodleSubtext": "Expiration Muscle Action",
+    "explanation": "Singers and trumpet players train their abdominal and internal intercostal muscles to exert precise control over forced expiration.",
+    "alsoRemember": "We have the ability to increase the strength of breathing with the help of additional muscles in the abdomen.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.2 & Figure 14.3.",
+    "neetTrap": "Quiet expiration requires NO muscle contraction; forced expiration requires INTERNAL intercostals and ABDOMINALS.",
+    "tags": [
+      "Expiration",
+      "Passive Expiration",
+      "Forced Expiration",
+      "Internal Intercostals",
+      "Abdominal Muscles"
+    ],
+    "expandedMeaning": "Distinction between passive quiet expiration and muscle-driven active forced expiration.",
+    "whyItWorks": "Direct contrast: Relax to breathe out normally; flex abs and internal intercostals to blow out candles.",
+    "visualDescription": "A relaxed dome diaphragm in normal breathing compared to tightened six-pack abdominal muscles squeezing air out during forced exhalation.",
+    "neetRelevance": "Questions on muscles involved in forced expiration.",
+    "commonMistake": "Claiming external intercostals contract during expiration.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.2",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which muscles contract actively during forceful expiration in humans?",
+      "options": [
+        "Diaphragm and external intercostals",
+        "Internal intercostal muscles and abdominal muscles",
+        "External intercostals and abdominal muscles",
+        "Diaphragm only"
+      ],
+      "answerIndex": 1,
+      "explanation": "Forced expiration is an active process brought about by contraction of internal intercostal muscles and abdominal muscles."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-14",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Respiratory Anatomy",
+    "topic": "Respiratory Tree Branching and Incomplete Cartilage Rings",
+    "mnemonicNumber": 14,
+    "title": "Respiratory Tree: C-Shaped Rings Protect Up to Initial Bronchioles",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "mnemonicType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Trachea (T5 Split) → Primary → Secondary → Tertiary → Initial Bronchioles (All Have C-Rings!)",
+    "memoryHook": "Trachea divides at T5 vertebra level into right and left primary bronchi. Incomplete C-shaped hyaline cartilaginous rings protect the trachea, primary, secondary, tertiary bronchi, and INITIAL bronchioles to prevent collapse! Terminal bronchioles lack cartilage!",
+    "fact": "Trachea is a straight tube extending down to mid-thoracic cavity, dividing at the level of 5th thoracic vertebra (T5) into right and left primary bronchi. Trachea, primary, secondary, and tertiary bronchi, and initial bronchioles are supported by incomplete cartilaginous rings.",
+    "breakdown": [
+      {
+        "key": "Vertebral Bifurcation Level",
+        "label": "5th thoracic vertebra (T5) where trachea splits into left & right primary bronchi"
+      },
+      {
+        "key": "Cartilage Type",
+        "label": "Incomplete C-shaped rings of Hyaline cartilage (open posteriorly facing esophagus)"
+      },
+      {
+        "key": "Where Rings are Present",
+        "label": "Trachea, primary bronchi, secondary bronchi, tertiary bronchi, and initial bronchioles"
+      },
+      {
+        "key": "Where Rings are Absent",
+        "label": "Terminal bronchioles, respiratory bronchioles, alveolar ducts, and alveoli"
+      }
+    ],
+    "doodleBadge": "T5 Split | C-Rings",
+    "doodleSubtext": "Incomplete Hyaline Rings",
+    "explanation": "The posterior gap in C-shaped rings is bridged by the trachealis muscle, allowing the adjacent esophagus to expand during swallowing.",
+    "alsoRemember": "Right primary bronchus is wider, shorter, and more vertical than the left, making foreign aspirated objects more likely to enter the right lung.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.1 & Figure 14.1.",
+    "neetTrap": "Cartilaginous rings extend up to INITIAL bronchioles; they are ABSENT in terminal bronchioles.",
+    "tags": [
+      "Respiratory Tree",
+      "T5 Level",
+      "Cartilaginous Rings",
+      "Hyaline Cartilage",
+      "Bronchioles"
+    ],
+    "expandedMeaning": "Anatomical level of tracheal division at T5 and distribution of supporting hyaline cartilage rings.",
+    "whyItWorks": "Pairs the exact vertebral landmark (T5) with the exact boundary of cartilage rings (initial bronchioles).",
+    "visualDescription": "A windpipe dividing like an upside-down tree at T5, with shiny blue C-shaped armor rings lining trunks down to initial twigs.",
+    "neetRelevance": "Questions on the exact vertebral level of tracheal bifurcation (T5) and where cartilage rings stop.",
+    "commonMistake": "Thinking cartilaginous rings extend all the way to terminal bronchioles or alveoli.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.1",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "At which vertebral level does the human trachea divide into right and left primary bronchi?",
+      "options": [
+        "3rd cervical vertebra",
+        "5th thoracic vertebra (T5)",
+        "12th thoracic vertebra",
+        "2nd lumbar vertebra"
+      ],
+      "answerIndex": 1,
+      "explanation": "The trachea divides into right and left primary bronchi at the level of the 5th thoracic vertebra (T5)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-15",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Conducting vs Respiratory Zone",
+    "topic": "Conducting Zone vs Respiratory / Exchange Zone",
+    "mnemonicNumber": 15,
+    "title": "Zones: Conducting Cleans & Warms, Respiratory Alveoli Diffuses",
+    "badgeText": "Comparison",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "comparison",
+    "mnemonicType": "comparison",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Nostrils to Terminal Bronchioles = CONDUCTING | Respiratory Bronchioles to Alveoli = EXCHANGE",
+    "memoryHook": "Conducting zone (nostrils down to terminal bronchioles) transports atmospheric air to alveoli, clears it of foreign particles, humidifies it, and brings air to body temperature. Respiratory zone (alveoli & ducts) is the actual site of gas diffusion!",
+    "fact": "The respiratory tract has two functional parts: 1) Conducting part (from external nostrils up to terminal bronchioles); 2) Respiratory / exchange part (alveoli and their ducts). Conducting part clears foreign dust, humidifies, and brings air to body temperature; exchange part is the site of actual diffusion of O2 and CO2.",
+    "breakdown": [
+      {
+        "key": "Conducting Zone Extent",
+        "label": "External nostrils → Nasal cavity → Pharynx → Larynx → Trachea → Bronchi → Terminal bronchioles"
+      },
+      {
+        "key": "Conducting Zone Functions",
+        "label": "Transports air, cleans dust particles via mucus/cilia, humidifies air, warms air to 37°C"
+      },
+      {
+        "key": "Exchange Zone Extent",
+        "label": "Respiratory bronchioles, alveolar ducts, alveolar sacs, and alveoli"
+      },
+      {
+        "key": "Exchange Zone Function",
+        "label": "Actual site of O2 and CO2 diffusion between blood and atmospheric air"
+      }
+    ],
+    "doodleBadge": "Conducting vs Exchange",
+    "doodleSubtext": "Functional Division",
+    "explanation": "The conducting zone contains anatomical dead space volume of approximately 150 mL that does not participate in gas exchange.",
+    "alsoRemember": "Alveoli provide an astonishing ~80 m² of surface area for gas diffusion.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.1.",
+    "neetTrap": "The conducting part ends at TERMINAL bronchioles, NOT respiratory bronchioles.",
+    "tags": [
+      "Conducting Part",
+      "Exchange Part",
+      "Terminal Bronchioles",
+      "Humidification",
+      "Air Conditioning"
+    ],
+    "expandedMeaning": "Functional distinction, anatomic boundaries, and physiological roles of the conducting vs exchange zones.",
+    "whyItWorks": "Clear border line at terminal bronchioles separates air conditioning from gas diffusion.",
+    "visualDescription": "A hallway of air filters and warm humidifiers (conducting zone) opening into a vast exchange trading floor (alveoli).",
+    "neetRelevance": "Direct questions on the functions of the conducting part of the respiratory system.",
+    "commonMistake": "Claiming the conducting zone performs gas diffusion.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.1",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is NOT a function of the conducting part of the human respiratory system?",
+      "options": [
+        "Humidifying the incoming air",
+        "Clearing incoming air of foreign dust particles",
+        "Actual diffusion of O2 and CO2 across the thin membrane",
+        "Bringing the temperature of inhaled air to body temperature"
+      ],
+      "answerIndex": 2,
+      "explanation": "Actual diffusion of O2 and CO2 is the exclusive function of the exchange part (alveoli and ducts), not the conducting part."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-16",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Pleura and Pleural Cavity",
+    "topic": "Double Pleura and Pleural Fluid Lubrication",
+    "mnemonicNumber": 16,
+    "title": "Pleura: Parietal Outer on Thorax, Visceral Inner on Lung (Fluid Stops Friction)",
+    "badgeText": "Concept",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "mnemonicType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Parietal = Outer Thorax Wall | Visceral = Inner Lung Surface | Pleural Fluid = Friction-Free Glide!",
+    "memoryHook": "Lungs are enclosed in double-layered pleura. Outer PARIETAL pleura lines the thoracic wall. Inner VISCERAL pleura is glued to lung surface. Between them is pleural fluid, which acts as a lubricant reducing friction on lung surface during breathing!",
+    "fact": "Each lung is enclosed by a double-layered membrane called pleura, with pleural fluid between them. It reduces friction on the lung surface. The outer pleural membrane is in close contact with the thoracic lining, whereas the inner pleural membrane is in contact with the lung surface.",
+    "breakdown": [
+      {
+        "key": "Outer Layer (Parietal pleura)",
+        "label": "In intimate contact with the inner surface of the thoracic cavity wall"
+      },
+      {
+        "key": "Inner Layer (Visceral pleura)",
+        "label": "Tightly adhered to the external surface of the lung parenchyma"
+      },
+      {
+        "key": "Pleural Fluid",
+        "label": "Thin film of serous fluid in intrapleural space that lubricates lung expansion"
+      },
+      {
+        "key": "Clinical Condition",
+        "label": "Pleurisy is painful inflammation of pleural membranes causing pleural friction rub"
+      }
+    ],
+    "doodleBadge": "Double Pleura",
+    "doodleSubtext": "Parietal vs Visceral",
+    "explanation": "Surface tension of pleural fluid causes lungs to adhere to the chest wall, so when thorax expands, lungs are physically pulled open with it.",
+    "alsoRemember": "A puncture of the thoracic wall causes pneumothorax (air enters pleural cavity), collapsing the lung.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.1.",
+    "neetTrap": "Parietal pleura contacts the THORACIC WALL; Visceral pleura contacts the LUNG SURFACE.",
+    "tags": [
+      "Pleura",
+      "Parietal Pleura",
+      "Visceral Pleura",
+      "Pleural Fluid",
+      "Thoracic Cavity"
+    ],
+    "expandedMeaning": "Anatomy and frictional lubrication mechanism of parietal and visceral pleural membranes.",
+    "whyItWorks": "Pairs P-P (Parietal with Perimeter/Thorax) and V-V (Visceral with Viscera/Lung).",
+    "visualDescription": "Two smooth glass plates sliding over each other with a drop of water (pleural fluid) between them.",
+    "neetRelevance": "Matching pleural layers with their respective contacts.",
+    "commonMistake": "Swapping the contacts of parietal and visceral pleura.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.1",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which pleural membrane is in close contact with the lung surface?",
+      "options": [
+        "Outer parietal pleura",
+        "Inner visceral pleura",
+        "Pericardial membrane",
+        "Peritoneal membrane"
+      ],
+      "answerIndex": 1,
+      "explanation": "The inner pleural membrane (visceral pleura) is in direct contact with the surface of the lung."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-17",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Respiratory Structures in Animals",
+    "topic": "Comparative Animal Respiratory Organs",
+    "mnemonicNumber": 17,
+    "title": "Animal Breathing: Skin Earthworms, Trachea Insects, Gills Prawn, Lungs Mammals",
+    "badgeText": "Comparison",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "mnemonicType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Skin = Earthworm (Cutaneous) | Trachea = Insects | Gills = Prawn/Fish (Branchial) | Lungs = Frogs/Amniotes (Pulmonary)",
+    "memoryHook": "Lower invertebrates (Sponges, Coelenterates, Flatworms) breathe by SIMPLE DIFFUSION over whole body surface. Earthworms use MOIST CUTICLE. Insects use network of TRACHEAL TUBES. Aquatic arthropods (Prawns) and fishes use GILLS. Frogs breathe 3 ways (Skin, Buccal, Lungs)!",
+    "fact": "Mechanisms of breathing vary among different animal groups depending on habitat and level of organization: Simple diffusion (Sponges, Coelenterates, Flatworms); Cutaneous respiration (Earthworms, Frogs); Tracheal respiration (Insects); Branchial respiration via Gills (Aquatic arthropods, Molluscs, Fishes); Pulmonary respiration via Lungs (Amphibians, Reptiles, Birds, Mammals).",
+    "breakdown": [
+      {
+        "key": "Simple Body Surface Diffusion",
+        "label": "Sponges, Coelenterates, Flatworms"
+      },
+      {
+        "key": "Moist Cuticle / Skin (Cutaneous)",
+        "label": "Earthworms and Amphibians (frogs also respire through skin in water and hibernation)"
+      },
+      {
+        "key": "Tracheal System",
+        "label": "Insects, Centipedes, Millipedes (network of tubes delivering air directly to cells)"
+      },
+      {
+        "key": "Gills (Branchial respiration)",
+        "label": "Aquatic arthropods (Prawns, Crabs), Molluscs (Unio), and Fishes"
+      },
+      {
+        "key": "Lungs (Pulmonary respiration)",
+        "label": "Adult Amphibians, Reptiles, Birds, and Mammals"
+      }
+    ],
+    "doodleBadge": "Animal Respiration",
+    "doodleSubtext": "Cutaneous to Lungs",
+    "explanation": "Insects have no hemoglobin or respiratory pigment in their hemolymph because their tracheal system pipes oxygen gas directly to each tissue cell.",
+    "alsoRemember": "Frogs respire via cutaneous (skin), buccopharyngeal cavity, and pulmonary (lungs) modes.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.1.",
+    "neetTrap": "Insect blood (hemolymph) plays ZERO role in oxygen transport; tracheal tubes transport gases directly.",
+    "tags": [
+      "Respiratory Organs",
+      "Cutaneous",
+      "Tracheal System",
+      "Gills",
+      "Animal Kingdom"
+    ],
+    "expandedMeaning": "Survey of respiratory adaptations across major animal phyla from sponges to mammals.",
+    "whyItWorks": "Direct table matching each organism group to its respiratory organ.",
+    "visualDescription": "Five animal icons with arrows to respiratory organs: worm (skin), grasshopper (trachea), prawn (gills), fish (gills), and human (lungs).",
+    "neetRelevance": "Matching questions connecting animal names with respiratory mechanisms.",
+    "commonMistake": "Assuming insect hemolymph carries oxygen like human blood.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.1",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following organisms respires through a network of tracheal tubes that deliver atmospheric air directly to body tissues?",
+      "options": [
+        "Prawn",
+        "Earthworm",
+        "Cockroach",
+        "Sponge"
+      ],
+      "answerIndex": 2,
+      "explanation": "Insects like the cockroach possess a network of tracheal tubes for direct transport of atmospheric air to cells."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-18",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Spirometer Limitations",
+    "topic": "What a Spirometer CAN and CANNOT Measure",
+    "mnemonicNumber": 18,
+    "title": "Spirometer Rule: CANNOT Measure Anything with Residual Volume (RV)",
+    "badgeText": "Memory Trick",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "mnemonicType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Spirometer CANNOT Measure the RV Family: RV, FRC, and TLC!",
+    "memoryHook": "A spirometer measures only air that moves IN or OUT of the mouth! Since Residual Volume (RV) stays permanently trapped inside alveoli and can NEVER be exhaled, a spirometer CANNOT measure RV, nor any capacity containing RV (FRC = ERV + RV, TLC = VC + RV)!",
+    "fact": "A spirometer measures the volume of air inspired and expired by the lungs. It CAN measure TV, IRV, ERV, IC, EC, and VC. It CANNOT measure Residual Volume (RV), Functional Residual Capacity (FRC), or Total Lung Capacity (TLC). Helium dilution or plethysmography is required for RV.",
+    "breakdown": [
+      {
+        "key": "Can Be Measured by Spirometer",
+        "label": "Tidal Volume (TV), IRV, ERV, Inspiratory Capacity (IC), Expiratory Capacity (EC), Vital Capacity (VC)"
+      },
+      {
+        "key": "Cannot Be Measured by Spirometer",
+        "label": "Residual Volume (RV), Functional Residual Capacity (FRC), Total Lung Capacity (TLC)"
+      },
+      {
+        "key": "Reason for Limitation",
+        "label": "Residual air can never be blown out into the spirometer drum"
+      },
+      {
+        "key": "Special Method Required",
+        "label": "Helium dilution technique or body plethysmograph"
+      }
+    ],
+    "doodleBadge": "No RV, FRC, TLC",
+    "doodleSubtext": "Spirometer Blindspot",
+    "explanation": "If a patient breathes in and out of a spirometer, the lowest point on the trace is ERV; the volume below that line is inaccessible to the spirometer.",
+    "alsoRemember": "Vital Capacity is the largest volume of air a spirometer can record.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.2.1.",
+    "neetTrap": "FRC cannot be measured by a spirometer because FRC contains Residual Volume (ERV + RV).",
+    "tags": [
+      "Spirometer",
+      "Residual Volume",
+      "FRC",
+      "TLC",
+      "Clinical Measurements"
+    ],
+    "expandedMeaning": "Physical principles of spirometry and identification of measurable vs non-measurable lung volumes.",
+    "whyItWorks": "The \"RV Family\" rule eliminates guesswork: if the capacity contains RV, the spirometer cannot measure it.",
+    "visualDescription": "A spirometer machine with a green checkmark next to TV, IRV, ERV, VC and a big red \"X\" next to RV, FRC, and TLC.",
+    "neetRelevance": "Common trick question: \"Which of the following cannot be determined using a simple spirometer?\"",
+    "commonMistake": "Selecting Vital Capacity as non-measurable (VC is easily measured).",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.2.1",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following lung capacities CANNOT be measured directly by a standard spirometer?",
+      "options": [
+        "Inspiratory Capacity (IC)",
+        "Vital Capacity (VC)",
+        "Functional Residual Capacity (FRC)",
+        "Expiratory Capacity (EC)"
+      ],
+      "answerIndex": 2,
+      "explanation": "Functional Residual Capacity (FRC = ERV + RV) cannot be measured by a spirometer because residual volume (RV) cannot be exhaled into the device."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-19",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Thoracic Chamber Anatomy",
+    "topic": "Anatomical Boundaries of the Air-Tight Thoracic Chamber",
+    "mnemonicNumber": 19,
+    "title": "Thoracic Cage: Vertebrae Back, Sternum Front, Ribs Sides, Diaphragm Floor",
+    "badgeText": "Concept",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "mnemonicType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Thoracic Cage: Dorsal Vertebral Column | Ventral Sternum | Lateral Ribs | Lower Diaphragm",
+    "memoryHook": "The thoracic chamber is an anatomically AIR-TIGHT cage! Dorsally formed by vertebral column, ventrally by sternum, laterally by ribs, and on lower side by dome-shaped diaphragm. Any change in thoracic volume is directly reflected in pulmonary volume!",
+    "fact": "The thoracic chamber is an anatomically airtight chamber. It is formed dorsally by the vertebral column, ventrally by the sternum, laterally by the ribs and on the lower side by the dome-shaped diaphragm. The anatomical setup of lungs in thorax is such that any change in the volume of the thoracic cavity will be reflected in the pulmonary cavity.",
+    "breakdown": [
+      {
+        "key": "Dorsal Boundary (Back)",
+        "label": "Vertebral column (thoracic vertebrae T1-T12)"
+      },
+      {
+        "key": "Ventral Boundary (Front)",
+        "label": "Sternum (breastbone)"
+      },
+      {
+        "key": "Lateral Boundaries (Sides)",
+        "label": "12 pairs of ribs interconnected by intercostal muscles"
+      },
+      {
+        "key": "Lower Boundary (Floor)",
+        "label": "Dome-shaped muscular diaphragm"
+      },
+      {
+        "key": "Significance",
+        "label": "We cannot directly alter pulmonary volume; we can only alter it by changing thoracic volume"
+      }
+    ],
+    "doodleBadge": "Airtight Chamber",
+    "doodleSubtext": "4 Anatomical Boundaries",
+    "explanation": "Because lungs lack skeletal muscles within their substance, they cannot inflate or deflate on their own without the thoracic cage.",
+    "alsoRemember": "Dorsal means back; Ventral means front in human anatomy.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.2.",
+    "neetTrap": "Vertebral column is DORSAL, Sternum is VENTRAL. Do not mix up dorsal and ventral.",
+    "tags": [
+      "Thoracic Chamber",
+      "Sternum",
+      "Vertebral Column",
+      "Ribs",
+      "Diaphragm",
+      "Airtight"
+    ],
+    "expandedMeaning": "Anatomical boundaries of the airtight thoracic chamber and the physical coupling between thoracic and lung volumes.",
+    "whyItWorks": "Compass direction mapping: Back = Vertebrae, Front = Sternum, Sides = Ribs, Floor = Diaphragm.",
+    "visualDescription": "A 3D box labeled Thoracic Chamber showing Back (Vertebrae), Front (Sternum), Sides (Ribs), and Floor (Diaphragm).",
+    "neetRelevance": "Verbatim NCERT question matching boundaries with anatomical directions.",
+    "commonMistake": "Calling the sternum dorsal and vertebral column ventral.",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.2",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "The ventral boundary of the airtight thoracic chamber in humans is formed by the:",
+      "options": [
+        "Vertebral column",
+        "Sternum",
+        "Diaphragm",
+        "Ribs"
+      ],
+      "answerIndex": 1,
+      "explanation": "The ventral (anterior/front) boundary of the thoracic cavity is formed by the sternum."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch14-20",
+    "subject": "biology",
+    "chapterId": "bio-ch-14",
+    "chapterNumber": 14,
+    "chapterTitle": "Breathing and Exchange of Gases",
+    "topicId": "bio-top-14-1",
+    "topicTitle": "Breathing Rate & Minute Volume",
+    "topic": "Respiratory Rate and Minute Respiratory Volume Calculation",
+    "mnemonicNumber": 20,
+    "title": "Breathing Metrics: 12-16 Breaths/Min, Minute Volume 6000-8000 mL",
+    "badgeText": "Formula",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "formula",
+    "mnemonicType": "formula",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "12 to 16 Breaths / min × 500 mL TV = 6000 to 8000 mL Minute Respiratory Volume!",
+    "memoryHook": "A healthy adult breathes 12 to 16 times per minute. With each quiet breath taking in 500 mL (Tidal Volume), total minute volume is 12 × 500 = 6000 mL to 16 × 500 = 8000 mL of air moved per minute!",
+    "fact": "A healthy human breathes 12-16 times/minute. An estimate of the volume of air involved in breathing movements can be carried out using a spirometer which helps in clinical assessment of pulmonary functions. Total minute volume is 6000-8000 mL/minute.",
+    "breakdown": [
+      {
+        "key": "Normal Respiratory Rate",
+        "label": "12 to 16 breaths per minute at rest"
+      },
+      {
+        "key": "Tidal Volume",
+        "label": "500 mL per single quiet breath"
+      },
+      {
+        "key": "Minute Volume Formula",
+        "label": "Minute Respiratory Volume = Respiratory Rate × Tidal Volume"
+      },
+      {
+        "key": "Calculation",
+        "label": "12 × 500 = 6000 mL/min to 16 × 500 = 8000 mL/min"
+      },
+      {
+        "key": "Dead Space Fraction",
+        "label": "150 mL out of each 500 mL stays in conducting zone (Alveolar ventilation = 350 mL × 12 = 4200 mL/min)"
+      }
+    ],
+    "doodleBadge": "12-16 / min | 6-8 L/min",
+    "doodleSubtext": "Minute Volume",
+    "explanation": "Tachypnea refers to abnormally rapid breathing (>20 breaths/min); bradypnea is abnormally slow breathing (<12 breaths/min).",
+    "alsoRemember": "Counting QRS complexes on an ECG gives heart rate, while a spirometer drum trace measures respiratory rate.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 14, Section 14.2 & 14.2.1.",
+    "neetTrap": "Minute volume is 6000 to 8000 mL/min, NOT per hour or per day.",
+    "tags": [
+      "Respiratory Rate",
+      "Minute Volume",
+      "Tidal Volume",
+      "12-16 Breaths",
+      "Spirometer"
+    ],
+    "expandedMeaning": "Normal physiological breathing rates, tidal ventilation, and minute respiratory volume calculations.",
+    "whyItWorks": "Direct multiplication: 12-16 × 500 = 6000-8000 mL/min.",
+    "visualDescription": "A stopwatch counting 12 to 16 ticks alongside a gallon jug measuring 6 to 8 liters of air passing through per minute.",
+    "neetRelevance": "Basic numerical question on human respiratory rate and minute volume.",
+    "commonMistake": "Stating human respiratory rate is 72 breaths per minute (confusing with heart rate!).",
+    "sourceReference": "NCERT Class 11 Chapter 14 Section 14.2",
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "What is the normal breathing rate of a healthy adult human at rest according to NCERT?",
+      "options": [
+        "70 to 75 times/minute",
+        "12 to 16 times/minute",
+        "20 to 25 times/minute",
+        "5 to 8 times/minute"
+      ],
+      "answerIndex": 1,
+      "explanation": "A healthy human breathes 12 to 16 times per minute under resting physiological conditions."
+    }
+  }
+];

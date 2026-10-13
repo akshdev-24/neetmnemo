@@ -54,9 +54,34 @@ export function MnemonicDetailView({
   };
 
   // Find related mnemonics in the same chapter or subject
-  const relatedMnemonics = MNEMONICS.filter(
-    (m) => m.id !== mnemonic.id && (m.chapterId === mnemonic.chapterId || m.subject === mnemonic.subject)
-  ).slice(0, 3);
+  const relatedMnemonics = mnemonic
+    ? MNEMONICS.filter(
+        (m) => m.id !== mnemonic.id && (m.chapterId === mnemonic.chapterId || m.subject === mnemonic.subject)
+      ).slice(0, 3)
+    : [];
+
+  if (!mnemonic) {
+    return (
+      <article className="max-w-md mx-auto py-16 px-4 text-center space-y-4">
+        <div className="p-8 rounded-3xl bg-white border-2 border-[#243044] shadow-sketch space-y-3">
+          <div className="w-14 h-14 rounded-2xl bg-[#FFE681] border-2 border-[#243044] flex items-center justify-center mx-auto text-2xl">
+            💡
+          </div>
+          <h2 className="font-title text-xl font-bold text-[#243044]">Mnemonic Not Available</h2>
+          <p className="text-xs text-[#667085]">
+            No mnemonic records are currently loaded in this chapter or subject.
+          </p>
+          <button
+            onClick={onBack}
+            className="inline-flex items-center gap-2 px-4 py-2 rounded-2xl bg-[#243044] text-white font-title text-xs font-bold hover:bg-[#344259] transition-all"
+          >
+            <ArrowLeft className="w-4 h-4" />
+            <span>Go Back</span>
+          </button>
+        </div>
+      </article>
+    );
+  }
 
   return (
     <article className="max-w-3xl mx-auto py-6 px-4 sm:px-6 space-y-6">

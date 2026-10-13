@@ -1,0 +1,1476 @@
+export const bioCh03Mnemonics = [
+  {
+    "id": "mnemo-bio-02",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-1",
+    "topicTitle": "Algae Classes & Pigments",
+    "mnemonicNumber": 2,
+    "title": "Algae Classes: Green, Brown & Red Food Trick",
+    "badgeText": "Memory Trick",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#DDF7E8",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Green Grass (Starch) | Brown Bread (Mannitol) | Red Ruby (Floridean Starch)",
+    "memoryHook": "Chlorophyceae = Green (Chl a, b + Starch) | Phaeophyceae = Brown (Chl a, c + Fucoxanthin + Mannitol) | Rhodophyceae = Red (Chl a, d + r-Phycoerythrin + Floridean starch)!",
+    "fact": "Chlorophyceae (Green algae): Starch. Phaeophyceae (Brown algae): Mannitol and Laminarin. Rhodophyceae (Red algae): Floridean starch (structurally identical to amylopectin and glycogen).",
+    "breakdown": [
+      {
+        "key": "Green Algae (Chlorophyceae)",
+        "label": "Chl a, b • Starch • Cellulose wall (Volvox, Chlamydomonas, Spirogyra)"
+      },
+      {
+        "key": "Brown Algae (Phaeophyceae)",
+        "label": "Chl a, c • Fucoxanthin • Mannitol & Laminarin • Algin wall (Ectocarpus, Fucus, Dictyota)"
+      },
+      {
+        "key": "Red Algae (Rhodophyceae)",
+        "label": "Chl a, d • r-Phycoerythrin • Floridean Starch (Polysiphonia, Porphyra, Gelidium)"
+      }
+    ],
+    "doodleBadge": "Green · Brown · Red",
+    "doodleSubtext": "Algae Storage & Pigments",
+    "explanation": "Red algae can grow at great depths in oceans because r-phycoerythrin absorbs the high-energy blue-green light that penetrates deep water.",
+    "alsoRemember": "Agar is extracted from Gelidium and Gracilaria (Red algae) to culture bacteria and make jellies.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Table 3.1.",
+    "neetTrap": "Red algae NEVER produce flagella at any stage of their life cycle (non-motile spores and gametes).",
+    "tags": [
+      "Algae",
+      "Plant Kingdom",
+      "Pigments",
+      "Class 11"
+    ],
+    "quiz": {
+      "question": "Which carbohydrate stored in red algae is structurally very similar to amylopectin and glycogen?",
+      "options": [
+        "Cellulose",
+        "Floridean Starch",
+        "Mannitol",
+        "Laminarin"
+      ],
+      "answerIndex": 1,
+      "explanation": "Floridean starch found in Rhodophyceae has branched structure very similar to amylopectin and glycogen."
+    },
+    "topic": "Algae Classes & Food Storage",
+    "expandedMeaning": "Chlorophyceae stores starch; Phaeophyceae stores laminarin/mannitol; Rhodophyceae stores floridean starch.",
+    "whyItWorks": "Direct color and food association: Grass=Starch, Brown Bread=Mannitol, Red Ruby=Floridean Starch.",
+    "mnemonicType": "classification",
+    "visualDescription": "Three jars showing green starch granules, brown bread slices, and red ruby-like floridean starch.",
+    "neetRelevance": "NEET 2021, 2020 match-the-table question on algae classes, pigments, and stored food.",
+    "commonMistake": "Confusing laminarin/mannitol (brown) with floridean starch (red).",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Chapter 3, Table 3.1"
+    },
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "mnemo-bio-ch03-02",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-1",
+    "topicTitle": "Algae Classes",
+    "topic": "Chlorophyceae Examples",
+    "mnemonicNumber": 2,
+    "title": "Green Algae Examples: \"C-U-V-S-C: Chlamydomonas, Ulothrix, Volvox, Spirogyra, Chara\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "C-U-V-S-C: Clean Uniforms Voluntarily Shown Clean (Chlamydomonas, Ulothrix, Volvox, Spirogyra, Chara)",
+    "memoryHook": "Green Algae loves clean green nature: Chlamydomonas (unicellular motile), Ulothrix (unbranched filamentous), Volvox (colonial rolling ball), Spirogyra (ribbon chloroplast), and Chara (stonewort with nucule & globule)!",
+    "expandedMeaning": "Chlorophyceae are usually green due to chlorophyll a and b located in definite chloroplasts. Most members have one or more storage bodies called pyrenoids (protein beside starch) located in chloroplasts. Cell wall is made of an inner layer of cellulose and outer layer of pectose. Flagella: 2-8, equal, apical.",
+    "fact": "Pyrenoids contain protein besides starch. The inner layer of green algal cell wall is cellulose and the outer layer is pectose.",
+    "breakdown": [
+      {
+        "key": "Chlamydomonas",
+        "label": "Unicellular, biflagellated green alga"
+      },
+      {
+        "key": "Ulothrix",
+        "label": "Unbranched filamentous green alga"
+      },
+      {
+        "key": "Volvox",
+        "label": "Colonial form (coenobium)"
+      },
+      {
+        "key": "Spirogyra",
+        "label": "Filamentous with spiral/ribbon-shaped chloroplasts"
+      },
+      {
+        "key": "Chara",
+        "label": "Macroscopic multicellular stonewort"
+      }
+    ],
+    "doodleBadge": "C-U-V-S-C Green Algae",
+    "doodleSubtext": "Chlorophyceae 5",
+    "explanation": "Asexual reproduction is by flagellated zoospores produced in zoosporangia. Sexual reproduction shows isogamy, anisogamy, or oogamy.",
+    "whyItWorks": "Directly bundles all 5 core NCERT green algae representatives.",
+    "alsoRemember": "Inner wall = Cellulose; Outer wall = Pectose.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.1.1",
+    "neetTrap": "Questions on cell wall composition of green algae: Inner is CELLULOSE, outer is PECTOSE (not pectin alone).",
+    "commonMistake": "Placing Ectocarpus in green algae (Ectocarpus is brown algae).",
+    "tags": [
+      "Chlorophyceae",
+      "Green Algae",
+      "Volvox",
+      "Chara",
+      "Spirogyra",
+      "Pyrenoids"
+    ],
+    "visualDescription": "Five green plant icons showing a flagellated cell, a green filament, a rolling green sphere, a spiral ladder, and branched Chara.",
+    "neetRelevance": "NEET 2020, 2019 match-the-column questions on algal types.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.1.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following green algae forms colonial spherical balls known as coenobia?",
+      "options": [
+        "Chlamydomonas",
+        "Spirogyra",
+        "Volvox",
+        "Ulothrix"
+      ],
+      "answerIndex": 2,
+      "explanation": "Volvox is a colonial green alga that forms hollow spherical colonies called coenobia."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-03",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-1",
+    "topicTitle": "Algae Classes",
+    "topic": "Phaeophyceae Examples & Pigments",
+    "mnemonicNumber": 3,
+    "title": "Brown Algae Examples: \"E-L-S-D-F: Ectocarpus, Laminaria, Sargassum, Dictyota, Fucus\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "E-L-S-D-F: Every Little Sister Does Fitness (Ectocarpus, Laminaria, Sargassum, Dictyota, Fucus)",
+    "memoryHook": "Brown algae workout with EL-S-D-F: Ectocarpus, Laminaria (kelp), Sargassum (floating gulfweed), Dictyota, and Fucus (rockweed with air bladders)! Olive-green to brown due to FUCOXANTHIN!",
+    "expandedMeaning": "Phaeophyceae are primarily marine. Possess chlorophyll a, c, carotenoids, and xanthophylls (predominantly FUCOXANTHIN giving olive-green to brown color). Food stored as complex carbohydrates: laminarin or mannitol. Plant body attached to substratum by a HOLDFAST, has a stalk called STIPE, and leaf-like photosynthetic organ called FROND.",
+    "fact": "Brown algae have pear-shaped (pyriform) zoospores with TWO UNEQUAL, LATERALLY attached flagella. Cell wall has cellulose covered outside by a gelatinous coating of ALGIN.",
+    "breakdown": [
+      {
+        "key": "Key Pigment",
+        "label": "Fucoxanthin (xanthophyll) + Chlorophyll a & c"
+      },
+      {
+        "key": "Body parts",
+        "label": "Holdfast (anchorage), Stipe (stem stalk), Frond (photosynthetic leaf)"
+      },
+      {
+        "key": "Flagella",
+        "label": "2, unequal, lateral insertion, pyriform (pear-shaped)"
+      },
+      {
+        "key": "Gelatinous coating",
+        "label": "Algin (hydrocolloid water-holding phycocolloid)"
+      },
+      {
+        "key": "E-L-S-D-F",
+        "label": "Ectocarpus, Laminaria, Sargassum, Dictyota, Fucus"
+      }
+    ],
+    "doodleBadge": "EL-S-D-F | Fucoxanthin Brown",
+    "doodleSubtext": "Phaeophyceae Traits",
+    "explanation": "Kelps are giant brown algae that may reach a height of 100 meters.",
+    "whyItWorks": "ELSDF locks down all 5 brown algae genera; lateral unequal flagella answers standard NEET traps.",
+    "alsoRemember": "Fucus exhibits a diplontic life cycle, an exception among algae.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.1.2",
+    "neetTrap": "Where are flagella attached in brown algae? LATERALLY (in green algae they are APICAL).",
+    "commonMistake": "Believing brown algae possess chlorophyll b (they have a and c; green has a and b; red has a and d).",
+    "tags": [
+      "Phaeophyceae",
+      "Brown Algae",
+      "Fucoxanthin",
+      "Algin",
+      "Laminaria",
+      "Fucus"
+    ],
+    "visualDescription": "A brown kelp anchored by a root-like holdfast, rising through a long stipe into broad fronds.",
+    "neetRelevance": "NEET 2021, 2019, 2017 questions on fucoxanthin, lateral flagella, and holdfast/stipe/frond.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.1.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which xanthophyll pigment gives members of Phaeophyceae their characteristic brown color?",
+      "options": [
+        "Fycocyanin",
+        "Fucoxanthin",
+        "Phycoerythrin",
+        "Lutein"
+      ],
+      "answerIndex": 1,
+      "explanation": "Fucoxanthin is the carotenoid/xanthophyll responsible for the brown color in Phaeophyceae."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-04",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-1",
+    "topicTitle": "Algae Classes",
+    "topic": "Rhodophyceae Examples & Pigments",
+    "mnemonicNumber": 4,
+    "title": "Red Algae: \"P-P-G-G: Polysiphonia, Porphyra, Gracilaria, Gelidium (r-Phycoerythrin)\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "P-P-G-G: Pretty Pearls Glow Gracefully (Polysiphonia, Porphyra, Gracilaria, Gelidium)",
+    "memoryHook": "Red rubies PPGG: Polysiphonia, Porphyra (edible red wrap), Gracilaria, and Gelidium (agar agar)! Red color from r-PHYCOERYTHRIN. Completely NON-MOTILE (zero flagella in entire life cycle)!",
+    "expandedMeaning": "Rhodophyceae members are commonly called red algae because of the predominance of red pigment r-PHYCOERYTHRIN. Majority are marine, found in well-lighted surface waters AND at great ocean depths where little light penetrates. Stored food is FLORIDEAN STARCH, which is very similar to amylopectin and glycogen in structure. Reproduction: asexual by NON-MOTILE spores and sexual by NON-MOTILE gametes (oogamous with complex post-fertilization developments).",
+    "fact": "Red algae completely lack any flagellated or motile stages throughout their entire life cycle. Floridean starch has structural similarity to amylopectin and glycogen.",
+    "breakdown": [
+      {
+        "key": "Key Pigment",
+        "label": "r-Phycoerythrin + Chlorophyll a & d"
+      },
+      {
+        "key": "Stored food",
+        "label": "Floridean starch (structurally similar to amylopectin and glycogen)"
+      },
+      {
+        "key": "Motility",
+        "label": "Flagella COMPLETELY ABSENT (non-motile spores and gametes)"
+      },
+      {
+        "key": "Sexual reproduction",
+        "label": "Oogamous accompanied by complex post-fertilization developments"
+      },
+      {
+        "key": "P-P-G-G",
+        "label": "Polysiphonia, Porphyra, Gracilaria, Gelidium"
+      }
+    ],
+    "doodleBadge": "PPGG | Zero Flagella | r-Phycoerythrin",
+    "doodleSubtext": "Red Algae Rules",
+    "explanation": "Red algae can absorb the short-wavelength high-energy blue-green light reaching ocean depths.",
+    "whyItWorks": "PPGG gives all 4 genera; \"Zero flagella\" and \"Amylopectin similarity\" directly answer frequent NEET MCQs.",
+    "alsoRemember": "Agar is extracted from Gelidium and Gracilaria.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.1.3",
+    "neetTrap": "Do red algae have flagellated zoospores? NEVER! All spores and gametes in Rhodophyceae are non-motile.",
+    "commonMistake": "Claiming floridean starch resembles cellulose (it resembles amylopectin and glycogen).",
+    "tags": [
+      "Rhodophyceae",
+      "Red Algae",
+      "r-Phycoerythrin",
+      "Floridean Starch",
+      "Gelidium",
+      "Polysiphonia"
+    ],
+    "visualDescription": "A red branching seaweed on deep seabed absorbing faint blue light rays.",
+    "neetRelevance": "NEET 2021, 2020, 2018 questions on floridean starch structure and non-motile gametes.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.1.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Floridean starch found in red algae has structural similarity to:",
+      "options": [
+        "Cellulose and pectin",
+        "Amylopectin and glycogen",
+        "Laminarin and mannitol",
+        "Chitin and inulin"
+      ],
+      "answerIndex": 1,
+      "explanation": "NCERT specifies that floridean starch is structurally very similar to amylopectin and glycogen."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-05",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-1",
+    "topicTitle": "Economic Importance of Algae",
+    "topic": "Algin vs Carrageen Sources",
+    "mnemonicNumber": 5,
+    "title": "Hydrocolloids: \"A-B (Algin from Brown) & C-R (Carrageen from Red)\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "comparison",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "AB = Algin from Brown Algae | CR = Carrageen from Red Algae",
+    "memoryHook": "Alphabet pairing: A-B (Algin is Brown) and C-R (Carrageen is Red)! Both are water-holding hydrocolloids used commercially!",
+    "expandedMeaning": "Certain marine brown and red algae produce large amounts of hydrocolloids (water holding substances), e.g., ALGIN (from brown algae) and CARRAGEEN (from red algae) which are used commercially.",
+    "fact": "Algin is used as a thickening and stabilizing agent in ice creams, paints, and dental impressions. Carrageen is extracted from Chondrus crispus (Irish moss, a red alga).",
+    "breakdown": [
+      {
+        "key": "Algin (A-B)",
+        "label": "Derived from BROWN algae (Phaeophyceae)"
+      },
+      {
+        "key": "Carrageen (C-R)",
+        "label": "Derived from RED algae (Rhodophyceae)"
+      },
+      {
+        "key": "Commercial use",
+        "label": "Hydrocolloids (water-holding phycocolloids) for emulsification and stabilization"
+      }
+    ],
+    "doodleBadge": "Algin = Brown | Carrageen = Red",
+    "doodleSubtext": "Hydrocolloid Sources",
+    "explanation": "Hydrocolloids are gelatinous polymers that swell in water to form gels.",
+    "whyItWorks": "AB and CR are simple 2-letter alphabetic memory pegs that make flipping them impossible.",
+    "alsoRemember": "Agar is also a hydrocolloid obtained from Gelidium and Gracilaria (red algae).",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.1",
+    "neetTrap": "Options will flip them: \"Algin from red and carrageen from brown\". Remember: A-B and C-R!",
+    "commonMistake": "Attributing carrageen to green algae.",
+    "tags": [
+      "Algin",
+      "Carrageen",
+      "Hydrocolloids",
+      "Brown Algae",
+      "Red Algae"
+    ],
+    "visualDescription": "A brown sea kelp dripping Algin gel and a red bush seaweed dripping Carrageen gel.",
+    "neetRelevance": "Direct factual question in NEET 2021, 2016.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which hydrocolloid is commercially extracted from brown algae?",
+      "options": [
+        "Carrageen",
+        "Agar",
+        "Algin",
+        "Pectin"
+      ],
+      "answerIndex": 2,
+      "explanation": "Algin is obtained commercially from brown algae (Phaeophyceae), while carrageen is obtained from red algae."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-06",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-1",
+    "topicTitle": "Economic Importance of Algae",
+    "topic": "Agar-Agar & Space Alga Chlorella",
+    "mnemonicNumber": 6,
+    "title": "Algae Uses: \"Agar from Gelidium-Gracilaria | Chlorella for Astronauts\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Agar = Gelidium + Gracilaria (Microbe media & Ice creams) | Chlorella = Single-cell Protein for Space Travelers",
+    "memoryHook": "Gelidium and Gracilaria give Agar Jellies for growing microbes in lab petri dishes. Chlorella is a protein-packed green tablet for Astronauts traveling in space!",
+    "expandedMeaning": "Agar, one of the commercial products obtained from Gelidium and Gracilaria, is used to grow microbes and in preparations of ice-creams and jellies. Chlorella is a unicellular green alga rich in proteins and is used as food supplement even by space travelers.",
+    "fact": "Chlorella is a chlorophycean unicellular alga that does not melt at human body temperature when used in dietary formulations.",
+    "breakdown": [
+      {
+        "key": "Agar source",
+        "label": "Gelidium and Gracilaria (both are Red Algae / Rhodophyceae)"
+      },
+      {
+        "key": "Agar uses",
+        "label": "Solidifying agent in microbial culture media, ice-creams, jellies"
+      },
+      {
+        "key": "Chlorella",
+        "label": "Unicellular green alga rich in protein"
+      },
+      {
+        "key": "Space food",
+        "label": "Used as single-cell protein food supplement by astronauts"
+      }
+    ],
+    "doodleBadge": "Agar = G & G | Chlorella = Space Food",
+    "doodleSubtext": "Commercial Algae",
+    "explanation": "Agar melts at around 85°C and solidifies at around 40°C, making it ideal for culture plates.",
+    "whyItWorks": "Direct linkage: Agar = Gelidium/Gracilaria; Chlorella = Space traveler protein.",
+    "alsoRemember": "Spirulina (cyanobacterium) is also used as a single-cell protein food supplement.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.1",
+    "neetTrap": "Is Chlorella a prokaryote or eukaryote? EUKARYOTE! (Spirulina is prokaryotic cyanobacteria).",
+    "commonMistake": "Thinking Agar is synthesized chemically in factories (it is a natural red algal product).",
+    "tags": [
+      "Agar",
+      "Gelidium",
+      "Gracilaria",
+      "Chlorella",
+      "Space Food"
+    ],
+    "visualDescription": "An astronaut eating a Chlorella protein tablet next to a laboratory petri dish with clear solid agar.",
+    "neetRelevance": "NEET 2020, 2018 questions on agar source and single cell proteins.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Agar-agar, widely used in bacteriological culture media and desserts, is extracted from:",
+      "options": [
+        "Chlamydomonas and Volvox",
+        "Gelidium and Gracilaria",
+        "Laminaria and Sargassum",
+        "Ectocarpus and Dictyota"
+      ],
+      "answerIndex": 1,
+      "explanation": "Agar is extracted commercially from the red algae Gelidium and Gracilaria."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-07",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-2",
+    "topicTitle": "Bryophytes",
+    "topic": "Amphibians of Plant Kingdom",
+    "mnemonicNumber": 7,
+    "title": "Bryophytes: \"Soil Dwellers, But Water-Dependent for Swimming Antherozoids\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Bryophytes = Amphibians of Plant Kingdom (Live in soil, need WATER for fertilization)",
+    "memoryHook": "Like frogs hopping between land and pond, Bryophytes live in damp soil but desperately need a thin film of WATER so their biflagellated antherozoids can swim to the archegonium!",
+    "expandedMeaning": "Bryophytes are called amphibians of the plant kingdom because these plants can live in soil but are dependent on water for sexual reproduction. The antherozoids (male gametes) released from antheridium are flagellated and swim through water to reach the neck of the flask-shaped archegonium.",
+    "fact": "Bryophytes lack true roots, stems, or leaves; they possess root-like (rhizoids), stem-like, and leaf-like structures. The main plant body is a haploid gametophyte.",
+    "breakdown": [
+      {
+        "key": "Title",
+        "label": "Amphibians of the plant kingdom"
+      },
+      {
+        "key": "Why soil?",
+        "label": "Live in shaded, damp soil terrestrial environments"
+      },
+      {
+        "key": "Why water?",
+        "label": "Essential for transfer of flagellated antherozoids to archegonium"
+      },
+      {
+        "key": "Main body",
+        "label": "Haploid GAMETOPHYTE (dominant, independent, photosynthetic)"
+      },
+      {
+        "key": "Sex organs",
+        "label": "Multicellular jacketed: Antheridium (male) & Archegonium (female)"
+      }
+    ],
+    "doodleBadge": "Amphibians: Soil + Water Sex",
+    "doodleSubtext": "Bryophyte Reproduction",
+    "explanation": "Archegonium is flask-shaped and produces a single egg. The zygote does not undergo reduction division immediately.",
+    "whyItWorks": "Directly hooks the word \"Amphibian\" to the ecological rationale required by NCERT.",
+    "alsoRemember": "Bryophytes play an important role in plant succession on bare rocks/soil.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.2",
+    "neetTrap": "Do bryophytes have vascular tissues? NO. Xylem and phloem are completely absent in bryophytes.",
+    "commonMistake": "Saying sporophyte is the dominant phase in bryophytes (gametophyte is dominant).",
+    "tags": [
+      "Bryophytes",
+      "Amphibians of Plant Kingdom",
+      "Antherozoids",
+      "Archegonium"
+    ],
+    "visualDescription": "A tiny green moss gametophyte in damp soil with a water droplet bridging the antheridium to an archegonium.",
+    "neetRelevance": "Classic NEET question on why bryophytes are called amphibians of the plant kingdom.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Bryophytes are referred to as the amphibians of the plant kingdom because:",
+      "options": [
+        "They look like frogs",
+        "They live on dry sand dunes",
+        "They grow on land but require water for sexual reproduction",
+        "They have lungs for breathing underwater"
+      ],
+      "answerIndex": 2,
+      "explanation": "Bryophytes live on damp terrestrial soil but require a film of water for their flagellated male gametes to swim and fertilize the egg."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-08",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-2",
+    "topicTitle": "Bryophytes",
+    "topic": "Sporophyte Dependent on Gametophyte",
+    "mnemonicNumber": 8,
+    "title": "Bryophyte Life Cycle: \"Free-Living Gametophyte Hosts Parasitic Sporophyte\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Gametophyte = Free-living, photosynthetic landlord | Sporophyte (Foot, Seta, Capsule) = Parasitic tenant",
+    "memoryHook": "In Bryophytes, the Gametophyte owns the house! The diploid Sporophyte (Foot, Seta, Capsule) is not free-living; it stays permanently attached to the gametophyte for water and nutrition!",
+    "expandedMeaning": "Zygotes do not undergo reduction division immediately; they produce a multicellular body called a SPOROPHYTE. The sporophyte is not free-living but attached to the photosynthetic gametophyte and derives nourishment from it. Some cells of the sporophyte (spore mother cells) undergo reduction division (meiosis) to produce haploid spores, which germinate to produce gametophytes.",
+    "fact": "In mosses, the sporophyte is more elaborate than that in liverworts and consists of foot, seta, and capsule containing spores formed after meiosis.",
+    "breakdown": [
+      {
+        "key": "Gametophyte (n)",
+        "label": "Dominant, independent, green, photosynthetic haploid phase"
+      },
+      {
+        "key": "Sporophyte (2n)",
+        "label": "Dependent on gametophyte for anchorage and nourishment"
+      },
+      {
+        "key": "Sporophyte parts",
+        "label": "Foot, Seta, and Capsule"
+      },
+      {
+        "key": "Spore formation",
+        "label": "Meiosis occurs inside the capsule of the sporophyte"
+      },
+      {
+        "key": "Pteridophyte contrast",
+        "label": "In Pteridophytes, the SPOROPHYTE becomes independent and dominant"
+      }
+    ],
+    "doodleBadge": "Sporophyte = Dependent on Gametophyte",
+    "doodleSubtext": "Bryophyte Parasitism",
+    "explanation": "The capsule contains spores that are dispersed by an elaborate peristome tooth mechanism in mosses.",
+    "whyItWorks": "Direct contrast: Bryophyte = dependent sporophyte; Pteridophyte = independent dominant sporophyte.",
+    "alsoRemember": "Mosses have an elaborate mechanism of spore dispersal via peristome teeth.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.2",
+    "neetTrap": "Is the sporophyte in mosses free-living? NO, it remains attached to and dependent on the gametophyte.",
+    "commonMistake": "Claiming bryophyte spores are diploid (spores are haploid products of meiosis).",
+    "tags": [
+      "Bryophyte",
+      "Gametophyte",
+      "Sporophyte",
+      "Foot Seta Capsule",
+      "Meiosis"
+    ],
+    "visualDescription": "A green leafy moss thallus at the bottom with a slender brown stalk (seta) topped with a capsule deriving nourishment.",
+    "neetRelevance": "NEET 2020, 2017 questions comparing gametophyte vs sporophyte dominance.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "In bryophytes, the sporophyte is:",
+      "options": [
+        "Completely independent and photosynthetic",
+        "Attached to and derives nourishment from the gametophyte",
+        "Formed directly by germination of a spore",
+        "The dominant thalloid phase of the life cycle"
+      ],
+      "answerIndex": 1,
+      "explanation": "The bryophyte sporophyte is not free-living; it remains attached to the photosynthetic gametophyte to derive nutrition."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-09",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-2",
+    "topicTitle": "Bryophytes: Liverworts",
+    "topic": "Marchantia Gemmae & Dioecious Thallus",
+    "mnemonicNumber": 9,
+    "title": "Marchantia: \"Gemma Cups (Asexual Buds) & Dioecious Umbrellas\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Marchantia = Gemma Cups (Green Asexual Buds) + Dioecious (Antheridiophore ♂ / Archegoniophore ♀)",
+    "memoryHook": "Marching into Marchantia! Green GEMMA CUPS carry asexual buds on the dorsal thallus. Male umbrella (Antheridiophore) and female scalloped umbrella (Archegoniophore) grow on SEPARATE thalli (Dioecious)!",
+    "expandedMeaning": "Liverworts grow in moist, shady habitats. The plant body of a liverwort is thalloid, e.g., Marchantia (dorsiventral, closely appressed to the substrate). Asexual reproduction occurs by fragmentation or by specialized multicellular asexual buds called GEMMAE, produced in gemma cups located on the thalli. During sexual reproduction, male and female sex organs are produced either on the same or on different thalli (Marchantia is DIOECIOUS).",
+    "fact": "Gemmae are green, multicellular, asexual buds that detach from the gemma cup and germinate into new individuals.",
+    "breakdown": [
+      {
+        "key": "Thallus",
+        "label": "Dorsiventral, dichotomously branched, prostrate"
+      },
+      {
+        "key": "Gemmae",
+        "label": "Green, multicellular, asexual buds inside gemma cups on dorsal surface"
+      },
+      {
+        "key": "Sexuality",
+        "label": "DIOECIOUS (unisexual): separate male and female plants"
+      },
+      {
+        "key": "Male branch",
+        "label": "Antheridiophore (flat-topped umbrella)"
+      },
+      {
+        "key": "Female branch",
+        "label": "Archegoniophore (scalloped/star-rayed umbrella)"
+      }
+    ],
+    "doodleBadge": "Gemma = Green Asexual Bud | Dioecious",
+    "doodleSubtext": "Marchantia Biology",
+    "explanation": "Gemmae detach from the parent thallus and germinate to directly produce new gametophytes.",
+    "whyItWorks": "Directly reinforces the description of gemmae (green, multicellular, asexual) and dioecy.",
+    "alsoRemember": "Rhizoids in Marchantia are unicellular and branched/unbranched.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.2.1",
+    "neetTrap": "Are gemmae sexual or asexual? Strictly ASEXUAL multicellular buds!",
+    "commonMistake": "Describing Marchantia as monoecious (Marchantia is strictly dioecious).",
+    "tags": [
+      "Marchantia",
+      "Liverworts",
+      "Gemmae",
+      "Antheridiophore",
+      "Archegoniophore",
+      "Dioecious"
+    ],
+    "visualDescription": "A green lobed Marchantia thallus with circular gemma cups on top and an umbrella-like archegoniophore rising up.",
+    "neetRelevance": "NEET 2021, 2018, 2016 questions on gemma cups and diagram of Marchantia male/female.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.2.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "In Marchantia, gemmae are characterized as:",
+      "options": [
+        "Unicellular sexual spores",
+        "Multicellular, green, asexual buds",
+        "Diploid resting seeds",
+        "Brown roots for water absorption"
+      ],
+      "answerIndex": 1,
+      "explanation": "NCERT defines gemmae as green, multicellular, asexual buds developed in small receptacles called gemma cups."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-10",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-2",
+    "topicTitle": "Bryophytes: Mosses",
+    "topic": "Mosses Trio (F-S-P)",
+    "mnemonicNumber": 10,
+    "title": "Mosses Trio: \"F-S-P: Funaria (Cord Moss), Sphagnum (Peat Moss), Polytrichum (Hair-Cap)\"",
+    "badgeText": "Classification",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "F-S-P = Funaria + Sphagnum + Polytrichum (Famous Soft Pillows)",
+    "memoryHook": "Famous Soft Pillows of green: Funaria (rope/cord moss), Sphagnum (water-holding peat moss), and Polytrichum (hair-cap moss) are the 3 textbook mosses!",
+    "expandedMeaning": "Common examples of mosses are Funaria, Sphagnum, and Polytrichum. The predominant stage of the life cycle of a moss is the gametophyte, which consists of two stages: 1. Protonema stage (develops directly from a spore, creeping, green, branched, filamentous). 2. Leafy stage (develops from secondary protonema as a lateral bud, consists of upright, slender axes bearing spirally arranged leaves, attached to soil by multicellular branched rhizoids).",
+    "fact": "Rhizoids of mosses are MULTICELLULAR and BRANCHED, whereas rhizoids of liverworts (like Marchantia) are UNICELLULAR.",
+    "breakdown": [
+      {
+        "key": "Funaria",
+        "label": "Cord moss"
+      },
+      {
+        "key": "Sphagnum",
+        "label": "Peat moss (bog moss)"
+      },
+      {
+        "key": "Polytrichum",
+        "label": "Hair-cap moss"
+      },
+      {
+        "key": "Stage 1",
+        "label": "Protonema stage: creeping, green, branched, filamentous from spore"
+      },
+      {
+        "key": "Stage 2",
+        "label": "Leafy stage: upright axis, spiral leaves, multicellular rhizoids"
+      }
+    ],
+    "doodleBadge": "F-S-P Mosses | Protonema → Leafy",
+    "doodleSubtext": "Moss 2-Stage Life",
+    "explanation": "Vegetative reproduction in mosses is by fragmentation and budding in the secondary protonema.",
+    "whyItWorks": "FSP gives all 3 moss genera, and highlights the two-stage protonema-to-leafy development.",
+    "alsoRemember": "Only the leafy stage bears the sex organs (antheridia and archegonia) at its apex.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.2.2",
+    "neetTrap": "Where do sex organs develop in mosses? On the LEAFY stage, NOT on the protonema stage!",
+    "commonMistake": "Stating moss rhizoids are unicellular (they are multicellular and branched).",
+    "tags": [
+      "Mosses",
+      "Funaria",
+      "Sphagnum",
+      "Polytrichum",
+      "Protonema",
+      "Leafy Stage"
+    ],
+    "visualDescription": "A spreading filamentous green protonema giving rise to an upright leafy shoot bearing capsule.",
+    "neetRelevance": "NEET 2020, 2017 questions on protonema stage and moss rhizoid structure.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.2.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which stage develops directly from the germination of a haploid spore in mosses?",
+      "options": [
+        "Leafy stage",
+        "Protonema stage",
+        "Sporophyte stage",
+        "Archegoniophore"
+      ],
+      "answerIndex": 1,
+      "explanation": "In mosses, the first stage developing directly from the spore is the creeping, filamentous Protonema stage."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-11",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-2",
+    "topicTitle": "Bryophytes: Sphagnum",
+    "topic": "Sphagnum Economic Importance",
+    "mnemonicNumber": 11,
+    "title": "Sphagnum: \"Peat Fuel + Water-Holding Sponge for Trans-shipment of Living Plants\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Sphagnum = Peat Fuel + Trans-shipment Packing Material (High Water Holding Capacity)",
+    "memoryHook": "Sphagnum Sops up water like a giant sponge! It provides PEAT fuel dried and burned for energy, and its immense water retention makes it the #1 packing material for shipping live living plants across oceans!",
+    "expandedMeaning": "Species of Sphagnum, a moss, provide PEAT that have long been used as fuel, and as packing material for trans-shipment of living material because of their capacity to hold water. Mosses along with lichens are the first organisms to colonize rocks and hence, are of great ecological importance, decomposing rocks making the substrate suitable for higher plants.",
+    "fact": "Sphagnum can hold up to 20 to 25 times its dry weight in water due to large dead hyaline cells with spiral thickenings in its leaves.",
+    "breakdown": [
+      {
+        "key": "Product",
+        "label": "Peat: fossilized compacted moss used as fuel and soil conditioner"
+      },
+      {
+        "key": "Special property",
+        "label": "Immense water-holding capacity (hyaline cells)"
+      },
+      {
+        "key": "Commercial use",
+        "label": "Packing material for shipping live seedlings and perishable plants"
+      },
+      {
+        "key": "Ecological role",
+        "label": "Forms dense soil mats preventing soil erosion from falling rain"
+      }
+    ],
+    "doodleBadge": "Sphagnum: Peat + Water Sponge",
+    "doodleSubtext": "Peat Moss Value",
+    "explanation": "Since mosses form dense mats on the soil, they reduce the impact of falling rain and prevent soil erosion.",
+    "whyItWorks": "Directly hooks \"Sphagnum\" to \"Peat\" and \"Trans-shipment of living material\".",
+    "alsoRemember": "Sphagnum is also called Bog Moss or Turf Moss.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.2",
+    "neetTrap": "Questions asking which moss is used as fuel. SPHAGNUM (Peat).",
+    "commonMistake": "Selecting Funaria as peat moss (Sphagnum is peat moss).",
+    "tags": [
+      "Sphagnum",
+      "Peat",
+      "Trans-shipment",
+      "Water Holding",
+      "Moss"
+    ],
+    "visualDescription": "A brown brick of dried peat fuel next to green Sphagnum moss wrapping around roots of a young seedling in a shipping crate.",
+    "neetRelevance": "NEET 2020, 2014 questions on Sphagnum trans-shipment and peat fuel.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which bryophyte is widely used as packing material for trans-shipment of living material due to its high water-holding capacity?",
+      "options": [
+        "Marchantia",
+        "Funaria",
+        "Sphagnum",
+        "Riccia"
+      ],
+      "answerIndex": 2,
+      "explanation": "Sphagnum has an extraordinary capacity to retain water, making it ideal as packing material for live plants."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-12",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-3",
+    "topicTitle": "Pteridophytes",
+    "topic": "First Vascular Terrestrial Plants",
+    "mnemonicNumber": 12,
+    "title": "Pteridophytes: \"First With Vascular Pipes (Xylem/Phloem) & Dominant Sporophyte\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Pteridophytes = First Terrestrial Plants With Vascular Tissues (Xylem + Phloem) + Dominant SPOROPHYTE",
+    "memoryHook": "Pteridophytes lay the first plumbing pipes on land! They are the FIRST plants with vascular xylem and phloem, have true roots, stems, and leaves, and flip the switch so the SPOROPHYTE is the main dominant plant!",
+    "expandedMeaning": "Pteridophytes (horsetails and ferns) are used for medicinal purposes and as soil-binders, frequently grown as ornamentals. Evolutionarily, they are the FIRST terrestrial plants to possess vascular tissues — xylem and phloem. In pteridophytes, the main plant body is a SPOROPHYTE which is differentiated into true root, stem, and leaves.",
+    "fact": "Xylem of pteridophytes lacks true vessels (except in Selaginella and Equisetum) and phloem lacks companion cells and sieve tubes (they have albuminous cells and sieve cells).",
+    "breakdown": [
+      {
+        "key": "Evolutionary milestone",
+        "label": "FIRST terrestrial plants with vascular tissues (Xylem & Phloem)"
+      },
+      {
+        "key": "Dominant phase",
+        "label": "Independent diploid SPOROPHYTE with true roots, stem, leaves"
+      },
+      {
+        "key": "Leaves",
+        "label": "Microphylls (small, e.g. Selaginella) vs Macrophylls (large, e.g. Ferns)"
+      },
+      {
+        "key": "Sporophylls",
+        "label": "Leaf-like appendages subtending sporangia; may form STROBILI/CONES (Selaginella, Equisetum)"
+      }
+    ],
+    "doodleBadge": "1st Vascular Plants | Sporophyte 2n",
+    "doodleSubtext": "Pteridophyte Evolution",
+    "explanation": "Leaves in pteridophytes are small (microphylls) as in Selaginella or large (macrophylls) as in ferns.",
+    "whyItWorks": "Direct contrast with bryophytes: Pteridophytes introduced vascular tissues and dominant sporophyte.",
+    "alsoRemember": "Strobili or cones are distinct compact structures formed in Selaginella and Equisetum.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.3",
+    "neetTrap": "Did bryophytes have vascular tissues? NO. Pteridophytes are the FIRST vascular plants.",
+    "commonMistake": "Confusing microphylls (Selaginella) with macrophylls (Ferns).",
+    "tags": [
+      "Pteridophytes",
+      "Vascular Plants",
+      "Xylem Phloem",
+      "Sporophyte",
+      "Strobili"
+    ],
+    "visualDescription": "A fern sporophyte showing distinct underground rhizome, true roots, and large frond leaves with vascular bundle cross-section.",
+    "neetRelevance": "NEET 2021, 2019 questions on first vascular land plants and leaf types.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which group of plants represents the first terrestrial plants to possess vascular tissues (xylem and phloem)?",
+      "options": [
+        "Bryophytes",
+        "Pteridophytes",
+        "Gymnosperms",
+        "Algae"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pteridophytes are evolutionarily the first terrestrial plants to possess vascular tissues."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-13",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-3",
+    "topicTitle": "Pteridophytes",
+    "topic": "Prothallus Requirements & Restricted Spread",
+    "mnemonicNumber": 13,
+    "title": "Pteridophyte Prothallus: \"Cool, Damp, Shady + Water for Sex = Restricted Distribution\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Prothallus = Heart-shaped Free-Living Gametophyte | Needs Cool, Damp, Shady Places + Water for Fertilization → Restricted Spread!",
+    "memoryHook": "The delicate fern PROTHALLUS is shy and thirsty! It requires cool, damp, shady niches to grow and needs water for flagellated antherozoids to reach archegonia. Because of this dual water requirement, ferns are RESTRICTED to narrow geographical zones!",
+    "expandedMeaning": "Spores germinate to give rise to inconspicuous, small but multicellular, free-living, mostly photosynthetic thalloid gametophytes called PROTHALLUS. These gametophytes require cool, damp, shady places to grow. Because of this specific restricted requirement and the need for water for fertilization, the spread of living pteridophytes is limited and restricted to narrow geographical regions.",
+    "fact": "The prothallus is monoecious in homosporous ferns, bearing both antheridia and archegonia on its lower ventral surface.",
+    "breakdown": [
+      {
+        "key": "Prothallus nature",
+        "label": "Inconspicuous, small, multicellular, free-living, photosynthetic thalloid gametophyte (n)"
+      },
+      {
+        "key": "Habitat demand",
+        "label": "Cool, damp, shady environments"
+      },
+      {
+        "key": "Fertilization demand",
+        "label": "Liquid water required for flagellated antherozoid swimming"
+      },
+      {
+        "key": "Geographic consequence",
+        "label": "Restricted and limited geographical distribution of pteridophytes"
+      }
+    ],
+    "doodleBadge": "Prothallus = Cool, Damp, Shady",
+    "doodleSubtext": "Why Ferns are Restricted",
+    "explanation": "Water is required for transfer of antherozoids to the mouth of archegonium. Zygote produces an embryo within the gametophyte.",
+    "whyItWorks": "Directly explains the \"Assertion-Reason\" question on why pteridophytes have limited distribution.",
+    "alsoRemember": "Prothallus is free-living and haploid.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.3",
+    "neetTrap": "Is prothallus dependent on the sporophyte? NO! It is free-living and photosynthetic.",
+    "commonMistake": "Thinking ferns can fertilize without water (they still require liquid water for swimming sperms).",
+    "tags": [
+      "Pteridophytes",
+      "Prothallus",
+      "Restricted Distribution",
+      "Antherozoids"
+    ],
+    "visualDescription": "A tiny green heart-shaped prothallus with hair-like rhizoids growing in a cool shaded ravine beside a stream.",
+    "neetRelevance": "NEET 2016, 2014 assertion-reason question on restricted distribution of pteridophytes.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "The spread and geographical distribution of living pteridophytes is restricted because:",
+      "options": [
+        "They produce millions of seeds that rot in soil",
+        "Their prothalli require cool, damp, shady places and water for fertilization",
+        "Their stems cannot tolerate sunlight",
+        "Birds eat all their spores"
+      ],
+      "answerIndex": 1,
+      "explanation": "Pteridophyte gametophytes (prothalli) require cool, damp habitats and water for fertilization, severely limiting their geographic distribution."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-14",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-3",
+    "topicTitle": "Pteridophytes",
+    "topic": "Heterospory & Seed Habit Precursor",
+    "mnemonicNumber": 14,
+    "title": "Heterospory: \"Selaginella & Salvinia Make Two Spores: Step to Seed Habit!\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "hard",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "SS = Selaginella + Salvinia are HETEROSPOROUS (Microspores ♂ & Megaspores ♀) → Important Step in Seed Evolution",
+    "memoryHook": "Super Seeds start with SS: Selaginella and Salvinia produce small male microspores and large female megaspores! The female gametophyte is retained on the parent sporophyte, representing the critical precursor step to the SEED HABIT!",
+    "expandedMeaning": "Genera like Selaginella and Salvinia which produce two kinds of spores, macro (large) and micro (small) spores, are known as HETEROSPOROUS. The megaspores and microspores germinate and give rise to female and male gametophytes, respectively. The female gametophytes are retained on the parent sporophytes for variable periods. Development of zygotes into young embryos takes place within the female gametophytes. This event is a precursor to the SEED HABIT, an important step in evolution.",
+    "fact": "Retention of the female gametophyte on the parent sporophyte and internal development of embryo is the exact evolutionary bridge leading to seed formation in Gymnosperms and Angiosperms.",
+    "breakdown": [
+      {
+        "key": "Homosporous (Majority)",
+        "label": "Equisetum, Dryopteris, Pteris (all spores similar in size)"
+      },
+      {
+        "key": "Heterosporous (Key Duo)",
+        "label": "Selaginella and Salvinia (Microspores + Megaspores)"
+      },
+      {
+        "key": "Megaspore fate",
+        "label": "Develops into female gametophyte RETAINED on parent sporophyte"
+      },
+      {
+        "key": "Evolutionary milestone",
+        "label": "Direct precursor event to the evolution of the SEED HABIT"
+      }
+    ],
+    "doodleBadge": "Selaginella + Salvinia = Heterosporous",
+    "doodleSubtext": "Seed Habit Precursor",
+    "explanation": "Most pteridophytes produce similar spores (homosporous). Selaginella and Salvinia are heterosporous.",
+    "whyItWorks": "Directly pairs \"Selaginella & Salvinia\" with \"Heterospory\" and \"Seed Habit precursor\".",
+    "alsoRemember": "Azolla and Marsilea are also heterosporous pteridophytes.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.3",
+    "neetTrap": "Is Equisetum heterosporous? NO, Equisetum is HOMOSPOROUS! Only Selaginella and Salvinia in NCERT are heterosporous.",
+    "commonMistake": "Calling Dryopteris heterosporous (it is homosporous).",
+    "tags": [
+      "Heterospory",
+      "Selaginella",
+      "Salvinia",
+      "Seed Habit",
+      "Pteridophytes"
+    ],
+    "visualDescription": "A branch of Selaginella showing tiny microspores and large megaspores retained inside female tissues.",
+    "neetRelevance": "NEET 2021, 2018, 2016 high-yield question on the origin of seed habit in Selaginella and Salvinia.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following pairs of pteridophytes is heterosporous and shows events considered precursor to seed habit?",
+      "options": [
+        "Dryopteris and Pteris",
+        "Equisetum and Psilotum",
+        "Selaginella and Salvinia",
+        "Lycopodium and Adiantum"
+      ],
+      "answerIndex": 2,
+      "explanation": "Selaginella and Salvinia are heterosporous, retaining the female gametophyte on the parent sporophyte as a precursor to the seed habit."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-15",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-3",
+    "topicTitle": "Pteridophytes",
+    "topic": "Four Pteridophyte Classes",
+    "mnemonicNumber": 15,
+    "title": "Pteridophyte 4 Classes: \"P-L-S-P: Psilo, Lyco, Spheno, Ptero\"",
+    "badgeText": "Classification",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "P-L-S-P: Please Learn Some Pteridophytes (Psilopsida, Lycopsida, Sphenopsida, Pteropsida)",
+    "memoryHook": "Please Learn Some Pteridophytes: Psilopsida (Psilotum), Lycopsida (Selaginella & Lycopodium), Sphenopsida (Equisetum horsetail), and Pteropsida (Dryopteris, Pteris, Adiantum walking fern)!",
+    "expandedMeaning": "The pteridophytes are classified into four classes: 1. Psilopsida (Psilotum - living fossil with no roots). 2. Lycopsida (Selaginella, Lycopodium - club moss). 3. Sphenopsida (Equisetum - horsetail with silica in stem and strobilus). 4. Pteropsida (Dryopteris, Pteris, Adiantum - maidenhair/walking fern).",
+    "fact": "Equisetum stems have silica deposits that make them rough; they were used by settlers to scour pots and pans (\"scouring rushes\"). Adiantum is called the walking fern because new plants sprout where leaf tips touch soil.",
+    "breakdown": [
+      {
+        "key": "Psilopsida",
+        "label": "Psilotum"
+      },
+      {
+        "key": "Lycopsida",
+        "label": "Selaginella and Lycopodium"
+      },
+      {
+        "key": "Sphenopsida",
+        "label": "Equisetum (Horsetail)"
+      },
+      {
+        "key": "Pteropsida",
+        "label": "Dryopteris, Pteris, Adiantum (Walking fern)"
+      }
+    ],
+    "doodleBadge": "PLSP Pteridophyte Classes",
+    "doodleSubtext": "4 Classes & Genera",
+    "explanation": "This 4-class division is an essential classification table at the end of the Pteridophytes section in NCERT.",
+    "whyItWorks": "PLSP acronym neatly groups the 4 classes and their respective NCERT examples.",
+    "alsoRemember": "Adiantum is known as the Maidenhair fern or Walking fern.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.3",
+    "neetTrap": "Which class does Equisetum belong to? SPHENOPSIDA (not Lycopsida).",
+    "commonMistake": "Classifying Lycopodium as a moss (it is a pteridophyte belonging to Lycopsida).",
+    "tags": [
+      "Psilopsida",
+      "Lycopsida",
+      "Sphenopsida",
+      "Pteropsida",
+      "Equisetum",
+      "Adiantum"
+    ],
+    "visualDescription": "Four botanical specimens: leafless green stems (Psilotum), club moss (Lycopodium), jointed horsetail (Equisetum), and broad fern frond (Dryopteris).",
+    "neetRelevance": "NEET 2021, 2018 match-the-class questions on pteridophytes.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Equisetum (commonly known as horsetail) belongs to which class of Pteridophytes?",
+      "options": [
+        "Psilopsida",
+        "Lycopsida",
+        "Sphenopsida",
+        "Pteropsida"
+      ],
+      "answerIndex": 2,
+      "explanation": "Equisetum belongs to the class Sphenopsida."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-16",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-3",
+    "topicTitle": "Gymnosperms",
+    "topic": "Naked Seeds Definition",
+    "mnemonicNumber": 16,
+    "title": "Gymnosperms: \"Gymnos = Naked, Sperma = Seed (No Ovary Wall)\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Gymnos (Naked) + Sperma (Seed) = Ovules NOT Enclosed by Any Ovary Wall Before or After Fertilization",
+    "memoryHook": "Gymnosperms go naked to the gym! Their ovules sit completely exposed on megasporophylls with ZERO ovary covering. No ovary means NO FRUIT! Seeds remain naked!",
+    "expandedMeaning": "Gymnosperms (gymnos : naked, sperma : seeds) are plants in which the ovules are NOT enclosed by any ovary wall and remain exposed, both before and after fertilization. The seeds that develop post-fertilization are not covered, i.e., are naked. Gymnosperms include medium-sized trees, tall trees, and shrubs.",
+    "fact": "Sequoia sempervirens (giant redwood tree) is one of the tallest tree species in the world, reaching over 115 meters.",
+    "breakdown": [
+      {
+        "key": "Etymology",
+        "label": "Gymnos = Naked; Sperma = Seed"
+      },
+      {
+        "key": "Ovule state",
+        "label": "Not enclosed by ovary wall before or after fertilization"
+      },
+      {
+        "key": "Fruit state",
+        "label": "NO fruits formed because there is no ovary (fruit = ripened ovary)"
+      },
+      {
+        "key": "Tallest tree",
+        "label": "Sequoia (giant redwood), a gymnosperm"
+      }
+    ],
+    "doodleBadge": "Naked Seeds | Zero Fruit",
+    "doodleSubtext": "Gymnosperm Definition",
+    "explanation": "Because ovaries are absent, flowers and fruits are absent in gymnosperms.",
+    "whyItWorks": "Translating the Greek root \"Gymnos = Naked\" directly prevents confusing naked seeds with angiosperm fruits.",
+    "alsoRemember": "Gnetum, Ephedra, and Welwitschia are advanced gymnosperms with xylem vessels.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.4",
+    "neetTrap": "Do gymnosperms have fruits? NO! Fruits require an ovary wall, which gymnosperms lack completely.",
+    "commonMistake": "Assuming pine cones are fruits (they are woody female seed cones, not true fruits).",
+    "tags": [
+      "Gymnosperms",
+      "Naked Seeds",
+      "Sequoia",
+      "No Ovary",
+      "Plant Kingdom"
+    ],
+    "visualDescription": "A pine seed resting naked and exposed on an open woody cone scale with no outer fruit pulp.",
+    "neetRelevance": "NEET 2020, 2018 questions on defining characteristics of gymnosperms.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.4"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Why are seeds of gymnosperms referred to as \"naked seeds\"?",
+      "options": [
+        "They have no seed coat",
+        "They are not enclosed within an ovary wall or fruit",
+        "They lack cotyledons",
+        "They are dispersed without wind"
+      ],
+      "answerIndex": 1,
+      "explanation": "Gymnosperm seeds are naked because the ovules are not enclosed by an ovary wall before or after fertilization."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-17",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-3",
+    "topicTitle": "Gymnosperms",
+    "topic": "Pinus Mycorrhiza vs Cycas Coralloid Roots",
+    "mnemonicNumber": 17,
+    "title": "Gymnosperm Roots: \"P-M (Pinus-Mycorrhiza) & C-C (Cycas-Cyanobacteria/Coralloid)\"",
+    "badgeText": "Memory Trick",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "comparison",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "PM = Pinus has Mycorrhizal roots | CC = Cycas has Coralloid roots with Cyanobacteria (N2 fixation)",
+    "memoryHook": "Prime Minister (PM) eats Pine nuts: Pinus has Mycorrhiza fungal roots (cannot germinate without it!). Chief Commissioner (CC) loves Cycas: Cycas has Coralloid roots carrying Cyanobacteria for Nitrogen fixation!",
+    "expandedMeaning": "The roots of gymnosperms are generally tap roots. Roots in some genera have fungal association in the form of mycorrhiza (e.g. Pinus). Pinus seeds cannot germinate and establish without the presence of mycorrhizae. In other genera (e.g. Cycas), small specialized roots called CORALLOID ROOTS are associated with N2-fixing cyanobacteria (Nostoc and Anabaena).",
+    "fact": "Coralloid roots of Cycas are apogeotropic (grow upwards toward the soil surface) and possess an algal zone in the middle cortex containing Nostoc and Anabaena.",
+    "breakdown": [
+      {
+        "key": "Pinus root (PM)",
+        "label": "Mycorrhizal association with fungi (obligate requirement for seed germination)"
+      },
+      {
+        "key": "Cycas root (CC)",
+        "label": "Coralloid roots: apogeotropic, house N2-fixing cyanobacteria (Nostoc/Anabaena)"
+      },
+      {
+        "key": "Tap roots",
+        "label": "Primary root system in all gymnosperms"
+      }
+    ],
+    "doodleBadge": "Pinus = Mycorrhiza | Cycas = Coralloid (N2)",
+    "doodleSubtext": "Root Associations",
+    "explanation": "Mycorrhizae assist Pinus in absorbing water and phosphorus from nutrient-poor alpine soils.",
+    "whyItWorks": "PM (Pinus-Mycorrhiza) and CC (Cycas-Coralloid/Cyanobacteria) are unshakeable 2-letter associations.",
+    "alsoRemember": "Cycas has unbranched stems, while Pinus and Cedrus have branched stems.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.4",
+    "neetTrap": "Can Pinus seeds germinate without mycorrhizae? NO! Pinus has an obligate association with mycorrhiza.",
+    "commonMistake": "Matching Cycas with mycorrhiza and Pinus with coralloid roots (reversed).",
+    "tags": [
+      "Pinus",
+      "Cycas",
+      "Mycorrhiza",
+      "Coralloid Roots",
+      "Cyanobacteria"
+    ],
+    "visualDescription": "Split view: Pinus roots wrapped in fungal mycorrhizal mantle, and coral-like Cycas root clusters housing blue-green Nostoc colonies.",
+    "neetRelevance": "Direct question in NEET 2019 (obligate mycorrhiza in Pinus) and 2018 (coralloid roots in Cycas).",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.4"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following gymnosperms has small specialized coralloid roots associated with nitrogen-fixing cyanobacteria?",
+      "options": [
+        "Pinus",
+        "Cedrus",
+        "Cycas",
+        "Ginkgo"
+      ],
+      "answerIndex": 2,
+      "explanation": "Cycas possesses specialized coralloid roots that harbor symbiotic nitrogen-fixing cyanobacteria."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-18",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-3",
+    "topicTitle": "Gymnosperms",
+    "topic": "Xerophytic Adaptations of Conifers",
+    "mnemonicNumber": 18,
+    "title": "Conifer Needles: \"Sunken Stomata, Thick Cuticle, Needle Leaves to Save Water\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Needle Leaves + Thick Cuticle + Sunken Stomata = Triple Xerophytic Shield Against Water Loss",
+    "memoryHook": "Conifers live on freezing mountain winds! They fight water loss with a triple shield: Needle-like leaves to slash surface area, heavy waxy Thick Cuticle, and Sunken Stomata buried deep in pits!",
+    "expandedMeaning": "The leaves in gymnosperms are well-adapted to withstand extremes of temperature, humidity, and wind. In conifers, the needle-like leaves reduce the surface area. Their thick cuticle and sunken stomata also help to reduce water loss. Stems are unbranched in Cycas and branched in Pinus and Cedrus.",
+    "fact": "Cycas leaves are pinnate and persist for a few years. Conifers dominate dry, cold, high-altitude biomes largely due to these xerophytic leaf adaptations.",
+    "breakdown": [
+      {
+        "key": "Needle leaves",
+        "label": "Drastically reduces surface area for transpiration"
+      },
+      {
+        "key": "Thick cuticle",
+        "label": "Impermeable waxy layer preventing water evaporation"
+      },
+      {
+        "key": "Sunken stomata",
+        "label": "Pitted stomata sheltering moist air pockets to minimize transpiration"
+      },
+      {
+        "key": "Stem branching",
+        "label": "Unbranched = Cycas | Branched = Pinus, Cedrus"
+      }
+    ],
+    "doodleBadge": "Needle + Thick Cuticle + Sunken Stomata",
+    "doodleSubtext": "Conifer Adaptations",
+    "explanation": "Transpiration is severely minimized, enabling conifers to survive physiological drought in cold soils.",
+    "whyItWorks": "Directly bundles the 3 specific xerophytic adaptations listed in NCERT Section 3.4.",
+    "alsoRemember": "Cedrus (Deodar) has branched stems, durable wood, and fragrant resin.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.4",
+    "neetTrap": "Is Cycas stem branched? NO! Cycas is strictly UNBRANCHED (Pinus and Cedrus are branched).",
+    "commonMistake": "Assuming gymnosperms are mesophytes (they possess profound xerophytic traits).",
+    "tags": [
+      "Gymnosperms",
+      "Conifers",
+      "Sunken Stomata",
+      "Thick Cuticle",
+      "Needle Leaves"
+    ],
+    "visualDescription": "Cross-section of a pine needle showing deeply sunken stomata and a heavy waxy cuticle barrier.",
+    "neetRelevance": "NEET 2020, 2017 questions on conifer leaf modifications and stem branching in Cycas vs Pinus.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.4"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which combination of adaptations helps conifers minimize water loss in harsh environments?",
+      "options": [
+        "Broad leaves, thin cuticle, superficial stomata",
+        "Needle-like leaves, thick cuticle, sunken stomata",
+        "Compound leaves, no cuticle, lenticels",
+        "Fleshy phylloclades and hydathodes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Needle-like leaves, a thick waxy cuticle, and sunken stomata reduce water loss via transpiration in conifers."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-19",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-3",
+    "topicTitle": "Gymnosperms",
+    "topic": "Monoecious Pinus vs Dioecious Cycas",
+    "mnemonicNumber": 19,
+    "title": "Gymnosperm Sex: \"Pinus is Monoecious (One Tree) | Cycas is Dioecious (Two Trees)\"",
+    "badgeText": "Comparison",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "comparison",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Pinus = Monoecious (Male & Female cones on SAME tree) | Cycas = Dioecious (Male cone & Megasporophylls on SEPARATE trees)",
+    "memoryHook": "Pine tree is a cozy couple: Male pollen cones and Female seed cones live together on the SAME tree (Monoecious)! Cycas is strictly single: Male cone on Mister Cycas, Megasporophylls on Miss Cycas (Dioecious)!",
+    "expandedMeaning": "Gymnosperms are heterosporous; they produce haploid microspores and megaspores. The two kinds of spores are borne in sporangia on sporophylls arranged spirally along an axis to form compact strobili or cones. In Pinus, the male cones and female cones are borne on the SAME tree (MONOECIOUS). In Cycas, male cones and megasporophylls are borne on DIFFERENT trees (DIOECIOUS). Note that female Cycas does NOT form a compact cone!",
+    "fact": "Cycas female plant NEVER forms a female cone (strobilus); its megasporophylls are loosely arranged at the stem apex like a rosette.",
+    "breakdown": [
+      {
+        "key": "Pinus",
+        "label": "MONOECIOUS: male strobili and female cones on the same tree"
+      },
+      {
+        "key": "Cycas",
+        "label": "DIOECIOUS: male cone on male tree; megasporophylls on female tree"
+      },
+      {
+        "key": "Cycas trap",
+        "label": "Female Cycas does NOT form a compact female cone!"
+      }
+    ],
+    "doodleBadge": "Pinus = Monoecious | Cycas = Dioecious",
+    "doodleSubtext": "Gymnosperm Sexuality",
+    "explanation": "Microspores develop into highly reduced pollen grains with limited cells, transported by air currents (anemophily).",
+    "whyItWorks": "Direct contrast: Pinus = 1 tree (monoecious); Cycas = 2 trees (dioecious).",
+    "alsoRemember": "Sulphur shower refers to the yellow clouds of millions of winged pollen grains released by Pinus forests.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.4",
+    "neetTrap": "Does female Cycas form a female cone? NO! It produces loose megasporophylls, never a compact cone.",
+    "commonMistake": "Calling Cycas monoecious or Pinus dioecious.",
+    "tags": [
+      "Pinus",
+      "Cycas",
+      "Monoecious",
+      "Dioecious",
+      "Cones",
+      "Megasporophylls"
+    ],
+    "visualDescription": "One pine tree carrying both small pollen cones and large woody seed cones, alongside a pair of male and female Cycas palms.",
+    "neetRelevance": "NEET 2021, 2017 high-yield questions on sexuality in Pinus and Cycas.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.4"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following gymnosperms is dioecious, bearing male cones and megasporophylls on separate trees?",
+      "options": [
+        "Pinus",
+        "Cycas",
+        "Cedrus",
+        "Ginkgo biloba"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cycas is dioecious with male and female reproductive structures borne on separate plants."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch03-20",
+    "subject": "biology",
+    "chapterId": "bio-ch-03",
+    "chapterNumber": 3,
+    "chapterTitle": "Plant Kingdom",
+    "topicId": "bio-top-3-3",
+    "topicTitle": "Plant Life Cycles",
+    "topic": "Alternation of Generations Patterns",
+    "mnemonicNumber": 20,
+    "title": "Life Cycles: \"Haplontic (Algae) | Diplontic (Gymno, Angio, Fucus) | Haplo-diplontic (Bryo, Pterido)\"",
+    "badgeText": "Sequence Rule",
+    "importance": "Must Know",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Haplontic = Volvox, Spirogyra, Chlamydomonas | Diplontic = Fucus + Gymnosperms + Angiosperms | Haplo-diplontic = Bryophytes + Pteridophytes + Ectocarpus, Polysiphonia, Kelps",
+    "memoryHook": "Haploid Algae mostly live as Haplontic (free-living gametophyte, single-cell zygote sporophyte). Giant Seed Plants + brown FUCUS are Diplontic! In-between Bryophytes, Pteridophytes, and algal exceptions (Ectocarpus, Polysiphonia, Kelps) are Haplo-diplontic!",
+    "expandedMeaning": "1. HAPLONTIC: Gametophyte (n) is dominant; sporophyte is represented only by one-celled zygote (2n); meiosis in zygote results in haploid spores. E.g., Volvox, Spirogyra, and some Chlamydomonas. 2. DIPLONTIC: Diploid sporophyte (2n) is dominant and photosynthetic; gametophyte is few-celled. E.g., all seed-bearing plants (Gymnosperms and Angiosperms), plus the brown alga FUCUS. 3. HAPLO-DIPLONTIC: Both phases are multicellular. E.g., Bryophytes and Pteridophytes, plus algae exceptions: Ectocarpus, Polysiphonia, and Kelps.",
+    "fact": "While most algae are haplontic, Fucus is DIPLONTIC, and Ectocarpus, Polysiphonia, and Kelps are HAPLO-DIPLONTIC.",
+    "breakdown": [
+      {
+        "key": "Haplontic",
+        "label": "Volvox, Spirogyra, Chlamydomonas (zygotic meiosis)"
+      },
+      {
+        "key": "Diplontic",
+        "label": "Gymnosperms, Angiosperms, AND the brown alga Fucus (gametic meiosis)"
+      },
+      {
+        "key": "Haplo-diplontic",
+        "label": "Bryophytes, Pteridophytes, AND algae Ectocarpus, Polysiphonia, Kelps"
+      }
+    ],
+    "doodleBadge": "Haplontic | Diplontic | Haplo-diplontic",
+    "doodleSubtext": "Life Cycle Patterns",
+    "explanation": "Algal exceptions are the most frequent NEET trick: Fucus is diplontic; Ectocarpus and Polysiphonia are haplo-diplontic.",
+    "whyItWorks": "Directly highlights the universal patterns AND the 4 famous algal exceptions tested every year in NEET.",
+    "alsoRemember": "In haplontic cycle, zygote undergoes meiosis immediately; there is no multicellular sporophyte.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 3, Section 3.5",
+    "neetTrap": "Is Fucus haplontic like other algae? NO, Fucus is strictly DIPLONTIC! Are Ectocarpus and Polysiphonia haplontic? NO, HAPLO-DIPLONTIC!",
+    "commonMistake": "Assuming all algae have haplontic life cycles.",
+    "tags": [
+      "Life Cycles",
+      "Haplontic",
+      "Diplontic",
+      "Haplo-diplontic",
+      "Fucus",
+      "Ectocarpus"
+    ],
+    "visualDescription": "Three cyclical diagrams showing the relative proportions of haploid gametophyte vs diploid sporophyte phases.",
+    "neetRelevance": "NEET 2021, 2020, 2017 high-yield questions on Fucus, Ectocarpus, and Polysiphonia life cycles.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 3.5"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following algae exhibits a diplontic life cycle, serving as a famous exception to most algae?",
+      "options": [
+        "Volvox",
+        "Spirogyra",
+        "Fucus",
+        "Chlamydomonas"
+      ],
+      "answerIndex": 2,
+      "explanation": "Fucus is a brown alga that exhibits a diplontic life cycle, where the dominant diploid plant body undergoes gametic meiosis."
+    }
+  }
+];

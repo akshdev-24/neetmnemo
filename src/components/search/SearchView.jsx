@@ -138,10 +138,12 @@ export function SearchView({
             🔍
           </div>
           <h3 className="font-title text-lg font-bold text-[#243044]">
-            No mnemonics matched "{searchQuery}"
+            {searchQuery ? `No mnemonics matched "${searchQuery}"` : 'No mnemonics available in library'}
           </h3>
           <p className="text-xs text-[#667085] font-sans">
-            Try searching for another keyword like "Auxin", "Ohm", "SUVAT", "Taxonomy" or reset the subject filter.
+            {searchQuery
+              ? 'Try searching for another keyword or reset the subject filter.'
+              : 'All mnemonics have been cleared across subjects and chapters.'}
           </p>
           <button
             onClick={() => { setSearchQuery(''); setSelectedSubject('all'); }}

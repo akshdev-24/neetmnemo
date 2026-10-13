@@ -1,0 +1,15 @@
+<USER_REQUEST>
+in this pdf all chapter of bio class 11 has 30-30 mimonics uploade them in my website 
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-10-12T12:58:18+05:30.
+
+The user's current state is as follows:
+Active Document: c:\Users\akk\Desktop\NEET\src\components\revision\RevisionModeView.jsx (LANGUAGE_JAVASCRIPT)
+Cursor is on line: 1
+Other open documents:
+- c:\Users\akk\Desktop\NEET\src\components\subjects\SubjectView.jsx (LANGUAGE_JAVASCRIPT)
+- c:\Users\akk\Desktop\NEET\src\components\revision\RevisionModeView.jsx (LANGUAGE_JAVASCRIPT)
+- c:\Users\akk\Desktop\NEET\src\data\chapters.js (LANGUAGE_JAVASCRIPT)
+- c:\Users\akk\Desktop\NEET\scripts\gen-bio-ch10.js (LANGUAGE_JAVASCRIPT)
+</ADDITIONAL_METADATA>

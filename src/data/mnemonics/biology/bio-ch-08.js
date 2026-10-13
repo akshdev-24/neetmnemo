@@ -1,0 +1,1552 @@
+export const bioCh08Mnemonics = [
+  {
+    "id": "mnemo-bio-ch08-01",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-1",
+    "topicTitle": "Cell Theory & Discovery",
+    "topic": "Cell Theory (Schleiden, Schwann, Virchow)",
+    "mnemonicNumber": 1,
+    "title": "Cell Theory: \"Schleiden (Botanist 1838) + Schwann (Zoologist 1839) + Virchow (Omnis cellula-e cellula 1855)\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Schleiden (German Botanist, 1838: all plants are composed of cells) + Schwann (British Zoologist, 1839: plasma membrane & unique plant cell wall) + Rudolf Virchow (1855: Omnis cellula-e cellula: new cells arise from pre-existing cells)",
+    "memoryHook": "Building cell theory: Schleiden studied plants (Botanist 1838). Schwann studied animals and reported the thin outer plasma membrane, adding that cell walls are unique to plants (Zoologist 1839). But neither knew where new cells came from until Rudolf Virchow (1855) added the final golden rule: \"Omnis cellula-e cellula\" — all cells come from pre-existing cells!",
+    "expandedMeaning": "1. Matthias Schleiden (1838, German botanist): Observed that all plants are composed of different kinds of cells which form the tissues of the plant. 2. Theodore Schwann (1839, British zoologist): Studied different animal cells, reported that cells had a thin outer layer known today as plasma membrane; concluded that the presence of cell wall is a UNIQUE CHARACTER of plant cells; hypothesized that bodies of animals and plants are composed of cells and products of cells. 3. Rudolf Virchow (1855): First explained that cells divide and new cells are formed from pre-existing cells (Omnis cellula-e cellula), modifying Schleiden and Schwann hypothesis to give the cell theory its final shape.",
+    "fact": "Viruses, viroids, and prions are notable ACELLULAR exceptions to the classical cell theory because they lack a cellular protoplasmic organization.",
+    "breakdown": [
+      {
+        "key": "M. Schleiden (1838)",
+        "label": "German Botanist: all plants made of cells"
+      },
+      {
+        "key": "T. Schwann (1839)",
+        "label": "British Zoologist: plasma membrane, cell wall unique to plants"
+      },
+      {
+        "key": "R. Virchow (1855)",
+        "label": "Omnis cellula-e cellula: all cells arise from pre-existing cells by division"
+      },
+      {
+        "key": "Anton von Leeuwenhoek",
+        "label": "First saw and described a LIVE cell (Robert Brown discovered nucleus in 1831)"
+      }
+    ],
+    "doodleBadge": "Omnis cellula-e cellula (1855)",
+    "doodleSubtext": "Cell Theory Timeline",
+    "explanation": "Virchow resolved the missing puzzle in Schleiden and Schwann original formulation: how new cells are actually formed.",
+    "whyItWorks": "Directly hooks the 3 scientists with their exact years, nationalities, and core contributions from NCERT text.",
+    "alsoRemember": "Robert Hooke first observed dead cork cells in 1665; Leeuwenhoek observed first living cell.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.2",
+    "neetTrap": "Who proposed that presence of cell wall is a unique character of plant cells? THEODORE SCHWANN (the zoologist!).",
+    "commonMistake": "Attributing the cell wall discovery to Schleiden just because he was a botanist (it was Schwann!).",
+    "tags": [
+      "Cell Theory",
+      "Schleiden",
+      "Schwann",
+      "Virchow",
+      "Omnis cellula-e cellula",
+      "Robert Brown"
+    ],
+    "visualDescription": "Portraits of Schleiden holding a plant leaf, Schwann with an animal tissue slide, and Virchow writing Omnis cellula-e cellula on a blackboard.",
+    "neetRelevance": "NEET 2021, 2019, 2016 questions on Virchow and Schwann contributions to cell theory.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Who first explained that cells divide and new cells are formed from pre-existing cells (\"Omnis cellula-e cellula\") in 1855?",
+      "options": [
+        "Matthias Schleiden",
+        "Theodore Schwann",
+        "Rudolf Virchow",
+        "Robert Brown"
+      ],
+      "answerIndex": 2,
+      "explanation": "Rudolf Virchow (1855) generalized that all cells arise from pre-existing cells (Omnis cellula-e cellula)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-02",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-1",
+    "topicTitle": "Cell Dimensions & Diversity",
+    "topic": "Cell Dimensions Table in NCERT",
+    "mnemonicNumber": 2,
+    "title": "Cell Dimensions: \"PPLO = 0.1 µm | Mycoplasma = 0.3 µm | Bacteria = 1-2 µm | Human RBC = 7.0 µm\"",
+    "badgeText": "Formula Trick",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "comparison",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "PPLO (0.1 µm) < Mycoplasma (0.3 µm) < Typical Bacteria (1-2 µm) < Typical Eukaryotic Cell (10-20 µm) | Human RBC diameter = 7.0 µm | Largest single cell = Ostrich Egg | Longest = Nerve Cell",
+    "memoryHook": "Line up by micrometer size: PPLO is tiniest at 0.1 µm! Mycoplasma measures 0.3 µm. Typical bacteria are 1 to 2 µm (or 3-5 µm). Human red blood cells are 7.0 µm across. Eukaryotic cells range 10-20 µm. The largest isolated single cell is an Ostrich egg, and the longest cells are human Nerve cells!",
+    "expandedMeaning": "Cells differ greatly in size, shape and activities: 1. Mycoplasma: Smallest cells, only 0.3 µm in length. 2. PPLO (Pleuropneumonia-like organisms): About 0.1 µm. 3. Bacteria: Could be 3 to 5 µm (typical bacteria in diagram: 1-2 µm). 4. Largest isolated single cell: Egg of an ostrich. 5. Human red blood cells: About 7.0 µm in diameter. 6. Nerve cells: Some of the longest cells. Shapes vary: disc-like, polygonal, columnar, cuboid, thread-like, or irregular.",
+    "fact": "RBCs are biconcave and circular (7.0 µm); WBCs are amoeboid; Columnar epithelial cells are long and narrow; Nerve cells are branched and long; Tracheids are elongated; Mesophyll cells are round and oval.",
+    "breakdown": [
+      {
+        "key": "0.1 µm",
+        "label": "PPLO (Pleuro Pneumonia-Like Organisms)"
+      },
+      {
+        "key": "0.3 µm",
+        "label": "Mycoplasma (smallest living cell)"
+      },
+      {
+        "key": "1 to 2 µm",
+        "label": "Typical bacteria in NCERT diagram (3-5 µm in text)"
+      },
+      {
+        "key": "7.0 µm",
+        "label": "Human Red Blood Cell (RBC) diameter"
+      },
+      {
+        "key": "10 to 20 µm",
+        "label": "Typical eukaryotic cell"
+      },
+      {
+        "key": "Ostrich egg",
+        "label": "Largest isolated single cell"
+      },
+      {
+        "key": "Nerve cell",
+        "label": "Longest cell in the human body"
+      }
+    ],
+    "doodleBadge": "PPLO 0.1 < Myco 0.3 < RBC 7.0 µm",
+    "doodleSubtext": "Cell Size Scale",
+    "explanation": "Cell shape is intimately related to the specific functional job the cell performs.",
+    "whyItWorks": "Direct numerical scale from 0.1 µm to 7.0 µm to ostrich egg eliminates option confusion.",
+    "alsoRemember": "Human RBCs are biconcave and circular, maximizing surface area for oxygen diffusion.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.3 & Figure 8.2",
+    "neetTrap": "What is the diameter of human RBC? 7.0 µm (direct NCERT number).",
+    "commonMistake": "Confusing 0.1 µm (PPLO) with 0.3 µm (Mycoplasma).",
+    "tags": [
+      "Cell Dimensions",
+      "Mycoplasma",
+      "PPLO",
+      "RBC Diameter",
+      "Ostrich Egg",
+      "Nerve Cell"
+    ],
+    "visualDescription": "A logarithmic scale ruler comparing tiny dots of PPLO and Mycoplasma up to a red blood cell disc and giant ostrich egg.",
+    "neetRelevance": "NEET 2020, 2019 questions on RBC diameter (7.0 µm) and size of Mycoplasma vs PPLO.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "According to NCERT, what is the approximate diameter of a human red blood cell (RBC)?",
+      "options": [
+        "0.3 µm",
+        "2.0 µm",
+        "7.0 µm",
+        "20.0 µm"
+      ],
+      "answerIndex": 2,
+      "explanation": "Human red blood cells are circular biconcave discs measuring approximately 7.0 µm in diameter."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-03",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-2",
+    "topicTitle": "Prokaryotic Cells",
+    "topic": "Bacterial Cell Envelope (Glycocalyx, Wall, Membrane)",
+    "mnemonicNumber": 3,
+    "title": "Bacterial Envelope: \"3-Layer Suit: Glycocalyx (Slime/Capsule) → Peptidoglycan Wall → Plasma Membrane\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Bacterial Envelope = Glycocalyx (Outermost: loose Slime Layer or thick Capsule) → Cell Wall (Middle: Peptidoglycan shape & burst prevention) → Plasma Membrane (Innermost: selectively permeable)",
+    "memoryHook": "Bacteria wear a 3-piece suit acting as a single protective unit! Outer coat is GLYCOCALYX (either a loose sticky slime layer or a tough bulletproof capsule). Middle vest is rigid PEPTIDOGLYCAN CELL WALL (keeps bacterium from bursting in hypotonic water). Inner shirt is the semi-permeable PLASMA MEMBRANE!",
+    "expandedMeaning": "Most prokaryotic cells, particularly bacterial cells, have a chemically complex cell envelope. The cell envelope consists of a tightly bound THREE-LAYERED structure: outermost GLYCOCALYX, followed by the CELL WALL, and then the PLASMA MEMBRANE. Although each layer performs distinct functions, they act together as a single protective unit. Bacteria can be classified into Gram-positive and Gram-negative based on differences in cell envelope and response to Gram stain. Glycocalyx differs: could be a loose sheath called SLIME LAYER, or thick and tough called CAPSULE.",
+    "fact": "Gram-negative bacteria have a thinner peptidoglycan layer and an outer lipopolysaccharide (LPS) membrane that does not retain crystal violet stain upon alcohol washing, appearing pink/red with safranin.",
+    "breakdown": [
+      {
+        "key": "Glycocalyx (Outer)",
+        "label": "Loose sheath = SLIME LAYER | Thick and tough = CAPSULE"
+      },
+      {
+        "key": "Cell Wall (Middle)",
+        "label": "Determines shape of bacterium, prevents bursting or collapsing"
+      },
+      {
+        "key": "Plasma Membrane (Inner)",
+        "label": "Selectively permeable, structurally similar to eukaryotes"
+      },
+      {
+        "key": "Gram classification",
+        "label": "Gram-positive (retain Gram stain) vs Gram-negative (do not retain)"
+      }
+    ],
+    "doodleBadge": "Glycocalyx → Wall → Membrane",
+    "doodleSubtext": "Bacterial Envelope",
+    "explanation": "Capsule protects pathogenic bacteria from phagocytosis by host white blood cells.",
+    "whyItWorks": "Direct 3-layer sequence from outside to inside plus the slime layer vs capsule distinction.",
+    "alsoRemember": "Peptidoglycan is made of NAG (N-acetylglucosamine) and NAM (N-acetylmuramic acid).",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.4.1",
+    "neetTrap": "Questions calling the cell wall the outermost layer. GLYCOCALYX is outermost, followed by cell wall, then membrane!",
+    "commonMistake": "Flipping slime layer (loose) and capsule (thick/tough).",
+    "tags": [
+      "Bacterial Envelope",
+      "Glycocalyx",
+      "Slime Layer",
+      "Capsule",
+      "Cell Wall",
+      "Gram Stain"
+    ],
+    "visualDescription": "A cutaway of a rod bacterium showing outer yellow glycocalyx capsule, rigid middle wall, and inner blue plasma membrane.",
+    "neetRelevance": "NEET 2021, 2019, 2017 questions on the 3 layers of bacterial cell envelope and capsule vs slime layer.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.4.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "In prokaryotic bacteria, a loose sheath form of the outermost glycocalyx layer is termed a:",
+      "options": [
+        "Capsule",
+        "Slime layer",
+        "Pellicle",
+        "Cuticle"
+      ],
+      "answerIndex": 1,
+      "explanation": "When the glycocalyx is present as a loose sheath it is called a slime layer; when thick and tough, it is called a capsule."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-04",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-2",
+    "topicTitle": "Prokaryotic Cells",
+    "topic": "Mesosome Infoldings & Functions",
+    "mnemonicNumber": 4,
+    "title": "Mesosomes: \"Bacterial Mitochondria: Wall Formation, DNA Copying, Respiration & Secretion\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Mesosomes = Plasma Membrane Infoldings (Vesicles, Tubules, Lamellae) → 1. Cell Wall synthesis, 2. DNA replication & daughter cell distribution, 3. Respiration & Secretion, 4. Increase surface area & enzyme content",
+    "memoryHook": "The Swiss army knife of bacteria: MESOSOMES are plasma membrane fingerprints folded inside (vesicles, tubules, lamellae). Since bacteria lack mitochondria, mesosomes do aerobic respiration! They also build cell walls, replicate DNA, help chromosome separation, and secrete enzymes!",
+    "expandedMeaning": "A characteristic feature of prokaryotes is the MESOSOME, formed by the extensions of plasma membrane into the cell in the form of vesicles, tubules and lamellae. Mesosomes help in: 1. Cell wall formation, 2. DNA replication and distribution to daughter cells, 3. Respiration, 4. Secretion processes, 5. Increase surface area of plasma membrane and enzymatic content. In some prokaryotes like cyanobacteria, other membranous extensions called CHROMATOPHORES contain pigments.",
+    "fact": "Mesosomes are analogous to eukaryotic mitochondria because respiratory electron transport enzymes (cytochromes) are embedded in their membranes.",
+    "breakdown": [
+      {
+        "key": "Origin",
+        "label": "Infoldings of plasma membrane in prokaryotes"
+      },
+      {
+        "key": "Three forms",
+        "label": "Vesicles, tubules, and lamellae"
+      },
+      {
+        "key": "Major functions",
+        "label": "1. Cell wall synthesis, 2. DNA replication & segregation, 3. Respiration & secretion"
+      },
+      {
+        "key": "Surface area",
+        "label": "Increases membrane area and respiratory enzyme concentration"
+      },
+      {
+        "key": "Chromatophores",
+        "label": "Membranous pigment-containing extensions in photosynthetic cyanobacteria"
+      }
+    ],
+    "doodleBadge": "Mesosomes = Respiration + DNA + Wall",
+    "doodleSubtext": "Bacterial Multitasker",
+    "explanation": "Because bacteria lack membrane-bound mitochondria, the mesosomal invaginations house the cellular respiratory machinery.",
+    "whyItWorks": "Directly bundles all 5 explicit NCERT mesosome functions into one memorable checklist.",
+    "alsoRemember": "Chromatophores are pigment-bearing membrane extensions in cyanobacteria.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.4.1",
+    "neetTrap": "Do mesosomes participate in protein synthesis? NO! Ribosomes do protein synthesis. Mesosomes do respiration, secretion, wall synthesis, and DNA replication.",
+    "commonMistake": "Calling mesosomes an organelle (they are plasma membrane invaginations).",
+    "tags": [
+      "Mesosomes",
+      "Prokaryotes",
+      "Respiration",
+      "DNA Replication",
+      "Cell Wall Formation",
+      "Chromatophores"
+    ],
+    "visualDescription": "An invaginating pocket of plasma membrane looping into whorls and tubules inside a bacterial cell.",
+    "neetRelevance": "NEET 2021, 2020, 2018, 2015 questions on mesosome functions and origin.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.4.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is NOT a recognized function of mesosomes in prokaryotes according to NCERT?",
+      "options": [
+        "Cell wall formation",
+        "DNA replication and distribution to daughter cells",
+        "Cellular respiration and secretion",
+        "Direct synthesis of polypeptide chains on mRNA"
+      ],
+      "answerIndex": 3,
+      "explanation": "Polypeptide protein synthesis is carried out by ribosomes, not mesosomes."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-05",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-2",
+    "topicTitle": "Prokaryotic Cells",
+    "topic": "Flagella vs Pili vs Fimbriae",
+    "mnemonicNumber": 5,
+    "title": "Bacterial Hair: \"Flagella = Motility (Filament, Hook, Basal Body) | Pili & Fimbriae = Non-Motile Attachment\"",
+    "badgeText": "Comparison",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "comparison",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Bacterial Flagella = MOTILITY (Filament, Hook, Basal Body) | Pili = Tubular Pilin protein (Conjugation sex bridge) | Fimbriae = Bristle-like fibers (Attach bacteria to rocks & host tissues) | Pili & Fimbriae DO NOT play role in motility!",
+    "memoryHook": "Know your bacterial appendages: Only FLAGELLA swim (with Filament, Hook, and Basal body)! PILI are tubular straws for mating conjugation (sex pili). FIMBRIAE are sticky velcro bristles that lock bacteria onto river rocks and human bladder tissues! Pili and Fimbriae have ZERO role in swimming motility!",
+    "expandedMeaning": "Bacterial cells may be motile or non-motile. If motile, they have thin filamentous extensions called FLAGELLA. Bacterial flagellum is composed of three parts: FILAMENT, HOOK, and BASAL BODY. The filament is the longest portion and extends from cell surface to outside. PILI and FIMBRIAE are also surface structures of bacteria but DO NOT PLAY A ROLE IN MOTILITY. Pili are elongated tubular structures made of a special protein (PILIN). Fimbriae are small bristle-like fibres sprouting out of the cell, known to help attach bacteria to rocks in streams and to host tissues.",
+    "fact": "Bacterial flagella are made of flagellin protein and rotate like a propeller (powered by proton gradient across basal body), unlike eukaryotic flagella which have 9+2 tubulin microtubules and wave side-to-side.",
+    "breakdown": [
+      {
+        "key": "Flagella",
+        "label": "Organ of MOTILITY; consists of Filament (longest), Hook, and Basal body"
+      },
+      {
+        "key": "Pili",
+        "label": "Tubular pilin protein; facilitates conjugation gene transfer; NO motility role"
+      },
+      {
+        "key": "Fimbriae",
+        "label": "Small bristle-like fibers; anchors bacteria to rocks and host tissues; NO motility role"
+      },
+      {
+        "key": "Super NEET Rule",
+        "label": "Pili and Fimbriae play NO role in bacterial locomotion/motility"
+      }
+    ],
+    "doodleBadge": "Flagella = Motility | Pili/Fimbriae = Attachment",
+    "doodleSubtext": "Bacterial Surface Gear",
+    "explanation": "Fimbriae are critical virulence factors enabling pathogenic bacteria like Neisseria gonorrhoeae to grip epithelial cells.",
+    "whyItWorks": "Direct contrast: Flagella = Motility; Pili & Fimbriae = Non-motile attachment/conjugation.",
+    "alsoRemember": "Bacterial flagellin protein lacks ATPase activity, unlike eukaryotic tubulin-dynein systems.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.4.1",
+    "neetTrap": "Do pili and fimbriae help bacteria swim? NO! NCERT explicitly notes: \"do not play a role in motility\".",
+    "commonMistake": "Assuming pili are motile flagella.",
+    "tags": [
+      "Bacterial Flagella",
+      "Pili",
+      "Fimbriae",
+      "Filament Hook Basal Body",
+      "Motility",
+      "Attachment"
+    ],
+    "visualDescription": "A bacterium showing a long whip flagellum with three parts, hollow tubular conjugation pili, and a bristling carpet of sticky fimbriae.",
+    "neetRelevance": "NEET 2021, 2019, 2016 questions on bacterial flagellar parts and non-motile nature of pili/fimbriae.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.4.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following bacterial surface structures is directly responsible for cell motility in fluid media?",
+      "options": [
+        "Pili",
+        "Fimbriae",
+        "Flagella",
+        "Capsule"
+      ],
+      "answerIndex": 2,
+      "explanation": "Only flagella provide active swimming motility in bacteria; pili and fimbriae function in attachment and conjugation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-06",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Fluid Mosaic Model of Plasma Membrane (1972)",
+    "mnemonicNumber": 6,
+    "title": "Fluid Mosaic (1972): \"Protein Icebergs in a Sea of Lipids | Polar Heads Out, Hydrophobic Tails In\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Singer & Nicolson (1972) = FLUID MOSAIC MODEL | Phospholipid Bilayer: Polar Hydrophilic Heads Point OUTWARD + Non-polar Hydrophobic Hydrocarbon Tails Point INWARD (Shielded from water!) | Protein Icebergs floating in lipid sea",
+    "memoryHook": "The ocean of life: Singer & Nicolson (1972) gave the Fluid Mosaic Model! Phospholipid heads love water (Polar/Hydrophilic) and face outward to the liquids. Fatty acid tails hate water (Hydrophobic) and hide tucked inward in the dry interior! Integral and peripheral proteins float like icebergs across the fluid lipid sea!",
+    "expandedMeaning": "An improved model of the structure of cell membrane was proposed by Singer and Nicolson (1972) widely accepted as FLUID MOSAIC MODEL. According to this, the quasi-fluid nature of lipid enables lateral movement of proteins within the overall bilayer. This ability to move within the membrane is measured as its FLUIDITY. Lipids are arranged within membrane with polar head towards outer sides and hydrophobic tails towards inner part, ensuring that non-polar tail of saturated hydrocarbons is protected from aqueous environment. Membrane consists of lipids (phosphoglycerides), proteins, and carbohydrates. In human RBC membrane: approximately 52% PROTEIN and 40% LIPIDS.",
+    "fact": "In human erythrocytes (RBCs), the membrane composition is exactly 52% protein and 40% lipids (8% carbohydrates), frequently tested in NEET.",
+    "breakdown": [
+      {
+        "key": "Authors & Year",
+        "label": "Singer & Nicolson (1972)"
+      },
+      {
+        "key": "Lipid arrangement",
+        "label": "Polar hydrophilic heads outward; Non-polar hydrophobic tails inward"
+      },
+      {
+        "key": "Membrane fluidity",
+        "label": "Quasi-fluid nature allows lateral movement of proteins (cell growth, secretion, endocytosis, division)"
+      },
+      {
+        "key": "Human RBC ratio",
+        "label": "52% Protein and 40% Lipids"
+      },
+      {
+        "key": "Protein types",
+        "label": "Integral (deeply embedded or transmembrane) vs Peripheral (surface)"
+      }
+    ],
+    "doodleBadge": "Singer & Nicolson 1972 | RBC: 52% P, 40% L",
+    "doodleSubtext": "Fluid Mosaic Model",
+    "explanation": "Fluid nature of the membrane is important for functions like cell growth, formation of intercellular junctions, secretion, endocytosis, and cell division.",
+    "whyItWorks": "Directly hooks Singer & Nicolson (1972), the 52/40% RBC protein/lipid ratio, and polar/non-polar orientation.",
+    "alsoRemember": "Lipids in membrane are mainly phosphoglycerides with cholesterol providing mechanical stability.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.1",
+    "neetTrap": "What is the percentage of protein and lipid in human RBC membrane? 52% PROTEIN and 40% LIPIDS (not 50/50).",
+    "commonMistake": "Saying hydrophobic tails point outward (they point inward into the dry core).",
+    "tags": [
+      "Fluid Mosaic Model",
+      "Singer and Nicolson",
+      "Phospholipids",
+      "RBC Membrane",
+      "Fluidity",
+      "Plasma Membrane"
+    ],
+    "visualDescription": "A 3D lipid bilayer showing round polar heads on both surfaces with dangling tail pairs pointing inward and large purple integral proteins floating within.",
+    "neetRelevance": "NEET 2021, 2020, 2018 questions on Singer-Nicolson model, RBC protein/lipid percentage, and tail orientation.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "According to the Fluid Mosaic Model of Singer and Nicolson, what is the approximate chemical composition of the human erythrocyte (RBC) membrane?",
+      "options": [
+        "50% lipids and 50% proteins",
+        "52% proteins and 40% lipids",
+        "60% lipids and 30% proteins",
+        "40% proteins and 52% lipids"
+      ],
+      "answerIndex": 1,
+      "explanation": "The membrane of human erythrocyte has approximately 52 percent protein and 40 percent lipids."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-07",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Endomembrane System (ER, Golgi, Lysosomes, Vacuoles)",
+    "mnemonicNumber": 7,
+    "title": "Endomembrane Club: \"ER, Golgi, Lysosomes, Vacuoles ARE IN | Mitochondria & Chloroplasts ARE OUT!\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Endomembrane System = E-G-L-V (Endoplasmic Reticulum, Golgi complex, Lysosomes, Vacuoles) | Mitochondria, Chloroplasts & Peroxisomes are NOT part of Endomembrane System!",
+    "memoryHook": "The VIP Endomembrane Club: Only organelles with COORDINATED functions get in! ER makes proteins/lipids → Golgi modifies & packages → Lysosomes digest → Vacuoles store (E-G-L-V)! Independent power plants (Mitochondria, Chloroplasts, Peroxisomes) are KICKED OUT of the club!",
+    "expandedMeaning": "While each of the membranous organelles is distinct in terms of its structure and function, many of these are considered together as an ENDOMEMBRANE SYSTEM because their functions are coordinated. The endomembrane system includes: 1. Endoplasmic Reticulum (ER), 2. Golgi complex, 3. Lysosomes, and 4. Vacuoles. Since the functions of the MITOCHONDRIA, CHLOROPLASTS and PEROXISOMES are not coordinated with the above components, these are NOT considered as part of the endomembrane system.",
+    "fact": "Mitochondria and chloroplasts are semi-autonomous organelles with their own circular DNA, 70S ribosomes, and protein synthesis machinery, explaining why their functions are not coordinated with the endomembrane system.",
+    "breakdown": [
+      {
+        "key": "INCLUDED (E-G-L-V)",
+        "label": "Endoplasmic Reticulum + Golgi apparatus + Lysosomes + Vacuoles"
+      },
+      {
+        "key": "Why included?",
+        "label": "Their vesicular transport, processing, and degradation functions are coordinated"
+      },
+      {
+        "key": "EXCLUDED",
+        "label": "Mitochondria, Chloroplasts, and Peroxisomes"
+      },
+      {
+        "key": "Why excluded?",
+        "label": "Their functions are independent and not coordinated with ER-Golgi pathway"
+      }
+    ],
+    "doodleBadge": "E-G-L-V = Endomembrane System",
+    "doodleSubtext": "Coordinated Functions",
+    "explanation": "Proteins synthesized in RER travel via vesicles to cis-Golgi, mature into trans-Golgi vesicles, and become lysosomal enzymes or secretory vesicles.",
+    "whyItWorks": "Direct contrast: EGLV is inside; Mitochondria, Chloroplast, Peroxisome are outside.",
+    "alsoRemember": "Peroxisomes contain catalase and urate oxidase and participate in photorespiration.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.3",
+    "neetTrap": "Which organelle is NOT part of the endomembrane system? MITOCHONDRIA, CHLOROPLASTS, or PEROXISOMES (classic MCQ option).",
+    "commonMistake": "Including peroxisomes in the endomembrane system.",
+    "tags": [
+      "Endomembrane System",
+      "Endoplasmic Reticulum",
+      "Golgi Apparatus",
+      "Lysosomes",
+      "Vacuoles",
+      "Mitochondria Exception"
+    ],
+    "visualDescription": "A vesicular relay highway connecting ER to Golgi to Lysosomes and Vacuoles, with Mitochondria and Chloroplast crossed out with a red barrier.",
+    "neetRelevance": "NEET 2021, 2020, 2019 direct questions asking which organelles constitute the endomembrane system.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following cellular organelles is NOT considered a part of the endomembrane system?",
+      "options": [
+        "Golgi apparatus",
+        "Lysosome",
+        "Vacuole",
+        "Peroxisome"
+      ],
+      "answerIndex": 3,
+      "explanation": "Peroxisomes (along with mitochondria and chloroplasts) are not part of the endomembrane system because their functions are not coordinated with ER and Golgi."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-08",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Endoplasmic Reticulum (RER vs SER)",
+    "mnemonicNumber": 8,
+    "title": "ER Factory: \"RER = Ribosome Studded (Protein Synthesis) | SER = Smooth (Lipid & Steroid Hormones)\"",
+    "badgeText": "Comparison",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "comparison",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "RER = Ribosomes on surface + Continuous with outer nuclear membrane + PROTEIN synthesis & secretion | SER = Smooth (No ribosomes) + Major site for LIPID synthesis + STEROID HORMONES in animals",
+    "memoryHook": "The dual ER factory: RER is rough like sandpaper with attached Ribosomes, mass-producing PROTEINS and sending them into the lumen. SER is smooth as silk, pumping out LIPIDS and lipid-like STEROID HORMONES (estrogen, testosterone) in animal cells!",
+    "expandedMeaning": "Network of tiny tubular structures scattered in cytoplasm is called ENDOPLASMIC RETICULUM (ER). Divides intracellular space into two distinct compartments: LUMINAL (inside ER) and EXTRA-LUMINAL (cytoplasm). 1. Rough Endoplasmic Reticulum (RER): Bears ribosomes on outer surface; actively involved in protein synthesis and secretion; extensive and continuous with outer membrane of nucleus. 2. Smooth Endoplasmic Reticulum (SER): Devoid of ribosomes, smooth in appearance; major site for synthesis of LIPIDS; in animal cells, lipid-like STEROIDAL HORMONES are synthesized in SER.",
+    "fact": "Sarcoplasmic reticulum of skeletal muscle fibers is a specialized modified SER that stores and releases calcium ions (Ca2+) during muscular contraction.",
+    "breakdown": [
+      {
+        "key": "RER (Rough)",
+        "label": "Ribosomes attached; protein synthesis and secretion; continuous with nuclear membrane"
+      },
+      {
+        "key": "SER (Smooth)",
+        "label": "No ribosomes; major site for lipid synthesis, steroidal hormones, and drug detoxification"
+      },
+      {
+        "key": "Luminal compartment",
+        "label": "Space enclosed INSIDE the ER membrane network"
+      },
+      {
+        "key": "Extra-luminal compartment",
+        "label": "Cytoplasm outside the ER tubules"
+      }
+    ],
+    "doodleBadge": "RER = Proteins | SER = Lipids & Steroids",
+    "doodleSubtext": "ER Functional Split",
+    "explanation": "Cells actively secreting proteins (e.g. pancreatic acinar cells, plasma cells) are packed with RER; cells secreting steroids (adrenal cortex, testes) are packed with SER.",
+    "whyItWorks": "Direct contrast: RER = Proteins; SER = Lipids & Steroid hormones.",
+    "alsoRemember": "SER in liver cells detoxifies drugs and xenobiotics via cytochrome P450 enzymes.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.3.1",
+    "neetTrap": "Where are steroidal hormones synthesized in animal cells? In the SMOOTH ENDOPLASMIC RETICULUM (SER).",
+    "commonMistake": "Claiming RER synthesizes lipids (SER synthesizes lipids; RER synthesizes proteins).",
+    "tags": [
+      "Endoplasmic Reticulum",
+      "RER",
+      "SER",
+      "Protein Synthesis",
+      "Lipid Synthesis",
+      "Steroid Hormones"
+    ],
+    "visualDescription": "Nuclear envelope extending into ribosome-studded sheets of RER, transitioning into smooth branching tubules of SER producing lipid droplets.",
+    "neetRelevance": "NEET 2021, 2020, 2018 questions on site of lipid and steroidal hormone synthesis (SER).",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.3.1"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "In animal cells, lipid-like steroidal hormones are predominantly synthesized in which cellular organelle?",
+      "options": [
+        "Rough endoplasmic reticulum (RER)",
+        "Smooth endoplasmic reticulum (SER)",
+        "Golgi apparatus",
+        "Lysosomes"
+      ],
+      "answerIndex": 1,
+      "explanation": "Smooth endoplasmic reticulum (SER) is the major cellular site for the synthesis of lipids and steroidal hormones."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-09",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Golgi Apparatus (Cis/Trans Faces & Glycosylation)",
+    "mnemonicNumber": 9,
+    "title": "Golgi Post Office: \"Cis Face Receives from ER, Trans Face Ships | Packages Glycoproteins & Glycolipids\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Camillo Golgi (1898) = Concentric Cisternae (0.5 to 1.0 µm) | Convex Forming CIS Face (Receives ER vesicles) → Concave Maturing TRANS Face (Ships processed vesicles) | Site of formation of GLYCOPROTEINS and GLYCOLIPIDS",
+    "memoryHook": "Cell shipping post-office: Camillo Golgi (1898) discovered stacked curved plates called Cisternae (0.5-1.0 µm). Entry gate is the convex CIS face (fuses with ER vesicles). Exit gate is the concave TRANS face (ships packages out). Its master job: GLYCOSYLATION — gluing sugar tags onto proteins and lipids to make Glycoproteins and Glycolipids!",
+    "expandedMeaning": "Camillo Golgi (1898) first observed densely stained reticular structures near the nucleus, named Golgi bodies. Consist of many flat, disc-shaped sacs or cisternae of 0.5 µm - 1.0 µm diameter, stacked parallel to each other. Concentrically arranged near nucleus with two distinct faces: convex forming CIS face (receiving face) and concave maturing TRANS face (shipping face). Cis and trans faces are entirely different, but interconnected. Functions principally in PACKAGING materials to be delivered intracellularly or secreted extracellularly. Important site of formation of GLYCOPROTEINS and GLYCOLIPIDS.",
+    "fact": "Materials to be packaged in the form of vesicles from the ER fuse with the cis face of the Golgi apparatus and move towards the maturing trans face.",
+    "breakdown": [
+      {
+        "key": "Discoverer",
+        "label": "Camillo Golgi in 1898"
+      },
+      {
+        "key": "Cisternae size",
+        "label": "0.5 to 1.0 µm diameter"
+      },
+      {
+        "key": "Cis Face (Forming)",
+        "label": "Convex, faces ER/nucleus; receives incoming ER transport vesicles"
+      },
+      {
+        "key": "Trans Face (Maturing)",
+        "label": "Concave, faces plasma membrane; buds off finished secretory vesicles"
+      },
+      {
+        "key": "Master Job",
+        "label": "Important site for synthesis of GLYCOPROTEINS and GLYCOLIPIDS (glycosylation)"
+      }
+    ],
+    "doodleBadge": "Cis (In) → Trans (Out) | Glycosylation",
+    "doodleSubtext": "Golgi Logistics",
+    "explanation": "Proteins synthesized by ribosomes on the ER are chemically modified in the cisternae of the Golgi apparatus before they are released from its trans face.",
+    "whyItWorks": "Directly hooks Cis/Trans geometry and the synthesis of glycoproteins/glycolipids.",
+    "alsoRemember": "In plant cells, unconnected individual Golgi units are called dictyosomes.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.3.2",
+    "neetTrap": "Which organelle is the important site of formation of glycoproteins and glycolipids? GOLGI APPARATUS.",
+    "commonMistake": "Confusing cis (forming/receiving) with trans (maturing/shipping).",
+    "tags": [
+      "Golgi Apparatus",
+      "Camillo Golgi",
+      "Cis Face",
+      "Trans Face",
+      "Glycoproteins",
+      "Glycolipids",
+      "Packaging"
+    ],
+    "visualDescription": "Curved stack of golden Golgi cisternae receiving transport vesicles at convex cis face and budding mature secretory vesicles from concave trans face.",
+    "neetRelevance": "NEET 2021, 2020, 2018 questions on site of glycoprotein/glycolipid formation and cis/trans orientation.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.3.2"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "The Golgi apparatus is an important cellular site for the formation of:",
+      "options": [
+        "Steroidal hormones",
+        "Glycoproteins and glycolipids",
+        "ATP via oxidative phosphorylation",
+        "Ribosomal RNA subunits"
+      ],
+      "answerIndex": 1,
+      "explanation": "Golgi apparatus is the primary site of post-translational glycosylation, forming glycoproteins and glycolipids."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-10",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Lysosomes & Acid Hydrolases",
+    "mnemonicNumber": 10,
+    "title": "Lysosomes: \"Acidic Suicide Bags (pH ~5): Hydrolases Digest Lipids, Carbs, Proteins & DNA\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Lysosomes = Membrane-Bound Vesicles Packaged by Golgi | Rich in ACID HYDROLASES (Lipases, Proteases, Carbohydrases, Nucleases) | Optimally Active at ACIDIC pH (pH 5)",
+    "memoryHook": "The cellular stomach bag: LYSOSOMES bud off from Golgi apparatus packed with destructive ACID HYDROLASES! They work only in acid (pH 5 maintained by proton pumps). When activated, they can chew up anything: Lipases melt fats, Proteases chop proteins, Carbohydrases break sugars, and Nucleases shred nucleic acids!",
+    "expandedMeaning": "Lysosomes are membrane-bound vesicular structures formed by the process of packaging in the Golgi apparatus. The isolated lysosomal vesicles have been found to be very rich in almost all types of HYDROLYTIC ENZYMES (hydrolases - lipases, proteases, carbohydrases, nucleases) optimally active at the ACIDIC pH (about pH 5). These enzymes are capable of digesting carbohydrates, proteins, lipids and nucleic acids.",
+    "fact": "Lysosomal membrane has active H+-ATPase proton pumps that pump protons from cytosol into lysosome to maintain an internal acidic pH of 4.5 to 5.0.",
+    "breakdown": [
+      {
+        "key": "Origin",
+        "label": "Packaged by the GOLGI APPARATUS"
+      },
+      {
+        "key": "Enzymes",
+        "label": "Acid Hydrolases: Lipases, Proteases, Carbohydrases, Nucleases"
+      },
+      {
+        "key": "Optimum pH",
+        "label": "Strictly ACIDIC pH (~5) for enzyme activation"
+      },
+      {
+        "key": "Digestion spectrum",
+        "label": "Can digest all 4 major biological macromolecules: carbohydrates, proteins, lipids, nucleic acids"
+      }
+    ],
+    "doodleBadge": "Lysosomes = Acid Hydrolases (pH ~5)",
+    "doodleSubtext": "Intracellular Digestion",
+    "explanation": "If a lysosome bursts inside the neutral cytosol (pH ~7.2), the hydrolases are mostly harmless because they denature at neutral pH.",
+    "whyItWorks": "Direct connection: Lysosomes = Golgi packaging + Acid hydrolases + Acidic pH.",
+    "alsoRemember": "Autophagy is the digestion of a cell's own worn-out organelles by lysosomes.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.3.3",
+    "neetTrap": "At what pH are lysosomal hydrolytic enzymes optimally active? At ACIDIC pH (not alkaline or neutral).",
+    "commonMistake": "Thinking lysosomes are synthesized by mitochondria (they are packaged by Golgi apparatus).",
+    "tags": [
+      "Lysosomes",
+      "Acid Hydrolases",
+      "Acidic pH",
+      "Golgi Packaging",
+      "Proteases",
+      "Lipases"
+    ],
+    "visualDescription": "A single-membrane vesicle showing interior acidic protons (H+) activating hydrolytic scissors cutting proteins, lipids, and DNA.",
+    "neetRelevance": "NEET 2021, 2019, 2017 questions on lysosome origin from Golgi and optimal acidic pH.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.3.3"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Lysosomal hydrolytic enzymes (hydrolases) are optimally active at which physiological pH condition?",
+      "options": [
+        "Highly alkaline pH (pH 9-10)",
+        "Neutral pH (pH 7.0-7.4)",
+        "Acidic pH (pH ~5.0)",
+        "Any pH independent of hydrogen ions"
+      ],
+      "answerIndex": 2,
+      "explanation": "Lysosomal enzymes (acid hydrolases) are optimally active at acidic pH (around pH 5.0)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-11",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Vacuoles & Tonoplast Active Transport",
+    "mnemonicNumber": 11,
+    "title": "Vacuoles: \"Tonoplast Membrane Pumps Ions Against Gradient | Up to 90% Plant Cell Volume\"",
+    "badgeText": "Concept Rule",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Plant Vacuole = Occupies up to 90% of Plant Cell Volume | TONOPLAST = Single semi-permeable membrane pumping ions AGAINST concentration gradient into vacuole | Amoeba Contractile Vacuole = Osmoregulation",
+    "memoryHook": "The giant storage vault: In mature plant cells, the central VACUOLE swallows up to 90% of the entire cell volume! Its single membrane is called the TONOPLAST. The tonoplast actively pumps ions and minerals AGAINST the concentration gradient, so the sap inside is much more concentrated than the cytoplasm!",
+    "expandedMeaning": "Vacuole is the membrane-bound space found in the cytoplasm containing water, sap, excretory product and other non-useful materials. Bound by a single membrane called TONOPLAST. In plant cells, vacuoles can occupy up to 90 PERCENT of the volume of the cell. In plants, the tonoplast facilitates the transport of a number of ions and other materials AGAINST concentration gradients into the vacuole, hence their concentration is significantly HIGHER in the vacuole than in the cytoplasm. In Amoeba, CONTRACTILE VACUOLE is important for osmoregulation and excretion. In many protists, food vacuoles are formed by engulfing food.",
+    "fact": "Because tonoplast actively concentrates solutes inside the vacuole, water enters via osmosis, creating turgor pressure that maintains plant rigidity.",
+    "breakdown": [
+      {
+        "key": "Volume",
+        "label": "Occupies up to 90% of mature plant cell volume"
+      },
+      {
+        "key": "TONOPLAST",
+        "label": "Single semipermeable membrane enclosing the central vacuole"
+      },
+      {
+        "key": "Ion gradient",
+        "label": "Transports ions AGAINST concentration gradient (vacuolar sap is more concentrated than cytoplasm)"
+      },
+      {
+        "key": "Amoeba",
+        "label": "Contractile vacuole for osmoregulation and excretion"
+      },
+      {
+        "key": "Protists",
+        "label": "Food vacuoles formed by phagocytosis/engulfment"
+      }
+    ],
+    "doodleBadge": "Tonoplast = Against Gradient | 90% Volume",
+    "doodleSubtext": "Vacuolar Dynamics",
+    "explanation": "The term \"sap\" refers to the non-living liquid contents of the vacuole containing sugars, salts, and pigments like anthocyanins.",
+    "whyItWorks": "Directly hooks Tonoplast = Active transport against gradient, and 90% plant cell volume.",
+    "alsoRemember": "Water-soluble pigments like anthocyanin (red/purple flower color) are dissolved in vacuolar sap.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.3.4",
+    "neetTrap": "Is ion concentration higher in cytoplasm or vacuole in plants? HIGHER IN VACUOLE due to tonoplast active transport!",
+    "commonMistake": "Thinking tonoplast is a double membrane (tonoplast is a SINGLE unit membrane).",
+    "tags": [
+      "Vacuoles",
+      "Tonoplast",
+      "Against Concentration Gradient",
+      "Amoeba",
+      "Contractile Vacuole",
+      "Plant Cell"
+    ],
+    "visualDescription": "A giant central plant vacuole taking up 90% of cell with arrows showing tonoplast transport pumps driving ions inward against gradient.",
+    "neetRelevance": "NEET 2021, 2019 questions on tonoplast active transport and Amoeba contractile vacuole.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.3.4"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which statement is correct regarding the tonoplast of a plant vacuole according to NCERT?",
+      "options": [
+        "It is a double membrane that facilitates passive downhill diffusion only",
+        "It facilitates the transport of ions against concentration gradients into the vacuole",
+        "It prevents water from entering the plant cell completely",
+        "It is permeable to all proteins and organelles"
+      ],
+      "answerIndex": 1,
+      "explanation": "Tonoplast facilitates active transport of ions against concentration gradients into the vacuole, making sap more concentrated than cytoplasm."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-12",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Mitochondria (Cristae, Matrix & 70S Ribosomes)",
+    "mnemonicNumber": 12,
+    "title": "Mitochondria: \"Sausage Powerhouse: Cristae Increase Surface, Circular dsDNA, 70S Ribosomes, Divide by Fission\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Mitochondria = Double Membrane Sausage (0.2-1.0 µm diameter, 1.0-4.1 µm length) | Outer membrane continuous; Inner membrane folded into CRISTAE (Increases surface area!) | Matrix = Circular dsDNA + 70S Ribosomes + RNA | Divides by FISSION",
+    "memoryHook": "The cellular power engine: Sausage-shaped double membrane organelle! Outer membrane is a smooth shell. Inner membrane folds into zig-zag shelves called CRISTAE to pack maximum ATP-making enzymes! The inner matrix contains its own single circular DNA, 70S ribosomes (bacteria-like), and splits in half by FISSION!",
+    "expandedMeaning": "Mitochondria (sing. mitochondrion) unless specifically stained are not easily visible under microscope (stained with Janus Green). Typically sausage-shaped or cylindrical having a diameter of 0.2-1.0 µm (average 0.5 µm) and length 1.0-4.1 µm. Double membrane-bound: outer membrane is continuous limiting boundary; inner membrane forms a number of infoldings called CRISTAE towards matrix (cristae increase the surface area). Matrix possesses single circular DNA molecule, a few RNA molecules, 70S RIBOSOMES and components for protein synthesis. Mitochondria divide by FISSION. Sites of aerobic respiration, producing cellular energy in the form of ATP (\"powerhouses of the cell\").",
+    "fact": "Mitochondria have their own independent genetic system (semi-autonomous) and are inherited maternally in humans through egg cytoplasm.",
+    "breakdown": [
+      {
+        "key": "Shape & Dimensions",
+        "label": "Sausage/cylindrical; diameter 0.2-1.0 µm, length 1.0-4.1 µm"
+      },
+      {
+        "key": "CRISTAE",
+        "label": "Infoldings of inner membrane towards matrix; drastically increases surface area"
+      },
+      {
+        "key": "Matrix machinery",
+        "label": "Single circular dsDNA, RNA molecules, and prokaryotic 70S RIBOSOMES"
+      },
+      {
+        "key": "Division mode",
+        "label": "Divide by binary FISSION (like bacteria)"
+      },
+      {
+        "key": "Function",
+        "label": "Sites of AEROBIC respiration, producing ATP"
+      }
+    ],
+    "doodleBadge": "Cristae = Surface Area | 70S Ribosomes",
+    "doodleSubtext": "Mitochondrial Power",
+    "explanation": "Inner membrane houses ETS complexes and oxysomes (F0-F1 particles) for ATP synthesis.",
+    "whyItWorks": "Direct checklist: Cristae = surface area; Matrix = circular DNA + 70S ribosomes; Division = fission.",
+    "alsoRemember": "Janus Green B is the vital stain used to visualize active mitochondria under light microscope.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.4",
+    "neetTrap": "What type of ribosomes are inside mitochondria? 70S RIBOSOMES (not 80S!).",
+    "commonMistake": "Thinking mitochondria divide by mitosis (they divide by binary fission).",
+    "tags": [
+      "Mitochondria",
+      "Cristae",
+      "70S Ribosomes",
+      "Circular DNA",
+      "Fission",
+      "Aerobic Respiration"
+    ],
+    "visualDescription": "Cutaway of a sausage-shaped mitochondrion showing smooth outer membrane, folded yellow cristae ridges, circular DNA loop, and tiny 70S ribosome dots.",
+    "neetRelevance": "NEET 2021, 2020, 2019 questions on cristae function, 70S ribosomes in matrix, and division by fission.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.4"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "In mitochondria, infoldings of the inner membrane called cristae primarily serve to:",
+      "options": [
+        "Store glycogen granules",
+        "Increase the surface area for enzymatic ATP production",
+        "Facilitate binary fission",
+        "Synthesize nuclear DNA"
+      ],
+      "answerIndex": 1,
+      "explanation": "Cristae are infoldings of the inner mitochondrial membrane that function to increase surface area for respiratory enzymes and ATP synthesis."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-13",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Plastids (Chloroplast, Chromoplast, Leucoplast)",
+    "mnemonicNumber": 13,
+    "title": "Plastid Family: \"Chloroplast (Green) | Chromoplast (Yellow/Red Carotenoids) | Leucoplast (Storage: Amyloplast, Elaioplast, Aleuroplast)\"",
+    "badgeText": "Classification",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Plastids = Chloroplasts (Chlorophyll & Carotenoids) + Chromoplasts (Fat-soluble Carotenoids: Carotene, Xanthophyll for Yellow/Orange/Red color) + Leucoplasts (Colorless Storage: Amyloplast = Starch/Potato, Elaioplast = Oils/Fats, Aleuroplast = Proteins)",
+    "memoryHook": "The plant color palette: CHLOROPLASTS paint leaves green. CHROMOPLASTS store fat-soluble carotene and xanthophyll to paint flowers and ripening tomatoes bright yellow, orange, and red! Colorless LEUCOPLASTS store food: Amyloplast stores starch (potato), Elaioplast stores oils, and Aleuroplast stores proteins!",
+    "expandedMeaning": "Plastids are found in all plant cells and in euglenoids. Easily observed under microscope as they are large. Classified into three types based on pigments: 1. Chloroplasts: Contain chlorophyll and carotenoid pigments responsible for trapping light energy for photosynthesis. 2. Chromoplasts: Fat-soluble carotenoid pigments like carotene, xanthophylls and others are present, giving parts of the plant a yellow, orange or red colour. 3. Leucoplasts: Colourless plastids of varied shapes and sizes with stored nutrients: AMYLOPLASTS store carbohydrates (starch, e.g. potato); ELAIOPLASTS store oils and fats; ALEUROPLASTS store proteins.",
+    "fact": "The red color of ripening tomatoes and chilies is due to conversion of green chloroplasts into red chromoplasts containing the carotenoid lycopene.",
+    "breakdown": [
+      {
+        "key": "Chloroplasts",
+        "label": "Contain chlorophyll and carotenoids (photosynthesis)"
+      },
+      {
+        "key": "Chromoplasts",
+        "label": "Contain fat-soluble carotene and xanthophylls (yellow, orange, red colors)"
+      },
+      {
+        "key": "Leucoplasts",
+        "label": "Colourless storage plastids"
+      },
+      {
+        "key": "Amyloplasts",
+        "label": "Stores carbohydrates / STARCH (e.g. Potato tuber)"
+      },
+      {
+        "key": "Elaioplasts",
+        "label": "Stores OILS and FATS"
+      },
+      {
+        "key": "Aleuroplasts",
+        "label": "Stores PROTEINS"
+      }
+    ],
+    "doodleBadge": "Amylo = Starch | Elaio = Oil | Aleuro = Protein",
+    "doodleSubtext": "Leucoplast Storage",
+    "explanation": "Plastids can interconvert depending on developmental cues and light exposure.",
+    "whyItWorks": "Direct 3-way storage mnemonic: Amylo = Starch, Elaio = Oil, Aleuro = Protein.",
+    "alsoRemember": "Plastids contain their own double-stranded circular DNA and 70S ribosomes.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.5",
+    "neetTrap": "Which leucoplast stores oils and fats? ELAIOPLASTS (Aleuroplasts store proteins; Amyloplasts store starch).",
+    "commonMistake": "Confusing anthocyanin (water-soluble vacuolar pigment) with chromoplast carotenoids (fat-soluble plastid pigments).",
+    "tags": [
+      "Plastids",
+      "Chloroplast",
+      "Chromoplast",
+      "Leucoplast",
+      "Amyloplast",
+      "Elaioplast",
+      "Aleuroplast"
+    ],
+    "visualDescription": "Three leucoplast storage jars: potato starch grains (Amyloplast), lipid droplets (Elaioplast), and protein granules (Aleuroplast).",
+    "neetRelevance": "NEET 2021, 2020, 2018 match-the-column questions on Amyloplast, Elaioplast, and Aleuroplast.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.5"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which specialized type of colorless leucoplast is responsible for storing oils and fats in plant cells?",
+      "options": [
+        "Amyloplast",
+        "Aleuroplast",
+        "Elaioplast",
+        "Chromoplast"
+      ],
+      "answerIndex": 2,
+      "explanation": "Elaioplasts are specialized colorless leucoplasts that store oils and fats."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-14",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Chloroplast Anatomy (Grana, Thylakoids, Stroma)",
+    "mnemonicNumber": 14,
+    "title": "Chloroplast: \"Thylakoid Coin Stacks (Grana) | Stroma Fluid with RuBisCO, Circular dsDNA & 70S Ribosomes\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Chloroplast = Double Membrane (Inner less permeable) | Thylakoids = Flat membrane sacs stacked like coin piles (GRANA) | Stroma = Fluid matrix containing RuBisCO, circular dsDNA & 70S Ribosomes",
+    "memoryHook": "The solar kitchen: Double membrane lens! Inside the liquid STROMA sits stacks of flat green pancake coins called THYLAKOIDS. One stack of coins is a GRANUM (holds chlorophyll light traps). Stroma lamellae connect the stacks. The stroma soup contains RuBisCO dark-reaction enzymes, circular DNA, and 70S ribosomes!",
+    "expandedMeaning": "Chloroplasts of green plants are found in mesophyll cells of leaves: lens-shaped, oval, spherical, discoid or ribbon-like; length 5-10 µm, width 2-4 µm. Double membrane: inner membrane is relatively less permeable. Space limited by inner membrane is called STROMA. Number of organized flattened membranous sacs called THYLAKOIDS are present in stroma. Thylakoids are arranged in stacks like the piles of coins called GRANA. Flat membranous tubules called STROMA LAMELLAE connect thylakoids of different grana. Stroma contains enzymes required for synthesis of carbohydrates and proteins, small double-stranded circular DNA molecules, and 70S RIBOSOMES. Chlorophyll pigments are present in the thylakoids.",
+    "fact": "The lumen of thylakoid is an enclosed space where protons (H+) accumulate during photosynthetic light reactions, building the proton gradient for ATP synthesis.",
+    "breakdown": [
+      {
+        "key": "Dimensions",
+        "label": "Length 5-10 µm, Width 2-4 µm; 20-40 per mesophyll cell"
+      },
+      {
+        "key": "Thylakoids",
+        "label": "Flattened membranous sacs containing chlorophyll; lumen accumulates protons"
+      },
+      {
+        "key": "Grana",
+        "label": "Coin-like stacks of thylakoids where light reactions occur"
+      },
+      {
+        "key": "Stroma Lamellae",
+        "label": "Membranous frets connecting different grana; lacks PS II and NADP reductase"
+      },
+      {
+        "key": "Stroma matrix",
+        "label": "Contains dark reaction Calvin cycle enzymes (RuBisCO), circular dsDNA, 70S ribosomes"
+      }
+    ],
+    "doodleBadge": "Grana = Light Reaction | Stroma = Dark Reaction",
+    "doodleSubtext": "Chloroplast Architecture",
+    "explanation": "Light reaction occurs in thylakoid membranes (grana); dark reaction (sugar synthesis) occurs in the stroma.",
+    "whyItWorks": "Direct contrast: Thylakoid/Grana = Light reaction & Chlorophyll; Stroma = Dark reaction, RuBisCO, DNA, 70S ribosomes.",
+    "alsoRemember": "Chlamydomonas has only 1 chloroplast per cell, while green leaf mesophyll has 20-40 chloroplasts per cell.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.5",
+    "neetTrap": "Where are chlorophyll pigments located? In the THYLAKOIDS (not in the stroma).",
+    "commonMistake": "Thinking stroma lamellae have both PS I and PS II (stroma lamellae lack PS II and NADP reductase).",
+    "tags": [
+      "Chloroplast",
+      "Thylakoids",
+      "Grana",
+      "Stroma Lamellae",
+      "RuBisCO",
+      "70S Ribosomes"
+    ],
+    "visualDescription": "Cutaway of a chloroplast showing green stacks of coin-like grana connected by flat bridges in a clear stroma fluid.",
+    "neetRelevance": "NEET 2021, 2020, 2018 questions on thylakoid structure and stroma components.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.5"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "In a chloroplast, the stacks of flattened membranous sacs resembling piles of coins where chlorophyll pigments reside are known as:",
+      "options": [
+        "Cristae",
+        "Grana (singular: Granum)",
+        "Oxysomes",
+        "Cisternae"
+      ],
+      "answerIndex": 1,
+      "explanation": "Grana are coin-like stacks of thylakoid discs in chloroplasts containing the photosynthetic pigment machinery."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-15",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Ribosomes (70S vs 80S & George Palade 1953)",
+    "mnemonicNumber": 15,
+    "title": "Ribosomes: \"Palade 1953: Non-Membranous rRNA + Protein | Prokaryotes = 70S (50S+30S) | Eukaryotes = 80S (60S+40S)\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "comparison",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "George Palade (1953) = Dense Granular Ribosomes | Non-Membrane Bound (rRNA + Proteins) | Prokaryotic = 70S (50S Large + 30S Small) | Eukaryotic = 80S (60S Large + 40S Small) | S = Svedberg Unit (Sedimentation coefficient: Density & Size)",
+    "memoryHook": "The protein builders: George Palade (1953) discovered these tiny dense balls of rRNA and protein! They have NO membrane. Bacteria have 70S (split into 50S and 30S). Eukaryotic cells have 80S in cytoplasm (split into 60S and 40S). \"S\" stands for Svedberg unit — measuring how fast they settle in a centrifuge (density & size)!",
+    "expandedMeaning": "Ribosomes are the granular structures first observed under electron microscope as dense particles by George Palade (1953). Composed of ribonucleic acid (rRNA) and proteins and are NOT surrounded by any membrane. Eukaryotic ribosomes are 80S while prokaryotic ribosomes are 70S. Each ribosome has two subunits: larger and smaller subunit. The two subunits of 80S ribosomes are 60S and 40S, while that of 70S ribosomes are 50S and 30S. Here \"S\" (Svedberg's unit) stands for the sedimentation coefficient; it is indirectly a measure of density and size. Both 70S and 80S ribosomes are composed of two subunits.",
+    "fact": "Several ribosomes may attach to a single mRNA strand to form a chain called a POLYRIBOSOME or POLYSOME, translating the mRNA into multiple copies of the same polypeptide.",
+    "breakdown": [
+      {
+        "key": "Discoverer",
+        "label": "George Palade (1953) - Palade particles"
+      },
+      {
+        "key": "Composition",
+        "label": "Ribonucleic acid (rRNA) + Proteins; completely NON-MEMBRANOUS"
+      },
+      {
+        "key": "Prokaryotic (70S)",
+        "label": "50S (large subunit) + 30S (small subunit)"
+      },
+      {
+        "key": "Eukaryotic (80S)",
+        "label": "60S (large subunit) + 40S (small subunit)"
+      },
+      {
+        "key": "Svedberg unit (S)",
+        "label": "Sedimentation coefficient (indirect measure of density and size)"
+      },
+      {
+        "key": "Polysome",
+        "label": "Chain of ribosomes reading a single mRNA molecule simultaneously"
+      }
+    ],
+    "doodleBadge": "70S = 50S + 30S | 80S = 60S + 40S",
+    "doodleSubtext": "Ribosome Subunits",
+    "explanation": "The sedimentation values do not add up mathematically (50+30≠70; 60+40≠80) because Svedberg units measure hydrodynamic drag and surface area in ultracentrifugation.",
+    "whyItWorks": "Direct arithmetic peg: 70S = 50S + 30S; 80S = 60S + 40S; S = Svedberg unit.",
+    "alsoRemember": "Eukaryotic organellar ribosomes (in mitochondria and chloroplasts) are 70S.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.6",
+    "neetTrap": "What does \"S\" stand for in 70S/80S ribosomes? SVEDBERG UNIT, an indirect measure of density and size.",
+    "commonMistake": "Adding subunit numbers mathematically (expecting 50+30 to equal 80).",
+    "tags": [
+      "Ribosomes",
+      "George Palade",
+      "70S",
+      "80S",
+      "Svedberg Unit",
+      "Polysome",
+      "rRNA"
+    ],
+    "visualDescription": "Large and small ribosomal subunits clamping onto an mRNA strand like a sandwich with tRNA docking into sites.",
+    "neetRelevance": "NEET 2021, 2020, 2018 questions on Svedberg unit definition and subunit breakdown of 70S/80S.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.6"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "In ribosomes, the Svedberg unit (\"S\") directly stands for the sedimentation coefficient, which is an indirect measure of:",
+      "options": [
+        "Electrical charge and pH",
+        "Density and size",
+        "Molecular folding and hydration",
+        "Enzyme catalytic rate"
+      ],
+      "answerIndex": 1,
+      "explanation": "S stands for the Svedberg unit (sedimentation coefficient), which serves as an indirect measure of particle density and size."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-16",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Cilia and Flagella (9+2 Axoneme)",
+    "mnemonicNumber": 16,
+    "title": "Cilia & Flagella: \"9+2 Axoneme: 9 Peripheral Doublets + 2 Central Singlets | Sprout from Centriole Basal Body\"",
+    "badgeText": "Formula Trick",
+    "importance": "Must Know",
+    "difficulty": "hard",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Cilia & Flagella Axoneme = 9 + 2 Array (Nine Peripheral Doublets of Microtubules + Two Central Singlet Microtubules) | Connected by Radial Spokes & Bridge | Arise from Basal Body (Centriole-like structure)",
+    "memoryHook": "The 9+2 oar mechanism: Eukaryotic cilia and flagella are wrapped in plasma membrane. Look at the cross-cut axoneme wheel: NINE double-barreled microtubule doublets form the outer rim, and TWO single microtubules stand in the center (9+2)! They sprout from a bottom anchor called the BASAL BODY (a 9+0 centriole)!",
+    "expandedMeaning": "Cilia (sing. cilium) and flagella (sing. flagellum) are hair-like outgrowths of cell membrane. Cilia are small structures which work like oars, causing movement of either the cell or surrounding fluid. Flagella are comparatively longer and responsible for cell movement. Core is called AXONEME, possessing a number of microtubules running parallel to long axis. Axoneme usually has NINE PAIRS OF DOUBLETS of radially arranged peripheral microtubules, and a pair of centrally located microtubules: 9+2 ARRAY. Central tubules connected by bridges and enclosed by central sheath, connected to one of tubules of each peripheral doublet by a RADIAL SPOKE (9 radial spokes). Both cilium and flagellum emerge from centriole-like structure called the BASAL BODY.",
+    "fact": "The motor protein providing sliding force in cilia and flagella is DYNEIN, which uses ATP hydrolysis to bend the axoneme.",
+    "breakdown": [
+      {
+        "key": "Cilia vs Flagella",
+        "label": "Cilia = short, many, oar-like | Flagella = long, few, whip-like"
+      },
+      {
+        "key": "Axoneme pattern",
+        "label": "9 + 2 array: 9 peripheral doublets + 2 central singlets"
+      },
+      {
+        "key": "Radial spokes",
+        "label": "9 radial spokes connecting central sheath to peripheral doublets"
+      },
+      {
+        "key": "Basal body",
+        "label": "Centriole-like structure (9+0) from which cilium/flagellum emerges"
+      }
+    ],
+    "doodleBadge": "9 + 2 Axoneme Array",
+    "doodleSubtext": "Cilia & Flagella Core",
+    "explanation": "Radial spokes and interdoublet nexin links convert the sliding motion of dynein into bending waves.",
+    "whyItWorks": "Direct contrast: Cilia/Flagella = 9+2; Centriole/Basal Body = 9+0.",
+    "alsoRemember": "Prokaryotic flagella lack the 9+2 microtubule array and are made of flagellin protein.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.7",
+    "neetTrap": "What is the microtubule arrangement in cilia and flagella? 9 + 2 (Centrioles are 9 + 0!).",
+    "commonMistake": "Confusing 9+2 axoneme array with 9+0 centriolar cartwheel array.",
+    "tags": [
+      "Cilia",
+      "Flagella",
+      "Axoneme",
+      "9+2 Pattern",
+      "Microtubules",
+      "Basal Body",
+      "Radial Spokes"
+    ],
+    "visualDescription": "A circular cross-section of a cilium showing 9 pairs of green doublets on the rim connected by spokes to 2 central purple tubules.",
+    "neetRelevance": "NEET 2021, 2020, 2019, 2016 high-frequency questions on 9+2 axoneme array vs 9+0 basal body.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.7"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "The core of eukaryotic cilia and flagella (axoneme) exhibits which characteristic microtubular arrangement?",
+      "options": [
+        "9 + 0 arrangement of triplets",
+        "9 + 2 arrangement (9 peripheral doublets + 2 central singlets)",
+        "7 + 2 arrangement",
+        "12 peripheral singlets"
+      ],
+      "answerIndex": 1,
+      "explanation": "The eukaryotic axoneme possesses a 9+2 pattern composed of 9 peripheral doublets and 2 central singlet microtubules."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-17",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Centrosome and Centrioles (9+0 Cartwheel Pattern)",
+    "mnemonicNumber": 17,
+    "title": "Centrioles: \"9+0 Cartwheel: Nine Peripheral Triplets, No Central Tubule | Forms Spindle Apparatus & Basal Bodies\"",
+    "badgeText": "Formula Trick",
+    "importance": "Must Know",
+    "difficulty": "hard",
+    "visualType": "concept",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Centrosome = Two Perpendicular Centrioles surrounded by Amorphous Pericentriolar Material | 9 + 0 CARTWHEEL Array (Nine Peripheral Triplets of Tubulin + Proteinaceous Central HUB, No Central Microtubules!) | Forms Spindle Apparatus & Basal Bodies of Cilia/Flagella",
+    "memoryHook": "The wagon wheel of the cell: Two cylindrical CENTRIOLES lie perpendicular to each other like an \"L\". Cross-section looks like a CARTWHEEL with a 9+0 pattern: NINE peripheral triplet spokes (A-B-C tubulin) connected to a central protein HUB with zero center tubules! They spin out the mitotic spindle apparatus to pull chromosomes apart in animal cells!",
+    "expandedMeaning": "Centrosome is an organelle usually containing two cylindrical structures called CENTRIOLES. Surrounded by amorphous pericentriolar materials. Both centrioles in a centrosome lie PERPENDICULAR to each other, in which each has an organization like the CARTWHEEL. Made up of nine evenly spaced peripheral fibrils of tubulin protein; each peripheral fibril is a TRIPLET. Adjacent triplets are linked. Central part of centriole is also proteinaceous and called the HUB, connected with tubules of peripheral triplets by radial spokes made of protein: 9+0 ARRAY. Centrioles form the BASAL BODY of cilia or flagella, and SPINDLE FIBRES that give rise to spindle apparatus during cell division in animal cells.",
+    "fact": "Centrioles are absent in higher plant cells; plant cells form anastral spindles during cell division without centrioles.",
+    "breakdown": [
+      {
+        "key": "Orientation",
+        "label": "Two centrioles lie PERPENDICULAR to each other inside centrosome"
+      },
+      {
+        "key": "Architecture",
+        "label": "Cartwheel pattern with 9 + 0 array"
+      },
+      {
+        "key": "Peripheral fibrils",
+        "label": "9 evenly spaced TRIPLETS of tubulin protein"
+      },
+      {
+        "key": "Central hub",
+        "label": "Proteinaceous central hub with ZERO central microtubules (hence 9+0)"
+      },
+      {
+        "key": "Key functions",
+        "label": "1. Basal bodies of cilia & flagella, 2. Spindle apparatus in animal cell division"
+      }
+    ],
+    "doodleBadge": "9 + 0 Cartwheel Array | Triplets",
+    "doodleSubtext": "Centriole Architecture",
+    "explanation": "Centriole duplication occurs during the S-phase of the cell cycle in the cytoplasm.",
+    "whyItWorks": "Direct contrast: Cilia/Flagella = 9+2 doublets; Centriole = 9+0 triplets cartwheel.",
+    "alsoRemember": "Higher plant cells divide without centrioles (anastral mitosis).",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.8",
+    "neetTrap": "What is the microtubule pattern of a centriole? 9 + 0 with TRIPLETS (not doublets).",
+    "commonMistake": "Confusing the 9+2 doublet array of cilia with the 9+0 triplet array of centrioles.",
+    "tags": [
+      "Centrosome",
+      "Centriole",
+      "Cartwheel Pattern",
+      "9+0 Array",
+      "Spindle Apparatus",
+      "Basal Body",
+      "Tubulin"
+    ],
+    "visualDescription": "A cartwheel diagram showing a central protein hub radiating 9 spokes to 9 peripheral sets of tilted three-barrel tubulin triplets.",
+    "neetRelevance": "NEET 2021, 2020, 2017 high-frequency questions on 9+0 cartwheel structure of centrioles.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.8"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following descriptions accurately characterizes the internal organization of a centriole?",
+      "options": [
+        "9 + 2 array of peripheral doublets and central singlets",
+        "9 + 0 cartwheel organization consisting of nine peripheral triplets of tubulin around a central hub",
+        "Helical winding of actin microfilaments around myosin",
+        "Concentric lamellar membranes without microtubules"
+      ],
+      "answerIndex": 1,
+      "explanation": "A centriole exhibits a 9+0 cartwheel organization with nine peripheral triplets of tubulin connected to a central protein hub."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-18",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Nucleus, Chromatin & Nucleolus",
+    "mnemonicNumber": 18,
+    "title": "Nucleus: \"Brown (1831 Discovered) | Flemming (Chromatin Stain) | Nucleolus = Active rRNA Synthesis\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Robert Brown (1831) discovered Nucleus | W. Flemming named CHROMATIN (basic dye staining) | NUCLEOLUS = Non-membrane dense body, site of ACTIVE rRNA SYNTHESIS",
+    "memoryHook": "The command center: Robert Brown discovered the brown Nucleus in 1831. Walther Flemming dyed the DNA threads with basic stain and named them CHROMATIN. Inside the nucleoplasm sits the dark round NUCLEOLUS: a membrane-free factory churning out ribosomal RNA (rRNA) for protein synthesis!",
+    "expandedMeaning": "Nucleus as a cell organelle was first described by ROBERT BROWN as early as 1831. Later, the material of the nucleus stained by the basic dyes was given the name CHROMATIN by W. Flemming. Nuclear envelope consists of two parallel membranes with space between (10 to 50 nm) called PERINUCLEAR SPACE. Nuclear pores are formed by fusion of two membranes, allowing bidirectional movement of RNA and proteins. Nucleoplasm contains NUCLEOLUS and chromatin. Nucleoli are spherical structures; non-membrane bound, continuous with rest of nucleoplasm. It is a site for ACTIVE RIBOSOMAL RNA (rRNA) SYNTHESIS. Larger and more numerous nucleoli are present in cells actively carrying out protein synthesis.",
+    "fact": "Mature mammalian red blood cells (erythrocytes) and vascular sieve tube elements of plants completely lose their nuclei at functional maturity.",
+    "breakdown": [
+      {
+        "key": "Discovery",
+        "label": "Robert Brown (1831)"
+      },
+      {
+        "key": "Chromatin name",
+        "label": "W. Flemming (stained with basic dyes like acetocarmine)"
+      },
+      {
+        "key": "Perinuclear space",
+        "label": "10 to 50 nm space between outer and inner nuclear membranes"
+      },
+      {
+        "key": "Nuclear pores",
+        "label": "Formed by membrane fusion; facilitates bidirectional RNA/protein passage"
+      },
+      {
+        "key": "NUCLEOLUS",
+        "label": "Non-membrane bound; site of ACTIVE rRNA (ribosomal RNA) SYNTHESIS"
+      }
+    ],
+    "doodleBadge": "Brown 1831 | Nucleolus = rRNA Factory",
+    "doodleSubtext": "Nuclear Architecture",
+    "explanation": "Cells with high protein manufacturing demands (e.g. developing oocytes, plasma cells) have exceptionally large, multiple nucleoli.",
+    "whyItWorks": "Direct linkage: Brown (discovery), Flemming (chromatin), Nucleolus = active rRNA synthesis.",
+    "alsoRemember": "Human cell contains approximately 2 meters of DNA distributed among 46 chromosomes.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.9",
+    "neetTrap": "What is synthesized inside the nucleolus? RIBOSOMAL RNA (rRNA), NOT mRNA or proteins.",
+    "commonMistake": "Thinking nucleolus has a protective membrane (it is completely non-membrane bound).",
+    "tags": [
+      "Nucleus",
+      "Robert Brown",
+      "Flemming",
+      "Chromatin",
+      "Nucleolus",
+      "rRNA Synthesis",
+      "Perinuclear Space"
+    ],
+    "visualDescription": "A spherical nucleus with porous double envelope showing loose chromatin threads and a dense dark nucleolus ribosome factory inside.",
+    "neetRelevance": "NEET 2021, 2020, 2018 questions on nucleolus function (rRNA synthesis) and discovery history.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.9"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is the primary physiological function of the nucleolus in eukaryotic cells?",
+      "options": [
+        "Synthesis of messenger RNA (mRNA)",
+        "Active synthesis of ribosomal RNA (rRNA)",
+        "Replication of nuclear DNA during S phase",
+        "Packaging of secretory vesicles"
+      ],
+      "answerIndex": 1,
+      "explanation": "The nucleolus is the specialized nuclear site for the transcription and active synthesis of ribosomal RNA (rRNA)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-19",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Chromosome Types by Centromere Position",
+    "mnemonicNumber": 19,
+    "title": "Chromosome Shapes: \"Metacentric (V-shape Middle) | Sub-meta (L-shape Unequal) | Acrocentric (J-shape Near End) | Telocentric (I-shape Terminal)\"",
+    "badgeText": "Classification",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Based on CENTROMERE position: Metacentric = Middle centromere, equal arms (V-shape) | Sub-metacentric = Slightly away from middle, one shorter & one longer arm (L-shape) | Acrocentric = Situated close to end, one extremely short & one very long arm (J-shape) | Telocentric = Terminal centromere at tip (I-shape)",
+    "memoryHook": "Centromere slider on anaphase chromosomes: Metacentric is dead center (Equal arms, folds into V-shape). Sub-metacentric slides slightly off-center (Short p-arm and long q-arm, L-shape). Acrocentric slides near the tip (Tiny stub and giant arm, J-shape). Telocentric is right on the terminal end (Single stick, I-shape)!",
+    "expandedMeaning": "Every chromosome has a primary constriction or CENTROMERE on sides of which disc-shaped structures called KINETOCHORES are present. Based on the position of the centromere, chromosomes are classified into four types: 1. METACENTRIC: Centromere in the middle, forming two equal arms (V-shaped during anaphase). 2. SUB-METACENTRIC: Centromere slightly away from the middle, resulting in one shorter arm (p-arm) and one longer arm (q-arm) (L-shaped). 3. ACROCENTRIC: Centromere is situated close to its end forming one extremely short and one very long arm (J-shaped). 4. TELOCENTRIC: Centromere is terminal, situated at the very tip (I-shaped).",
+    "fact": "Short arm of a sub-metacentric/acrocentric chromosome is designated \"p\" (French: petite = small) and the long arm is designated \"q\".",
+    "breakdown": [
+      {
+        "key": "Metacentric",
+        "label": "Centromere exactly in middle; equal arms; V-shaped during anaphase"
+      },
+      {
+        "key": "Sub-metacentric",
+        "label": "Centromere slightly off-center; short p-arm & long q-arm; L-shaped"
+      },
+      {
+        "key": "Acrocentric",
+        "label": "Centromere close to end; one extremely short stub & one very long arm; J-shaped"
+      },
+      {
+        "key": "Telocentric",
+        "label": "Centromere terminal at the very end; I-shaped rod"
+      },
+      {
+        "key": "Kinetochore",
+        "label": "Disc-shaped protein structure on sides of centromere where spindle fibers attach"
+      }
+    ],
+    "doodleBadge": "Meta = V | Sub = L | Acro = J | Telo = I",
+    "doodleSubtext": "Centromere Positions",
+    "explanation": "During anaphase separation, centromere leads toward the pole while arms trail behind, generating the classic V, L, J, and I shapes.",
+    "whyItWorks": "Direct association of Centromere Position + Arm Lengths + Anaphase Letter Shapes (V, L, J, I).",
+    "alsoRemember": "Humans have metacentric, sub-metacentric, and acrocentric chromosomes, but NO strictly telocentric chromosomes.",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.9",
+    "neetTrap": "Which chromosome has one extremely short arm and one very long arm? ACROCENTRIC.",
+    "commonMistake": "Confusing acrocentric (near end) with telocentric (strictly terminal tip).",
+    "tags": [
+      "Chromosomes",
+      "Metacentric",
+      "Sub-metacentric",
+      "Acrocentric",
+      "Telocentric",
+      "Centromere",
+      "Kinetochore"
+    ],
+    "visualDescription": "Four chromosomes arranged side-by-side showing centromere shifting from center (metacentric) to terminal tip (telocentric) with letter shapes V, L, J, I.",
+    "neetRelevance": "NEET 2021, 2020, 2019, 2017 high-frequency questions on chromosome classification by centromere position.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.9"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "A chromosome having its centromere situated close to one end, resulting in one extremely short arm and one very long arm, is termed:",
+      "options": [
+        "Metacentric",
+        "Sub-metacentric",
+        "Acrocentric",
+        "Telocentric"
+      ],
+      "answerIndex": 2,
+      "explanation": "Acrocentric chromosomes have the centromere positioned close to the end, forming one extremely short arm and one very long arm."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch08-20",
+    "subject": "biology",
+    "chapterId": "bio-ch-08",
+    "chapterNumber": 8,
+    "chapterTitle": "Cell: The Unit of Life",
+    "topicId": "bio-top-8-3",
+    "topicTitle": "Eukaryotic Cells",
+    "topic": "Satellite Chromosomes (SAT) & Microbodies",
+    "mnemonicNumber": 20,
+    "title": "SAT & Microbodies: \"Secondary Constriction Gives Constant SATELLITE Knob | Microbodies = Peroxisomes & Glyoxysomes\"",
+    "badgeText": "Concept Rule",
+    "importance": "Medium",
+    "difficulty": "medium",
+    "visualType": "concept",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Secondary Constriction (Non-staining) = Leaves small SATELLITE fragment beyond it (SAT Chromosome) | Microbodies = Single-membrane vesicles containing enzymes in both plants & animals (Peroxisomes)",
+    "memoryHook": "Antenna on the chromosome: Some chromosomes have a non-staining pinch called a SECONDARY CONSTRICTION at a constant location, leaving a tiny knob called a SATELLITE (SAT Chromosome)! In the cytoplasm float tiny single-membrane MICROBODIES packed with enzymes in both plants and animals!",
+    "expandedMeaning": "Sometimes a few chromosomes have non-staining SECONDARY CONSTRICTIONS at a constant location. This gives the appearance of a small fragment called the SATELLITE (SAT chromosome). Microbodies: Many membrane bound minute vesicles called MICROBODIES that contain various enzymes are present in both plant and animal cells (e.g. peroxisomes and glyoxysomes).",
+    "fact": "In humans, chromosomes 13, 14, 15, 21, and 22 are acrocentric SAT chromosomes bearing secondary constrictions (nucleolar organizer regions / NORs).",
+    "breakdown": [
+      {
+        "key": "Secondary Constriction",
+        "label": "Non-staining constriction at a fixed position on chromosome"
+      },
+      {
+        "key": "Satellite (SAT)",
+        "label": "Small terminal knob-like fragment distal to the secondary constriction"
+      },
+      {
+        "key": "Marker role",
+        "label": "Serves as an anatomical marker identifying specific chromosomes (e.g. human 13, 14, 15, 21, 22)"
+      },
+      {
+        "key": "Microbodies",
+        "label": "Membrane-bound minute enzymatic vesicles in both plant and animal cells (Peroxisomes, Glyoxysomes)"
+      }
+    ],
+    "doodleBadge": "SAT Chromosome | Microbodies",
+    "doodleSubtext": "Chromosomal Markers",
+    "explanation": "Secondary constrictions often contain nucleolar organizer regions (NOR) that code for rRNA synthesis.",
+    "whyItWorks": "Directly reinforces the definitions of secondary constriction/satellite and microbodies from the final paragraph of NCERT Chapter 8.",
+    "alsoRemember": "Glyoxysomes in oil seeds convert stored fatty acids into carbohydrates (glyoxylate cycle).",
+    "ncertConnection": "NCERT Class 11 Biology Chapter 8, Section 8.5.9",
+    "neetTrap": "Is the secondary constriction staining or non-staining? NON-STAINING (remains clear/uncolored).",
+    "commonMistake": "Confusing primary constriction (centromere) with secondary constriction (satellite knob).",
+    "tags": [
+      "Satellite Chromosome",
+      "SAT Chromosome",
+      "Secondary Constriction",
+      "Microbodies",
+      "Peroxisomes"
+    ],
+    "visualDescription": "A chromosome showing primary centromere constriction below, and a clear secondary constriction ring near the top holding a little round satellite knob.",
+    "neetRelevance": "NEET 2020, 2018 questions on satellite chromosomes and microbodies.",
+    "sourceReference": {
+      "title": "NCERT Class 11 Biology",
+      "section": "Section 8.5.9"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "The small chromosomal fragment located distal to a constant, non-staining secondary constriction is referred to as a:",
+      "options": [
+        "Centromere",
+        "Kinetochore",
+        "Satellite",
+        "Chromatid"
+      ],
+      "answerIndex": 2,
+      "explanation": "A non-staining secondary constriction at a constant site separates a small terminal fragment called the satellite."
+    }
+  }
+];

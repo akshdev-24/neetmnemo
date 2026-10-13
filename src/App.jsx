@@ -94,18 +94,18 @@ export default function App() {
   const [favorites, setFavorites] = useState(() => {
     try {
       const saved = localStorage.getItem('neet_mnemo_favorites');
-      return saved ? JSON.parse(saved) : ['mnemo-phy-01', 'mnemo-chem-01', 'mnemo-bio-01'];
+      return saved ? JSON.parse(saved) : [];
     } catch {
-      return ['mnemo-phy-01', 'mnemo-chem-01', 'mnemo-bio-01'];
+      return [];
     }
   });
 
   const [learnedIds, setLearnedIds] = useState(() => {
     try {
       const saved = localStorage.getItem('neet_mnemo_learned');
-      return saved ? JSON.parse(saved) : ['mnemo-phy-01'];
+      return saved ? JSON.parse(saved) : [];
     } catch {
-      return ['mnemo-phy-01'];
+      return [];
     }
   });
 
@@ -223,7 +223,7 @@ export default function App() {
   // Active items lookup
   const activeSubject = SUBJECTS.find((s) => s.id === selectedSubjectId) || SUBJECTS[0];
   const activeChapter = CHAPTERS.find((c) => c.id === selectedChapterId) || CHAPTERS[0];
-  const activeMnemonic = MNEMONICS.find((m) => m.id === selectedMnemonicId) || MNEMONICS[0];
+  const activeMnemonic = MNEMONICS.find((m) => m.id === selectedMnemonicId) || (MNEMONICS.length > 0 ? MNEMONICS[0] : null);
 
   // Next / Previous for Mnemonic Details
   const currentMnemonicIndex = MNEMONICS.findIndex((m) => m.id === selectedMnemonicId);
@@ -307,15 +307,26 @@ export default function App() {
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                {MNEMONICS.slice(0, 6).map((mnemo) => (
-                  <MnemonicCard
-                    key={mnemo.id}
-                    mnemonic={mnemo}
-                    isFavorite={favorites.includes(mnemo.id)}
-                    onToggleFavorite={handleToggleFavorite}
-                    onOpenDetail={handleSelectMnemonic}
-                  />
-                ))}
+                {MNEMONICS.length > 0 ? (
+                  MNEMONICS.slice(0, 6).map((mnemo) => (
+                    <MnemonicCard
+                      key={mnemo.id}
+                      mnemonic={mnemo}
+                      isFavorite={favorites.includes(mnemo.id)}
+                      onToggleFavorite={handleToggleFavorite}
+                      onOpenDetail={handleSelectMnemonic}
+                    />
+                  ))
+                ) : (
+                  <div className="col-span-full p-8 rounded-3xl bg-white border-2 border-dashed border-[#243044]/30 text-center space-y-2">
+                    <p className="font-title text-sm font-bold text-[#243044]">
+                      No visual mnemonics currently available
+                    </p>
+                    <p className="text-xs text-[#667085]">
+                      All mnemonics have been cleared across subjects and chapters.
+                    </p>
+                  </div>
+                )}
               </div>
             </section>
 
@@ -407,12 +418,12 @@ export default function App() {
         {currentRoute === 'mnemonic' && (
           <MnemonicDetailView
             mnemonic={activeMnemonic}
-            onBack={() => handleNavigate(activeMnemonic.subject)}
+            onBack={() => handleNavigate(activeMnemonic?.subject || 'subjects')}
             onPrev={handlePrevMnemonic}
             onNext={handleNextMnemonic}
             hasPrev={hasPrevMnemonic}
             hasNext={hasNextMnemonic}
-            isFavorite={favorites.includes(activeMnemonic.id)}
+            isFavorite={activeMnemonic ? favorites.includes(activeMnemonic.id) : false}
             onToggleFavorite={handleToggleFavorite}
             onSelectMnemonic={handleSelectMnemonic}
             onNavigateChapter={(chId) => {
