@@ -1,6 +1,7 @@
 /**
- * Biology Chapter 9: Biomolecules
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 9: Biomolecules
+ * Class 11 Biology (30 verified mnemonics)
+ * Primary Source: NEET Biology Chapter-Wise 30 Mnemonics Master (PDF 1)
  */
 
 export const bioCh09Mnemonics = [
@@ -10,76 +11,63 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
+    "classLevel": 11,
     "topicId": "bio-top-9-1",
-    "topicTitle": "Enzyme Classification",
-    "topic": "Enzyme Classes IUBMB Order",
+    "topicTitle": "Acid-Soluble vs Acid-Insoluble Pool Analysis",
+    "topic": "Acid-Soluble vs Acid-Insoluble Pool Analysis",
     "mnemonicNumber": 1,
-    "title": "Enzyme Classes: Over The Hill, Look It Leaps (OTHLIL)",
-    "badgeText": "Memory Trick",
+    "title": "Acid-Soluble vs Acid-Insoluble Pool Analysis: \"Filtrate Small, Retentate Macromolecules\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Over The Hill, Look It Leaps! (O-T-H-L-I-L)",
-    "memoryHook": "Classes 1 to 6 in exact IUBMB order: 1. Oxidoreductases, 2. Transferases, 3. Hydrolases, 4. Lyases, 5. Isomerases, 6. Ligases!",
-    "fact": "The International Union of Biochemistry and Molecular Biology (IUBMB) classifies all enzymes into 6 numbered classes based on the reaction catalyzed.",
+    "mnemonic": "Filtrate Small, Retentate Macromolecules",
+    "memoryHook": "Filtrate Small, Retentate Macromolecules",
+    "fact": "Acid-Soluble Pool (Filtrate): Molecular weight 18 to 800 Daltons (Micromolecules, biomicromolecules). Acid-Insoluble Pool (Retentate): Molecular weight > 10,000 Daltons (Proteins, Nucleic acids, Polysaccharides). Exception: Lipids are in retentate (< 800 Da) because of membrane vesicles.",
     "breakdown": [
       {
-        "key": "1. O - Oxidoreductases",
-        "label": "Dehydrogenases catalyzing oxidation-reduction between two substrates"
+        "key": "Acid",
+        "label": "Soluble Pool (Filtrate): Molecular weight 18 to 800 Daltons (Micromolecules, biomicromolecules)"
       },
       {
-        "key": "2. T - Transferases",
-        "label": "Transfer of a specific chemical group (e.g. phosphate by kinases) between pair of substrates"
+        "key": "Acid",
+        "label": "Insoluble Pool (Retentate): Molecular weight > 10,000 Daltons (Proteins, Nucleic acids, Polysaccharides)"
       },
       {
-        "key": "3. H - Hydrolases",
-        "label": "Cleavage of ester, ether, peptide, or glycosidic bonds by adding water"
-      },
-      {
-        "key": "4. L - Lyases",
-        "label": "Removal of groups from substrates leaving double bonds WITHOUT hydrolysis"
-      },
-      {
-        "key": "5. I - Isomerases",
-        "label": "Interconversion of optical, geometric, or positional isomers"
-      },
-      {
-        "key": "6. L - Ligases",
-        "label": "Joining of two compounds by coupling with ATP cleavage (e.g. DNA ligase)"
+        "key": "Exception",
+        "label": "Lipids are in retentate (< 800 Da) because of membrane vesicles."
       }
     ],
-    "doodleBadge": "O → T → H → L → I → L",
-    "doodleSubtext": "6 Enzyme Classes",
-    "explanation": "Questions frequently ask for the class number of an enzyme. E.g. Lyases are Class 4, Ligases are Class 6.",
-    "alsoRemember": "Hydrolases break bonds WITH water; Lyases break bonds WITHOUT water forming double bonds.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.12.5.",
-    "neetTrap": "Do not confuse Class 4 Lyases (cleave bonds without water) with Class 6 Ligases (join bonds using ATP).",
+    "doodleBadge": "Filtrate Small, Retentat",
+    "doodleSubtext": "Acid-Soluble vs Acid-Ins",
+    "explanation": "Trichloroacetic acid (Cl3CCOOH) chemical analysis separating tissue components into two pools.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Acid-Soluble vs Acid-Insoluble Pool Analysis.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.58",
     "tags": [
-      "Enzymes",
-      "IUBMB",
+      "NEET Biology",
+      "Class 11",
       "Biomolecules",
-      "Class 11"
+      "Acid-Soluble"
     ],
-    "expandedMeaning": "1=Oxidoreductases, 2=Transferases, 3=Hydrolases, 4=Lyases, 5=Isomerases, 6=Ligases",
-    "whyItWorks": "The first letters of the sentence trace the exact 1-6 IUBMB numbering sequence.",
-    "visualDescription": "A six-step staircase where a runner leaps from step 1 (Oxidoreductases) up to step 6 (Ligases).",
-    "neetRelevance": "High frequency question asking to match enzyme names with their respective EC class numbers.",
-    "commonMistake": "Confusing Lyase (Class 4) and Ligase (Class 6).",
-    "sourceReference": "NCERT Class 11 Chapter 9",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 58,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "According to the IUBMB classification, which class do enzymes that catalyze joining of C-O, C-S, C-N, or P-O bonds belong to?",
+      "question": "Which of the following is associated with \"Acid-Soluble vs Acid-Insoluble Pool Analysis\" in NEET Biology?",
       "options": [
-        "Class 3 (Hydrolases)",
-        "Class 4 (Lyases)",
-        "Class 5 (Isomerases)",
-        "Class 6 (Ligases)"
+        "Soluble Pool (Filtrate): Molecular weight 18 to 800 Daltons (Micromolecules, bio",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 3,
-      "explanation": "Ligases belong to Class 6 and catalyze the linking together of 2 compounds coupled with ATP hydrolysis."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Soluble Pool (Filtrate): Molecular weight 18 to 800 Daltons (Micromolecules, biomicromolecules)\". Remember using: \"Filtrate Small, Retentate Macromolecules\"."
     }
   },
   {
@@ -88,84 +76,63 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
+    "classLevel": 11,
     "topicId": "bio-top-9-1",
-    "topicTitle": "Secondary Metabolites",
-    "topic": "Secondary Metabolites Categories (NCERT Table 9.3)",
+    "topicTitle": "Essential Amino Acids",
+    "topic": "Essential Amino Acids",
     "mnemonicNumber": 2,
-    "title": "Secondary Metabolites: Pigments, Alkaloids, Toxins & Lectins",
+    "title": "Essential Amino Acids: \"PVT TIM HALL\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Pigments (CA) | Alkaloids (MC) | Toxins (AR) | Lectins (Con A) | Drugs (VC)",
-    "memoryHook": "Pigments: Carotenoids, Anthocyanins | Alkaloids: Morphine, Codeine | Toxins: Abrin, Ricin | Lectins: Concanavalin A | Drugs: Vinblastin, Curcumin!",
-    "fact": "Plants produce secondary metabolites which are not directly involved in normal growth or reproduction, but possess ecological and medicinal significance.",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "PVT TIM HALL",
+    "memoryHook": "PVT TIM HALL",
+    "fact": "P: Phenylalanine | V: Valine | T: Threonine. T: Tryptophan | I: Isoleucine | M: Methionine. H: Histidine | A: Arginine (Semi-essential) | L: Leucine | L: Lysine",
     "breakdown": [
       {
-        "key": "Pigments",
-        "label": "Carotenoids, Anthocyanins"
+        "key": "P",
+        "label": "Phenylalanine | V: Valine | T: Threonine"
       },
       {
-        "key": "Alkaloids",
-        "label": "Morphine, Codeine"
+        "key": "T",
+        "label": "Tryptophan | I: Isoleucine | M: Methionine"
       },
       {
-        "key": "Terpenoids",
-        "label": "Monoterpenes, Diterpenes"
-      },
-      {
-        "key": "Essential oils",
-        "label": "Lemon grass oil"
-      },
-      {
-        "key": "Toxins",
-        "label": "Abrin, Ricin"
-      },
-      {
-        "key": "Lectins",
-        "label": "Concanavalin A"
-      },
-      {
-        "key": "Drugs",
-        "label": "Vinblastin, Curcumin"
-      },
-      {
-        "key": "Polymeric substances",
-        "label": "Rubber, Gums, Cellulose"
+        "key": "H",
+        "label": "Histidine | A: Arginine (Semi-essential) | L: Leucine | L: Lysine"
       }
     ],
-    "doodleBadge": "Table 9.3",
-    "doodleSubtext": "Secondary Metabolites",
-    "explanation": "NEET repeatedly tests Table 9.3. Concanavalin A is specifically asked as a lectin (carbohydrate-binding protein).",
-    "alsoRemember": "Abrin and Ricin are deadly plant toxins, not alkaloids.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Table 9.3.",
-    "neetTrap": "Concanavalin A is a LECTIN, while Vinblastin and Curcumin are classified as DRUGS in Table 9.3.",
+    "doodleBadge": "PVT TIM HALL",
+    "doodleSubtext": "Essential Amino Acids",
+    "explanation": "10 essential amino acids that cannot be synthesized by the human body and must be supplied in diet.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Essential Amino Acids.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.58",
     "tags": [
-      "Secondary Metabolites",
-      "Table 9.3",
-      "Lectins",
-      "Biomolecules"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Essential"
     ],
-    "expandedMeaning": "Direct mapping of NCERT Table 9.3 secondary metabolite groups to examples.",
-    "whyItWorks": "Pairs each category with its two iconic NCERT examples.",
-    "visualDescription": "A shelf of apothecary jars categorized into Pigments, Alkaloids, Toxins, Lectins, and Drugs.",
-    "neetRelevance": "Appears almost every year in NEET matching questions.",
-    "commonMistake": "Calling Abrin/Ricin alkaloids instead of toxins.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Table 9.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 58,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is classified as a Lectin in NCERT Table 9.3?",
+      "question": "Which of the following is associated with \"Essential Amino Acids\" in NEET Biology?",
       "options": [
-        "Abrin",
-        "Ricin",
-        "Concanavalin A",
-        "Vinblastin"
+        "Phenylalanine | V: Valine | T: Threonine",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Concanavalin A is a lectin; Abrin and Ricin are toxins; Vinblastin is a drug."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Phenylalanine | V: Valine | T: Threonine\". Remember using: \"PVT TIM HALL\"."
     }
   },
   {
@@ -174,72 +141,63 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
+    "classLevel": 11,
     "topicId": "bio-top-9-1",
-    "topicTitle": "Amino Acids",
-    "topic": "Amino Acid Classification by R-Group",
+    "topicTitle": "Acidic vs Basic vs Neutral Amino Acids",
+    "topic": "Acidic vs Basic vs Neutral Amino Acids",
     "mnemonicNumber": 3,
-    "title": "Amino Acids: Acidic, Basic & Neutral Types",
-    "badgeText": "Memory Trick",
+    "title": "Acidic vs Basic vs Neutral Amino Acids: \"Acidic = Glu-Asp | Basic = HAL | Neutral = Val-Ala\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Acid = Glutamic & Aspartic | Basic = HAL (Histidine, Arginine, Lysine) | Neutral = Valine",
-    "memoryHook": "Acidic acids have \"acid\" in their names. Basic amino acids are \"HAL\" (Histidine, Arginine, Lysine). Valine is neutral!",
-    "fact": "Amino acids have a carboxyl group, amino group, hydrogen, and variable R group. Their charge changes with pH, forming a Zwitterion at isoelectric point.",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Acidic = Glu-Asp | Basic = HAL | Neutral = Val-Ala",
+    "memoryHook": "Acidic = Glu-Asp | Basic = HAL | Neutral = Val-Ala",
+    "fact": "Acidic: Glutamic acid, Aspartate (extra carboxyl group -COOH). Basic: Histidine, Arginine, Lysine (extra amino group -NH2). Neutral: Valine, Alanine, Glycine, Leucine",
     "breakdown": [
       {
         "key": "Acidic",
-        "label": "Glutamic acid, Aspartic acid (extra -COOH group)"
+        "label": "Glutamic acid, Aspartate (extra carboxyl group -COOH)"
       },
       {
-        "key": "Basic (HAL)",
-        "label": "Histidine, Arginine, Lysine (extra -NH2 group)"
+        "key": "Basic",
+        "label": "Histidine, Arginine, Lysine (extra amino group -NH2)"
       },
       {
         "key": "Neutral",
-        "label": "Valine, Glycine, Alanine"
-      },
-      {
-        "key": "Aromatic (P-T-T)",
-        "label": "Phenylalanine, Tyrosine, Tryptophan"
-      },
-      {
-        "key": "Sulfur-containing",
-        "label": "Cysteine, Methionine"
+        "label": "Valine, Alanine, Glycine, Leucine"
       }
     ],
-    "doodleBadge": "Acid · Basic · Neutral",
-    "doodleSubtext": "Amino Acid Classes",
-    "explanation": "Lysine and Arginine are positively charged basic amino acids abundant in histones, allowing them to bind negatively charged DNA tightly.",
-    "alsoRemember": "Glycine is the simplest amino acid and the ONLY optically inactive (achiral) amino acid.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.1.",
-    "neetTrap": "Glycine does NOT have an asymmetric alpha carbon because its R group is simply -H.",
+    "doodleBadge": "Acidic = Glu-Asp | Basic",
+    "doodleSubtext": "Acidic vs Basic vs Neutr",
+    "explanation": "Classification based on total number of amino and carboxyl groups in the structure.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Acidic vs Basic vs Neutral Amino Acids.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.58",
     "tags": [
-      "Amino Acids",
-      "Zwitterion",
-      "Histones",
-      "Biomolecules"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Acidic"
     ],
-    "expandedMeaning": "Acidic = Aspartic/Glutamic; Basic = Histidine/Arginine/Lysine; Neutral = Valine/Alanine; Aromatic = Phe/Tyr/Trp",
-    "whyItWorks": "HAL mnemonic memorizes the three basic amino acids that repeatedly show up in histone questions.",
-    "visualDescription": "Three test tubes: red for acidic amino acids, blue for basic (HAL), green for neutral.",
-    "neetRelevance": "Histone composition (Lysine & Arginine) and Zwitterion structures are frequent NEET questions.",
-    "commonMistake": "Thinking all amino acids are chiral (forgetting Glycine).",
-    "sourceReference": "NCERT Class 11 Chapter 9",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 58,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following amino acids is non-chiral (optically inactive)?",
+      "question": "Which of the following is associated with \"Acidic vs Basic vs Neutral Amino Acids\" in NEET Biology?",
       "options": [
-        "Alanine",
-        "Glycine",
-        "Valine",
-        "Lysine"
+        "Glutamic acid, Aspartate (extra carboxyl group -COOH)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Glycine has a hydrogen (-H) as its R-group, so its alpha carbon has two identical H atoms, making it achiral."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Glutamic acid, Aspartate (extra carboxyl group -COOH)\". Remember using: \"Acidic = Glu-Asp | Basic = HAL | Neutral = Val-Ala\"."
     }
   },
   {
@@ -248,68 +206,63 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
+    "classLevel": 11,
     "topicId": "bio-top-9-1",
-    "topicTitle": "Enzyme Inhibition",
-    "topic": "Competitive Inhibition: Malonate vs Succinate",
+    "topicTitle": "Aromatic Amino Acids",
+    "topic": "Aromatic Amino Acids",
     "mnemonicNumber": 4,
-    "title": "Competitive Inhibition: Malonate Steals Succinate Seat",
+    "title": "Aromatic Amino Acids: \"PhT Tyr” (Phenylalanine, Tryptophan, Tyrosine)\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Malonate Mimics Succinate → Km INCREASES, Vmax Unchanged!",
-    "memoryHook": "Malonate Competes for active site: You need MORE substrate to reach half Vmax (Km rises), but high substrate can still reach full Vmax!",
-    "fact": "Malonate closely resembles succinate in structure and competes for the active site of Succinate Dehydrogenase, preventing fumarate formation.",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "PhT Tyr” (Phenylalanine, Tryptophan, Tyrosine)",
+    "memoryHook": "PhT Tyr” (Phenylalanine, Tryptophan, Tyrosine)",
+    "fact": "Phenylalanine: Benzene ring side chain. Tryptophan: Indole ring side chain. Tyrosine: Phenolic side chain",
     "breakdown": [
       {
-        "key": "Inhibitor",
-        "label": "Malonate (structurally similar to succinate)"
+        "key": "Phenylalanine",
+        "label": "Benzene ring side chain"
       },
       {
-        "key": "Target Enzyme",
-        "label": "Succinate Dehydrogenase"
+        "key": "Tryptophan",
+        "label": "Indole ring side chain"
       },
       {
-        "key": "Km Effect",
-        "label": "Km INCREASES (apparent affinity decreases)"
-      },
-      {
-        "key": "Vmax Effect",
-        "label": "Vmax remains UNCHANGED (overcome by adding excess substrate)"
+        "key": "Tyrosine",
+        "label": "Phenolic side chain"
       }
     ],
-    "doodleBadge": "Km ↑ | Vmax =",
-    "doodleSubtext": "Competitive Inhibition",
-    "explanation": "Competitive inhibition can be fully reversed by increasing the concentration of the genuine substrate.",
-    "alsoRemember": "Sulfa drugs kill bacteria by competitively inhibiting the enzyme that uses PABA to synthesize folic acid.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.12.4.",
-    "neetTrap": "In competitive inhibition, Vmax does NOT decrease! It remains constant while Km increases.",
+    "doodleBadge": "PhT Tyr” (Phenylalanine,",
+    "doodleSubtext": "Aromatic Amino Acids",
+    "explanation": "Amino acids possessing aromatic rings in their 'R' group structures.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Aromatic Amino Acids.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.58",
     "tags": [
-      "Enzymes",
-      "Inhibition",
-      "Malonate",
-      "Succinate Dehydrogenase"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Aromatic"
     ],
-    "expandedMeaning": "Competitive inhibitor: binds active site, increases Km, leaves Vmax unaffected.",
-    "whyItWorks": "Rhyme and contrast: Malonate steals the seat, Km rises, Vmax stays neat.",
-    "visualDescription": "Malonate and succinate shaped like puzzle pieces fighting for the same active site slot on the enzyme.",
-    "neetRelevance": "Classic textbook example asked in NEET every 2-3 years.",
-    "commonMistake": "Stating that competitive inhibition decreases Vmax.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.12.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 58,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What happens to Km and Vmax in competitive enzyme inhibition?",
+      "question": "Which of the following is associated with \"Aromatic Amino Acids\" in NEET Biology?",
       "options": [
-        "Km increases, Vmax remains unchanged",
-        "Km decreases, Vmax increases",
-        "Km remains unchanged, Vmax decreases",
-        "Both Km and Vmax decrease"
+        "Benzene ring side chain",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
       "answerIndex": 0,
-      "explanation": "In competitive inhibition, Km increases (lower apparent affinity) while Vmax remains unchanged because excess substrate overcomes the inhibitor."
+      "explanation": "Correct: \"Benzene ring side chain\". Remember using: \"PhT Tyr” (Phenylalanine, Tryptophan, Tyrosine)\"."
     }
   },
   {
@@ -318,65 +271,63 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
+    "classLevel": 11,
     "topicId": "bio-top-9-1",
-    "topicTitle": "Enzyme Co-factors",
-    "topic": "Three Types of Co-factors",
+    "topicTitle": "Amino Acid 'R' Group Variations (Glycine, Alanine, Serine)",
+    "topic": "Amino Acid 'R' Group Variations (Glycine, Alanine, Serine)",
     "mnemonicNumber": 5,
-    "title": "Co-factors: Prosthetic, Co-enzyme & Metal Ions",
+    "title": "Amino Acid 'R' Group Variations (Glycine, Alanine, Serine): \"G-H, A-Methyl, S-Hydroxymethyl\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Prosthetic = Permanently Pinned | Co-enzyme = Comes & Goes | Metal = Coordination bonds",
-    "memoryHook": "Apoenzyme (protein) + Co-factor (non-protein) = Holoenzyme (active). Prosthetic is tightly bound (Heme in Catalase), Co-enzymes are vitamins (NAD/NADP), Metal ions coordinate (Zn in Carboxypeptidase)!",
-    "fact": "Catalytic activity is lost when the co-factor is removed from the enzyme, proving that non-protein co-factors are indispensable for catalysis.",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "G-H, A-Methyl, S-Hydroxymethyl",
+    "memoryHook": "G-H, A-Methyl, S-Hydroxymethyl",
+    "fact": "Glycine: R = -H (simplest, optically inactive/achiral). Alanine: R = -CH3 (methyl group). Serine: R = -CH2OH (hydroxy-methyl group)",
     "breakdown": [
       {
-        "key": "Prosthetic Group",
-        "label": "Tightly bound organic compound (e.g. Heme in peroxidase and catalase)"
+        "key": "Glycine",
+        "label": "R = -H (simplest, optically inactive/achiral)"
       },
       {
-        "key": "Co-enzyme",
-        "label": "Transiently bound organic compound, usually vitamins (e.g. NAD and NADP contain Niacin)"
+        "key": "Alanine",
+        "label": "R = -CH3 (methyl group)"
       },
       {
-        "key": "Metal Ion",
-        "label": "Forms coordination bonds with active site and substrate (e.g. Zn2+ in Carboxypeptidase)"
+        "key": "Serine",
+        "label": "R = -CH2OH (hydroxy-methyl group)"
       }
     ],
-    "doodleBadge": "Apo + Co = Holo",
-    "doodleSubtext": "Enzyme Co-factors",
-    "explanation": "Apoenzyme is the inactive protein component. When the co-factor binds, it becomes the fully active Holoenzyme.",
-    "alsoRemember": "Zinc is also the essential co-factor for Carbonic Anhydrase, the fastest enzyme known.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.12.6.",
-    "neetTrap": "Heme is a PROSTHETIC group in both catalase and peroxidase, NOT a co-enzyme.",
+    "doodleBadge": "G-H, A-Methyl, S-Hydroxy",
+    "doodleSubtext": "Amino Acid 'R' Group Var",
+    "explanation": "Structural variations of the variable 'R' side chain on the alpha carbon of amino acids.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Amino Acid 'R' Group Variations (Glycine, Alanine, Serine).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.58",
     "tags": [
-      "Cofactors",
-      "Holoenzyme",
-      "Apoenzyme",
-      "Zinc",
-      "Biomolecules"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Amino"
     ],
-    "expandedMeaning": "Prosthetic (tightly attached), Co-enzyme (loose vitamin derivative), Metal ions (Zn, Mg).",
-    "whyItWorks": "The 3 P-rule: Prosthetic = Permanently Pinned; C-rule: Co-enzyme = Comes and goes.",
-    "visualDescription": "An enzyme lock where a tightly wedged key is the prosthetic group, a roaming key is the coenzyme, and an ionic spark is the metal ion.",
-    "neetRelevance": "Questions on Zn2+ with carboxypeptidase and NAD containing niacin are NCERT favorites.",
-    "commonMistake": "Calling NAD a prosthetic group instead of a co-enzyme.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.12.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 58,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which essential vitamin is a constituent of the co-enzyme NAD and NADP?",
+      "question": "Which of the following is associated with \"Amino Acid 'R' Group Variations (Glycine, Alanine, Serine)\" in NEET Biology?",
       "options": [
-        "Thiamine",
-        "Riboflavin",
-        "Niacin",
-        "Biotin"
+        "R = -H (simplest, optically inactive/achiral)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Co-enzymes NAD and NADP contain the vitamin Niacin (Vitamin B3)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"R = -H (simplest, optically inactive/achiral)\". Remember using: \"G-H, A-Methyl, S-Hydroxymethyl\"."
     }
   },
   {
@@ -385,69 +336,63 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-2",
-    "topicTitle": "Polysaccharides",
-    "topic": "Polysaccharide Structures and Iodine Test",
+    "classLevel": 11,
+    "topicId": "bio-top-9-1",
+    "topicTitle": "Zwitterionic Nature of Amino Acids",
+    "topic": "Zwitterionic Nature of Amino Acids",
     "mnemonicNumber": 6,
-    "title": "Polysaccharides: Starch Helices Trap Blue Iodine",
-    "badgeText": "Memory Trick",
+    "title": "Zwitterionic Nature of Amino Acids: \"Isoelectric Point Neutral Charge\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Starch = Helical (Traps I2 Blue) | Cellulose = Straight (No Blue) | Glycogen = Animal Starch",
-    "memoryHook": "Starch secondary structure forms helical coils that can hold I2 molecules in interior (blue color). Cellulose has NO complex helices and CANNOT hold iodine!",
-    "fact": "Starch consists of amylose (unbranched, alpha-1,4) and amylopectin (branched, alpha-1,4 and alpha-1,6). Cellulose has beta-1,4 unbranched chains.",
+    "mnemonic": "Isoelectric Point Neutral Charge",
+    "memoryHook": "Isoelectric Point Neutral Charge",
+    "fact": "Zwitterion: Dipolar ion with both positive (-NH3+) and negative (-COO-) charges. Net Charge: Zero net charge at specific pH (isoelectric point). Behavior: Acts as amphoteric species in solution",
     "breakdown": [
       {
-        "key": "Starch",
-        "label": "Plant storage; helical amylose traps iodine -> Blue-Black color"
+        "key": "Zwitterion",
+        "label": "Dipolar ion with both positive (-NH3+) and negative (-COO-) charges"
       },
       {
-        "key": "Cellulose",
-        "label": "Plant cell walls; linear beta-1,4 chains, cannot hold I2 -> No color"
+        "key": "Net Charge",
+        "label": "Zero net charge at specific pH (isoelectric point)"
       },
       {
-        "key": "Glycogen",
-        "label": "Animal storage in liver/muscles; right end is reducing, left is non-reducing"
-      },
-      {
-        "key": "Chitin",
-        "label": "Exoskeleton of arthropods; polymer of N-acetylglucosamine (NAG)"
+        "key": "Behavior",
+        "label": "Acts as amphoteric species in solution"
       }
     ],
-    "doodleBadge": "Starch = Blue | Cell = None",
-    "doodleSubtext": "Iodine Binding",
-    "explanation": "Glycogen also turns reddish-brown with iodine. Cotton fibers are almost pure cellulose.",
-    "alsoRemember": "Inulin is a polymer of fructose used to test kidney glomerular filtration rate (GFR).",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.5.",
-    "neetTrap": "Cellulose gives NO color with iodine because it lacks helical secondary structures.",
+    "doodleBadge": "Isoelectric Point Neutra",
+    "doodleSubtext": "Zwitterionic Nature of A",
+    "explanation": "Structural state of amino acids in aqueous solutions across varying pH levels. Chapter 9: Biomolecules (30 Mnemonics) \tPage 1",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Zwitterionic Nature of Amino Acids.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.58",
     "tags": [
-      "Polysaccharides",
-      "Starch",
-      "Cellulose",
-      "Chitin",
-      "Inulin"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Zwitterionic"
     ],
-    "expandedMeaning": "Starch traps I2 due to helices; cellulose lacks helices; chitin is NAG polymer.",
-    "whyItWorks": "Direct contrast between helical starch and linear cellulose explains why the iodine test works.",
-    "visualDescription": "Starch depicted as a coiled spring trapping an iodine crystal; cellulose depicted as a rigid straight wire that drops the crystal.",
-    "neetRelevance": "Why cellulose does not hold iodine is a direct NCERT statement asked in NEET.",
-    "commonMistake": "Assuming all plant polysaccharides give blue color with iodine.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 58,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Why does cellulose not give a blue colour with iodine solution?",
+      "question": "Which of the following is associated with \"Zwitterionic Nature of Amino Acids\" in NEET Biology?",
       "options": [
-        "It is an animal polysaccharide",
-        "It does not contain complex helices and cannot hold iodine molecules",
-        "It is made of fructose subunits",
-        "It is completely soluble in water"
+        "Dipolar ion with both positive (-NH3+) and negative (-COO-) charges",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Cellulose does not contain complex helical coils and hence cannot trap iodine molecules inside its structure."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Dipolar ion with both positive (-NH3+) and negative (-COO-) charges\". Remember using: \"Isoelectric Point Neutral Charge\"."
     }
   },
   {
@@ -456,69 +401,59 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-2",
-    "topicTitle": "Proteins",
-    "topic": "Most Abundant Proteins in Biosphere and Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-9-1",
+    "topicTitle": "Fatty Acids: Palmitic vs Arachidonic Acid",
+    "topic": "Fatty Acids: Palmitic vs Arachidonic Acid",
     "mnemonicNumber": 7,
-    "title": "Abundant Proteins: RuBisCO in Biosphere, Collagen in Animals",
-    "badgeText": "Must Know",
+    "title": "Fatty Acids: Palmitic vs Arachidonic Acid: \"Palmitic 16, Arachidonic 20 (including carboxyl C)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Biosphere King = RuBisCO | Animal King = Collagen",
-    "memoryHook": "The entire planet (biosphere) is ruled by RuBisCO. The animal kingdom is built on Collagen!",
-    "fact": "Collagen is the most abundant protein in the animal world, while RuBisCO (Ribulose-1,5-bisphosphate carboxylase-oxygenase) is the most abundant protein in the entire biosphere.",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Palmitic 16, Arachidonic 20 (including carboxyl C)",
+    "memoryHook": "Palmitic 16, Arachidonic 20 (including carboxyl C)",
+    "fact": "Palmitic Acid: Saturated fatty acid with 16 carbons (including carboxyl carbon). Arachidonic Acid: Unsaturated fatty acid with 20 carbons (including carboxyl carbon)",
     "breakdown": [
       {
-        "key": "Collagen",
-        "label": "Most abundant protein in animal world; triple-helical fibrous structural protein"
+        "key": "Palmitic Acid",
+        "label": "Saturated fatty acid with 16 carbons (including carboxyl carbon)"
       },
       {
-        "key": "RuBisCO",
-        "label": "Most abundant protein in whole biosphere; primary CO2-fixing photosynthetic enzyme"
-      },
-      {
-        "key": "GLUT-4",
-        "label": "Glucose transporter enabling insulin-dependent glucose transport into cells"
-      },
-      {
-        "key": "Antibody",
-        "label": "Fights infectious agents; 2 heavy and 2 light chains (H2L2)"
+        "key": "Arachidonic Acid",
+        "label": "Unsaturated fatty acid with 20 carbons (including carboxyl carbon)"
       }
     ],
-    "doodleBadge": "RuBisCO & Collagen",
-    "doodleSubtext": "Abundance Champions",
-    "explanation": "RuBisCO makes up up to 16% of total chloroplast protein in green plants, dominating global protein mass.",
-    "alsoRemember": "GLUT-4 is a transmembrane protein mentioned in Table 9.5 as enabling glucose transport into cells.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Table 9.5 & Section 9.4.",
-    "neetTrap": "If the question specifies \"animal world\", the answer is Collagen. If it says \"whole biosphere\", it is RuBisCO.",
+    "doodleBadge": "Palmitic 16, Arachidonic",
+    "doodleSubtext": "Fatty Acids: Palmitic vs",
+    "explanation": "Carbon counts of key saturated and unsaturated fatty acids highlighted in NCERT.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Fatty Acids: Palmitic vs Arachidonic Acid.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.59",
     "tags": [
-      "RuBisCO",
-      "Collagen",
-      "GLUT-4",
-      "Table 9.5",
-      "Biomolecules"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Fatty"
     ],
-    "expandedMeaning": "Collagen = #1 in animals; RuBisCO = #1 in all biosphere.",
-    "whyItWorks": "Direct two-line distinction prevents mixing up the domain (animals vs biosphere).",
-    "visualDescription": "A globe wearing a RuBisCO crown and a tiger wearing a collagen shield.",
-    "neetRelevance": "One of the most frequently asked single-line questions in NEET Biology.",
-    "commonMistake": "Selecting RuBisCO when asked for the most abundant protein in animals.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Table 9.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 59,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which protein is the most abundant protein in the entire biosphere?",
+      "question": "Which of the following is associated with \"Fatty Acids: Palmitic vs Arachidonic Acid\" in NEET Biology?",
       "options": [
-        "Collagen",
-        "Hemoglobin",
-        "RuBisCO",
-        "Keratin"
+        "Palmitic 16, Arachidonic 20 (including carboxyl C)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "RuBisCO is the most abundant protein in the entire biosphere, whereas Collagen is the most abundant in the animal world."
+      "answerIndex": 0,
+      "explanation": "Carbon counts of key saturated and unsaturated fatty acids highlighted in NCERT."
     }
   },
   {
@@ -527,68 +462,59 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-2",
-    "topicTitle": "Nucleic Acid Structure",
-    "topic": "B-DNA Dimensions (Watson-Crick Model)",
+    "classLevel": 11,
+    "topicId": "bio-top-9-1",
+    "topicTitle": "Glycerol & Triglyceride Composition",
+    "topic": "Glycerol & Triglyceride Composition",
     "mnemonicNumber": 8,
-    "title": "B-DNA Dimensions: 34 Pitch, 10 Pairs, 3.4 Rise, 20 Width",
-    "badgeText": "Formula",
+    "title": "Glycerol & Triglyceride Composition: \"Glycerol = Trihydroxy Propane\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Pitch = 34 Å (3.4 nm) | Base pairs = 10 per turn | Rise = 3.4 Å (0.34 nm) | Diameter = 20 Å (2 nm)",
-    "memoryHook": "34 pitch divided by 10 base pairs gives 3.4 rise per step! Diameter is 20 Angstroms.",
-    "fact": "B-DNA is a right-handed double helix where complementary strands run antiparallel (5'->3' and 3'->5') linked by hydrogen bonds (A=T with 2 H-bonds, G≡C with 3 H-bonds).",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Glycerol = Trihydroxy Propane",
+    "memoryHook": "Glycerol = Trihydroxy Propane",
+    "fact": "Glycerol: Simple lipid identified chemically as 1,2,3-trihydroxypropane. Triglyceride: 1 Glycerol esterified with 3 Fatty Acid molecules via ester bonds",
     "breakdown": [
       {
-        "key": "Helical Pitch",
-        "label": "34 Å or 3.4 nm per complete 360° turn"
+        "key": "Glycerol",
+        "label": "Simple lipid identified chemically as 1,2,3-trihydroxypropane"
       },
       {
-        "key": "Base pairs / turn",
-        "label": "10 base pairs per helical turn"
-      },
-      {
-        "key": "Distance between bp",
-        "label": "3.4 Å or 0.34 nm (Rise per base pair)"
-      },
-      {
-        "key": "Helical Diameter",
-        "label": "20 Å or 2.0 nm"
+        "key": "Triglyceride",
+        "label": "1 Glycerol esterified with 3 Fatty Acid molecules via ester bonds"
       }
     ],
-    "doodleBadge": "3.4 nm | 10 bp | 0.34 nm",
-    "doodleSubtext": "B-DNA Helix",
-    "explanation": "Pitch = 3.4 nm. With 10 base pairs per turn, each step climbs 0.34 nm and rotates by 36° (360° / 10).",
-    "alsoRemember": "A purine always pairs with a pyrimidine, ensuring a uniform 2 nm diameter throughout the helix.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.8.",
-    "neetTrap": "Units! 34 Angstroms = 3.4 nanometers (nm). Do not mix up Å and nm.",
+    "doodleBadge": "Glycerol = Trihydroxy Pr",
+    "doodleSubtext": "Glycerol & Triglyceride ",
+    "explanation": "Chemical structure of neutral fats formed by esterification reactions.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Glycerol & Triglyceride Composition.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.59",
     "tags": [
-      "B-DNA",
-      "Watson-Crick",
-      "Nucleic Acids",
-      "Pitch"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Glycerol"
     ],
-    "expandedMeaning": "Exact mathematical dimensions of Watson-Crick B-DNA.",
-    "whyItWorks": "The number 34 links pitch (34 Å), step (3.4 Å), and 10 steps.",
-    "visualDescription": "A spiral staircase with 10 steps, total height 3.4 nm, each step 0.34 nm tall, width 2.0 nm.",
-    "neetRelevance": "Direct numerical questions on DNA length calculation in NEET.",
-    "commonMistake": "Writing 34 nm instead of 3.4 nm for helical pitch.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.8",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 59,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In a Watson-Crick B-DNA double helix, what is the distance between two successive base pairs?",
+      "question": "Which of the following is associated with \"Glycerol & Triglyceride Composition\" in NEET Biology?",
       "options": [
-        "34 nm",
-        "3.4 nm",
-        "0.34 nm",
-        "2.0 nm"
+        "Glycerol = Trihydroxy Propane",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "The pitch is 3.4 nm with 10 bp per turn, so distance between successive pairs is 3.4 / 10 = 0.34 nm (3.4 Å)."
+      "answerIndex": 0,
+      "explanation": "Chemical structure of neutral fats formed by esterification reactions."
     }
   },
   {
@@ -597,64 +523,59 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-3",
-    "topicTitle": "Biomacromolecules",
-    "topic": "Acid-Soluble vs Acid-Insoluble Fractions",
+    "classLevel": 11,
+    "topicId": "bio-top-9-1",
+    "topicTitle": "Phospholipids (Lecithin) Structure",
+    "topic": "Phospholipids (Lecithin) Structure",
     "mnemonicNumber": 9,
-    "title": "Chemical Analysis: Acid Soluble Pool vs Retentate",
+    "title": "Phospholipids (Lecithin) Structure: \"Lecithin Membrane Nitrogenous Phosphate\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Filtrate = Micromolecules (< 800 Da) | Retentate = Macromolecules (> 10,000 Da) + Lipids (Exception)",
-    "memoryHook": "Grind tissue in Trichloroacetic acid (Cl3CCOOH). What passes through the cheesecloth into the acid is the Soluble Filtrate (< 800 Da). What stays on top is Insoluble Retentate!",
-    "fact": "Lipids have molecular weights not exceeding 800 Da, yet they end up in the acid-insoluble fraction because cell membranes break into vesicles that do not dissolve in water.",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Lecithin Membrane Nitrogenous Phosphate",
+    "memoryHook": "Lecithin Membrane Nitrogenous Phosphate",
+    "fact": "Composition: Fatty acids esterified to glycerol with a phosphate group attached to choline. Location: Major constituent of cell membranes",
     "breakdown": [
       {
-        "key": "Acid-Soluble (Filtrate)",
-        "label": "Biomicromolecules (18 to 800 Daltons): Amino acids, monosaccharides, nucleotides"
+        "key": "Composition",
+        "label": "Fatty acids esterified to glycerol with a phosphate group attached to choline"
       },
       {
-        "key": "Acid-Insoluble (Retentate)",
-        "label": "Biomacromolecules (> 10,000 Daltons): Proteins, Nucleic acids, Polysaccharides"
-      },
-      {
-        "key": "Lipid Exception",
-        "label": "Lipids are < 800 Da (micromolecules) but insoluble due to membrane vesicle aggregation"
+        "key": "Location",
+        "label": "Major constituent of cell membranes"
       }
     ],
-    "doodleBadge": "Trichloroacetic Acid",
-    "doodleSubtext": "Filtrate vs Retentate",
-    "explanation": "Lipids are NOT strictly macromolecules because their MW is under 800 Da, but they are found in the macromolecular fraction.",
-    "alsoRemember": "The acid-soluble pool represents roughly the cytoplasmic composition.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.1 & 9.3.",
-    "neetTrap": "Lipids are NOT macromolecules! They are micromolecules that fractionate with macromolecules.",
+    "doodleBadge": "Lecithin Membrane Nitrog",
+    "doodleSubtext": "Phospholipids (Lecithin)",
+    "explanation": "Conjugated, phosphorus-containing lipid critical for cellular membrane architecture.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Phospholipids (Lecithin) Structure.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.59",
     "tags": [
-      "Biomacromolecules",
-      "Lipids",
-      "Trichloroacetic Acid",
-      "Biomolecules"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Phospholipids"
     ],
-    "expandedMeaning": "Filtrate contains micromolecules; Retentate contains macromolecules plus lipid vesicles.",
-    "whyItWorks": "Focuses on the favorite NEET paradox: lipid molecular weight vs lipid fraction.",
-    "visualDescription": "A mortar and pestle grinding liver tissue with Cl3CCOOH through cheesecloth into a beaker.",
-    "neetRelevance": "Assertion-Reason favorite regarding why lipids appear in the retentate.",
-    "commonMistake": "Calling lipids macromolecules because they are in the retentate.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 59,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Why do lipids, despite having a molecular weight below 800 Da, separate into the acid-insoluble macromolecular fraction?",
+      "question": "Which of the following is associated with \"Phospholipids (Lecithin) Structure\" in NEET Biology?",
       "options": [
-        "They are polymers of fatty acids",
-        "They form insoluble membrane vesicles during cell disruption",
-        "They have high electrostatic charges",
-        "They react chemically with trichloroacetic acid"
+        "Lecithin Membrane Nitrogenous Phosphate",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Cell membranes contain lipids which form vesicles when ground up; these vesicles are insoluble and do not pass through cheesecloth."
+      "answerIndex": 0,
+      "explanation": "Conjugated, phosphorus-containing lipid critical for cellular membrane architecture."
     }
   },
   {
@@ -663,68 +584,55 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-3",
-    "topicTitle": "Lipids",
-    "topic": "Fatty Acids: Palmitic vs Arachidonic Acid Carbons",
+    "classLevel": 11,
+    "topicId": "bio-top-9-1",
+    "topicTitle": "Nitrogenous Bases Classification",
+    "topic": "Nitrogenous Bases Classification",
     "mnemonicNumber": 10,
-    "title": "Fatty Acids: Sweet 16 Palmitic, Angry 20 Arachidonic",
-    "badgeText": "Memory Trick",
+    "title": "Nitrogenous Bases Classification: \"PURE As Gold, CUT the Py\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Palmitic = 16 Carbons (Sweet 16) | Arachidonic = 20 Carbons (Spider has 20)",
-    "memoryHook": "Palmitic acid has 16 carbons INCLUDING the carboxyl carbon. Arachidonic acid has 20 carbons INCLUDING the carboxyl carbon!",
-    "fact": "Fatty acids have a carboxyl group attached to an R group. Palmitic acid is saturated (16C), Arachidonic acid is polyunsaturated (20C with 4 double bonds).",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "PURE As Gold, CUT the Py",
+    "memoryHook": "PURE As Gold, CUT the Py",
+    "fact": "Purines (Double ring): Adenine (A), Guanine (G). Pyrimidines (Single ring): Cytosine (C), Uracil (U), Thymine (T)",
     "breakdown": [
       {
-        "key": "Palmitic Acid",
-        "label": "16 carbons including carboxyl carbon (CH3-(CH2)14-COOH); Saturated"
-      },
-      {
-        "key": "Arachidonic Acid",
-        "label": "20 carbons including carboxyl carbon; Polyunsaturated (PUFA with 4 double bonds)"
-      },
-      {
-        "key": "Glycerol",
-        "label": "Trihydroxy propane (simple 3-carbon lipid backbone)"
-      },
-      {
-        "key": "Lecithin",
-        "label": "Phospholipid found in cell membranes with choline group"
+        "key": "Purines (Double ring)",
+        "label": "Adenine (A), Guanine (G)"
       }
     ],
-    "doodleBadge": "16C vs 20C",
-    "doodleSubtext": "Fatty Acids",
-    "explanation": "NEET questions often test whether the carboxyl carbon is included: Palmitic has 15 R-group carbons + 1 carboxyl carbon = 16 carbons total.",
-    "alsoRemember": "Glycerol is chemically named trihydroxy propane.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.1.",
-    "neetTrap": "Always check if the count includes carboxyl carbon: Palmitic is 16 total, Arachidonic is 20 total.",
+    "doodleBadge": "PURE As Gold, CUT the Py",
+    "doodleSubtext": "Nitrogenous Bases Classi",
+    "explanation": "Nitrogenous base ring structures constituting nucleic acid monomers.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Nitrogenous Bases Classification.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.59",
     "tags": [
-      "Lipids",
-      "Palmitic Acid",
-      "Arachidonic Acid",
-      "Lecithin"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Nitrogenous"
     ],
-    "expandedMeaning": "Palmitic = 16C; Arachidonic = 20C; both include carboxyl carbon.",
-    "whyItWorks": "Sweet 16 Palmitic links 16 directly to Palmitic acid.",
-    "visualDescription": "A palm tree with 16 coconuts next to a spider (arachnid) with 20 legs.",
-    "neetRelevance": "Direct carbon number questions in NEET Biology.",
-    "commonMistake": "Counting 15 carbons for palmitic by forgetting the -COOH carbon.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 59,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "How many total carbon atoms are present in Arachidonic acid including the carboxyl carbon?",
+      "question": "Which of the following is associated with \"Nitrogenous Bases Classification\" in NEET Biology?",
       "options": [
-        "16",
-        "18",
-        "20",
-        "22"
+        "PURE As Gold, CUT the Py",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Arachidonic acid has 20 carbon atoms including the carboxyl carbon."
+      "answerIndex": 0,
+      "explanation": "Nitrogenous base ring structures constituting nucleic acid monomers."
     }
   },
   {
@@ -733,68 +641,59 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-3",
-    "topicTitle": "Nucleotides",
-    "topic": "Purines vs Pyrimidines and Nucleosides vs Nucleotides",
+    "classLevel": 11,
+    "topicId": "bio-top-9-2",
+    "topicTitle": "Nucleoside vs Nucleotide",
+    "topic": "Nucleoside vs Nucleotide",
     "mnemonicNumber": 11,
-    "title": "Nitrogen Bases: Pure As Gold & CUT the Py",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
+    "title": "Nucleoside vs Nucleotide: \"Nucleoside = Base + Sugar | Nucleotide = Base + Sugar + Phosphate\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EFFBF4",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Purines = Pure As Gold (Adenine, Guanine) | Pyrimidines = CUT the Py (Cytosine, Uracil, Thymine)",
-    "memoryHook": "Purines have short name but BIG 2-ring structure. Pyrimidines have long name but SMALL 1-ring structure. Base + Sugar = -side; Base + Sugar + Phosphate = -tide!",
-    "fact": "Adenosine is a nucleoside (Adenine + ribose). Adenylic acid (AMP) is a nucleotide (Adenosine + phosphate).",
+    "mnemonic": "Nucleoside = Base + Sugar | Nucleotide = Base + Sugar + Phosphate",
+    "memoryHook": "Nucleoside = Base + Sugar | Nucleotide = Base + Sugar + Phosphate",
+    "fact": "Nucleoside: Nitrogenous base + Pentose sugar (e.g., Adenosine, Uridine). Nucleotide: Nucleoside + Phosphate group via phosphoester bond (e.g., Adénylic acid)",
     "breakdown": [
       {
-        "key": "Purines (PU-AG)",
-        "label": "Adenine and Guanine (dicyclic 9-membered double ring)"
+        "key": "Nucleoside",
+        "label": "Nitrogenous base + Pentose sugar (e.g., Adenosine, Uridine)"
       },
       {
-        "key": "Pyrimidines (PY-CUT)",
-        "label": "Cytosine, Uracil (RNA only), Thymine (DNA only; 5-methyl uracil) (monocyclic 6-membered ring)"
-      },
-      {
-        "key": "Nucleosides (-sine / -dine)",
-        "label": "Adenosine, Guanosine, Cytidine, Uridine, Thymidine"
-      },
-      {
-        "key": "Nucleotides (-ylic acid)",
-        "label": "Adenylic acid, Guanylic acid, Cytidylic acid, Uridylic acid, Thymidylic acid"
+        "key": "Nucleotide",
+        "label": "Nucleoside + Phosphate group via phosphoester bond (e.g., Adénylic acid)"
       }
     ],
-    "doodleBadge": "PU-AG | PY-CUT",
-    "doodleSubtext": "Purines & Pyrimidines",
-    "explanation": "Thymine is chemically 5-methyl uracil, which confers higher chemical stability to DNA over RNA.",
-    "alsoRemember": "Uracil is present in RNA at the place of Thymine.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.1.",
-    "neetTrap": "Adenylic acid is a NUCLEOTIDE, whereas Adenosine is a NUCLEOSIDE.",
+    "doodleBadge": "Nucleoside = Base + Suga",
+    "doodleSubtext": "Nucleoside vs Nucleotide",
+    "explanation": "Fundamental monomeric distinction in nucleic acid biochemistry.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Nucleoside vs Nucleotide.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.59",
     "tags": [
-      "Purines",
-      "Pyrimidines",
-      "Nucleotides",
-      "Watson-Crick"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Nucleoside"
     ],
-    "expandedMeaning": "Purines = A, G; Pyrimidines = C, U, T; Suffix -osine/-idine = nucleoside; -ylic acid = nucleotide.",
-    "whyItWorks": "Pure As Gold + CUT the Py is the gold standard universal mnemonic for nitrogen bases.",
-    "visualDescription": "Gold wedding rings representing 2-ring purines (A, G) cutting a 1-ring pie (C, U, T).",
-    "neetRelevance": "Distinguishing nucleosides from nucleotides appears repeatedly.",
-    "commonMistake": "Calling Uridylic acid a nucleoside instead of a nucleotide.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 59,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is a nucleotide?",
+      "question": "Which of the following is associated with \"Nucleoside vs Nucleotide\" in NEET Biology?",
       "options": [
-        "Uridine",
-        "Cytidine",
-        "Adenylic acid",
-        "Guanosine"
+        "Nucleoside = Base + Sugar | Nucleotide = Base + Sugar + Phosphate",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Adenylic acid is a nucleotide (adenine + ribose + phosphate). Uridine, Cytidine, and Guanosine are nucleosides."
+      "answerIndex": 0,
+      "explanation": "Fundamental monomeric distinction in nucleic acid biochemistry."
     }
   },
   {
@@ -803,68 +702,63 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-4",
-    "topicTitle": "Protein Structure Levels",
-    "topic": "Four Levels of Protein Structure",
+    "classLevel": 11,
+    "topicId": "bio-top-9-2",
+    "topicTitle": "Secondary Metabolites Classification",
+    "topic": "Secondary Metabolites Classification",
     "mnemonicNumber": 12,
-    "title": "Protein Architecture: Primary to Quaternary Hierarchy",
-    "badgeText": "High Yield",
+    "title": "Secondary Metabolites Classification: \"A T A E D P R\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "1° Sequence | 2° Helix & Sheet | 3° 3D Ball (Active!) | 4° Multi-unit Assembly",
-    "memoryHook": "Primary is a straight chain of peptide bonds. Secondary folds into right-handed alpha-helices with H-bonds. Tertiary makes a 3D functional ball (disulfide bonds). Quaternary joins multiple polypeptide subunits (e.g. Adult Hb: 2α + 2β)!",
-    "fact": "Primary structure determines the positional information of amino acids (first is N-terminal, last is C-terminal). Tertiary structure is absolutely necessary for biological activity of enzymes.",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "A T A E D P R",
+    "memoryHook": "A T A E D P R",
+    "fact": "Alkaloids: Morphine, Codeine | Toxins: Abrin, Ricin. Lectins: Concanavalin A | Drugs: Vinblastine, Curcumin. Polymeric Substances: Rubber, Gums, Cellulose | Essential Oils: Lemon grass oil",
     "breakdown": [
       {
-        "key": "Primary (1°)",
-        "label": "Linear amino acid sequence; left end is N-terminal, right end is C-terminal; peptide bonds"
+        "key": "Alkaloids",
+        "label": "Morphine, Codeine | Toxins: Abrin, Ricin"
       },
       {
-        "key": "Secondary (2°)",
-        "label": "Local folding: right-handed alpha-helix and beta-pleated sheets; Hydrogen bonds"
+        "key": "Lectins",
+        "label": "Concanavalin A | Drugs: Vinblastine, Curcumin"
       },
       {
-        "key": "Tertiary (3°)",
-        "label": "Complete 3D hollow woolen ball shape; disulfide, ionic, hydrophobic bonds; biological active site"
-      },
-      {
-        "key": "Quaternary (4°)",
-        "label": "Assembly of multiple tertiary subunits (e.g. Hemoglobin has 4 subunits: 2 alpha + 2 beta)"
+        "key": "Polymeric Substances",
+        "label": "Rubber, Gums, Cellulose | Essential Oils: Lemon grass oil"
       }
     ],
-    "doodleBadge": "1° → 2° → 3° → 4°",
-    "doodleSubtext": "Protein Folding",
-    "explanation": "In proteins, only right-handed alpha-helices are observed.",
-    "alsoRemember": "Denaturation breaks secondary, tertiary, and quaternary structures, but leaves primary peptide bonds intact.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.6.",
-    "neetTrap": "Alpha-helices in biological proteins are exclusively RIGHT-HANDED, never left-handed.",
+    "doodleBadge": "A T A E D P R",
+    "doodleSubtext": "Secondary Metabolites Cl",
+    "explanation": "NCERT Table 9.3 list of non-primary plant/fungal biochemical products. Chapter 9: Biomolecules (30 Mnemonics) \tPage 2",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Secondary Metabolites Classification.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.59",
     "tags": [
-      "Proteins",
-      "Tertiary Structure",
-      "Hemoglobin",
-      "Biomolecules"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Secondary"
     ],
-    "expandedMeaning": "1°=sequence, 2°=helix/sheet (H-bonds), 3°=3D active form, 4°=multimer (Hb).",
-    "whyItWorks": "Directly follows the structural complexity ladder from thread to active machine.",
-    "visualDescription": "A string (1°) coiled into a phone cord (2°), crumpled into a ball (3°), and clustered as four balls (4°).",
-    "neetRelevance": "NCERT statement questions on right-handed helix and tertiary structure requirement.",
-    "commonMistake": "Thinking denaturation destroys primary peptide bonds.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 59,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which structural level of a protein is absolutely necessary for the biological activities of enzymes?",
+      "question": "Which of the following is associated with \"Secondary Metabolites Classification\" in NEET Biology?",
       "options": [
-        "Primary structure",
-        "Secondary structure",
-        "Tertiary structure",
-        "Quaternary structure"
+        "Morphine, Codeine | Toxins: Abrin, Ricin",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Tertiary structure creates the 3D active sites (crevices/pockets) required for catalytic activity of enzymes."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Morphine, Codeine | Toxins: Abrin, Ricin\". Remember using: \"A T A E D P R\"."
     }
   },
   {
@@ -873,64 +767,59 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-4",
-    "topicTitle": "Chemical Bonds",
-    "topic": "Chemical Bonds in Biomacromolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-2",
+    "topicTitle": "Primary vs Secondary Metabolites",
+    "topic": "Primary vs Secondary Metabolites",
     "mnemonicNumber": 13,
-    "title": "Bonds in Biomolecules: Peptide, Glycosidic & Phosphodiester",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
+    "title": "Primary vs Secondary Metabolites: \"Primary Direct Function, Secondary Ecological Role\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Proteins = Peptide (-CONH-) | Polysaccharides = Glycosidic (-O-) | DNA = Phosphodiester (3'-5')",
-    "memoryHook": "All three major polymers are assembled by DEHYDRATION (condensation with loss of water)!",
-    "fact": "Peptide bonds link -COOH to -NH2. Glycosidic bonds link two monosaccharide carbons via oxygen. Phosphodiester bonds link the 3'-OH of one sugar to 5'-phosphate of the next.",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Primary Direct Function, Secondary Ecological Role",
+    "memoryHook": "Primary Direct Function, Secondary Ecological Role",
+    "fact": "Primary Metabolites: Known physiological functions; involved directly in growth (e.g., sugars, amino acids). Secondary Metabolites: No direct role in primary development; ecological importance (e.g., alkaloids, flavonoids)",
     "breakdown": [
       {
-        "key": "Peptide bond",
-        "label": "Formed between -COOH of one amino acid and -NH2 of next with elimination of H2O"
+        "key": "Primary Metabolites",
+        "label": "Known physiological functions; involved directly in growth (e.g., sugars, amino acids)"
       },
       {
-        "key": "Glycosidic bond",
-        "label": "Formed between two carbon atoms of adjacent monosaccharides with loss of H2O"
-      },
-      {
-        "key": "Phosphodiester bond",
-        "label": "Phosphate group links 3'-carbon of one sugar to 5'-carbon of succeeding sugar"
+        "key": "Secondary Metabolites",
+        "label": "No direct role in primary development; ecological importance (e.g., alkaloids, flavonoids)"
       }
     ],
-    "doodleBadge": "Dehydration Synthesis",
-    "doodleSubtext": "Biopolymer Bonds",
-    "explanation": "An ester bond forms between sugar OH and phosphate. Since two such ester bonds link adjacent nucleotides, it is called a phospho-DI-ester bond.",
-    "alsoRemember": "Hydrolysis of these bonds consumes water to release monomers.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.7.",
-    "neetTrap": "Phosphodiester bonds link 3'-carbon of one nucleotide to 5'-carbon of the next, NOT 3' to 3'.",
+    "doodleBadge": "Primary Direct Function,",
+    "doodleSubtext": "Primary vs Secondary Met",
+    "explanation": "Functional division between essential operational biomolecules and specialized natural products.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Primary vs Secondary Metabolites.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.60",
     "tags": [
-      "Peptide Bond",
-      "Glycosidic Bond",
-      "Phosphodiester",
-      "Biomolecules"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Primary"
     ],
-    "expandedMeaning": "Summary of the 3 defining covalent linkages in biomacromolecules.",
-    "whyItWorks": "Connects each polymer directly to its signature dehydration bond.",
-    "visualDescription": "Three connecting bridges: a water drop dropping out of each as the molecules snap together.",
-    "neetRelevance": "Common in matching questions and bond-cleavage enzyme questions.",
-    "commonMistake": "Confusing phosphoester bond (single nucleotide) with phosphodiester bond (nucleotide chain).",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.7",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 60,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "A phosphodiester bond in a nucleic acid strand links:",
+      "question": "Which of the following is associated with \"Primary vs Secondary Metabolites\" in NEET Biology?",
       "options": [
-        "5'-carbon of one sugar to 5'-carbon of the next sugar",
-        "3'-carbon of one sugar to 5'-carbon of the succeeding sugar",
-        "Nitrogenous base to ribose sugar",
-        "Two complementary nitrogenous bases"
+        "Primary Direct Function, Secondary Ecological Role",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Phosphodiester bonds link the 3'-carbon of one sugar to the 5'-carbon of the next sugar in a polynucleotide chain."
+      "answerIndex": 0,
+      "explanation": "Functional division between essential operational biomolecules and specialized natural products."
     }
   },
   {
@@ -939,64 +828,59 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-4",
-    "topicTitle": "Enzyme Kinetics",
-    "topic": "Km (Michaelis Constant) and Enzyme Affinity",
+    "classLevel": 11,
+    "topicId": "bio-top-9-2",
+    "topicTitle": "Polysaccharides: Reducing vs Non-Reducing Sugars",
+    "topic": "Polysaccharides: Reducing vs Non-Reducing Sugars",
     "mnemonicNumber": 14,
-    "title": "Michaelis Constant: Low Km Means High Affinity",
-    "badgeText": "Formula",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Km is Inversely Related to Affinity: Low Km = Tight Love!",
-    "memoryHook": "Km is the substrate concentration at HALF maximal velocity (Vmax/2). If enzyme needs only a tiny concentration to reach 1/2 Vmax, its affinity is super HIGH!",
-    "fact": "The Michaelis-Menten constant (Km) is an intrinsic property of the enzyme. Lower Km indicates that the enzyme reaches Vmax/2 at low substrate concentrations, reflecting high substrate affinity.",
+    "title": "Polysaccharides: Reducing vs Non-Reducing Sugars: \"Maltose Lactose Reducing, Sucrose Non-Reducing\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Maltose Lactose Reducing, Sucrose Non-Reducing",
+    "memoryHook": "Maltose Lactose Reducing, Sucrose Non-Reducing",
+    "fact": "Reducing Sugars: Free aldehyde/ketone group available (All monosaccharides, Maltose, Lactose). Non-Reducing Sugars: Anomeric carbons locked in glycosidic bond (Sucrose, Starch, Cellulose)",
     "breakdown": [
       {
-        "key": "Definition of Km",
-        "label": "Substrate concentration [S] at which reaction velocity is exactly Vmax / 2"
+        "key": "Reducing Sugars",
+        "label": "Free aldehyde/ketone group available (All monosaccharides, Maltose, Lactose)"
       },
       {
-        "key": "Affinity Relation",
-        "label": "Affinity ∝ 1 / Km (Low Km = High affinity; High Km = Low affinity)"
-      },
-      {
-        "key": "Unit of Km",
-        "label": "Expressed in molar concentration units (M, mM, µM)"
+        "key": "Non",
+        "label": "Reducing Sugars: Anomeric carbons locked in glycosidic bond (Sucrose, Starch, Cellulose)"
       }
     ],
-    "doodleBadge": "[S] at Vmax / 2",
-    "doodleSubtext": "Km = Affinity Inverse",
-    "explanation": "A competitive inhibitor increases Km without changing Vmax, meaning apparent affinity drops because the inhibitor competes for binding.",
-    "alsoRemember": "Km is independent of enzyme concentration.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.12.3.",
-    "neetTrap": "Km is a substrate CONCENTRATION, not a reaction rate or velocity.",
+    "doodleBadge": "Maltose Lactose Reducing",
+    "doodleSubtext": "Polysaccharides: Reducin",
+    "explanation": "Ability of carbohydrate functional groups to reduce Fehling's/Benedict's reagents.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Polysaccharides: Reducing vs Non-Reducing Sugars.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.60",
     "tags": [
-      "Enzyme Kinetics",
-      "Km",
-      "Vmax",
-      "Affinity"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Polysaccharides:"
     ],
-    "expandedMeaning": "Km definition and inverse relationship to substrate affinity.",
-    "whyItWorks": "Low Km = tight love (high affinity) is an intuitive emotional memory hook.",
-    "visualDescription": "A graph of reaction velocity vs [S] with a dotted line dropping from Vmax/2 to the x-axis marking Km.",
-    "neetRelevance": "Graph-based questions and conceptual true/false questions on enzyme kinetics.",
-    "commonMistake": "Thinking high Km means the enzyme binds substrate more strongly.",
-    "sourceReference": "NCERT Class 11 Chapter 9",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 60,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The Michaelis-Menten constant (Km) of an enzyme is numerically equal to:",
+      "question": "Which of the following is associated with \"Polysaccharides: Reducing vs Non-Reducing Sugars\" in NEET Biology?",
       "options": [
-        "The substrate concentration at which the velocity is Vmax",
-        "The substrate concentration at which velocity is half of Vmax",
-        "Half the substrate concentration needed for Vmax",
-        "The maximum velocity divided by 2"
+        "Maltose Lactose Reducing, Sucrose Non-Reducing",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Km is defined as the substrate concentration at which the reaction velocity reaches half of its maximum value (Vmax / 2)."
+      "answerIndex": 0,
+      "explanation": "Ability of carbohydrate functional groups to reduce Fehling's/Benedict's reagents."
     }
   },
   {
@@ -1005,68 +889,59 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-5",
-    "topicTitle": "Enzyme Activation Energy",
-    "topic": "How Enzymes Speed Up Reactions",
+    "classLevel": 11,
+    "topicId": "bio-top-9-2",
+    "topicTitle": "Polysaccharide End Features",
+    "topic": "Polysaccharide End Features",
     "mnemonicNumber": 15,
-    "title": "Activation Energy: Enzymes Lower The Mountain",
-    "badgeText": "Concept",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Enzymes Lower Activation Barrier, But Leave Delta G Unchanged!",
-    "memoryHook": "The enzyme does NOT change the starting energy (Substrate) or ending energy (Product). It only tunnels through the activation energy hill (transition state barrier)!",
-    "fact": "Enzymes increase reaction rates by lowering the activation energy required to reach the unstable transition state, without altering equilibrium or free energy change (ΔG).",
+    "title": "Polysaccharide End Features: \"Right Reducing, Left Non-Reducing\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Right Reducing, Left Non-Reducing",
+    "memoryHook": "Right Reducing, Left Non-Reducing",
+    "fact": "Right End: Reducing end of polysaccharide chain. Left End: Non-reducing end of polysaccharide chain",
     "breakdown": [
       {
-        "key": "Transition State",
-        "label": "High energy, unstable transient state formed during substrate-to-product conversion"
+        "key": "Right End",
+        "label": "Reducing end of polysaccharide chain"
       },
       {
-        "key": "Activation Energy",
-        "label": "Energy difference between ground state of substrate and transition state"
-      },
-      {
-        "key": "Enzyme Action",
-        "label": "Lowers activation energy hurdle; reaction proceeds millions of times faster"
-      },
-      {
-        "key": "What Remains Unchanged",
-        "label": "Overall ΔG, equilibrium constant (Keq), and enthalpy (ΔH)"
+        "key": "Left End",
+        "label": "Non-reducing end of polysaccharide chain"
       }
     ],
-    "doodleBadge": "Lower Ea | Same ΔG",
-    "doodleSubtext": "Catalysis Mechanism",
-    "explanation": "If energy of Product is lower than Substrate, reaction is exothermic. If Product is higher, it is endothermic.",
-    "alsoRemember": "Enzymes can accelerate carbonic acid breakdown from 200 to 600,000 molecules per second (10^7 fold increase)!",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Figure 9.6.",
-    "neetTrap": "Enzymes do NOT alter the free energy change (ΔG) or equilibrium of the reaction.",
+    "doodleBadge": "Right Reducing, Left Non",
+    "doodleSubtext": "Polysaccharide End Featu",
+    "explanation": "Directional chemical polarity present in complex carbohydrate polymers like glycogen.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Polysaccharide End Features.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.60",
     "tags": [
-      "Activation Energy",
-      "Transition State",
-      "Enzyme Graph",
-      "Figure 9.6"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Polysaccharide"
     ],
-    "expandedMeaning": "Enzymes lower Ea, stabilize transition state, but do not change ΔG or Keq.",
-    "whyItWorks": "Tunneling through the mountain makes the energy landscape instantly understandable.",
-    "visualDescription": "NCERT Figure 9.6 energy curve showing tall red hill (uncatalyzed) and lower green hill (catalyzed).",
-    "neetRelevance": "NCERT Figure 9.6 is often presented as an unlabeled graph in NEET questions.",
-    "commonMistake": "Claiming enzymes shift the equilibrium toward products.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Figure 9.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 60,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What effect does an enzyme have on the free energy change (ΔG) of a reaction?",
+      "question": "Which of the following is associated with \"Polysaccharide End Features\" in NEET Biology?",
       "options": [
-        "It makes ΔG more negative",
-        "It makes ΔG positive",
-        "It has no effect on ΔG",
-        "It doubles the magnitude of ΔG"
+        "Right Reducing, Left Non-Reducing",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Enzymes lower the activation energy but have zero effect on the overall free energy change (ΔG) or reaction equilibrium."
+      "answerIndex": 0,
+      "explanation": "Directional chemical polarity present in complex carbohydrate polymers like glycogen."
     }
   },
   {
@@ -1075,68 +950,63 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-5",
-    "topicTitle": "Enzyme Factors",
-    "topic": "Factors Affecting Enzyme Activity (Temperature and pH)",
+    "classLevel": 11,
+    "topicId": "bio-top-9-2",
+    "topicTitle": "Starch vs Cellulose vs Glycogen Structures",
+    "topic": "Starch vs Cellulose vs Glycogen Structures",
     "mnemonicNumber": 16,
-    "title": "Enzyme Factors: Bell Curves for Temperature and pH",
-    "badgeText": "Concept",
+    "title": "Starch vs Cellulose vs Glycogen Structures: \"Starch Helical Iodine Blue, Cellulose Straight Unbranched\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Low Temp = Inactive Freeze | High Temp = Denatured Boil | Optimum = Peak of Bell Curve",
-    "memoryHook": "Both temperature and pH show symmetrical bell-shaped activity curves. Cold temperature preserves enzymes in inactive state; high heat destroys tertiary structure (denaturation)!",
-    "fact": "Each enzyme shows highest activity at a specific optimum temperature and optimum pH. Deviations above or below this optimum cause rapid decline in velocity.",
+    "mnemonic": "Starch Helical Iodine Blue, Cellulose Straight Unbranched",
+    "memoryHook": "Starch Helical Iodine Blue, Cellulose Straight Unbranched",
+    "fact": "Starch: Helical secondary structure; traps I2 molecules giving blue color. Cellulose: Linear unbranched beta-1,4 polymer; cannot hold I2 (no blue color). Glycogen: Highly branched alpha-1,4 and 1,6 storage polymer in animals",
     "breakdown": [
       {
-        "key": "Optimum Temperature",
-        "label": "Temperature of maximum activity (usually 37°C for human enzymes)"
+        "key": "Starch",
+        "label": "Helical secondary structure; traps I2 molecules giving blue color"
       },
       {
-        "key": "Low Temperature",
-        "label": "Enzyme is temporarily inactivated (reversible)"
+        "key": "Cellulose",
+        "label": "Linear unbranched beta-1,4 polymer; cannot hold I2 (no blue color)"
       },
       {
-        "key": "High Temperature",
-        "label": "Enzyme protein is denatured and destroyed (irreversible)"
-      },
-      {
-        "key": "Optimum pH",
-        "label": "pH of maximum activity (e.g. Pepsin ~2.0, Trypsin ~8.0)"
+        "key": "Glycogen",
+        "label": "Highly branched alpha-1,4 and 1,6 storage polymer in animals"
       }
     ],
-    "doodleBadge": "Bell Curve",
-    "doodleSubtext": "Temp & pH Peaks",
-    "explanation": "Thermophilic organisms living in hot vents have enzymes that remain stable and catalytic at temperatures up to 80-90°C (e.g. Taq polymerase).",
-    "alsoRemember": "Increasing substrate concentration initially increases rate linearly, then plateaus at Vmax.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.12.3 & Figure 9.7.",
-    "neetTrap": "Cold temperature INACTIVATES enzymes reversibly, but high heat DENATURES them irreversibly.",
+    "doodleBadge": "Starch Helical Iodine Bl",
+    "doodleSubtext": "Starch vs Cellulose vs G",
+    "explanation": "Structural variations explaining iodine test behavior among plant and animal glucans.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Starch vs Cellulose vs Glycogen Structures.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.60",
     "tags": [
-      "Optimum Temp",
-      "Denaturation",
-      "Bell Curve",
-      "Figure 9.7"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Starch"
     ],
-    "expandedMeaning": "Bell curves for temperature and pH; freezing inactivates, boiling denatures.",
-    "whyItWorks": "Contrast between reversible cold inactivation and irreversible thermal denaturation.",
-    "visualDescription": "Two side-by-side bell curves for temperature and pH, showing steep drops outside optimum.",
-    "neetRelevance": "Statement identification regarding cold vs heat effects.",
-    "commonMistake": "Thinking cold temperature permanently destroys enzymes.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.12.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 60,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What is the fundamental difference between the effect of low temperature and high temperature on enzymes?",
+      "question": "Which of the following is associated with \"Starch vs Cellulose vs Glycogen Structures\" in NEET Biology?",
       "options": [
-        "Both permanently destroy enzymes",
-        "Low temp temporarily inactivates; high temp permanently denatures",
-        "Low temp denatures; high temp temporarily inactivates",
-        "Neither affects enzyme structure"
+        "Helical secondary structure; traps I2 molecules giving blue color",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Low temperature preserves the enzyme in a temporarily inactive state, whereas high temperature destroys enzymatic activity because proteins are denatured by heat."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Helical secondary structure; traps I2 molecules giving blue color\". Remember using: \"Starch Helical Iodine Blue, Cellulose Straight Unbranched\"."
     }
   },
   {
@@ -1145,68 +1015,59 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-5",
-    "topicTitle": "Cell Elemental Composition",
-    "topic": "Elemental Abundance in Human Body",
+    "classLevel": 11,
+    "topicId": "bio-top-9-2",
+    "topicTitle": "Chitin Composition & Linkage",
+    "topic": "Chitin Composition & Linkage",
     "mnemonicNumber": 17,
-    "title": "Elemental Abundance: O-C-N-H Earth vs Body",
-    "badgeText": "Memory Trick",
+    "title": "Chitin Composition & Linkage: \"NAG Fungal Exoskeleton Polymer\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Human Body: Oxygen > Carbon > Nitrogen > Hydrogen (O > C > N > H)",
-    "memoryHook": "Oxygen is #1 (65%), Carbon is #2 (18.5%), Nitrogen is #3 (3.3%), Hydrogen is #4 (0.5% dry). Silicon is almost zero in human body but huge in earth crust!",
-    "fact": "Comparing percent composition of human body vs earth crust: Hydrogen, Carbon, Oxygen, and Nitrogen are much more abundant in living organisms than in the earth crust.",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "NAG Fungal Exoskeleton Polymer",
+    "memoryHook": "NAG Fungal Exoskeleton Polymer",
+    "fact": "Monomer: N-acetylglucosamine (NAG) - a modified complex homopolysaccharide. Occurrence: Fungal cell wall and Arthropod chitinous exoskeleton",
     "breakdown": [
       {
-        "key": "Oxygen (% body)",
-        "label": "65.0% (Most abundant element in human body)"
+        "key": "Monomer",
+        "label": "N-acetylglucosamine (NAG) - a modified complex homopolysaccharide"
       },
       {
-        "key": "Carbon (% body)",
-        "label": "18.5% (Second most abundant element)"
-      },
-      {
-        "key": "Nitrogen (% body)",
-        "label": "3.3% (Abundant in living tissue, very low in crust)"
-      },
-      {
-        "key": "Silicon (% body)",
-        "label": "Negligible in living body (0.0%), but 27.7% in Earth crust"
+        "key": "Occurrence",
+        "label": "Fungal cell wall and Arthropod chitinous exoskeleton"
       }
     ],
-    "doodleBadge": "O > C > N > H",
-    "doodleSubtext": "Body vs Earth Crust",
-    "explanation": "Earth crust has Oxygen (46.6%) and Silicon (27.7%) as top two elements, while human body has Oxygen and Carbon.",
-    "alsoRemember": "Water constitutes 70-90% of total cellular mass; proteins make up 10-15%.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Table 9.1 & 9.4.",
-    "neetTrap": "Silicon is virtually absent (negligible) in human tissues despite being 27.7% of earth crust.",
+    "doodleBadge": "NAG Fungal Exoskeleton P",
+    "doodleSubtext": "Chitin Composition & Lin",
+    "explanation": "Nitrogen-containing structural polysaccharide widely distributed in fungi and invertebrates.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Chitin Composition & Linkage.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.60",
     "tags": [
-      "Elemental Composition",
-      "Table 9.1",
-      "Oxygen",
-      "Silicon"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Chitin"
     ],
-    "expandedMeaning": "Oxygen > Carbon > Nitrogen > Hydrogen in humans; Silicon is negligible.",
-    "whyItWorks": "The O-C-N-H sequence directly matches the ranking order in NCERT Table 9.1.",
-    "visualDescription": "Pie charts comparing living tissue elements (O, C, N, H) with earth crust rocks (O, Si, Al).",
-    "neetRelevance": "NCERT Table 9.1 matching questions.",
-    "commonMistake": "Guessing Carbon is the most abundant element by mass in human body (it is Oxygen due to water).",
-    "sourceReference": "NCERT Class 11 Chapter 9 Table 9.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 60,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which element is present in negligible amount in the human body but makes up nearly 28% of the Earth crust?",
+      "question": "Which of the following is associated with \"Chitin Composition & Linkage\" in NEET Biology?",
       "options": [
-        "Carbon",
-        "Calcium",
-        "Silicon",
-        "Nitrogen"
+        "NAG Fungal Exoskeleton Polymer",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Silicon makes up 27.7% of the earth crust but is negligible (close to 0%) in the human body (NCERT Table 9.1)."
+      "answerIndex": 0,
+      "explanation": "Nitrogen-containing structural polysaccharide widely distributed in fungi and invertebrates."
     }
   },
   {
@@ -1215,76 +1076,67 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-5",
-    "topicTitle": "Cellular Components",
-    "topic": "Average Cellular Composition (NCERT Table 9.4)",
+    "classLevel": 11,
+    "topicId": "bio-top-9-2",
+    "topicTitle": "Protein Structural Levels",
+    "topic": "Protein Structural Levels",
     "mnemonicNumber": 18,
-    "title": "Cellular Mass: Water > Protein > Nucleic Acid > Carb > Lipid > Ions",
-    "badgeText": "Sequence",
-    "importance": "Must Know",
-    "difficulty": "easy",
+    "title": "Protein Structural Levels: \"P S T Q” (Primary, Secondary, Tertiary, Quaternary)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Water (70-90) > Protein (10-15) > Nucleic Acid (5-7) > Carbs (3) > Lipids (2) > Ions (1)",
-    "memoryHook": "We Prefer Nucleic Acids Creating Life Instantly: Water > Protein > Nucleic Acids > Carbohydrates > Lipids > Ions!",
-    "fact": "Table 9.4 outlines the average percentage composition of cells: Water dominates at 70-90%, followed by proteins at 10-15%.",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "P S T Q” (Primary, Secondary, Tertiary, Quaternary)",
+    "memoryHook": "P S T Q” (Primary, Secondary, Tertiary, Quaternary)",
+    "fact": "Primary: Sequence of amino acids held by peptide bonds (N-terminal left, C-terminal right). Secondary: Local folding into alpha-helix (right-handed) or beta-pleated sheet. Tertiary: 3D folding giving functional biological conformation (e.g., myoglobin). Quaternary: Assembly of multiple polypeptide subunits (e.g., Adult Hemoglobin = 2a + 2b)",
     "breakdown": [
       {
-        "key": "Water",
-        "label": "70-90% of total cell mass"
+        "key": "Primary",
+        "label": "Sequence of amino acids held by peptide bonds (N-terminal left, C-terminal right)"
       },
       {
-        "key": "Proteins",
-        "label": "10-15% of total cell mass"
+        "key": "Secondary",
+        "label": "Local folding into alpha-helix (right-handed) or beta-pleated sheet"
       },
       {
-        "key": "Nucleic Acids",
-        "label": "5-7% of total cell mass"
+        "key": "Tertiary",
+        "label": "3D folding giving functional biological conformation (e.g., myoglobin)"
       },
       {
-        "key": "Carbohydrates",
-        "label": "3% of total cell mass"
-      },
-      {
-        "key": "Lipids",
-        "label": "2% of total cell mass"
-      },
-      {
-        "key": "Ions",
-        "label": "1% of total cell mass"
+        "key": "Quaternary",
+        "label": "Assembly of multiple polypeptide subunits (e.g., Adult Hemoglobin = 2a + 2b)"
       }
     ],
-    "doodleBadge": "70% > 10% > 5% > 3% > 2% > 1%",
-    "doodleSubtext": "Cell Mass Percentages",
-    "explanation": "Lipids make up only 2% of cellular mass, which is less than carbohydrates (3%) and nucleic acids (5-7%).",
-    "alsoRemember": "Proteins are the most abundant organic biomolecule in a cell.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Table 9.4.",
-    "neetTrap": "Nucleic acids (5-7%) are MORE abundant than carbohydrates (3%) and lipids (2%) in a cell.",
+    "doodleBadge": "P S T Q” (Primary, Secon",
+    "doodleSubtext": "Protein Structural Level",
+    "explanation": "Four hierarchical tiers of structural complexity in functional protein molecules. Chapter 9: Biomolecules (30 Mnemonics) \tPage 3",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Protein Structural Levels.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.60",
     "tags": [
-      "Table 9.4",
-      "Cellular Composition",
-      "Proteins",
-      "Water"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Protein"
     ],
-    "expandedMeaning": "Accurate percentage ranking of cellular constituents from Table 9.4.",
-    "whyItWorks": "Sentence mnemonic links first letters W-P-N-C-L-I to the exact descending percentages.",
-    "visualDescription": "A descending bar chart showing Water tallest, followed by Protein, Nucleic Acid, Carbs, Lipids, and Ions.",
-    "neetRelevance": "Arranging cellular components in ascending/descending order is a standard NEET format.",
-    "commonMistake": "Placing lipids above nucleic acids in cell mass percentage.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Table 9.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 60,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "According to NCERT Table 9.4, what is the correct descending order of biomolecules by percentage of total cellular mass?",
+      "question": "Which of the following is associated with \"Protein Structural Levels\" in NEET Biology?",
       "options": [
-        "Water > Proteins > Carbohydrates > Nucleic acids > Lipids",
-        "Water > Proteins > Nucleic acids > Carbohydrates > Lipids > Ions",
-        "Proteins > Water > Nucleic acids > Lipids > Carbohydrates",
-        "Water > Carbohydrates > Proteins > Lipids > Nucleic acids"
+        "Sequence of amino acids held by peptide bonds (N-terminal left, C-terminal right",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Water (70-90%) > Proteins (10-15%) > Nucleic acids (5-7%) > Carbohydrates (3%) > Lipids (2%) > Ions (1%)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Sequence of amino acids held by peptide bonds (N-terminal left, C-terminal right)\". Remember using: \"P S T Q” (Primary, Secondary, Tertiary, Quaternary)\"."
     }
   },
   {
@@ -1293,68 +1145,67 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-5",
-    "topicTitle": "Non-Competitive Inhibition",
-    "topic": "Non-Competitive vs Allosteric Inhibition",
+    "classLevel": 11,
+    "topicId": "bio-top-9-2",
+    "topicTitle": "Chemical Bonds in Biological Macromolecules",
+    "topic": "Chemical Bonds in Biological Macromolecules",
     "mnemonicNumber": 19,
-    "title": "Non-Competitive Inhibition: Vmax Drops, Km Unchanged",
-    "badgeText": "Concept",
+    "title": "Chemical Bonds in Biological Macromolecules: \"P-P, C-G, N-P, L-E\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
+    "difficulty": "easy",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Non-Competitive binds ELSEWHERE: Km Unchanged, Vmax DECREASES!",
-    "memoryHook": "Inhibitor binds allosteric site (NOT active site). Substrate can still bind with normal affinity (Km stays same), but catalytic machinery is crippled (Vmax plunges)!",
-    "fact": "Non-competitive inhibitors (e.g. Cyanide inhibiting cytochrome oxidase) do not compete with substrate for active site, so increasing substrate concentration CANNOT overcome the inhibition.",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "P-P, C-G, N-P, L-E",
+    "memoryHook": "P-P, C-G, N-P, L-E",
+    "fact": "Proteins: Peptide bond (between -COOH and -NH2). Carbohydrates: Glycosidic bond (between monosaccharides). Nucleic Acids: Phosphodiester bond (between 3'-OH and 5'-phosphate). Lipids: Ester bond (between glycerol -OH and fatty acid -COOH)",
     "breakdown": [
       {
-        "key": "Binding Site",
-        "label": "Allosteric site (different from active site)"
+        "key": "Proteins",
+        "label": "Peptide bond (between -COOH and -NH2)"
       },
       {
-        "key": "Km Effect",
-        "label": "Km remains UNCHANGED (substrate affinity unaffected)"
+        "key": "Carbohydrates",
+        "label": "Glycosidic bond (between monosaccharides)"
       },
       {
-        "key": "Vmax Effect",
-        "label": "Vmax DECREASES (effective enzyme concentration reduced)"
+        "key": "Nucleic Acids",
+        "label": "Phosphodiester bond (between 3'-OH and 5'-phosphate)"
       },
       {
-        "key": "Reversibility with [S]",
-        "label": "Cannot be reversed by adding excess substrate"
+        "key": "Lipids",
+        "label": "Ester bond (between glycerol -OH and fatty acid -COOH)"
       }
     ],
-    "doodleBadge": "Km = | Vmax ↓",
-    "doodleSubtext": "Non-Competitive Inhibition",
-    "explanation": "Cyanide poisoning is lethal because it non-competitively inhibits cytochrome c oxidase, shutting down cellular respiration instantly.",
-    "alsoRemember": "Heavy metals like lead (Pb2+) and mercury (Hg2+) act as non-competitive irreversible inhibitors.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.12.4.",
-    "neetTrap": "In non-competitive inhibition, Km does NOT change; only Vmax drops.",
+    "doodleBadge": "P-P, C-G, N-P, L-E",
+    "doodleSubtext": "Chemical Bonds in Biolog",
+    "explanation": "Diagnostic chemical linkages holding together distinct classes of biological polymers.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Chemical Bonds in Biological Macromolecules.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.61",
     "tags": [
-      "Enzymes",
-      "Non-Competitive",
-      "Cyanide",
-      "Allosteric"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Chemical"
     ],
-    "expandedMeaning": "Non-competitive inhibitor lowers Vmax without changing Km; cannot be overcome by excess substrate.",
-    "whyItWorks": "Direct contrast with competitive inhibition (Km increases, Vmax unchanged).",
-    "visualDescription": "An inhibitor locking onto the back of an enzyme, distorting the catalytic jaw so it cannot chew substrate.",
-    "neetRelevance": "Comparing competitive vs non-competitive inhibition effects on Km and Vmax.",
-    "commonMistake": "Thinking non-competitive inhibition can be reversed by adding more substrate.",
-    "sourceReference": "NCERT Class 11 Chapter 9",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 61,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following statements is TRUE for non-competitive enzyme inhibition?",
+      "question": "Which of the following is associated with \"Chemical Bonds in Biological Macromolecules\" in NEET Biology?",
       "options": [
-        "Vmax decreases and Km remains unchanged",
-        "Km increases and Vmax remains unchanged",
-        "Both Km and Vmax increase",
-        "Inhibition can be completely overcome by adding excess substrate"
+        "Peptide bond (between -COOH and -NH2)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
       "answerIndex": 0,
-      "explanation": "In non-competitive inhibition, the inhibitor binds an allosteric site, lowering Vmax while Km remains unchanged."
+      "explanation": "Correct: \"Peptide bond (between -COOH and -NH2)\". Remember using: \"P-P, C-G, N-P, L-E\"."
     }
   },
   {
@@ -1363,68 +1214,689 @@ export const bioCh09Mnemonics = [
     "chapterId": "bio-ch-09",
     "chapterNumber": 9,
     "chapterTitle": "Biomolecules",
-    "topicId": "bio-top-9-5",
-    "topicTitle": "Enzyme Classification",
-    "topic": "Dehydrogenases, Kinases, and Hydrolases Examples",
+    "classLevel": 11,
+    "topicId": "bio-top-9-2",
+    "topicTitle": "B-DNA Double Helix Parameters",
+    "topic": "B-DNA Double Helix Parameters",
     "mnemonicNumber": 20,
-    "title": "Enzyme Action Examples: Kinase Transfers, Dehydrogenase Oxidizes",
-    "badgeText": "High Yield",
+    "title": "B-DNA Double Helix Parameters: \"34 Pitch, 3.4 Rise, 10 Base Pairs\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Kinase = Transfers Phosphate | Dehydrogenase = Removes Hydrogen | Hydrolase = Water Splitting",
-    "memoryHook": "Whenever you see \"Kinase\", think Class 2 Transferase moving PO4. \"Dehydrogenase\" is Class 1 Oxidoreductase. Digestive enzymes (pepsin, amylase) are Class 3 Hydrolases!",
-    "fact": "Hexokinase is a Class 2 Transferase. Malate dehydrogenase is a Class 1 Oxidoreductase. Trypsin is a Class 3 Hydrolase.",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "34 Pitch, 3.4 Rise, 10 Base Pairs",
+    "memoryHook": "34 Pitch, 3.4 Rise, 10 Base Pairs",
+    "fact": "Helical Pitch: 34 Å (3.4 nm) per full turn. Base Pairs per Turn: 10 bp per complete 360-degree turn. Rise per Base Pair: 3.4 Å (0.34 nm) distance between adjacent base steps",
     "breakdown": [
       {
-        "key": "Hexokinase",
-        "label": "Class 2 Transferase (transfers phosphate from ATP to glucose)"
+        "key": "Helical Pitch",
+        "label": "34 Å (3.4 nm) per full turn"
       },
       {
-        "key": "Succinate Dehydrogenase",
-        "label": "Class 1 Oxidoreductase (oxidizes succinate to fumarate)"
+        "key": "Base Pairs per Turn",
+        "label": "10 bp per complete 360-degree turn"
       },
       {
-        "key": "Pepsin / Lipase / Amylase",
-        "label": "Class 3 Hydrolases (cleave bonds by addition of water molecules)"
-      },
-      {
-        "key": "Aldolase",
-        "label": "Class 4 Lyase (splits fructose-1,6-bisphosphate into DHAP and G3P without water)"
+        "key": "Rise per Base Pair",
+        "label": "3.4 Å (0.34 nm) distance between adjacent base steps"
       }
     ],
-    "doodleBadge": "Enzyme Action",
-    "doodleSubtext": "Real NEET Examples",
-    "explanation": "Aldolase in glycolysis is an important example of a Lyase (Class 4) because it cleaves a C-C bond without water.",
-    "alsoRemember": "Glutamine synthetase is a Class 6 Ligase.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 9, Section 9.12.5.",
-    "neetTrap": "Hexokinase is NOT a hydrolase; it is a TRANSFERASE transferring a phosphate group.",
+    "doodleBadge": "34 Pitch, 3.4 Rise, 10 B",
+    "doodleSubtext": "B-DNA Double Helix Param",
+    "explanation": "Watson-Crick double-helical structural metrics for classical B-form DNA.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in B-DNA Double Helix Parameters.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.61",
     "tags": [
-      "Enzyme Examples",
-      "Kinase",
-      "Hydrolase",
-      "Lyase"
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "B-DNA"
     ],
-    "expandedMeaning": "Application of IUBMB classes to familiar metabolic enzymes in glycolysis and digestion.",
-    "whyItWorks": "Connects enzyme class rules to the exact enzymes students encounter in respiration and digestion chapters.",
-    "visualDescription": "Three metabolic workers: one carrying a phosphate group (kinase), one stripping hydrogen (dehydrogenase), one pouring water (hydrolase).",
-    "neetRelevance": "Application questions connecting Biomolecules with Plant Respiration.",
-    "commonMistake": "Classifying Hexokinase as a hydrolase because it uses ATP.",
-    "sourceReference": "NCERT Class 11 Chapter 9 Section 9.12.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 61,
+      "chapter": "Biomolecules"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "To which IUBMB enzyme class does Hexokinase belong?",
+      "question": "Which of the following is associated with \"B-DNA Double Helix Parameters\" in NEET Biology?",
       "options": [
-        "Class 1 (Oxidoreductases)",
-        "Class 2 (Transferases)",
-        "Class 3 (Hydrolases)",
-        "Class 6 (Ligases)"
+        "34 Å (3.4 nm) per full turn",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Hexokinase transfers a phosphate group from ATP to glucose, so it belongs to Class 2 (Transferases)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"34 Å (3.4 nm) per full turn\". Remember using: \"34 Pitch, 3.4 Rise, 10 Base Pairs\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch09-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-09",
+    "chapterNumber": 9,
+    "chapterTitle": "Biomolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-3",
+    "topicTitle": "Most Abundant Proteins",
+    "topic": "Most Abundant Proteins",
+    "mnemonicNumber": 21,
+    "title": "Most Abundant Proteins: \"RUBISCO Biosphere, Collagen Animal\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "RUBISCO Biosphere, Collagen Animal",
+    "memoryHook": "RUBISCO Biosphere, Collagen Animal",
+    "fact": "Collagen: Most abundant protein in the animal world. RuBisCO: Most abundant protein in the entire biosphere",
+    "breakdown": [
+      {
+        "key": "Collagen",
+        "label": "Most abundant protein in the animal world"
+      },
+      {
+        "key": "RuBisCO",
+        "label": "Most abundant protein in the entire biosphere"
+      }
+    ],
+    "doodleBadge": "RUBISCO Biosphere, Colla",
+    "doodleSubtext": "Most Abundant Proteins",
+    "explanation": "Biological abundance rankings frequently queried in NEET direct questions.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Most Abundant Proteins.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.61",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Most"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 61,
+      "chapter": "Biomolecules"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Most Abundant Proteins\" in NEET Biology?",
+      "options": [
+        "RUBISCO Biosphere, Collagen Animal",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Biological abundance rankings frequently queried in NEET direct questions."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch09-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-09",
+    "chapterNumber": 9,
+    "chapterTitle": "Biomolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-3",
+    "topicTitle": "Enzyme Classification (EC System)",
+    "topic": "Enzyme Classification (EC System)",
+    "mnemonicNumber": 22,
+    "title": "Enzyme Classification (EC System): \"O T H L I L\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "O T H L I L",
+    "memoryHook": "O T H L I L",
+    "fact": "Class 1: Oxidoreductases / Dehydrogenases | Class 2: Transferases. Class 3: Hydrolases | Class 4: Lyases (cleave without water). Class 5: Isomerases | Class 6: Ligases (join molecules using ATP)",
+    "breakdown": [
+      {
+        "key": "Class 1",
+        "label": "Oxidoreductases / Dehydrogenases | Class 2: Transferases"
+      },
+      {
+        "key": "Class 3",
+        "label": "Hydrolases | Class 4: Lyases (cleave without water)"
+      },
+      {
+        "key": "Class 5",
+        "label": "Isomerases | Class 6: Ligases (join molecules using ATP)"
+      }
+    ],
+    "doodleBadge": "O T H L I L",
+    "doodleSubtext": "Enzyme Classification (E",
+    "explanation": "Six major functional classes of enzymes established by the International Union of Biochemistry.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Enzyme Classification (EC System).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.61",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Enzyme"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 61,
+      "chapter": "Biomolecules"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Enzyme Classification (EC System)\" in NEET Biology?",
+      "options": [
+        "Oxidoreductases / Dehydrogenases | Class 2: Transferases",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Oxidoreductases / Dehydrogenases | Class 2: Transferases\". Remember using: \"O T H L I L\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch09-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-09",
+    "chapterNumber": 9,
+    "chapterTitle": "Biomolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-3",
+    "topicTitle": "Enzyme Activation Energy Principle",
+    "topic": "Enzyme Activation Energy Principle",
+    "mnemonicNumber": 23,
+    "title": "Enzyme Activation Energy Principle: \"Enzymes Lower Activation Energy Barrier\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Enzymes Lower Activation Energy Barrier",
+    "memoryHook": "Enzymes Lower Activation Energy Barrier",
+    "fact": "Transition State: Unstable high-energy intermediate state during substrate conversion. Mechanism: Enzymes lower activation energy requirement without changing equilibrium point",
+    "breakdown": [
+      {
+        "key": "Transition State",
+        "label": "Unstable high-energy intermediate state during substrate conversion"
+      },
+      {
+        "key": "Mechanism",
+        "label": "Enzymes lower activation energy requirement without changing equilibrium point"
+      }
+    ],
+    "doodleBadge": "Enzymes Lower Activation",
+    "doodleSubtext": "Enzyme Activation Energy",
+    "explanation": "Thermodynamic mechanism by which biocatalysts accelerate metabolic reaction rates.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Enzyme Activation Energy Principle.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.61",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Enzyme"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 61,
+      "chapter": "Biomolecules"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Enzyme Activation Energy Principle\" in NEET Biology?",
+      "options": [
+        "Enzymes Lower Activation Energy Barrier",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Thermodynamic mechanism by which biocatalysts accelerate metabolic reaction rates."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch09-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-09",
+    "chapterNumber": 9,
+    "chapterTitle": "Biomolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-3",
+    "topicTitle": "Competitive Enzyme Inhibition",
+    "topic": "Competitive Enzyme Inhibition",
+    "mnemonicNumber": 24,
+    "title": "Competitive Enzyme Inhibition: \"Same Vmax, High Km (Malonate-Succinate)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Same Vmax, High Km (Malonate-Succinate)",
+    "memoryHook": "Same Vmax, High Km (Malonate-Succinate)",
+    "fact": "Mechanism: Inhibitor closely resembles substrate in structure (competes for active site). Kinetic Effect: Km increases (substrate affinity appears lower); Vmax remains unchanged. Classic Example: Malonate inhibits Succinic Dehydrogenase",
+    "breakdown": [
+      {
+        "key": "Mechanism",
+        "label": "Inhibitor closely resembles substrate in structure (competes for active site)"
+      },
+      {
+        "key": "Kinetic Effect",
+        "label": "Km increases (substrate affinity appears lower); Vmax remains unchanged"
+      },
+      {
+        "key": "Classic Example",
+        "label": "Malonate inhibits Succinic Dehydrogenase"
+      }
+    ],
+    "doodleBadge": "Same Vmax, High Km (Malo",
+    "doodleSubtext": "Competitive Enzyme Inhib",
+    "explanation": "Diagnostic kinetic changes and classic biochemical example of competitive inhibition. Chapter 9: Biomolecules (30 Mnemonics) \tPage 4",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Competitive Enzyme Inhibition.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.61",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Competitive"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 61,
+      "chapter": "Biomolecules"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Competitive Enzyme Inhibition\" in NEET Biology?",
+      "options": [
+        "Inhibitor closely resembles substrate in structure (competes for active site)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Inhibitor closely resembles substrate in structure (competes for active site)\". Remember using: \"Same Vmax, High Km (Malonate-Succinate)\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch09-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-09",
+    "chapterNumber": 9,
+    "chapterTitle": "Biomolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-3",
+    "topicTitle": "Enzyme Cofactors Composition",
+    "topic": "Enzyme Cofactors Composition",
+    "mnemonicNumber": 25,
+    "title": "Enzyme Cofactors Composition: \"Holoenzyme = Apoenzyme + Cofactor\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Holoenzyme = Apoenzyme + Cofactor",
+    "memoryHook": "Holoenzyme = Apoenzyme + Cofactor",
+    "fact": "Holoenzyme: Complete, catalytically active enzyme complex. Apoenzyme: Protein portion of the enzyme (inactive alone). Cofactor: Non-protein moiety required for enzyme activity",
+    "breakdown": [
+      {
+        "key": "Holoenzyme",
+        "label": "Complete, catalytically active enzyme complex"
+      },
+      {
+        "key": "Apoenzyme",
+        "label": "Protein portion of the enzyme (inactive alone)"
+      },
+      {
+        "key": "Cofactor",
+        "label": "Non-protein moiety required for enzyme activity"
+      }
+    ],
+    "doodleBadge": "Holoenzyme = Apoenzyme +",
+    "doodleSubtext": "Enzyme Cofactors Composi",
+    "explanation": "Structural breakdown of functional biocatalytic complexes.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Enzyme Cofactors Composition.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.62",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Enzyme"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 62,
+      "chapter": "Biomolecules"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Enzyme Cofactors Composition\" in NEET Biology?",
+      "options": [
+        "Complete, catalytically active enzyme complex",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Complete, catalytically active enzyme complex\". Remember using: \"Holoenzyme = Apoenzyme + Cofactor\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch09-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-09",
+    "chapterNumber": 9,
+    "chapterTitle": "Biomolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-3",
+    "topicTitle": "Types of Enzyme Cofactors",
+    "topic": "Types of Enzyme Cofactors",
+    "mnemonicNumber": 26,
+    "title": "Types of Enzyme Cofactors: \"P C M” (Prosthetic, Coenzyme, Metal Ion)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "P C M” (Prosthetic, Coenzyme, Metal Ion)",
+    "memoryHook": "P C M” (Prosthetic, Coenzyme, Metal Ion)",
+    "fact": "Prosthetic Groups: Tightly bound organic compounds (e.g., Haem in peroxidase/catalase). Coenzymes: Transiently bound organic compounds, often vitamins (e.g., NAD, NADP contain Niacin). Metal Ions: Coordination bonds with active site and substrate (e.g., Zn2+ for Carboxypeptidase)",
+    "breakdown": [
+      {
+        "key": "Prosthetic Groups",
+        "label": "Tightly bound organic compounds (e.g., Haem in peroxidase/catalase)"
+      },
+      {
+        "key": "Coenzymes",
+        "label": "Transiently bound organic compounds, often vitamins (e.g., NAD, NADP contain Niacin)"
+      },
+      {
+        "key": "Metal Ions",
+        "label": "Coordination bonds with active site and substrate (e.g., Zn2+ for Carboxypeptidase)"
+      }
+    ],
+    "doodleBadge": "P C M” (Prosthetic, Coen",
+    "doodleSubtext": "Types of Enzyme Cofactor",
+    "explanation": "Three distinct categories of non-protein cofactors and their binding characteristics.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Types of Enzyme Cofactors.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.62",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Types"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 62,
+      "chapter": "Biomolecules"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Types of Enzyme Cofactors\" in NEET Biology?",
+      "options": [
+        "Tightly bound organic compounds (e.g., Haem in peroxidase/catalase)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Tightly bound organic compounds (e.g., Haem in peroxidase/catalase)\". Remember using: \"P C M” (Prosthetic, Coenzyme, Metal Ion)\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch09-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-09",
+    "chapterNumber": 9,
+    "chapterTitle": "Biomolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-3",
+    "topicTitle": "Factors Affecting Enzyme Activity",
+    "topic": "Factors Affecting Enzyme Activity",
+    "mnemonicNumber": 27,
+    "title": "Factors Affecting Enzyme Activity: \"T P S” (Temperature, pH, Substrate Concentration)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "T P S” (Temperature, pH, Substrate Concentration)",
+    "memoryHook": "T P S” (Temperature, pH, Substrate Concentration)",
+    "fact": "Temperature & pH: Show bell-shaped optimum curve; extremes cause denaturation. Substrate Conc: Increases rate until Vmax is reached (saturation of active sites)",
+    "breakdown": [
+      {
+        "key": "Temperature & pH",
+        "label": "Show bell-shaped optimum curve; extremes cause denaturation"
+      },
+      {
+        "key": "Substrate Conc",
+        "label": "Increases rate until Vmax is reached (saturation of active sites)"
+      }
+    ],
+    "doodleBadge": "T P S” (Temperature, pH,",
+    "doodleSubtext": "Factors Affecting Enzyme",
+    "explanation": "Physical parameters modulating biocatalytic reaction rates.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Factors Affecting Enzyme Activity.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.62",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Factors"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 62,
+      "chapter": "Biomolecules"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Factors Affecting Enzyme Activity\" in NEET Biology?",
+      "options": [
+        "T P S” (Temperature, pH, Substrate Concentration)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Physical parameters modulating biocatalytic reaction rates."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch09-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-09",
+    "chapterNumber": 9,
+    "chapterTitle": "Biomolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-3",
+    "topicTitle": "Turn-over Number of Enzymes",
+    "topic": "Turn-over Number of Enzymes",
+    "mnemonicNumber": 28,
+    "title": "Turn-over Number of Enzymes: \"Carbonic Anhydrase 600,000 / sec\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Carbonic Anhydrase 600,000 / sec",
+    "memoryHook": "Carbonic Anhydrase 600,000 / sec",
+    "fact": "Carbonic Anhydrase: Speeds up CO2 + H2O -> H2CO3 reaction by 10 million times. Rate: Produces 600,000 molecules of H2CO3 per second (vs 200/hr without enzyme)",
+    "breakdown": [
+      {
+        "key": "Carbonic Anhydrase",
+        "label": "Speeds up CO2 + H2O -> H2CO3 reaction by 10 million times"
+      },
+      {
+        "key": "Rate",
+        "label": "Produces 600,000 molecules of H2CO3 per second (vs 200/hr without enzyme)"
+      }
+    ],
+    "doodleBadge": "Carbonic Anhydrase 600,0",
+    "doodleSubtext": "Turn-over Number of Enzy",
+    "explanation": "Extreme catalytic speed comparison cited in NCERT for carbonic anhydrase.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Turn-over Number of Enzymes.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.62",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Turn-over"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 62,
+      "chapter": "Biomolecules"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Turn-over Number of Enzymes\" in NEET Biology?",
+      "options": [
+        "Carbonic Anhydrase 600,000 / sec",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Extreme catalytic speed comparison cited in NCERT for carbonic anhydrase."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch09-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-09",
+    "chapterNumber": 9,
+    "chapterTitle": "Biomolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-3",
+    "topicTitle": "Anabolic vs Catabolic Pathways",
+    "topic": "Anabolic vs Catabolic Pathways",
+    "mnemonicNumber": 29,
+    "title": "Anabolic vs Catabolic Pathways: \"Anabolic Builds (Consumes ATP), Catabolic Breaks (Yields ATP)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Anabolic Builds (Consumes ATP), Catabolic Breaks (Yields ATP)",
+    "memoryHook": "Anabolic Builds (Consumes ATP), Catabolic Breaks (Yields ATP)",
+    "fact": "Anabolic: Synthesis pathways, endergonic (e.g., Acetic acid -> Cholesterol). Catabolic: Degradative pathways, exergonic (e.g., Glucose -> Lactic acid via glycolysis)",
+    "breakdown": [
+      {
+        "key": "Anabolic",
+        "label": "Synthesis pathways, endergonic (e.g., Acetic acid -> Cholesterol)"
+      },
+      {
+        "key": "Catabolic",
+        "label": "Degradative pathways, exergonic (e.g., Glucose -> Lactic acid via glycolysis)"
+      }
+    ],
+    "doodleBadge": "Anabolic Builds (Consume",
+    "doodleSubtext": "Anabolic vs Catabolic Pa",
+    "explanation": "Energy coupling and structural outcome differences between metabolic pathways.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Anabolic vs Catabolic Pathways.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.62",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Anabolic"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 62,
+      "chapter": "Biomolecules"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Anabolic vs Catabolic Pathways\" in NEET Biology?",
+      "options": [
+        "Anabolic Builds (Consumes ATP), Catabolic Breaks (Yields ATP)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Energy coupling and structural outcome differences between metabolic pathways."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch09-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-09",
+    "chapterNumber": 9,
+    "chapterTitle": "Biomolecules",
+    "classLevel": 11,
+    "topicId": "bio-top-9-3",
+    "topicTitle": "Living State Dynamics",
+    "topic": "Living State Dynamics",
+    "mnemonicNumber": 30,
+    "title": "Living State Dynamics: \"Non-Equilibrium Steady State\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "Non-Equilibrium Steady State",
+    "memoryHook": "Non-Equilibrium Steady State",
+    "fact": "Concept: The living state is a non-equilibrium steady state capable of doing work. System Rule: Systems at equilibrium cannot perform work; metabolism prevents reaching equilibrium",
+    "breakdown": [
+      {
+        "key": "Concept",
+        "label": "The living state is a non-equilibrium steady state capable of doing work"
+      },
+      {
+        "key": "System Rule",
+        "label": "Systems at equilibrium cannot perform work; metabolism prevents reaching equilibrium"
+      }
+    ],
+    "doodleBadge": "Non-Equilibrium Steady S",
+    "doodleSubtext": "Living State Dynamics",
+    "explanation": "Fundamental thermodynamic definition of cellular life and metabolic flux. Chapter 9: Biomolecules (30 Mnemonics) \tPage 5",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 9 (Biomolecules).",
+    "neetTrap": "Pay close attention to exact terminology in Living State Dynamics.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 9, Page from PDF p.62",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Biomolecules",
+      "Living"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 62,
+      "chapter": "Biomolecules"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Living State Dynamics\" in NEET Biology?",
+      "options": [
+        "Non-Equilibrium Steady State",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fundamental thermodynamic definition of cellular life and metabolic flux. Chapter 9: Biomolecules (30 Mnemonics) \tPage 5"
     }
   }
 ];

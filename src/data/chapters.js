@@ -636,7 +636,7 @@ export const CHAPTERS = [
     title: 'The Living World',
     classLevel: 11,
     topicsCount: 10,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'leaf',
     description: 'Characteristics of life, Binomial nomenclature rules, Taxonomic hierarchy (KPCOFGS).',
     topics: [
@@ -652,7 +652,7 @@ export const CHAPTERS = [
     title: 'Biological Classification',
     classLevel: 11,
     topicsCount: 14,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'microscope',
     description: 'Whittaker Five Kingdoms, Archaebacteria, Cyanobacteria, Dinoflagellates, Euglenoids, Slime moulds, Fungi classes, Viruses & Viroids.',
     topics: [
@@ -668,7 +668,7 @@ export const CHAPTERS = [
     title: 'Plant Kingdom',
     classLevel: 11,
     topicsCount: 14,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'leaf',
     description: 'Algae classes (Chlorophyceae, Phaeophyceae, Rhodophyceae pigments & storage), Bryophytes, Pteridophytes, Gymnosperms.',
     topics: [
@@ -684,7 +684,7 @@ export const CHAPTERS = [
     title: 'Animal Kingdom',
     classLevel: 11,
     topicsCount: 15,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'heart',
     description: 'Basis of classification (Coelom, Symmetry, Notochord), Porifera to Chordata classes with key diagnostic features.',
     topics: [
@@ -700,7 +700,7 @@ export const CHAPTERS = [
     title: 'Morphology of Flowering Plants',
     classLevel: 11,
     topicsCount: 12,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'flower',
     description: 'Root modifications, stem modifications, phyllotaxy, aestivation, placentation, floral formula of families.',
     topics: [
@@ -716,7 +716,7 @@ export const CHAPTERS = [
     title: 'Anatomy of Flowering Plants',
     classLevel: 11,
     topicsCount: 10,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'leaf',
     description: 'Meristematic & permanent tissues, xylem & phloem elements, dicot vs monocot root/stem/leaf anatomy, secondary growth.',
     topics: [
@@ -732,7 +732,7 @@ export const CHAPTERS = [
     title: 'Structural Organisation in Animals',
     classLevel: 11,
     topicsCount: 10,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'heart',
     description: 'Epithelial, connective, muscular and neural tissues, morphology and anatomy of Frog.',
     topics: [
@@ -748,7 +748,7 @@ export const CHAPTERS = [
     title: 'Cell: The Unit of Life',
     classLevel: 11,
     topicsCount: 12,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'cell',
     description: 'Cell theory, prokaryotic vs eukaryotic cells, cell membrane fluid mosaic model, endomembrane system, ribosomes, nucleus.',
     topics: [
@@ -764,7 +764,7 @@ export const CHAPTERS = [
     title: 'Biomolecules',
     classLevel: 11,
     topicsCount: 12,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'dna',
     description: 'Primary and secondary metabolites, proteins structure levels, nucleic acids, enzyme catalysis mechanism, competitive inhibition.',
     topics: [
@@ -780,7 +780,7 @@ export const CHAPTERS = [
     title: 'Cell Cycle and Cell Division',
     classLevel: 11,
     topicsCount: 13,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'cell',
     description: 'Interphase (G1, S, G2), Mitosis stages (PMAT), Meiosis I Prophase stages (LZPDD: Leptotene to Diakinesis), Meiosis II.',
     topics: [
@@ -796,7 +796,7 @@ export const CHAPTERS = [
     title: 'Photosynthesis in Higher Plants',
     classLevel: 11,
     topicsCount: 13,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'leaf',
     description: 'Light reaction, Z-scheme, cyclic vs non-cyclic photophosphorylation, Calvin cycle (C3), C4 pathway, photorespiration.',
     topics: [
@@ -812,7 +812,7 @@ export const CHAPTERS = [
     title: 'Respiration in Plants',
     classLevel: 11,
     topicsCount: 12,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'flame',
     description: 'Glycolysis (EMP pathway 10 steps), fermentation, Krebs cycle (TCA), Electron Transport System (ETS), respiratory quotient RQ.',
     topics: [
@@ -828,7 +828,7 @@ export const CHAPTERS = [
     title: 'Plant Growth and Development',
     classLevel: 11,
     topicsCount: 12,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'flower',
     description: 'Phytohormones: Auxin, Gibberellin, Cytokinin, Ethylene, Abscisic acid (ABA), photoperiodism, vernalization.',
     topics: [
@@ -844,7 +844,7 @@ export const CHAPTERS = [
     title: 'Breathing and Exchange of Gases',
     classLevel: 11,
     topicsCount: 11,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'activity',
     description: 'Human respiratory system, mechanism of breathing, respiratory volumes (TV, IRV, ERV, RV), Oxygen-Hemoglobin curve.',
     topics: [
@@ -860,7 +860,7 @@ export const CHAPTERS = [
     title: 'Body Fluids and Circulation',
     classLevel: 11,
     topicsCount: 12,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'heart',
     description: 'Blood groups (ABO & Rh), cardiac cycle phases, heart valves (Try Before You Buy), ECG waves (P, QRS, T), double circulation.',
     topics: [
@@ -876,7 +876,7 @@ export const CHAPTERS = [
     title: 'Excretory Products and Their Elimination',
     classLevel: 11,
     topicsCount: 11,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'beaker',
     description: 'Nephron structure, urine formation (Filtration, Reabsorption, Secretion), counter-current mechanism, RAAS hormone control.',
     topics: [
@@ -892,7 +892,7 @@ export const CHAPTERS = [
     title: 'Locomotion and Movement',
     classLevel: 11,
     topicsCount: 11,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'runner',
     description: 'Skeletal muscle sarcomere structure, sliding filament theory of contraction, human skeletal bones count (206), joint types.',
     topics: [
@@ -908,7 +908,7 @@ export const CHAPTERS = [
     title: 'Neural Control and Coordination',
     classLevel: 11,
     topicsCount: 11,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'brain',
     description: 'Neuron structure, resting membrane potential, generation & conduction of nerve impulse, synapse transmission, human brain.',
     topics: [
@@ -924,7 +924,7 @@ export const CHAPTERS = [
     title: 'Chemical Coordination and Integration (Endocrine)',
     classLevel: 11,
     topicsCount: 12,
-    mnemonicsCount: 0,
+    mnemonicsCount: 30,
     icon: 'beaker',
     description: 'Endocrine glands: Hypothalamus, Pituitary (Anterior/Posterior), Thyroid, Parathyroid, Adrenal, Pancreas, hormone mechanisms.',
     topics: [
@@ -940,7 +940,7 @@ export const CHAPTERS = [
     title: 'Sexual Reproduction in Flowering Plants',
     classLevel: 12,
     topicsCount: 12,
-    mnemonicsCount: 0,
+    mnemonicsCount: 50,
     icon: 'flower',
     description: 'Microsporogenesis, megasporogenesis (7-celled 8-nucleate embryo sac), pollination types, double fertilization, apomixis.',
     topics: [
@@ -956,7 +956,7 @@ export const CHAPTERS = [
     title: 'Human Reproduction',
     classLevel: 12,
     topicsCount: 14,
-    mnemonicsCount: 0,
+    mnemonicsCount: 50,
     icon: 'heart',
     description: 'Spermatogenesis vs oogenesis stages, menstrual cycle hormones, fertilization, cleavage to blastocyst, parturition reflex.',
     topics: [
@@ -972,7 +972,7 @@ export const CHAPTERS = [
     title: 'Reproductive Health',
     classLevel: 12,
     topicsCount: 9,
-    mnemonicsCount: 0,
+    mnemonicsCount: 50,
     icon: 'heart',
     description: 'Contraceptive methods, MTP legal conditions, Sexually Transmitted Infections (STIs), Infertility & ART (IVF, ZIFT, GIFT, ICSI).',
     topics: [
@@ -987,7 +987,7 @@ export const CHAPTERS = [
     title: 'Principles of Inheritance and Variation',
     classLevel: 12,
     topicsCount: 15,
-    mnemonicsCount: 0,
+    mnemonicsCount: 50,
     icon: 'dna',
     description: 'Mendelian ratios, incomplete dominance, codominance, dihybrid cross 9:3:3:1, linkage, chromosomal disorders (Down, Turner, Klinefelter).',
     topics: [
@@ -1003,7 +1003,7 @@ export const CHAPTERS = [
     title: 'Molecular Basis of Inheritance',
     classLevel: 12,
     topicsCount: 15,
-    mnemonicsCount: 0,
+    mnemonicsCount: 50,
     icon: 'dna',
     description: 'DNA structure, Griffith & Hershey-Chase experiments, Meselson-Stahl replication, transcription, genetic code, Lac operon.',
     topics: [
@@ -1019,7 +1019,7 @@ export const CHAPTERS = [
     title: 'Evolution',
     classLevel: 12,
     topicsCount: 11,
-    mnemonicsCount: 0,
+    mnemonicsCount: 50,
     icon: 'compass',
     description: 'Origin of life (Miller-Urey experiment), homologous vs analogous organs, adaptive radiation, Hardy-Weinberg equilibrium, human evolution.',
     topics: [
@@ -1035,7 +1035,7 @@ export const CHAPTERS = [
     title: 'Human Health and Disease',
     classLevel: 12,
     topicsCount: 14,
-    mnemonicsCount: 0,
+    mnemonicsCount: 43,
     icon: 'heart',
     description: 'Pathogens & diseases (Typhoid, Malaria lifecycle, Pneumonia), Innate vs Acquired immunity, Antibody structure (H2L2), AIDS & Cancer.',
     topics: [
@@ -1051,7 +1051,7 @@ export const CHAPTERS = [
     title: 'Microbes in Human Welfare',
     classLevel: 12,
     topicsCount: 10,
-    mnemonicsCount: 0,
+    mnemonicsCount: 33,
     icon: 'microscope',
     description: 'Household microbes (Lactobacillus, Saccharomyces), industrial fermenters, sewage treatment (BOD), biogas production, biofertilizers.',
     topics: [
@@ -1067,7 +1067,7 @@ export const CHAPTERS = [
     title: 'Biotechnology: Principles and Processes',
     classLevel: 12,
     topicsCount: 12,
-    mnemonicsCount: 0,
+    mnemonicsCount: 50,
     icon: 'dna',
     description: 'Restriction endonucleases palindromes, gel electrophoresis, pBR322 vector cloning sites, Polymerase Chain Reaction (PCR: Denaturation, Annealing, Extension).',
     topics: [
@@ -1083,7 +1083,7 @@ export const CHAPTERS = [
     title: 'Biotechnology and Its Applications',
     classLevel: 12,
     topicsCount: 11,
-    mnemonicsCount: 0,
+    mnemonicsCount: 50,
     icon: 'dna',
     description: 'Bt cotton mechanism (cryIAc, cryIIAb, cryIAb), RNA interference (RNAi), genetically engineered insulin (Humulin), gene therapy (ADA).',
     topics: [
@@ -1099,7 +1099,7 @@ export const CHAPTERS = [
     title: 'Organisms and Populations',
     classLevel: 12,
     topicsCount: 11,
-    mnemonicsCount: 0,
+    mnemonicsCount: 41,
     icon: 'leaf',
     description: 'Abiotic adaptations, population growth models (Exponential vs Logistic dN/dt = rN(K-N)/K), population interactions (+/-, +/0, -/-).',
     topics: [
@@ -1115,7 +1115,7 @@ export const CHAPTERS = [
     title: 'Ecosystem',
     classLevel: 12,
     topicsCount: 11,
-    mnemonicsCount: 0,
+    mnemonicsCount: 50,
     icon: 'globe',
     description: 'Ecosystem structure, primary productivity (GPP vs NPP), decomposition steps (Fragmentation, Leaching, Catabolism, Humification, Mineralization), 10% energy law.',
     topics: [
@@ -1131,7 +1131,7 @@ export const CHAPTERS = [
     title: 'Biodiversity and Conservation',
     classLevel: 12,
     topicsCount: 10,
-    mnemonicsCount: 0,
+    mnemonicsCount: 50,
     icon: 'flower',
     description: 'Species-Area relationship (Alexander von Humboldt log S = log C + Z log A), Causes of biodiversity loss (The Evil Quartet), In-situ vs Ex-situ conservation.',
     topics: [

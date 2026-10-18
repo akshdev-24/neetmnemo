@@ -1,0 +1,239 @@
+[
+  {
+    "classLevel": 11,
+    "chapterNumber": 1,
+    "chapterId": "bio-ch-01",
+    "chapterName": "The Living World",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 2,
+    "chapterId": "bio-ch-02",
+    "chapterName": "Biological Classification",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 3,
+    "chapterId": "bio-ch-03",
+    "chapterName": "Plant Kingdom",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 4,
+    "chapterId": "bio-ch-04",
+    "chapterName": "Animal Kingdom",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 5,
+    "chapterId": "bio-ch-05",
+    "chapterName": "Morphology of Flowering Plants",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 6,
+    "chapterId": "bio-ch-06",
+    "chapterName": "Anatomy of Flowering Plants",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 7,
+    "chapterId": "bio-ch-07",
+    "chapterName": "Structural Organisation in Animals",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 8,
+    "chapterId": "bio-ch-08",
+    "chapterName": "Cell: The Unit of Life",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 9,
+    "chapterId": "bio-ch-09",
+    "chapterName": "Biomolecules",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 10,
+    "chapterId": "bio-ch-10",
+    "chapterName": "Cell Cycle and Cell Division",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 11,
+    "chapterId": "bio-ch-11",
+    "chapterName": "Photosynthesis in Higher Plants",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 12,
+    "chapterId": "bio-ch-12",
+    "chapterName": "Respiration in Plants",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 13,
+    "chapterId": "bio-ch-13",
+    "chapterName": "Plant Growth and Development",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 14,
+    "chapterId": "bio-ch-14",
+    "chapterName": "Breathing and Exchange of Gases",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 15,
+    "chapterId": "bio-ch-15",
+    "chapterName": "Body Fluids and Circulation",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 16,
+    "chapterId": "bio-ch-16",
+    "chapterName": "Excretory Products and Their Elimination",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 17,
+    "chapterId": "bio-ch-17",
+    "chapterName": "Locomotion and Movement",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 18,
+    "chapterId": "bio-ch-18",
+    "chapterName": "Neural Control and Coordination",
+    "count": 30
+  },
+  {
+    "classLevel": 11,
+    "chapterNumber": 19,
+    "chapterId": "bio-ch-19",
+    "chapterName": "Chemical Coordination and Integration",
+    "count": 30
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 20,
+    "ncertChapter": 1,
+    "chapterId": "bio-ch-20",
+    "chapterName": "Sexual Reproduction in Flowering Plants",
+    "count": 50
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 21,
+    "ncertChapter": 2,
+    "chapterId": "bio-ch-21",
+    "chapterName": "Human Reproduction",
+    "count": 50
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 22,
+    "ncertChapter": 3,
+    "chapterId": "bio-ch-22",
+    "chapterName": "Reproductive Health",
+    "count": 50
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 23,
+    "ncertChapter": 4,
+    "chapterId": "bio-ch-23",
+    "chapterName": "Principles of Inheritance and Variation",
+    "count": 50
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 24,
+    "ncertChapter": 5,
+    "chapterId": "bio-ch-24",
+    "chapterName": "Molecular Basis of Inheritance",
+    "count": 50
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 25,
+    "ncertChapter": 6,
+    "chapterId": "bio-ch-25",
+    "chapterName": "Evolution",
+    "count": 50
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 26,
+    "ncertChapter": 7,
+    "chapterId": "bio-ch-26",
+    "chapterName": "Human Health and Disease",
+    "count": 43
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 27,
+    "ncertChapter": 8,
+    "chapterId": "bio-ch-27",
+    "chapterName": "Microbes in Human Welfare",
+    "count": 33
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 28,
+    "ncertChapter": 9,
+    "chapterId": "bio-ch-28",
+    "chapterName": "Biotechnology: Principles and Processes",
+    "count": 50
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 29,
+    "ncertChapter": 10,
+    "chapterId": "bio-ch-29",
+    "chapterName": "Biotechnology and Its Applications",
+    "count": 50
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 30,
+    "ncertChapter": 11,
+    "chapterId": "bio-ch-30",
+    "chapterName": "Organisms and Populations",
+    "count": 41
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 31,
+    "ncertChapter": 12,
+    "chapterId": "bio-ch-31",
+    "chapterName": "Ecosystem",
+    "count": 50
+  },
+  {
+    "classLevel": 12,
+    "chapterNumber": 32,
+    "ncertChapter": 13,
+    "chapterId": "bio-ch-32",
+    "chapterName": "Biodiversity and Conservation",
+    "count": 50
+  }
+]

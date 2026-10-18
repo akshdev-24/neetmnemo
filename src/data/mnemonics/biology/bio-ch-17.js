@@ -1,6 +1,7 @@
 /**
- * Biology Chapter 17: Locomotion and Movement
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 17: Locomotion and Movement
+ * Class 11 Biology (30 verified mnemonics)
+ * Primary Source: NEET Biology Chapter-Wise 30 Mnemonics Master (PDF 1)
  */
 
 export const bioCh17Mnemonics = [
@@ -10,65 +11,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
     "topicId": "bio-top-17-1",
-    "topicTitle": "Skeletal System Division",
-    "topic": "Human Skeleton: Axial (80) + Appendicular (126) = 206 Bones",
+    "topicTitle": "Types of Movement in Human Body Cells",
+    "topic": "Types of Movement in Human Body Cells",
     "mnemonicNumber": 1,
-    "title": "Skeleton: 206 Bones = 80 Axial (Center Axis) + 126 Appendicular (Limbs & Girdles)",
-    "badgeText": "Formula",
+    "title": "Types of Movement in Human Body Cells: \"Amoeboid Macrophages, Ciliary Trachea, Muscular Limbs\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Total = 206 | Axial = 80 (Skull 29 + Vertebrae 26 + Ribs 24 + Sternum 1) | Appendicular = 126 (Upper Limbs 60 + Lower Limbs 60 + Pectoral Girdle 4 + Pelvic Girdle 2)",
-    "memoryHook": "Your central axis trunk has 80 bones; your 4 limbs and girdles append 126 bones -> 80 + 126 = 206 adult bones!",
-    "fact": "Human skeleton comprises 206 bones divided into two parts: Axial skeleton (80 bones distributed along main body axis: skull 29, vertebral column 26, sternum 1, ribs 24) and Appendicular skeleton (126 bones: forelimbs 60, hindlimbs 60, pectoral girdle 4, pelvic girdle 2).",
+    "mnemonic": "Amoeboid Macrophages, Ciliary Trachea, Muscular Limbs",
+    "memoryHook": "Amoeboid Macrophages, Ciliary Trachea, Muscular Limbs",
+    "fact": "Amoeboid: Pseudopodia formed by streaming cytoplasm (e.g., Macrophages and Leucocytes). Ciliary: Cilia pushing movement in passage (e.g., Trachea clearing dust, Oviducts moving ova). Muscular: Contraction of muscles for movement (e.g., Limbs, Jaw, Tongue)",
     "breakdown": [
       {
-        "key": "Axial Skeleton (80)",
-        "label": "Skull (22 cranial+facial + 6 ear ossicles + 1 hyoid = 29), Vertebral column (26), Sternum (1), Ribs (24)"
+        "key": "Amoeboid",
+        "label": "Pseudopodia formed by streaming cytoplasm (e.g., Macrophages and Leucocytes)"
       },
       {
-        "key": "Appendicular Skeleton (126)",
-        "label": "Upper limbs (30x2=60), Lower limbs (30x2=60), Pectoral girdle (2x2=4), Pelvic girdle (1x2=2)"
+        "key": "Ciliary",
+        "label": "Cilia pushing movement in passage (e.g., Trachea clearing dust, Oviducts moving ova)"
       },
       {
-        "key": "Total Adult Bones",
-        "label": "206 articulated bones"
+        "key": "Muscular",
+        "label": "Contraction of muscles for movement (e.g., Limbs, Jaw, Tongue)"
       }
     ],
-    "doodleBadge": "80 Axial + 126 Appendicular\n= 206 Bones",
-    "doodleSubtext": "Skeletal Census",
-    "explanation": "Infants are born with ~300 soft bones and cartilages which fuse together during growth to form the 206 adult bones.",
-    "alsoRemember": "Hyoid bone is a single U-shaped bone present at the base of the buccal cavity and does not articulate with any other bone.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 20, Section 20.3.",
-    "neetTrap": "Skull contains 29 bones in total: 8 cranial + 14 facial + 6 ear ossicles + 1 hyoid.",
+    "doodleBadge": "Amoeboid Macrophages, Ci",
+    "doodleSubtext": "Types of Movement in Hum",
+    "explanation": "Three principal mechanisms used by human tissues for intracellular and body movements.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Types of Movement in Human Body Cells.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.18",
     "tags": [
-      "Skeletal System",
-      "Axial",
-      "Appendicular",
-      "206 Bones",
-      "Skull"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Types"
     ],
-    "expandedMeaning": "Systematic osteological inventory of the adult human articulatory skeleton.",
-    "whyItWorks": "Clean mathematical equation: 80 + 126 = 206.",
-    "visualDescription": "Full skeleton with central column highlighted in gold (Axial: 80) and arms/legs in cyan (Appendicular: 126).",
-    "neetRelevance": "Basic foundational bone count questions.",
-    "commonMistake": "Forgetting to include ear ossicles and hyoid in total skull count (29).",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 18,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "How many bones are present in the axial skeleton of an adult human?",
+      "question": "Which of the following is associated with \"Types of Movement in Human Body Cells\" in NEET Biology?",
       "options": [
-        "126",
-        "80",
-        "206",
-        "60"
+        "Pseudopodia formed by streaming cytoplasm (e.g., Macrophages and Leucocytes)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The axial skeleton comprises exactly 80 bones along the longitudinal axis of the body."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Pseudopodia formed by streaming cytoplasm (e.g., Macrophages and Leucocytes)\". Remember using: \"Amoeboid Macrophages, Ciliary Trachea, Muscular Limbs\"."
     }
   },
   {
@@ -77,69 +76,59 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
     "topicId": "bio-top-17-1",
-    "topicTitle": "Cranial Bones",
-    "topic": "8 Cranial Bones: Frontal, Parietal, Temporal, Occipital, Sphenoid, Ethmoid",
+    "topicTitle": "Muscle Tissue Proportion in Human Body",
+    "topic": "Muscle Tissue Proportion in Human Body",
     "mnemonicNumber": 2,
-    "title": "Cranial Bones: STEP ON 6 (Sphenoid 1, Temporal 2, Ethmoid 1, Parietal 2, Occipital 1, Frontal 1)",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
+    "title": "Muscle Tissue Proportion in Human Body: \"40 to 50 Percent Body Weight is Muscle\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "acronym",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "STEP ON 6: Sphenoid (1 butterfly) | Temporal (2 temples) | Ethmoid (1) | Parietal (2 top roof) | Occipital (1 back base) | Frontal (1 forehead) -> Total = 8 bones!",
-    "memoryHook": "Step on the cranium box! Temporal and Parietal come in Pairs (2 each = 4); the rest (Sphenoid, Ethmoid, Occipital, Frontal) are Single (1 each = 4) -> 4 + 4 = 8 cranial bones!",
-    "fact": "The human cranium protects the brain and consists of 8 bones: Frontal (1), Parietal (2, paired), Temporal (2, paired), Occipital (1 with foramen magnum and 2 condyles -> dicondylic skull), Sphenoid (1 butterfly-shaped bone with sella turcica), and Ethmoid (1).",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "40 to 50 Percent Body Weight is Muscle",
+    "memoryHook": "40 to 50 Percent Body Weight is Muscle",
+    "fact": "Percentage: 40% – 50% of adult body weight is contributed by muscles. Properties: Excitability, Contractility, Extensibility, and Elasticity",
     "breakdown": [
       {
-        "key": "Paired Cranial Bones (4 total)",
-        "label": "Parietal (2) and Temporal (2)"
+        "key": "Percentage",
+        "label": "40% – 50% of adult body weight is contributed by muscles"
       },
       {
-        "key": "Unpaired Cranial Bones (4 total)",
-        "label": "Frontal (1), Occipital (1), Sphenoid (1), Ethmoid (1)"
-      },
-      {
-        "key": "Total Cranial Count",
-        "label": "8 cranial bones joined by immovable fibrous sutures"
-      },
-      {
-        "key": "Dicondylic Skull",
-        "label": "Skull articulates with atlas vertebra via 2 occipital condyles"
+        "key": "Properties",
+        "label": "Excitability, Contractility, Extensibility, and Elasticity"
       }
     ],
-    "doodleBadge": "STEP ON = 8 Bones\n(Parietal & Temporal Paired)",
-    "doodleSubtext": "Cranium Box",
-    "explanation": "The pituitary gland rests safely in a depression of the sphenoid bone called the Sella Turcica.",
-    "alsoRemember": "Human skull is dicondylic because it articulates with the first vertebra (Atlas) via two occipital condyles.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.3.1.",
-    "neetTrap": "Parietal and Temporal are PAIRED; Sphenoid, Ethmoid, Frontal, and Occipital are UNPAIRED.",
+    "doodleBadge": "40 to 50 Percent Body We",
+    "doodleSubtext": "Muscle Tissue Proportion",
+    "explanation": "Total mass contribution and fundamental biological characteristics of muscle tissue.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Muscle Tissue Proportion in Human Body.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.18",
     "tags": [
-      "Cranial Bones",
-      "Skull",
-      "Sphenoid",
-      "Sella Turcica",
-      "Dicondylic"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Muscle"
     ],
-    "expandedMeaning": "Anatomical breakdown and paired/unpaired designation of neurocranial protective bones.",
-    "whyItWorks": "STEP ON mnemonic covers all 6 bone names, noting P and T are paired (total 8).",
-    "visualDescription": "Exploded 3D skull view showing butterfly Sphenoid inside and curved cranial plates.",
-    "neetRelevance": "Classic NCERT questions on paired cranial bones and sella turcica.",
-    "commonMistake": "Thinking frontal bone is paired.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.3.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 18,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following cranial bones are paired in the human skull?",
+      "question": "Which of the following is associated with \"Muscle Tissue Proportion in Human Body\" in NEET Biology?",
       "options": [
-        "Frontal and Occipital",
-        "Sphenoid and Ethmoid",
-        "Parietal and Temporal",
-        "Frontal and Sphenoid"
+        "40 to 50 Percent Body Weight is Muscle",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Parietal (2) and Temporal (2) bones are paired, while Frontal, Occipital, Sphenoid, and Ethmoid are single."
+      "answerIndex": 0,
+      "explanation": "Total mass contribution and fundamental biological characteristics of muscle tissue."
     }
   },
   {
@@ -148,74 +137,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
     "topicId": "bio-top-17-1",
-    "topicTitle": "Vertebral Column Formula",
-    "topic": "C7 T12 L5 S(5) Co(4) = 26 Vertebrae in Adult",
+    "topicTitle": "Three Types of Muscle Classification",
+    "topic": "Three Types of Muscle Classification",
     "mnemonicNumber": 3,
-    "title": "Vertebral Formula: C7 T12 L5 S1 Co1 = 26 Adult Bones (Breakfast at 7, Lunch at 12, Dinner at 5)",
-    "badgeText": "Formula",
+    "title": "Three Types of Muscle Classification: \"Skeletal Striated Voluntary, Visceral Smooth Involuntary, Cardiac Branched Striated\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Cervical = 7 (Breakfast at 7 AM) | Thoracic = 12 (Lunch at 12 PM) | Lumbar = 5 (Dinner at 5 PM) | Sacral = 1 (5 fused) | Coccygeal = 1 (4 fused tail vertebrae) -> Total = 26!",
-    "memoryHook": "Eat meals at 7, 12, 5! Cervical (7 in neck), Thoracic (12 in chest), Lumbar (5 in lower back), plus 1 fused Sacrum and 1 fused Coccyx tail = 26 adult vertebrae!",
-    "fact": "Human vertebral column consists of 26 serially arranged vertebrae: Cervical (7), Thoracic (12), Lumbar (5), Sacral (1 fused from 5), and Coccygeal (1 fused from 4 tailbones). The first vertebra is the Atlas which articulates with occipital condyles forming the \"Yes\" joint; second is Axis with odontoid process forming the \"No\" pivot joint.",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Skeletal Striated Voluntary, Visceral Smooth Involuntary, Cardiac Branched Striated",
+    "memoryHook": "Skeletal Striated Voluntary, Visceral Smooth Involuntary, Cardiac Branched Striated",
+    "fact": "Skeletal: Striated, voluntary, attached to bones, multinucleated (syncytium). Visceral (Smooth): Non-striated, involuntary, fusiform, uncellular, in visceral organs. Cardiac: Striated, involuntary, branched with intercalated discs in heart wall",
     "breakdown": [
       {
-        "key": "Cervical (C1 - C7)",
-        "label": "7 vertebrae in neck (found in almost ALL mammals, even giraffe)"
+        "key": "Skeletal",
+        "label": "Striated, voluntary, attached to bones, multinucleated (syncytium)"
       },
       {
-        "key": "Thoracic (T1 - T12)",
-        "label": "12 vertebrae articulating with 12 pairs of ribs"
+        "key": "Visceral (Smooth)",
+        "label": "Non-striated, involuntary, fusiform, uncellular, in visceral organs"
       },
       {
-        "key": "Lumbar (L1 - L5)",
-        "label": "5 largest, heavy weight-bearing vertebrae"
-      },
-      {
-        "key": "Sacrum (S1)",
-        "label": "1 triangular bone formed by fusion of 5 sacral vertebrae"
-      },
-      {
-        "key": "Coccyx (Co1)",
-        "label": "1 vestigial tailbone formed by fusion of 4 coccygeal vertebrae"
+        "key": "Cardiac",
+        "label": "Striated, involuntary, branched with intercalated discs in heart wall"
       }
     ],
-    "doodleBadge": "C7 T12 L5 S1 Co1\n= 26 Bones",
-    "doodleSubtext": "Vertebral Meal Times",
-    "explanation": "Almost all mammals, including long-necked giraffes and short-necked whales, have exactly 7 cervical vertebrae.",
-    "alsoRemember": "Neural canal of vertebrae allows passage of the spinal cord.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.3.2.",
-    "neetTrap": "Atlas (C1) has NO vertebral body and no spinous process.",
+    "doodleBadge": "Skeletal Striated Volunt",
+    "doodleSubtext": "Three Types of Muscle Cl",
+    "explanation": "Structural and functional distinction among skeletal, smooth, and cardiac muscular tissues.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Three Types of Muscle Classification.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.18",
     "tags": [
-      "Vertebrae",
-      "Cervical",
-      "Atlas",
-      "Axis",
-      "Spine",
-      "Mammals"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Three"
     ],
-    "expandedMeaning": "Formulaic anatomical regionalization of the human axial spinal column.",
-    "whyItWorks": "Meal times 7, 12, 5 make remembering C7, T12, L5 effortless.",
-    "visualDescription": "Curved spinal column color-coded by region with count labels 7, 12, 5, 1, 1.",
-    "neetRelevance": "Core anatomy question in NEET exams.",
-    "commonMistake": "Counting 33 separate bones in adult instead of 26 fused bones.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.3.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 18,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "How many cervical vertebrae are present in almost all mammals, including giraffes and humans?",
+      "question": "Which of the following is associated with \"Three Types of Muscle Classification\" in NEET Biology?",
       "options": [
-        "12",
-        "5",
-        "7",
-        "9"
+        "Striated, voluntary, attached to bones, multinucleated (syncytium)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Almost all mammals possess exactly 7 cervical vertebrae in their neck region."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Striated, voluntary, attached to bones, multinucleated (syncytium)\". Remember using: \"Skeletal Striated Voluntary, Visceral Smooth Involuntary, Cardiac Branched Striated\"."
     }
   },
   {
@@ -224,70 +202,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
     "topicId": "bio-top-17-1",
-    "topicTitle": "Ribs Classification",
-    "topic": "12 Pairs of Ribs: True (1-7), False (8-10), Floating (11-12)",
+    "topicTitle": "Anatomical Organization of Skeletal Muscle",
+    "topic": "Anatomical Organization of Skeletal Muscle",
     "mnemonicNumber": 4,
-    "title": "12 Rib Pairs: True (1-7 / Vertebrosternal) | False (8-10 / Vertebrochondral) | Floating (11-12 / Vertebral)",
-    "badgeText": "Classification",
+    "title": "Anatomical Organization of Skeletal Muscle: \"Fascia holds Fascicles, Sarcolemma covers Muscle Fibre\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "True Ribs (Pairs 1-7: Directly touch Sternum via Hyaline Cartilage) | False Ribs (Pairs 8, 9, 10: Hitchhike on 7th rib cartilage) | Floating Ribs (Pairs 11-12: Hang free in back, protect kidneys)",
-    "memoryHook": "First 7 are True (direct handshake with Sternum). 8-9-10 are False hitchhikers (join 7th cartilage). 11 and 12 Float freely with no front attachment!",
-    "fact": "Human rib cage has 12 pairs of bicephalic ribs: 1) True ribs (1st to 7th pairs) are vertebrosternal, attached dorsally to thoracic vertebrae and ventrally connected to sternum with hyaline cartilage. 2) False ribs (8th, 9th, 10th pairs) are vertebrochondral, joining the 7th rib via hyaline cartilage. 3) Floating ribs (11th and 12th pairs) are vertebral, not connected ventrally at all.",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Fascia holds Fascicles, Sarcolemma covers Muscle Fibre",
+    "memoryHook": "Fascia holds Fascicles, Sarcolemma covers Muscle Fibre",
+    "fact": "Epimysium / Fascia: Collagenous connective tissue layer holding muscle bundles (fascicles) together. Fascicle: Bundle of muscle fibers (cells) wrapped in perimysium. Sarcolemma: Plasma membrane lining each muscle fiber, enclosing sarcoplasm",
     "breakdown": [
       {
-        "key": "True Ribs (1-7)",
-        "label": "Vertebrosternal: attach dorsally to vertebrae, ventrally directly to sternum"
+        "key": "Epimysium / Fascia",
+        "label": "Collagenous connective tissue layer holding muscle bundles (fascicles) together"
       },
       {
-        "key": "False Ribs (8, 9, 10)",
-        "label": "Vertebrochondral: attach dorsally to vertebrae, ventrally join cartilage of 7th rib"
+        "key": "Fascicle",
+        "label": "Bundle of muscle fibers (cells) wrapped in perimysium"
       },
       {
-        "key": "Floating Ribs (11, 12)",
-        "label": "Vertebral: attach only dorsally to vertebrae; protect kidneys from behind"
-      },
-      {
-        "key": "Rib Cage Structure",
-        "label": "Formed by Thoracic Vertebrae + Ribs + Sternum"
+        "key": "Sarcolemma",
+        "label": "Plasma membrane lining each muscle fiber, enclosing sarcoplasm"
       }
     ],
-    "doodleBadge": "1-7 True (Sternum)\n8-10 False (Cartilage 7)\n11-12 Floating (Free)",
-    "doodleSubtext": "12 Rib Pairs",
-    "explanation": "Ribs are called bicephalic because each rib has two articulation surfaces on its dorsal end.",
-    "alsoRemember": "Rib cage protects thoracic organs (heart, lungs) and kidneys (floating ribs).",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.3.3.",
-    "neetTrap": "Ribs 8, 9, and 10 join the cartilage of the 7th rib, NOT the sternum directly.",
+    "doodleBadge": "Fascia holds Fascicles, ",
+    "doodleSubtext": "Anatomical Organization ",
+    "explanation": "Hierarchical connective tissue layers organizing skeletal muscle bundles into functional units.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Anatomical Organization of Skeletal Muscle.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.18",
     "tags": [
-      "Ribs",
-      "True Ribs",
-      "False Ribs",
-      "Floating Ribs",
-      "Bicephalic",
-      "Thoracic Cage"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Anatomical"
     ],
-    "expandedMeaning": "Ventral and dorsal articulatory classification of the 24 human costal ribs.",
-    "whyItWorks": "7 True + 3 False + 2 Floating = 12 pairs.",
-    "visualDescription": "Rib cage showing green direct sternal bars (1-7), yellow joined branch (8-10), and red open floating prongs (11-12).",
-    "neetRelevance": "One of the most recurring NCERT biology match and identify questions.",
-    "commonMistake": "Counting floating ribs as pairs 9 and 10.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.3.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 18,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which pairs of ribs are known as vertebrochondral (false) ribs because they join the hyaline cartilage of the seventh rib?",
+      "question": "Which of the following is associated with \"Anatomical Organization of Skeletal Muscle\" in NEET Biology?",
       "options": [
-        "1st to 7th pairs",
-        "8th, 9th, and 10th pairs",
-        "11th and 12th pairs",
-        "5th, 6th, and 7th pairs"
+        "Collagenous connective tissue layer holding muscle bundles (fascicles) together",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The 8th, 9th, and 10th pairs do not articulate directly with the sternum but join the 7th rib hyaline cartilage."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Collagenous connective tissue layer holding muscle bundles (fascicles) together\". Remember using: \"Fascia holds Fascicles, Sarcolemma covers Muscle Fibre\"."
     }
   },
   {
@@ -296,66 +267,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
     "topicId": "bio-top-17-1",
-    "topicTitle": "Pectoral vs Pelvic Girdle Cavities",
-    "topic": "Glenoid Cavity (Shoulder) vs Acetabulum (Hip)",
+    "topicTitle": "Unique Characteristics of Skeletal Muscle Fibre",
+    "topic": "Unique Characteristics of Skeletal Muscle Fibre",
     "mnemonicNumber": 5,
-    "title": "Girdle Cavities: Glenoid Cavity in Pectoral (Humerus Head) vs Acetabulum in Pelvic (Femur Head)",
-    "badgeText": "Comparison",
+    "title": "Unique Characteristics of Skeletal Muscle Fibre: \"Syncytium Sarcoplasm, Sarcoplasmic Reticulum Stores Calcium\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Glenoid Cavity = Scapula socket for Humerus arm bone | Acetabulum = Coxal bone socket (Ilium + Ischium + Pubis fusion) for Femur thigh bone",
-    "memoryHook": "Glenoid is a Gentle shallow cup for your Shoulder arm (high mobility); Acetabulum is a Deep sturdy hip bowl for the heavy Femur thigh bone (high stability)!",
-    "fact": "Pectoral girdle consists of Clavicle (collar bone with 2 curvatures) and Scapula (large triangular flat bone from 2nd to 7th rib). Below the acromion process is the Glenoid cavity for head of Humerus. Pelvic girdle consists of two coxal bones (each formed by fusion of Ilium, Ischium, and Pubis). At the point of fusion is the deep cup-shaped Acetabulum for head of Femur.",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Syncytium Sarcoplasm, Sarcoplasmic Reticulum Stores Calcium",
+    "memoryHook": "Syncytium Sarcoplasm, Sarcoplasmic Reticulum Stores Calcium",
+    "fact": "Syncytium: Multinucleated state as sarcoplasm contains many nuclei. Sarcoplasmic Reticulum: Specialized endoplasmic reticulum acting as storehouse of Ca2+ ions. Myofibrils: Parallel filaments running lengthwise in sarcoplasm showing alternate dark/light bands",
     "breakdown": [
       {
-        "key": "Pectoral Girdle",
-        "label": "Clavicle (2) + Scapula (2); Acromion process articulates with clavicle; Glenoid cavity articulates with humerus"
+        "key": "Syncytium",
+        "label": "Multinucleated state as sarcoplasm contains many nuclei"
       },
       {
-        "key": "Pelvic Girdle",
-        "label": "2 Coxal bones fused at pubic symphysis (fibrous cartilage); Acetabulum socket for femur"
+        "key": "Sarcoplasmic Reticulum",
+        "label": "Specialized endoplasmic reticulum acting as storehouse of Ca2+ ions"
       },
       {
-        "key": "Scapula Position",
-        "label": "Dorsal part of thorax between 2nd and 7th ribs; features a spine ending in Acromion"
+        "key": "Myofibrils",
+        "label": "Parallel filaments running lengthwise in sarcoplasm showing alternate dark/light bands"
       }
     ],
-    "doodleBadge": "Glenoid -> Shoulder (Humerus)\nAcetabulum -> Hip (Femur)",
-    "doodleSubtext": "Ball & Socket Bases",
-    "explanation": "The two halves of pelvic girdle meet ventrally to form the Pubic Symphysis containing fibrous cartilage.",
-    "alsoRemember": "Clavicle is commonly called the collar bone and has two curvatures.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.3.4.",
-    "neetTrap": "Scapula extends between the 2nd and 7th ribs on the dorsal thorax.",
+    "doodleBadge": "Syncytium Sarcoplasm, Sa",
+    "doodleSubtext": "Unique Characteristics o",
+    "explanation": "Cytological specializations essential for calcium handling and longitudinal contraction.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Unique Characteristics of Skeletal Muscle Fibre.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.18",
     "tags": [
-      "Pectoral Girdle",
-      "Pelvic Girdle",
-      "Glenoid Cavity",
-      "Acetabulum",
-      "Scapula",
-      "Clavicle"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Unique"
     ],
-    "expandedMeaning": "Articulatory fossa and socket morphology of human shoulder and pelvic girdle complexes.",
-    "whyItWorks": "Clear pairing: Glenoid = Shoulder / Humerus, Acetabulum = Hip / Femur.",
-    "visualDescription": "Side-by-side comparison of shallow shoulder Glenoid cup vs deep hip Acetabulum socket.",
-    "neetRelevance": "Extremely popular in bone-to-socket pairing MCQs.",
-    "commonMistake": "Associating the glenoid cavity with the femur.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.3.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 18,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The head of the humerus articulates with which socket of the pectoral girdle?",
+      "question": "Which of the following is associated with \"Unique Characteristics of Skeletal Muscle Fibre\" in NEET Biology?",
       "options": [
-        "Acetabulum",
-        "Glenoid cavity",
-        "Obturator foramen",
-        "Olecranon fossa"
+        "Multinucleated state as sarcoplasm contains many nuclei",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The head of the humerus fits into the glenoid cavity of the scapula forming the ball-and-socket shoulder joint."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Multinucleated state as sarcoplasm contains many nuclei\". Remember using: \"Syncytium Sarcoplasm, Sarcoplasmic Reticulum Stores Calcium\"."
     }
   },
   {
@@ -364,74 +332,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-2",
-    "topicTitle": "Sarcomere Structure & Bands",
-    "topic": "Z-line, I-band, A-band, H-zone, and M-line",
+    "classLevel": 11,
+    "topicId": "bio-top-17-1",
+    "topicTitle": "Bands and Lines of Sarcomere",
+    "topic": "Bands and Lines of Sarcomere",
     "mnemonicNumber": 6,
-    "title": "Sarcomere Bands: Z-I-A-H-M (Z-lines border I-band Light, A-band Dark Stays Constant, H-zone Vanishes)",
-    "badgeText": "Concept",
+    "title": "Bands and Lines of Sarcomere: \"I-band Is Thin Actin (Z-line), A-band Is Thick Myosin (H-zone, M-line)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Sarcomere = Distance between 2 Z-lines (Functional Unit) | I-band (Light / Isotropic = Actin only, bisected by Z-line) | A-band (Dark / Anisotropic = Myosin + Actin overlap, Stays Constant!) | H-zone (Central Myosin only, bisected by M-line, Disappears on contraction!)",
-    "memoryHook": "A-band Always stays the same length! I-band and H-zone shrink and vanish during contraction because Actin slides inward towards the central M-line!",
-    "fact": "Sarcomere is the anatomical functional unit of muscle contraction between two successive Z-lines. I-band (isotropic) contains only thin actin filaments bisected by elastic Z-line. A-band (anisotropic) contains thick myosin filaments overlapping with actin. The central region of A-band not overlapped by actin is the H-zone, bisected by thin fibrous M-line. During contraction, actin slides inward: I-bands shorten, H-zone disappears/shortens, but A-band length remains unchanged.",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "I-band Is Thin Actin (Z-line), A-band Is Thick Myosin (H-zone, M-line)",
+    "memoryHook": "I-band Is Thin Actin (Z-line), A-band Is Thick Myosin (H-zone, M-line)",
+    "fact": "I-band (Isotropic): Light band containing Actin (thin filaments), bisected by elastic Z-line. A-band (Anisotropic): Dark band containing Myosin (thick filaments) overlapping actin. H-zone: Central region of A-band NOT overlapped by thin filaments, bisected by thin M-line",
     "breakdown": [
       {
-        "key": "Sarcomere Unit",
-        "label": "Portion of myofibril between two successive Z-lines"
+        "key": "I",
+        "label": "band (Isotropic): Light band containing Actin (thin filaments), bisected by elastic Z-line"
       },
       {
-        "key": "I-band (Isotropic)",
-        "label": "Light band of thin actin filaments; bisected by Z-line; SHORTENS on contraction"
+        "key": "A",
+        "label": "band (Anisotropic): Dark band containing Myosin (thick filaments) overlapping actin"
       },
       {
-        "key": "A-band (Anisotropic)",
-        "label": "Dark band of thick myosin; length REMAINS UNCHANGED during contraction"
-      },
-      {
-        "key": "H-zone (Hensen zone)",
-        "label": "Central area of A-band with myosin only; SHORTENS/DISAPPEARS during contraction"
-      },
-      {
-        "key": "M-line",
-        "label": "Thin fibrous membrane holding thick myosin filaments together in center of H-zone"
+        "key": "H",
+        "label": "zone: Central region of A-band NOT overlapped by thin filaments, bisected by thin M-line"
       }
     ],
-    "doodleBadge": "Z --- I --- A(H[M]H)A --- I --- Z",
-    "doodleSubtext": "Sarcomere Anatomy",
-    "explanation": "According to the Sliding Filament Theory (Huxley), thin actin filaments slide over thick myosin filaments toward the M-line.",
-    "alsoRemember": "Myosin heads pull actin filaments toward the center of the A-band, pulling Z-lines closer.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.2.1.",
-    "neetTrap": "During muscle contraction, the A-BAND DOES NOT SHORTEN; only I-band and H-zone shorten.",
+    "doodleBadge": "I-band Is Thin Actin (Z-",
+    "doodleSubtext": "Bands and Lines of Sarco",
+    "explanation": "Striation anatomy of sarcomere defining the functional contractile unit between two Z-lines. Chapter 17: Locomotion and Movement (30 Mnemonics) \tPage 1",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Bands and Lines of Sarcomere.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.18",
     "tags": [
-      "Sarcomere",
-      "A-band",
-      "I-band",
-      "H-zone",
-      "Z-line",
-      "Sliding Filament"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Bands"
     ],
-    "expandedMeaning": "Ultrastructural striation anatomy and kinetic length changes of the contractile sarcomeric apparatus.",
-    "whyItWorks": "A-band = Always same; I and H = Inward shrink.",
-    "visualDescription": "Sarcomere diagram showing Z-discs coming closer while dark central A-band width stays locked.",
-    "neetRelevance": "Guaranteed NEET question on what happens to bands during contraction.",
-    "commonMistake": "Claiming that A-band shortens during muscle contraction.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.2.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 18,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "During muscle contraction, which of the following bands/zones does NOT change its length?",
+      "question": "Which of the following is associated with \"Bands and Lines of Sarcomere\" in NEET Biology?",
       "options": [
-        "I-band",
-        "H-zone",
-        "A-band",
-        "Distance between two Z-lines"
+        "band (Isotropic): Light band containing Actin (thin filaments), bisected by elas",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "The length of the A-band (anisotropic dark band) remains constant during sarcomere contraction."
+      "answerIndex": 0,
+      "explanation": "Correct: \"band (Isotropic): Light band containing Actin (thin filaments), bisected by elastic Z-line\". Remember using: \"I-band Is Thin Actin (Z-line), A-band Is Thick Myosin (H-zone, M-line)\"."
     }
   },
   {
@@ -440,69 +397,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-2",
-    "topicTitle": "Actin Thin Filament Proteins",
-    "topic": "F-actin, Tropomyosin, and Troponin Subunits",
+    "classLevel": 11,
+    "topicId": "bio-top-17-1",
+    "topicTitle": "Structure of Thin Filament (Actin, Tropomyosin, Troponin)",
+    "topic": "Structure of Thin Filament (Actin, Tropomyosin, Troponin)",
     "mnemonicNumber": 7,
-    "title": "Actin Thin Filament: 2 F-actin Helices + 2 Tropomyosin Ribbons + Troponin Complex (T, I, C)",
-    "badgeText": "Concept",
+    "title": "Structure of Thin Filament (Actin, Tropomyosin, Troponin): \"F-Actin Polymer of G-Actin, Tropomyosin Covers Site, Troponin Holds Mask\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EDF4FF",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
     "badgeColor": "#5B8DEF",
-    "mnemonic": "Thin Filament = Two helical chains of F-actin (polymer of G-actin pearls) + Two Tropomyosin ribbons running along grooves + Complex Troponin sitting at intervals (Troponin C binds Ca2+!)",
-    "memoryHook": "G-actin pearls string into F-actin ropes. Tropomyosin ribbons wrap around to block the active sites. Troponin is the 3-button padlock; Ca2+ presses Troponin C button to unlock the site!",
-    "fact": "Each thin actin filament is composed of two filamentous F-actins helically wound to each other. Each F-actin is a polymer of monomeric globular G-actins. Two filaments of another protein, Tropomyosin, run close to F-actin along its entire length. A complex protein Troponin is distributed at regular intervals on tropomyosin. In resting state, a subunit of troponin masks active binding sites for myosin on actin.",
+    "mnemonic": "F-Actin Polymer of G-Actin, Tropomyosin Covers Site, Troponin Holds Mask",
+    "memoryHook": "F-Actin Polymer of G-Actin, Tropomyosin Covers Site, Troponin Holds Mask",
+    "fact": "F-Actin: Two helically wound filaments composed of monomeric G-actin (Globular actin). Tropomyosin: Two filaments running close to F-actin along its grooves. Troponin: Complex of 3 subunits distributed at regular intervals; masks myosin-binding sites on actin at rest",
     "breakdown": [
       {
-        "key": "F-actin (Filamentous)",
-        "label": "Polymer of monomeric Globular (G) actin units requiring Mg2+"
+        "key": "F",
+        "label": "Actin: Two helically wound filaments composed of monomeric G-actin (Globular actin)"
       },
       {
         "key": "Tropomyosin",
-        "label": "Two fibrous proteins lying in grooves of F-actin helix masking binding sites"
+        "label": "Two filaments running close to F-actin along its grooves"
       },
       {
-        "key": "Troponin Complex",
-        "label": "Trimeric protein: TnT (binds tropomyosin), TnI (inhibitory), TnC (binds Ca2+ ions)"
-      },
-      {
-        "key": "Ca2+ Activation",
-        "label": "Ca2+ binds to Troponin C -> conformational change removes tropomyosin mask"
+        "key": "Troponin",
+        "label": "Complex of 3 subunits distributed at regular intervals; masks myosin-binding sites on actin at rest"
       }
     ],
-    "doodleBadge": "F-Actin + Tropomyosin + Troponin\n(Ca2+ binds Troponin C)",
-    "doodleSubtext": "Thin Filament Trio",
-    "explanation": "Binding of Ca2+ with Troponin C removes the masking of active myosin-binding sites on actin, allowing cross-bridge formation.",
-    "alsoRemember": "Sarcoplasmic reticulum is the intracellular storehouse of Calcium (Ca2+) ions.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.2.1.",
-    "neetTrap": "Calcium binds to TROPONIN (specifically Troponin C), NOT to tropomyosin.",
+    "doodleBadge": "F-Actin Polymer of G-Act",
+    "doodleSubtext": "Structure of Thin Filame",
+    "explanation": "Three-protein molecular architecture regulating actin availability during resting state.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Structure of Thin Filament (Actin, Tropomyosin, Troponin).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.19",
     "tags": [
-      "Actin",
-      "Troponin",
-      "Tropomyosin",
-      "Calcium",
-      "Cross-bridge"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Structure"
     ],
-    "expandedMeaning": "Biomolecular composition and steric hindrance regulatory mechanisms of thin myofilaments.",
-    "whyItWorks": "String of pearls (G->F) + Ribbons (Tropomyosin) + Padlock (Troponin).",
-    "visualDescription": "Double helical pearl strand covered with pink tropomyosin tape and yellow 3-lobed troponin knobs.",
-    "neetRelevance": "Repeated in match-the-column and structural protein identification questions.",
-    "commonMistake": "Thinking calcium binds to myosin or tropomyosin directly.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.2.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 19,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "During skeletal muscle excitation, calcium ions (Ca2+) bind specifically to which regulatory protein to unmask myosin binding sites?",
+      "question": "Which of the following is associated with \"Structure of Thin Filament (Actin, Tropomyosin, Troponin)\" in NEET Biology?",
       "options": [
-        "Tropomyosin",
-        "G-actin",
-        "Troponin C",
-        "Meromyosin"
+        "Actin: Two helically wound filaments composed of monomeric G-actin (Globular act",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Calcium binds to Troponin C, causing a conformational change that pulls tropomyosin away from actin binding sites."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Actin: Two helically wound filaments composed of monomeric G-actin (Globular actin)\". Remember using: \"F-Actin Polymer of G-Actin, Tropomyosin Covers Site, Troponin Holds Mask\"."
     }
   },
   {
@@ -511,66 +462,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-2",
-    "topicTitle": "Myosin Thick Filament & Meromyosin",
-    "topic": "HMM (Heavy Meromyosin) vs LMM (Light Meromyosin) and ATPase",
+    "classLevel": 11,
+    "topicId": "bio-top-17-1",
+    "topicTitle": "Structure of Thick Filament (Myosin & Meromyosins)",
+    "topic": "Structure of Thick Filament (Myosin & Meromyosins)",
     "mnemonicNumber": 8,
-    "title": "Myosin: HMM (Head + Short Arm / Cross-Bridge / ATPase) + LMM (Tail)",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFF0F3",
+    "title": "Structure of Thick Filament (Myosin & Meromyosins): \"Heavy Meromyosin Head & Arm, Light Meromyosin Tail\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#FF8D78",
-    "mnemonic": "Thick Filament = Myosin polymer | Monomer = Meromyosin | HMM (Heavy Meromyosin = Globular Head + Short Arm / Cross-Bridge with Actin Binding Site & ATPase enzyme) | LMM (Light Meromyosin = Tail)",
-    "memoryHook": "Heavy Head with Muscle Power (HMM has ATPase motor and grabs actin). Light Tail (LMM) just anchors the rod in the bundle!",
-    "fact": "Each thick filament is a polymer of monomeric proteins called Meromyosins. Each meromyosin has two parts: 1) Heavy Meromyosin (HMM) consisting of a globular head and short arm (projects outward as cross-bridge), and 2) Light Meromyosin (LMM) constituting the tail. The globular head is an active ATPase enzyme and has binding sites for ATP and active sites for actin.",
+    "mnemonic": "Heavy Meromyosin Head & Arm, Light Meromyosin Tail",
+    "memoryHook": "Heavy Meromyosin Head & Arm, Light Meromyosin Tail",
+    "fact": "Monomer: Polymerized protein made of Meromyosins. HMM (Heavy Meromyosin): Globular head + short arm; projects outward as cross arm (ATPase + Actin binding site). LMM (Light Meromyosin): Straight tail portion of meromyosin",
     "breakdown": [
       {
+        "key": "Monomer",
+        "label": "Polymerized protein made of Meromyosins"
+      },
+      {
         "key": "HMM (Heavy Meromyosin)",
-        "label": "Globular Head + Short Arm; forms cross-arm projecting at regular distance/angle"
+        "label": "Globular head + short arm; projects outward as cross arm (ATPase + Actin binding site)"
       },
       {
         "key": "LMM (Light Meromyosin)",
-        "label": "Linear fibrous Tail portion of the molecule"
-      },
-      {
-        "key": "Myosin Head Sites",
-        "label": "1) Actin-binding site, 2) ATP-binding site + Active ATPase enzyme activity"
+        "label": "Straight tail portion of meromyosin"
       }
     ],
-    "doodleBadge": "HMM = Head + Arm (ATPase)\nLMM = Tail",
-    "doodleSubtext": "Meromyosin Monomer",
-    "explanation": "The globular head functions as an ATPase enzyme, hydrolyzing ATP -> ADP + Pi to energize the power stroke.",
-    "alsoRemember": "Rigor mortis (stiffening of muscles after death) occurs because ATP is depleted, preventing myosin heads from detaching from actin.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.2.1.",
-    "neetTrap": "The globular head contains BOTH an actin-binding site AND an ATP-binding site with ATPase activity.",
+    "doodleBadge": "Heavy Meromyosin Head & ",
+    "doodleSubtext": "Structure of Thick Filam",
+    "explanation": "Sub-unit organization of myosin protein establishing motor head and structural tail.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Structure of Thick Filament (Myosin & Meromyosins).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.19",
     "tags": [
-      "Myosin",
-      "Meromyosin",
-      "HMM",
-      "LMM",
-      "ATPase",
-      "Cross-bridge"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Structure"
     ],
-    "expandedMeaning": "Molecular domain architecture and enzymatic functional sites of the thick filament motor protein.",
-    "whyItWorks": "HMM = Head/Motor (Heavy), LMM = Length/Tail (Light).",
-    "visualDescription": "Golf club shaped meromyosin molecule showing labeled HMM head/arm with ATP site and LMM tail.",
-    "neetRelevance": "Frequent diagram-based label identification questions in NEET.",
-    "commonMistake": "Placing the ATPase enzyme activity in the LMM tail region.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.2.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 19,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which part of the meromyosin molecule possesses an active ATPase enzyme site and actin-binding site?",
+      "question": "Which of the following is associated with \"Structure of Thick Filament (Myosin & Meromyosins)\" in NEET Biology?",
       "options": [
-        "Tail (LMM)",
-        "Globular head of Heavy Meromyosin (HMM)",
-        "Troponin complex",
-        "Z-disc anchor"
+        "Polymerized protein made of Meromyosins",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The globular head of HMM acts as an active ATPase enzyme and contains specific binding sites for actin and ATP."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Polymerized protein made of Meromyosins\". Remember using: \"Heavy Meromyosin Head & Arm, Light Meromyosin Tail\"."
     }
   },
   {
@@ -579,66 +527,59 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-3",
-    "topicTitle": "Types of Joints in Human Body",
-    "topic": "Fibrous (Immovable), Cartilaginous (Slightly Movable), Synovial (Freely Movable)",
+    "classLevel": 11,
+    "topicId": "bio-top-17-1",
+    "topicTitle": "Binding Sites on Myosin Head",
+    "topic": "Binding Sites on Myosin Head",
     "mnemonicNumber": 9,
-    "title": "3 Joint Types: Fibrous (Fixed/Skull Sutures) | Cartilaginous (Limited/Vertebrae) | Synovial (Free Movement/Cavity)",
-    "badgeText": "Classification",
+    "title": "Binding Sites on Myosin Head: \"Myosin Head = Active ATPase Enzyme + Actin Binding Site + ATP Site\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Fibrous = Zero movement (Skull bone sutures) | Cartilaginous = Limited movement (Adjacent vertebrae discs, Pubic symphysis) | Synovial = Fluid-filled freedom (Ball & socket, Hinge, Pivot, Gliding, Saddle)",
-    "memoryHook": "Fibrous is frozen solid; Cartilage bends a little like rubber cushions; Synovial has slippery synovial fluid lubricant for full acrobatic freedom!",
-    "fact": "Joints are points of contact between bones or between bones and cartilages: 1) Fibrous joints (Synarthroses): No movement; flat skull bones fused end-to-end with dense fibrous connective tissue as sutures. 2) Cartilaginous joints (Amphiarthroses): Bones joined by cartilages permitting limited movement (between adjacent vertebrae in spine, pubic symphysis). 3) Synovial joints (Diarthroses): Characterized by presence of a fluid-filled synovial cavity allowing considerable free movement.",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Myosin Head = Active ATPase Enzyme + Actin Binding Site + ATP Site",
+    "memoryHook": "Myosin Head = Active ATPase Enzyme + Actin Binding Site + ATP Site",
+    "fact": "ATPase Activity: Head is an active ATPase enzyme that hydrolyzes ATP to ADP + Pi. Binding Sites: Has specific binding site for ATP and binding site for Actin filament",
     "breakdown": [
       {
-        "key": "Fibrous Joints",
-        "label": "Immovable; dense collagen sutures in cranial skull bones"
+        "key": "ATPase Activity",
+        "label": "Head is an active ATPase enzyme that hydrolyzes ATP to ADP + Pi"
       },
       {
-        "key": "Cartilaginous Joints",
-        "label": "Limited movement; intervertebral discs, pubic symphysis of pelvis"
-      },
-      {
-        "key": "Synovial Joints",
-        "label": "Freely movable; articulated surfaces lubricated with synovial fluid"
+        "key": "Binding Sites",
+        "label": "Has specific binding site for ATP and binding site for Actin filament"
       }
     ],
-    "doodleBadge": "Fibrous: Fixed (Skull)\nCartilage: Limited (Spine)\nSynovial: Free (Limbs)",
-    "doodleSubtext": "3 Joint Classes",
-    "explanation": "Synovial fluid is secreted by the synovial membrane and acts as a shock-absorbing hydraulic lubricant.",
-    "alsoRemember": "Loss of synovial fluid or inflammation of synovial membrane causes severe joint pain (Rheumatoid arthritis).",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.4.",
-    "neetTrap": "Sutures of the skull are FIBROUS joints with NO synovial fluid and ZERO movement.",
+    "doodleBadge": "Myosin Head = Active ATP",
+    "doodleSubtext": "Binding Sites on Myosin ",
+    "explanation": "Functional domains on cross-bridge head driving power strokes during contraction.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Binding Sites on Myosin Head.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.19",
     "tags": [
-      "Joints",
-      "Fibrous",
-      "Cartilaginous",
-      "Synovial",
-      "Sutures",
-      "Pubic Symphysis"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Binding"
     ],
-    "expandedMeaning": "Functional and histological tri-partite taxonomy of human skeletal articulations.",
-    "whyItWorks": "Mobility scale: None (Fibrous) -> Some (Cartilage) -> Full (Synovial).",
-    "visualDescription": "Three joint diagrams: zigzag skull suture, vertebral cartilage cushion, and synovial capsule with blue fluid.",
-    "neetRelevance": "High yield matching topic in NEET zoology.",
-    "commonMistake": "Classifying intervertebral joints as synovial.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 19,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The sutures between the flat bones of the human cranium are examples of:",
+      "question": "Which of the following is associated with \"Binding Sites on Myosin Head\" in NEET Biology?",
       "options": [
-        "Synovial joints",
-        "Cartilaginous joints",
-        "Fibrous joints",
-        "Pivot joints"
+        "Myosin Head = Active ATPase Enzyme + Actin Binding Site + ATP Site",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Sutures of the cranium are fibrous immovable joints held together by dense fibrous connective tissue."
+      "answerIndex": 0,
+      "explanation": "Functional domains on cross-bridge head driving power strokes during contraction."
     }
   },
   {
@@ -647,75 +588,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-3",
-    "topicTitle": "Synovial Joint Varieties & Examples",
-    "topic": "Ball & Socket, Hinge, Pivot, Gliding, and Saddle Joints",
+    "classLevel": 11,
+    "topicId": "bio-top-17-1",
+    "topicTitle": "Motor Unit and Neuromuscular Junction (NMJ)",
+    "topic": "Motor Unit and Neuromuscular Junction (NMJ)",
     "mnemonicNumber": 10,
-    "title": "5 Synovial Joints: Ball & Socket (Shoulder/Hip), Hinge (Knee/Elbow), Pivot (Atlas/Axis), Gliding (Carpals), Saddle (Thumb)",
-    "badgeText": "Memory Trick",
+    "title": "Motor Unit and Neuromuscular Junction (NMJ): \"Motor Neuron + Muscle Fibre = Motor Unit; Releases Acetylcholine\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Ball & Socket = Shoulder (Humerus-Glenoid) & Hip (Femur-Acetabulum) | Hinge = Knee, Elbow, Phalanges | Pivot = Atlas & Axis (No shaking!) | Gliding = Between Carpals of wrist | Saddle = Between Carpal & Metacarpal of Thumb!",
-    "memoryHook": "Throw a Ball with shoulder/hip; Door Hinge swings at knee/elbow; Pivot head side-to-side on Atlas-Axis; Glide your flat wrist carpals; Saddle up your mobile opposable Thumb!",
-    "fact": "The 5 major types of synovial joints in NCERT: 1) Ball and socket joint (between Humerus and Pectoral girdle / Femur and Pelvic girdle), 2) Hinge joint (Knee joint, Elbow joint), 3) Pivot joint (between Atlas and Axis vertebrae), 4) Gliding joint (between the Carpals of the wrist), 5) Saddle joint (between Carpal and Metacarpal of the human thumb).",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Motor Neuron + Muscle Fibre = Motor Unit; Releases Acetylcholine",
+    "memoryHook": "Motor Neuron + Muscle Fibre = Motor Unit; Releases Acetylcholine",
+    "fact": "Motor Unit: Single motor neuron along with connected muscle fibers. NMJ (Motor End Plate): Junction between motor neuron synaptic knob and sarcolemma of muscle fiber. Neurotransmitter: Release of Acetylcholine generates action potential in sarcolemma",
     "breakdown": [
       {
-        "key": "Ball and Socket",
-        "label": "Humerus & Glenoid cavity / Femur & Acetabulum (360° multi-axial movement)"
+        "key": "Motor Unit",
+        "label": "Single motor neuron along with connected muscle fibers"
       },
       {
-        "key": "Hinge Joint",
-        "label": "Knee joint, Elbow joint, Interphalangeal joints (uni-axial door-like swing)"
+        "key": "NMJ (Motor End Plate)",
+        "label": "Junction between motor neuron synaptic knob and sarcolemma of muscle fiber"
       },
       {
-        "key": "Pivot Joint",
-        "label": "Between Atlas (C1) and Axis (C2) vertebrae / Radioulnar joint (rotational movement)"
-      },
-      {
-        "key": "Gliding Joint",
-        "label": "Between adjacent Carpal bones in wrist / Tarsals in ankle"
-      },
-      {
-        "key": "Saddle Joint",
-        "label": "Between Carpal and Metacarpal of Thumb (gives opposable human thumb dexterity)"
+        "key": "Neurotransmitter",
+        "label": "Release of Acetylcholine generates action potential in sarcolemma"
       }
     ],
-    "doodleBadge": "Ball/Socket: Shoulder\nHinge: Knee\nPivot: Atlas/Axis\nGliding: Carpals\nSaddle: Thumb",
-    "doodleSubtext": "5 Synovial Types",
-    "explanation": "The saddle joint of the thumb is an evolutionary hallmark of primates that allows precision grip and tool use.",
-    "alsoRemember": "Condyloid/Ellipsoid joint is found between radius and carpal bones.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.4.",
-    "neetTrap": "The joint between Carpal and Metacarpal of THUMB is a SADDLE joint, not a gliding or ball-and-socket joint.",
+    "doodleBadge": "Motor Neuron + Muscle Fi",
+    "doodleSubtext": "Motor Unit and Neuromusc",
+    "explanation": "Synaptic interface converting electrical nerve impulses into muscular activation signals.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Motor Unit and Neuromuscular Junction (NMJ).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.19",
     "tags": [
-      "Synovial Joints",
-      "Ball and Socket",
-      "Hinge",
-      "Pivot",
-      "Gliding",
-      "Saddle Joint",
-      "Thumb"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Motor"
     ],
-    "expandedMeaning": "Kinematic mechanical classification and anatomical loci of human diarthrodial synovial joints.",
-    "whyItWorks": "Direct 5-finger physical associations for each joint variety.",
-    "visualDescription": "Five paired joint illustrations showing mechanical analog (ball in cup, door hinge, rotating pin, sliding plates, saddle).",
-    "neetRelevance": "One of the top 3 most frequently asked matching questions in NEET.",
-    "commonMistake": "Mismembering the saddle joint as being in the index finger instead of the thumb.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 19,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which type of synovial joint is present between the carpal and metacarpal of the human thumb?",
+      "question": "Which of the following is associated with \"Motor Unit and Neuromuscular Junction (NMJ)\" in NEET Biology?",
       "options": [
-        "Hinge joint",
-        "Pivot joint",
-        "Gliding joint",
-        "Saddle joint"
+        "Single motor neuron along with connected muscle fibers",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 3,
-      "explanation": "A Saddle joint is uniquely present between the carpal and metacarpal of the thumb, allowing opposable dexterity."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Single motor neuron along with connected muscle fibers\". Remember using: \"Motor Neuron + Muscle Fibre = Motor Unit; Releases Acetylcholine\"."
     }
   },
   {
@@ -724,74 +653,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-4",
-    "topicTitle": "Muscular & Skeletal Disorders",
-    "topic": "Myasthenia Gravis, Tetany, Muscular Dystrophy, Arthritis, Gout, Osteoporosis",
+    "classLevel": 11,
+    "topicId": "bio-top-17-2",
+    "topicTitle": "Role of Calcium in Muscle Contraction",
+    "topic": "Role of Calcium in Muscle Contraction",
     "mnemonicNumber": 11,
-    "title": "Disorders: Myasthenia Gravis (Autoimmune ACh), Tetany (Low Ca2+ Spasms), Gout (Uric Acid), Osteoporosis (Low Estrogen)",
-    "badgeText": "Classification",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
+    "title": "Role of Calcium in Muscle Contraction: \"Action Potential T-Tubule -> Ca2+ Released -> Binds Troponin C -> Unmasks Myosin Site\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
     "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Myasthenia Gravis = Autoimmune attacks ACh receptors (Weakness/Paralysis) | Tetany = Rapid wild spasms due to LOW Ca2+ in body fluids | Muscular Dystrophy = Genetic progressive muscle wasting | Osteoporosis = Age-related bone loss due to LOW Estrogen | Gout = Uric acid crystal buildup in joints | Arthritis = Joint inflammation",
-    "memoryHook": "Myasthenia is My Immune system attacking my nerves; Tetany is Spasm from Low Calcium; Dystrophy is Defective Genes; Osteoporosis is Porous bones from dropped Estrogen; Gout is sharp Uric Acid crystals stabbing the big toe!",
-    "fact": "Key musculoskeletal disorders in NCERT: 1) Myasthenia gravis: Autoimmune disorder affecting neuromuscular junction leading to fatigue, weakening, and paralysis of skeletal muscle. 2) Muscular dystrophy: Progressive degeneration of skeletal muscle, mostly due to genetic disorder. 3) Tetany: Rapid spasms (wild contractions) in muscle due to low Ca²⁺ in body fluid (hypocalcemia). 4) Arthritis: Inflammation of joints. 5) Osteoporosis: Age-related disorder characterized by decreased bone mass and increased fracture risk (common cause: decreased estrogen levels). 6) Gout: Inflammation of joints due to accumulation of uric acid crystals.",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Action Potential T-Tubule -> Ca2+ Released -> Binds Troponin C -> Unmasks Myosin Site",
+    "memoryHook": "Action Potential T-Tubule -> Ca2+ Released -> Binds Troponin C -> Unmasks Myosin Site",
+    "fact": "Signal: Action potential spreads through sarcolemma and T-tubules into sarcoplasm. Ca2+ Release: SR releases Ca2+ ions into sarcoplasm. Unmasking: Ca2+ binds to Troponin subunit (Troponin C), causing conformational change to unmask binding site on actin",
     "breakdown": [
       {
-        "key": "Myasthenia Gravis",
-        "label": "Autoimmune attack on post-synaptic acetylcholine (ACh) receptors at neuromuscular junction"
+        "key": "Signal",
+        "label": "Action potential spreads through sarcolemma and T-tubules into sarcoplasm"
       },
       {
-        "key": "Tetany",
-        "label": "Sustained involuntary muscle spasms caused by hypocalcemia (low blood Ca²⁺)"
+        "key": "Ca2+ Release",
+        "label": "SR releases Ca2+ ions into sarcoplasm"
       },
       {
-        "key": "Muscular Dystrophy",
-        "label": "Genetic disorder (X-linked Duchenne) causing progressive skeletal muscle breakdown"
-      },
-      {
-        "key": "Osteoporosis",
-        "label": "Decreased bone mineral density; strongly linked to postmenopausal estrogen decline"
-      },
-      {
-        "key": "Gout",
-        "label": "Joint inflammation caused by precipitation of needle-like monosodium urate crystals"
+        "key": "Unmasking",
+        "label": "Ca2+ binds to Troponin subunit (Troponin C), causing conformational change to unmask binding site on actin"
       }
     ],
-    "doodleBadge": "Disorder Signposts:\nAutoimmune -> Myasthenia\nLow Ca2+ -> Tetany\nLow Estrogen -> Osteoporosis\nUric Acid -> Gout",
-    "doodleSubtext": "6 NCERT Pathologies",
-    "explanation": "In post-menopausal women, sharp decline in estrogen accelerates osteoclast bone resorption, leading to osteoporosis.",
-    "alsoRemember": "Hypoparathyroidism (lack of PTH) leads to low blood calcium, triggering tetany.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.5.",
-    "neetTrap": "Tetany is caused by LOW blood Ca²⁺ (hypocalcemia), NOT high calcium.",
+    "doodleBadge": "Action Potential T-Tubul",
+    "doodleSubtext": "Role of Calcium in Muscl",
+    "explanation": "Excitation-contraction coupling trigger mechanism releasing steric hindrance on actin.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Role of Calcium in Muscle Contraction.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.19",
     "tags": [
-      "Myasthenia Gravis",
-      "Tetany",
-      "Muscular Dystrophy",
-      "Osteoporosis",
-      "Gout",
-      "Estrogen"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Role"
     ],
-    "expandedMeaning": "Etiological and clinical classification of pathological neuromuscular and osteoarticular conditions.",
-    "whyItWorks": "Direct single-word cause anchors: Autoimmune, Low Ca2+, Gene defect, Low Estrogen, Uric crystals.",
-    "visualDescription": "Six warning sign icons matching each pathology to its specific biochemical trigger.",
-    "neetRelevance": "One of the most frequently repeated questions in NEET year after year.",
-    "commonMistake": "Confusing Myasthenia gravis (autoimmune) with Muscular dystrophy (genetic).",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 19,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which disorder is characterized by rapid spasms (wild contractions) in muscles due to LOW calcium levels in body fluids?",
+      "question": "Which of the following is associated with \"Role of Calcium in Muscle Contraction\" in NEET Biology?",
       "options": [
-        "Myasthenia gravis",
-        "Muscular dystrophy",
-        "Tetany",
-        "Gout"
+        "Action potential spreads through sarcolemma and T-tubules into sarcoplasm",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Tetany is characterized by wild muscle spasms and twitching caused by low calcium (hypocalcemia) in body fluids."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Action potential spreads through sarcolemma and T-tubules into sarcoplasm\". Remember using: \"Action Potential T-Tubule -> Ca2+ Released -> Binds Troponin C -> Unmasks Myosin Site\"."
     }
   },
   {
@@ -800,70 +718,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
     "topicId": "bio-top-17-2",
-    "topicTitle": "Red vs White Muscle Fibres",
-    "topic": "Slow Oxidative (Red) vs Fast Glycolytic (White) Muscle Fibres",
+    "topicTitle": "Sliding Filament Theory & Cross Bridge Cycle",
+    "topic": "Sliding Filament Theory & Cross Bridge Cycle",
     "mnemonicNumber": 12,
-    "title": "Muscle Fibres: Red (Aerobic / High Myoglobin & Mitochondria, Slow Fatigue) vs White (Anaerobic / High SR, Rapid Fatigue)",
-    "badgeText": "Comparison",
+    "title": "Sliding Filament Theory & Cross Bridge Cycle: \"Cross Bridge Form -> Power Stroke -> ATP Binds -> Cross Bridge Breaks\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EDF4FF",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
     "badgeColor": "#5B8DEF",
-    "mnemonic": "Red Fibres (Slow Twitch) = Red myoglobin + Plentiful mitochondria + Aerobic + Slow non-fatiguing endurance | White Fibres (Fast Twitch) = Pale low myoglobin + Less mitochondria + Rich Sarcoplasmic Reticulum + Anaerobic glycolysis + Rapid fatigue!",
-    "memoryHook": "Red fibres are marathon runners packed with red oxygen tanks (Myoglobin) and powerhouses (Mitochondria) that never get tired! White fibres are sprinters with high-speed calcium tanks (SR) for fast bursts that quickly tire out!",
-    "fact": "Muscles contain two types of fibres: 1) Red muscle fibres: High content of red oxygen-storing pigment myoglobin, plentiful mitochondria, rich blood capillary supply, depend on aerobic oxidation for ATP, slow contraction rate, sustained activity without fatigue. 2) White muscle fibres: Low myoglobin giving pale appearance, fewer mitochondria, abundant sarcoplasmic reticulum (for rapid Ca²⁺ release), depend on anaerobic glycolysis, fast contraction rate, fatigue quickly due to lactic acid accumulation.",
+    "mnemonic": "Cross Bridge Form -> Power Stroke -> ATP Binds -> Cross Bridge Breaks",
+    "memoryHook": "Cross Bridge Form -> Power Stroke -> ATP Binds -> Cross Bridge Breaks",
+    "fact": "Cross Bridge Formation: Hydrolyzed ATP (ADP+Pi) on myosin head binds unmasked actin. Power Stroke: Myosin pulls actin inwards toward M-line (Z-lines drawn together). Detachment: New ATP binds myosin head, breaking cross-bridge",
     "breakdown": [
       {
-        "key": "Myoglobin Content",
-        "label": "High in Red fibres (gives reddish color); Low in White fibres (pale/white)"
+        "key": "Cross Bridge Formation",
+        "label": "Hydrolyzed ATP (ADP+Pi) on myosin head binds unmasked actin"
       },
       {
-        "key": "Mitochondria Count",
-        "label": "Abundant in Red fibres (aerobic ATP); Few in White fibres"
+        "key": "Power Stroke",
+        "label": "Myosin pulls actin inwards toward M-line (Z-lines drawn together)"
       },
       {
-        "key": "Sarcoplasmic Reticulum",
-        "label": "Moderate in Red fibres; Highly extensive in White fibres for rapid Ca²⁺ release"
-      },
-      {
-        "key": "Fatigue Rate",
-        "label": "Red: Slow to fatigue (endurance muscles/back posture); White: Fast to fatigue (eyeballs, flight muscles of sparrow)"
+        "key": "Detachment",
+        "label": "New ATP binds myosin head, breaking cross-bridge"
       }
     ],
-    "doodleBadge": "Red = Myoglobin + Mitochondria (Aerobic)\nWhite = High SR + Glycolysis (Fast)",
-    "doodleSubtext": "Red vs White Fibres",
-    "explanation": "Flight muscles of long-flying birds (like migratory ducks) are rich in red muscle fibres, whereas flight muscles of chickens/sparrows are white.",
-    "alsoRemember": "Myoglobin is a monomeric protein with a higher affinity for O2 than hemoglobin.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.2.2.",
-    "neetTrap": "White muscle fibres have MORE extensive Sarcoplasmic Reticulum than red muscle fibres.",
+    "doodleBadge": "Cross Bridge Form -> Pow",
+    "doodleSubtext": "Sliding Filament Theory ",
+    "explanation": "Cyclic molecular steps producing sarcomere shortening without changing filament length. Chapter 17: Locomotion and Movement (30 Mnemonics) \tPage 2",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Sliding Filament Theory & Cross Bridge Cycle.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.19",
     "tags": [
-      "Red Muscle",
-      "White Muscle",
-      "Myoglobin",
-      "Mitochondria",
-      "Sarcoplasmic Reticulum",
-      "Fatigue"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Sliding"
     ],
-    "expandedMeaning": "Histochemical, metabolic, and biophysical differentiation between slow-twitch aerobic and fast-twitch anaerobic myocytes.",
-    "whyItWorks": "Marathoner (Red/Aerobic) vs Sprinter (White/Anaerobic) functional contrast.",
-    "visualDescription": "Split view showing dark red muscle cell packed with oval mitochondria vs pale white cell filled with SR reticulum netting.",
-    "neetRelevance": "Commonly tested in direct comparison and characteristic matching tables.",
-    "commonMistake": "Thinking red muscles have more sarcoplasmic reticulum than white muscles.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.2.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 19,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following features is characteristic of WHITE muscle fibres compared to red muscle fibres?",
+      "question": "Which of the following is associated with \"Sliding Filament Theory & Cross Bridge Cycle\" in NEET Biology?",
       "options": [
-        "High myoglobin content",
-        "Abundant mitochondria",
-        "High amount of sarcoplasmic reticulum and rapid fatigue",
-        "Dependence on aerobic respiration"
+        "Hydrolyzed ATP (ADP+Pi) on myosin head binds unmasked actin",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "White muscle fibres have an extensive sarcoplasmic reticulum for rapid calcium delivery and fatigue quickly."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Hydrolyzed ATP (ADP+Pi) on myosin head binds unmasked actin\". Remember using: \"Cross Bridge Form -> Power Stroke -> ATP Binds -> Cross Bridge Breaks\"."
     }
   },
   {
@@ -872,74 +783,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-1",
-    "topicTitle": "Upper Limb Bones Breakdown",
-    "topic": "30 Bones in Each Human Forelimb",
+    "classLevel": 11,
+    "topicId": "bio-top-17-2",
+    "topicTitle": "Sarcomere Changes During Contraction",
+    "topic": "Sarcomere Changes During Contraction",
     "mnemonicNumber": 13,
-    "title": "Upper Limb (30 Bones): 1 Humerus + 1 Radius + 1 Ulna + 8 Carpals + 5 Metacarpals + 14 Phalanges",
-    "badgeText": "Formula",
+    "title": "Sarcomere Changes During Contraction: \"I-band Shortens, H-zone Disappears, A-band Remains Constant\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Upper Limb = 1 Humerus (Arm) + 1 Radius (Thumb side) + 1 Ulna (Pinky side) + 8 Carpals (Wrist) + 5 Metacarpals (Palm) + 14 Phalanges (Digits: 2 in thumb, 3 in other 4 fingers) = 30 bones per arm!",
-    "memoryHook": "Count down your arm: 1 long arm bone -> 2 forearm bones -> 8 wrist carpals -> 5 palm bones -> 14 finger phalanges (2+3+3+3+3 = 14) -> Exactly 30 bones!",
-    "fact": "Each human forelimb (upper limb) consists of 30 bones: Humerus (1, upper arm), Radius (1, lateral forearm on thumb side), Ulna (1, medial forearm on little finger side), Carpals (8, wrist bones arranged in 2 rows of 4), Metacarpals (5, palm bones), and Phalanges (14, digits with formula 2, 3, 3, 3, 3). Total bones in both upper limbs = 30 × 2 = 60.",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "I-band Shortens, H-zone Disappears, A-band Remains Constant",
+    "memoryHook": "I-band Shortens, H-zone Disappears, A-band Remains Constant",
+    "fact": "Reduced / Shortened: I-band reduces in length; H-zone reduces/disappears as actin overlaps. Constant: A-band retains its original length throughout contraction. Distance: Distance between two adjacent Z-lines decreases (Sarcomere shortens)",
     "breakdown": [
       {
-        "key": "Humerus (1)",
-        "label": "Long bone of upper arm with head articulating in glenoid cavity"
+        "key": "Reduced / Shortened",
+        "label": "I-band reduces in length; H-zone reduces/disappears as actin overlaps"
       },
       {
-        "key": "Radius (1) & Ulna (1)",
-        "label": "Forearm bones; Radius is on lateral/thumb side, Ulna has olecranon process forming elbow"
+        "key": "Constant",
+        "label": "A-band retains its original length throughout contraction"
       },
       {
-        "key": "Carpals (8)",
-        "label": "Wrist bones (Scaphoid, Lunate, Triquetrum, Pisiform, Trapezium, Trapezoid, Capitate, Hamate)"
-      },
-      {
-        "key": "Metacarpals (5)",
-        "label": "Palm bones articulating with digits"
-      },
-      {
-        "key": "Phalanges (14)",
-        "label": "Finger bones with formula 2 (pollex/thumb), 3, 3, 3, 3"
+        "key": "Distance",
+        "label": "Distance between two adjacent Z-lines decreases (Sarcomere shortens)"
       }
     ],
-    "doodleBadge": "1 + 1 + 1 + 8 + 5 + 14\n= 30 Bones",
-    "doodleSubtext": "Upper Limb Count",
-    "explanation": "The digital formula for both human hand and foot is 2, 3, 3, 3, 3 (total 14 phalanges).",
-    "alsoRemember": "The elbow joint is formed between trochlea of humerus and trochlear notch of ulna.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.3.4.",
-    "neetTrap": "There are 8 CARPALS in the wrist, but only 7 TARSALS in the ankle (because the knee has a Patella).",
+    "doodleBadge": "I-band Shortens, H-zone ",
+    "doodleSubtext": "Sarcomere Changes During",
+    "explanation": "Dimensional behavior of sub-sarcomeric bands during filament sliding.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Sarcomere Changes During Contraction.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.20",
     "tags": [
-      "Upper Limb",
-      "Humerus",
-      "Radius",
-      "Ulna",
-      "Carpals",
-      "Phalanges"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Sarcomere"
     ],
-    "expandedMeaning": "Systematic osteological inventory of the human superior appendicular extremity.",
-    "whyItWorks": "1 + 2 + 8 + 5 + 14 = 30 anatomical addition.",
-    "visualDescription": "Diagram of arm bones from shoulder to fingertips with count callouts for each segment.",
-    "neetRelevance": "Standard bone inventory and carpal count questions.",
-    "commonMistake": "Confusing 8 carpals in wrist with 7 tarsals in ankle.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.3.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 20,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "How many carpal (wrist) bones are present in a single human upper limb?",
+      "question": "Which of the following is associated with \"Sarcomere Changes During Contraction\" in NEET Biology?",
       "options": [
-        "5",
-        "7",
-        "8",
-        "14"
+        "I-band reduces in length; H-zone reduces/disappears as actin overlaps",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "There are exactly 8 carpal bones in the wrist of each upper limb."
+      "answerIndex": 0,
+      "explanation": "Correct: \"I-band reduces in length; H-zone reduces/disappears as actin overlaps\". Remember using: \"I-band Shortens, H-zone Disappears, A-band Remains Constant\"."
     }
   },
   {
@@ -948,75 +848,59 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-1",
-    "topicTitle": "Lower Limb Bones Breakdown",
-    "topic": "30 Bones in Each Human Hindlimb",
+    "classLevel": 11,
+    "topicId": "bio-top-17-2",
+    "topicTitle": "Red Muscle Fibres vs White Muscle Fibres",
+    "topic": "Red Muscle Fibres vs White Muscle Fibres",
     "mnemonicNumber": 14,
-    "title": "Lower Limb (30 Bones): 1 Femur + 1 Patella + 1 Tibia + 1 Fibula + 7 Tarsals + 5 Metatarsals + 14 Phalanges",
-    "badgeText": "Formula",
+    "title": "Red Muscle Fibres vs White Muscle Fibres: \"Red = High Myoglobin, Mitochondria, Slow Fatigue; White = Low Myoglobin, Anaerobic, Fast\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#FFE681",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#A66CFF",
-    "mnemonic": "Lower Limb = 1 Femur (Thigh - Longest & Strongest bone) + 1 Patella (Knee cap - Sesamoid bone) + 1 Tibia (Shin bone - Medial) + 1 Fibula (Lateral) + 7 Tarsals (Ankle) + 5 Metatarsals (Sole) + 14 Phalanges (Toes) = 30 bones!",
-    "memoryHook": "Why 7 Tarsals instead of 8 Carpals? Because the missing 8th bone transformed into the Patella kneecap in front! So both arm and leg equal exactly 30 bones!",
-    "fact": "Each human hindlimb (lower limb) consists of 30 bones: Femur (1, thigh bone, longest and heaviest bone in body), Patella (1, cup-shaped knee cap covering knee ventrally, formed by ossification of tendon as a sesamoid bone), Tibia (1, weight-bearing medial shin bone), Fibula (1, slender lateral bone), Tarsals (7, ankle bones including calcaneus heel bone), Metatarsals (5, sole bones), and Phalanges (14, toe bones with formula 2, 3, 3, 3, 3). Total in both legs = 60.",
+    "mnemonic": "Red = High Myoglobin, Mitochondria, Slow Fatigue; White = Low Myoglobin, Anaerobic, Fast",
+    "memoryHook": "Red = High Myoglobin, Mitochondria, Slow Fatigue; White = Low Myoglobin, Anaerobic, Fast",
+    "fact": "Red Fibres (Aerobic): High myoglobin content, many mitochondria, rich capillaries; slow contraction without fatigue. White Fibres (Anaerobic): Low myoglobin content, few mitochondria, high sarcoplasmic reticulum; fast contraction, fatigues quickly",
     "breakdown": [
       {
-        "key": "Femur (1)",
-        "label": "Longest, strongest, and heaviest bone in the human body"
+        "key": "Red Fibres (Aerobic)",
+        "label": "High myoglobin content, many mitochondria, rich capillaries; slow contraction without fatigue"
       },
       {
-        "key": "Patella (1)",
-        "label": "Kneecap; a sesamoid bone developed in tendon of quadriceps femoris"
-      },
-      {
-        "key": "Tibia (1) & Fibula (1)",
-        "label": "Tibia is major medial weight-bearer; Fibula is slender lateral anchor"
-      },
-      {
-        "key": "Tarsals (7)",
-        "label": "Ankle bones (Talus, Calcaneus heel, Navicular, Cuboid, 3 Cuneiforms)"
-      },
-      {
-        "key": "Metatarsals (5) & Phalanges (14)",
-        "label": "Sole and toe bones (Big toe/Hallux has 2 phalanges, others have 3)"
+        "key": "White Fibres (Anaerobic)",
+        "label": "Low myoglobin content, few mitochondria, high sarcoplasmic reticulum; fast contraction, fatigues quickly"
       }
     ],
-    "doodleBadge": "1 + 1 + 1 + 1 + 7 + 5 + 14\n= 30 Bones",
-    "doodleSubtext": "Lower Limb Count",
-    "explanation": "Patella is a sesamoid bone formed by the ossification of the quadriceps tendon to protect the knee joint.",
-    "alsoRemember": "Calcaneus is the largest tarsal bone forming the human heel.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.3.4.",
-    "neetTrap": "Patella is a SESAMOID bone that covers the knee VENTRALLY, not dorsally.",
+    "doodleBadge": "Red = High Myoglobin, Mi",
+    "doodleSubtext": "Red Muscle Fibres vs Whi",
+    "explanation": "Metabolic and contractile dichotomy between slow-twitch aerobic and fast-twitch anaerobic muscle fibers.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Red Muscle Fibres vs White Muscle Fibres.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.20",
     "tags": [
-      "Lower Limb",
-      "Femur",
-      "Patella",
-      "Tibia",
-      "Fibula",
-      "Tarsals",
-      "Sesamoid"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Red"
     ],
-    "expandedMeaning": "Systematic osteological inventory of the human inferior appendicular extremity.",
-    "whyItWorks": "Patella replaces one tarsal (1 + 7 = 8) matching arm structure.",
-    "visualDescription": "Diagram of leg skeleton from hip joint down to ankle and toes with labeled bone counts.",
-    "neetRelevance": "Common matching and anatomical bone type questions.",
-    "commonMistake": "Counting 8 tarsals in the ankle.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.3.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 20,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which bone is a cup-shaped sesamoid bone that covers the knee joint ventrally?",
+      "question": "Which of the following is associated with \"Red Muscle Fibres vs White Muscle Fibres\" in NEET Biology?",
       "options": [
-        "Femur",
-        "Patella",
-        "Tibia",
-        "Fibula"
+        "Red = High Myoglobin, Mitochondria, Slow Fatigue; White = Low Myoglobin, Anaerobic, Fast",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "The Patella (kneecap) is a sesamoid bone that protects and covers the knee joint ventrally."
+      "answerIndex": 0,
+      "explanation": "Metabolic and contractile dichotomy between slow-twitch aerobic and fast-twitch anaerobic muscle fibers."
     }
   },
   {
@@ -1025,69 +909,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
     "topicId": "bio-top-17-2",
-    "topicTitle": "Sliding Filament Cross-Bridge Cycle",
-    "topic": "Sequence of Cross-Bridge Formation, Power Stroke, and Detachment",
+    "topicTitle": "Total Number of Bones in Human Skeleton",
+    "topic": "Total Number of Bones in Human Skeleton",
     "mnemonicNumber": 15,
-    "title": "Cross-Bridge Cycle: ATP Hydrolysis -> Myosin Binds Actin -> Power Stroke -> New ATP Detaches Myosin",
-    "badgeText": "Sequence",
-    "importance": "Must Know",
+    "title": "Total Number of Bones in Human Skeleton: \"Axial 80 Bones + Appendicular 126 Bones = 206 Total Bones\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "medium",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "1) Myosin Head splits ATP (ADP + Pi) -> 2) Energized Head hooks onto unmasked Actin (Cross-Bridge) -> 3) Power Stroke pulls Actin inward & releases ADP+Pi -> 4) Fresh ATP binds Head -> Myosin Detaches & Resets!",
-    "memoryHook": "Cock the hammer (Split ATP) -> Hook the rope (Bind Actin) -> Pull the rope (Power Stroke) -> Pay with a new ATP coin to let go of the rope (Detachment)!",
-    "fact": "The cross-bridge cycle: 1) Hydrolysis of ATP by myosin head energizes it into a high-energy state (binding ADP and Pi). 2) Myosin head binds to active site on actin forming a cross-bridge. 3) Release of ADP and Pi triggers the Power Stroke: myosin head pivots, pulling actin filament toward center of sarcomere. 4) A new ATP molecule binds to myosin head, breaking the cross-bridge and detaching myosin. 5) ATP is hydrolyzed again, recocking the head.",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Axial 80 Bones + Appendicular 126 Bones = 206 Total Bones",
+    "memoryHook": "Axial 80 Bones + Appendicular 126 Bones = 206 Total Bones",
+    "fact": "Axial Skeleton: 80 bones distributed along main axis of body. Appendicular Skeleton: 126 bones comprising limbs and supporting girdles. Total: 206 adult bones composed of bone matrix and cartilage",
     "breakdown": [
       {
-        "key": "Step 1: Energy Charge",
-        "label": "Myosin ATPase hydrolyzes ATP -> ADP + Pi"
+        "key": "Axial Skeleton",
+        "label": "80 bones distributed along main axis of body"
       },
       {
-        "key": "Step 2: Cross-Bridge",
-        "label": "Myosin head binds to exposed active site on actin"
+        "key": "Appendicular Skeleton",
+        "label": "126 bones comprising limbs and supporting girdles"
       },
       {
-        "key": "Step 3: Power Stroke",
-        "label": "Head pivots pulling actin filament inward; ADP and Pi are released"
-      },
-      {
-        "key": "Step 4: Detachment",
-        "label": "A new ATP binds to myosin head, causing detachment from actin"
+        "key": "Total",
+        "label": "206 adult bones composed of bone matrix and cartilage"
       }
     ],
-    "doodleBadge": "Charge -> Bind -> Pull -> Detach (New ATP)",
-    "doodleSubtext": "4-Step Cross-Bridge",
-    "explanation": "ATP binding is required for detachment; without ATP after death, cross-bridges remain locked in place causing Rigor Mortis.",
-    "alsoRemember": "The cycle repeats as long as Ca2+ remains elevated and ATP is available.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.2.2.",
-    "neetTrap": "A NEW ATP binding is required for DETACHMENT of myosin from actin, not for the power stroke itself.",
+    "doodleBadge": "Axial 80 Bones + Appendi",
+    "doodleSubtext": "Total Number of Bones in",
+    "explanation": "Divisions and numerical breakdown of the human skeletal system.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Total Number of Bones in Human Skeleton.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.20",
     "tags": [
-      "Cross-Bridge",
-      "Power Stroke",
-      "Sliding Filament",
-      "ATP",
-      "Rigor Mortis"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Total"
     ],
-    "expandedMeaning": "Cyclic mechanochemical transduction pathway driving sarcomeric force generation and filament sliding.",
-    "whyItWorks": "Step-by-step mechanical cycle from cocking to release.",
-    "visualDescription": "Four cyclic panels showing myosin head pivoting like an oar, pulling actin rope, and releasing with green ATP star.",
-    "neetRelevance": "Core mechanism tested in detail in NEET biology.",
-    "commonMistake": "Thinking ATP hydrolysis happens during the detachment step.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.2.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 20,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What event directly causes the detachment of the myosin head from the actin filament during the cross-bridge cycle?",
+      "question": "Which of the following is associated with \"Total Number of Bones in Human Skeleton\" in NEET Biology?",
       "options": [
-        "Release of calcium ions",
-        "Hydrolysis of ATP into ADP and Pi",
-        "Binding of a new ATP molecule to the myosin head",
-        "Release of ADP from the myosin head"
+        "80 bones distributed along main axis of body",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Binding of a fresh ATP molecule to the myosin head causes it to release and detach from the actin active site."
+      "answerIndex": 0,
+      "explanation": "Correct: \"80 bones distributed along main axis of body\". Remember using: \"Axial 80 Bones + Appendicular 126 Bones = 206 Total Bones\"."
     }
   },
   {
@@ -1096,70 +974,67 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-1",
-    "topicTitle": "Facial Bones Breakdown",
-    "topic": "14 Facial Bones: Virgil Can Not Make My Pet Zebra Laugh",
+    "classLevel": 11,
+    "topicId": "bio-top-17-2",
+    "topicTitle": "Axial Skeleton Division (80 Bones Breakdown)",
+    "topic": "Axial Skeleton Division (80 Bones Breakdown)",
     "mnemonicNumber": 16,
-    "title": "14 Facial Bones: Virgil Can Not Make My Pet Zebra Laugh (Vomer, Conchae, Nasal, Maxilla, Mandible, Palatine, Zygomatic, Lacrimal)",
-    "badgeText": "Memory Trick",
-    "importance": "Medium Yield",
-    "difficulty": "hard",
-    "visualType": "notebook",
-    "mnemonicType": "acronym",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Virgil Can Not Make My Pet Zebra Laugh: Vomer (1) | Inferior Conchae (2) | Nasal (2) | Maxilla (2) | Mandible (1 - only movable skull bone!) | Palatine (2) | Zygomatic (2 cheek bones) | Lacrimal (2 tear bones) -> Total = 14 bones!",
-    "memoryHook": "6 pairs (Conchae, Nasal, Maxilla, Palatine, Zygomatic, Lacrimal = 12 bones) + 2 singles (Vomer in nose septum + Mandible lower jaw = 2 bones) -> 12 + 2 = 14 facial bones!",
-    "fact": "The facial region of skull is made up of 14 skeletal elements: Nasal (2), Maxillae (2, upper jaw), Zygomatic (2, cheek bones), Lacrimal (2, smallest facial bones with tear ducts), Palatine (2, hard palate roof), Inferior Nasal Conchae (2), Vomer (1, nasal septum base), and Mandible (1, lower jaw, strongest and only movable bone of the human skull).",
+    "title": "Axial Skeleton Division (80 Bones Breakdown): \"Skull 22, Hyoid 1, Ear Ossicles 6, Vertebrae 26, Sternum 1, Ribs 24\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Skull 22, Hyoid 1, Ear Ossicles 6, Vertebrae 26, Sternum 1, Ribs 24",
+    "memoryHook": "Skull 22, Hyoid 1, Ear Ossicles 6, Vertebrae 26, Sternum 1, Ribs 24",
+    "fact": "Skull: 22 bones (Cranium 8 + Facial 14). Hyoid & Ear Ossicles: 1 U-shaped Hyoid + 6 Ear Ossicles (3 in each middle ear). Vertebral Column: 26 serial units (Adult). Thoracic Cage: 1 Sternum + 24 Ribs (12 pairs) [Total Axial = 80]",
     "breakdown": [
       {
-        "key": "Unpaired Facial Bones (2 total)",
-        "label": "Mandible (1, lower jaw) and Vomer (1, nasal septum)"
+        "key": "Skull",
+        "label": "22 bones (Cranium 8 + Facial 14)"
       },
       {
-        "key": "Paired Facial Bones (12 total)",
-        "label": "Maxillae (2), Zygomatic (2), Lacrimal (2), Nasal (2), Palatine (2), Inferior Conchae (2)"
+        "key": "Hyoid & Ear Ossicles",
+        "label": "1 U-shaped Hyoid + 6 Ear Ossicles (3 in each middle ear)"
       },
       {
-        "key": "Movable Skull Bone",
-        "label": "Mandible is the ONLY movable bone in the skull"
+        "key": "Vertebral Column",
+        "label": "26 serial units (Adult)"
       },
       {
-        "key": "Total Facial Count",
-        "label": "14 facial bones"
+        "key": "Thoracic Cage",
+        "label": "1 Sternum + 24 Ribs (12 pairs) [Total Axial = 80]"
       }
     ],
-    "doodleBadge": "14 Facial Bones\n(Mandible & Vomer are Single)",
-    "doodleSubtext": "Facial Architecture",
-    "explanation": "The mandible articulates with the temporal bone to form the Temporomandibular Joint (TMJ), the only synovial joint in the skull.",
-    "alsoRemember": "Zygomatic bone is commonly called the cheek bone.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.3.1.",
-    "neetTrap": "Mandible and Vomer are the ONLY TWO UNPAIRED facial bones; all other 6 types are paired.",
+    "doodleBadge": "Skull 22, Hyoid 1, Ear O",
+    "doodleSubtext": "Axial Skeleton Division ",
+    "explanation": "Comprehensive bone count accounting for all axial components along the body axis.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Axial Skeleton Division (80 Bones Breakdown).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.20",
     "tags": [
-      "Facial Bones",
-      "Mandible",
-      "Maxilla",
-      "Zygomatic",
-      "Vomer",
-      "Skull"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Axial"
     ],
-    "expandedMeaning": "Systematic inventory and pairing status of the human viscerocranium.",
-    "whyItWorks": "Mnemonic sentence covers all 8 types with clear paired vs single tally.",
-    "visualDescription": "Facial skeleton color-coded showing single green Mandible/Vomer and paired blue cheek, nose, and palate plates.",
-    "neetRelevance": "Tested in bone counts and unpaired skull bone identification.",
-    "commonMistake": "Thinking maxilla is a single unpaired bone.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.3.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 20,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is the ONLY movable bone in the entire human skull?",
+      "question": "Which of the following is associated with \"Axial Skeleton Division (80 Bones Breakdown)\" in NEET Biology?",
       "options": [
-        "Maxilla",
-        "Frontal bone",
-        "Mandible",
-        "Zygomatic bone"
+        "22 bones (Cranium 8 + Facial 14)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "The Mandible (lower jaw bone) is the only movable bone in the skull, forming the temporomandibular joint."
+      "answerIndex": 0,
+      "explanation": "Correct: \"22 bones (Cranium 8 + Facial 14)\". Remember using: \"Skull 22, Hyoid 1, Ear Ossicles 6, Vertebrae 26, Sternum 1, Ribs 24\"."
     }
   },
   {
@@ -1168,70 +1043,75 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-1",
-    "topicTitle": "Ear Ossicles: Malleus, Incus, Stapes",
-    "topic": "MIS / HAS: Hammer, Anvil, Stirrup and Sound Amplification",
+    "classLevel": 11,
+    "topicId": "bio-top-17-2",
+    "topicTitle": "Cranial Bones (8 Bones)",
+    "topic": "Cranial Bones (8 Bones)",
     "mnemonicNumber": 17,
-    "title": "Ear Ossicles: MIS = HAS (Malleus/Hammer -> Incus/Anvil -> Stapes/Stirrup -> Oval Window)",
-    "badgeText": "Memory Trick",
+    "title": "Cranial Bones (8 Bones): \"PEST OF (Parietal, Ethmoid, Sphenoid, Temporal, Occipital, Frontal)\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "acronym",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "MIS = Malleus (Hammer shaped, touches Tympanum) -> Incus (Anvil shaped) -> Stapes (Stirrup shaped, smallest bone in body, fits into Oval Window / Fenestra Ovalis)",
-    "memoryHook": "MIS matches HAS! Malleus = Hammer, Incus = Anvil, Stapes = Stirrup. They act as mechanical levers amplifying sound vibrations ~20 times from the big ear drum to the tiny oval window!",
-    "fact": "Each middle ear contains 3 tiny bones called ear ossicles (total 6 in skull): Malleus (hammer-shaped, attached to tympanic membrane), Incus (anvil-shaped), and Stapes (stirrup-shaped, attached to oval window / fenestra ovalis of cochlea). Stapes is the smallest bone in the human body. They increase the efficiency of transmission of sound waves into the inner ear.",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "PEST OF (Parietal, Ethmoid, Sphenoid, Temporal, Occipital, Frontal)",
+    "memoryHook": "PEST OF (Parietal, Ethmoid, Sphenoid, Temporal, Occipital, Frontal)",
+    "fact": "P: Parietal (2). E: Ethmoid (1). S: Sphenoid (1). T: Temporal (2). O: Occipital (1) - features 2 occipital condyles (dicondyllic skull). F: Frontal (1)",
     "breakdown": [
       {
-        "key": "M - Malleus (Hammer)",
-        "label": "Attached to inner surface of tympanic membrane (eardrum)"
+        "key": "P",
+        "label": "Parietal (2)"
       },
       {
-        "key": "I - Incus (Anvil)",
-        "label": "Intermediate bridging ossicle connecting malleus to stapes"
+        "key": "E",
+        "label": "Ethmoid (1)"
       },
       {
-        "key": "S - Stapes (Stirrup)",
-        "label": "Smallest bone in human body; base plate fits into Oval Window"
+        "key": "S",
+        "label": "Sphenoid (1)"
       },
       {
-        "key": "Function",
-        "label": "Amplifies acoustic vibrations ~20x before entering perilymph of cochlea"
+        "key": "T",
+        "label": "Temporal (2)"
+      },
+      {
+        "key": "O",
+        "label": "Occipital (1) - features 2 occipital condyles (dicondyllic skull)"
+      },
+      {
+        "key": "F",
+        "label": "Frontal (1)"
       }
     ],
-    "doodleBadge": "Malleus -> Incus -> Stapes\nHammer -> Anvil -> Stirrup",
-    "doodleSubtext": "Ear Ossicle Lever",
-    "explanation": "The tensor tympani and stapedius muscles protect the inner ear from loud damaging noises by damping ossicle vibrations.",
-    "alsoRemember": "Stapedius is the smallest skeletal muscle in the human body (innervated by facial nerve).",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.3.1 & 21.6.2.",
-    "neetTrap": "Stapes attaches to the OVAL WINDOW (Fenestra ovalis), NOT the round window.",
+    "doodleBadge": "PEST OF (Parietal, Ethmo",
+    "doodleSubtext": "Cranial Bones (8 Bones)",
+    "explanation": "Eight protective bones enclosing the cranial cavity and brain.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Cranial Bones (8 Bones).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.20",
     "tags": [
-      "Ear Ossicles",
-      "Malleus",
-      "Incus",
-      "Stapes",
-      "Oval Window",
-      "Middle Ear"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Cranial"
     ],
-    "expandedMeaning": "Acoustic impedance-matching biomechanical ossicular chain of the human middle ear cavity.",
-    "whyItWorks": "MIS = HAS paired shape acronym.",
-    "visualDescription": "Tympanic membrane connected to hammer Malleus, hitting anvil Incus, pushing stirrup Stapes into oval cochlear window.",
-    "neetRelevance": "Frequently tested in both locomotion (bone counts) and neural control (ear anatomy).",
-    "commonMistake": "Attaching stapes to the round window instead of the oval window.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.3.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 20,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which is the smallest bone in the human body, and which structure does it attach to?",
+      "question": "Which of the following is associated with \"Cranial Bones (8 Bones)\" in NEET Biology?",
       "options": [
-        "Malleus, attached to tympanum",
-        "Incus, attached to eustachian tube",
-        "Stapes, attached to oval window",
-        "Pisiform, attached to carpal"
+        "Parietal (2)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "The Stapes (stirrup) is the smallest bone in the human body and attaches directly to the oval window (fenestra ovalis)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Parietal (2)\". Remember using: \"PEST OF (Parietal, Ethmoid, Sphenoid, Temporal, Occipital, Frontal)\"."
     }
   },
   {
@@ -1240,73 +1120,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
     "topicId": "bio-top-17-2",
-    "topicTitle": "Neuromuscular Junction Transmission",
-    "topic": "Motor End Plate, Acetylcholine (ACh), and T-Tubule Action Potential",
+    "topicTitle": "Facial Bones (14 Bones) & Hyoid",
+    "topic": "Facial Bones (14 Bones) & Hyoid",
     "mnemonicNumber": 18,
-    "title": "Neuromuscular Junction: Motor Neuron -> ACh at Motor End Plate -> Sarcolemma Action Potential -> Ca2+ Flood from SR",
-    "badgeText": "Sequence",
-    "importance": "Must Know",
+    "title": "Facial Bones (14 Bones) & Hyoid: \"Facial 14 Bones + Single U-shaped Hyoid at Base of Buccal Cavity\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "medium",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Nerve Impulse arrives at Axon Terminal -> Exocytosis of Acetylcholine (ACh) into synaptic cleft -> Binds ACh receptors on Motor End Plate -> Generates Action Potential in Sarcolemma -> Spreads down T-tubules -> Sarcoplasmic Reticulum releases Ca2+ into Sarcoplasm!",
-    "memoryHook": "Signal reaches nerve terminal -> drops ACh chemical letters -> unlocks motor end plate gates -> electrical wave dives down T-tubule pipes -> kicks open Sarcoplasmic Reticulum calcium gates -> Ca2+ floods sarcomere to start contraction!",
-    "fact": "A motor neuron along with the muscle fibres it connects to forms a Motor Unit. The junction between a motor neuron and the sarcolemma of the muscle fibre is called the Neuromuscular Junction or Motor End-Plate. A neural signal reaching this junction releases Acetylcholine (ACh) generating an action potential in the sarcolemma. This spreads through the muscle fibre via transverse (T) tubules, causing release of Ca²⁺ from the sarcoplasmic reticulum into the sarcoplasm.",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Facial 14 Bones + Single U-shaped Hyoid at Base of Buccal Cavity",
+    "memoryHook": "Facial 14 Bones + Single U-shaped Hyoid at Base of Buccal Cavity",
+    "fact": "Facial Skeleton: 14 bones forming front part of skull (Mandible, Maxillae, Zygomatic, Nasal, Lacrimal, Palatine, Vomer, Inferior Nasal Conchae). Mandible: Only movable skull bone (except ear ossicles). Hyoid Bone: Single U-shaped bone located at base of buccal cavity (not articulated with any other bone)",
     "breakdown": [
       {
-        "key": "Motor Unit",
-        "label": "Single motor neuron + all skeletal muscle fibres it innervates"
+        "key": "Facial Skeleton",
+        "label": "14 bones forming front part of skull (Mandible, Maxillae, Zygomatic, Nasal, Lacrimal, Palatine, Vomer, Inferior Nasal Conchae)"
       },
       {
-        "key": "Neurotransmitter",
-        "label": "Acetylcholine (ACh) stored in synaptic vesicles"
+        "key": "Mandible",
+        "label": "Only movable skull bone (except ear ossicles)"
       },
       {
-        "key": "Motor End Plate",
-        "label": "Highly folded sarcolemma containing nicotinic acetylcholine receptors"
-      },
-      {
-        "key": "T-Tubules & Triad",
-        "label": "Invaginations carrying action potentials deep into muscle fibres to terminal cisternae of SR"
-      },
-      {
-        "key": "Calcium Release",
-        "label": "Triggers Ca²⁺ release into sarcoplasm, initiating sliding filament mechanism"
+        "key": "Hyoid Bone",
+        "label": "Single U-shaped bone located at base of buccal cavity (not articulated with any other bone)"
       }
     ],
-    "doodleBadge": "ACh -> Sarcolemma AP -> T-Tubule -> SR Ca2+ Out",
-    "doodleSubtext": "Excitation-Contraction",
-    "explanation": "Acetylcholinesterase enzyme in the synaptic cleft rapidly destroys ACh to allow muscle relaxation.",
-    "alsoRemember": "Botulinum toxin (Botox) prevents ACh release, causing flaccid muscle paralysis.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.2.2.",
-    "neetTrap": "A motor unit consists of ONE motor neuron and ALL muscle fibres it innervates (not multiple motor neurons).",
+    "doodleBadge": "Facial 14 Bones + Single",
+    "doodleSubtext": "Facial Bones (14 Bones) ",
+    "explanation": "Anterior skull elements supporting facial structure and tongue attachment. Chapter 17: Locomotion and Movement (30 Mnemonics) \tPage 3",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Facial Bones (14 Bones) & Hyoid.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.20",
     "tags": [
-      "Neuromuscular Junction",
-      "Motor Unit",
-      "Acetylcholine",
-      "T-tubules",
-      "Sarcoplasmic Reticulum"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Facial"
     ],
-    "expandedMeaning": "Electrophysiological excitation-contraction coupling sequence at the somatic skeletal motor end-plate.",
-    "whyItWorks": "Stepwise electrochemical relay from nerve terminal to calcium flood.",
-    "visualDescription": "Synaptic bulb releasing blue ACh dots onto folded muscle plate, sparking lightning wave down vertical T-tube to purple SR tank.",
-    "neetRelevance": "Core concept in excitation-contraction coupling.",
-    "commonMistake": "Thinking each muscle fibre has its own separate motor neuron.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.2.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 20,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "A motor unit is composed of:",
+      "question": "Which of the following is associated with \"Facial Bones (14 Bones) & Hyoid\" in NEET Biology?",
       "options": [
-        "All motor neurons in a spinal nerve",
-        "A single motor neuron and all the muscle fibres it innervates",
-        "A single muscle fibre and all sensory nerves",
-        "A sarcomere and its surrounding T-tubules"
+        "14 bones forming front part of skull (Mandible, Maxillae, Zygomatic, Nasal, Lacr",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "A motor unit is defined as a single motor neuron together with all the muscle fibres it supplies and innervates."
+      "answerIndex": 0,
+      "explanation": "Correct: \"14 bones forming front part of skull (Mandible, Maxillae, Zygomatic, Nasal, Lacrimal, Palatine, Vomer, Inferior Nasal Conchae)\". Remember using: \"Facial 14 Bones + Single U-shaped Hyoid at Base of Buccal Cavity\"."
     }
   },
   {
@@ -1315,69 +1185,63 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
     "topicId": "bio-top-17-2",
-    "topicTitle": "Cori Cycle & Muscle Fatigue",
-    "topic": "Lactic Acid Fermentation and Hepatic Glycogen Regeneration",
+    "topicTitle": "Ear Ossicles (3 Pairs = 6 Bones)",
+    "topic": "Ear Ossicles (3 Pairs = 6 Bones)",
     "mnemonicNumber": 19,
-    "title": "Cori Cycle: Anaerobic Muscle Glycogen -> Lactic Acid -> Blood -> Liver Gluconeogenesis -> Glucose -> Muscle",
-    "badgeText": "Sequence",
-    "importance": "Medium Yield",
-    "difficulty": "medium",
+    "title": "Ear Ossicles (3 Pairs = 6 Bones): \"MIS (Malleus, Incus, Stapes) - Hammer, Anvil, Stirrup\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Strenuous Exercise -> Anaerobic Glycolysis in Muscle -> Lactic Acid buildup (Fatigue & Cramps) -> Diffuses into Blood -> Transported to LIVER -> Converted back to Glucose via Gluconeogenesis -> Returns to Muscle as Glycogen!",
-    "memoryHook": "When oxygen runs out, muscles make lactic acid and cramp! Blood carries lactic acid to the Liver kitchen, which spends ATP to bake it back into fresh Glucose (Cori Cycle)!",
-    "fact": "Repeated activation of muscles during strenuous exercise leads to accumulation of lactic acid due to anaerobic breakdown of glycogen, causing muscle fatigue. Lactic acid diffuses into blood and reaches the liver. In the liver, lactic acid is converted back to glucose via gluconeogenesis (the Cori Cycle), which can return to muscle tissue to replenish glycogen stores.",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "MIS (Malleus, Incus, Stapes) - Hammer, Anvil, Stirrup",
+    "memoryHook": "MIS (Malleus, Incus, Stapes) - Hammer, Anvil, Stirrup",
+    "fact": "M: Malleus (Hammer-shaped, attached to tympanic membrane). I: Incus (Anvil-shaped). S: Stapes (Stirrup-shaped, smallest bone in body, attached to oval window)",
     "breakdown": [
       {
-        "key": "Muscle State",
-        "label": "Anaerobic glycogen breakdown produces Lactic acid + 2 ATP, causing muscle fatigue"
+        "key": "M",
+        "label": "Malleus (Hammer-shaped, attached to tympanic membrane)"
       },
       {
-        "key": "Transport",
-        "label": "Lactic acid enters blood circulation to reach liver"
+        "key": "I",
+        "label": "Incus (Anvil-shaped)"
       },
       {
-        "key": "Liver Processing",
-        "label": "Lactate dehydrogenase converts lactic acid -> pyruvate -> glucose (consumes 6 ATP)"
-      },
-      {
-        "key": "Recovery (Oxygen Debt)",
-        "label": "Extra oxygen breathed after exercise pays back ATP spent by liver in converting lactate"
+        "key": "S",
+        "label": "Stapes (Stirrup-shaped, smallest bone in body, attached to oval window)"
       }
     ],
-    "doodleBadge": "Muscle Lactic Acid -> Blood -> Liver Glucose",
-    "doodleSubtext": "Cori Cycle Recycle",
-    "explanation": "Oxygen debt is the amount of extra oxygen required after vigorous exercise to metabolize accumulated lactic acid.",
-    "alsoRemember": "Lactic acid buildup lowers sarcoplasmic pH, inhibiting phosphofructokinase and causing fatigue.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.2.2.",
-    "neetTrap": "Lactic acid is converted back to glucose in the LIVER, not inside the fatigued muscle fibres.",
+    "doodleBadge": "MIS (Malleus, Incus, Sta",
+    "doodleSubtext": "Ear Ossicles (3 Pairs = ",
+    "explanation": "Middle ear ossicular chain amplifying acoustic vibrations toward cochlea.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Ear Ossicles (3 Pairs = 6 Bones).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.21",
     "tags": [
-      "Cori Cycle",
-      "Lactic Acid",
-      "Muscle Fatigue",
-      "Gluconeogenesis",
-      "Oxygen Debt"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Ear"
     ],
-    "expandedMeaning": "Inter-organ metabolic cycling of lactate and glucose between contracting skeletal muscle and hepatocytes.",
-    "whyItWorks": "Muscle (waste maker) -> Liver (glucose baker) loop.",
-    "visualDescription": "Circular diagram connecting red arm muscle (lactic acid arrow) to brown liver lobe (glucose arrow returning).",
-    "neetRelevance": "Common in muscle energetics and biochemical fatigue questions.",
-    "commonMistake": "Believing muscles directly convert lactic acid back into glucose.",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.2.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 21,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Muscle fatigue during sustained strenuous physical activity is primarily caused by the accumulation of:",
+      "question": "Which of the following is associated with \"Ear Ossicles (3 Pairs = 6 Bones)\" in NEET Biology?",
       "options": [
-        "Pyruvic acid",
-        "Lactic acid",
-        "Uric acid",
-        "Carbonic acid"
+        "Malleus (Hammer-shaped, attached to tympanic membrane)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Muscle fatigue is caused by the accumulation of lactic acid produced by anaerobic breakdown of glycogen."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Malleus (Hammer-shaped, attached to tympanic membrane)\". Remember using: \"MIS (Malleus, Incus, Stapes) - Hammer, Anvil, Stirrup\"."
     }
   },
   {
@@ -1386,75 +1250,725 @@ export const bioCh17Mnemonics = [
     "chapterId": "bio-ch-17",
     "chapterNumber": 17,
     "chapterTitle": "Locomotion and Movement",
-    "topicId": "bio-top-17-1",
-    "topicTitle": "Coxal Bone Triradiate Fusion",
-    "topic": "Ilium, Ischium, and Pubis Forming Innominate Hip Bone",
+    "classLevel": 11,
+    "topicId": "bio-top-17-2",
+    "topicTitle": "Human Vertebral Column Formula",
+    "topic": "Human Vertebral Column Formula",
     "mnemonicNumber": 20,
-    "title": "Coxal Bone: 3 Bones Fuse (Superior Ilium + Postero-Inferior Ischium + Antero-Inferior Pubis) -> Acetabulum",
-    "badgeText": "Concept",
-    "importance": "Medium Yield",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Each Hip Bone (Coxal Bone) = Ilium (Upper broad wing) + Ischium (Sitting bone behind) + Pubis (Front bone meeting at pubic symphysis) -> All 3 fuse at the Acetabulum!",
-    "memoryHook": "Put your hands on your hips = touching Ilium crest! Sit down on a chair = sitting on Ischium tuberosity! Front belt buckle line = Pubis joining at Pubic Symphysis!",
-    "fact": "Each coxal bone (innominate bone / pelvic half) is formed by the fusion of three bones: Ilium (large superior flaring wing with iliac crest), Ischium (inferior and posterior part on which we sit), and Pubis (anterior and inferior part). At the point of fusion of these three bones is the cup-shaped cavity called Acetabulum for articulation with the femur head. The large opening between ischium and pubis is the Obturator Foramen.",
+    "title": "Human Vertebral Column Formula: \"C7 T12 L5 S(5 fused-1) Co(4 fused-1)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "C7 T12 L5 S(5 fused-1) Co(4 fused-1)",
+    "memoryHook": "C7 T12 L5 S(5 fused-1) Co(4 fused-1)",
+    "fact": "Cervical (C): 7 (Atlas C1 articulates with occipital condyles; Axis C2). Thoracic (T): 12. Lumbar (L): 5. Sacral (S): 1 (5 fused in adult). Coccygeal (Co): 1 (4 fused in adult) [Total adult vertebrae = 26]",
     "breakdown": [
       {
-        "key": "Ilium",
-        "label": "Superior, largest flaring portion with palpable Iliac crest"
+        "key": "Cervical (C)",
+        "label": "7 (Atlas C1 articulates with occipital condyles; Axis C2)"
       },
       {
-        "key": "Ischium",
-        "label": "Postero-inferior curved bone with prominent ischial tuberosity (sitting bone)"
+        "key": "Thoracic (T)",
+        "label": "12"
       },
       {
-        "key": "Pubis",
-        "label": "Anterior portion; two pubic bones articulate ventrally at Pubic Symphysis with fibrous cartilage"
+        "key": "Lumbar (L)",
+        "label": "5"
+      },
+      {
+        "key": "Sacral (S)",
+        "label": "1 (5 fused in adult)"
+      },
+      {
+        "key": "Coccygeal (Co)",
+        "label": "1 (4 fused in adult) [Total adult vertebrae = 26]"
+      }
+    ],
+    "doodleBadge": "C7 T12 L5 S(5 fused-1) C",
+    "doodleSubtext": "Human Vertebral Column F",
+    "explanation": "Segmental numerical distribution of vertebral segments protecting spinal cord.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Human Vertebral Column Formula.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.21",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Human"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 21,
+      "chapter": "Locomotion and Movement"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Human Vertebral Column Formula\" in NEET Biology?",
+      "options": [
+        "Cervical (C): 7 (Atlas C1 articulates with occipital condyles; Axis C2)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Cervical (C): 7 (Atlas C1 articulates with occipital condyles; Axis C2)\". Remember using: \"C7 T12 L5 S(5 fused-1) Co(4 fused-1)\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch17-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-17",
+    "chapterNumber": 17,
+    "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
+    "topicId": "bio-top-17-3",
+    "topicTitle": "Rib Types (True, False, Floating)",
+    "topic": "Rib Types (True, False, Floating)",
+    "mnemonicNumber": 21,
+    "title": "Rib Types (True, False, Floating): \"True 1-7 (Vertebrosternal), False 8-10 (Vertebrochondral), Floating 11-12\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "True 1-7 (Vertebrosternal), False 8-10 (Vertebrochondral), Floating 11-12",
+    "memoryHook": "True 1-7 (Vertebrosternal), False 8-10 (Vertebrochondral), Floating 11-12",
+    "fact": "True Ribs (1–7 pairs): Dorsally attached to thoracic vertebrae, ventrally directly to sternum via hyaline cartilage. False Ribs (8, 9, 10 pairs): Join 7th rib via hyaline cartilage (Vertebrochondral). Floating Ribs (11, 12 pairs): Ventrally unattached/free",
+    "breakdown": [
+      {
+        "key": "True Ribs (1–7 pairs)",
+        "label": "Dorsally attached to thoracic vertebrae, ventrally directly to sternum via hyaline cartilage"
+      }
+    ],
+    "doodleBadge": "True 1-7 (Vertebrosterna",
+    "doodleSubtext": "Rib Types (True, False, ",
+    "explanation": "Classification of 12 pairs of ribs based on ventral attachment to sternum.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Rib Types (True, False, Floating).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.21",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Rib"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 21,
+      "chapter": "Locomotion and Movement"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Rib Types (True, False, Floating)\" in NEET Biology?",
+      "options": [
+        "True Ribs (1–7 pairs): Dorsally attached to thoracic vertebrae, ventrally direct",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"True Ribs (1–7 pairs): Dorsally attached to thoracic vertebrae, ventrally directly to sternum via hyaline cartilage\". Remember using: \"True 1-7 (Vertebrosternal), False 8-10 (Vertebrochondral), Floating 11-12\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch17-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-17",
+    "chapterNumber": 17,
+    "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
+    "topicId": "bio-top-17-3",
+    "topicTitle": "Bones of Upper Limb (30 per Limb = 60 Total)",
+    "topic": "Bones of Upper Limb (30 per Limb = 60 Total)",
+    "mnemonicNumber": 22,
+    "title": "Bones of Upper Limb (30 per Limb = 60 Total): \"Humerus 1, Radius 1, Ulna 1, Carpals 8, Metacarpals 5, Phalanges 14\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Humerus 1, Radius 1, Ulna 1, Carpals 8, Metacarpals 5, Phalanges 14",
+    "memoryHook": "Humerus 1, Radius 1, Ulna 1, Carpals 8, Metacarpals 5, Phalanges 14",
+    "fact": "Arm: Humerus (1). Forearm: Radius (1) + Ulna (1). Wrist: Carpals (8). Palm: Metacarpals (5). Digits: Phalanges (14: formula 2,3,3,3,3) [Total per arm = 30]",
+    "breakdown": [
+      {
+        "key": "Arm",
+        "label": "Humerus (1)"
+      },
+      {
+        "key": "Forearm",
+        "label": "Radius (1) + Ulna (1)"
+      },
+      {
+        "key": "Wrist",
+        "label": "Carpals (8)"
+      },
+      {
+        "key": "Palm",
+        "label": "Metacarpals (5)"
+      },
+      {
+        "key": "Digits",
+        "label": "Phalanges (14: formula 2,3,3,3,3) [Total per arm = 30]"
+      }
+    ],
+    "doodleBadge": "Humerus 1, Radius 1, Uln",
+    "doodleSubtext": "Bones of Upper Limb (30 ",
+    "explanation": "Anatomical order and bone count of forelimb elements from shoulder to fingertips.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Bones of Upper Limb (30 per Limb = 60 Total).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.21",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Bones"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 21,
+      "chapter": "Locomotion and Movement"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Bones of Upper Limb (30 per Limb = 60 Total)\" in NEET Biology?",
+      "options": [
+        "Humerus (1)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Humerus (1)\". Remember using: \"Humerus 1, Radius 1, Ulna 1, Carpals 8, Metacarpals 5, Phalanges 14\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch17-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-17",
+    "chapterNumber": 17,
+    "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
+    "topicId": "bio-top-17-3",
+    "topicTitle": "Bones of Lower Limb (30 per Limb = 60 Total)",
+    "topic": "Bones of Lower Limb (30 per Limb = 60 Total)",
+    "mnemonicNumber": 23,
+    "title": "Bones of Lower Limb (30 per Limb = 60 Total): \"Femur 1, Patella 1, Tibia 1, Fibula 1, Tarsals 7, Metatarsals 5, Phalanges 14\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Femur 1, Patella 1, Tibia 1, Fibula 1, Tarsals 7, Metatarsals 5, Phalanges 14",
+    "memoryHook": "Femur 1, Patella 1, Tibia 1, Fibula 1, Tarsals 7, Metatarsals 5, Phalanges 14",
+    "fact": "Thigh: Femur (1, longest & strongest bone). Knee: Patella (1, sesamoid bone in knee cap). Shank: Tibia (1) + Fibula (1). Ankle: Tarsals (7) | Sole: Metatarsals (5) | Toes: Phalanges (14) [Total per leg = 30]",
+    "breakdown": [
+      {
+        "key": "Thigh",
+        "label": "Femur (1, longest & strongest bone)"
+      },
+      {
+        "key": "Knee",
+        "label": "Patella (1, sesamoid bone in knee cap)"
+      },
+      {
+        "key": "Shank",
+        "label": "Tibia (1) + Fibula (1)"
+      },
+      {
+        "key": "Ankle",
+        "label": "Tarsals (7) | Sole: Metatarsals (5) | Toes: Phalanges (14) [Total per leg = 30]"
+      }
+    ],
+    "doodleBadge": "Femur 1, Patella 1, Tibi",
+    "doodleSubtext": "Bones of Lower Limb (30 ",
+    "explanation": "Anatomical order and bone count of hindlimb elements supporting weight bearing.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Bones of Lower Limb (30 per Limb = 60 Total).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.21",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Bones"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 21,
+      "chapter": "Locomotion and Movement"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Bones of Lower Limb (30 per Limb = 60 Total)\" in NEET Biology?",
+      "options": [
+        "Femur (1, longest & strongest bone)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Femur (1, longest & strongest bone)\". Remember using: \"Femur 1, Patella 1, Tibia 1, Fibula 1, Tarsals 7, Metatarsals 5, Phalanges 14\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch17-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-17",
+    "chapterNumber": 17,
+    "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
+    "topicId": "bio-top-17-3",
+    "topicTitle": "Pectoral Girdle (Shoulder Girdle - 4 Bones Total)",
+    "topic": "Pectoral Girdle (Shoulder Girdle - 4 Bones Total)",
+    "mnemonicNumber": 24,
+    "title": "Pectoral Girdle (Shoulder Girdle - 4 Bones Total): \"Clavicle Collar Bone + Scapula Shoulder Blade (Glenoid Cavity)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Clavicle Collar Bone + Scapula Shoulder Blade (Glenoid Cavity)",
+    "memoryHook": "Clavicle Collar Bone + Scapula Shoulder Blade (Glenoid Cavity)",
+    "fact": "Clavicle (2): Long slender collar bone with 2 curvatures. Scapula (2): Large triangular flat bone on dorsal thorax between 2nd and 7th ribs. Features: Acromion process articulates with clavicle; Glenoid cavity articulates with humerus head",
+    "breakdown": [
+      {
+        "key": "Clavicle (2)",
+        "label": "Long slender collar bone with 2 curvatures"
+      },
+      {
+        "key": "Scapula (2)",
+        "label": "Large triangular flat bone on dorsal thorax between 2nd and 7th ribs"
+      },
+      {
+        "key": "Features",
+        "label": "Acromion process articulates with clavicle; Glenoid cavity articulates with humerus head"
+      }
+    ],
+    "doodleBadge": "Clavicle Collar Bone + S",
+    "doodleSubtext": "Pectoral Girdle (Shoulde",
+    "explanation": "Pectoral components anchoring upper limbs to axial trunk via mobile articulation. Chapter 17: Locomotion and Movement (30 Mnemonics) \tPage 4",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Pectoral Girdle (Shoulder Girdle - 4 Bones Total).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.21",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Pectoral"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 21,
+      "chapter": "Locomotion and Movement"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Pectoral Girdle (Shoulder Girdle - 4 Bones Total)\" in NEET Biology?",
+      "options": [
+        "Clavicle (2): Long slender collar bone with 2 curvatures",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Clavicle (2): Long slender collar bone with 2 curvatures\". Remember using: \"Clavicle Collar Bone + Scapula Shoulder Blade (Glenoid Cavity)\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch17-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-17",
+    "chapterNumber": 17,
+    "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
+    "topicId": "bio-top-17-3",
+    "topicTitle": "Pelvic Girdle Structure (Coxal Bones)",
+    "topic": "Pelvic Girdle Structure (Coxal Bones)",
+    "mnemonicNumber": 25,
+    "title": "Pelvic Girdle Structure (Coxal Bones): \"Pelvic Girdle = 2 Coxal Bones (Ilium, Ischium, Pubis) + Acetabulum\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Pelvic Girdle = 2 Coxal Bones (Ilium, Ischium, Pubis) + Acetabulum",
+    "memoryHook": "Pelvic Girdle = 2 Coxal Bones (Ilium, Ischium, Pubis) + Acetabulum",
+    "fact": "Coxal Bone: Each formed by fusion of 3 bones: Ilium, Ischium, and Pubis. Acetabulum: Deep cavity at fusion point articulating with head of femur. Pubic Symphysis: Joint uniting two halves ventrally containing fibrous cartilage",
+    "breakdown": [
+      {
+        "key": "Coxal Bone",
+        "label": "Each formed by fusion of 3 bones: Ilium, Ischium, and Pubis"
       },
       {
         "key": "Acetabulum",
-        "label": "Deep hemispherical socket formed at junction of all 3 bones for femoral head"
+        "label": "Deep cavity at fusion point articulating with head of femur"
       },
       {
-        "key": "Obturator Foramen",
-        "label": "Largest foramen in human skeleton, enclosed by ischium and pubis"
+        "key": "Pubic Symphysis",
+        "label": "Joint uniting two halves ventrally containing fibrous cartilage"
       }
     ],
-    "doodleBadge": "Ilium (Top) + Ischium (Back) + Pubis (Front)\n-> Acetabulum Socket",
-    "doodleSubtext": "Coxal Bone Fusion",
-    "explanation": "The relaxin hormone softens the pubic symphysis fibrous cartilage during childbirth to widen the birth canal.",
-    "alsoRemember": "Obturator foramen is the largest foramen in the human skeleton.",
-    "ncertConnection": "NCERT Class 11 Biology Section 20.3.4.",
-    "neetTrap": "The two pubic bones meet ventrally at the pubic symphysis containing FIBROUS CARTILAGE (not hyaline cartilage).",
+    "doodleBadge": "Pelvic Girdle = 2 Coxal ",
+    "doodleSubtext": "Pelvic Girdle Structure ",
+    "explanation": "Pelvic structure transmitting upper body weight to hindlimbs via stable bony ring.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Pelvic Girdle Structure (Coxal Bones).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.22",
     "tags": [
-      "Coxal Bone",
-      "Pelvis",
-      "Ilium",
-      "Ischium",
-      "Pubis",
-      "Pubic Symphysis",
-      "Obturator Foramen"
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Pelvic"
     ],
-    "expandedMeaning": "Tri-element synostosis and architectural morphology of the mammalian os coxae.",
-    "whyItWorks": "Top (Ilium) + Bottom back (Ischium) + Front (Pubis) spatial orientation.",
-    "visualDescription": "Pelvic half showing 3 distinct color regions (Ilium pink, Ischium blue, Pubis yellow) converging into central Acetabulum circle.",
-    "neetRelevance": "Classic NCERT anatomy and cartilage type matching.",
-    "commonMistake": "Stating that pubic symphysis contains hyaline cartilage (it contains fibrous cartilage).",
-    "sourceReference": "NCERT Class 11 Chapter 20 Section 20.3.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 22,
+      "chapter": "Locomotion and Movement"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which type of cartilage is present in the pubic symphysis connecting the two halves of the pelvic girdle ventrally?",
+      "question": "Which of the following is associated with \"Pelvic Girdle Structure (Coxal Bones)\" in NEET Biology?",
       "options": [
-        "Hyaline cartilage",
-        "Elastic cartilage",
-        "Fibrous cartilage",
-        "Calcified cartilage"
+        "Each formed by fusion of 3 bones: Ilium, Ischium, and Pubis",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "The pubic symphysis contains fibrous cartilage, allowing slight give and widening during childbirth."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Each formed by fusion of 3 bones: Ilium, Ischium, and Pubis\". Remember using: \"Pelvic Girdle = 2 Coxal Bones (Ilium, Ischium, Pubis) + Acetabulum\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch17-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-17",
+    "chapterNumber": 17,
+    "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
+    "topicId": "bio-top-17-3",
+    "topicTitle": "Three Major Types of Joints",
+    "topic": "Three Major Types of Joints",
+    "mnemonicNumber": 26,
+    "title": "Three Major Types of Joints: \"Fibrous Immovable, Cartilaginous Slightly Movable, Synovial Freely Movable\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Fibrous Immovable, Cartilaginous Slightly Movable, Synovial Freely Movable",
+    "memoryHook": "Fibrous Immovable, Cartilaginous Slightly Movable, Synovial Freely Movable",
+    "fact": "Fibrous Joints: No movement (e.g., Sutures between flat skull bones). Cartilaginous Joints: Limited movement (e.g., Between adjacent vertebrae in spine). Synovial Joints: Free movement, characterized by fluid-filled synovial cavity",
+    "breakdown": [
+      {
+        "key": "Fibrous Joints",
+        "label": "No movement (e.g., Sutures between flat skull bones)"
+      },
+      {
+        "key": "Cartilaginous Joints",
+        "label": "Limited movement (e.g., Between adjacent vertebrae in spine)"
+      },
+      {
+        "key": "Synovial Joints",
+        "label": "Free movement, characterized by fluid-filled synovial cavity"
+      }
+    ],
+    "doodleBadge": "Fibrous Immovable, Carti",
+    "doodleSubtext": "Three Major Types of Joi",
+    "explanation": "Structural classification of joints based on tissue medium and degree of mobility.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Three Major Types of Joints.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.22",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Three"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 22,
+      "chapter": "Locomotion and Movement"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Three Major Types of Joints\" in NEET Biology?",
+      "options": [
+        "No movement (e.g., Sutures between flat skull bones)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"No movement (e.g., Sutures between flat skull bones)\". Remember using: \"Fibrous Immovable, Cartilaginous Slightly Movable, Synovial Freely Movable\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch17-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-17",
+    "chapterNumber": 17,
+    "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
+    "topicId": "bio-top-17-3",
+    "topicTitle": "Synovial Joints Examples",
+    "topic": "Synovial Joints Examples",
+    "mnemonicNumber": 27,
+    "title": "Synovial Joints Examples: \"Ball Shoulder, Hinge Elbow, Pivot Atlas-Axis, Gliding Carpals, Saddle Thumb\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Ball Shoulder, Hinge Elbow, Pivot Atlas-Axis, Gliding Carpals, Saddle Thumb",
+    "memoryHook": "Ball Shoulder, Hinge Elbow, Pivot Atlas-Axis, Gliding Carpals, Saddle Thumb",
+    "fact": "Ball & Socket: Shoulder (Glenoid + Humerus), Hip (Acetabulum + Femur). Hinge: Elbow joint, Knee joint, Interphalangeal joints. Pivot: Between Atlas (C1) and Axis (C2). Gliding: Between Carpals in wrist. Saddle: Between Carpal and Metacarpal of Thumb",
+    "breakdown": [
+      {
+        "key": "Ball & Socket",
+        "label": "Shoulder (Glenoid + Humerus), Hip (Acetabulum + Femur)"
+      },
+      {
+        "key": "Hinge",
+        "label": "Elbow joint, Knee joint, Interphalangeal joints"
+      },
+      {
+        "key": "Pivot",
+        "label": "Between Atlas (C1) and Axis (C2)"
+      },
+      {
+        "key": "Gliding",
+        "label": "Between Carpals in wrist"
+      },
+      {
+        "key": "Saddle",
+        "label": "Between Carpal and Metacarpal of Thumb"
+      }
+    ],
+    "doodleBadge": "Ball Shoulder, Hinge Elb",
+    "doodleSubtext": "Synovial Joints Examples",
+    "explanation": "Anatomical examples for each major functional subtype of synovial joint.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Synovial Joints Examples.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.22",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Synovial"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 22,
+      "chapter": "Locomotion and Movement"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Synovial Joints Examples\" in NEET Biology?",
+      "options": [
+        "Ball & Socket: Shoulder (Glenoid + Humerus), Hip (Acetabulum + Femur)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Ball & Socket: Shoulder (Glenoid + Humerus), Hip (Acetabulum + Femur)\". Remember using: \"Ball Shoulder, Hinge Elbow, Pivot Atlas-Axis, Gliding Carpals, Saddle Thumb\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch17-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-17",
+    "chapterNumber": 17,
+    "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
+    "topicId": "bio-top-17-3",
+    "topicTitle": "Myasthenia Gravis & Muscular Dystrophy",
+    "topic": "Myasthenia Gravis & Muscular Dystrophy",
+    "mnemonicNumber": 28,
+    "title": "Myasthenia Gravis & Muscular Dystrophy: \"Myasthenia Autoimmune NMJ Fatigue, Dystrophy Genetic Progressive Degeneration\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Myasthenia Autoimmune NMJ Fatigue, Dystrophy Genetic Progressive Degeneration",
+    "memoryHook": "Myasthenia Autoimmune NMJ Fatigue, Dystrophy Genetic Progressive Degeneration",
+    "fact": "Myasthenia Gravis: Autoimmune disorder targeting NMJ receptors; leads to fatigue, weakening, and paralysis of skeletal muscle. Muscular Dystrophy: Progressive degeneration of skeletal muscle, mostly due to genetic mutation (e.g., Duchenne dystrophy)",
+    "breakdown": [
+      {
+        "key": "Myasthenia Gravis",
+        "label": "Autoimmune disorder targeting NMJ receptors; leads to fatigue, weakening, and paralysis of skeletal muscle"
+      },
+      {
+        "key": "Muscular Dystrophy",
+        "label": "Progressive degeneration of skeletal muscle, mostly due to genetic mutation (e.g., Duchenne dystrophy)"
+      }
+    ],
+    "doodleBadge": "Myasthenia Autoimmune NM",
+    "doodleSubtext": "Myasthenia Gravis & Musc",
+    "explanation": "Differential clinical etiology between autoimmune neuromuscular failure and hereditary muscle wasting.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Myasthenia Gravis & Muscular Dystrophy.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.22",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Myasthenia"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 22,
+      "chapter": "Locomotion and Movement"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Myasthenia Gravis & Muscular Dystrophy\" in NEET Biology?",
+      "options": [
+        "Myasthenia Autoimmune NMJ Fatigue, Dystrophy Genetic Progressive Degeneration",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Differential clinical etiology between autoimmune neuromuscular failure and hereditary muscle wasting."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch17-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-17",
+    "chapterNumber": 17,
+    "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
+    "topicId": "bio-top-17-3",
+    "topicTitle": "Tetany Mechanism",
+    "topic": "Tetany Mechanism",
+    "mnemonicNumber": 29,
+    "title": "Tetany Mechanism: \"Low Ca2+ in Body Fluid Causes Rapid Muscle Spasms (Tetany)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Low Ca2+ in Body Fluid Causes Rapid Muscle Spasms (Tetany)",
+    "memoryHook": "Low Ca2+ in Body Fluid Causes Rapid Muscle Spasms (Tetany)",
+    "fact": "Definition: Wild, rapid muscle spasms/contractions. Primary Cause: Hypocalcemia (low level of Ca2+ ions in blood/interstitial fluid)",
+    "breakdown": [
+      {
+        "key": "Definition",
+        "label": "Wild, rapid muscle spasms/contractions"
+      },
+      {
+        "key": "Primary Cause",
+        "label": "Hypocalcemia (low level of Ca2+ ions in blood/interstitial fluid)"
+      }
+    ],
+    "doodleBadge": "Low Ca2+ in Body Fluid C",
+    "doodleSubtext": "Tetany Mechanism",
+    "explanation": "Electrolyte imbalance causing hyperexcitability of neuromuscular membrane and sustained Spasms.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Tetany Mechanism.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.22",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Tetany"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 22,
+      "chapter": "Locomotion and Movement"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Tetany Mechanism\" in NEET Biology?",
+      "options": [
+        "Low Ca2+ in Body Fluid Causes Rapid Muscle Spasms (Tetany)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Electrolyte imbalance causing hyperexcitability of neuromuscular membrane and sustained Spasms."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch17-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-17",
+    "chapterNumber": 17,
+    "chapterTitle": "Locomotion and Movement",
+    "classLevel": 11,
+    "topicId": "bio-top-17-3",
+    "topicTitle": "Arthritis, Osteoporosis, and Gout",
+    "topic": "Arthritis, Osteoporosis, and Gout",
+    "mnemonicNumber": 30,
+    "title": "Arthritis, Osteoporosis, and Gout: \"Arthritis Inflammation, Osteoporosis Low Estrogen Bone Mass, Gout Uric Acid Crystals\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "Arthritis Inflammation, Osteoporosis Low Estrogen Bone Mass, Gout Uric Acid Crystals",
+    "memoryHook": "Arthritis Inflammation, Osteoporosis Low Estrogen Bone Mass, Gout Uric Acid Crystals",
+    "fact": "Arthritis: Inflammation of joints. Osteoporosis: Age-related disorder characterized by decreased bone mass, increased fracture risk; common cause is decreased Estrogen level. Gout: Inflammation of joints due to accumulation of Uric Acid crystals",
+    "breakdown": [
+      {
+        "key": "Arthritis",
+        "label": "Inflammation of joints"
+      },
+      {
+        "key": "Osteoporosis",
+        "label": "Age-related disorder characterized by decreased bone mass, increased fracture risk; common cause is decreased Estrogen level"
+      },
+      {
+        "key": "Gout",
+        "label": "Inflammation of joints due to accumulation of Uric Acid crystals"
+      }
+    ],
+    "doodleBadge": "Arthritis Inflammation, ",
+    "doodleSubtext": "Arthritis, Osteoporosis,",
+    "explanation": "Key diagnostic pathology distinguishing joint inflammation, bone density loss, and metabolic crystal deposition. Chapter 17: Locomotion and Movement (30 Mnemonics) \tPage 5",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 17 (Locomotion and Movement).",
+    "neetTrap": "Pay close attention to exact terminology in Arthritis, Osteoporosis, and Gout.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 17, Page from PDF p.22",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Locomotion and Movement",
+      "Arthritis,"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 22,
+      "chapter": "Locomotion and Movement"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Arthritis, Osteoporosis, and Gout\" in NEET Biology?",
+      "options": [
+        "Inflammation of joints",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Inflammation of joints\". Remember using: \"Arthritis Inflammation, Osteoporosis Low Estrogen Bone Mass, Gout Uric Acid Crystals\"."
     }
   }
 ];

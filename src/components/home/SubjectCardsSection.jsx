@@ -1,6 +1,7 @@
 import React from 'react';
 import { ArrowRight, Atom, FlaskConical, Sprout, Sparkles } from 'lucide-react';
 import { SUBJECTS } from '../../data/subjects';
+import { getMnemonicCountForSubject } from '../../utils/stats';
 import { DoodleSparkle } from '../illustrations/DoodleIllustrations';
 
 export function SubjectCardsSection({ onSelectSubject }) {
@@ -60,7 +61,7 @@ export function SubjectCardsSection({ onSelectSubject }) {
                     {subject.totalChapters} Chapters
                   </span>
                   <span className="px-2 py-0.5 rounded-md bg-white border border-[#243044]/20">
-                    {subject.totalMnemonics} Mnemonics
+                    {getMnemonicCountForSubject(subject.id)} Mnemonics
                   </span>
                 </div>
               </div>

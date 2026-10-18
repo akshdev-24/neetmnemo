@@ -1,6 +1,7 @@
 /**
- * Biology Chapter 16: Excretory Products and Their Elimination
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 16: Excretory Products and Their Elimination
+ * Class 11 Biology (30 verified mnemonics)
+ * Primary Source: NEET Biology Chapter-Wise 30 Mnemonics Master (PDF 1)
  */
 
 export const bioCh16Mnemonics = [
@@ -10,65 +11,63 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
     "topicId": "bio-top-16-1",
-    "topicTitle": "Nitrogenous Waste Toxicity Hierarchy",
-    "topic": "Ammonotelic vs Ureotelic vs Uricotelic Organisms",
+    "topicTitle": "Modes of Excretion (Toxicity & Water Loss Order)",
+    "topic": "Modes of Excretion (Toxicity & Water Loss Order)",
     "mnemonicNumber": 1,
-    "title": "Nitrogenous Waste: Ammonia (Most Toxic/Most Water) > Urea > Uric Acid (Least Toxic/Least Water)",
-    "badgeText": "Memory Trick",
+    "title": "Modes of Excretion (Toxicity & Water Loss Order): \"Ammonia High Toxicity Water, Uric Acid Least Toxicity Paste\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Ammonia (Aquatic Fish - Flood of water) -> Urea (Mammals/Frogs - Medium water) -> Uric Acid (Birds/Reptiles/Insects - Pellet paste)",
-    "memoryHook": "Ammonia needs oceans of water because it is toxic! Urea needs moderate water (urine). Uric acid is non-toxic paste to save every single drop of water in skies and deserts!",
-    "fact": "Ammonia is the most toxic nitrogenous waste requiring large amounts of water for elimination (ammonotelism: bony fishes, aquatic amphibians, aquatic insects). Urea is less toxic requiring moderate water (ureotelism: mammals, terrestrial amphibians, marine fishes). Uric acid is the least toxic and excreted as paste/pellets with minimum water loss (uricotelism: reptiles, birds, land snails, insects).",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Ammonia High Toxicity Water, Uric Acid Least Toxicity Paste",
+    "memoryHook": "Ammonia High Toxicity Water, Uric Acid Least Toxicity Paste",
+    "fact": "Ammonotelism: Ammonia is most toxic, requires maximum water for excretion. Ureotelism: Urea is moderately toxic, requires moderate water. Uricotelism: Uric acid is least toxic, excreted as pellet/paste with minimum water loss",
     "breakdown": [
       {
-        "key": "Ammonotelic (Ammonia)",
-        "label": "Bony fishes, aquatic amphibians, aquatic insects (maximum toxicity & water loss)"
+        "key": "Ammonotelism",
+        "label": "Ammonia is most toxic, requires maximum water for excretion"
       },
       {
-        "key": "Ureotelic (Urea)",
-        "label": "Mammals, terrestrial amphibians (frogs), marine fishes (cartilaginous sharks)"
+        "key": "Ureotelism",
+        "label": "Urea is moderately toxic, requires moderate water"
       },
       {
-        "key": "Uricotelic (Uric Acid)",
-        "label": "Birds, reptiles, land snails, insects (least toxicity, excreted as paste/pellet)"
+        "key": "Uricotelism",
+        "label": "Uric acid is least toxic, excreted as pellet/paste with minimum water loss"
       }
     ],
-    "doodleBadge": "Ammonia > Urea > Uric Acid",
-    "doodleSubtext": "Toxicity & Water Needs",
-    "explanation": "Sharks (marine cartilaginous fishes) retain high levels of urea in their blood to maintain osmotic balance with seawater.",
-    "alsoRemember": "Uricotelic excretion is a vital evolutionary adaptation for terrestrial survival and water conservation.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 19, Section 19.1.",
-    "neetTrap": "Bony fishes are AMMONOTELIC, but Marine Cartilaginous fishes (sharks) are UREOTELIC.",
+    "doodleBadge": "Ammonia High Toxicity Wa",
+    "doodleSubtext": "Modes of Excretion (Toxi",
+    "explanation": "Comparative toxicity ranking and water requirement order of the three major nitrogenous wastes.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Modes of Excretion (Toxicity & Water Loss Order).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.23",
     "tags": [
-      "Excretion",
-      "Ammonotelism",
-      "Ureotelism",
-      "Uricotelism",
-      "Nitrogenous Waste"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Modes"
     ],
-    "expandedMeaning": "Comparative nitrogenous excretion strategies in animal taxa according to ecological water availability.",
-    "whyItWorks": "Descending toxicity gradient directly corresponds to water requirement.",
-    "visualDescription": "Three panels showing a swimming goldfish (Ammonia water splash), a human (Urea), and a sparrow dropping a dry white pellet (Uric acid).",
-    "neetRelevance": "One of the most recurring classification topics in NEET.",
-    "commonMistake": "Classifying birds as ureotelic.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 23,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following groups of animals is entirely uricotelic (excreting nitrogenous waste as uric acid pellets)?",
+      "question": "Which of the following is associated with \"Modes of Excretion (Toxicity & Water Loss Order)\" in NEET Biology?",
       "options": [
-        "Bony fishes and aquatic amphibians",
-        "Mammals and terrestrial amphibians",
-        "Reptiles, birds, land snails, and insects",
-        "Marine fishes and sharks"
+        "Ammonia is most toxic, requires maximum water for excretion",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Reptiles, birds, land snails, and insects excrete uric acid in the form of pellet or paste with minimum water loss."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Ammonia is most toxic, requires maximum water for excretion\". Remember using: \"Ammonia High Toxicity Water, Uric Acid Least Toxicity Paste\"."
     }
   },
   {
@@ -77,69 +76,55 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
     "topicId": "bio-top-16-1",
-    "topicTitle": "Excretory Structures in Invertebrates",
-    "topic": "Comparative Excretory Organs Across Phyla",
+    "topicTitle": "Ammonotelic Organisms Examples",
+    "topic": "Ammonotelic Organisms Examples",
     "mnemonicNumber": 2,
-    "title": "Excretory Organs: Flame cells (Platyhelminthes), Nephridia (Earthworm), Malpighian (Insects), Antennal/Green (Prawn)",
-    "badgeText": "Classification",
+    "title": "Ammonotelic Organisms Examples: \"Bony Fishes, Aquatic Amphibians, Aquatic Insects\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Flame Cells (Protonephridia = Flatworms / Planaria) | Nephridia (Annelids / Earthworms) | Malpighian Tubules (Insects / Cockroach) | Antennal / Green Glands (Crustaceans / Prawns)",
-    "memoryHook": "Flatworms have Flickering Flames (Protonephridia); Earthworms have Nephridia; Cockroaches have Malpighian noodles; Green Prawns have Green Glands!",
-    "fact": "Protonephridia or flame cells are excretory structures in Platyhelminthes (flatworms like Planaria), rotifers, some annelids, and cephalochordates (Amphioxus). Nephridia are tubular structures in Earthworms and other annelids. Malpighian tubules are excretory organs of insects (Cockroach). Antennal glands or green glands perform excretion in crustaceans (Prawns).",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Bony Fishes, Aquatic Amphibians, Aquatic Insects",
+    "memoryHook": "Bony Fishes, Aquatic Amphibians, Aquatic Insects",
+    "fact": "Bony Fishes (Teleosts). Aquatic Amphibians (e.g., Tadpole of Frog). Aquatic Insects. Diffusion: Ammonia diffuses across body surface or gill surfaces as ammonium ions (NH4+)",
     "breakdown": [
       {
-        "key": "Protonephridia (Flame cells)",
-        "label": "Platyhelminthes (Planaria), Rotifers, Amphioxus (also osmoregulation)"
-      },
-      {
-        "key": "Nephridia",
-        "label": "Annelids (Earthworm)"
-      },
-      {
-        "key": "Malpighian Tubules",
-        "label": "Insects (Cockroach), Arachnids"
-      },
-      {
-        "key": "Green Glands (Antennal Glands)",
-        "label": "Crustaceans (Prawn / Crustacea)"
+        "key": "Diffusion",
+        "label": "Ammonia diffuses across body surface or gill surfaces as ammonium ions (NH4+)"
       }
     ],
-    "doodleBadge": "Flame -> Flatworm\nGreen -> Prawn\nMalpighian -> Insect",
-    "doodleSubtext": "Invertebrate Kidneys",
-    "explanation": "Protonephridia are primarily concerned with osmoregulation (ionic and fluid volume regulation) in primitive invertebrates.",
-    "alsoRemember": "Amphioxus (Lancelet) also possesses protonephridia with solenocytes.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.1.",
-    "neetTrap": "Amphioxus has PROTONEPHRIDIA with solenocytes, not true kidneys.",
+    "doodleBadge": "Bony Fishes, Aquatic Amp",
+    "doodleSubtext": "Ammonotelic Organisms Ex",
+    "explanation": "Organisms living in abundant water environments that excrete highly soluble ammonia directly.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Ammonotelic Organisms Examples.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.23",
     "tags": [
-      "Flame Cells",
-      "Nephridia",
-      "Malpighian Tubules",
-      "Green Glands",
-      "Invertebrate Excretion"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Ammonotelic"
     ],
-    "expandedMeaning": "Phylogenetic survey of invertebrate specialized osmoregulatory and excretory adaptations.",
-    "whyItWorks": "Direct paired rhymes and visual anchors (Green Prawn, Flat Flame).",
-    "visualDescription": "Four animal icons linked to their specialized excretory cell type.",
-    "neetRelevance": "Repeated yearly in Match the Column questions.",
-    "commonMistake": "Matching Green glands with insects instead of crustaceans.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 23,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Antennal glands or green glands perform the excretory function in:",
+      "question": "Which of the following is associated with \"Ammonotelic Organisms Examples\" in NEET Biology?",
       "options": [
-        "Planaria",
-        "Prawns (Crustaceans)",
-        "Cockroach",
-        "Earthworm"
+        "Bony Fishes (Teleosts)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Antennal glands (or green glands) are the excretory structures of crustaceans such as prawns."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Bony Fishes (Teleosts)\". Remember using: \"Bony Fishes, Aquatic Amphibians, Aquatic Insects\"."
     }
   },
   {
@@ -148,65 +133,59 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
     "topicId": "bio-top-16-1",
-    "topicTitle": "Nephron Structure: Cortical vs Juxtamedullary",
-    "topic": "Cortical Nephrons (85%) vs Juxtamedullary Nephrons (15%)",
+    "topicTitle": "Ureotelism & Site of Urea Synthesis",
+    "topic": "Ureotelism & Site of Urea Synthesis",
     "mnemonicNumber": 3,
-    "title": "Nephrons: Cortical (85%, Short Loop, Vasa Recta Absent) vs Juxtamedullary (15%, Long Loop, Vasa Recta Well-Developed)",
-    "badgeText": "Comparison",
-    "importance": "High Yield",
+    "title": "Ureotelism & Site of Urea Synthesis: \"Mammals, Terrestrial Amphibians, Marine Fishes - Urea Made in Liver\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Cortical = 85% Common, Short Loop of Henle, Vasa Recta absent/reduced | Juxtamedullary = 15% Deep, Long Loop deep into medulla, Vasa Recta Well Developed for Concentrating Urine",
-    "memoryHook": "Cortical nephrons stay in the cortex with stubby loops. Juxtamedullary nephrons dive deep into the medulla with long hairpin loops and vascular ladders (Vasa Recta) to make hypertonic urine!",
-    "fact": "Human kidneys have ~1 million nephrons each. In cortical nephrons (~85%), the loop of Henle is too short and extends only very little into the medulla, and vasa recta is absent or highly reduced. In juxtamedullary nephrons (~15%), the loop of Henle is very long and runs deep into the inner medulla, with well-developed vasa recta essential for the countercurrent mechanism.",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Mammals, Terrestrial Amphibians, Marine Fishes - Urea Made in Liver",
+    "memoryHook": "Mammals, Terrestrial Amphibians, Marine Fishes - Urea Made in Liver",
+    "fact": "Organisms: Mammals, terrestrial amphibians (adult frog), and marine fishes (cartilaginous). Site: Ammonia converted into Urea in the LIVER (via Ornithine Cycle) and released into blood",
     "breakdown": [
       {
-        "key": "Cortical Nephrons (85%)",
-        "label": "Short Henle loop, mostly in cortex, vasa recta highly reduced or absent"
+        "key": "Organisms",
+        "label": "Mammals, terrestrial amphibians (adult frog), and marine fishes (cartilaginous)"
       },
       {
-        "key": "Juxtamedullary Nephrons (15%)",
-        "label": "Long Henle loop penetrating deep medulla, prominent vasa recta, concentrates urine"
-      },
-      {
-        "key": "Glomerulus + Bowman Capsule",
-        "label": "Known as Malpighian body or Renal Corpuscle"
+        "key": "Site",
+        "label": "Ammonia converted into Urea in the LIVER (via Ornithine Cycle) and released into blood"
       }
     ],
-    "doodleBadge": "85% Cortical (Short)\n15% Juxtamedullary (Long)",
-    "doodleSubtext": "Nephron Types",
-    "explanation": "Juxtamedullary nephrons with their long loops of Henle and vasa recta create the medullary hyperosmolarity gradient up to 1200 mOsmol/L.",
-    "alsoRemember": "Glomerulus is a tuft of capillaries formed by afferent arteriole (wide) and drained by efferent arteriole (narrow).",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.2.",
-    "neetTrap": "Vasa recta is absent or highly reduced in CORTICAL nephrons.",
+    "doodleBadge": "Mammals, Terrestrial Amp",
+    "doodleSubtext": "Ureotelism & Site of Ure",
+    "explanation": "Taxa that convert ammonia to less toxic urea in hepatic tissue to conserve water.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Ureotelism & Site of Urea Synthesis.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.23",
     "tags": [
-      "Nephron",
-      "Cortical",
-      "Juxtamedullary",
-      "Loop of Henle",
-      "Vasa Recta"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Ureotelism"
     ],
-    "expandedMeaning": "Comparative structural and functional morphology of renal nephron subpopulations.",
-    "whyItWorks": "85/15 ratio paired with Short/Long loop comparison.",
-    "visualDescription": "Kidney section showing shallow cortical loop vs deep juxtamedullary loop flanked by hairpin vasa recta capillaries.",
-    "neetRelevance": "Standard assertion-reason and multiple statement questions.",
-    "commonMistake": "Believing all nephrons have well-developed vasa recta.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 23,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is true for juxtamedullary nephrons?",
+      "question": "Which of the following is associated with \"Ureotelism & Site of Urea Synthesis\" in NEET Biology?",
       "options": [
-        "They comprise 85% of total nephrons",
-        "They have short loops of Henle restricted to cortex",
-        "They have long loops of Henle extending deep into medulla with well-developed vasa recta",
-        "Vasa recta is completely absent in them"
+        "Mammals, Terrestrial Amphibians, Marine Fishes - Urea Made in Liver",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Juxtamedullary nephrons (15%) have long loops of Henle running deep into the medulla with well-developed vasa recta."
+      "answerIndex": 0,
+      "explanation": "Taxa that convert ammonia to less toxic urea in hepatic tissue to conserve water."
     }
   },
   {
@@ -215,69 +194,67 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-2",
-    "topicTitle": "Glomerular Filtration Rate (GFR)",
-    "topic": "GFR Values and Filtration Fraction",
+    "classLevel": 11,
+    "topicId": "bio-top-16-1",
+    "topicTitle": "Uricotelic Organisms Examples",
+    "topic": "Uricotelic Organisms Examples",
     "mnemonicNumber": 4,
-    "title": "GFR Numbers: 125 mL/min = 180 Litres/Day (99% Reabsorbed -> 1.5 L Urine)",
-    "badgeText": "Formula",
+    "title": "Uricotelic Organisms Examples: \"Reptiles, Birds, Land Snails, Insects (RBLI)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Renal Blood Flow = 1100-1200 mL/min (1/5th Cardiac Output) -> GFR = 125 mL/min (180 L/day) -> 99% Reabsorbed -> 1.5 L Urine Excreted",
-    "memoryHook": "Kidneys filter a massive 180 Litres of fluid every single day! But our tubular cells reabsorb 99% back, leaving just 1.5 Litres of concentrated urine to pee out!",
-    "fact": "Kidneys filter about 1100-1200 mL of blood per minute (~1/5th of cardiac output). Glomerular Filtration Rate (GFR) is 125 mL/minute or 180 Litres per day. Out of 180 L of filtrate formed daily, nearly 99% is reabsorbed by renal tubules, so only about 1.5 Litres of urine is released per day.",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Reptiles, Birds, Land Snails, Insects (RBLI)",
+    "memoryHook": "Reptiles, Birds, Land Snails, Insects (RBLI)",
+    "fact": "R: Reptiles. B: Birds (Aves). L: Land Snails (Gastropods). I: Insects (e.g., Cockroach)",
     "breakdown": [
       {
-        "key": "Renal Blood Flow",
-        "label": "1100 - 1200 mL/min (approx. 20-25% of resting cardiac output)"
+        "key": "R",
+        "label": "Reptiles"
       },
       {
-        "key": "GFR (Filtration Rate)",
-        "label": "125 mL/minute = 180 Litres per day"
+        "key": "B",
+        "label": "Birds (Aves)"
       },
       {
-        "key": "Tubular Reabsorption",
-        "label": "99% of filtrate is reabsorbed along PCT, Henle, DCT, and Collecting Duct"
+        "key": "L",
+        "label": "Land Snails (Gastropods)"
       },
       {
-        "key": "Daily Urine Output",
-        "label": "~1.5 Litres per day (pH ~6.0, contains ~25-30 g urea)"
+        "key": "I",
+        "label": "Insects (e.g., Cockroach)"
       }
     ],
-    "doodleBadge": "180 L Filtrate -> 1.5 L Urine",
-    "doodleSubtext": "99% Reabsorption",
-    "explanation": "If tubular reabsorption stopped for even 30 minutes, severe fatal dehydration would occur due to massive fluid loss.",
-    "alsoRemember": "Filtration occurs across 3 layers: Glomerular capillary endothelium, basement membrane, and podocyte slit pores.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.3.",
-    "neetTrap": "Filtration is NON-SELECTIVE ultrafiltration (all plasma solutes except proteins pass into Bowman capsule).",
+    "doodleBadge": "Reptiles, Birds, Land Sn",
+    "doodleSubtext": "Uricotelic Organisms Exa",
+    "explanation": "Terrestrial organisms excreting nitrogenous waste as insoluble uric acid pellets to minimize water loss.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Uricotelic Organisms Examples.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.23",
     "tags": [
-      "GFR",
-      "Glomerular Filtration",
-      "Reabsorption",
-      "Renal Blood Flow",
-      "Urine"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Uricotelic"
     ],
-    "expandedMeaning": "Quantitative physiological parameters of renal ultrafiltration and volume conservation.",
-    "whyItWorks": "Clean numerical funnel: 1200 mL blood -> 125 mL filtrate -> 1.5 L urine.",
-    "visualDescription": "Funnel diagram showing huge 180 L barrel filtering down to a small 1.5 L water bottle.",
-    "neetRelevance": "Direct numerical values frequently asked in NEET.",
-    "commonMistake": "Confusing renal blood flow (1200 mL/min) with GFR (125 mL/min).",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 23,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What percentage of the glomerular filtrate is reabsorbed by the renal tubules in a healthy adult human?",
+      "question": "Which of the following is associated with \"Uricotelic Organisms Examples\" in NEET Biology?",
       "options": [
-        "50%",
-        "75%",
-        "90%",
-        "Nearly 99%"
+        "Reptiles",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 3,
-      "explanation": "Nearly 99% of the 180 L filtrate formed daily is reabsorbed by the renal tubules, producing ~1.5 L of urine."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Reptiles\". Remember using: \"Reptiles, Birds, Land Snails, Insects (RBLI)\"."
     }
   },
   {
@@ -286,69 +263,63 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-2",
-    "topicTitle": "Tubular Functions: PCT, Henle, DCT, CD",
-    "topic": "Reabsorption and Secretion Sites along the Nephron",
+    "classLevel": 11,
+    "topicId": "bio-top-16-1",
+    "topicTitle": "Excretory Structures Across Animal Phyla",
+    "topic": "Excretory Structures Across Animal Phyla",
     "mnemonicNumber": 5,
-    "title": "Tubular Sites: PCT (70-80% Electrolytes & 100% Glucose/Amino Acids Reabsorbed, Brush Border)",
-    "badgeText": "Memory Trick",
+    "title": "Excretory Structures Across Animal Phyla: \"Flame Platy, Nephridia Annelida, Malpighian Arthro, Antennal Crustacean\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "PCT = 70-80% Reabsorption Workhorse (Simple cuboidal brush border) | Descending Henle = Permeable to Water only | Ascending Henle = Permeable to Electrolytes/NaCl only | DCT = Conditional Na+/Water reabsorption (Aldosterone/ADH)",
-    "memoryHook": "PCT does the heavy lifting (brush border microvilli grab 100% glucose and 80% salts). Descending Loop drinks water; Ascending Loop pumps salt; DCT is conditional on hormones!",
-    "fact": "PCT is lined by simple cuboidal brush border epithelium with microvilli; reabsorbs nearly all essential nutrients (100% glucose & amino acids) and 70-80% of electrolytes and water. Descending limb of loop of Henle is permeable to water but almost impermeable to electrolytes. Ascending limb is impermeable to water but allows transport of electrolytes. DCT carries out conditional reabsorption of Na+ and water (regulated by Aldosterone and ADH).",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Flame Platy, Nephridia Annelida, Malpighian Arthro, Antennal Crustacean",
+    "memoryHook": "Flame Platy, Nephridia Annelida, Malpighian Arthro, Antennal Crustacean",
+    "fact": "Flame cells (Protonephridia): Platyhelminthes (Flatworms), Rotifers, Cephalochordate (Amphioxus). Nephridia: Earthworms and other Annelids. Malpighian Tubules: Insects (Cockroach). Antennal / Green Glands: Crustaceans (Prawns)",
     "breakdown": [
       {
-        "key": "PCT (Proximal Convoluted Tubule)",
-        "label": "Simple cuboidal brush border; 70-80% electrolytes/water; 100% glucose & amino acids"
+        "key": "Nephridia",
+        "label": "Earthworms and other Annelids"
       },
       {
-        "key": "Henle Descending Limb",
-        "label": "Permeable to water, impermeable to electrolytes -> Filtrate becomes HYPERTONIC"
+        "key": "Malpighian Tubules",
+        "label": "Insects (Cockroach)"
       },
       {
-        "key": "Henle Ascending Limb",
-        "label": "Impermeable to water, actively/passively transports NaCl -> Filtrate becomes HYPOTONIC"
-      },
-      {
-        "key": "DCT & Collecting Duct",
-        "label": "Conditional reabsorption of Na+ (Aldosterone), water (ADH), and HCO3-; secretes K+ and H+"
+        "key": "Antennal / Green Glands",
+        "label": "Crustaceans (Prawns)"
       }
     ],
-    "doodleBadge": "PCT = 70-80% All\nDown Henle = H2O\nUp Henle = NaCl",
-    "doodleSubtext": "Tubular Map",
-    "explanation": "Active tubular secretion of H+, K+, and ammonia in PCT and DCT helps maintain ionic balance and blood pH.",
-    "alsoRemember": "Glucose and amino acids are reabsorbed actively via secondary active transport in PCT.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.4.",
-    "neetTrap": "Ascending limb of Henle is IMPERMEABLE to water, making filtrate dilute (hypotonic) as it ascends.",
+    "doodleBadge": "Flame Platy, Nephridia A",
+    "doodleSubtext": "Excretory Structures Acr",
+    "explanation": "Invertebrate evolutionary specialization of excretory organs mapped to respective phyla.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Excretory Structures Across Animal Phyla.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.23",
     "tags": [
-      "PCT",
-      "Loop of Henle",
-      "DCT",
-      "Brush Border",
-      "Reabsorption"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Excretory"
     ],
-    "expandedMeaning": "Functional mapping of solute and solvent transport properties across successive nephron segments.",
-    "whyItWorks": "Segment-by-segment rules for water and salt permeability.",
-    "visualDescription": "Nephron diagram showing blue water arrows leaving descending limb and orange NaCl arrows leaving ascending limb.",
-    "neetRelevance": "One of the highest yield topics in human physiology.",
-    "commonMistake": "Thinking descending limb pumps out salt.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 23,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which part of the nephron is lined by simple cuboidal brush border epithelium and reabsorbs 70-80% of electrolytes and water?",
+      "question": "Which of the following is associated with \"Excretory Structures Across Animal Phyla\" in NEET Biology?",
       "options": [
-        "Bowman capsule",
-        "Proximal Convoluted Tubule (PCT)",
-        "Ascending limb of Henle",
-        "Distal Convoluted Tubule (DCT)"
+        "Flame cells (Protonephridia): Platyhelminthes (Flatworms), Rotifers, Cephalochor",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The Proximal Convoluted Tubule (PCT) is lined by simple cuboidal brush border epithelium and reabsorbs 70-80% of electrolytes and water."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Flame cells (Protonephridia): Platyhelminthes (Flatworms), Rotifers, Cephalochordate (Amphioxus)\". Remember using: \"Flame Platy, Nephridia Annelida, Malpighian Arthro, Antennal Crustacean\"."
     }
   },
   {
@@ -357,73 +328,63 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-2",
-    "topicTitle": "Countercurrent Mechanism",
-    "topic": "Countercurrent Multiplier and Exchanger in Medullary Gradient",
+    "classLevel": 11,
+    "topicId": "bio-top-16-1",
+    "topicTitle": "Human Kidney Location & Dimensions",
+    "topic": "Human Kidney Location & Dimensions",
     "mnemonicNumber": 6,
-    "title": "Countercurrent: Henle Loop + Vasa Recta (300 Cortex -> 1200 Medulla mOsmol/L via NaCl & Urea)",
-    "badgeText": "Concept",
+    "title": "Human Kidney Location & Dimensions: \"T12 to L3, 10-12 cm Long, 120-170 g Weight\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "hard",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Opposite Flow in Henle (Multiplier) + Opposite Flow in Vasa Recta (Exchanger) -> Medullary Gradient from 300 to 1200 mOsmol/L maintained by NaCl and Urea recycling!",
-    "memoryHook": "Flow goes down then up in Henle; blood flows opposite in Vasa Recta hairpin. They trap NaCl and Urea deep in the medulla, ramping osmolarity from 300 up to 1200 mOsmol/L to suck water out of collecting duct!",
-    "fact": "The countercurrent mechanism operates between two limbs of Henle loop and two limbs of vasa recta with opposite flow directions. This creates and maintains an increasing medullary interstitial osmolarity gradient: from 300 mOsmol/L in the outer cortex to 1200 mOsmol/L in the inner medulla. The gradient is maintained by NaCl (transported by ascending Henle, exchanged with vasa recta) and Urea (recycled from collecting duct to thin ascending limb). This enables humans to produce urine ~4 times more concentrated than initial filtrate (1200 vs 300 mOsmol/L).",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "T12 to L3, 10-12 cm Long, 120-170 g Weight",
+    "memoryHook": "T12 to L3, 10-12 cm Long, 120-170 g Weight",
+    "fact": "Vertebral Level: Between 12th thoracic (T12) and 3rd lumbar (L3) vertebrae. Length: 10 – 12 cm | Width: 5 – 7 cm | Thickness: 2 – 3 cm. Average Weight: 120 – 170 grams",
     "breakdown": [
       {
-        "key": "Countercurrent Multiplier",
-        "label": "Loop of Henle limbs with opposing flow directions"
+        "key": "Vertebral Level",
+        "label": "Between 12th thoracic (T12) and 3rd lumbar (L3) vertebrae"
       },
       {
-        "key": "Countercurrent Exchanger",
-        "label": "Vasa recta hairpin loops maintaining the gradient without washing it away"
+        "key": "Length",
+        "label": "10 – 12 cm | Width: 5 – 7 cm | Thickness: 2 – 3 cm"
       },
       {
-        "key": "Osmolarity Gradient",
-        "label": "300 mOsmol/L (cortex) -> 600 -> 900 -> 1200 mOsmol/L (inner medulla tip)"
-      },
-      {
-        "key": "Key Solutes",
-        "label": "NaCl and Urea"
-      },
-      {
-        "key": "Urine Concentration Power",
-        "label": "Human urine can be concentrated up to 4x (1200 mOsmol/L) of initial filtrate"
+        "key": "Average Weight",
+        "label": "120 – 170 grams"
       }
     ],
-    "doodleBadge": "300 -> 1200 mOsmol/L\n4x Concentrated Urine",
-    "doodleSubtext": "Countercurrent System",
-    "explanation": "The high osmolarity in inner medullary interstitium allows water to be passively reabsorbed from the collecting duct by osmosis under ADH influence.",
-    "alsoRemember": "Small amount of urea enters the thin segment of ascending limb of Henle and is transported back to medulla by collecting duct.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.5.",
-    "neetTrap": "Human kidneys can produce urine nearly 4 TIMES concentrated compared to initial filtrate.",
+    "doodleBadge": "T12 to L3, 10-12 cm Long",
+    "doodleSubtext": "Human Kidney Location & ",
+    "explanation": "Anatomical position on posterior abdominal wall and physical dimensions of human kidney. Chapter 16: Excretory Products and Their Elimination (30 Mnemonics) \tPage 1",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Human Kidney Location & Dimensions.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.23",
     "tags": [
-      "Countercurrent",
-      "Loop of Henle",
-      "Vasa Recta",
-      "Urea Recycling",
-      "Osmolarity"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Human"
     ],
-    "expandedMeaning": "Biophysical medullary hypertonicity generation mechanism facilitating terrestrial urine hyperconcentration.",
-    "whyItWorks": "Countercurrent = opposite flow + gradient multiplier concept.",
-    "visualDescription": "Hairpin loop showing osmolarity gradient numbers increasing from 300 at top to 1200 at bottom loop tip.",
-    "neetRelevance": "One of the most concept-heavy questions in NEET biology.",
-    "commonMistake": "Thinking urea is completely excreted without medullary recycling.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 23,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The medullary interstitial osmolarity gradient in human kidney increases from outer cortex to inner medulla up to:",
+      "question": "Which of the following is associated with \"Human Kidney Location & Dimensions\" in NEET Biology?",
       "options": [
-        "300 mOsmol/L",
-        "600 mOsmol/L",
-        "1200 mOsmol/L",
-        "2000 mOsmol/L"
+        "Between 12th thoracic (T12) and 3rd lumbar (L3) vertebrae",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "The medullary osmotic gradient rises from 300 mOsmol/L in the cortex to 1200 mOsmol/L in the inner medulla."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Between 12th thoracic (T12) and 3rd lumbar (L3) vertebrae\". Remember using: \"T12 to L3, 10-12 cm Long, 120-170 g Weight\"."
     }
   },
   {
@@ -432,74 +393,63 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-3",
-    "topicTitle": "RAAS Mechanism",
-    "topic": "Renin-Angiotensin-Aldosterone System",
+    "classLevel": 11,
+    "topicId": "bio-top-16-1",
+    "topicTitle": "Internal Structure of Kidney (Cortex vs Medulla)",
+    "topic": "Internal Structure of Kidney (Cortex vs Medulla)",
     "mnemonicNumber": 7,
-    "title": "RAAS System: Low GFR -> JGA releases Renin -> Angiotensinogen to Angiotensin II -> Aldosterone + Vasoconstriction -> GFR Rises!",
-    "badgeText": "Sequence",
+    "title": "Internal Structure of Kidney (Cortex vs Medulla): \"Outer Cortex, Inner Medullary Pyramids, Columns of Bertini\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Drop in GFR/Blood Pressure -> JG cells secrete Renin -> Converts Angiotensinogen (Liver) to Angiotensin I -> ACE converts to Angiotensin II (Potent Vasoconstrictor) -> Stimulates Adrenal Cortex for Aldosterone -> Na+ & H2O Reabsorption in DCT -> Blood Pressure & GFR Normal!",
-    "memoryHook": "Renin triggers the Angiotensin rocket! Angiotensin II squeezes blood vessels and calls Aldosterone to hoard Salt and Water, pushing low GFR back to normal!",
-    "fact": "A fall in glomerular blood flow/GFR activates Juxtaglomerular (JG) cells to release Renin. Renin converts plasma angiotensinogen (from liver) into Angiotensin I and then Angiotensin II. Angiotensin II is a powerful vasoconstrictor (increases GFR) and stimulates adrenal cortex to release Aldosterone. Aldosterone causes reabsorption of Na+ and water from DCT, increasing blood volume and restoring GFR.",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Outer Cortex, Inner Medullary Pyramids, Columns of Bertini",
+    "memoryHook": "Outer Cortex, Inner Medullary Pyramids, Columns of Bertini",
+    "fact": "Cortex: Outer zone extending between medullary pyramids as Columns of Bertini. Medulla: Inner zone divided into a few conical medullary pyramids projecting into calyces. Renal Pelvis: Funnel-shaped space inner to hilum with extensions called calyces",
     "breakdown": [
       {
-        "key": "Trigger",
-        "label": "Fall in GFR / Glomerular blood pressure / Blood volume"
+        "key": "Cortex",
+        "label": "Outer zone extending between medullary pyramids as Columns of Bertini"
       },
       {
-        "key": "Sensor",
-        "label": "Juxtaglomerular cells (JG cells) in afferent arteriole release Renin"
+        "key": "Medulla",
+        "label": "Inner zone divided into a few conical medullary pyramids projecting into calyces"
       },
       {
-        "key": "Enzyme Step",
-        "label": "Renin converts liver Angiotensinogen -> Angiotensin I -> Angiotensin II"
-      },
-      {
-        "key": "Angiotensin II Actions",
-        "label": "Potent vasoconstrictor (increases BP) + activates Aldosterone release"
-      },
-      {
-        "key": "Aldosterone Action",
-        "label": "Stimulates Na+ and water reabsorption from DCT & Collecting duct"
+        "key": "Renal Pelvis",
+        "label": "Funnel-shaped space inner to hilum with extensions called calyces"
       }
     ],
-    "doodleBadge": "Renin -> Angiotensin II -> Aldosterone",
-    "doodleSubtext": "RAAS Pathway",
-    "explanation": "The Juxtaglomerular Apparatus (JGA) is a specialized sensitive region formed by cellular modifications in DCT and afferent arteriole.",
-    "alsoRemember": "ANF (Atrial Natriuretic Factor) from heart atria is the OPPONENT/ANTAGONIST to RAAS, causing vasodilation and Na+ excretion.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.6.",
-    "neetTrap": "Renin is an enzyme/hormone with SINGLE \"n\" from kidney (Renin), whereas Rennin with DOUBLE \"n\" is a milk-digesting gastric enzyme in infant calves.",
+    "doodleBadge": "Outer Cortex, Inner Medu",
+    "doodleSubtext": "Internal Structure of Ki",
+    "explanation": "Zonal anatomy of kidney parenchyma and urine collection pathways into pelvis.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Internal Structure of Kidney (Cortex vs Medulla).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.24",
     "tags": [
-      "RAAS",
-      "Renin",
-      "Angiotensin",
-      "Aldosterone",
-      "JGA",
-      "GFR"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Internal"
     ],
-    "expandedMeaning": "Neuroendocrine homeostatic feedback loop elevating renal perfusion pressure and systemic vascular resistance.",
-    "whyItWorks": "Direct step-by-step domino cascade from Renin to restored GFR.",
-    "visualDescription": "Flow chart showing falling GFR activating JGA, producing Renin, cascading to Angiotensin II and Aldosterone.",
-    "neetRelevance": "One of the most tested hormonal feedback systems in NEET.",
-    "commonMistake": "Confusing Renin (kidney) with Rennin (stomach curdling enzyme).",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 24,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following hormones is released by the Juxtaglomerular (JG) cells in response to a fall in glomerular blood pressure/GFR?",
+      "question": "Which of the following is associated with \"Internal Structure of Kidney (Cortex vs Medulla)\" in NEET Biology?",
       "options": [
-        "Aldosterone",
-        "Atrial Natriuretic Factor (ANF)",
-        "Renin",
-        "Antidiuretic Hormone (ADH)"
+        "Outer zone extending between medullary pyramids as Columns of Bertini",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "JG cells secrete Renin in response to a decrease in glomerular blood flow, pressure, or GFR."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Outer zone extending between medullary pyramids as Columns of Bertini\". Remember using: \"Outer Cortex, Inner Medullary Pyramids, Columns of Bertini\"."
     }
   },
   {
@@ -508,69 +458,59 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-3",
-    "topicTitle": "ANF vs RAAS & ADH",
-    "topic": "Atrial Natriuretic Factor as Negative Feedback Check",
+    "classLevel": 11,
+    "topicId": "bio-top-16-1",
+    "topicTitle": "Structure of Nephron (Glomerulus + Renal Tubule)",
+    "topic": "Structure of Nephron (Glomerulus + Renal Tubule)",
     "mnemonicNumber": 8,
-    "title": "ANF: Heart Atria Brake on RAAS (High BP -> ANF -> Vasodilation + Na+ Loss -> Lowers BP)",
-    "badgeText": "Comparison",
-    "importance": "High Yield",
+    "title": "Structure of Nephron (Glomerulus + Renal Tubule): \"Bowman -> PCT -> Henle (Desc/Asc) -> DCT -> Collecting Duct\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "High Blood Flow to Heart Atria -> Releases ANF (Atrial Natriuretic Factor) -> Causes Vasodilation -> Lowers Blood Pressure & Blocks RAAS!",
-    "memoryHook": "When blood pressure gets dangerously high, the heart atria blow the whistle and release ANF! ANF vasodilates and flushes out sodium (Natri-uresis) to apply the brakes on RAAS!",
-    "fact": "An increase in blood flow to the atria of the heart causes the release of Atrial Natriuretic Factor (ANF). ANF causes vasodilation (dilation of blood vessels) and thereby decreases blood pressure. ANF mechanism acts as an antagonistic check on the renin-angiotensin-aldosterone mechanism.",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Bowman -> PCT -> Henle (Desc/Asc) -> DCT -> Collecting Duct",
+    "memoryHook": "Bowman -> PCT -> Henle (Desc/Asc) -> DCT -> Collecting Duct",
+    "fact": "Malpighian Body: Glomerulus (tuft of capillaries) + Bowman's capsule. Renal Tubule Pathway: Bowman's capsule → PCT → Loop of Henle → DCT → Collecting Duct",
     "breakdown": [
       {
-        "key": "Source of ANF",
-        "label": "Atrial walls of the human heart"
+        "key": "Malpighian Body",
+        "label": "Glomerulus (tuft of capillaries) + Bowman's capsule"
       },
       {
-        "key": "Stimulus",
-        "label": "High blood pressure / excessive venous return to atria"
-      },
-      {
-        "key": "Action",
-        "label": "Vasodilation of blood vessels + excretion of Na+ in urine (Natriuresis)"
-      },
-      {
-        "key": "Net Effect",
-        "label": "Lowers blood pressure and inhibits RAAS pathway"
+        "key": "Renal Tubule Pathway",
+        "label": "Bowman's capsule → PCT → Loop of Henle → DCT → Collecting Duct"
       }
     ],
-    "doodleBadge": "ANF = Vasodilation\nRAAS = Vasoconstriction",
-    "doodleSubtext": "Heart Checks Kidney",
-    "explanation": "Natriuresis means sodium excretion in urine; where sodium goes, water follows, reducing overall blood volume.",
-    "alsoRemember": "ADH (Vasopressin) from posterior pituitary prevents diuresis by inserting aquaporin water channels in DCT and collecting duct.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.6.",
-    "neetTrap": "ANF is a VASODILATOR (lowers BP), whereas Angiotensin II and ADH/Vasopressin are VASOCONSTRICTORS (raise BP).",
+    "doodleBadge": "Bowman -> PCT -> Henle (",
+    "doodleSubtext": "Structure of Nephron (Gl",
+    "explanation": "Sequential functional units comprising a single mammalian nephron.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Structure of Nephron (Glomerulus + Renal Tubule).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.24",
     "tags": [
-      "ANF",
-      "Natriuretic",
-      "Vasodilation",
-      "Blood Pressure",
-      "RAAS Antagonist"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Structure"
     ],
-    "expandedMeaning": "Cardiac endocrine counter-regulatory peptide promoting natriuresis and systemic vasodilation.",
-    "whyItWorks": "Clear contrast: Heart makes ANF (dilates/lowers BP) vs Kidney/Adrenal makes RAAS (constricts/raises BP).",
-    "visualDescription": "Heart with green ANF arrow lowering BP gauge, in tug-of-war against red RAAS kidney arrows.",
-    "neetRelevance": "Common in hormone action comparison MCQs.",
-    "commonMistake": "Classifying ANF as a vasoconstrictor.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 24,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which hormone acts as an antagonistic check on the renin-angiotensin mechanism by causing vasodilation and decreasing blood pressure?",
+      "question": "Which of the following is associated with \"Structure of Nephron (Glomerulus + Renal Tubule)\" in NEET Biology?",
       "options": [
-        "Aldosterone",
-        "Antidiuretic Hormone (ADH)",
-        "Atrial Natriuretic Factor (ANF)",
-        "Angiotensin II"
+        "Bowman -> PCT -> Henle (Desc/Asc) -> DCT -> Collecting Duct",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Atrial Natriuretic Factor (ANF) secreted by heart atria causes vasodilation and lowers blood pressure, checking RAAS."
+      "answerIndex": 0,
+      "explanation": "Sequential functional units comprising a single mammalian nephron."
     }
   },
   {
@@ -579,73 +519,55 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-3",
-    "topicTitle": "ADH (Vasopressin) & Osmoregulation",
-    "topic": "Hypothalamic Osmoreceptor Reflex and Water Conservation",
+    "classLevel": 11,
+    "topicId": "bio-top-16-1",
+    "topicTitle": "Cortical vs Juxtamedullary Nephrons",
+    "topic": "Cortical vs Juxtamedullary Nephrons",
     "mnemonicNumber": 9,
-    "title": "ADH / Vasopressin: Anti-Diuresis (Dehydration -> ADH from Hypothalamus/Post. Pituitary -> H2O Reabsorption in DCT/CD)",
-    "badgeText": "Memory Trick",
+    "title": "Cortical vs Juxtamedullary Nephrons: \"Cortical Short Henle 85%, Juxtamedullary Long Henle Vasa Recta 15%\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
     "badgeColor": "#A66CFF",
-    "mnemonic": "Sweating / Dehydration (High blood osmolarity) -> Hypothalamus Osmoreceptors fire -> Posterior Pituitary releases ADH (Vasopressin) -> Water reabsorbed from DCT & CD -> Concentrated urine & prevents water loss!",
-    "memoryHook": "Anti-Diuretic Hormone prevents Diuresis (excess urination). Drink lots of water = ADH turns OFF (copious dilute urine). Thirsty/sweaty = ADH turns ON (saves every drop)!",
-    "fact": "Excessive loss of fluid activates osmoreceptors in hypothalamus, stimulating posterior pituitary (neurohypophysis) to release Antidiuretic Hormone (ADH) or Vasopressin. ADH facilitates water reabsorption from distal parts of the tubule (DCT & Collecting Duct), preventing diuresis. Deficiency of ADH leads to Diabetes Insipidus (excretion of large volumes of dilute urine).",
+    "mnemonic": "Cortical Short Henle 85%, Juxtamedullary Long Henle Vasa Recta 15%",
+    "memoryHook": "Cortical Short Henle 85%, Juxtamedullary Long Henle Vasa Recta 15%",
+    "fact": "Cortical Nephrons (85%): Short loop of Henle extending only slightly into medulla; Vasa recta reduced/absent. Juxtamedullary Nephrons (15%): Long loop of Henle running deep into medulla; well-developed Vasa recta",
     "breakdown": [
       {
-        "key": "Release Site",
-        "label": "Synthesized in Hypothalamus, stored and released by Posterior Pituitary"
-      },
-      {
-        "key": "Target Organ",
-        "label": "DCT and Collecting Duct of nephrons"
-      },
-      {
-        "key": "Action",
-        "label": "Increases water permeability (aquaporins), preventing water loss (anti-diuresis)"
-      },
-      {
-        "key": "Vascular Effect",
-        "label": "Vasoconstriction causing an increase in blood pressure (hence named Vasopressin)"
-      },
-      {
-        "key": "Clinical Disorder",
-        "label": "Lack of ADH = Diabetes Insipidus (polyuria with dilute urine, NO sugar in urine)"
+        "key": "Cortical Nephrons (85%)",
+        "label": "Short loop of Henle extending only slightly into medulla; Vasa recta reduced/absent"
       }
     ],
-    "doodleBadge": "ADH = Save Water\nLack of ADH = Diabetes Insipidus",
-    "doodleSubtext": "Vasopressin Action",
-    "explanation": "Alcohol and caffeine inhibit ADH secretion, leading to increased urine production (diuresis) and dehydration.",
-    "alsoRemember": "Diabetes Mellitus is caused by insulin deficiency (sugar in urine), while Diabetes Insipidus is caused by ADH deficiency (dilute watery urine).",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.6.",
-    "neetTrap": "Diabetes Insipidus has NO glucose/ketones in urine; it is purely a water-loss defect due to ADH deficiency.",
+    "doodleBadge": "Cortical Short Henle 85%",
+    "doodleSubtext": "Cortical vs Juxtamedulla",
+    "explanation": "Structural and numerical comparison between the two nephron populations.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Cortical vs Juxtamedullary Nephrons.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.24",
     "tags": [
-      "ADH",
-      "Vasopressin",
-      "Diabetes Insipidus",
-      "Osmoregulation",
-      "Posterior Pituitary"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Cortical"
     ],
-    "expandedMeaning": "Hypothalamic-neurohypophyseal endocrine control of distal renal tubular water reabsorption.",
-    "whyItWorks": "Name tells function: Anti-Diuretic = Anti-excess-urination.",
-    "visualDescription": "Brain releasing water drops labeled ADH onto nephron collecting duct to pull water back into blood vessel.",
-    "neetRelevance": "Tested in endocrine regulation and clinical comparison with Diabetes Mellitus.",
-    "commonMistake": "Confusing Diabetes Insipidus (ADH defect) with Diabetes Mellitus (Insulin defect).",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 24,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Deficiency of which hormone leads to Diabetes Insipidus characterized by excessive excretion of dilute urine?",
+      "question": "Which of the following is associated with \"Cortical vs Juxtamedullary Nephrons\" in NEET Biology?",
       "options": [
-        "Insulin",
-        "Glucagon",
-        "Antidiuretic Hormone (ADH / Vasopressin)",
-        "Aldosterone"
+        "Cortical Short Henle 85%, Juxtamedullary Long Henle Vasa Recta 15%",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Deficiency of ADH (Vasopressin) causes Diabetes Insipidus, leading to inability to concentrate urine."
+      "answerIndex": 0,
+      "explanation": "Structural and numerical comparison between the two nephron populations."
     }
   },
   {
@@ -654,69 +576,63 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-4",
-    "topicTitle": "Excretory Disorders",
-    "topic": "Renal Pathologies: Uremia, Glomerulonephritis, Renal Calculi, Glycosuria, Ketonuria",
+    "classLevel": 11,
+    "topicId": "bio-top-16-1",
+    "topicTitle": "Blood Supply to Nephron (Afferent vs Efferent Arteriole & Vasa Recta)",
+    "topic": "Blood Supply to Nephron (Afferent vs Efferent Arteriole & Vasa Recta)",
     "mnemonicNumber": 10,
-    "title": "Excretory Disorders: Uremia = Urea in Blood | Calculi = Oxalate Stones | Glomerulonephritis = Glomeruli Inflammation",
-    "badgeText": "Classification",
-    "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Uremia (Toxic urea buildup in blood) | Renal Calculi (Insoluble stones/calcium oxalates) | Glomerulonephritis (Inflammation of glomeruli) | Glycosuria (Glucose in urine) + Ketonuria (Ketone bodies) = Diabetes Mellitus indicator!",
-    "memoryHook": "Uremia poisons the blood with urea; Calculi are rocky calcium oxalate kidney stones; Glomerulonephritis inflames filtration tufts; Glycosuria + Ketonuria are the two red flags for Diabetes Mellitus!",
-    "fact": "Uremia is accumulation of urea in blood due to kidney malfunction (treated by hemodialysis). Renal calculi are insoluble mass of crystallized salts (calcium oxalates) formed within the kidney. Glomerulonephritis is inflammation of glomeruli of kidney. Presence of Glucose (Glycosuria) and Ketone bodies (Ketonuria) in urine are indicative of Diabetes Mellitus.",
+    "title": "Blood Supply to Nephron (Afferent vs Efferent Arteriole & Vasa Recta): \"Afferent Enters Wide, Efferent Exits Narrow, Peritubular Vasa Recta\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Afferent Enters Wide, Efferent Exits Narrow, Peritubular Vasa Recta",
+    "memoryHook": "Afferent Enters Wide, Efferent Exits Narrow, Peritubular Vasa Recta",
+    "fact": "Afferent Arteriole: Fine branch of renal artery entering Bowman's capsule (wider lumen). Efferent Arteriole: Emerges from glomerulus (narrower lumen, creates glomerular hydrostatic pressure). Peritubular Capillaries: Network around PCT/DCT giving off parallel U-shaped Vasa Recta loop",
     "breakdown": [
       {
-        "key": "Uremia",
-        "label": "Accumulation of excess urea in blood (requires hemodialysis or renal transplant)"
+        "key": "Afferent Arteriole",
+        "label": "Fine branch of renal artery entering Bowman's capsule (wider lumen)"
       },
       {
-        "key": "Renal Calculi",
-        "label": "Kidney stones: crystallized masses of calcium oxalate precipitates"
+        "key": "Efferent Arteriole",
+        "label": "Emerges from glomerulus (narrower lumen, creates glomerular hydrostatic pressure)"
       },
       {
-        "key": "Glomerulonephritis",
-        "label": "Immune-mediated inflammation of glomerular capillaries"
-      },
-      {
-        "key": "Glycosuria & Ketonuria",
-        "label": "Presence of glucose and ketone bodies in urine (Diabetes Mellitus marker)"
+        "key": "Peritubular Capillaries",
+        "label": "Network around PCT/DCT giving off parallel U-shaped Vasa Recta loop"
       }
     ],
-    "doodleBadge": "Calculi = Oxalate Stones\nUremia = Urea in Blood",
-    "doodleSubtext": "Renal Pathology 4",
-    "explanation": "In hemodialysis, the dialyzing fluid has the exact same composition as plasma EXCEPT that it contains NO nitrogenous wastes (allowing urea to diffuse out).",
-    "alsoRemember": "Heparin is added as an anticoagulant to the patient blood before passing through the dialyzer, and anti-heparin is added before returning to the body.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.8.",
-    "neetTrap": "Dialyzing fluid contains NO nitrogenous wastes, creating a concentration gradient for waste removal.",
+    "doodleBadge": "Afferent Enters Wide, Ef",
+    "doodleSubtext": "Blood Supply to Nephron ",
+    "explanation": "Vascular layout around nephron tubule generating pressure gradients and counter-current exchangers.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Blood Supply to Nephron (Afferent vs Efferent Arteriole & Vasa Recta).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.24",
     "tags": [
-      "Excretory Disorders",
-      "Uremia",
-      "Calculi",
-      "Glomerulonephritis",
-      "Dialysis"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Blood"
     ],
-    "expandedMeaning": "Differential diagnostic markers and pathophysiology of human excretory system diseases.",
-    "whyItWorks": "Direct pathological term-to-definition pairs.",
-    "visualDescription": "Four disorder panels: dialysis machine (uremia), spiky crystal (calculi), swollen capillary (glomerulonephritis), urine test strip (ketonuria).",
-    "neetRelevance": "Direct matching questions in NEET examinations.",
-    "commonMistake": "Assuming dialyzing fluid contains urea.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.8",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 24,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Renal calculi (kidney stones) are primarily composed of crystallized masses of:",
+      "question": "Identify the key feature of Blood Supply to Nephron (Afferent vs Efferent Arteriole & Vasa Recta):",
       "options": [
-        "Sodium chloride",
-        "Calcium oxalates",
-        "Potassium sulphate",
-        "Cholesterol crystals"
+        "Fine branch of renal artery entering Bowman's capsule (wider lumen)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Renal calculi are insoluble masses of crystallized salts, particularly calcium oxalates, formed in the kidney."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Fine branch of renal artery entering Bowman's capsule (wider lumen)\". Remember using: \"Afferent Enters Wide, Efferent Exits Narrow, Peritubular Vasa Recta\"."
     }
   },
   {
@@ -725,69 +641,63 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-1",
-    "topicTitle": "Kidney Anatomy & Hilum",
-    "topic": "Renal Hilum, Capsule, Cortex, Medulla, and Pyramids",
+    "classLevel": 11,
+    "topicId": "bio-top-16-2",
+    "topicTitle": "Steps of Urine Formation",
+    "topic": "Steps of Urine Formation",
     "mnemonicNumber": 11,
-    "title": "Kidney Anatomy: Hilum Entry -> Renal Pelvis -> Calyces -> Medullary Pyramids -> Columns of Bertini",
-    "badgeText": "Sequence",
-    "importance": "Medium Yield",
+    "title": "Steps of Urine Formation: \"Glomerular Filtration, Tubular Reabsorption, Tubular Secretion\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Hilum (Notch on concave side) -> Renal Pelvis (Funnel space) -> Calyces (Branching cups) -> Medullary Pyramids (Cones) separated by Columns of Bertini (Cortex extensions)",
-    "memoryHook": "The bean-shaped kidney has an inner dent called Hilum. Ureter, blood vessels, and nerves enter through Hilum into the funnel Pelvis. Cortex dips between medullary pyramids as Columns of Bertini!",
-    "fact": "Human kidneys are reddish-brown, bean-shaped structures situated between levels of last thoracic (T12) and third lumbar (L3) vertebra. Towards the center of the inner concave surface is a notch called Hilum through which ureter, blood vessels, and nerves enter. Inner to hilum is a broad funnel-shaped space called renal pelvis with projections called calyces. Cortex extends between medullary pyramids as renal columns called Columns of Bertini.",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Glomerular Filtration, Tubular Reabsorption, Tubular Secretion",
+    "memoryHook": "Glomerular Filtration, Tubular Reabsorption, Tubular Secretion",
+    "fact": "Step 1: Glomerular Filtration (Ultrafiltration). Step 2: Reabsorption (Selective return of water and solutes to blood). Step 3: Secretion (Active transport of H+, K+, NH3 into filtrate)",
     "breakdown": [
       {
-        "key": "Vertebral Level",
-        "label": "T12 (12th thoracic) to L3 (3rd lumbar vertebra)"
+        "key": "Step 1",
+        "label": "Glomerular Filtration (Ultrafiltration)"
       },
       {
-        "key": "Hilum",
-        "label": "Medial notch where renal artery, renal vein, ureter, and nerves enter/exit"
+        "key": "Step 2",
+        "label": "Reabsorption (Selective return of water and solutes to blood)"
       },
       {
-        "key": "Columns of Bertini",
-        "label": "Cortical tissue extending between medullary pyramids"
-      },
-      {
-        "key": "Renal Dimensions",
-        "label": "10-12 cm length, 5-7 cm width, 2-3 cm thickness, 120-170 g weight"
+        "key": "Step 3",
+        "label": "Secretion (Active transport of H+, K+, NH3 into filtrate)"
       }
     ],
-    "doodleBadge": "T12 - L3 Vertebra\nColumns of Bertini",
-    "doodleSubtext": "Kidney Architecture",
-    "explanation": "The right kidney is positioned slightly lower than the left kidney due to the space occupied by the liver.",
-    "alsoRemember": "Kidneys are retroperitoneal (located behind the peritoneum of the abdominal cavity).",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.2.",
-    "neetTrap": "Columns of Bertini are extensions of CORTEX into the medulla, not the other way around.",
+    "doodleBadge": "Glomerular Filtration, T",
+    "doodleSubtext": "Steps of Urine Formation",
+    "explanation": "Three fundamental renal processes converting blood plasma into final excreted urine.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Steps of Urine Formation.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.24",
     "tags": [
-      "Kidney Anatomy",
-      "Hilum",
-      "Columns of Bertini",
-      "Pelvis",
-      "Cortex"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Steps"
     ],
-    "expandedMeaning": "Gross anatomical landmarks and positional topography of human kidneys.",
-    "whyItWorks": "Outside-to-inside spatial sequence and vertebral level reference.",
-    "visualDescription": "Coronal kidney slice showing outer cortex projecting Columns of Bertini between triangular medullary pyramids.",
-    "neetRelevance": "Gross anatomy matching and vertebral location MCQs.",
-    "commonMistake": "Placing the kidney between cervical or sacral vertebrae.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 24,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The renal columns of Bertini are formed by the extension of:",
+      "question": "Which of the following is associated with \"Steps of Urine Formation\" in NEET Biology?",
       "options": [
-        "Medulla into the cortex",
-        "Cortex between the medullary pyramids",
-        "Renal pelvis into ureter",
-        "Calyces into hilum"
+        "Glomerular Filtration (Ultrafiltration)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The Columns of Bertini are extensions of renal cortex that dip between adjacent medullary pyramids."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Glomerular Filtration (Ultrafiltration)\". Remember using: \"Glomerular Filtration, Tubular Reabsorption, Tubular Secretion\"."
     }
   },
   {
@@ -796,65 +706,63 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-1",
-    "topicTitle": "Filtration Membrane Layers",
-    "topic": "Three Barriers of Glomerular Ultrafiltration Membrane",
+    "classLevel": 11,
+    "topicId": "bio-top-16-2",
+    "topicTitle": "Glomerular Filtration Rate (GFR) & Daily Volume",
+    "topic": "Glomerular Filtration Rate (GFR) & Daily Volume",
     "mnemonicNumber": 12,
-    "title": "Glomerular Membrane 3 Layers: Capillary Endothelium + Basement Membrane + Podocyte Slit Pores",
-    "badgeText": "Memory Trick",
+    "title": "Glomerular Filtration Rate (GFR) & Daily Volume: \"GFR 125 mL/min = 180 Litres/day, Urine 1.5 Litres/day (99% Reabsorbed)\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Layer 1: Fenestrated Glomerular Endothelium -> Layer 2: Acellular Basement Membrane -> Layer 3: Podocyte Foot Processes with Slit Pores / Filtration Slits",
-    "memoryHook": "Blood passes through a 3-layered micro-sieve: 1) Pores in capillary, 2) Basement jelly mesh, 3) Podocyte feet interlocking like puzzle fingers leaving tiny filtration slits!",
-    "fact": "The glomerular filtration membrane consists of 3 layers: 1) Endothelium of glomerular blood vessels (fenestrated), 2) Basement membrane between the two layers, and 3) Epithelium of Bowman capsule composed of specialized cells called Podocytes arranged in an intricate manner leaving minute spaces called filtration slits or slit pores.",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "GFR 125 mL/min = 180 Litres/day, Urine 1.5 Litres/day (99% Reabsorbed)",
+    "memoryHook": "GFR 125 mL/min = 180 Litres/day, Urine 1.5 Litres/day (99% Reabsorbed)",
+    "fact": "GFR Value: 125 mL/minute = 180 Litres per day formed by both kidneys. Excreted Urine: ~1.5 Litres per day. Deduction: ~99% of filtrate is reabsorbed by renal tubules",
     "breakdown": [
       {
-        "key": "Layer 1: Endothelium",
-        "label": "Glomerular capillary lining with fenestrations (pores)"
+        "key": "GFR Value",
+        "label": "125 mL/minute = 180 Litres per day formed by both kidneys"
       },
       {
-        "key": "Layer 2: Basement Membrane",
-        "label": "Acellular glycoprotein layer preventing filtration of large proteins"
+        "key": "Excreted Urine",
+        "label": "~1.5 Litres per day"
       },
       {
-        "key": "Layer 3: Podocytes",
-        "label": "Bowman visceral epithelial cells with interdigitating pedicels forming slit pores"
+        "key": "Deduction",
+        "label": "~99% of filtrate is reabsorbed by renal tubules"
       }
     ],
-    "doodleBadge": "Endothelium + Basement + Podocyte Slits",
-    "doodleSubtext": "3-Layer Sieve",
-    "explanation": "Proteins are negatively charged and repelled by negative charges on the basement membrane, preventing proteinuria.",
-    "alsoRemember": "The effective Net Filtration Pressure (NFP) is approximately 10 mm Hg (GBHP - BCOP - CHP = 60 - 32 - 18 = 10 mm Hg).",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.3.",
-    "neetTrap": "Podocytes are present in the VISCERAL layer of Bowman capsule, not the parietal layer.",
+    "doodleBadge": "GFR 125 mL/min = 180 Lit",
+    "doodleSubtext": "Glomerular Filtration Ra",
+    "explanation": "Quantitative disparity between initial ultrafiltrate volume and final voided urine volume. Chapter 16: Excretory Products and Their Elimination (30 Mnemonics) \tPage 2",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Glomerular Filtration Rate (GFR) & Daily Volume.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.24",
     "tags": [
-      "Podocytes",
-      "Filtration Slits",
-      "Basement Membrane",
-      "Bowman Capsule",
-      "Ultrafiltration"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Glomerular"
     ],
-    "expandedMeaning": "Trilaminar microvascular filtration barrier governing selective glomerular ultrafiltration.",
-    "whyItWorks": "Three-step sieve diagram from blood lumen to Bowman space.",
-    "visualDescription": "Microscopic diagram showing blood vessel pore, middle basement line, and interlocking podocyte toes.",
-    "neetRelevance": "Tested regularly in cell biology of nephron and ultrafiltration MCQs.",
-    "commonMistake": "Thinking blood cells can pass through slit pores.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 24,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Podocytes are specialized epithelial cells that form filtration slit pores in which part of the nephron?",
+      "question": "Which of the following is associated with \"Glomerular Filtration Rate (GFR) & Daily Volume\" in NEET Biology?",
       "options": [
-        "PCT lining",
-        "Bowman capsule epithelium",
-        "Loop of Henle",
-        "Vasa recta endothelium"
+        "125 mL/minute = 180 Litres per day formed by both kidneys",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Podocytes are specialized epithelial cells of Bowman capsule that form filtration slits (slit pores)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"125 mL/minute = 180 Litres per day formed by both kidneys\". Remember using: \"GFR 125 mL/min = 180 Litres/day, Urine 1.5 Litres/day (99% Reabsorbed)\"."
     }
   },
   {
@@ -863,73 +771,63 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-3",
-    "topicTitle": "Micturition Reflex",
-    "topic": "Neural Mechanism of Bladder Emptying",
+    "classLevel": 11,
+    "topicId": "bio-top-16-2",
+    "topicTitle": "Three Layers of Filtration Membrane",
+    "topic": "Three Layers of Filtration Membrane",
     "mnemonicNumber": 13,
-    "title": "Micturition Reflex: Bladder Fills -> Stretch Receptors Fire -> CNS -> Parasympathetic Contraction of Detrusor + Sphincter Relaxes",
-    "badgeText": "Sequence",
+    "title": "Three Layers of Filtration Membrane: \"Glomerular Endothelium, Basement Membrane, Podocyte Epithelium\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Urine fills Urinary Bladder -> Stretches wall -> Stretch Receptors send sensory impulses to CNS -> Motor signals cause Contraction of Detrusor Smooth Muscle + Relaxation of Urethral Sphincter -> Micturition (Urination)!",
-    "memoryHook": "Bladder is a muscular balloon. When full, stretch sensors signal brain; parasympathetic nerves squeeze the bladder wall (Detrusor muscle) and open the gate (Sphincter) so urine flows out!",
-    "fact": "Micturition is the process of release of urine. As the bladder fills with urine, it stretches. Stretch receptors on bladder wall send sensory signals to CNS. The CNS passes on motor messages to initiate contraction of smooth muscles of bladder (detrusor) and simultaneous relaxation of urethral sphincter, causing release of urine. An adult human excretes on average 1 to 1.5 L of urine per day (pH ~6.0, light yellow color due to urochrome).",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Glomerular Endothelium, Basement Membrane, Podocyte Epithelium",
+    "memoryHook": "Glomerular Endothelium, Basement Membrane, Podocyte Epithelium",
+    "fact": "Layer 1: Endothelium of glomerular blood vessels. Layer 2: Basement membrane in between. Layer 3: Epithelium of Bowman's capsule (Podocytes with filtration slits/slit pores)",
     "breakdown": [
       {
-        "key": "Sensory Trigger",
-        "label": "Stretch receptors on urinary bladder wall fire when distended"
+        "key": "Layer 1",
+        "label": "Endothelium of glomerular blood vessels"
       },
       {
-        "key": "Neural Center",
-        "label": "Micturition center in spinal cord / pons"
+        "key": "Layer 2",
+        "label": "Basement membrane in between"
       },
       {
-        "key": "Motor Output",
-        "label": "Parasympathetic stimulation contracts detrusor smooth muscle"
-      },
-      {
-        "key": "Sphincter Action",
-        "label": "Internal sphincter relaxes involuntarily; external sphincter relaxes voluntarily"
-      },
-      {
-        "key": "Daily Urea Excretion",
-        "label": "An adult excretes 25 to 30 grams of urea per day"
+        "key": "Layer 3",
+        "label": "Epithelium of Bowman's capsule (Podocytes with filtration slits/slit pores)"
       }
     ],
-    "doodleBadge": "Stretch -> CNS -> Detrusor Squeezes",
-    "doodleSubtext": "Micturition Reflex",
-    "explanation": "The yellowish color of urine is due to urochrome pigment derived from the breakdown of hemoglobin.",
-    "alsoRemember": "Urine is slightly acidic with an average pH of 6.0.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.7.",
-    "neetTrap": "Daily excreted urea amount is 25 to 30 GRAMS, not milligrams.",
+    "doodleBadge": "Glomerular Endothelium, ",
+    "doodleSubtext": "Three Layers of Filtrati",
+    "explanation": "Triple-layered sieve responsible for ultrafiltration of blood plasma excluding proteins.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Three Layers of Filtration Membrane.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.25",
     "tags": [
-      "Micturition",
-      "Urinary Bladder",
-      "Detrusor",
-      "Urea",
-      "Urochrome"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Three"
     ],
-    "expandedMeaning": "Neuro-visceral reflex pathway coordinating detrusor contraction and sphincter relaxation during bladder emptying.",
-    "whyItWorks": "Sensor -> Central Command -> Motor squeeze -> Valve open pathway.",
-    "visualDescription": "Urinary bladder diagram showing sensory arrows going to spine and motor arrows commanding muscular squeeze.",
-    "neetRelevance": "Classic NCERT questions on daily urine output, urea grams, and reflex pathway.",
-    "commonMistake": "Stating urine is strongly alkaline under normal physiology (it is slightly acidic, pH 6.0).",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.7",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 25,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "On average, how many grams of urea is excreted per day by a healthy adult human?",
+      "question": "Which of the following is associated with \"Three Layers of Filtration Membrane\" in NEET Biology?",
       "options": [
-        "2.5 - 3.0 g",
-        "25 - 30 g",
-        "250 - 300 g",
-        "100 - 150 mg"
+        "Endothelium of glomerular blood vessels",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "A healthy adult human excretes on average 25 to 30 grams of urea per day in urine."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Endothelium of glomerular blood vessels\". Remember using: \"Glomerular Endothelium, Basement Membrane, Podocyte Epithelium\"."
     }
   },
   {
@@ -938,69 +836,63 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-1",
-    "topicTitle": "Accessory Excretory Organs",
-    "topic": "Lungs, Liver, and Skin Excretory Contributions",
+    "classLevel": 11,
+    "topicId": "bio-top-16-2",
+    "topicTitle": "Reabsorption in Proximal Convoluted Tubule (PCT)",
+    "topic": "Reabsorption in Proximal Convoluted Tubule (PCT)",
     "mnemonicNumber": 14,
-    "title": "Other Excretory Organs: Lungs (200 mL CO2/min) | Liver (Bile pigments/Bilirubin) | Skin (Sweat & Sebaceous Sebum)",
-    "badgeText": "Classification",
-    "importance": "Medium Yield",
+    "title": "Reabsorption in Proximal Convoluted Tubule (PCT): \"PCT = 70-80% Electrolytes & Water, 100% Glucose & Amino Acids, Brush Border\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
+    "visualType": "sequence",
     "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Lungs = Remove 200 mL CO2/min + Water vapor | Liver = Bilirubin, Biliverdin, degraded steroid hormones, cholesterol | Sweat Glands = NaCl, urea, lactic acid | Sebaceous Glands = Sterols, hydrocarbons, waxes in Sebum",
-    "memoryHook": "Kidneys don't work alone! Lungs blow out 200 mL CO2 every minute; Liver dumps bile pigments into poop; Sweat cools and sheds salts; Sebaceous oil sheds waxes and sterols!",
-    "fact": "Lungs eliminate large amounts of CO2 (~200 mL/minute or ~18 L/day) and significant quantities of water vapor. Liver secretes bile containing bilirubin, biliverdin, cholesterol, degraded steroid hormones, vitamins, and drugs (eliminated with feces). Sweat contains NaCl, small amounts of urea, and lactic acid (primary role is cooling). Sebaceous glands eliminate sterols, hydrocarbons, and waxes through sebum.",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "PCT = 70-80% Electrolytes & Water, 100% Glucose & Amino Acids, Brush Border",
+    "memoryHook": "PCT = 70-80% Electrolytes & Water, 100% Glucose & Amino Acids, Brush Border",
+    "fact": "Surface: Simple cuboidal brush border epithelium increases surface area. Reabsorption: Nearly 100% of glucose & amino acids, and 70–80% of electrolytes and water. Secretion: Secretes H+, K+, and NH3 to maintain pH and ionic balance",
     "breakdown": [
       {
-        "key": "Lungs",
-        "label": "Eliminates ~200 mL of CO2 per minute (~18 L/day) and water vapor"
+        "key": "Surface",
+        "label": "Simple cuboidal brush border epithelium increases surface area"
       },
       {
-        "key": "Liver",
-        "label": "Largest gland; excretes bile pigments (bilirubin/biliverdin), cholesterol, steroid breakdown"
+        "key": "Reabsorption",
+        "label": "Nearly 100% of glucose & amino acids, and 70–80% of electrolytes and water"
       },
       {
-        "key": "Sweat Glands",
-        "label": "Watery fluid with NaCl, urea, lactic acid; mainly for evaporative thermoregulation"
-      },
-      {
-        "key": "Sebaceous Glands",
-        "label": "Oily sebum containing sterols, hydrocarbons, and waxes"
+        "key": "Secretion",
+        "label": "Secretes H+, K+, and NH3 to maintain pH and ionic balance"
       }
     ],
-    "doodleBadge": "Lungs: 200 mL CO2/min\nLiver: Bile Pigments\nSkin: Sweat & Sebum",
-    "doodleSubtext": "Accessory Excretion",
-    "explanation": "Saliva also eliminates minute amounts of nitrogenous wastes in humans.",
-    "alsoRemember": "The primary physiological function of sweat is thermoregulation (cooling), with excretion being secondary.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.7.",
-    "neetTrap": "Sweat contains LACTIC ACID and small amounts of urea in addition to NaCl.",
+    "doodleBadge": "PCT = 70-80% Electrolyte",
+    "doodleSubtext": "Reabsorption in Proximal",
+    "explanation": "Primary tubule segment responsible for bulk reabsorption of essential nutrients and electrolytes.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Reabsorption in Proximal Convoluted Tubule (PCT).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.25",
     "tags": [
-      "Lungs",
-      "Liver",
-      "Sweat",
-      "Sebum",
-      "CO2 Elimination"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Reabsorption"
     ],
-    "expandedMeaning": "Non-renal anatomical routes of metabolic end-product and volatile gas clearance.",
-    "whyItWorks": "Four-way split of waste excretion among organs.",
-    "visualDescription": "Four icons: Lungs blowing air (CO2), Liver (Bile), Sweat droplet (NaCl/Urea), Sebaceous follicle (Sebum wax).",
-    "neetRelevance": "Frequently tested in match-the-column and numerical elimination rate MCQs.",
-    "commonMistake": "Overlooking that sweat contains lactic acid and urea.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.7",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 25,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Approximately how much carbon dioxide (CO2) is eliminated by human lungs per minute under resting conditions?",
+      "question": "Which of the following is associated with \"Reabsorption in Proximal Convoluted Tubule (PCT)\" in NEET Biology?",
       "options": [
-        "20 mL/min",
-        "200 mL/min",
-        "2000 mL/min",
-        "50 mL/min"
+        "Simple cuboidal brush border epithelium increases surface area",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Our lungs eliminate approximately 200 mL of CO2 per minute (amounting to ~18 Litres per day)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Simple cuboidal brush border epithelium increases surface area\". Remember using: \"PCT = 70-80% Electrolytes & Water, 100% Glucose & Amino Acids, Brush Border\"."
     }
   },
   {
@@ -1009,66 +901,59 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
     "topicId": "bio-top-16-2",
-    "topicTitle": "Renal Clearance & Threshold Substances",
-    "topic": "High vs Low vs Non-Threshold Substances in Tubular Transport",
+    "topicTitle": "Function of Loop of Henle (Descending vs Ascending Limbs)",
+    "topic": "Function of Loop of Henle (Descending vs Ascending Limbs)",
     "mnemonicNumber": 15,
-    "title": "Threshold Substances: High (Glucose, Amino acids = 100% Reabsorbed) | Low (Urea, Uric acid) | A-threshold (Creatinine = 0% Reabsorbed)",
-    "badgeText": "Classification",
-    "importance": "Medium Yield",
+    "title": "Function of Loop of Henle (Descending vs Ascending Limbs): \"Descending Permeable to Water, Ascending Permeable to Electrolytes\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "High Threshold = Body hoards completely (Glucose, Amino acids, Na+) | Low Threshold = Body reabsorbs only a little (Urea, Uric acid) | Non-Threshold (A-threshold) = Body rejects 100% (Creatinine, Inulin)",
-    "memoryHook": "High value gold (Glucose) is 100% saved! Moderate waste (Urea) is partly kept for osmosis! Total garbage (Creatinine/Inulin) is never reabsorbed and 100% dumped!",
-    "fact": "Substances are categorized based on their renal transport threshold: High threshold substances (glucose, amino acids, vitamins, Na+) are actively and completely reabsorbed under normal physiological limits. Low threshold substances (urea, uric acid) are absorbed in small passive amounts. Non-threshold substances (creatinine, inulin) are not reabsorbed at all, making Inulin clearance the gold standard for measuring GFR.",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Descending Permeable to Water, Ascending Permeable to Electrolytes",
+    "memoryHook": "Descending Permeable to Water, Ascending Permeable to Electrolytes",
+    "fact": "Descending Limb: Permeable to water, impermeable to electrolytes (filtrate becomes hypertonic). Ascending Limb: Impermeable to water, active/passive transport of electrolytes (filtrate becomes hypotonic)",
     "breakdown": [
       {
-        "key": "High Threshold",
-        "label": "Glucose, amino acids (100% reabsorbed actively in PCT; spills into urine only if renal threshold exceeded >180 mg/dL)"
+        "key": "Descending Limb",
+        "label": "Permeable to water, impermeable to electrolytes (filtrate becomes hypertonic)"
       },
       {
-        "key": "Low Threshold",
-        "label": "Urea, uric acid (partially reabsorbed passively down concentration gradients)"
-      },
-      {
-        "key": "Non-Threshold",
-        "label": "Creatinine, inulin (0% reabsorbed; inulin clearance = true GFR)"
+        "key": "Ascending Limb",
+        "label": "Impermeable to water, active/passive transport of electrolytes (filtrate becomes hypotonic)"
       }
     ],
-    "doodleBadge": "High: Glucose (100%)\nLow: Urea\nNon: Inulin/Creatinine (0%)",
-    "doodleSubtext": "Tubular Thresholds",
-    "explanation": "Inulin is a plant polymer of fructose that is freely filtered, neither reabsorbed nor secreted, so its renal clearance exactly equals GFR.",
-    "alsoRemember": "Renal threshold for glucose is ~180 mg/100 mL of blood.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.3.",
-    "neetTrap": "Inulin is a FRUCTOSE polymer used for GFR measurement, NOT the hormone Insulin.",
+    "doodleBadge": "Descending Permeable to ",
+    "doodleSubtext": "Function of Loop of Henl",
+    "explanation": "Differential permeability properties along Henle's loop producing medullary osmotic gradient.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Function of Loop of Henle (Descending vs Ascending Limbs).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.25",
     "tags": [
-      "Threshold",
-      "Glucose",
-      "Urea",
-      "Inulin",
-      "Creatinine",
-      "Clearance"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Function"
     ],
-    "expandedMeaning": "Physiological transport maximum and tubular reabsorptive categorization of plasma constituents.",
-    "whyItWorks": "Gold vs Silver vs Garbage classification tiers.",
-    "visualDescription": "Bar chart showing 100% reabsorption for Glucose, 50% for Urea, and 0% for Inulin.",
-    "neetRelevance": "High concept diagnostic and physiological questions.",
-    "commonMistake": "Confusing plant polymer Inulin with pancreas hormone Insulin.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 25,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which substance is freely filtered at the glomerulus but is neither reabsorbed nor secreted by the renal tubules, making it ideal for GFR measurement?",
+      "question": "Which of the following is associated with \"Function of Loop of Henle (Descending vs Ascending Limbs)\" in NEET Biology?",
       "options": [
-        "Glucose",
-        "Insulin",
-        "Inulin",
-        "Albumin"
+        "Descending Permeable to Water, Ascending Permeable to Electrolytes",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Inulin (a fructose polysaccharide) is filtered freely and neither reabsorbed nor secreted, making its clearance equal to GFR."
+      "answerIndex": 0,
+      "explanation": "Differential permeability properties along Henle's loop producing medullary osmotic gradient."
     }
   },
   {
@@ -1077,65 +962,59 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-1",
-    "topicTitle": "Juxtaglomerular Apparatus (JGA) Structure",
-    "topic": "Macula Densa and JG Cells Cellular Specialization",
+    "classLevel": 11,
+    "topicId": "bio-top-16-2",
+    "topicTitle": "Reabsorption & Secretion in Distal Convoluted Tubule (DCT)",
+    "topic": "Reabsorption & Secretion in Distal Convoluted Tubule (DCT)",
     "mnemonicNumber": 16,
-    "title": "JGA Components: JG Cells (Afferent Arteriole Smooth Muscle) + Macula Densa (DCT Cells)",
-    "badgeText": "Concept",
+    "title": "Reabsorption & Secretion in Distal Convoluted Tubule (DCT): \"DCT = Conditional Na+ and Water Reabsorption, HCO3- Reabsorption\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
     "badgeColor": "#3DBE75",
-    "mnemonic": "JGA = Juxtaglomerular Cells (Modified smooth muscle of Afferent Arteriole -> secrete Renin) + Macula Densa (Dense chemoreceptor cells of DCT -> sense Na+ levels)",
-    "memoryHook": "Macula Densa tastes the salt in the DCT soup! If Na+ is too low, it signals JG cells in the afferent arteriole doorway to shoot out Renin!",
-    "fact": "Juxtaglomerular apparatus (JGA) is a specialized microscopic structure formed by the cellular contact between the Distal Convoluted Tubule (DCT) and the Afferent Arteriole supplying the glomerulus. It consists of JG cells (modified smooth muscle cells of afferent arteriole containing renin granules) and Macula Densa (densely packed epithelial cells of DCT acting as chemoreceptors for luminal Na+ and Cl- concentration).",
+    "mnemonic": "DCT = Conditional Na+ and Water Reabsorption, HCO3- Reabsorption",
+    "memoryHook": "DCT = Conditional Na+ and Water Reabsorption, HCO3- Reabsorption",
+    "fact": "Conditional Reabsorption: Na+ and Water reabsorbed under hormonal influence (Aldosterone). Acid-Base Balance: Reabsorbs HCO3- and selectively secretes H+, K+, and NH3",
     "breakdown": [
       {
-        "key": "Juxtaglomerular (JG) Cells",
-        "label": "Modified smooth muscle cells of afferent arteriole; synthesize, store, and release Renin"
+        "key": "Conditional Reabsorption",
+        "label": "Na+ and Water reabsorbed under hormonal influence (Aldosterone)"
       },
       {
-        "key": "Macula Densa",
-        "label": "Specialized columnar epithelial cells of DCT; sense tubular fluid flow and Na+ concentration"
-      },
-      {
-        "key": "Lacis Cells (Polkissen)",
-        "label": "Extraglomerular mesangial cells providing structural support and signaling relay"
+        "key": "Acid",
+        "label": "Base Balance: Reabsorbs HCO3- and selectively secretes H+, K+, and NH3"
       }
     ],
-    "doodleBadge": "JG Cells (Renin)\n+ Macula Densa (Salt Sensor)",
-    "doodleSubtext": "JGA Architecture",
-    "explanation": "When GFR drops, filtrate moves slowly and more Na+ is reabsorbed, leaving low Na+ in DCT. Macula densa senses this drop and triggers renin release.",
-    "alsoRemember": "Erythropoietin (EPO) is also produced by juxtaglomerular/interstitial renal cells to stimulate RBC production.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.6.",
-    "neetTrap": "JG cells are located in the AFFERENT arteriole wall, not the efferent arteriole.",
+    "doodleBadge": "DCT = Conditional Na+ an",
+    "doodleSubtext": "Reabsorption & Secretion",
+    "explanation": "Fine-tuning segment regulated hormonally for homeostatic fluid balance and pH maintenance.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Reabsorption & Secretion in Distal Convoluted Tubule (DCT).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.25",
     "tags": [
-      "JGA",
-      "Macula Densa",
-      "JG Cells",
-      "Renin",
-      "DCT"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Reabsorption"
     ],
-    "expandedMeaning": "Microvascular-tubular feedback junction regulating single-nephron glomerular hemodynamics.",
-    "whyItWorks": "Clear pairing: Macula Densa = sensor in DCT, JG cells = effector in arteriole.",
-    "visualDescription": "Contact point between pink afferent arteriole and purple DCT showing dense sensor cells and renin granules.",
-    "neetRelevance": "High yield histology and endocrine regulation questions.",
-    "commonMistake": "Placing macula densa in PCT instead of DCT.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 25,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The Macula Densa is a specialized group of chemoreceptor cells located in the wall of the:",
+      "question": "Which of the following is associated with \"Reabsorption & Secretion in Distal Convoluted Tubule (DCT)\" in NEET Biology?",
       "options": [
-        "Proximal Convoluted Tubule (PCT)",
-        "Distal Convoluted Tubule (DCT)",
-        "Loop of Henle descending limb",
-        "Collecting duct"
+        "DCT = Conditional Na+ and Water Reabsorption, HCO3- Reabsorption",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "The Macula Densa consists of specialized densely packed sensory cells located in the wall of the Distal Convoluted Tubule (DCT)."
+      "answerIndex": 0,
+      "explanation": "Fine-tuning segment regulated hormonally for homeostatic fluid balance and pH maintenance."
     }
   },
   {
@@ -1144,65 +1023,59 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
     "topicId": "bio-top-16-2",
-    "topicTitle": "Active vs Passive Reabsorption in Tubules",
-    "topic": "Transport Mechanisms across Renal Tubular Epithelium",
+    "topicTitle": "Function of Collecting Duct",
+    "topic": "Function of Collecting Duct",
     "mnemonicNumber": 17,
-    "title": "Tubular Transport: Active (Glucose, Amino Acids, Na+) vs Passive (Nitrogenous Wastes, Water by Osmosis)",
-    "badgeText": "Comparison",
-    "importance": "Medium Yield",
+    "title": "Function of Collecting Duct: \"Large Water Reabsorption, Small Urea Pass to Medulla\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFE681",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#5B8DEF",
-    "mnemonic": "Active Transport (Needs ATP): Glucose, Amino Acids, Na+ | Passive Transport (No ATP): Water (Osmosis), Urea, Cl- (Electrical gradient)",
-    "memoryHook": "Body spends energy (ATP) to pump valuable nutrients (Glucose, Amino acids) and Na+! Water and Urea simply slip across passively along the osmotic gradient created by the pumps!",
-    "fact": "Reabsorption of substances occurs via two mechanisms: Active transport: Glucose, amino acids, and Na+ in the filtrate are reabsorbed actively against concentration gradients using ATP-dependent carriers. Passive transport: Nitrogenous wastes (urea) and water are absorbed passively down osmotic and concentration gradients.",
+    "mnemonic": "Large Water Reabsorption, Small Urea Pass to Medulla",
+    "memoryHook": "Large Water Reabsorption, Small Urea Pass to Medulla",
+    "fact": "Water Extraction: Reabsorbs large amounts of water to produce concentrated urine. Osmolality: Allows passage of small amounts of Urea into medullary interstitium to maintain gradient",
     "breakdown": [
       {
-        "key": "Active Reabsorption",
-        "label": "Glucose, amino acids, Na+ (requires ATP/sodium-coupled transporters)"
+        "key": "Water Extraction",
+        "label": "Reabsorbs large amounts of water to produce concentrated urine"
       },
       {
-        "key": "Passive Reabsorption",
-        "label": "Water (osmosis via aquaporins), urea (simple diffusion)"
-      },
-      {
-        "key": "Tubular Secretion",
-        "label": "H+, K+, ammonia are actively secreted into filtrate to maintain pH"
+        "key": "Osmolality",
+        "label": "Allows passage of small amounts of Urea into medullary interstitium to maintain gradient"
       }
     ],
-    "doodleBadge": "Active = Glucose, Amino Acids, Na+\nPassive = Water, Urea",
-    "doodleSubtext": "Transport Energetics",
-    "explanation": "Sodium reabsorption drives secondary active transport of glucose and amino acids in the brush border of PCT.",
-    "alsoRemember": "Potassium (K+) is actively secreted into the DCT under the influence of aldosterone.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.3.",
-    "neetTrap": "Water is absorbed PASSIVELY by osmosis, following the active reabsorption of solutes.",
+    "doodleBadge": "Large Water Reabsorption",
+    "doodleSubtext": "Function of Collecting D",
+    "explanation": "Final tubular segment adjusting final urine concentration before emptying into calyces.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Function of Collecting Duct.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.25",
     "tags": [
-      "Active Transport",
-      "Passive Transport",
-      "Reabsorption",
-      "PCT",
-      "Osmosis"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Function"
     ],
-    "expandedMeaning": "Thermodynamic classification of solute and water fluxes across tubular epithelia.",
-    "whyItWorks": "Active (Valuable nutrients) vs Passive (Water/Waste).",
-    "visualDescription": "Tubular cell showing ATP-powered pumps for Na+/Glucose on one side and passive water channels on other.",
-    "neetRelevance": "Common in transport mechanism multiple-choice items.",
-    "commonMistake": "Assuming water reabsorption requires direct ATP hydrolysis.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 25,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following substances in glomerular filtrate is reabsorbed PASSIVELY across the tubular epithelial cells?",
+      "question": "Which of the following is associated with \"Function of Collecting Duct\" in NEET Biology?",
       "options": [
-        "Glucose",
-        "Amino acids",
-        "Sodium ions (Na+)",
-        "Nitrogenous waste (Urea)"
+        "Large Water Reabsorption, Small Urea Pass to Medulla",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 3,
-      "explanation": "Nitrogenous wastes such as urea are reabsorbed passively by simple diffusion, whereas glucose, amino acids, and Na+ are reabsorbed actively."
+      "answerIndex": 0,
+      "explanation": "Final tubular segment adjusting final urine concentration before emptying into calyces."
     }
   },
   {
@@ -1211,73 +1084,63 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-4",
-    "topicTitle": "Hemodialysis Process Details",
-    "topic": "Artificial Kidney and Dialyzing Fluid Mechanism",
+    "classLevel": 11,
+    "topicId": "bio-top-16-2",
+    "topicTitle": "Counter-Current System Structures & Flow Direction",
+    "topic": "Counter-Current System Structures & Flow Direction",
     "mnemonicNumber": 18,
-    "title": "Hemodialysis: Radial Artery Blood + Heparin -> Cellophane Coil -> Waste Diffuses Out -> Anti-Heparin -> Vein Return",
-    "badgeText": "Sequence",
+    "title": "Counter-Current System Structures & Flow Direction: \"Opposite Flow in Henle & Vasa Recta Creates Medullary Gradient\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "medium",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Blood pumped from Artery -> Chilled + Heparin (Anticoagulant) added -> Dialyzer Unit (Porous cellophane coils in isotonic zero-urea fluid) -> Nitrogenous wastes diffuse out -> Warmed + Anti-Heparin added -> Returned to Vein",
-    "memoryHook": "Artery out -> Add Heparin so blood doesn't clot in the tubes -> Cellophane filter cleans out urea into dialyzing bath -> Add Anti-Heparin to restore normal clotting -> Safely pump clean blood back into Vein!",
-    "fact": "In patients with uremia, hemodialysis is used: Blood drained from a convenient artery is pumped into a dialyzing unit after adding an anticoagulant like heparin. The unit contains a coiled cellophane tube surrounded by dialyzing fluid with the same composition as plasma except the nitrogenous wastes. Wastes freely diffuse out down concentration gradient. The cleared blood is pumped back to the body through a vein after adding anti-heparin.",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Opposite Flow in Henle & Vasa Recta Creates Medullary Gradient",
+    "memoryHook": "Opposite Flow in Henle & Vasa Recta Creates Medullary Gradient",
+    "fact": "Counter-Current Flow: Flow of filtrate in two limbs of Loop of Henle in opposite directions. Vasa Recta Flow: Flow of blood through two limbs of Vasa Recta also in opposite directions. Gradient: Increases osmolality from 300 mOsmol/L in cortex to 1200 mOsmol/L in inner medulla",
     "breakdown": [
       {
-        "key": "Vessel of Extraction",
-        "label": "Artery (usually radial artery)"
+        "key": "Counter",
+        "label": "Current Flow: Flow of filtrate in two limbs of Loop of Henle in opposite directions"
       },
       {
-        "key": "Anticoagulant Added",
-        "label": "Heparin added before entry into machine"
+        "key": "Vasa Recta Flow",
+        "label": "Flow of blood through two limbs of Vasa Recta also in opposite directions"
       },
       {
-        "key": "Membrane Type",
-        "label": "Porous semipermeable Cellophane tube"
-      },
-      {
-        "key": "Dialyzing Fluid",
-        "label": "Exact same osmolarity and ions as plasma MINUS nitrogenous wastes"
-      },
-      {
-        "key": "Vessel of Return",
-        "label": "Vein (after adding Anti-heparin to neutralize anticoagulant)"
+        "key": "Gradient",
+        "label": "Increases osmolality from 300 mOsmol/L in cortex to 1200 mOsmol/L in inner medulla"
       }
     ],
-    "doodleBadge": "Artery -> Heparin -> Dialyzer -> Anti-Heparin -> Vein",
-    "doodleSubtext": "Hemodialysis Cycle",
-    "explanation": "Renal transplantation is the ultimate permanent treatment for acute or end-stage renal failure (ESRF).",
-    "alsoRemember": "Immunosuppressive drugs like Cyclosporin A (from fungus Trichoderma polysporum) are used to prevent graft rejection.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.8.",
-    "neetTrap": "Blood is taken from an ARTERY and returned via a VEIN (not vein-to-vein).",
+    "doodleBadge": "Opposite Flow in Henle &",
+    "doodleSubtext": "Counter-Current System S",
+    "explanation": "Anatomical orientation enabling hyperosmolar medullary interstitial gradient maintenance. Chapter 16: Excretory Products and Their Elimination (30 Mnemonics) \tPage 3",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Counter-Current System Structures & Flow Direction.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.25",
     "tags": [
-      "Hemodialysis",
-      "Heparin",
-      "Anti-Heparin",
-      "Uremia",
-      "Cellophane"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Counter-Current"
     ],
-    "expandedMeaning": "Extracorporeal solute diffusion kinetics and clinical anticoagulation protocol in hemodialysis.",
-    "whyItWorks": "Artery -> Heparin -> Filter -> Anti-Heparin -> Vein chronological sequence.",
-    "visualDescription": "Schematic showing blood path from arm artery through cellophane coil tank back to arm vein with heparin/anti-heparin markers.",
-    "neetRelevance": "Tested frequently in NCERT sequence and true/false questions.",
-    "commonMistake": "Thinking anti-heparin is added before the dialyzer.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.8",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 25,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "During hemodialysis, what substance is added to the cleared blood before pumping it back into the patient vein?",
+      "question": "Which of the following is associated with \"Counter-Current System Structures & Flow Direction\" in NEET Biology?",
       "options": [
-        "Heparin",
-        "Anti-heparin",
-        "Thromboplastin",
-        "EDTA"
+        "Current Flow: Flow of filtrate in two limbs of Loop of Henle in opposite directi",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Anti-heparin is added to neutralize the anticoagulant effect of heparin before cleared blood is returned to the vein."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Current Flow: Flow of filtrate in two limbs of Loop of Henle in opposite directions\". Remember using: \"Opposite Flow in Henle & Vasa Recta Creates Medullary Gradient\"."
     }
   },
   {
@@ -1286,69 +1149,59 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
     "topicId": "bio-top-16-2",
-    "topicTitle": "Collecting Duct Role in Osmoregulation",
-    "topic": "Final Water Reabsorption and Urea Permeability",
+    "topicTitle": "Osmolytes Maintaining Medullary Gradient",
+    "topic": "Osmolytes Maintaining Medullary Gradient",
     "mnemonicNumber": 19,
-    "title": "Collecting Duct: Final Water Squeeze (ADH dependent) + Urea Leak for Medullary Osmolarity",
-    "badgeText": "Concept",
-    "importance": "Medium Yield",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
+    "title": "Osmolytes Maintaining Medullary Gradient: \"NaCl & Urea Maintain Interstitial Osmolality\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Collecting Duct = Reabsorbs massive Water under ADH + Allows small Urea leak at bottom into medullary interstitium to keep gradient at 1200 mOsmol/L!",
-    "memoryHook": "Collecting duct is the final exit pipe running from cortex to inner medulla. As it travels down into the salty 1200 mOsmol/L zone, ADH opens water floodgates, and a pinch of urea leaks out to keep the medullary sponge super salty!",
-    "fact": "The collecting duct extends from the cortex of the kidney to the inner parts of the medulla. Large amounts of water are reabsorbed from this region to produce concentrated urine. It also allows passage of small amounts of urea into the medullary interstitium to keep up the osmolarity. It plays a role in maintenance of pH and ionic balance of blood by selective secretion of H+ and K+ ions.",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "NaCl & Urea Maintain Interstitial Osmolality",
+    "memoryHook": "NaCl & Urea Maintain Interstitial Osmolality",
+    "fact": "NaCl Transport: Transported by ascending limb of Henle's loop and exchanged with descending limb of Vasa Recta. Urea Recycling: Enters thin ascending limb of Henle's loop and returned to interstitium by collecting duct",
     "breakdown": [
       {
-        "key": "Location",
-        "label": "Runs from cortex through medulla down to renal pelvis calyces"
+        "key": "NaCl Transport",
+        "label": "Transported by ascending limb of Henle's loop and exchanged with descending limb of Vasa Recta"
       },
       {
-        "key": "Water Reabsorption",
-        "label": "Maximum concentrated water retrieval under ADH stimulation"
-      },
-      {
-        "key": "Urea Permeability",
-        "label": "Medullary portion allows small urea leakage into medullary interstitium"
-      },
-      {
-        "key": "Acid-Base Balance",
-        "label": "Secretes H+ and K+ to maintain blood pH"
+        "key": "Urea Recycling",
+        "label": "Enters thin ascending limb of Henle's loop and returned to interstitium by collecting duct"
       }
     ],
-    "doodleBadge": "Collecting Duct:\nWater Out + Urea Leak",
-    "doodleSubtext": "Final Concentration",
-    "explanation": "Without urea recycling from the collecting duct, the deep medullary osmotic gradient of 1200 mOsmol/L cannot be maintained.",
-    "alsoRemember": "Multiple nephrons drain their DCTs into a single common collecting duct.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.4.",
-    "neetTrap": "The Collecting Duct is permeable to UREA in its medullary portion, NOT in its cortical portion.",
+    "doodleBadge": "NaCl & Urea Maintain Int",
+    "doodleSubtext": "Osmolytes Maintaining Me",
+    "explanation": "Two primary solutes recycled between tubules and vasa recta to preserve hypertonicity.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Osmolytes Maintaining Medullary Gradient.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.26",
     "tags": [
-      "Collecting Duct",
-      "Urea Recycling",
-      "ADH",
-      "Acid-Base",
-      "Concentration"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Osmolytes"
     ],
-    "expandedMeaning": "Terminal distal tubular segment mediating final osmolar adjustment and interstitial urea replenishment.",
-    "whyItWorks": "Dual action: Water conservation + Urea recycling anchor.",
-    "visualDescription": "Long vertical duct descending from light cortex into dark purple medulla leaking water and urea.",
-    "neetRelevance": "Common in medullary gradient mechanism questions.",
-    "commonMistake": "Believing the collecting duct is completely impermeable to urea.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 26,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which segment of the renal tubule allows small amounts of urea to diffuse into the medullary interstitium to maintain the osmotic gradient?",
+      "question": "Which of the following is associated with \"Osmolytes Maintaining Medullary Gradient\" in NEET Biology?",
       "options": [
-        "Proximal Convoluted Tubule",
-        "Descending limb of Henle",
-        "Ascending limb of Henle",
-        "Collecting Duct"
+        "NaCl & Urea Maintain Interstitial Osmolality",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 3,
-      "explanation": "The medullary portion of the Collecting Duct allows passage of small amounts of urea into the medullary interstitium."
+      "answerIndex": 0,
+      "explanation": "Two primary solutes recycled between tubules and vasa recta to preserve hypertonicity."
     }
   },
   {
@@ -1357,73 +1210,713 @@ export const bioCh16Mnemonics = [
     "chapterId": "bio-ch-16",
     "chapterNumber": 16,
     "chapterTitle": "Excretory Products and Their Elimination",
-    "topicId": "bio-top-16-1",
-    "topicTitle": "Ornithine (Kreb-Henseleit) Urea Cycle",
-    "topic": "Hepatic Synthesis of Urea from Ammonia and CO2",
+    "classLevel": 11,
+    "topicId": "bio-top-16-2",
+    "topicTitle": "Concentration Capability of Human Kidneys",
+    "topic": "Concentration Capability of Human Kidneys",
     "mnemonicNumber": 20,
-    "title": "Urea Cycle (Liver): Ammonia + CO2 -> Carbamoyl Phosphate -> Citrulline -> Argininosuccinate -> Arginine -> Urea + Ornithine",
-    "badgeText": "Sequence",
+    "title": "Concentration Capability of Human Kidneys: \"Human Kidneys Concentrate Urine 4 Times (1200 vs 300 mOsmol/L)\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "hard",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Ordinarily, Careless Caregivers Are Also Annoying (Ornithine -> Carbamoyl P -> Citrulline -> Argininosuccinate -> Arginine -> Urea + Ornithine)",
-    "memoryHook": "Synthesized in the LIVER (not kidney!). 2 Ammonia molecules + 1 CO2 get cooked through the Ornithine cycle into 1 non-toxic Urea molecule, catalyzed by Arginase in the final step!",
-    "fact": "Urea is synthesized exclusively in the LIVER via the Ornithine Cycle (Krebs-Henseleit Cycle). Toxic ammonia produced from amino acid deamination combines with CO2 using ATP to form Carbamoyl Phosphate. It condenses with Ornithine to form Citrulline -> Argininosuccinate -> Arginine. Finally, the enzyme Arginase cleaves Arginine into Urea (released into blood) and regenerates Ornithine.",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Human Kidneys Concentrate Urine 4 Times (1200 vs 300 mOsmol/L)",
+    "memoryHook": "Human Kidneys Concentrate Urine 4 Times (1200 vs 300 mOsmol/L)",
+    "fact": "Initial Filtrate: 300 mOsmol/L (Isotonic to blood plasma). Concentrated Urine: 1200 mOsmol/L (4x more concentrated than initial filtrate)",
     "breakdown": [
       {
-        "key": "Site of Synthesis",
-        "label": "LIVER hepatocytes (mitochondria + cytoplasm), NOT the kidney"
+        "key": "Initial Filtrate",
+        "label": "300 mOsmol/L (Isotonic to blood plasma)"
       },
       {
-        "key": "Substrates",
-        "label": "2 NH3 (Ammonia) + 1 CO2 + 3 ATP"
-      },
-      {
-        "key": "Key Intermediates",
-        "label": "Ornithine -> Citrulline -> Argininosuccinate -> Arginine"
-      },
-      {
-        "key": "Final Cleavage Enzyme",
-        "label": "Arginase cleaves Arginine into Urea + Ornithine"
-      },
-      {
-        "key": "Transportation",
-        "label": "Urea enters hepatic vein -> systemic circulation -> filtered by kidney"
+        "key": "Concentrated Urine",
+        "label": "1200 mOsmol/L (4x more concentrated than initial filtrate)"
       }
     ],
-    "doodleBadge": "Ornithine -> Citrulline -> Arginine -> Urea",
-    "doodleSubtext": "Liver Urea Factory",
-    "explanation": "Kidneys do NOT synthesize urea; they only filter and excrete the urea manufactured by the liver.",
-    "alsoRemember": "Hepatic vein contains the HIGHEST concentration of urea in the human body, while Renal vein contains the LOWEST concentration.",
-    "ncertConnection": "NCERT Class 11 Biology Section 19.1.",
-    "neetTrap": "Highest urea concentration is in the HEPATIC VEIN; lowest is in the RENAL VEIN.",
+    "doodleBadge": "Human Kidneys Concentrat",
+    "doodleSubtext": "Concentration Capability",
+    "explanation": "Maximum concentration factor achievable by human counter-current system for water conservation.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Concentration Capability of Human Kidneys.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.26",
     "tags": [
-      "Urea Cycle",
-      "Ornithine",
-      "Liver",
-      "Arginase",
-      "Hepatic Vein"
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Concentration"
     ],
-    "expandedMeaning": "Enzymatic metabolic cycle in hepatic tissue detoxifying cellular ammonia into excretable urea.",
-    "whyItWorks": "Famous mnemonic sentence for cyclic intermediates.",
-    "visualDescription": "Circular biochemical wheel in liver cell generating Urea from Ammonia and CO2 with regenerated Ornithine.",
-    "neetRelevance": "One of the most classic NEET trap questions on highest vs lowest urea concentration vessels.",
-    "commonMistake": "Thinking urea is synthesized inside the kidneys.",
-    "sourceReference": "NCERT Class 11 Chapter 19 Section 19.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 26,
+      "chapter": "Excretory Products and Their Elimination"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which blood vessel in the human body normally contains the HIGHEST concentration of urea?",
+      "question": "Which of the following is associated with \"Concentration Capability of Human Kidneys\" in NEET Biology?",
       "options": [
-        "Renal artery",
-        "Renal vein",
-        "Hepatic vein",
-        "Hepatic portal vein"
+        "Human Kidneys Concentrate Urine 4 Times (1200 vs 300 mOsmol/L)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "The Hepatic Vein carries blood away from the liver (where urea is synthesized) and has the highest urea concentration."
+      "answerIndex": 0,
+      "explanation": "Maximum concentration factor achievable by human counter-current system for water conservation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch16-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-16",
+    "chapterNumber": 16,
+    "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
+    "topicId": "bio-top-16-3",
+    "topicTitle": "ADH / Vasopressin Mode of Action",
+    "topic": "ADH / Vasopressin Mode of Action",
+    "mnemonicNumber": 21,
+    "title": "ADH / Vasopressin Mode of Action: \"Osmoreceptors Hypothalamus -> Neurohypophysis ADH -> DCT Water Reabsorption\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Osmoreceptors Hypothalamus -> Neurohypophysis ADH -> DCT Water Reabsorption",
+    "memoryHook": "Osmoreceptors Hypothalamus -> Neurohypophysis ADH -> DCT Water Reabsorption",
+    "fact": "Trigger: Excessive fluid loss stimulates osmoreceptors in hypothalamus. Release: Neurohypophysis (posterior pituitary) releases ADH / Vasopressin. Action: Facilitates water reabsorption from DCT and Collecting duct, preventing diuresis. Feedback: Increase in body fluid volume switches off osmoreceptors",
+    "breakdown": [
+      {
+        "key": "Trigger",
+        "label": "Excessive fluid loss stimulates osmoreceptors in hypothalamus"
+      },
+      {
+        "key": "Release",
+        "label": "Neurohypophysis (posterior pituitary) releases ADH / Vasopressin"
+      },
+      {
+        "key": "Action",
+        "label": "Facilitates water reabsorption from DCT and Collecting duct, preventing diuresis"
+      },
+      {
+        "key": "Feedback",
+        "label": "Increase in body fluid volume switches off osmoreceptors"
+      }
+    ],
+    "doodleBadge": "Osmoreceptors Hypothalam",
+    "doodleSubtext": "ADH / Vasopressin Mode o",
+    "explanation": "Endocrine reflex arc preventing dehydration via antidiuretic hormone secretion.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in ADH / Vasopressin Mode of Action.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.26",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "ADH"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 26,
+      "chapter": "Excretory Products and Their Elimination"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"ADH / Vasopressin Mode of Action\" in NEET Biology?",
+      "options": [
+        "Excessive fluid loss stimulates osmoreceptors in hypothalamus",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Excessive fluid loss stimulates osmoreceptors in hypothalamus\". Remember using: \"Osmoreceptors Hypothalamus -> Neurohypophysis ADH -> DCT Water Reabsorption\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch16-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-16",
+    "chapterNumber": 16,
+    "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
+    "topicId": "bio-top-16-3",
+    "topicTitle": "Juxtaglomerular Apparatus (JGA) Structure",
+    "topic": "Juxtaglomerular Apparatus (JGA) Structure",
+    "mnemonicNumber": 22,
+    "title": "Juxtaglomerular Apparatus (JGA) Structure: \"JGA = Cellular Modification at DCT Contact + Afferent Arteriole\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "JGA = Cellular Modification at DCT Contact + Afferent Arteriole",
+    "memoryHook": "JGA = Cellular Modification at DCT Contact + Afferent Arteriole",
+    "fact": "Location: Sensitive region formed by cellular modifications at point of contact between DCT and Afferent arteriole. JG Cells: Release Renin enzyme in response to fall in glomerular blood flow / GFR",
+    "breakdown": [
+      {
+        "key": "Location",
+        "label": "Sensitive region formed by cellular modifications at point of contact between DCT and Afferent arteriole"
+      },
+      {
+        "key": "JG Cells",
+        "label": "Release Renin enzyme in response to fall in glomerular blood flow / GFR"
+      }
+    ],
+    "doodleBadge": "JGA = Cellular Modificat",
+    "doodleSubtext": "Juxtaglomerular Apparatu",
+    "explanation": "Anatomical auto-regulatory sensory complex monitoring renal blood flow and arterial pressure.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Juxtaglomerular Apparatus (JGA) Structure.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.26",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Juxtaglomerular"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 26,
+      "chapter": "Excretory Products and Their Elimination"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Juxtaglomerular Apparatus (JGA) Structure\" in NEET Biology?",
+      "options": [
+        "JGA = Cellular Modification at DCT Contact + Afferent Arteriole",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Anatomical auto-regulatory sensory complex monitoring renal blood flow and arterial pressure."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch16-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-16",
+    "chapterNumber": 16,
+    "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
+    "topicId": "bio-top-16-3",
+    "topicTitle": "Renin-Angiotensin-Aldosterone System (RAAS Cascade)",
+    "topic": "Renin-Angiotensin-Aldosterone System (RAAS Cascade)",
+    "mnemonicNumber": 23,
+    "title": "Renin-Angiotensin-Aldosterone System (RAAS Cascade): \"Renin -> Angiotensinogen to I -> Angiotensin II -> Vasoconstriction + Aldosterone\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Renin -> Angiotensinogen to I -> Angiotensin II -> Vasoconstriction + Aldosterone",
+    "memoryHook": "Renin -> Angiotensinogen to I -> Angiotensin II -> Vasoconstriction + Aldosterone",
+    "fact": "Low GFR: JG cells release Renin. Renin: Converts Angiotensinogen in blood to Angiotensin I and then Angiotensin II. Angiotensin II: Powerful vasoconstrictor (increases glomerular BP) + stimulates Adrenal Cortex to release Aldosterone. Aldosterone: Causes Na+ and water reabsorption in DCT, restoring GFR",
+    "breakdown": [
+      {
+        "key": "Low GFR",
+        "label": "JG cells release Renin"
+      },
+      {
+        "key": "Renin",
+        "label": "Converts Angiotensinogen in blood to Angiotensin I and then Angiotensin II"
+      },
+      {
+        "key": "Angiotensin II",
+        "label": "Powerful vasoconstrictor (increases glomerular BP) + stimulates Adrenal Cortex to release Aldosterone"
+      },
+      {
+        "key": "Aldosterone",
+        "label": "Causes Na+ and water reabsorption in DCT, restoring GFR"
+      }
+    ],
+    "doodleBadge": "Renin -> Angiotensinogen",
+    "doodleSubtext": "Renin-Angiotensin-Aldost",
+    "explanation": "Multihormonal feedback pathway restoring depressed blood pressure and glomerular filtration.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Renin-Angiotensin-Aldosterone System (RAAS Cascade).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.26",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Renin-Angiotensin-Aldosterone"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 26,
+      "chapter": "Excretory Products and Their Elimination"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Renin-Angiotensin-Aldosterone System (RAAS Cascade)\" in NEET Biology?",
+      "options": [
+        "JG cells release Renin",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"JG cells release Renin\". Remember using: \"Renin -> Angiotensinogen to I -> Angiotensin II -> Vasoconstriction + Aldosterone\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch16-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-16",
+    "chapterNumber": 16,
+    "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
+    "topicId": "bio-top-16-3",
+    "topicTitle": "Atrial Natriuretic Factor (ANF) - Counter Regulator",
+    "topic": "Atrial Natriuretic Factor (ANF) - Counter Regulator",
+    "mnemonicNumber": 24,
+    "title": "Atrial Natriuretic Factor (ANF) - Counter Regulator: \"High BP -> Heart Atria Release ANF -> Vasodilation -> Lowers BP\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "High BP -> Heart Atria Release ANF -> Vasodilation -> Lowers BP",
+    "memoryHook": "High BP -> Heart Atria Release ANF -> Vasodilation -> Lowers BP",
+    "fact": "Stimulus: Increase in blood flow to atria of heart. Action: ANF causes vasodilation (dilation of blood vessels) and inhibits Renin release. Result: Decreases blood pressure; acts as a check on RAAS mechanism",
+    "breakdown": [
+      {
+        "key": "Stimulus",
+        "label": "Increase in blood flow to atria of heart"
+      },
+      {
+        "key": "Action",
+        "label": "ANF causes vasodilation (dilation of blood vessels) and inhibits Renin release"
+      },
+      {
+        "key": "Result",
+        "label": "Decreases blood pressure; acts as a check on RAAS mechanism"
+      }
+    ],
+    "doodleBadge": "High BP -> Heart Atria R",
+    "doodleSubtext": "Atrial Natriuretic Facto",
+    "explanation": "Cardiac hormone acting as a safety brake to prevent excessive hypertension caused by RAAS. Chapter 16: Excretory Products and Their Elimination (30 Mnemonics) \tPage 4",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Atrial Natriuretic Factor (ANF) - Counter Regulator.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.26",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Atrial"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 26,
+      "chapter": "Excretory Products and Their Elimination"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Atrial Natriuretic Factor (ANF) - Counter Regulator\" in NEET Biology?",
+      "options": [
+        "Increase in blood flow to atria of heart",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Increase in blood flow to atria of heart\". Remember using: \"High BP -> Heart Atria Release ANF -> Vasodilation -> Lowers BP\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch16-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-16",
+    "chapterNumber": 16,
+    "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
+    "topicId": "bio-top-16-3",
+    "topicTitle": "Micturition Reflex Neural Pathway",
+    "topic": "Micturition Reflex Neural Pathway",
+    "mnemonicNumber": 25,
+    "title": "Micturition Reflex Neural Pathway: \"Stretch Receptors -> CNS -> Motor Signal -> Detrusor Contracts + Sphincter Relaxes\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Stretch Receptors -> CNS -> Motor Signal -> Detrusor Contracts + Sphincter Relaxes",
+    "memoryHook": "Stretch Receptors -> CNS -> Motor Signal -> Detrusor Contracts + Sphincter Relaxes",
+    "fact": "Stimulus: Urine fills bladder, stretching bladder wall. CNS Signal: Stretch receptors send signals to CNS. Motor Reflex: CNS signals contraction of smooth muscles of bladder and simultaneous relaxation of urethral sphincter",
+    "breakdown": [
+      {
+        "key": "Stimulus",
+        "label": "Urine fills bladder, stretching bladder wall"
+      },
+      {
+        "key": "CNS Signal",
+        "label": "Stretch receptors send signals to CNS"
+      },
+      {
+        "key": "Motor Reflex",
+        "label": "CNS signals contraction of smooth muscles of bladder and simultaneous relaxation of urethral sphincter"
+      }
+    ],
+    "doodleBadge": "Stretch Receptors -> CNS",
+    "doodleSubtext": "Micturition Reflex Neura",
+    "explanation": "Neural reflex mechanism governing voluntary/involuntary voiding of urinary bladder.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Micturition Reflex Neural Pathway.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.27",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Micturition"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 27,
+      "chapter": "Excretory Products and Their Elimination"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Micturition Reflex Neural Pathway\" in NEET Biology?",
+      "options": [
+        "Urine fills bladder, stretching bladder wall",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Urine fills bladder, stretching bladder wall\". Remember using: \"Stretch Receptors -> CNS -> Motor Signal -> Detrusor Contracts + Sphincter Relaxes\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch16-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-16",
+    "chapterNumber": 16,
+    "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
+    "topicId": "bio-top-16-3",
+    "topicTitle": "Daily Urea Excretion Quantity & Urine Characteristics",
+    "topic": "Daily Urea Excretion Quantity & Urine Characteristics",
+    "mnemonicNumber": 26,
+    "title": "Daily Urea Excretion Quantity & Urine Characteristics: \"25 to 30 Grams Urea Daily, pH 6.0 Light Yellow\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "25 to 30 Grams Urea Daily, pH 6.0 Light Yellow",
+    "memoryHook": "25 to 30 Grams Urea Daily, pH 6.0 Light Yellow",
+    "fact": "Urea Excretion: An adult human excretes on average 25 – 30 grams of urea per day. Physical Properties: Watery fluid, light yellow in color (urochrome), slightly acidic (pH ~6.0). Clinical Indicators: Glycosuria (Glucose in urine) and Ketonuria (Ketone bodies in urine) indicate Diabetes Mellitus",
+    "breakdown": [
+      {
+        "key": "Urea Excretion",
+        "label": "An adult human excretes on average 25 – 30 grams of urea per day"
+      },
+      {
+        "key": "Physical Properties",
+        "label": "Watery fluid, light yellow in color (urochrome), slightly acidic (pH ~6.0)"
+      },
+      {
+        "key": "Clinical Indicators",
+        "label": "Glycosuria (Glucose in urine) and Ketonuria (Ketone bodies in urine) indicate Diabetes Mellitus"
+      }
+    ],
+    "doodleBadge": "25 to 30 Grams Urea Dail",
+    "doodleSubtext": "Daily Urea Excretion Qua",
+    "explanation": "Quantitative urinary solute output parameters and key clinical urinalysis diagnostics.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Daily Urea Excretion Quantity & Urine Characteristics.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.27",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Daily"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 27,
+      "chapter": "Excretory Products and Their Elimination"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Daily Urea Excretion Quantity & Urine Characteristics\" in NEET Biology?",
+      "options": [
+        "An adult human excretes on average 25 – 30 grams of urea per day",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"An adult human excretes on average 25 – 30 grams of urea per day\". Remember using: \"25 to 30 Grams Urea Daily, pH 6.0 Light Yellow\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch16-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-16",
+    "chapterNumber": 16,
+    "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
+    "topicId": "bio-top-16-3",
+    "topicTitle": "Role of Lungs, Liver, and Skin in Excretion",
+    "topic": "Role of Lungs, Liver, and Skin in Excretion",
+    "mnemonicNumber": 27,
+    "title": "Role of Lungs, Liver, and Skin in Excretion: \"Lungs CO2, Liver Bile Pigments, Sweat Salt & Urea, Sebaceous Sebum\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Lungs CO2, Liver Bile Pigments, Sweat Salt & Urea, Sebaceous Sebum",
+    "memoryHook": "Lungs CO2, Liver Bile Pigments, Sweat Salt & Urea, Sebaceous Sebum",
+    "fact": "Lungs: Remove ~200 mL/minute (18 Litres/day) of CO2 and significant amounts of water. Liver: Secretes bile containing bilirubin, biliverdin, cholesterol, degraded steroid hormones, drugs. Sweat Glands: Excrete NaCl, small amounts of urea, lactic acid. Sebaceous Glands: Eliminate sterols, hydrocarbons, and waxes through sebum",
+    "breakdown": [
+      {
+        "key": "Lungs",
+        "label": "Remove ~200 mL/minute (18 Litres/day) of CO2 and significant amounts of water"
+      },
+      {
+        "key": "Liver",
+        "label": "Secretes bile containing bilirubin, biliverdin, cholesterol, degraded steroid hormones, drugs"
+      },
+      {
+        "key": "Sweat Glands",
+        "label": "Excrete NaCl, small amounts of urea, lactic acid"
+      },
+      {
+        "key": "Sebaceous Glands",
+        "label": "Eliminate sterols, hydrocarbons, and waxes through sebum"
+      }
+    ],
+    "doodleBadge": "Lungs CO2, Liver Bile Pi",
+    "doodleSubtext": "Role of Lungs, Liver, an",
+    "explanation": "Accessory excretory organs assisting kidneys in metabolic waste elimination.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Role of Lungs, Liver, and Skin in Excretion.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.27",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Role"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 27,
+      "chapter": "Excretory Products and Their Elimination"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Role of Lungs, Liver, and Skin in Excretion\" in NEET Biology?",
+      "options": [
+        "Remove ~200 mL/minute (18 Litres/day) of CO2 and significant amounts of water",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Remove ~200 mL/minute (18 Litres/day) of CO2 and significant amounts of water\". Remember using: \"Lungs CO2, Liver Bile Pigments, Sweat Salt & Urea, Sebaceous Sebum\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch16-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-16",
+    "chapterNumber": 16,
+    "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
+    "topicId": "bio-top-16-3",
+    "topicTitle": "Uremia & Hemodialysis Process",
+    "topic": "Uremia & Hemodialysis Process",
+    "mnemonicNumber": 28,
+    "title": "Uremia & Hemodialysis Process: \"Uremia = High Urea Blood, Dialyzing Fluid Lacks Nitrogenous Waste + Heparin\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Uremia = High Urea Blood, Dialyzing Fluid Lacks Nitrogenous Waste + Heparin",
+    "memoryHook": "Uremia = High Urea Blood, Dialyzing Fluid Lacks Nitrogenous Waste + Heparin",
+    "fact": "Uremia: Accumulation of urea in blood due to kidney failure. Hemodialysis: Blood drained from artery mixed with anti-coagulant (Heparin), passed through cellophane tube in dialyzing fluid. Fluid Gradient: Dialyzing fluid has same composition as plasma EXCEPT nitrogenous wastes, allowing waste to diffuse out. Return: Cleared blood pumped back through vein after adding Anti-heparin",
+    "breakdown": [
+      {
+        "key": "Uremia",
+        "label": "Accumulation of urea in blood due to kidney failure"
+      },
+      {
+        "key": "Hemodialysis",
+        "label": "Blood drained from artery mixed with anti-coagulant (Heparin), passed through cellophane tube in dialyzing fluid"
+      },
+      {
+        "key": "Fluid Gradient",
+        "label": "Dialyzing fluid has same composition as plasma EXCEPT nitrogenous wastes, allowing waste to diffuse out"
+      },
+      {
+        "key": "Return",
+        "label": "Cleared blood pumped back through vein after adding Anti-heparin"
+      }
+    ],
+    "doodleBadge": "Uremia = High Urea Blood",
+    "doodleSubtext": "Uremia & Hemodialysis Pr",
+    "explanation": "Pathophysiology of renal failure and artificial kidney diffusion mechanism.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Uremia & Hemodialysis Process.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.27",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Uremia"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 27,
+      "chapter": "Excretory Products and Their Elimination"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Uremia & Hemodialysis Process\" in NEET Biology?",
+      "options": [
+        "Accumulation of urea in blood due to kidney failure",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Accumulation of urea in blood due to kidney failure\". Remember using: \"Uremia = High Urea Blood, Dialyzing Fluid Lacks Nitrogenous Waste + Heparin\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch16-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-16",
+    "chapterNumber": 16,
+    "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
+    "topicId": "bio-top-16-3",
+    "topicTitle": "Renal Calculi (Kidney Stones)",
+    "topic": "Renal Calculi (Kidney Stones)",
+    "mnemonicNumber": 29,
+    "title": "Renal Calculi (Kidney Stones): \"Calculi = Insoluble Crystallised Oxalates\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Calculi = Insoluble Crystallised Oxalates",
+    "memoryHook": "Calculi = Insoluble Crystallised Oxalates",
+    "fact": "Composition: Stone or insoluble mass of crystallized salts formed within the kidney. Common Molecule: Calcium Oxalate crystals",
+    "breakdown": [
+      {
+        "key": "Composition",
+        "label": "Stone or insoluble mass of crystallized salts formed within the kidney"
+      },
+      {
+        "key": "Common Molecule",
+        "label": "Calcium Oxalate crystals"
+      }
+    ],
+    "doodleBadge": "Calculi = Insoluble Crys",
+    "doodleSubtext": "Renal Calculi (Kidney St",
+    "explanation": "Crystalline precipitations forming obstructive mineral deposits in the urinary tract.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Renal Calculi (Kidney Stones).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.27",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Renal"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 27,
+      "chapter": "Excretory Products and Their Elimination"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Renal Calculi (Kidney Stones)\" in NEET Biology?",
+      "options": [
+        "Calculi = Insoluble Crystallised Oxalates",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Crystalline precipitations forming obstructive mineral deposits in the urinary tract."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch16-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-16",
+    "chapterNumber": 16,
+    "chapterTitle": "Excretory Products and Their Elimination",
+    "classLevel": 11,
+    "topicId": "bio-top-16-3",
+    "topicTitle": "Glomerulonephritis",
+    "topic": "Glomerulonephritis",
+    "mnemonicNumber": 30,
+    "title": "Glomerulonephritis: \"Glomerulonephritis = Inflammation of Glomeruli\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "Glomerulonephritis = Inflammation of Glomeruli",
+    "memoryHook": "Glomerulonephritis = Inflammation of Glomeruli",
+    "fact": "Definition: Inflammatory condition targeting the glomeruli of kidneys. Consequences: Impairs filtration membrane, leading to hematuria (RBCs in urine) and proteinuria",
+    "breakdown": [
+      {
+        "key": "Definition",
+        "label": "Inflammatory condition targeting the glomeruli of kidneys"
+      },
+      {
+        "key": "Consequences",
+        "label": "Impairs filtration membrane, leading to hematuria (RBCs in urine) and proteinuria"
+      }
+    ],
+    "doodleBadge": "Glomerulonephritis = Inf",
+    "doodleSubtext": "Glomerulonephritis",
+    "explanation": "Immunological or infectious inflammation damaging glomerular capillary filters. Chapter 16: Excretory Products and Their Elimination (30 Mnemonics) \tPage 5",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 16 (Excretory Products and Their Elimination).",
+    "neetTrap": "Pay close attention to exact terminology in Glomerulonephritis.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 16, Page from PDF p.27",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Excretory Products and Their Elimination",
+      "Glomerulonephritis"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 27,
+      "chapter": "Excretory Products and Their Elimination"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Glomerulonephritis\" in NEET Biology?",
+      "options": [
+        "Glomerulonephritis = Inflammation of Glomeruli",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Immunological or infectious inflammation damaging glomerular capillary filters. Chapter 16: Excretory Products and Their Elimination (30 Mnemonics) \tPage 5"
     }
   }
 ];

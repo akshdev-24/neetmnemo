@@ -1,82 +1,77 @@
 /**
- * Biology Chapter 13: Plant Growth and Development
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 13: Plant Growth and Development
+ * Class 11 Biology (30 verified mnemonics)
+ * Primary Source: NEET Biology Chapter-Wise 30 Mnemonics Master (PDF 1)
  */
 
 export const bioCh13Mnemonics = [
   {
-    "id": "mnemo-bio-05",
+    "id": "mnemo-bio-ch13-01",
     "subject": "biology",
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
     "topicId": "bio-top-13-1",
-    "topicTitle": "Plant Hormones",
-    "topic": "5 Plant Hormones: Primary Roles",
+    "topicTitle": "Characteristics of Plant Growth",
+    "topic": "Characteristics of Plant Growth",
     "mnemonicNumber": 1,
-    "title": "5 Plant Hormones: Easy 1-Word Jobs",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
+    "title": "Characteristics of Plant Growth: \"Indeterminate, Open, Measurable, Irreversible\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#DDF7E8",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Auxin = Apex | Gibberellin = Giant Stem | Cytokinin = Cell Divide | Ethylene = E-Ripen | ABA = Alarm/Sleep",
-    "memoryHook": "Auxin (Tip dominance), Gibberellin (Bolting/stretching stems), Cytokinin (Cell division), Ethylene (Fruit gas), ABA (Drought stress & sleep)!",
-    "fact": "3 Growth Promoters: Auxin, Gibberellin, Cytokinin. 2 Growth Inhibitors: Ethylene (gaseous) and Abscisic Acid (stress hormone).",
+    "mnemonic": "Indeterminate, Open, Measurable, Irreversible",
+    "memoryHook": "Indeterminate, Open, Measurable, Irreversible",
+    "fact": "Indeterminate: Unlimited capacity to grow throughout life due to meristems. Open Form: New cells are continually being added to the plant body. Measurable: Measured by dry weight, fresh weight, cell number, area, or volume. Irreversible: Permanent increase in size of an organ/cell driven by protoplasm increase",
     "breakdown": [
       {
-        "key": "Auxin (IAA)",
-        "label": "Apical tip dominance, root growth in cuttings, weedicide (2,4-D)"
+        "key": "Indeterminate",
+        "label": "Unlimited capacity to grow throughout life due to meristems"
       },
       {
-        "key": "Gibberellin (GA3)",
-        "label": "Makes stems Giant (bolting in cabbage, sugarcane length)"
+        "key": "Open Form",
+        "label": "New cells are continually being added to the plant body"
       },
       {
-        "key": "Cytokinin",
-        "label": "Cytokinesis (cell division), delays leaf aging/yellowing"
+        "key": "Measurable",
+        "label": "Measured by dry weight, fresh weight, cell number, area, or volume"
       },
       {
-        "key": "Ethylene (Gas)",
-        "label": "Ripens bananas & apples, horizontal seedling growth"
-      },
-      {
-        "key": "Abscisic Acid (ABA)",
-        "label": "Alarm hormone! Closes stomata during drought, seed sleep"
+        "key": "Irreversible",
+        "label": "Permanent increase in size of an organ/cell driven by protoplasm increase"
       }
     ],
-    "doodleBadge": "3 Promoters + 2 Inhibitors",
-    "doodleSubtext": "Plant Hormones",
-    "explanation": "Auxin and Cytokinin work as partners: High Auxin/Cytokinin ratio grows roots, while High Cytokinin/Auxin ratio grows shoots in tissue culture!",
-    "alsoRemember": "Ethylene is the ONLY natural gaseous hormone in plants.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.4.",
-    "neetTrap": "ABA and Gibberellins are antagonists: Gibberellin wakes seeds up, whereas ABA puts seeds to sleep (dormancy).",
+    "doodleBadge": "Indeterminate, Open, Mea",
+    "doodleSubtext": "Characteristics of Plant",
+    "explanation": "Fundamental attributes defining plant growth at cellular and organ levels.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Characteristics of Plant Growth.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.38",
     "tags": [
-      "Plant Hormones",
-      "Auxin",
-      "Gibberellin",
-      "Cytokinin",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Characteristics"
     ],
-    "expandedMeaning": "Auxin (apex), GA (stem), Cytokinin (division), Ethylene (ripening), ABA (stress/dormancy).",
-    "whyItWorks": "One-word job descriptions lock in the primary function of each plant growth regulator.",
-    "visualDescription": "Five plant icons: arrow on tip (auxin), tall bamboo stalk (GA), dividing cell (cytokinin), ripening red apple (ethylene), and closed drought stomata (ABA).",
-    "neetRelevance": "The single most tested plant physiology topic across all NEET years.",
-    "commonMistake": "Confusing growth promoters with growth inhibitors.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 38,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which plant hormone is a gas and accelerates fruit ripening?",
+      "question": "Which of the following is associated with \"Characteristics of Plant Growth\" in NEET Biology?",
       "options": [
-        "Auxin",
-        "Gibberellic Acid",
-        "Ethylene",
-        "Abscisic Acid"
+        "Unlimited capacity to grow throughout life due to meristems",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Ethylene is the only gaseous plant hormone and is widely used commercially to ripen fruits like bananas and tomatoes."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Unlimited capacity to grow throughout life due to meristems\". Remember using: \"Indeterminate, Open, Measurable, Irreversible\"."
     }
   },
   {
@@ -85,74 +80,63 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
     "topicId": "bio-top-13-1",
-    "topicTitle": "Auxin",
-    "topic": "Auxin Discoverers, Functions, and 2,4-D Weedicide",
+    "topicTitle": "Phases of Growth Sequence",
+    "topic": "Phases of Growth Sequence",
     "mnemonicNumber": 2,
-    "title": "Auxin: Darwin Coleoptile, Went Agar, 2,4-D Kills Dicot Weeds",
-    "badgeText": "Must Know",
+    "title": "Phases of Growth Sequence: \"M-E-M = Meristematic, Elongation, Maturation\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Darwin Saw Bending | Went Isolated on Agar | 2,4-D Kills Broad-Leaved Dicot Weeds!",
-    "memoryHook": "Charles & Francis Darwin observed canary grass coleoptiles bend toward light. F.W. Went isolated Auxin from oat (Avena) tips. Synthetic 2,4-D destroys broad-leaved dicot weeds without harming mature monocot lawn grasses!",
-    "fact": "Auxins (IAA, IBA natural; NAA, 2,4-D synthetic) promote apical dominance, initiate rooting in stem cuttings, promote flowering in pineapple, and 2,4-D is widely used as a weedicide to kill dicotyledonous weeds in cereal lawns.",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "M-E-M = Meristematic, Elongation, Maturation",
+    "memoryHook": "M-E-M = Meristematic, Elongation, Maturation",
+    "fact": "Meristematic Phase: Dense protoplasm, large nuclei, abundant plasmodesmata. Elongation Phase: Increased vacuolation, cell enlargement, new cell wall deposition. Maturation Phase: Maximal cell wall thickening and protoplasmic modifications",
     "breakdown": [
       {
-        "key": "Discovery",
-        "label": "Charles and Francis Darwin (canary grass phototropism); F.W. Went isolated auxin from Avena coleoptile"
+        "key": "Meristematic Phase",
+        "label": "Dense protoplasm, large nuclei, abundant plasmodesmata"
       },
       {
-        "key": "Natural Auxins",
-        "label": "Indole-3-acetic acid (IAA) and Indole butyric acid (IBA)"
+        "key": "Elongation Phase",
+        "label": "Increased vacuolation, cell enlargement, new cell wall deposition"
       },
       {
-        "key": "Synthetic Auxins",
-        "label": "NAA (Naphthalene acetic acid) and 2,4-D (2,4-dichlorophenoxyacetic acid)"
-      },
-      {
-        "key": "Weedicide Action",
-        "label": "2,4-D selectively kills broadleaf dicot weeds; does not affect mature monocot grasses"
-      },
-      {
-        "key": "Pineapple Flowering",
-        "label": "Auxins promote flowering in pineapples"
+        "key": "Maturation Phase",
+        "label": "Maximal cell wall thickening and protoplasmic modifications"
       }
     ],
-    "doodleBadge": "Darwin → Went → 2,4-D",
-    "doodleSubtext": "Auxin Profile",
-    "explanation": "Decapitation (removing shoot tip) eliminates auxin-mediated apical dominance, allowing lateral axillary buds to branch out (used in tea gardens and hedges).",
-    "alsoRemember": "Auxin prevents premature leaf/fruit drop at young stage, but promotes abscission of older senescent leaves and fruits.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.4.1.",
-    "neetTrap": "2,4-D kills DICOT weeds; it does NOT affect mature monocotyledonous plants.",
+    "doodleBadge": "M-E-M = Meristematic, El",
+    "doodleSubtext": "Phases of Growth Sequenc",
+    "explanation": "Three sequential anatomical zones/phases of cellular growth behind a growing apex.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Phases of Growth Sequence.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.38",
     "tags": [
-      "Auxin",
-      "Darwin",
-      "Went",
-      "2,4-D",
-      "Weedicide",
-      "Apical Dominance"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Phases"
     ],
-    "expandedMeaning": "Historical discovery, chemical forms, apical dominance, and selective herbicidal role of 2,4-D.",
-    "whyItWorks": "Directly bundles the 3 most asked NEET questions on Auxin into a single mnemonic.",
-    "visualDescription": "A lawn mower labeled 2,4-D spraying a green lawn, eliminating broad-leaf dicot weeds while leaving grass blades unharmed.",
-    "neetRelevance": "2,4-D weedicide specificity is tested almost every year in NEET.",
-    "commonMistake": "Thinking 2,4-D kills monocot weeds.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.4.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 38,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which synthetic auxin is widely used as a selective herbicide to kill broad-leaved dicot weeds in lawns?",
+      "question": "Which of the following is associated with \"Phases of Growth Sequence\" in NEET Biology?",
       "options": [
-        "IAA",
-        "IBA",
-        "2,4-D",
-        "NAA"
+        "Dense protoplasm, large nuclei, abundant plasmodesmata",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "2,4-D (2,4-dichlorophenoxyacetic acid) is widely used to kill dicotyledonous weeds without affecting mature monocotyledonous plants."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Dense protoplasm, large nuclei, abundant plasmodesmata\". Remember using: \"M-E-M = Meristematic, Elongation, Maturation\"."
     }
   },
   {
@@ -161,74 +145,59 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
     "topicId": "bio-top-13-1",
-    "topicTitle": "Gibberellins",
-    "topic": "Gibberellin Discovery (Kurosawa), Bolting, and Sugarcane",
+    "topicTitle": "Arithmetic Growth Equation & Curve",
+    "topic": "Arithmetic Growth Equation & Curve",
     "mnemonicNumber": 3,
-    "title": "Gibberellins: Kurosawa Rice Fungus, Bolting Cabbage, Sugarcane +20 Tonnes",
+    "title": "Arithmetic Growth Equation & Curve: \"Lt = L0 + rt (Linear Curve)\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Kurosawa Bakanae Disease → GA3 Bolting in Rosettes + 20 Tonnes/Acre Sugarcane!",
-    "memoryHook": "E. Kurosawa discovered gibberellins from foolish rice seedlings (Bakanae) infected by Gibberella fujikuroi. GA causes BOLTING (internode stretching before flowering in cabbage/beet), lengthens grape stalks, and boosts sugarcane yield by 20 tonnes/acre!",
-    "fact": "Gibberellins (over 100 known; GA3 is most studied) cause stem elongation, increase length of grape stalks, delay fruit senescence, speed up the malting process in brewing, and spraying sugarcane crops with GA increases stem length and yields up to 20 tonnes per acre.",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Lt = L0 + rt (Linear Curve)",
+    "memoryHook": "Lt = L0 + rt (Linear Curve)",
+    "fact": "Lt: Length at time 't' | L0: Length at time 'zero' | r: Growth rate/elongation per unit time. Division Pattern: Following mitotic division, only ONE daughter cell continues to divide while the other differentiates (e.g., root elongation)",
     "breakdown": [
       {
-        "key": "Discovery",
-        "label": "E. Kurosawa reported foolish seedling (Bakanae) disease in rice caused by fungus Gibberella fujikuroi"
+        "key": "Lt",
+        "label": "Length at time 't' | L0: Length at time 'zero' | r: Growth rate/elongation per unit time"
       },
       {
-        "key": "Bolting Effect",
-        "label": "Promotes rapid internode elongation prior to flowering in rosette plants (e.g. beet, cabbage)"
-      },
-      {
-        "key": "Sugarcane Yield",
-        "label": "Spraying sugarcane elongates stems, increasing yield by up to 20 tonnes per acre"
-      },
-      {
-        "key": "Brewing Industry",
-        "label": "Speeds up the malting process in barley seeds"
-      },
-      {
-        "key": "Senescence Delay",
-        "label": "Delays fruit senescence, allowing fruits to be left on trees longer to extend market period"
+        "key": "Division Pattern",
+        "label": "Following mitotic division, only ONE daughter cell continues to divide while the other differentiates (e.g., root elongation)"
       }
     ],
-    "doodleBadge": "GA3 = Bolting & Sugarcane",
-    "doodleSubtext": "Kurosawa Discovery",
-    "explanation": "Sugarcane stores carbohydrates as sugar in its stems; elongating the stems with GA directly amplifies sugar harvest.",
-    "alsoRemember": "GA promotes early seed production in juvenile conifers, hastening maturity.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.4.2.",
-    "neetTrap": "Gibberellins cause BOLTING in rosette plants (cabbage/beet), NOT auxins.",
+    "doodleBadge": "Lt = L0 + rt (Linear Cur",
+    "doodleSubtext": "Arithmetic Growth Equati",
+    "explanation": "Mathematical representation of constant growth rate resulting in a straight linear graph.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Arithmetic Growth Equation & Curve.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.38",
     "tags": [
-      "Gibberellins",
-      "GA3",
-      "Bolting",
-      "Kurosawa",
-      "Bakanae",
-      "Sugarcane"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Arithmetic"
     ],
-    "expandedMeaning": "Kurosawa discovery, GA3, internode bolting, brewing malting, and sugarcane agricultural boost.",
-    "whyItWorks": "Pairs the discovery fungus with the two iconic agricultural numbers (bolting and +20 tonnes sugarcane).",
-    "visualDescription": "A cabbage suddenly shooting a tall central flower stalk (bolting) next to a towering sugarcane field with a \"+20 Tonnes/Acre\" sign.",
-    "neetRelevance": "Questions on bolting definition and sugarcane yield enhancement.",
-    "commonMistake": "Selecting Auxin for the bolting effect in cabbage.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.4.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 38,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Spraying which plant growth regulator on sugarcane crops increases stem length and can boost yields by up to 20 tonnes per acre?",
+      "question": "Which of the following is associated with \"Arithmetic Growth Equation & Curve\" in NEET Biology?",
       "options": [
-        "Auxin",
-        "Gibberellin",
-        "Cytokinin",
-        "Abscisic Acid"
+        "Lt = L0 + rt (Linear Curve)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Gibberellins promote stem elongation; spraying sugarcane with gibberellin increases the stem length and boosts yield by up to 20 tonnes per acre."
+      "answerIndex": 0,
+      "explanation": "Mathematical representation of constant growth rate resulting in a straight linear graph."
     }
   },
   {
@@ -237,74 +206,63 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
     "topicId": "bio-top-13-1",
-    "topicTitle": "Cytokinins",
-    "topic": "Cytokinin Discovery, Herring Sperm Kinetin, and Nutrient Mobilization",
+    "topicTitle": "Geometric Growth Equation & Sigmoid Curve",
+    "topic": "Geometric Growth Equation & Sigmoid Curve",
     "mnemonicNumber": 4,
-    "title": "Cytokinins: Skoog & Miller Herring Sperm, Zeatin, Richmond-Lang Delay",
+    "title": "Geometric Growth Equation & Sigmoid Curve: \"W1 = W0 e^rt (Sigmoid S-Curve)\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Skoog & Miller Kinetin (Herring Sperm DNA) | Letham Zeatin (Corn & Coconut) | Delays Leaf Aging!",
-    "memoryHook": "Skoog & Miller discovered KINETIN (an adenine derivative) from autoclaved herring sperm DNA. Kinetin does not occur naturally in plants! Letham isolated natural ZEATIN from corn kernels and coconut milk. Cytokinins promote nutrient mobilization, delaying leaf senescence (Richmond-Lang effect)!",
-    "fact": "Cytokinins were discovered as kinetin by Skoog and Miller from autoclaved herring sperm DNA. Zeatin was later isolated as a natural cytokinin from corn kernels and coconut milk. Cytokinins promote cell division, adventitious shoot formation, overcome apical dominance, and delay leaf senescence.",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "W1 = W0 e^rt (Sigmoid S-Curve)",
+    "memoryHook": "W1 = W0 e^rt (Sigmoid S-Curve)",
+    "fact": "Equation: W1 = W0 * e^(rt) (W1=final size, W0=initial size, r=relative growth rate). Phases: Lag phase → Log/Exponential phase → Stationary phase. Graph: Classic Sigmoid (S-shaped) curve characteristic of all living organisms in natural environments",
     "breakdown": [
       {
-        "key": "Kinetin Discovery",
-        "label": "Skoog and Miller crystallized kinetin (modified adenine) from autoclaved herring sperm DNA"
+        "key": "Equation",
+        "label": "W1 = W0 * e^(rt) (W1=final size, W0=initial size, r=relative growth rate)"
       },
       {
-        "key": "Natural Cytokinin (Zeatin)",
-        "label": "Isolated from Zea mays kernels and coconut milk; kinetin is NOT naturally occurring"
+        "key": "Phases",
+        "label": "Lag phase → Log/Exponential phase → Stationary phase"
       },
       {
-        "key": "Overcoming Apical Dominance",
-        "label": "Cytokinins promote lateral axillary bud growth, counteracting auxin"
-      },
-      {
-        "key": "Delay of Senescence",
-        "label": "Promotes nutrient mobilization, delaying leaf aging (Richmond-Lang effect)"
-      },
-      {
-        "key": "Organogenesis in Callus",
-        "label": "High Cytokinin-to-Auxin ratio induces shoot differentiation"
+        "key": "Graph",
+        "label": "Classic Sigmoid (S-shaped) curve characteristic of all living organisms in natural environments"
       }
     ],
-    "doodleBadge": "Kinetin vs Zeatin",
-    "doodleSubtext": "Division & Anti-Aging",
-    "explanation": "Kinetin does not occur naturally in plant tissues; Zeatin is the chief natural cytokinin found in plants.",
-    "alsoRemember": "Cytokinins are synthesized in regions of rapid cell division: root apices, young fruits, and developing shoot buds.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.4.3.",
-    "neetTrap": "Kinetin is NOT found naturally in plants! Zeatin IS found naturally in plants.",
+    "doodleBadge": "W1 = W0 e^rt (Sigmoid S-",
+    "doodleSubtext": "Geometric Growth Equatio",
+    "explanation": "Exponential cell multiplication where both daughter cells retain capacity to divide.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Geometric Growth Equation & Sigmoid Curve.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.38",
     "tags": [
-      "Cytokinins",
-      "Kinetin",
-      "Zeatin",
-      "Skoog",
-      "Miller",
-      "Senescence Delay"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Geometric"
     ],
-    "expandedMeaning": "Discovery of kinetin from fish DNA, natural zeatin from corn, anti-senescence, and bud sprouting.",
-    "whyItWorks": "Direct contrast between synthetic/fish kinetin and natural plant zeatin.",
-    "visualDescription": "A fish swimming toward an ear of corn labeled Zeatin, pointing to green youthful leaves that refuse to turn yellow.",
-    "neetRelevance": "Repeated questions asking who discovered kinetin and from what material.",
-    "commonMistake": "Claiming kinetin is a natural plant hormone extracted from leaves.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.4.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 38,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "From which source was kinetin originally isolated and crystallized by Skoog and Miller?",
+      "question": "Which of the following is associated with \"Geometric Growth Equation & Sigmoid Curve\" in NEET Biology?",
       "options": [
-        "Corn kernels",
-        "Coconut milk",
-        "Autoclaved herring sperm DNA",
-        "Fungus Gibberella fujikuroi"
+        "W1 = W0 * e^(rt) (W1=final size, W0=initial size, r=relative growth rate)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Skoog and Miller crystallized kinetin (a modified adenine purine) from autoclaved herring sperm DNA."
+      "answerIndex": 0,
+      "explanation": "Correct: \"W1 = W0 * e^(rt) (W1=final size, W0=initial size, r=relative growth rate)\". Remember using: \"W1 = W0 e^rt (Sigmoid S-Curve)\"."
     }
   },
   {
@@ -313,73 +271,63 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
     "topicId": "bio-top-13-1",
-    "topicTitle": "Ethylene",
-    "topic": "Ethylene: Gaseous Ripener, Triple Response, and Ethephon",
+    "topicTitle": "Differentiation, Dedifferentiation, Redifferentiation",
+    "topic": "Differentiation, Dedifferentiation, Redifferentiation",
     "mnemonicNumber": 5,
-    "title": "Ethylene: Cousins Oranges, Climacteric Rise, Ethephon Solution",
-    "badgeText": "Must Know",
+    "title": "Differentiation, Dedifferentiation, Redifferentiation: \"Diff = Mature, Dediff = Regain Division, Rediff = Remature\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Cousins (Orange Gas) → Ethylene Ripens Fruits + Ethephon Thins Cotton & Walnut!",
-    "memoryHook": "H.H. Cousins confirmed ripening oranges release volatile ethylene that ripens bananas. Ethylene triggers RESPIRATORY CLIMACTERIC (sharp respiration surge during ripening). Ethephon is the liquid formulation that releases ethylene slowly inside plants!",
-    "fact": "Ethylene is a gaseous plant growth regulator that promotes fruit ripening, induces a sharp respiratory climacteric, promotes petiole elongation in deep-water rice, promotes root hairs, and is commercially supplied as aqueous Ethephon.",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Diff = Mature, Dediff = Regain Division, Rediff = Remature",
+    "memoryHook": "Diff = Mature, Dediff = Regain Division, Rediff = Remature",
+    "fact": "Differentiation: Meristematic cell matures to perform specific function (e.g., tracheary element). Dedifferentiation: Differentiated cell regains division capacity (e.g., Interfascicular cambium, Cork cambium). Redifferentiation: Dedifferentiated meristem loses division capacity to mature again (e.g., Secondary xylem/phloem, Cork)",
     "breakdown": [
       {
-        "key": "Discovery",
-        "label": "H.H. Cousins (1910) showed volatile substance from ripened oranges ripened stored unripened bananas"
+        "key": "Differentiation",
+        "label": "Meristematic cell matures to perform specific function (e.g., tracheary element)"
       },
       {
-        "key": "Respiratory Climacteric",
-        "label": "Sudden sharp rise in rate of respiration accompanying fruit ripening"
+        "key": "Dedifferentiation",
+        "label": "Differentiated cell regains division capacity (e.g., Interfascicular cambium, Cork cambium)"
       },
       {
-        "key": "Deep-water Rice",
-        "label": "Promotes rapid internode and petiole elongation, keeping upper leaf parts above water"
-      },
-      {
-        "key": "Root Hair Growth",
-        "label": "Promotes root growth and extensive root hair formation, maximizing water absorption"
-      },
-      {
-        "key": "Ethephon Form",
-        "label": "Aqueous solution readily absorbed and transported, slowly releasing ethylene gas internally"
+        "key": "Redifferentiation",
+        "label": "Dedifferentiated meristem loses division capacity to mature again (e.g., Secondary xylem/phloem, Cork)"
       }
     ],
-    "doodleBadge": "Ethylene & Ethephon",
-    "doodleSubtext": "Gaseous Hormone",
-    "explanation": "Ethephon hastens fruit ripening in tomatoes and apples, accelerates abscission in flowers/fruits (thinning of cotton, cherry, walnut), and promotes female flowers in cucumbers.",
-    "alsoRemember": "Ethylene breaks seed and bud dormancy and initiates sprouting in potato tubers.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.4.4.",
-    "neetTrap": "Ethylene induces elongation of internodes/petioles in DEEP-WATER RICE, but induces horizontal swelling in normal seedlings (triple response).",
+    "doodleBadge": "Diff = Mature, Dediff = ",
+    "doodleSubtext": "Differentiation, Dediffe",
+    "explanation": "Dynamic developmental pathways of plant cells regaining and losing meristematic activity.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Differentiation, Dedifferentiation, Redifferentiation.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.38",
     "tags": [
-      "Ethylene",
-      "Ethephon",
-      "Climacteric",
-      "Cousins",
-      "Deep-Water Rice"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Differentiation,"
     ],
-    "expandedMeaning": "Gaseous hormone discovery, respiratory climacteric, deep-water rice adaptation, and commercial uses of Ethephon.",
-    "whyItWorks": "Connects Cousins' discovery to the physiological climacteric and commercial chemical Ethephon.",
-    "visualDescription": "A crate of oranges releasing gas bubbles to turn green bananas bright yellow, beside a bottle of Ethephon spray.",
-    "neetRelevance": "High yield questions on Ethephon and deep-water rice elongation.",
-    "commonMistake": "Thinking Ethephon is a synthetic cytokinin or auxin.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.4.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 38,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which chemical compound in aqueous solution is widely used in agriculture to supply ethylene gas to plants for fruit ripening and fruit thinning?",
+      "question": "Which of the following is associated with \"Differentiation, Dedifferentiation, Redifferentiation\" in NEET Biology?",
       "options": [
-        "2,4-D",
-        "Ethephon",
-        "Zeatin",
-        "NAA"
+        "Meristematic cell matures to perform specific function (e.g., tracheary element)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Ethephon is an aqueous compound that is readily absorbed and transported within the plant, slowly releasing ethylene gas."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Meristematic cell matures to perform specific function (e.g., tracheary element)\". Remember using: \"Diff = Mature, Dediff = Regain Division, Rediff = Remature\"."
     }
   },
   {
@@ -388,70 +336,63 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
     "topicId": "bio-top-13-1",
-    "topicTitle": "Abscisic Acid (ABA)",
-    "topic": "ABA: The Stress Hormone and Dormancy Inducer",
+    "topicTitle": "Heterophylly & Plasticity Examples",
+    "topic": "Heterophylly & Plasticity Examples",
     "mnemonicNumber": 6,
-    "title": "Abscisic Acid: Emergency Stress Brake, Closes Stomata, GA Antagonist",
-    "badgeText": "Must Know",
+    "title": "Heterophylly & Plasticity Examples: \"Cotton Coriander Larkspur Development, Buttercup Environment\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#DDF7E8",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
     "badgeColor": "#3DBE75",
-    "mnemonic": "ABA = Anti-Gibberellin: Stress Hormone Closes Stomata & Enforces Seed Sleep!",
-    "memoryHook": "Discovered independently as Inhibitor-B, Abscission II, and Dormin. Known as the STRESS HORMONE because it triggers rapid stomatal closure under water deficit. It enforces seed dormancy, directly opposing GA (antagonist)!",
-    "fact": "Abscisic acid (ABA) acts as a general plant growth inhibitor and inhibitor of metabolism. It stimulates closure of stomata during drought stress and induces seed dormancy to withstand desiccation. It acts as an antagonist to gibberellins.",
+    "mnemonic": "Cotton Coriander Larkspur Development, Buttercup Environment",
+    "memoryHook": "Cotton Coriander Larkspur Development, Buttercup Environment",
+    "fact": "Plasticity: Ability of plants to follow different pathways in response to environment or life phases. Developmental Plasticity: Cotton, Coriander, Larkspur (juvenile vs adult leaf shapes differ). Environmental Plasticity: Buttercup (Ranunculus) (terrestrial vs aquatic leaf shapes differ)",
     "breakdown": [
       {
-        "key": "Three original names",
-        "label": "Inhibitor-B, Abscission II, and Dormin (all chemically identical to ABA)"
+        "key": "Plasticity",
+        "label": "Ability of plants to follow different pathways in response to environment or life phases"
       },
       {
-        "key": "Stress Hormone Role",
-        "label": "Increases tolerance to drought by triggering immediate stomatal closure"
+        "key": "Developmental Plasticity",
+        "label": "Cotton, Coriander, Larkspur (juvenile vs adult leaf shapes differ)"
       },
       {
-        "key": "Seed Dormancy",
-        "label": "Induces dormancy, preventing vivipary and pre-harvest sprouting during unfavorable weather"
-      },
-      {
-        "key": "GA Antagonist",
-        "label": "ABA puts seeds to sleep; Gibberellins synthesize alpha-amylase to wake seeds up"
+        "key": "Environmental Plasticity",
+        "label": "Buttercup (Ranunculus) (terrestrial vs aquatic leaf shapes differ)"
       }
     ],
-    "doodleBadge": "ABA = Stress Brake",
-    "doodleSubtext": "GA Antagonist",
-    "explanation": "By promoting seed dormancy, ABA ensures seeds germinate only when adequate moisture, temperature, and aeration return.",
-    "alsoRemember": "Despite its name, ethylene plays a much larger role in fruit/leaf abscission than abscisic acid.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.4.5.",
-    "neetTrap": "ABA is an ANTAGONIST to Gibberellins (GA), NOT to auxins.",
+    "doodleBadge": "Cotton Coriander Larkspu",
+    "doodleSubtext": "Heterophylly & Plasticit",
+    "explanation": "Morphological flexibility in leaf structure adaptation across phases or habitats. Chapter 13: Plant Growth and Development (30 Mnemonics) \tPage 1",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Heterophylly & Plasticity Examples.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.38",
     "tags": [
-      "Abscisic Acid",
-      "ABA",
-      "Stress Hormone",
-      "Stomatal Closure",
-      "Dormancy",
-      "GA Antagonist"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Heterophylly"
     ],
-    "expandedMeaning": "ABA discovery aliases, stress adaptation, stomatal closure, and antagonistic interplay with GA.",
-    "whyItWorks": "Pairs ABA with its defining title: the emergency brake and stress hormone of the plant.",
-    "visualDescription": "A red emergency brake lever labeled ABA slamming shut a pair of stomatal guard cells under a blazing dry sun.",
-    "neetRelevance": "Questions on the role of ABA in stomatal closure and antagonism with gibberellin.",
-    "commonMistake": "Calling ABA a growth promoter.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.4.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 38,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which plant growth regulator is commonly called the \"stress hormone\" because it stimulates closure of stomata during water stress?",
+      "question": "Which of the following is associated with \"Heterophylly & Plasticity Examples\" in NEET Biology?",
       "options": [
-        "Auxin",
-        "Gibberellin",
-        "Cytokinin",
-        "Abscisic acid"
+        "Ability of plants to follow different pathways in response to environment or lif",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 3,
-      "explanation": "Abscisic acid (ABA) stimulates the closure of stomata in the epidermis and increases the tolerance of plants to various kinds of stresses, earning the name stress hormone."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Ability of plants to follow different pathways in response to environment or life phases\". Remember using: \"Cotton Coriander Larkspur Development, Buttercup Environment\"."
     }
   },
   {
@@ -460,69 +401,63 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-2",
-    "topicTitle": "Growth Kinetics",
-    "topic": "Arithmetic vs Geometric Growth Curves and Formulas",
+    "classLevel": 11,
+    "topicId": "bio-top-13-1",
+    "topicTitle": "Five Classes of Plant Growth Regulators (PGRs)",
+    "topic": "Five Classes of Plant Growth Regulators (PGRs)",
     "mnemonicNumber": 7,
-    "title": "Growth Curves: Arithmetic Straight Line vs Geometric Sigmoid (S-Curve)",
-    "badgeText": "Formula",
+    "title": "Five Classes of Plant Growth Regulators (PGRs): \"Promoters = Auxin, GA, Cytokinin | Inhibitors = Ethylene, ABA\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
+    "difficulty": "easy",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Arithmetic: Lt = L0 + rt (Straight Line) | Geometric: W1 = W0 · e^(rt) (Sigmoid S-Curve)",
-    "memoryHook": "In Arithmetic growth, only ONE daughter cell divides while other differentiates (Linear graph, e.g. root elongation). In Geometric growth, BOTH daughter cells divide (Exponential doubling: Lag → Log/Exponential → Stationary Sigmoid curve)!",
-    "fact": "In arithmetic growth, following mitotic division only one daughter cell continues to divide while the other differentiates (Lt = L0 + rt). In geometric growth, both daughter cells divide, producing a classic sigmoid growth curve (W1 = W0 * e^rt) with lag, exponential, and stationary phases.",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Promoters = Auxin, GA, Cytokinin | Inhibitors = Ethylene, ABA",
+    "memoryHook": "Promoters = Auxin, GA, Cytokinin | Inhibitors = Ethylene, ABA",
+    "fact": "Growth Promoters: Auxins, Gibberellins (GA), Cytokinins (cell division, growth, pattern formation). Growth Inhibitors: Abscisic Acid (ABA) (stress response, dormancy, inhibition). Gaseous/Dual Regulator: Ethylene (fits both, but largely inhibitor of growth activities)",
     "breakdown": [
       {
-        "key": "Arithmetic Formula",
-        "label": "Lt = L0 + rt (Lt = length at time t, L0 = initial length, r = growth rate)"
+        "key": "Growth Promoters",
+        "label": "Auxins, Gibberellins (GA), Cytokinins (cell division, growth, pattern formation)"
       },
       {
-        "key": "Arithmetic Graph",
-        "label": "Linear straight line with positive slope"
+        "key": "Growth Inhibitors",
+        "label": "Abscisic Acid (ABA) (stress response, dormancy, inhibition)"
       },
       {
-        "key": "Geometric Formula",
-        "label": "W1 = W0 * e^(rt) (W1 = final size, W0 = initial size, r = relative growth rate, e = base of natural log)"
-      },
-      {
-        "key": "Geometric Graph",
-        "label": "Sigmoid / S-shaped curve: Lag phase → Exponential/Log phase → Stationary phase"
+        "key": "Gaseous/Dual Regulator",
+        "label": "Ethylene (fits both, but largely inhibitor of growth activities)"
       }
     ],
-    "doodleBadge": "Linear vs Sigmoid",
-    "doodleSubtext": "Lt vs W1 Formulas",
-    "explanation": "A sigmoid curve is a characteristic of living organisms growing in a natural environment where nutrient supply becomes limiting, eventually producing a stationary phase.",
-    "alsoRemember": "In W1 = W0 * e^(rt), \"r\" is called the relative growth rate and also measures the efficiency index.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.1.3 & Figures 13.4, 13.5.",
-    "neetTrap": "Arithmetic growth gives a LINEAR straight line; Geometric growth gives an S-SHAPED sigmoid curve.",
+    "doodleBadge": "Promoters = Auxin, GA, C",
+    "doodleSubtext": "Five Classes of Plant Gr",
+    "explanation": "Classification of 5 plant hormones based on physiological growth responses.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Five Classes of Plant Growth Regulators (PGRs).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.39",
     "tags": [
-      "Arithmetic Growth",
-      "Geometric Growth",
-      "Sigmoid Curve",
-      "Lag Phase",
-      "Log Phase"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Five"
     ],
-    "expandedMeaning": "Formulas, graphs, division mechanics, and phases of arithmetic vs geometric growth.",
-    "whyItWorks": "Direct contrast between one-daughter division (linear) vs both-daughters division (exponential S-curve).",
-    "visualDescription": "NCERT side-by-side graphs: a straight diagonal line (arithmetic) next to an S-shaped sigmoid curve with lag, log, and stationary phases.",
-    "neetRelevance": "Graph-identification and formula component labeling in NEET.",
-    "commonMistake": "Confusing the meaning of \"r\" in geometric growth (it is relative growth rate / efficiency index).",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.1.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 39,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In the geometric growth equation W1 = W0 · e^(rt), what does the parameter \"r\" represent?",
+      "question": "Which of the following is associated with \"Five Classes of Plant Growth Regulators (PGRs)\" in NEET Biology?",
       "options": [
-        "Total cell volume",
-        "Relative growth rate and measure of efficiency index",
-        "Base of natural logarithm",
-        "Length of the lag phase"
+        "Auxins, Gibberellins (GA), Cytokinins (cell division, growth, pattern formation)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "In the equation W1 = W0 · e^(rt), r is the relative growth rate and is also a measure of the ability of the plant to produce new plant material, referred to as efficiency index."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Auxins, Gibberellins (GA), Cytokinins (cell division, growth, pattern formation)\". Remember using: \"Promoters = Auxin, GA, Cytokinin | Inhibitors = Ethylene, ABA\"."
     }
   },
   {
@@ -531,65 +466,59 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-2",
-    "topicTitle": "Cellular Developmental States",
-    "topic": "Differentiation, Dedifferentiation, and Redifferentiation",
+    "classLevel": 11,
+    "topicId": "bio-top-13-1",
+    "topicTitle": "Discovery of Auxin",
+    "topic": "Discovery of Auxin",
     "mnemonicNumber": 8,
-    "title": "Cell States: Differentiate (Mature) → Dedifferentiate (Divide Again) → Redifferentiate",
-    "badgeText": "Memory Trick",
+    "title": "Discovery of Auxin: \"Darwin Canary Grass, Went Avena Curvature\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Differentiation = Specialize | Dedifferentiation = Regain Division | Redifferentiation = Specialize Again!",
-    "memoryHook": "Meristem → Differentiates into Parenchyma. Parenchyma DEDIFFERENTIATES to form Cambium (interfascicular cambium & cork cambium). That cambium REDIFFERENTIATES into secondary xylem, phloem, and cork!",
-    "fact": "Differentiation: Cells derived from meristems mature and lose capacity to divide. Dedifferentiation: Living differentiated cells regain capacity to divide under certain conditions (e.g. formation of interfascicular cambium). Redifferentiation: Dedifferentiated cells divide and again lose capacity to divide to form permanent secondary tissues.",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Darwin Canary Grass, Went Avena Curvature",
+    "memoryHook": "Darwin Canary Grass, Went Avena Curvature",
+    "fact": "Charles & Francis Darwin: Discovered phototropism in Canary grass (Phalaris) coleoptiles. F.W. Went: Isolated Auxin from tip of oat (Avena sativa) coleoptiles using agar block",
     "breakdown": [
       {
-        "key": "Differentiation Example",
-        "label": "Tracheary elements: lose protoplasm, develop very strong lignified secondary cell walls"
+        "key": "Charles & Francis Darwin",
+        "label": "Discovered phototropism in Canary grass (Phalaris) coleoptiles"
       },
       {
-        "key": "Dedifferentiation Example",
-        "label": "Formation of interfascicular cambium and cork cambium (phellogen) from fully differentiated parenchyma"
-      },
-      {
-        "key": "Redifferentiation Example",
-        "label": "Secondary xylem, secondary phloem, phellem (cork), and phelloderm"
+        "key": "F.W. Went",
+        "label": "Isolated Auxin from tip of oat (Avena sativa) coleoptiles using agar block"
       }
     ],
-    "doodleBadge": "Diff → Dediff → Rediff",
-    "doodleSubtext": "Plant Developmental Cycle",
-    "explanation": "Plant growth is open because differentiated living parenchyma cells retain the developmental plasticity to dedifferentiate into secondary meristems.",
-    "alsoRemember": "Tracheary elements lose their protoplasm during differentiation to transport water under tension.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.2.",
-    "neetTrap": "Interfascicular cambium and cork cambium are products of DEDIFFERENTIATION, NOT simple differentiation.",
+    "doodleBadge": "Darwin Canary Grass, Wen",
+    "doodleSubtext": "Discovery of Auxin",
+    "explanation": "Key historical experiments leading to the discovery and isolation of IAA.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Discovery of Auxin.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.39",
     "tags": [
-      "Differentiation",
-      "Dedifferentiation",
-      "Redifferentiation",
-      "Cambium",
-      "Tracheary Elements"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Discovery"
     ],
-    "expandedMeaning": "Cyclic transitions of plant cells between dividing meristematic and permanent functional states.",
-    "whyItWorks": "Follows the life story of a plant cell: school (meristem) -> job (diff) -> back to school (dediff) -> new job (rediff).",
-    "visualDescription": "A three-stage circular flowchart showing a meristem cell maturing into parenchyma, reverting to cambium, and maturing into wood.",
-    "neetRelevance": "Matching tissues with their developmental origin (dedifferentiation vs redifferentiation).",
-    "commonMistake": "Labeling cork cambium as a primary differentiated tissue.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 39,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The formation of interfascicular cambium and cork cambium from fully differentiated parenchyma cells is an example of:",
+      "question": "Which of the following is associated with \"Discovery of Auxin\" in NEET Biology?",
       "options": [
-        "Differentiation",
-        "Dedifferentiation",
-        "Redifferentiation",
-        "Senescence"
+        "Darwin Canary Grass, Went Avena Curvature",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "When living, differentiated parenchyma cells regain the capacity of division to form meristematic cambium, the phenomenon is called dedifferentiation."
+      "answerIndex": 0,
+      "explanation": "Key historical experiments leading to the discovery and isolation of IAA."
     }
   },
   {
@@ -598,66 +527,59 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-2",
-    "topicTitle": "Plasticity",
-    "topic": "Plasticity & Heterophylly in Plants",
+    "classLevel": 11,
+    "topicId": "bio-top-13-1",
+    "topicTitle": "Natural vs Synthetic Auxins",
+    "topic": "Natural vs Synthetic Auxins",
     "mnemonicNumber": 9,
-    "title": "Plasticity: Buttercup Water Leaves vs Cotton Age Leaves (Heterophylly)",
+    "title": "Natural vs Synthetic Auxins: \"Natural = IAA & IBA | Synthetic = NAA & 2,4-D\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Plasticity = Morphological Flexibility: Cotton/Coriander by AGE | Buttercup by HABITAT!",
-    "memoryHook": "Plasticity is the ability to follow different pathways in response to environment or life phases. Heterophylly (different leaf shapes on same plant): Developmental in Cotton, Coriander, Larkspur; Environmental in Buttercup (Ranunculus - dissected in water, broad in air)!",
-    "fact": "Plants follow different pathways in response to environment or phases of life to form different kinds of structures; this ability is called plasticity. Heterophylly is seen in cotton, coriander, and larkspur (different shapes in juvenile vs mature) and in buttercup (Ranunculus, submerged leaves dissected vs aerial leaves broad).",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Natural = IAA & IBA | Synthetic = NAA & 2,4-D",
+    "memoryHook": "Natural = IAA & IBA | Synthetic = NAA & 2,4-D",
+    "fact": "Natural Auxins: Indole-3-acetic acid (IAA), Indole butyric acid (IBA). Synthetic Auxins: Naphthalene acetic acid (NAA), 2,4-Dichlorophenoxyacetic acid (2,4-D)",
     "breakdown": [
       {
-        "key": "Definition of Plasticity",
-        "label": "Ability of a plant to alter morphology in response to environment or developmental phase"
+        "key": "Natural Auxins",
+        "label": "Indole-3-acetic acid (IAA), Indole butyric acid (IBA)"
       },
       {
-        "key": "Developmental Heterophylly",
-        "label": "Cotton, Coriander, Larkspur (leaves of juvenile plant look different from mature plant)"
-      },
-      {
-        "key": "Environmental Heterophylly",
-        "label": "Buttercup (Ranunculus flabellaris): submerged leaves are ribbon-like dissected; aerial leaves are lobed broad"
+        "key": "Synthetic Auxins",
+        "label": "Naphthalene acetic acid (NAA), 2,4-Dichlorophenoxyacetic acid (2,4-D)"
       }
     ],
-    "doodleBadge": "Plasticity & Heterophylly",
-    "doodleSubtext": "Buttercup vs Cotton",
-    "explanation": "In Ranunculus, dissected submerged leaves minimize water current resistance, while broad aerial leaves maximize sunlight capture.",
-    "alsoRemember": "Heterophylly literally translates to \"different leaves\".",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.3 & Figure 13.8.",
-    "neetTrap": "Environmental heterophylly is seen in BUTTERCUP (Ranunculus), while developmental is in Cotton, Coriander, Larkspur.",
+    "doodleBadge": "Natural = IAA & IBA | Sy",
+    "doodleSubtext": "Natural vs Synthetic Aux",
+    "explanation": "Chemical categorization of naturally produced vs artificially synthesized auxins.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Natural vs Synthetic Auxins.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.39",
     "tags": [
-      "Plasticity",
-      "Heterophylly",
-      "Buttercup",
-      "Ranunculus",
-      "Coriander",
-      "Figure 13.8"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Natural"
     ],
-    "expandedMeaning": "Definition of plasticity; environmental heterophylly in Buttercup vs developmental in Cotton/Coriander/Larkspur.",
-    "whyItWorks": "Pairs the two distinct causes of heterophylly with their exact textbook examples.",
-    "visualDescription": "NCERT Figure 13.8 showing dissected feathery underwater buttercup leaf versus broad flat floating air leaf.",
-    "neetRelevance": "NCERT Figure 13.8 identification and matching questions.",
-    "commonMistake": "Listing Buttercup as an example of developmental heterophylly.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 39,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following plants displays environmental heterophylly due to water vs air habitats?",
+      "question": "Which of the following is associated with \"Natural vs Synthetic Auxins\" in NEET Biology?",
       "options": [
-        "Cotton",
-        "Coriander",
-        "Larkspur",
-        "Buttercup (Ranunculus)"
+        "Natural = IAA & IBA | Synthetic = NAA & 2,4-D",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 3,
-      "explanation": "Buttercup (Ranunculus) produces different leaf shapes in air versus water, illustrating environmental plasticity/heterophylly."
+      "answerIndex": 0,
+      "explanation": "Chemical categorization of naturally produced vs artificially synthesized auxins."
     }
   },
   {
@@ -666,74 +588,67 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-3",
-    "topicTitle": "Photoperiodism",
-    "topic": "Photoperiodism: Site of Perception is LEAVES (Florigen)",
+    "classLevel": 11,
+    "topicId": "bio-top-13-1",
+    "topicTitle": "Auxin Major Physiological Functions",
+    "topic": "Auxin Major Physiological Functions",
     "mnemonicNumber": 10,
-    "title": "Photoperiodism: Leaves Catch the Light, Send Florigen to Shoot Apices",
-    "badgeText": "Must Know",
+    "title": "Auxin Major Physiological Functions: \"Apical Dominance, Rooting, Parthenocarpy, Weedicide\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Light Clock Perceived by LEAVES: Florigen Travels via Phloem to Apical Bud!",
-    "memoryHook": "Plants measure duration of light and uninterrupted darkness. Shoot apices cannot perceive light! The site of perception of light/dark duration is strictly the LEAVES. Leaves make a mobile hormone (Florigen) that migrates to shoot apex to initiate flowering!",
-    "fact": "The response of plants to periods of day/night is termed photoperiodism. The site of perception of light or dark duration are the leaves. A hormonal substance (Florigen) synthesized in leaves migrates to shoot apices for inducing flowering only when plants are exposed to inductive photoperiod.",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Apical Dominance, Rooting, Parthenocarpy, Weedicide",
+    "memoryHook": "Apical Dominance, Rooting, Parthenocarpy, Weedicide",
+    "fact": "Apical Dominance: Growing apical bud inhibits lateral axillary buds (decapitation promotes branching). Root Initiation: Used in stem cuttings for plant propagation. Parthenocarpy: Induces seedless fruits in Tomatoes. Selective Weedicide: 2,4-D kills dicotyledonous weeds while sparing monocots",
     "breakdown": [
       {
-        "key": "Perception Site",
-        "label": "LEAVES (not shoot tips, buds, or flowers)"
+        "key": "Apical Dominance",
+        "label": "Growing apical bud inhibits lateral axillary buds (decapitation promotes branching)"
       },
       {
-        "key": "Flowering Hormone",
-        "label": "Florigen (hypothetical flowering hormone translocated via phloem)"
+        "key": "Root Initiation",
+        "label": "Used in stem cuttings for plant propagation"
       },
       {
-        "key": "Short Day Plants (SDP)",
-        "label": "Require day length LESS than critical photoperiod (uninterrupted dark period essential)"
+        "key": "Parthenocarpy",
+        "label": "Induces seedless fruits in Tomatoes"
       },
       {
-        "key": "Long Day Plants (LDP)",
-        "label": "Require day length EXCEEDING critical photoperiod to flower"
-      },
-      {
-        "key": "Day Neutral Plants (DNP)",
-        "label": "No correlation between flowering and duration of light (e.g. Tomato, Cucumber, Sunflower)"
+        "key": "Selective Weedicide",
+        "label": "2,4-D kills dicotyledonous weeds while sparing monocots"
       }
     ],
-    "doodleBadge": "Leaves = Light Sensors",
-    "doodleSubtext": "Florigen Messenger",
-    "explanation": "If all leaves are removed from a plant, it becomes completely insensitive to photoperiod and will not flower.",
-    "alsoRemember": "Darkness requirement in Short Day Plants must be continuous and uninterrupted; a single flash of light during night prevents flowering.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.5.",
-    "neetTrap": "The site of light perception for photoperiodism is LEAVES, NOT the shoot apical meristem.",
+    "doodleBadge": "Apical Dominance, Rootin",
+    "doodleSubtext": "Auxin Major Physiologica",
+    "explanation": "Major agricultural and physiological applications of auxin hormones.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Auxin Major Physiological Functions.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.39",
     "tags": [
-      "Photoperiodism",
-      "Leaves",
-      "Florigen",
-      "SDP",
-      "LDP",
-      "DNP"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Auxin"
     ],
-    "expandedMeaning": "Perception of day/night cycles by leaves, phloem transmission of florigen, and plant photoperiod categories.",
-    "whyItWorks": "Emphasizes that leaves are the eyes of the plant that tell the shoot apex when to flower.",
-    "visualDescription": "A bright green leaf acting like a solar sensor, sending a glowing envelope labeled \"Florigen\" up the stem to the top shoot bud.",
-    "neetRelevance": "High frequency question: \"The site of perception of light/dark duration in plants is...\"",
-    "commonMistake": "Selecting shoot apex as the site of light perception.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 39,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which part of the plant perceives the light and dark duration for photoperiodic induction of flowering?",
+      "question": "Which of the following is associated with \"Auxin Major Physiological Functions\" in NEET Biology?",
       "options": [
-        "Shoot apex",
-        "Floral buds",
-        "Leaves",
-        "Root tips"
+        "Growing apical bud inhibits lateral axillary buds (decapitation promotes branchi",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "The site of perception of light/dark duration is strictly the leaves, which then produce the flowering stimulus."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Growing apical bud inhibits lateral axillary buds (decapitation promotes branching)\". Remember using: \"Apical Dominance, Rooting, Parthenocarpy, Weedicide\"."
     }
   },
   {
@@ -742,74 +657,63 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-3",
-    "topicTitle": "Vernalization",
-    "topic": "Vernalization: Low Temperature Induction of Flowering",
+    "classLevel": 11,
+    "topicId": "bio-top-13-2",
+    "topicTitle": "Discovery of Gibberellins",
+    "topic": "Discovery of Gibberellins",
     "mnemonicNumber": 11,
-    "title": "Vernalization: Winter Chill (1-10°C) Unlocks Spring Flowering",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
+    "title": "Discovery of Gibberellins: \"Bakanae Foolish Seedling, Kurosawa, Gibberella fujikuroi\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Vernalization = Cold Chill: Winter Wheat & Biennials Need Winter to Flower!",
-    "memoryHook": "Flowering is quantitatively or qualitatively dependent on exposure to low temperature (1-10°C). It prevents plants from flowering precociously in late autumn! Examples: Winter varieties of Wheat, Barley, Rye; Biennial crops like Cabbage, Carrot, Sugarbeet!",
-    "fact": "Vernalization refers specifically to the promotion of flowering by a period of low temperature. It prevents precocious reproductive development late in growing season, enabling the plant to reach maturity. Winter varieties planted in autumn flower in summer after winter chilling.",
+    "mnemonic": "Bakanae Foolish Seedling, Kurosawa, Gibberella fujikuroi",
+    "memoryHook": "Bakanae Foolish Seedling, Kurosawa, Gibberella fujikuroi",
+    "fact": "Disease: 'Bakanae' (foolish seedling) in rice seedlings. Pathogen: Fungus Gibberella fujikuroi. Scientist: E. Kurosawa (1926) discovered active substance causing uninhibited stem elongation",
     "breakdown": [
       {
-        "key": "Definition",
-        "label": "Promotion of flowering quantitatively or qualitatively by exposure to low temperature"
+        "key": "Disease",
+        "label": "'Bakanae' (foolish seedling) in rice seedlings"
       },
       {
-        "key": "Temperature Range",
-        "label": "Chilling temperatures (typically 1°C to 10°C)"
+        "key": "Pathogen",
+        "label": "Fungus Gibberella fujikuroi"
       },
       {
-        "key": "Perception Site",
-        "label": "Shoot apical meristems, active embryos, or young growing tips (unlike photoperiodism!)"
-      },
-      {
-        "key": "Cereal Examples",
-        "label": "Winter varieties of Wheat, Barley, and Rye"
-      },
-      {
-        "key": "Biennial Examples",
-        "label": "Sugarbeet, Cabbage, Carrot (monocarpic plants that flower and die in second year after winter chill)"
+        "key": "Scientist",
+        "label": "E. Kurosawa (1926) discovered active substance causing uninhibited stem elongation"
       }
     ],
-    "doodleBadge": "Chilling = Flowering",
-    "doodleSubtext": "Vernalization Principle",
-    "explanation": "Biennials subjected to artificial cold treatment (or gibberellin spray) bolt and flower in their first year without needing winter.",
-    "alsoRemember": "Devernalization can occur if chilled tissues are immediately exposed to high temperatures.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.6.",
-    "neetTrap": "Perception of vernalization occurs at SHOOT APICAL MERISTEMS and EMBRYOS, whereas photoperiodism is perceived by LEAVES.",
+    "doodleBadge": "Bakanae Foolish Seedling",
+    "doodleSubtext": "Discovery of Gibberellin",
+    "explanation": "Fungal origin discovery of gibberellic acid (GA3 as most common).",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Discovery of Gibberellins.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.39",
     "tags": [
-      "Vernalization",
-      "Low Temperature",
-      "Winter Wheat",
-      "Biennials",
-      "Cabbage",
-      "Sugarbeet"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Discovery"
     ],
-    "expandedMeaning": "Chilling-induced flowering, site of perception at shoot apices, winter cereals, and biennial crops.",
-    "whyItWorks": "Direct contrast of perception site with photoperiodism (meristems vs leaves).",
-    "visualDescription": "A thermometer covered in ice crystals (1-10°C) resting on winter wheat seedlings sprouting green shoots beneath snow.",
-    "neetRelevance": "Questions on examples of plants exhibiting vernalization and site of perception.",
-    "commonMistake": "Claiming leaves perceive the vernalization stimulus.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 39,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following crops requires vernalization (low temperature exposure) to flower and complete its life cycle normally?",
+      "question": "Which of the following is associated with \"Discovery of Gibberellins\" in NEET Biology?",
       "options": [
-        "Spring wheat",
-        "Winter wheat",
-        "Maize",
-        "Paddy rice"
+        "'Bakanae' (foolish seedling) in rice seedlings",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Winter varieties of wheat are planted in autumn; they require winter cold chilling (vernalization) to flower and harvest in mid-summer."
+      "answerIndex": 0,
+      "explanation": "Correct: \"'Bakanae' (foolish seedling) in rice seedlings\". Remember using: \"Bakanae Foolish Seedling, Kurosawa, Gibberella fujikuroi\"."
     }
   },
   {
@@ -818,69 +722,67 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-4",
-    "topicTitle": "Hormonal Ratios",
-    "topic": "Auxin to Cytokinin Ratio in Plant Tissue Culture",
+    "classLevel": 11,
+    "topicId": "bio-top-13-2",
+    "topicTitle": "Gibberellin Major Physiological Functions",
+    "topic": "Gibberellin Major Physiological Functions",
     "mnemonicNumber": 12,
-    "title": "Organogenesis Ratio: High Auxin Roots, High Cytokinin Shoots",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "High Auxin = Roots Down | High Cytokinin = Shoots Up | Balanced = Undifferentiated Callus",
-    "memoryHook": "In tissue culture: High Auxin / Cytokinin ratio stimulates ROOT differentiation (Rhizogenesis). High Cytokinin / Auxin ratio stimulates SHOOT differentiation (Caulogenesis). Equal intermediate amounts make unorganized CALLUS proliferate!",
-    "fact": "Skoog and Miller demonstrated that organogenesis in plant callus is governed by the ratio of auxin to cytokinin: a high auxin-to-cytokinin ratio induces root differentiation, while a high cytokinin-to-auxin ratio induces shoot bud differentiation.",
+    "title": "Gibberellin Major Physiological Functions: \"Bolting, Sugarcane Length, Malting, Delay Senescence\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Bolting, Sugarcane Length, Malting, Delay Senescence",
+    "memoryHook": "Bolting, Sugarcane Length, Malting, Delay Senescence",
+    "fact": "Bolting: Internode elongation prior to flowering in rosette plants (Beet, Cabbage). Sugarcane Yield: Increases stem length, boosting yield by up to 20 tonnes/acre. Malting: Hastens malting process in brewing industry. Fruit Extension: Elongates & improves shape of apples; extends market period",
     "breakdown": [
       {
-        "key": "High Auxin / Low Cytokinin",
-        "label": "Induces Root differentiation (Rhizogenesis)"
+        "key": "Bolting",
+        "label": "Internode elongation prior to flowering in rosette plants (Beet, Cabbage)"
       },
       {
-        "key": "High Cytokinin / Low Auxin",
-        "label": "Induces Shoot differentiation (Caulogenesis)"
+        "key": "Sugarcane Yield",
+        "label": "Increases stem length, boosting yield by up to 20 tonnes/acre"
       },
       {
-        "key": "Auxin = Cytokinin (Balanced)",
-        "label": "Promotes unorganized, undifferentiated cell proliferation (Callus)"
+        "key": "Malting",
+        "label": "Hastens malting process in brewing industry"
       },
       {
-        "key": "Neither PGR Present",
-        "label": "No cell division or morphogenesis occurs"
+        "key": "Fruit Extension",
+        "label": "Elongates & improves shape of apples; extends market period"
       }
     ],
-    "doodleBadge": "Auxin: Root | Cyto: Shoot",
-    "doodleSubtext": "Tissue Culture Ratios",
-    "explanation": "This precise ratio manipulation forms the biological foundation for micropropagation and plant tissue culture regeneration.",
-    "alsoRemember": "Callus is an unorganized mass of proliferating parenchyma cells.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13 & Class 12 Chapter 9 (Tissue Culture).",
-    "neetTrap": "High CYTOKININ makes shoots; high AUXIN makes roots.",
+    "doodleBadge": "Bolting, Sugarcane Lengt",
+    "doodleSubtext": "Gibberellin Major Physio",
+    "explanation": "Commercial uses of GA in agriculture, horticulture, and brewing industry. Chapter 13: Plant Growth and Development (30 Mnemonics) \tPage 2",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Gibberellin Major Physiological Functions.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.39",
     "tags": [
-      "Tissue Culture",
-      "Auxin Cytokinin Ratio",
-      "Callus",
-      "Rooting",
-      "Shooting"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Gibberellin"
     ],
-    "expandedMeaning": "Hormonal control of plant morphogenesis in vitro based on Skoog-Miller experiments.",
-    "whyItWorks": "Auxin (down into soil = roots) vs Cytokinin (up into sky = shoots).",
-    "visualDescription": "A balance scale in a petri dish: tipping toward Auxin sprouts roots into agar; tipping toward Cytokinin sprouts green shoots.",
-    "neetRelevance": "Frequent cross-chapter question linking Class 11 PGRs with Class 12 Biotechnology.",
-    "commonMistake": "Reversing the roles of Auxin and Cytokinin in tissue culture.",
-    "sourceReference": "NCERT Class 11 Chapter 13 & Class 12 Chapter 9",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 39,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In plant tissue culture, what type of organogenesis is induced when the medium has a high cytokinin-to-auxin ratio?",
+      "question": "Which of the following is associated with \"Gibberellin Major Physiological Functions\" in NEET Biology?",
       "options": [
-        "Root formation only",
-        "Shoot bud formation",
-        "Xylem differentiation only",
-        "Flower induction directly"
+        "Internode elongation prior to flowering in rosette plants (Beet, Cabbage)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "A high cytokinin-to-auxin ratio promotes shoot bud differentiation (caulogenesis) in tissue culture callus."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Internode elongation prior to flowering in rosette plants (Beet, Cabbage)\". Remember using: \"Bolting, Sugarcane Length, Malting, Delay Senescence\"."
     }
   },
   {
@@ -889,74 +791,63 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-4",
-    "topicTitle": "Seed Dormancy",
-    "topic": "Causes and Methods of Overcoming Seed Dormancy",
+    "classLevel": 11,
+    "topicId": "bio-top-13-2",
+    "topicTitle": "Discovery of Cytokinins",
+    "topic": "Discovery of Cytokinins",
     "mnemonicNumber": 13,
-    "title": "Seed Dormancy: Chemical Locks (ABA) Broken by GA, Chill & Scratches",
-    "badgeText": "High Yield",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
+    "title": "Discovery of Cytokinins: \"Skoog Miller Kinetin Herring Sperm DNA\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Locked by: Hard Coat, ABA, Phenolics | Unlocked by: GA, Nitrate, Chilling, Knives!",
-    "memoryHook": "Dormancy prevents premature germination. Internal locks: Abscisic acid (ABA), phenolic acids, para-ascorbic acid, hard impermeable seed coats. Overcome naturally by animal gut digestion or cold stratification; artificially by Gibberellin (GA), nitrates, and mechanical scarification!",
-    "fact": "Seed dormancy may be caused by impermeable and hard seed coat, presence of chemical inhibitors like abscisic acid, phenolic acids, para-ascorbic acid, and immature embryos. It can be overcome by mechanical abrasions (scarification), cold temperature stratification, and application of GA and nitrates.",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Skoog Miller Kinetin Herring Sperm DNA",
+    "memoryHook": "Skoog Miller Kinetin Herring Sperm DNA",
+    "fact": "Scientists: F. Skoog and co-workers; isolated active substance by Miller et al.. Substance: Kinetin (N6-furfurylamino purine) crystallized from autoclaved herring sperm DNA. Note: Kinetin does not occur naturally in plants",
     "breakdown": [
       {
-        "key": "Physical causes",
-        "label": "Hard, impermeable seed coat preventing water and oxygen entry"
+        "key": "Scientists",
+        "label": "F. Skoog and co-workers; isolated active substance by Miller et al."
       },
       {
-        "key": "Chemical inhibitors",
-        "label": "Abscisic acid (ABA), phenolic acids, para-ascorbic acid"
+        "key": "Substance",
+        "label": "Kinetin (N6-furfurylamino purine) crystallized from autoclaved herring sperm DNA"
       },
       {
-        "key": "Physical breaking",
-        "label": "Mechanical abrasion (sandpaper, knives), passage through animal digestive tract"
-      },
-      {
-        "key": "Chemical breaking",
-        "label": "Application of Gibberellic acid (GA) and Nitrates (KNO3)"
-      },
-      {
-        "key": "Environmental breaking",
-        "label": "Chilling conditions (stratification) and light exposure"
+        "key": "Note",
+        "label": "Kinetin does not occur naturally in plants"
       }
     ],
-    "doodleBadge": "Dormancy Breakers",
-    "doodleSubtext": "GA + Scarification",
-    "explanation": "Passage through animal guts naturally breaks hard seed coats via digestive acids while dispersing seeds far away.",
-    "alsoRemember": "Gibberellin breaks dormancy by stimulating the synthesis of hydrolytic enzymes like alpha-amylase in cereal aleurone.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.7.",
-    "neetTrap": "Nitrates and Gibberellins BREAK dormancy; ABA ENFORCES dormancy.",
+    "doodleBadge": "Skoog Miller Kinetin Her",
+    "doodleSubtext": "Discovery of Cytokinins",
+    "explanation": "Discovery history of adenyl purine derivate cytokines that stimulate cell division.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Discovery of Cytokinins.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.40",
     "tags": [
-      "Seed Dormancy",
-      "Scarification",
-      "Stratification",
-      "ABA",
-      "Gibberellin",
-      "Nitrates"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Discovery"
     ],
-    "expandedMeaning": "Etiology of seed dormancy and biological/chemical protocols for breaking it.",
-    "whyItWorks": "Classifies dormancy factors into locks (hard coat, ABA) and keys (GA, cold, scarification).",
-    "visualDescription": "A padlock on a seed labeled ABA being unlocked by three keys: a scalpel (scarification), an ice cube (stratification), and a spray of GA.",
-    "neetRelevance": "Matching questions on seed dormancy overcoming treatments.",
-    "commonMistake": "Claiming ABA helps break seed dormancy.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.7",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 40,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following chemicals can be applied to break seed dormancy and stimulate germination?",
+      "question": "Which of the following is associated with \"Discovery of Cytokinins\" in NEET Biology?",
       "options": [
-        "Abscisic acid",
-        "Phenolic acid",
-        "Gibberellic acid and nitrates",
-        "Para-ascorbic acid"
+        "F. Skoog and co-workers; isolated active substance by Miller et al.",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Application of chemicals like gibberellic acid (GA) and nitrates overcomes dormancy by counteracting inhibitory chemicals."
+      "answerIndex": 0,
+      "explanation": "Correct: \"F. Skoog and co-workers; isolated active substance by Miller et al.\". Remember using: \"Skoog Miller Kinetin Herring Sperm DNA\"."
     }
   },
   {
@@ -965,69 +856,59 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
     "topicId": "bio-top-13-2",
-    "topicTitle": "Growth Measurement",
-    "topic": "Absolute Growth Rate (AGR) vs Relative Growth Rate (RGR)",
+    "topicTitle": "Natural Cytokinin (Zeatin) Origin",
+    "topic": "Natural Cytokinin (Zeatin) Origin",
     "mnemonicNumber": 14,
-    "title": "Growth Rates: Absolute is Raw Gain, Relative is Percentage per Starting Size",
-    "badgeText": "Comparison",
+    "title": "Natural Cytokinin (Zeatin) Origin: \"Zeatin Corn Kernels Coconut Milk\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "AGR = Raw Expansion per Time | RGR = Growth Relative to Initial Size (Efficiency Index)",
-    "memoryHook": "Leaf A grows from 5 cm² to 10 cm² (Gain = 5 cm²). Leaf B grows from 50 cm² to 55 cm² (Gain = 5 cm²). Both have IDENTICAL Absolute Growth Rate (5 cm²)! But Leaf A had a 100% Relative Growth Rate (RGR), while Leaf B had only a 10% RGR!",
-    "fact": "Measurement and the comparison of any two growing systems can be made in two ways: 1) Absolute growth rate (measurement of total growth per unit time); 2) Relative growth rate (growth of the given system per unit time expressed on a common initial parameter basis).",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Zeatin Corn Kernels Coconut Milk",
+    "memoryHook": "Zeatin Corn Kernels Coconut Milk",
+    "fact": "Isolation: Zeatin was isolated naturally from Corn kernels (Zea mays) & Coconut milk. Natural Sites: Synthesized in root apices, developing shoot buds, and young fruits",
     "breakdown": [
       {
-        "key": "Absolute Growth Rate (AGR)",
-        "label": "Total increase in size per unit time: AGR = (Final size - Initial size) / Time"
+        "key": "Isolation",
+        "label": "Zeatin was isolated naturally from Corn kernels (Zea mays) & Coconut milk"
       },
       {
-        "key": "Relative Growth Rate (RGR)",
-        "label": "Growth rate per unit of initial biomass: RGR = AGR / Initial size"
-      },
-      {
-        "key": "NCERT Leaf Experiment",
-        "label": "Leaf A (5 to 10 cm²) and Leaf B (50 to 55 cm²) have same absolute growth (5 cm²), but Leaf A has far higher relative growth"
-      },
-      {
-        "key": "Efficiency Index",
-        "label": "In W1 = W0 · e^(rt), r represents the relative growth rate and efficiency of the plant"
+        "key": "Natural Sites",
+        "label": "Synthesized in root apices, developing shoot buds, and young fruits"
       }
     ],
-    "doodleBadge": "AGR vs RGR",
-    "doodleSubtext": "NCERT Leaf Example",
-    "explanation": "Because young seedlings have low initial weight, their high relative growth rate yields rapid exponential expansion.",
-    "alsoRemember": "Growth is measurable by increase in fresh weight, dry weight, length, area, volume, or cell number.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.1.4 & Figure 13.7.",
-    "neetTrap": "Two organs can have identical absolute growth rates while possessing drastically different relative growth rates.",
+    "doodleBadge": "Zeatin Corn Kernels Coco",
+    "doodleSubtext": "Natural Cytokinin (Zeati",
+    "explanation": "Naturally occurring plant cytokinin regulating shoot and cell proliferation.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Natural Cytokinin (Zeatin) Origin.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.40",
     "tags": [
-      "AGR",
-      "RGR",
-      "Relative Growth Rate",
-      "Absolute Growth",
-      "Figure 13.7"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Natural"
     ],
-    "expandedMeaning": "Mathematical distinction between absolute expansion and size-adjusted relative growth rate.",
-    "whyItWorks": "The 5cm² vs 50cm² leaf example from NCERT is unforgettable and directly tested.",
-    "visualDescription": "NCERT Figure 13.7 showing two leaves A and B both adding a 5 cm² border, highlighting Leaf A's 100% doubling.",
-    "neetRelevance": "NCERT Figure 13.7 calculation-based questions.",
-    "commonMistake": "Assuming Leaf B with larger final size had higher relative growth rate.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.1.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 40,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Two leaves, A (initial area 5 cm²) and B (initial area 50 cm²), both grow by 5 cm² in one day. What can be concluded about their growth rates?",
+      "question": "Which of the following is associated with \"Natural Cytokinin (Zeatin) Origin\" in NEET Biology?",
       "options": [
-        "Both have different absolute and relative growth rates",
-        "Both have the same absolute growth rate, but leaf A has a higher relative growth rate",
-        "Leaf B has both higher absolute and relative growth rates",
-        "Both have identical relative growth rates"
+        "Zeatin Corn Kernels Coconut Milk",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Both expanded by 5 cm² (same absolute growth rate), but leaf A grew by 5/5 = 100% compared to leaf B's 5/50 = 10% (leaf A has much higher relative growth rate)."
+      "answerIndex": 0,
+      "explanation": "Naturally occurring plant cytokinin regulating shoot and cell proliferation."
     }
   },
   {
@@ -1036,65 +917,59 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
     "topicId": "bio-top-13-2",
-    "topicTitle": "Phases of Growth",
-    "topic": "Meristematic, Elongation, and Maturation Phases",
+    "topicTitle": "Cytokinin Major Physiological Functions",
+    "topic": "Cytokinin Major Physiological Functions",
     "mnemonicNumber": 15,
-    "title": "Phases of Growth: Meristematic Nuclei, Elongation Vacuoles, Maturation Walls",
-    "badgeText": "Sequence",
-    "importance": "Must Know",
-    "difficulty": "easy",
+    "title": "Cytokinin Major Physiological Functions: \"Overcomes Apical Dominance, Chloroplasts, Delay Senescence\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "1. Meristematic (Dense Protoplasm) → 2. Elongation (Big Vacuoles) → 3. Maturation (Thick Walls)",
-    "memoryHook": "Behind the root tip: Zone 1 (Meristematic) has rich protoplasm, large conspicuous nuclei, thin cellulosic walls. Zone 2 (Elongation) has massive vacuolation, cell stretching, new wall deposition. Zone 3 (Maturation) attains maximal wall thickening and root hairs!",
-    "fact": "The period of growth is generally divided into three phases: meristematic, elongation, and maturation. Cells in the meristematic zone are rich in protoplasm and possess large nuclei; elongation zone cells display increased vacuolation and size; maturation zone cells attain maximal size and structural differentiation.",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Overcomes Apical Dominance, Chloroplasts, Delay Senescence",
+    "memoryHook": "Overcomes Apical Dominance, Chloroplasts, Delay Senescence",
+    "fact": "Overcomes Apical Dominance: Promotes growth of lateral buds into branches. Richmond-Lang Effect: Delays leaf senescence by promoting nutrient mobilization. Organogenesis: Promotes shoot formation, adventitious shoots, and new chloroplasts in leaves",
     "breakdown": [
       {
-        "key": "Phase 1: Meristematic",
-        "label": "Rich in protoplasm, thin primary cellulosic walls with abundant plasmodesmata, large nuclei"
+        "key": "Richmond",
+        "label": "Lang Effect: Delays leaf senescence by promoting nutrient mobilization"
       },
       {
-        "key": "Phase 2: Elongation",
-        "label": "Increased vacuolation, cell enlargement, and new cell wall material deposition"
-      },
-      {
-        "key": "Phase 3: Maturation",
-        "label": "Maximal size in terms of wall thickening and protoplasmic modifications; root hairs emerge here"
+        "key": "Organogenesis",
+        "label": "Promotes shoot formation, adventitious shoots, and new chloroplasts in leaves"
       }
     ],
-    "doodleBadge": "3 Growth Zones",
-    "doodleSubtext": "Tip to Base Sequence",
-    "explanation": "Root hairs arise specifically from the zone of maturation, never from the elongation or meristematic zones.",
-    "alsoRemember": "Growth in plants is unique because plants retain the capacity for unlimited growth throughout life due to meristems (open form of growth).",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.1.2.",
-    "neetTrap": "Root hairs arise ONLY in the maturation zone, NOT in the elongation zone.",
+    "doodleBadge": "Overcomes Apical Dominan",
+    "doodleSubtext": "Cytokinin Major Physiolo",
+    "explanation": "Physiological roles of cytokinins in cell division, morphogenesis, and anti-aging.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Cytokinin Major Physiological Functions.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.40",
     "tags": [
-      "Phases of Growth",
-      "Meristematic",
-      "Elongation",
-      "Maturation",
-      "Vacuolation"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Cytokinin"
     ],
-    "expandedMeaning": "Cellular characteristics of the three developmental zones behind growing root and shoot apices.",
-    "whyItWorks": "Pairs each zone with its signature microscope feature (nuclei -> vacuoles -> thick walls).",
-    "visualDescription": "A growing root tip divided into 3 color-coded bands: dense pink cells at tip (meristem), stretching blue cells (elongation), and hair-bearing green cells (maturation).",
-    "neetRelevance": "Matching zones with cytological features in NEET.",
-    "commonMistake": "Locating root hairs in the elongation zone.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.1.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 40,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Increased vacuolation, cell enlargement, and new cell wall material deposition are characteristics of which growth phase?",
+      "question": "Which of the following is associated with \"Cytokinin Major Physiological Functions\" in NEET Biology?",
       "options": [
-        "Meristematic phase",
-        "Phase of elongation",
-        "Phase of maturation",
-        "Quiescent center"
+        "Promotes growth of lateral buds into branches",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Cells in the phase of elongation undergo increased vacuolation, cell enlargement, and extensive new cell wall deposition."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Promotes growth of lateral buds into branches\". Remember using: \"Overcomes Apical Dominance, Chloroplasts, Delay Senescence\"."
     }
   },
   {
@@ -1103,70 +978,55 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-3",
-    "topicTitle": "Photoperiodism",
-    "topic": "Critical Photoperiod: SDPs (Long Night) vs LDPs (Short Night)",
+    "classLevel": 11,
+    "topicId": "bio-top-13-2",
+    "topicTitle": "Auxin to Cytokinin Ratio in Organogenesis",
+    "topic": "Auxin to Cytokinin Ratio in Organogenesis",
     "mnemonicNumber": 16,
-    "title": "Photoperiod Groups: SDP Needs Long Dark, LDP Needs Long Light",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
+    "title": "Auxin to Cytokinin Ratio in Organogenesis: \"High Auxin = Roots, High Cytokinin = Shoots\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
     "badgeColor": "#3DBE75",
-    "mnemonic": "SDP = Long Night Plants (Dark > Critical) | LDP = Short Night Plants (Light > Critical)",
-    "memoryHook": "Short Day Plants (SDP) are actually LONG NIGHT plants: they require a continuous dark period EXCEEDING the critical night length. If you flash light into their night, flowering is CANCELLED! Long Day Plants (LDP) flower only when day length exceeds critical limit.",
-    "fact": "Short day plants flower when exposed to photoperiods shorter than a well-defined critical photoperiod (requiring uninterrupted dark period). Long day plants flower when light period exceeds the critical photoperiod. Day-neutral plants flower without correlation to day length.",
+    "mnemonic": "High Auxin = Roots, High Cytokinin = Shoots",
+    "memoryHook": "High Auxin = Roots, High Cytokinin = Shoots",
+    "fact": "High Auxin / Low Cytokinin: Promotes Root differentiation in tissue culture. High Cytokinin / Low Auxin: Promotes Shoot formation in callus culture. Balanced Ratio: Promotes unorganized cell mass (Callus proliferation)",
     "breakdown": [
       {
-        "key": "Short Day Plants (SDP)",
-        "label": "Require day length LESS than critical duration; uninterrupted night is essential (Tobacco, Chrysanthemum, Rice)"
-      },
-      {
-        "key": "Long Day Plants (LDP)",
-        "label": "Require day length EXCEEDING critical duration (Henbane, Wheat, Radish, Spinach)"
-      },
-      {
-        "key": "Day Neutral Plants (DNP)",
-        "label": "Flowering is independent of day length (Tomato, Sunflower, Cucumber, Cotton, Pea)"
-      },
-      {
-        "key": "Night Break Effect",
-        "label": "A brief flash of light during the night completely prevents flowering in SDPs"
+        "key": "Balanced Ratio",
+        "label": "Promotes unorganized cell mass (Callus proliferation)"
       }
     ],
-    "doodleBadge": "SDP vs LDP vs DNP",
-    "doodleSubtext": "Critical Photoperiod",
-    "explanation": "The critical photoperiod differs between species: an SDP with a 14-hour critical photoperiod may flower in longer days than an LDP with an 8-hour critical photoperiod.",
-    "alsoRemember": "Tobacco (Maryland Mammoth) was the plant in which Garner and Allard originally discovered photoperiodism.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.5 & Figure 13.9.",
-    "neetTrap": "SDPs require an UNINTERRUPTED dark period; light flashes in the dark kill SDP flowering.",
+    "doodleBadge": "High Auxin = Roots, High",
+    "doodleSubtext": "Auxin to Cytokinin Ratio",
+    "explanation": "Hormonal balance controlling root/shoot organogenesis in plant tissue culture.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Auxin to Cytokinin Ratio in Organogenesis.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.40",
     "tags": [
-      "SDP",
-      "LDP",
-      "DNP",
-      "Photoperiodism",
-      "Critical Day Length",
-      "Tobacco"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Auxin"
     ],
-    "expandedMeaning": "Classification of flowering responses into SDP, LDP, and DNP based on critical day/night length.",
-    "whyItWorks": "Revealing SDP as \"Long Night Plants\" clarifies the absolute requirement for uninterrupted darkness.",
-    "visualDescription": "NCERT Figure 13.9 showing photoperiod bars: light below critical triggering SDP flowers, and light above critical triggering LDP flowers.",
-    "neetRelevance": "Interpretation of NCERT Figure 13.9 photoperiod charts.",
-    "commonMistake": "Believing SDPs are unaffected by light flashes during the dark period.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 40,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What happens when the continuous dark period of a Short Day Plant is interrupted by a brief flash of light?",
+      "question": "Which of the following is associated with \"Auxin to Cytokinin Ratio in Organogenesis\" in NEET Biology?",
       "options": [
-        "Flowering is accelerated",
-        "Flowering is inhibited / prevented",
-        "The plant converts permanently into a Long Day Plant",
-        "It causes immediate leaf abscission"
+        "Promotes Root differentiation in tissue culture",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Short Day Plants strictly require an uninterrupted long dark period; a night break by a flash of light prevents flowering."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Promotes Root differentiation in tissue culture\". Remember using: \"High Auxin = Roots, High Cytokinin = Shoots\"."
     }
   },
   {
@@ -1175,69 +1035,63 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-4",
-    "topicTitle": "Senescence & Abscission",
-    "topic": "Senescence & Abscission Control by Plant Hormones",
+    "classLevel": 11,
+    "topicId": "bio-top-13-2",
+    "topicTitle": "Discovery of Ethylene",
+    "topic": "Discovery of Ethylene",
     "mnemonicNumber": 17,
-    "title": "Senescence & Drop: Cytokinin Delays, Ethylene & ABA Hasten Abscission",
-    "badgeText": "Concept",
+    "title": "Discovery of Ethylene: \"Cousins Volatile Substance Ripens Oranges\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Cytokinin = Anti-Aging Shield | Ethylene & ABA = Sever the Leaf Stalk (Abscission Zone)!",
-    "memoryHook": "Senescence is natural leaf aging and yellowing. Cytokinins delay senescence by mobilizing nutrients (Richmond-Lang effect). When an organ ages, Auxin levels drop, and Ethylene triggers cell wall digestion in the ABSCISSION ZONE, causing leaf drop!",
-    "fact": "Senescence involves the programmed degradation of cellular components before organ death. Cytokinins delay leaf senescence. Abscission of older leaves, flowers, and fruits is actively promoted by ethylene and abscisic acid, while young organs are retained by high auxin.",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Cousins Volatile Substance Ripens Oranges",
+    "memoryHook": "Cousins Volatile Substance Ripens Oranges",
+    "fact": "Scientist: H.H. Cousins (1910). Experiment: Showed volatile substance from ripened oranges accelerated ripening of stored unripe bananas. Identity: Later identified as the gaseous hydrocarbon hormone Ethylene (C2H4)",
     "breakdown": [
       {
-        "key": "Senescence Delay",
-        "label": "Cytokinins mobilize nutrients to preserve chlorophyll and protein synthesis"
+        "key": "Scientist",
+        "label": "H.H. Cousins (1910)"
       },
       {
-        "key": "Abscission Trigger",
-        "label": "Ethylene stimulates cellulase and pectinase enzymes in the abscission layer"
+        "key": "Experiment",
+        "label": "Showed volatile substance from ripened oranges accelerated ripening of stored unripe bananas"
       },
       {
-        "key": "Auxin Gradient Rule",
-        "label": "High auxin on organ side prevents drop; when organ ages and auxin drops, abscission occurs"
-      },
-      {
-        "key": "Stress Induced Drop",
-        "label": "Abscisic acid promotes senescence under extreme environmental stress"
+        "key": "Identity",
+        "label": "Later identified as the gaseous hydrocarbon hormone Ethylene (C2H4)"
       }
     ],
-    "doodleBadge": "Anti-Aging vs Drop",
-    "doodleSubtext": "PGR Antagonism",
-    "explanation": "The abscission layer develops at the base of the petiole or fruit pedicel, forming a suberized protective scar after shedding.",
-    "alsoRemember": "Spraying synthetic auxins (NAA) prevents premature drop of young apples and oranges.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.4.",
-    "neetTrap": "Auxins PREVENT premature drop of young leaves/fruits, but PROMOTE abscission of older senescent organs.",
+    "doodleBadge": "Cousins Volatile Substan",
+    "doodleSubtext": "Discovery of Ethylene",
+    "explanation": "Historical identification of ethylene as a natural gaseous plant ripening factor.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Discovery of Ethylene.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.40",
     "tags": [
-      "Senescence",
-      "Abscission",
-      "Cytokinin",
-      "Ethylene",
-      "Auxin Gradient"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Discovery"
     ],
-    "expandedMeaning": "Hormonal regulation of plant aging and organ detachment via the abscission zone.",
-    "whyItWorks": "Direct contrast between life-prolonging Cytokinin and organ-shedding Ethylene.",
-    "visualDescription": "A leaf attached to stem with a green protective shield (Cytokinin) on one side, and scissors cutting an abscission line (Ethylene) on the other.",
-    "neetRelevance": "Questions on the dual role of auxin in preventing vs promoting abscission.",
-    "commonMistake": "Claiming auxins only promote abscission at all stages.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 40,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which plant growth regulator is primarily responsible for delaying leaf senescence through nutrient mobilization?",
+      "question": "Which of the following is associated with \"Discovery of Ethylene\" in NEET Biology?",
       "options": [
-        "Auxin",
-        "Gibberellin",
-        "Cytokinin",
-        "Ethylene"
+        "H.H. Cousins (1910)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Cytokinins delay leaf senescence by promoting nutrient mobilization (known as the Richmond-Lang effect)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"H.H. Cousins (1910)\". Remember using: \"Cousins Volatile Substance Ripens Oranges\"."
     }
   },
   {
@@ -1246,70 +1100,63 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-1",
-    "topicTitle": "Auxin",
-    "topic": "Apical Dominance and Decapitation in Horticulture",
+    "classLevel": 11,
+    "topicId": "bio-top-13-2",
+    "topicTitle": "Ethylene Triple Response in Seedlings",
+    "topic": "Ethylene Triple Response in Seedlings",
     "mnemonicNumber": 18,
-    "title": "Apical Dominance: Snip the Tip (Decapitation) for Bushy Tea & Hedges",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Apical Bud Rules Supreme (Auxin) → Decapitate Tip → Bushy Axillary Branches!",
-    "memoryHook": "In higher plants, the growing apical bud suppresses lateral axillary buds via Auxin (Apical Dominance). Remove the shoot tip (Decapitation), and lateral buds break free into dense bushy branches! Widely applied in Tea plantations and Hedge-making!",
-    "fact": "In most higher plants, the growing apical bud inhibits the growth of the lateral (axillary) buds, a phenomenon called apical dominance. Removal of shoot tips (decapitation) usually results in the growth of lateral buds. It is widely applied in tea plantations and hedge-making.",
+    "title": "Ethylene Triple Response in Seedlings: \"Horizontal, Swelling, Apical Hook\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Horizontal, Swelling, Apical Hook",
+    "memoryHook": "Horizontal, Swelling, Apical Hook",
+    "fact": "Response 1: Horizontal growth of seedlings. Response 2: Swelling of the axis (radial expansion). Response 3: Apical hook formation in dicot seedlings",
     "breakdown": [
       {
-        "key": "Apical Dominance Cause",
-        "label": "Auxin synthesized in shoot tip moves basipetally, suppressing lateral axillary buds"
+        "key": "Response 1",
+        "label": "Horizontal growth of seedlings"
       },
       {
-        "key": "Decapitation Technique",
-        "label": "Pruning or clipping the shoot apical meristem"
+        "key": "Response 2",
+        "label": "Swelling of the axis (radial expansion)"
       },
       {
-        "key": "Horticultural Benefit",
-        "label": "Stimulates lateral branching, producing a dense bushy canopy"
-      },
-      {
-        "key": "Primary Applications",
-        "label": "Tea gardens (plucking flushes) and hedge shaping in landscape gardens"
+        "key": "Response 3",
+        "label": "Apical hook formation in dicot seedlings"
       }
     ],
-    "doodleBadge": "Decapitation = Bushy",
-    "doodleSubtext": "Tea & Hedge Pruning",
-    "explanation": "Applying synthetic auxin paste directly onto a cut stem stump restores apical dominance, proving auxin mediates the suppression.",
-    "alsoRemember": "Cytokinin application directly to lateral buds can also overcome apical dominance without removing the tip.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.4.1 & Figure 13.11.",
-    "neetTrap": "Decapitation is widely used in TEA plantations and HEDGE-MAKING, not in sugarcane crops.",
+    "doodleBadge": "Horizontal, Swelling, Ap",
+    "doodleSubtext": "Ethylene Triple Response",
+    "explanation": "Bioassay response of dicot seedlings to ethylene exposure during germination. Chapter 13: Plant Growth and Development (30 Mnemonics) \tPage 3",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Ethylene Triple Response in Seedlings.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.40",
     "tags": [
-      "Apical Dominance",
-      "Decapitation",
-      "Auxin",
-      "Tea Plantations",
-      "Hedges",
-      "Figure 13.11"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Ethylene"
     ],
-    "expandedMeaning": "Physiological mechanism of apical dominance and its practical horticultural utilization via pruning.",
-    "whyItWorks": "Pairs the pruning action (snip tip) directly with its famous real-world industries (tea and hedges).",
-    "visualDescription": "NCERT Figure 13.11 showing tall single-stem seedling transformed into a wide bushy shrub after garden shears snip the apical tip.",
-    "neetRelevance": "Verbatim NCERT question: \"Decapitation is widely used in...\"",
-    "commonMistake": "Attributing apical dominance to gibberellin instead of auxin.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.4.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 40,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Removal of shoot tips (decapitation) to promote lateral branching is widely exploited commercially in:",
+      "question": "Which of the following is associated with \"Ethylene Triple Response in Seedlings\" in NEET Biology?",
       "options": [
-        "Sugarcane cultivation and brewing",
-        "Tea plantations and hedge-making",
-        "Cereal grain harvesting",
-        "Deep-water rice cultivation"
+        "Horizontal growth of seedlings",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Decapitation removes apical dominance and stimulates lateral buds to branch, which is widely applied in tea plantations and hedge-making."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Horizontal growth of seedlings\". Remember using: \"Horizontal, Swelling, Apical Hook\"."
     }
   },
   {
@@ -1318,69 +1165,63 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
     "topicId": "bio-top-13-2",
-    "topicTitle": "Characteristics of Growth",
-    "topic": "Indeterminate and Open Form of Growth in Plants",
+    "topicTitle": "Ethylene Major Functions & Ethephon",
+    "topic": "Ethylene Major Functions & Ethephon",
     "mnemonicNumber": 19,
-    "title": "Plant Growth: Open & Indeterminate Thanks to Meristems",
-    "badgeText": "Concept",
+    "title": "Ethylene Major Functions & Ethephon: \"Fruit Ripening, Respiratory Climacteric, Ethephon\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Plants Grow Forever: Open Growth = New Cells Constantly Added by Meristems!",
-    "memoryHook": "Unlike animals whose growth stops at adulthood (determinate), plants retain perpetual dividing capacity throughout their lifespan (indeterminate). This form of growth where new cells are constantly added to the plant body by meristems is called OPEN FORM OF GROWTH!",
-    "fact": "Plant growth is unique because plants retain the capacity for unlimited growth throughout their life. This ability is due to the presence of meristems at certain locations in their body. Such form of growth wherein new cells are always being added to the plant body by the activity of the meristem is called the open form of growth.",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Fruit Ripening, Respiratory Climacteric, Ethephon",
+    "memoryHook": "Fruit Ripening, Respiratory Climacteric, Ethephon",
+    "fact": "Respiratory Climacteric: Rapid rise in respiration rate during fruit ripening. Abscission & Senescence: Promotes leaf/flower drop and female flowering in Cucumbers. Ethephon: Most widely used commercial compound releasing ethylene in aqueous solution (speeds ripening in tomatoes/apples, thin cotton/walnut)",
     "breakdown": [
       {
-        "key": "Indeterminate Growth",
-        "label": "Continuous lifelong capacity to grow, unlike finite determinate animal growth"
+        "key": "Respiratory Climacteric",
+        "label": "Rapid rise in respiration rate during fruit ripening"
       },
       {
-        "key": "Open Form of Growth",
-        "label": "New cells and organs (leaves, branches, roots) are continually added by active meristems"
+        "key": "Abscission & Senescence",
+        "label": "Promotes leaf/flower drop and female flowering in Cucumbers"
       },
       {
-        "key": "Primary Meristems",
-        "label": "Root and Shoot Apical Meristems: contribute to elongation along the plant axis"
-      },
-      {
-        "key": "Secondary Meristems",
-        "label": "Vascular Cambium and Cork Cambium: produce secondary tissues and increase girth (lateral growth)"
+        "key": "Ethephon",
+        "label": "Most widely used commercial compound releasing ethylene in aqueous solution (speeds ripening in tomatoes/apples, thin cotton/walnut)"
       }
     ],
-    "doodleBadge": "Open Growth Meristems",
-    "doodleSubtext": "Indeterminate Growth",
-    "explanation": "Leaves and flowers exhibit determinate growth (they reach a fixed adult size), while stems and roots show open indeterminate growth.",
-    "alsoRemember": "Growth is fundamentally an irreversible permanent increase in size of an organ or its parts.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.1.1.",
-    "neetTrap": "Stems and roots show OPEN growth, but leaves and flowers show DETERMINATE growth.",
+    "doodleBadge": "Fruit Ripening, Respirat",
+    "doodleSubtext": "Ethylene Major Functions",
+    "explanation": "Agricultural applications of ethylene gas and aqueous ethephon formulations.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Ethylene Major Functions & Ethephon.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.41",
     "tags": [
-      "Open Growth",
-      "Indeterminate",
-      "Meristems",
-      "Apical Meristems",
-      "Plant Growth"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Ethylene"
     ],
-    "expandedMeaning": "Definition and anatomical basis of open indeterminate growth in the plant kingdom.",
-    "whyItWorks": "Direct contrast between animal closed growth and plant open meristematic growth.",
-    "visualDescription": "A tree showing perpetual green shoot and root tip candles constantly expanding outwards through active meristem nozzles.",
-    "neetRelevance": "NCERT statement evaluation questions on the definition of open growth.",
-    "commonMistake": "Assuming all plant organs (including flowers and leaves) show indeterminate growth.",
-    "sourceReference": "NCERT Class 11 Chapter 13 Section 13.1.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 41,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Why is plant growth described as being of an \"open form\"?",
+      "question": "Which of the following is associated with \"Ethylene Major Functions & Ethephon\" in NEET Biology?",
       "options": [
-        "It occurs only when stomata are open during the day",
-        "New cells are continually added to the plant body throughout life by the activity of meristems",
-        "It requires an open, non-enclosed natural environment",
-        "It depends entirely on open vascular bundles"
+        "Rapid rise in respiration rate during fruit ripening",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Plant growth is open because meristems retain lifelong dividing capability, constantly adding new cells to the plant body."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Rapid rise in respiration rate during fruit ripening\". Remember using: \"Fruit Ripening, Respiratory Climacteric, Ethephon\"."
     }
   },
   {
@@ -1389,69 +1230,689 @@ export const bioCh13Mnemonics = [
     "chapterId": "bio-ch-13",
     "chapterNumber": 13,
     "chapterTitle": "Plant Growth and Development",
-    "topicId": "bio-top-13-4",
-    "topicTitle": "PGR Interactions",
-    "topic": "Synergistic and Antagonistic Plant Hormone Pairs",
+    "classLevel": 11,
+    "topicId": "bio-top-13-2",
+    "topicTitle": "Ethylene Special Effects on Aquatic Plants & Seeds",
+    "topic": "Ethylene Special Effects on Aquatic Plants & Seeds",
     "mnemonicNumber": 20,
-    "title": "PGR Interplay: GA vs ABA (Dormancy), Auxin vs Cyto (Apical Dominance)",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "GA vs ABA (Wake vs Sleep) | Auxin vs Cytokinin (Apex vs Lateral Buds)",
-    "memoryHook": "Plant growth is a tug-of-war! Antagonist Pair 1: GA breaks seed dormancy vs ABA induces seed dormancy. Antagonist Pair 2: Auxin enforces apical dominance vs Cytokinin activates lateral buds. Synergist Pair: Auxin + Cytokinin team up to drive cell division & organogenesis!",
-    "fact": "Any phase of plant growth and development is influenced by more than one PGR. PGRs may act synergistically (cooperating, e.g. Auxin + Cytokinin in cell division) or antagonistically (opposing, e.g. GA breaking dormancy while ABA induces it; Auxin maintaining apical dominance while Cytokinin breaks it).",
+    "title": "Ethylene Special Effects on Aquatic Plants & Seeds: \"Deep Water Rice Elongation, Peanut Germination, Pineapple Flowering\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Deep Water Rice Elongation, Peanut Germination, Pineapple Flowering",
+    "memoryHook": "Deep Water Rice Elongation, Peanut Germination, Pineapple Flowering",
+    "fact": "Deep Water Rice: Promotes rapid internode/petiole elongation to keep upper leaves above water. Seed/Bud Germination: Breaks seed dormancy in Peanuts and sprouting of Potato tubers. Pineapple: Synchronizes fruit set and induces flowering",
     "breakdown": [
       {
-        "key": "Antagonism 1: GA vs ABA",
-        "label": "GA stimulates alpha-amylase to wake seeds; ABA promotes dormancy and stress shutdown"
+        "key": "Deep Water Rice",
+        "label": "Promotes rapid internode/petiole elongation to keep upper leaves above water"
       },
       {
-        "key": "Antagonism 2: Auxin vs Cytokinin",
-        "label": "Auxin suppresses lateral buds (apical dominance); Cytokinin promotes lateral bud growth"
+        "key": "Seed/Bud Germination",
+        "label": "Breaks seed dormancy in Peanuts and sprouting of Potato tubers"
       },
       {
-        "key": "Antagonism 3: ABA vs Cytokinin",
-        "label": "ABA accelerates senescence and stomatal closure; Cytokinin delays senescence and opens stomata"
-      },
-      {
-        "key": "Synergism: Auxin + Cytokinin",
-        "label": "Essential together for cell cycle progression and callus tissue development"
+        "key": "Pineapple",
+        "label": "Synchronizes fruit set and induces flowering"
       }
     ],
-    "doodleBadge": "PGR Tug-of-War",
-    "doodleSubtext": "Synergism vs Antagonism",
-    "explanation": "Individual developmental events like flowering, seed germination, or dormancy are controlled by the relative balance among multiple PGRs rather than a single hormone.",
-    "alsoRemember": "Ethylene can fit into both promoter and inhibitor categories, but is largely an inhibitor of growth.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 13, Section 13.4 & 13.4.5.",
-    "neetTrap": "GA and ABA are DIRECT antagonists regarding seed dormancy and alpha-amylase synthesis.",
+    "doodleBadge": "Deep Water Rice Elongati",
+    "doodleSubtext": "Ethylene Special Effects",
+    "explanation": "Ecological and commercial adaptive effects of ethylene on specific crops.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Ethylene Special Effects on Aquatic Plants & Seeds.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.41",
     "tags": [
-      "PGR Interplay",
-      "Antagonism",
-      "Synergism",
-      "GA vs ABA",
-      "Auxin vs Cytokinin"
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Ethylene"
     ],
-    "expandedMeaning": "Comprehensive matrix of antagonistic and synergistic relationships among the five plant growth regulators.",
-    "whyItWorks": "Pairs the opposing hormones into two iconic tug-of-war battles.",
-    "visualDescription": "Two boxing rings: Ring 1 shows GA throwing a punch at ABA over a waking seed; Ring 2 shows Auxin and Cytokinin wrestling over lateral branch buds.",
-    "neetRelevance": "Matching antagonistic pairs in NEET biology exams.",
-    "commonMistake": "Calling Auxin and Gibberellin an antagonistic pair.",
-    "sourceReference": "NCERT Class 11 Chapter 13",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 41,
+      "chapter": "Plant Growth and Development"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following pairs of plant hormones act as DIRECT antagonists in the regulation of seed dormancy and germination?",
+      "question": "Which of the following is associated with \"Ethylene Special Effects on Aquatic Plants & Seeds\" in NEET Biology?",
       "options": [
-        "Auxin and Ethylene",
-        "Gibberellin and Abscisic acid",
-        "Cytokinin and Auxin",
-        "Ethylene and Abscisic acid"
+        "Promotes rapid internode/petiole elongation to keep upper leaves above water",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Gibberellins stimulate seed germination (breaking dormancy), whereas Abscisic acid induces and maintains seed dormancy, making them direct antagonists."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Promotes rapid internode/petiole elongation to keep upper leaves above water\". Remember using: \"Deep Water Rice Elongation, Peanut Germination, Pineapple Flowering\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch13-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-13",
+    "chapterNumber": 13,
+    "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
+    "topicId": "bio-top-13-3",
+    "topicTitle": "Discovery & Names of Abscisic Acid (ABA)",
+    "topic": "Discovery & Names of Abscisic Acid (ABA)",
+    "mnemonicNumber": 21,
+    "title": "Discovery & Names of Abscisic Acid (ABA): \"Inhibitor-B, Abscisin II, Dormin = ABA\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Inhibitor-B, Abscisin II, Dormin = ABA",
+    "memoryHook": "Inhibitor-B, Abscisin II, Dormin = ABA",
+    "fact": "Independent Isolations: Inhibitor-B, Abscisin II, and Dormin purified by three independent groups. Chemical Identity: All three proved chemically identical and named Abscisic Acid (ABA)",
+    "breakdown": [
+      {
+        "key": "Independent Isolations",
+        "label": "Inhibitor-B, Abscisin II, and Dormin purified by three independent groups"
+      },
+      {
+        "key": "Chemical Identity",
+        "label": "All three proved chemically identical and named Abscisic Acid (ABA)"
+      }
+    ],
+    "doodleBadge": "Inhibitor-B, Abscisin II",
+    "doodleSubtext": "Discovery & Names of Abs",
+    "explanation": "Convergence of three independent research tracks into the single stress hormone ABA.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Discovery & Names of Abscisic Acid (ABA).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.41",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Discovery"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 41,
+      "chapter": "Plant Growth and Development"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Discovery & Names of Abscisic Acid (ABA)\" in NEET Biology?",
+      "options": [
+        "Inhibitor-B, Abscisin II, Dormin = ABA",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Convergence of three independent research tracks into the single stress hormone ABA."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch13-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-13",
+    "chapterNumber": 13,
+    "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
+    "topicId": "bio-top-13-3",
+    "topicTitle": "ABA Major Functions (The Stress Hormone)",
+    "topic": "ABA Major Functions (The Stress Hormone)",
+    "mnemonicNumber": 22,
+    "title": "ABA Major Functions (The Stress Hormone): \"Stomata Closure, Seed Dormancy, Antagonist to GA\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Stomata Closure, Seed Dormancy, Antagonist to GA",
+    "memoryHook": "Stomata Closure, Seed Dormancy, Antagonist to GA",
+    "fact": "Stomatal Closure: Stimulates rapid closure of stomata under water stress. Seed Maturation & Dormancy: Promotes seed development and induces dormancy to withstand desiccation. Antagonist: Acts as general growth inhibitor and direct antagonist to Gibberellins (GAs)",
+    "breakdown": [
+      {
+        "key": "Stomatal Closure",
+        "label": "Stimulates rapid closure of stomata under water stress"
+      },
+      {
+        "key": "Antagonist",
+        "label": "Acts as general growth inhibitor and direct antagonist to Gibberellins (GAs)"
+      }
+    ],
+    "doodleBadge": "Stomata Closure, Seed Do",
+    "doodleSubtext": "ABA Major Functions (The",
+    "explanation": "Primary survival functions of ABA during environmental abiotic stress conditions.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in ABA Major Functions (The Stress Hormone).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.41",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "ABA"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 41,
+      "chapter": "Plant Growth and Development"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"ABA Major Functions (The Stress Hormone)\" in NEET Biology?",
+      "options": [
+        "Stimulates rapid closure of stomata under water stress",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Stimulates rapid closure of stomata under water stress\". Remember using: \"Stomata Closure, Seed Dormancy, Antagonist to GA\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch13-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-13",
+    "chapterNumber": 13,
+    "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
+    "topicId": "bio-top-13-3",
+    "topicTitle": "Hormone Antagonisms Key Pairs",
+    "topic": "Hormone Antagonisms Key Pairs",
+    "mnemonicNumber": 23,
+    "title": "Hormone Antagonisms Key Pairs: \"ABA vs GA (Dormancy), Auxin vs Cytokinin (Apical Dominance)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "ABA vs GA (Dormancy), Auxin vs Cytokinin (Apical Dominance)",
+    "memoryHook": "ABA vs GA (Dormancy), Auxin vs Cytokinin (Apical Dominance)",
+    "fact": "ABA vs GA: ABA maintains seed dormancy; GA breaks dormancy and promotes germination. Auxin vs Cytokinin: Auxin promotes apical dominance; Cytokinin overrides it to sprout lateral buds",
+    "breakdown": [
+      {
+        "key": "ABA vs GA",
+        "label": "ABA maintains seed dormancy; GA breaks dormancy and promotes germination"
+      },
+      {
+        "key": "Auxin vs Cytokinin",
+        "label": "Auxin promotes apical dominance; Cytokinin overrides it to sprout lateral buds"
+      }
+    ],
+    "doodleBadge": "ABA vs GA (Dormancy), Au",
+    "doodleSubtext": "Hormone Antagonisms Key ",
+    "explanation": "Classical antagonistic plant growth regulator pairs controlling key physiological switches.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Hormone Antagonisms Key Pairs.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.41",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Hormone"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 41,
+      "chapter": "Plant Growth and Development"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hormone Antagonisms Key Pairs\" in NEET Biology?",
+      "options": [
+        "ABA vs GA (Dormancy), Auxin vs Cytokinin (Apical Dominance)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Classical antagonistic plant growth regulator pairs controlling key physiological switches."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch13-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-13",
+    "chapterNumber": 13,
+    "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
+    "topicId": "bio-top-13-3",
+    "topicTitle": "Photoperiodism Categories",
+    "topic": "Photoperiodism Categories",
+    "mnemonicNumber": 24,
+    "title": "Photoperiodism Categories: \"LDP High Light, SDP Low Light, DNP Neutral\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "LDP High Light, SDP Low Light, DNP Neutral",
+    "memoryHook": "LDP High Light, SDP Low Light, DNP Neutral",
+    "fact": "Long Day Plants (LDP): Flower when light exposure exceeds critical photoperiod (e.g., Wheat, Radish). Short Day Plants (SDP): Flower when light exposure is less than critical photoperiod (e.g., Soyabean, Chrysanthemum). Day Neutral Plants (DNP): Flowering uninfluenced by day length exposure (e.g., Tomato, Cucumber, Maize)",
+    "breakdown": [
+      {
+        "key": "Long Day Plants (LDP)",
+        "label": "Flower when light exposure exceeds critical photoperiod (e.g., Wheat, Radish)"
+      },
+      {
+        "key": "Short Day Plants (SDP)",
+        "label": "Flower when light exposure is less than critical photoperiod (e.g., Soyabean, Chrysanthemum)"
+      },
+      {
+        "key": "Day Neutral Plants (DNP)",
+        "label": "Flowering uninfluenced by day length exposure (e.g., Tomato, Cucumber, Maize)"
+      }
+    ],
+    "doodleBadge": "LDP High Light, SDP Low ",
+    "doodleSubtext": "Photoperiodism Categorie",
+    "explanation": "Classification of plants based on light duration requirement for floral induction. Chapter 13: Plant Growth and Development (30 Mnemonics) \tPage 4",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Photoperiodism Categories.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.41",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Photoperiodism"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 41,
+      "chapter": "Plant Growth and Development"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Photoperiodism Categories\" in NEET Biology?",
+      "options": [
+        "Long Day Plants (LDP): Flower when light exposure exceeds critical photoperiod (",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Long Day Plants (LDP): Flower when light exposure exceeds critical photoperiod (e.g., Wheat, Radish)\". Remember using: \"LDP High Light, SDP Low Light, DNP Neutral\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch13-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-13",
+    "chapterNumber": 13,
+    "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
+    "topicId": "bio-top-13-3",
+    "topicTitle": "Site of Perception for Photoperiodism & Florigen",
+    "topic": "Site of Perception for Photoperiodism & Florigen",
+    "mnemonicNumber": 25,
+    "title": "Site of Perception for Photoperiodism & Florigen: \"Leaves Perceive Light, Florigen Moves to Apex\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Leaves Perceive Light, Florigen Moves to Apex",
+    "memoryHook": "Leaves Perceive Light, Florigen Moves to Apex",
+    "fact": "Perception Site: Leaves perceive light/dark duration (NOT the shoot apex). Florigen Hypothesis: Hormonal stimulus (Florigen) synthesizes in leaves and migrates to shoot apex to induce flowering",
+    "breakdown": [
+      {
+        "key": "Perception Site",
+        "label": "Leaves perceive light/dark duration (NOT the shoot apex)"
+      },
+      {
+        "key": "Florigen Hypothesis",
+        "label": "Hormonal stimulus (Florigen) synthesizes in leaves and migrates to shoot apex to induce flowering"
+      }
+    ],
+    "doodleBadge": "Leaves Perceive Light, F",
+    "doodleSubtext": "Site of Perception for P",
+    "explanation": "Perceptual organ vs target site mechanism governing photoperiodic floral transition.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Site of Perception for Photoperiodism & Florigen.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.42",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Site"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 42,
+      "chapter": "Plant Growth and Development"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Site of Perception for Photoperiodism & Florigen\" in NEET Biology?",
+      "options": [
+        "Leaves Perceive Light, Florigen Moves to Apex",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Perceptual organ vs target site mechanism governing photoperiodic floral transition."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch13-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-13",
+    "chapterNumber": 13,
+    "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
+    "topicId": "bio-top-13-3",
+    "topicTitle": "Vernalization Definition & Temperature",
+    "topic": "Vernalization Definition & Temperature",
+    "mnemonicNumber": 26,
+    "title": "Vernalization Definition & Temperature: \"Chilling Temperature Promotes Early Flowering\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Chilling Temperature Promotes Early Flowering",
+    "memoryHook": "Chilling Temperature Promotes Early Flowering",
+    "fact": "Requirement: Quantitative or qualitative dependence on exposure to low temperature (1°C – 7°C). Function: Prevents precocious reproductive development late in growing season. Perception Site: Shoot apical meristem / active dividing cells perceive cold stimulus",
+    "breakdown": [
+      {
+        "key": "Requirement",
+        "label": "Quantitative or qualitative dependence on exposure to low temperature (1°C – 7°C)"
+      },
+      {
+        "key": "Function",
+        "label": "Prevents precocious reproductive development late in growing season"
+      },
+      {
+        "key": "Perception Site",
+        "label": "Shoot apical meristem / active dividing cells perceive cold stimulus"
+      }
+    ],
+    "doodleBadge": "Chilling Temperature Pro",
+    "doodleSubtext": "Vernalization Definition",
+    "explanation": "Cold-induced acceleration of reproductive capacity in winter plant varieties.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Vernalization Definition & Temperature.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.42",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Vernalization"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 42,
+      "chapter": "Plant Growth and Development"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Vernalization Definition & Temperature\" in NEET Biology?",
+      "options": [
+        "Quantitative or qualitative dependence on exposure to low temperature (1°C – 7°C",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Quantitative or qualitative dependence on exposure to low temperature (1°C – 7°C)\". Remember using: \"Chilling Temperature Promotes Early Flowering\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch13-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-13",
+    "chapterNumber": 13,
+    "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
+    "topicId": "bio-top-13-3",
+    "topicTitle": "Vernalization Examples (Annuals & Biennials)",
+    "topic": "Vernalization Examples (Annuals & Biennials)",
+    "mnemonicNumber": 27,
+    "title": "Vernalization Examples (Annuals & Biennials): \"Winter Wheat Barley Rye & Biennial Sugarbeet Cabbage Carrot\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Winter Wheat Barley Rye & Biennial Sugarbeet Cabbage Carrot",
+    "memoryHook": "Winter Wheat Barley Rye & Biennial Sugarbeet Cabbage Carrot",
+    "fact": "Winter Varieties: Wheat, Barley, Rye (planted in autumn, harvested summer). Biennial Plants: Sugarbeet, Cabbage, Carrot (monocarpic plants flowering in second season after winter cold)",
+    "breakdown": [
+      {
+        "key": "Winter Varieties",
+        "label": "Wheat, Barley, Rye (planted in autumn, harvested summer)"
+      },
+      {
+        "key": "Biennial Plants",
+        "label": "Sugarbeet, Cabbage, Carrot (monocarpic plants flowering in second season after winter cold)"
+      }
+    ],
+    "doodleBadge": "Winter Wheat Barley Rye ",
+    "doodleSubtext": "Vernalization Examples (",
+    "explanation": "Crop examples exhibiting vernalization requirements for successful grain/seed yield.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Vernalization Examples (Annuals & Biennials).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.42",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Vernalization"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 42,
+      "chapter": "Plant Growth and Development"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Vernalization Examples (Annuals & Biennials)\" in NEET Biology?",
+      "options": [
+        "Winter Wheat Barley Rye & Biennial Sugarbeet Cabbage Carrot",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Crop examples exhibiting vernalization requirements for successful grain/seed yield."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch13-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-13",
+    "chapterNumber": 13,
+    "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
+    "topicId": "bio-top-13-3",
+    "topicTitle": "Vernalin & Devernalization",
+    "topic": "Vernalin & Devernalization",
+    "mnemonicNumber": 28,
+    "title": "Vernalin & Devernalization: \"Cold Forms Vernalin, High Heat Devernalizes\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Cold Forms Vernalin, High Heat Devernalizes",
+    "memoryHook": "Cold Forms Vernalin, High Heat Devernalizes",
+    "fact": "Vernalin: Hypothetical floral stimulus generated by cold treatment in apical meristem. Devernalization: Reversal of cold-induced vernalization state by immediate exposure to high temperatures",
+    "breakdown": [
+      {
+        "key": "Vernalin",
+        "label": "Hypothetical floral stimulus generated by cold treatment in apical meristem"
+      },
+      {
+        "key": "Devernalization",
+        "label": "Reversal of cold-induced vernalization state by immediate exposure to high temperatures"
+      }
+    ],
+    "doodleBadge": "Cold Forms Vernalin, Hig",
+    "doodleSubtext": "Vernalin & Devernalizati",
+    "explanation": "Hormonal hypothesis and temperature reversal phenomena of cold stratification.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Vernalin & Devernalization.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.42",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Vernalin"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 42,
+      "chapter": "Plant Growth and Development"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Vernalin & Devernalization\" in NEET Biology?",
+      "options": [
+        "Cold Forms Vernalin, High Heat Devernalizes",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hormonal hypothesis and temperature reversal phenomena of cold stratification."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch13-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-13",
+    "chapterNumber": 13,
+    "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
+    "topicId": "bio-top-13-3",
+    "topicTitle": "Causes of Seed Dormancy",
+    "topic": "Causes of Seed Dormancy",
+    "mnemonicNumber": 29,
+    "title": "Causes of Seed Dormancy: \"Hard Coat, Chemical Inhibitors, Immature Embryo\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Hard Coat, Chemical Inhibitors, Immature Embryo",
+    "memoryHook": "Hard Coat, Chemical Inhibitors, Immature Embryo",
+    "fact": "Impermeable Seed Coat: Hard seed coats preventing water/O2 entry. Chemical Inhibitors: Presence of Abscisic acid (ABA), Phenolic acids, Para-ascorbic acid. Embryonic Immaturity: Undeveloped/dormant embryo requiring maturation period",
+    "breakdown": [
+      {
+        "key": "Impermeable Seed Coat",
+        "label": "Hard seed coats preventing water/O2 entry"
+      },
+      {
+        "key": "Chemical Inhibitors",
+        "label": "Presence of Abscisic acid (ABA), Phenolic acids, Para-ascorbic acid"
+      },
+      {
+        "key": "Embryonic Immaturity",
+        "label": "Undeveloped/dormant embryo requiring maturation period"
+      }
+    ],
+    "doodleBadge": "Hard Coat, Chemical Inhi",
+    "doodleSubtext": "Causes of Seed Dormancy",
+    "explanation": "Endogenous and exogenous factors preventing seed germination despite favorable environments.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Causes of Seed Dormancy.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.42",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Causes"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 42,
+      "chapter": "Plant Growth and Development"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Causes of Seed Dormancy\" in NEET Biology?",
+      "options": [
+        "Hard seed coats preventing water/O2 entry",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Hard seed coats preventing water/O2 entry\". Remember using: \"Hard Coat, Chemical Inhibitors, Immature Embryo\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch13-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-13",
+    "chapterNumber": 13,
+    "chapterTitle": "Plant Growth and Development",
+    "classLevel": 11,
+    "topicId": "bio-top-13-3",
+    "topicTitle": "Methods to Overcome Seed Dormancy",
+    "topic": "Methods to Overcome Seed Dormancy",
+    "mnemonicNumber": 30,
+    "title": "Methods to Overcome Seed Dormancy: \"Scarification, Stratification, GA3 Application\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "Scarification, Stratification, GA3 Application",
+    "memoryHook": "Scarification, Stratification, GA3 Application",
+    "fact": "Scarification: Mechanical rupture (sandpaper, knives) or chemical rupture (concentrated acid) of hard seed coat. Stratification: Subjecting seeds to chilling conditions or light exposure. Chemical Treatment: Application of Gibberellic Acid (GA3) or Nitrates to neutralize ABA",
+    "breakdown": [
+      {
+        "key": "Scarification",
+        "label": "Mechanical rupture (sandpaper, knives) or chemical rupture (concentrated acid) of hard seed coat"
+      },
+      {
+        "key": "Stratification",
+        "label": "Subjecting seeds to chilling conditions or light exposure"
+      },
+      {
+        "key": "Chemical Treatment",
+        "label": "Application of Gibberellic Acid (GA3) or Nitrates to neutralize ABA"
+      }
+    ],
+    "doodleBadge": "Scarification, Stratific",
+    "doodleSubtext": "Methods to Overcome Seed",
+    "explanation": "Artificial and natural techniques used to break seed dormancy in agricultural practices. Chapter 13: Plant Growth and Development (30 Mnemonics) \tPage 5",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 13 (Plant Growth and Development).",
+    "neetTrap": "Pay close attention to exact terminology in Methods to Overcome Seed Dormancy.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 13, Page from PDF p.42",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Plant Growth and Development",
+      "Methods"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 42,
+      "chapter": "Plant Growth and Development"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Methods to Overcome Seed Dormancy\" in NEET Biology?",
+      "options": [
+        "Mechanical rupture (sandpaper, knives) or chemical rupture (concentrated acid) o",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Mechanical rupture (sandpaper, knives) or chemical rupture (concentrated acid) of hard seed coat\". Remember using: \"Scarification, Stratification, GA3 Application\"."
     }
   }
 ];

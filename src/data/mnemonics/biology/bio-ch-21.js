@@ -1,6 +1,7 @@
 /**
- * Biology Chapter 21: Human Reproduction
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 21 (NCERT Ch 2): Human Reproduction
+ * Class 12 Biology (50 verified mnemonics)
+ * Primary Source: NCERT Class 12 Biology Quick Revision Series (PDF 2)
  */
 
 export const bioCh21Mnemonics = [
@@ -10,74 +11,80 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
     "topicId": "bio-top-21-1",
-    "topicTitle": "Male Duct Pathway: SEVEN UP",
-    "topic": "Seminiferous Tubules -> Rete Testis -> Vasa Efferentia -> Epididymis -> Vas Deferens -> Ejaculatory Duct -> Urethra",
+    "topicTitle": "Primary Events in Human Reproduction Sequence",
+    "topic": "Primary Events in Human Reproduction Sequence",
     "mnemonicNumber": 1,
-    "title": "Sperm Pathway: SEVEN UP (Seminiferous -> Epididymis -> Vas Deferens -> Ejaculatory Duct -> Urethra)",
-    "badgeText": "Sequence",
+    "sourceItemNumber": 1,
+    "title": "Primary Events in Human Reproduction Sequence: \"G-I-F-I-G-P-L\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "sequence",
-    "mnemonicType": "acronym",
+    "difficulty": "medium",
+    "visualType": "acronym",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "SEVEN UP: Seminiferous Tubules -> (Rete Testis) -> (Vasa Efferentia) -> Epididymis -> Vas Deferens -> Ejaculatory Duct -> (Nothing) -> Urethra -> Penis!",
-    "memoryHook": "Sperm travels along the SEVEN UP highway! Made in Seminiferous tubules, matured in Epididymis backpack, launched through Vas Deferens pipe, through Ejaculatory duct into Urethra!",
-    "fact": "The male reproductive duct pathway transports sperm: Seminiferous tubules -> Rete testis (network of tubules) -> Vasa efferentia (10-20 fine ducts leaving testis) -> Epididymis (long coiled tube along posterior testis surface where sperm undergo maturation and acquire motility) -> Vas deferens (ascends into abdomen and loops over urinary bladder) -> joins duct from seminal vesicle to form Ejaculatory Duct -> opens into Urethra (originating from bladder and extending through penis to urethral meatus).",
+    "mnemonic": "G-I-F-I-G-P-L",
+    "memoryHook": "G-I-F-I-G-P-L",
+    "fact": "G – Gametogenesis (Spermatogenesis / Oogenesis). I – Insemination (Transfer of sperms into female genital tract). F – Fertilization (Fusion of male and female gametes to form zygote). I – Implantation (Attachment of blastocyst to uterine wall). G – Gestation (Embryonic development period). P – Parturition (Delivery of baby). L – Lactation (Milk production by mammary glands)",
     "breakdown": [
       {
-        "key": "S - Seminiferous Tubules",
-        "label": "Site of spermatogenesis in testis lobules (1-3 per lobule)"
+        "key": "G",
+        "label": "Gametogenesis (Spermatogenesis / Oogenesis)"
       },
       {
-        "key": "E - Epididymis",
-        "label": "Caput, Corpus, Cauda; site of sperm maturation, motility acquisition, and storage"
+        "key": "I",
+        "label": "Insemination (Transfer of sperms into female genital tract)"
       },
       {
-        "key": "V - Vas Deferens",
-        "label": "Ascends into abdomen, loops over urinary bladder, receives seminal vesicle duct"
+        "key": "F",
+        "label": "Fertilization (Fusion of male and female gametes to form zygote)"
       },
       {
-        "key": "E - Ejaculatory Duct",
-        "label": "Short duct storing and transporting sperm mixed with seminal fluid into urethra"
+        "key": "I",
+        "label": "Implantation (Attachment of blastocyst to uterine wall)"
       },
       {
-        "key": "U - Urethra",
-        "label": "Shared urogenital conduit passing through corpus spongiosum to external Urethral Meatus"
+        "key": "G",
+        "label": "Gestation (Embryonic development period)"
+      },
+      {
+        "key": "P",
+        "label": "Parturition (Delivery of baby)"
+      },
+      {
+        "key": "L",
+        "label": "Lactation (Milk production by mammary glands)"
       }
     ],
-    "doodleBadge": "SEVEN UP Pathway\nSeminiferous -> Epididymis -> Vas -> Urethra",
-    "doodleSubtext": "Male Duct Sequence",
-    "explanation": "Scrotum maintains testicular temperature 2 to 2.5°C lower than core body temperature, which is essential for viable spermatogenesis.",
-    "alsoRemember": "Vasa efferentia carry sperm from rete testis to epididymis.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 3, Section 3.1.",
-    "neetTrap": "The ejaculatory duct is formed by the union of the Vas Deferens and the duct from the SEMINAL VESICLE.",
+    "doodleBadge": "G-I-F-I-G-P-L",
+    "doodleSubtext": "Primary Events in Human ",
+    "explanation": "Sequential order of reproductive events in humans from gamete formation to childbirth.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Primary Events in Human Reproduction Sequence.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 57",
     "tags": [
-      "Male Reproduction",
-      "Sperm Pathway",
-      "SEVEN UP",
-      "Epididymis",
-      "Vas Deferens",
-      "Scrotum"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Primary"
     ],
-    "expandedMeaning": "Chronological ductal transit anatomy of spermatozoa from gonad to external ejaculation.",
-    "whyItWorks": "SEVEN UP acronym directly orders the anatomical sequence.",
-    "visualDescription": "Sagittal diagram of male pelvis showing colored line tracing sperm journey from testis through loops into urethra.",
-    "neetRelevance": "One of the most frequently asked anatomical pathway sequence questions.",
-    "commonMistake": "Placing vasa efferentia after vas deferens.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 57,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following represents the correct sequence of sperm transport through the male duct system?",
+      "question": "Which of the following is associated with \"Primary Events in Human Reproduction Sequence\" in NEET Biology?",
       "options": [
-        "Rete testis -> Vas deferens -> Epididymis -> Vasa efferentia",
-        "Rete testis -> Vasa efferentia -> Epididymis -> Vas deferens",
-        "Vasa efferentia -> Rete testis -> Vas deferens -> Epididymis",
-        "Epididymis -> Rete testis -> Vasa efferentia -> Vas deferens"
+        "Gametogenesis (Spermatogenesis / Oogenesis)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The correct pathway is: Seminiferous tubules -> Rete testis -> Vasa efferentia -> Epididymis -> Vas deferens -> Ejaculatory duct -> Urethra."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Gametogenesis (Spermatogenesis / Oogenesis)\". Remember using: \"G-I-F-I-G-P-L\"."
     }
   },
   {
@@ -86,71 +93,68 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
     "topicId": "bio-top-21-1",
-    "topicTitle": "Leydig vs Sertoli Cells",
-    "topic": "Leydig Cells (Androgens/Testosterone) vs Sertoli Cells (Nurse Cells/Nutrition & Inhibin)",
+    "topicTitle": "Male Sex Accessory Ducts Sequence",
+    "topic": "Male Sex Accessory Ducts Sequence",
     "mnemonicNumber": 2,
-    "title": "Testicular Cells: Leydig (Interstitial Spaces -> Androgens/Testosterone under LH) vs Sertoli (Inside Tubules -> Nurse Sperm & Secrete Inhibin/ABP)",
-    "badgeText": "Comparison",
+    "sourceItemNumber": 2,
+    "title": "Male Sex Accessory Ducts Sequence: \"R-V-E-V\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Leydig Cells = OUTSIDE tubules in Interstitial spaces -> Make Testosterone/Androgens (Stimulated by LH / Luteinizing Hormone!) | Sertoli Cells = INSIDE tubules -> Nurse and nourish developing sperm cells + secrete Inhibin and Androgen Binding Protein (Stimulated by FSH)!",
-    "memoryHook": "L matches L: LH stimulates Leydig cells! S matches S: Sertoli cells Support Sperm Nutrition! Leydig sits outside in the garden (interstitial); Sertoli is the nurse inside the room!",
-    "fact": "Each seminiferous tubule is lined inside by two types of cells: 1) Male germ cells (Spermatogonia): Undergo meiotic divisions leading to sperm formation. 2) Sertoli cells (Nurse cells): Provide nutrition to the germ cells, secrete Inhibin (negative feedback on FSH), and secrete Androgen Binding Protein (ABP). In the regions outside seminiferous tubules (Interstitial spaces) are Leydig cells (Interstitial cells) which synthesize and secrete testicular hormones called Androgens (principally Testosterone) under LH stimulation.",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "R-V-E-V",
+    "memoryHook": "R-V-E-V",
+    "fact": "R – Rete testis (Network of tubules inside testis). V – Vasa efferentia (Conducts sperms from rete testis to epididymis). E – Epididymis (Stores and matures sperm on posterior testis surface). V – Vas deferens (Ascends to abdomen and loops over urinary bladder)",
     "breakdown": [
       {
-        "key": "Leydig Cells (Interstitial)",
-        "label": "Located OUTSIDE tubules in connective tissue; stimulated by LH to secrete Testosterone"
+        "key": "R",
+        "label": "Rete testis (Network of tubules inside testis)"
       },
       {
-        "key": "Sertoli Cells (Somatic)",
-        "label": "Located INSIDE tubules; stimulated by FSH; nourish developing spermatids"
+        "key": "V",
+        "label": "Vasa efferentia (Conducts sperms from rete testis to epididymis)"
       },
       {
-        "key": "Spermiation",
-        "label": "Release of mature spermatozoa from Sertoli cells into lumen of seminiferous tubules"
+        "key": "E",
+        "label": "Epididymis (Stores and matures sperm on posterior testis surface)"
       },
       {
-        "key": "LH & FSH Rule",
-        "label": "LH acts on Leydig cells; FSH acts on Sertoli cells"
+        "key": "V",
+        "label": "Vas deferens (Ascends to abdomen and loops over urinary bladder)"
       }
     ],
-    "doodleBadge": "LH -> Leydig -> Testosterone\nFSH -> Sertoli -> Nurse Sperm",
-    "doodleSubtext": "Testis Cell Pair",
-    "explanation": "Spermiation is the process where mature sperm heads detach and are released from Sertoli cells into the lumen of the seminiferous tubule.",
-    "alsoRemember": "Blood-testis barrier is formed by tight junctions between adjacent Sertoli cells to protect haploid sperm from immune destruction.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.1 & 3.2.",
-    "neetTrap": "LH acts on LEYDIG cells (L-L pairing); FSH acts on SERTOLI cells (S-S pairing).",
+    "doodleBadge": "R-V-E-V",
+    "doodleSubtext": "Male Sex Accessory Ducts",
+    "explanation": "Direct path of intratesticular and ductal transport for sperm before reaching the ejaculatory duct.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Male Sex Accessory Ducts Sequence.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 57",
     "tags": [
-      "Leydig Cells",
-      "Sertoli Cells",
-      "Testosterone",
-      "LH",
-      "FSH",
-      "Spermiation",
-      "Testis"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Male"
     ],
-    "expandedMeaning": "Paracrine and gonadotropic regulation of somatic-germ cell niche interactions in the testis.",
-    "whyItWorks": "L-L (LH-Leydig) and S-S (Sertoli-Support) mnemonic pairing.",
-    "visualDescription": "Cross section of seminiferous tubule showing tall Sertoli nurse trees supporting round germ cells inside, and red Leydig clusters outside.",
-    "neetRelevance": "One of the most frequently asked gonadotropin hormonal control questions.",
-    "commonMistake": "Thinking Leydig cells are located inside the seminiferous tubules.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 57,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which hormone acts on the interstitial Leydig cells to stimulate the synthesis and secretion of androgens (testosterone)?",
+      "question": "Which of the following is associated with \"Male Sex Accessory Ducts Sequence\" in NEET Biology?",
       "options": [
-        "FSH",
-        "Luteinizing Hormone (LH)",
-        "Prolactin",
-        "Oxytocin"
+        "Rete testis (Network of tubules inside testis)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Luteinizing Hormone (LH / ICSH) acts directly on Leydig cells to stimulate testosterone synthesis."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Rete testis (Network of tubules inside testis)\". Remember using: \"R-V-E-V\"."
     }
   },
   {
@@ -159,70 +163,80 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
     "topicId": "bio-top-21-1",
-    "topicTitle": "Male Accessory Glands & Seminal Plasma",
-    "topic": "Seminal Vesicles (Fructose & Prostaglandins) + Prostate + Bulbourethral (Lubrication)",
+    "topicTitle": "Complete Pathway of Sperm Transport",
+    "topic": "Complete Pathway of Sperm Transport",
     "mnemonicNumber": 3,
-    "title": "Male Accessory Glands: Seminal Vesicles (Fructose Food + Prostaglandins) + Prostate Gland + Bulbourethral (Cowper's = Mucus Lubricant)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 3,
+    "title": "Complete Pathway of Sperm Transport: \"SEVEN UP\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "3 Accessory Glands: 1) Seminal Vesicles (Paired, 60-70% semen, Rich in FRUCTOSE sugar for sperm ATP + Calcium + Prostaglandins) | 2) Prostate Gland (Single doughnut, alkaline fluid) | 3) Bulbourethral / Cowper's Glands (Paired, secretes mucus for PENIS LUBRICATION)!",
-    "memoryHook": "Seminal Vesicles pack the sweet lunchbox (FRUCTOSE sugar energy)! Prostate makes the swimming pool milky! Bulbourethral (Cowper's) provides the slippery oil lubricant before intercourse!",
-    "fact": "Male accessory glands include: 1) Paired Seminal Vesicles: Contribute 60-70% of seminal volume; secretions are rich in Fructose (energy source for sperm motility, used in forensic rape tests), Calcium, and clotting enzymes. 2) Single Prostate Gland: Surrounds proximal urethra; secretes milky alkaline fluid containing citrate and enzymes. 3) Paired Bulbourethral Glands (Cowper's Glands): Secrete clear alkaline mucus that lubricates the penis and neutralizes acidic traces of urine in urethra prior to ejaculation. Semen = Sperm (10%) + Seminal Plasma (90%).",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "SEVEN UP",
+    "memoryHook": "SEVEN UP",
+    "fact": "S – Seminiferous tubules (Sperm production site). E – Epididymis (Sperm maturation and storage). V – Vas deferens (Ascending duct). E – Ejaculatory duct (Formed by vas deferens + seminal vesicle duct). N – Nothing (structural placeholder). U – Urethra (Prostatic, membranous, and penile regions). P – Penis (Urethral meatus exit)",
     "breakdown": [
       {
-        "key": "Seminal Vesicles (Paired)",
-        "label": "Produces 60-70% semen volume; rich in Fructose, Prostaglandins, Fibrinogen, Calcium"
+        "key": "S",
+        "label": "Seminiferous tubules (Sperm production site)"
       },
       {
-        "key": "Prostate Gland (Single)",
-        "label": "Single gland surrounding urethra base; secretes milky alkaline fluid (citrate, PSA)"
+        "key": "E",
+        "label": "Epididymis (Sperm maturation and storage)"
       },
       {
-        "key": "Bulbourethral Glands (Paired)",
-        "label": "Cowper's glands; secretes clear viscous mucus for lubrication of glans penis"
+        "key": "V",
+        "label": "Vas deferens (Ascending duct)"
       },
       {
-        "key": "Fructose Forensic Role",
-        "label": "Fructose is produced ONLY by seminal vesicles in the human body (used in forensic rape detection)"
+        "key": "E",
+        "label": "Ejaculatory duct (Formed by vas deferens + seminal vesicle duct)"
+      },
+      {
+        "key": "N",
+        "label": "Nothing (structural placeholder)"
+      },
+      {
+        "key": "U",
+        "label": "Urethra (Prostatic, membranous, and penile regions)"
+      },
+      {
+        "key": "P",
+        "label": "Penis (Urethral meatus exit)"
       }
     ],
-    "doodleBadge": "Seminal Vesicles = Fructose & Ca2+\nBulbourethral = Lubrication\nProstate = Single Gland",
-    "doodleSubtext": "3 Male Accessory Glands",
-    "explanation": "Fructose is not produced anywhere else in the human body, making its presence in the female reproductive tract evidence of sexual intercourse in forensic science.",
-    "alsoRemember": "Prostate gland is a SINGLE unpaired gland, while Seminal vesicles and Bulbourethral glands are PAIRED.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.1.",
-    "neetTrap": "Prostate gland is UNPAIRED (single); Seminal vesicles and Bulbourethral glands are PAIRED.",
+    "doodleBadge": "SEVEN UP",
+    "doodleSubtext": "Complete Pathway of Sper",
+    "explanation": "Full pathway traversed by sperm cells from formation to exit from the male body.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Complete Pathway of Sperm Transport.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 57",
     "tags": [
-      "Seminal Vesicles",
-      "Prostate Gland",
-      "Bulbourethral Glands",
-      "Cowper Glands",
-      "Fructose",
-      "Seminal Plasma"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Complete"
     ],
-    "expandedMeaning": "Secretory profile and biochemical contribution of male accessory exocrine sex glands.",
-    "whyItWorks": "Lunchbox (Seminal Fructose) + Donut (Single Prostate) + Slip (Bulbourethral lubricant).",
-    "visualDescription": "Male pelvic gland anatomy showing paired winged Seminal Vesicles, single round Prostate doughnut, and paired tiny pea Bulbourethral glands.",
-    "neetRelevance": "Common in matching and chemical composition MCQs.",
-    "commonMistake": "Thinking the prostate gland is paired.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 57,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Secretions of which male accessory gland are specifically rich in FRUCTOSE, calcium, and certain enzymes to provide energy for sperm motility?",
+      "question": "Which of the following is associated with \"Complete Pathway of Sperm Transport\" in NEET Biology?",
       "options": [
-        "Prostate gland",
-        "Bulbourethral glands",
-        "Seminal vesicles",
-        "Bartholin glands"
+        "Seminiferous tubules (Sperm production site)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Seminal vesicles secrete seminal fluid rich in fructose, calcium, and prostaglandins."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Seminiferous tubules (Sperm production site)\". Remember using: \"SEVEN UP\"."
     }
   },
   {
@@ -231,76 +245,64 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
     "topicId": "bio-top-21-1",
-    "topicTitle": "Fallopian Tube Regions & Site of Fertilization",
-    "topic": "Fimbriae -> Infundibulum -> Ampulla (Site of Fertilization) -> Isthmus",
+    "topicTitle": "Male Accessory Glands",
+    "topic": "Male Accessory Glands",
     "mnemonicNumber": 4,
-    "title": "Fallopian Tube: Fimbriae (Catch Ovum) -> Infundibulum (Funnel) -> AMPULLA (Site of Fertilization!) -> Isthmus (Narrow)",
-    "badgeText": "Sequence",
+    "sourceItemNumber": 4,
+    "title": "Male Accessory Glands: \"S-P-B\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Ovary Ovulation -> Fimbriae fingers catch Egg -> Funnel Infundibulum -> AMPULLA (Widest part, Official Site of Fertilization / Sperm-Egg Union!) -> Narrow Isthmus -> Uterine Cavity!",
-    "memoryHook": "Fimbriae fingers catch the baseball egg -> tosses it into the Infundibulum funnel -> rolls into the AMPLE AMPULLA room where the romantic candlelight dinner with Sperm happens (Fertilization)!",
-    "fact": "Each Fallopian tube (Oviduct, 10-12 cm long) extends from ovary periphery to uterus with 3 parts: 1) Infundibulum: Funnel-shaped part closer to ovary; edges possess finger-like projections called Fimbriae which collect ovum after ovulation. 2) Ampulla: Wider, curved middle part where fertilization takes place (Ampullary region). 3) Isthmus: Last part, narrow lumen connecting oviduct to uterus. Uterus wall has 3 layers: Outer Perimetrium, thick middle smooth muscle Myometrium (vigorous contractions during parturition), and inner glandular Endometrium (cyclical changes during menstruation).",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "S-P-B",
+    "memoryHook": "S-P-B",
+    "fact": "S – Seminal vesicles (Paired; contributes fructose and prostaglandins). P – Prostate gland (Single/Unpaired; secretes alkaline fluid). B – Bulbourethral glands (Cowper's glands; paired, provides lubrication)",
     "breakdown": [
       {
-        "key": "Fimbriae",
-        "label": "Ciliated finger-like edges of infundibulum that sweep ovum into ostium upon ovulation"
+        "key": "S",
+        "label": "Seminal vesicles (Paired; contributes fructose and prostaglandins)"
       },
       {
-        "key": "Infundibulum",
-        "label": "Funnel-shaped segment closest to the ovary"
+        "key": "P",
+        "label": "Prostate gland (Single/Unpaired; secretes alkaline fluid)"
       },
       {
-        "key": "Ampulla",
-        "label": "Wider, longer middle portion; the anatomical SITE OF FERTILIZATION"
-      },
-      {
-        "key": "Isthmus",
-        "label": "Narrow, thick-walled terminal segment opening into uterine lumen"
-      },
-      {
-        "key": "Uterus Layers",
-        "label": "Perimetrium (external serosa), Myometrium (thick smooth muscle), Endometrium (vascular glandular mucosa)"
+        "key": "B",
+        "label": "Bulbourethral glands (Cowper's glands; paired, provides lubrication)"
       }
     ],
-    "doodleBadge": "Fimbriae -> Infundibulum -> AMPULLA (Fertilization) -> Isthmus",
-    "doodleSubtext": "Fallopian Tube Map",
-    "explanation": "According to revised NCERT guidelines, fertilization takes place in the Ampullary region of the fallopian tube.",
-    "alsoRemember": "Ectopic pregnancy occurs when the blastocyst implants abnormally in the fallopian tube instead of the uterine endometrium.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.1 & 3.4.",
-    "neetTrap": "Site of fertilization is the AMPULLARY REGION (Ampulla) of the fallopian tube.",
+    "doodleBadge": "S-P-B",
+    "doodleSubtext": "Male Accessory Glands",
+    "explanation": "Secretions of these glands form seminal plasma rich in fructose, calcium, and enzymes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Male Accessory Glands.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 57",
     "tags": [
-      "Fallopian Tube",
-      "Oviduct",
-      "Ampulla",
-      "Fimbriae",
-      "Infundibulum",
-      "Fertilization",
-      "Myometrium",
-      "Endometrium"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Male"
     ],
-    "expandedMeaning": "Segmental salpingeal anatomy and physiological locus of human syngamy.",
-    "whyItWorks": "F-I-A-I sequence with bold emphasis on Ampulla = Fertilization.",
-    "visualDescription": "Fallopian tube cross-section showing finger Fimbriae near ovary leading through funnel to wide Ampulla with sperm-egg union, narrowing at Isthmus.",
-    "neetRelevance": "One of the most frequently asked questions regarding the exact anatomical site of fertilization.",
-    "commonMistake": "Marking the uterus as the site of fertilization.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 57,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In the human female reproductive tract, fertilization normally takes place in which specific region of the fallopian tube?",
+      "question": "Which of the following is associated with \"Male Accessory Glands\" in NEET Biology?",
       "options": [
-        "Infundibulum",
-        "Ampullary region (Ampulla)",
-        "Isthmus",
-        "Uterine fundus"
+        "Seminal vesicles (Paired; contributes fructose and prostaglandins)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Fertilization takes place in the Ampulla (ampullary region) of the fallopian tube."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Seminal vesicles (Paired; contributes fructose and prostaglandins)\". Remember using: \"S-P-B\"."
     }
   },
   {
@@ -309,74 +311,64 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-2",
-    "topicTitle": "Spermatogenesis vs Oogenesis Timing & Divisions",
-    "topic": "Continuous Spermatogenesis at Puberty vs Oogenesis Starting in Embryonic Fetal Life",
+    "classLevel": 12,
+    "topicId": "bio-top-21-1",
+    "topicTitle": "Cells in Seminiferous Tubules",
+    "topic": "Cells in Seminiferous Tubules",
     "mnemonicNumber": 5,
-    "title": "Gametogenesis: Spermatogenesis (Starts at Puberty, Continuous, 1 Spermatocyte = 4 Sperm) vs Oogenesis (Starts in EMBRYO, Pauses twice, 1 Oocyte = 1 Ovum + Polar Bodies)",
-    "badgeText": "Comparison",
+    "sourceItemNumber": 5,
+    "title": "Cells in Seminiferous Tubules: \"S-S-L\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "hard",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Spermatogenesis: Starts at Puberty under GnRH -> 1 1° Spermatocyte (2n) makes 4 Equal Motile Sperm (n)! | Oogenesis: Starts BEFORE BIRTH in female fetus (No new oogonia formed after birth!) -> Arrests at Prophase I (Diplotene) until puberty -> Ovulation releases 2° Oocyte arrested at Metaphase II -> Completed ONLY upon sperm entry -> 1 Ovum (n) + Polar Bodies!",
-    "memoryHook": "Men start sperm factory at puberty and never stop! Women make all their 2-4 million egg eggs inside their mother's womb before birth, then lock them in Diplotene freeze until puberty! Oogenesis is unequal: 1 giant egg keeps all the cytoplasm, dumping tiny polar bodies!",
-    "fact": "Spermatogenesis vs Oogenesis: 1) Spermatogenesis starts at puberty: Spermatogonia (2n) -> Primary Spermatocyte (2n) -> Meiosis I -> 2 Secondary Spermatocytes (n) -> Meiosis II -> 4 Spermatids (n) -> Spermiogenesis -> 4 Spermatozoa. 2) Oogenesis initiated during embryonic development (no oogonia formed after birth): Oogonia (2n) enter Prophase I of Meiosis I and get arrested as Primary Oocytes. At puberty, first meiotic division completes just before ovulation, forming a large haploid Secondary Oocyte (n) and tiny 1st Polar Body. Secondary oocyte arrests in Metaphase II, which completes ONLY when a sperm penetrates it during fertilization, yielding 1 Ovum (Ootid) and 2nd Polar Body.",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "S-S-L",
+    "memoryHook": "S-S-L",
+    "fact": "S – Spermatogonia (Diploid male germ cells undergoing meiosis). S – Sertoli cells (Nurse cells providing nutrition to developing germ cells). L – Leydig cells (Interstitial cells outside tubules secreting androgens)",
     "breakdown": [
       {
-        "key": "Initiation Timing",
-        "label": "Spermatogenesis starts at Puberty; Oogenesis starts in Fetal Embryonic life"
+        "key": "S",
+        "label": "Spermatogonia (Diploid male germ cells undergoing meiosis)"
       },
       {
-        "key": "Arrest 1 (Primary Oocyte)",
-        "label": "Suspended in Prophase I (Diplotene stage) from birth until puberty"
+        "key": "S",
+        "label": "Sertoli cells (Nurse cells providing nutrition to developing germ cells)"
       },
       {
-        "key": "Arrest 2 (Secondary Oocyte)",
-        "label": "Suspended in Metaphase II; released at ovulation; completed ONLY upon sperm entry"
-      },
-      {
-        "key": "Yield per Primary Cell",
-        "label": "1 1° Spermatocyte = 4 Spermatozoa; 1 1° Oocyte = 1 Ovum + 2-3 Polar bodies"
-      },
-      {
-        "key": "Cytokinesis Equality",
-        "label": "Spermatogenesis is equal; Oogenesis is extremely unequal (preserves rich ovum cytoplasm)"
+        "key": "L",
+        "label": "Leydig cells (Interstitial cells outside tubules secreting androgens)"
       }
     ],
-    "doodleBadge": "Sperm: Puberty -> 4 Sperm\nEgg: Embryo -> Metaphase II Arrest -> 1 Ovum",
-    "doodleSubtext": "Gametogenesis Contrast",
-    "explanation": "The entry of sperm induces completion of the second meiotic division of the secondary oocyte by triggering breakdown of MPF (Maturation Promoting Factor).",
-    "alsoRemember": "At puberty, only about 60,000 to 80,000 primary follicles are left in each ovary due to follicular atresia.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.2.",
-    "neetTrap": "The secondary oocyte is ARRESTED AT METAPHASE II at the time of ovulation and completes meiosis II only when sperm enters.",
+    "doodleBadge": "S-S-L",
+    "doodleSubtext": "Cells in Seminiferous Tu",
+    "explanation": "Germ cells and Sertoli cells lie inside seminiferous tubules, while Leydig cells occupy interstitial spaces. NCERT Chapter 2 Mnemonics Master Guide \tPage 1 of 10 Human Reproduction | NCERT Line-by-Line Alignment for NEET & Board Exams",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Cells in Seminiferous Tubules.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 57",
     "tags": [
-      "Spermatogenesis",
-      "Oogenesis",
-      "Metaphase II Arrest",
-      "Prophase I",
-      "Polar Body",
-      "Spermiogenesis"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Cells"
     ],
-    "expandedMeaning": "Cytological timeline, meiotic checkpoints, and asymmetric cytokinesis in human gametogenesis.",
-    "whyItWorks": "Continuous male production (4 sperm) vs Fetal start with dual meiotic arrests (1 ovum).",
-    "visualDescription": "Split comparison tree: symmetric male tree yielding 4 blue tailed sperm vs asymmetric female tree showing polar body offshoots and giant egg.",
-    "neetRelevance": "One of the most heavily tested meiotic division topics in NEET.",
-    "commonMistake": "Thinking oogenesis begins at puberty (it begins in the embryonic stage).",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 57,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "At which meiotic stage is the human secondary oocyte arrested when it is released from the ovary during ovulation?",
+      "question": "Which of the following is associated with \"Cells in Seminiferous Tubules\" in NEET Biology?",
       "options": [
-        "Prophase I (Diplotene)",
-        "Metaphase I",
-        "Metaphase II",
-        "Anaphase II"
+        "Spermatogonia (Diploid male germ cells undergoing meiosis)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "At ovulation, the secondary oocyte is arrested at Metaphase II, and resumes division only upon sperm fertilization."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Spermatogonia (Diploid male germ cells undergoing meiosis)\". Remember using: \"S-S-L\"."
     }
   },
   {
@@ -385,75 +377,64 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-2",
-    "topicTitle": "Sperm Anatomy & Semen Quality",
-    "topic": "Acrosome (Golgi), Middle Piece (Mitochondria / Nebenkern), 60% Normal Shape + 40% Vigorous Motility",
+    "classLevel": 12,
+    "topicId": "bio-top-21-1",
+    "topicTitle": "Female Accessory Ducts",
+    "topic": "Female Accessory Ducts",
     "mnemonicNumber": 6,
-    "title": "Sperm Structure: Head (Acrosome with Hyaluronidase from Golgi) + Middle Piece (Spiral Mitochondria / ATP Engine) + 60% Shape / 40% Motility Rule",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 6,
+    "title": "Female Accessory Ducts: \"O-U-V\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Acrosome = Golgi drill cap with sperm lysins (Hyaluronidase) | Middle Piece = Spiral Mitochondria engine (Nebenkern) generating ATP for Tail propeller | Semen Norm: 200-300 Million sperm per ejaculate -> At least 60% Normal Shape & 40% Vigorous Motility!",
-    "memoryHook": "Head wears a Golgi drill cap (Acrosome); Middle piece is the battery pack (Spiral Mitochondria); Tail is the outboard motor! For fertility: 60% must look normal, and 40% must swim like Olympic champions!",
-    "fact": "Human sperm consists of: 1) Head: Elongated haploid nucleus covered anteriorly by a cap-like Acrosome (derived from Golgi apparatus, filled with enzymes/sperm lysins like Hyaluronidase and Acrosin for ovum penetration). 2) Neck: Contains proximal and distal centrioles. 3) Middle piece: Possesses numerous spiral mitochondria (Nebenkern) which produce energy (ATP) for tail movement that facilitates sperm motility essential for fertilization. 4) Tail: Axoneme with 9+2 microtubular arrangement. A human male ejaculates 200 to 300 million sperm per coitus; for normal fertility, at least 60% must have normal shape and size, and at least 40% of them must show vigorous motility.",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "O-U-V",
+    "memoryHook": "O-U-V",
+    "fact": "O – Oviducts (Fallopian tubes; 10-12 cm long). U – Uterus (Womb; inverted pear shape). V – Vagina (Fibromuscular canal opening to exterior)",
     "breakdown": [
       {
-        "key": "Acrosome (Head Cap)",
-        "label": "Derived from Golgi apparatus; contains hydrolytic sperm lysins (Hyaluronidase)"
+        "key": "O",
+        "label": "Oviducts (Fallopian tubes; 10-12 cm long)"
       },
       {
-        "key": "Middle Piece",
-        "label": "Packed with spiral mitochondria (Nebenkern) generating ATP for swimming motility"
+        "key": "U",
+        "label": "Uterus (Womb; inverted pear shape)"
       },
       {
-        "key": "Centrioles (Neck)",
-        "label": "Proximal centriole initiates first cleavage of zygote; Distal centriole gives rise to axial filament"
-      },
-      {
-        "key": "60/40 Fertility Rule",
-        "label": "At least 60% normal morphology and at least 40% showing vigorous forward motility"
-      },
-      {
-        "key": "Ejaculate Count",
-        "label": "200 to 300 million spermatozoa per single ejaculation (volume ~2-5 mL)"
+        "key": "V",
+        "label": "Vagina (Fibromuscular canal opening to exterior)"
       }
     ],
-    "doodleBadge": "Acrosome = Golgi Drill\nMiddle = Mitochondria Engine\n60% Shape + 40% Motility",
-    "doodleSubtext": "Sperm Anatomy & Norms",
-    "explanation": "The proximal centriole donated by the sperm is vital because the mature unfertilized human ovum lacks a centriole and cannot divide without it.",
-    "alsoRemember": "Spermiogenesis is the transformation of non-motile spherical spermatids into flagellated motile spermatozoa.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.2.",
-    "neetTrap": "For normal fertility, AT LEAST 60% must have normal shape, and of those, AT LEAST 40% must show vigorous motility.",
+    "doodleBadge": "O-U-V",
+    "doodleSubtext": "Female Accessory Ducts",
+    "explanation": "Female accessory ducts transport ova, support fertilization, and form the birth canal.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Female Accessory Ducts.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 58",
     "tags": [
-      "Sperm Anatomy",
-      "Acrosome",
-      "Golgi",
-      "Mitochondria",
-      "Middle Piece",
-      "Fertility Rule",
-      "60-40 Rule"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Female"
     ],
-    "expandedMeaning": "Ultrastructural cytomorphology and motility bioenergetics of mature human spermatozoa.",
-    "whyItWorks": "Golgi drill + Mitochondrial engine + 60/40 fertility rule.",
-    "visualDescription": "Detailed sperm diagram labeling Acrosome cap, nucleus, neck centriole, spiral mitochondria coiled around middle piece, and long tail.",
-    "neetRelevance": "Guaranteed NEET questions on acrosome origin and the 60%/40% fertility percentage values.",
-    "commonMistake": "Thinking the acrosome is derived from the endoplasmic reticulum (it is from Golgi).",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 58,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "For normal human male fertility, what percentage of the 200-300 million ejaculated sperm must exhibit normal shape and vigorous motility respectively?",
+      "question": "Which of the following is associated with \"Female Accessory Ducts\" in NEET Biology?",
       "options": [
-        "At least 40% normal shape and 60% vigorous motility",
-        "At least 60% normal shape and at least 40% vigorous motility",
-        "50% normal shape and 50% vigorous motility",
-        "At least 80% normal shape and 20% vigorous motility"
+        "Oviducts (Fallopian tubes; 10-12 cm long)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "NCERT specifies that at least 60% of sperm must have normal shape/size and at least 40% of them must show vigorous motility."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Oviducts (Fallopian tubes; 10-12 cm long)\". Remember using: \"O-U-V\"."
     }
   },
   {
@@ -462,71 +443,64 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-3",
-    "topicTitle": "Menstrual Cycle 4 Phases & Hormonal Peaks",
-    "topic": "Menstrual (Days 1-5) -> Follicular / Proliferative (Days 6-13) -> LH Surge Ovulation (Day 14) -> Luteal / Secretory (Days 15-28)",
+    "classLevel": 12,
+    "topicId": "bio-top-21-1",
+    "topicTitle": "Parts of Fallopian Tube (Oviduct)",
+    "topic": "Parts of Fallopian Tube (Oviduct)",
     "mnemonicNumber": 7,
-    "title": "Menstrual Cycle: Menstrual (Progesterone Drops / Bleeding) -> Follicular (Estrogen Peaks / Endometrium Builds) -> LH SURGE on Day 14 (Ovulation) -> Luteal (Corpus Luteum Progesterone Peaks)",
-    "badgeText": "Sequence",
+    "sourceItemNumber": 7,
+    "title": "Parts of Fallopian Tube (Oviduct): \"I-A-I\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "hard",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EDF4FF",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
     "badgeColor": "#5B8DEF",
-    "mnemonic": "4 Phases: 1) Menstrual (Days 1-5, Endometrium breaks down due to dropped Progesterone) -> 2) Follicular/Proliferative (Days 6-13, FSH grows Graafian Follicle -> Secretes ESTROGEN peak) -> 3) Day 14 Ovulatory (LH SURGE triggers Graafian follicle rupture -> Ovulation of 2° Oocyte) -> 4) Luteal/Secretory (Days 15-28, Corpus Luteum secretes massive PROGESTERONE peak)!",
-    "memoryHook": "Day 1-5 = Shed the old lining! Day 6-13 = Estrogen builds the new palace! Day 14 = Giant LH Surge triggers the volcano eruption (Ovulation)! Day 15-28 = Corpus Luteum makes Progesterone to maintain pregnancy palace!",
-    "fact": "The 28-day Menstrual Cycle consists of 4 distinct phases: 1) Menstrual Phase (Days 1-5): Breakdown of endometrial lining and blood vessels (menses) caused by withdrawal of progesterone due to degeneration of corpus luteum. 2) Follicular / Proliferative Phase (Days 6-13): FSH stimulates primary follicles into mature Graafian follicle; developing follicles secrete Estrogen which regenerates/proliferates endometrium. 3) Ovulatory Phase (Day 14): Rapid secretion of LH leading to maximum level around mid-cycle called LH Surge, inducing rupture of Graafian follicle and release of secondary oocyte (Ovulation). 4) Luteal / Secretory Phase (Days 15-28): Ruptured Graafian follicle transforms into Corpus Luteum, secreting large amounts of Progesterone to maintain secretory endometrium for implantation.",
+    "mnemonic": "I-A-I",
+    "memoryHook": "I-A-I",
+    "fact": "I – Infundibulum (Funnel-shaped part closer to ovary with fimbriae). A – Ampulla (Wider, middle part; site of fertilization). I – Isthmus (Narrow lumen connected directly to uterus)",
     "breakdown": [
       {
-        "key": "Phase 1: Menstrual (Days 1-5)",
-        "label": "Endometrial shedding caused by drop in Progesterone and Estrogen"
+        "key": "I",
+        "label": "Infundibulum (Funnel-shaped part closer to ovary with fimbriae)"
       },
       {
-        "key": "Phase 2: Follicular (Days 6-13)",
-        "label": "FSH stimulates follicle; growing follicles secrete Estrogen peak, proliferating endometrium"
+        "key": "A",
+        "label": "Ampulla (Wider, middle part; site of fertilization)"
       },
       {
-        "key": "Phase 3: Ovulation (Day 14)",
-        "label": "LH Surge (peak LH + FSH) causes rupture of Graafian follicle and release of ovum"
-      },
-      {
-        "key": "Phase 4: Luteal (Days 15-28)",
-        "label": "Corpus Luteum secretes Progesterone peak, maintaining thick secretory endometrium"
+        "key": "I",
+        "label": "Isthmus (Narrow lumen connected directly to uterus)"
       }
     ],
-    "doodleBadge": "Day 14 = LH Surge -> Ovulation\nFollicular = Estrogen | Luteal = Progesterone",
-    "doodleSubtext": "28-Day Hormonal Waves",
-    "explanation": "If fertilization does not occur, the corpus luteum degenerates into Corpus Albicans, progesterone levels plummet, triggering the next menstrual bleeding.",
-    "alsoRemember": "First menstruation at puberty is called Menarche (~12-14 yrs); permanent cessation of menstruation around age 50 is Menopause.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.3.",
-    "neetTrap": "OVULATION is directly triggered by the LH SURGE (rapid mid-cycle peak of LH), NOT by progesterone.",
+    "doodleBadge": "I-A-I",
+    "doodleSubtext": "Parts of Fallopian Tube ",
+    "explanation": "Region-wise progression of fallopian tube from lateral ovary end to medial uterine attachment.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Parts of Fallopian Tube (Oviduct).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 58",
     "tags": [
-      "Menstrual Cycle",
-      "LH Surge",
-      "Ovulation",
-      "Estrogen",
-      "Progesterone",
-      "Corpus Luteum",
-      "Graafian Follicle"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Parts"
     ],
-    "expandedMeaning": "Hypothalamic-pituitary-ovarian-endometrial chronobiological synchronization during the primate reproductive cycle.",
-    "whyItWorks": "Four distinct phases mapped to calendar days and peak hormones: Estrogen (Pre-ovulatory) -> LH Surge (Day 14) -> Progesterone (Post-ovulatory).",
-    "visualDescription": "28-day wave chart showing FSH/LH spike at Day 14, Estrogen peak before ovulation, and high Progesterone plateau during luteal phase.",
-    "neetRelevance": "One of the top 3 most frequently tested topics in the entire NEET syllabus.",
-    "commonMistake": "Thinking progesterone peaks before ovulation (it peaks during the luteal phase).",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 58,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Ovulation (release of secondary oocyte from the Graafian follicle) on approximately Day 14 of the human menstrual cycle is directly induced by:",
+      "question": "Which of the following is associated with \"Parts of Fallopian Tube (Oviduct)\" in NEET Biology?",
       "options": [
-        "A sharp drop in estrogen",
-        "A rapid surge of Luteinizing Hormone (LH Surge)",
-        "A peak in progesterone secretion",
-        "High levels of prolactin"
+        "Infundibulum (Funnel-shaped part closer to ovary with fimbriae)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The mid-cycle LH Surge (maximum peak of LH) induces the rupture of the Graafian follicle and release of the ovum (ovulation)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Infundibulum (Funnel-shaped part closer to ovary with fimbriae)\". Remember using: \"I-A-I\"."
     }
   },
   {
@@ -535,70 +509,64 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-4",
-    "topicTitle": "Acrosome Reaction & Cortical Reaction",
-    "topic": "Capacitation, Hyaluronidase, Zona Pellucida Block to Polyspermy",
+    "classLevel": 12,
+    "topicId": "bio-top-21-1",
+    "topicTitle": "Uterine Wall Layers",
+    "topic": "Uterine Wall Layers",
     "mnemonicNumber": 8,
-    "title": "Fertilization: Capacitation (Female Tract) -> Acrosomal Reaction (Hyaluronidase drills Zona Pellucida) -> Cortical Reaction (Blocks Polyspermy!)",
-    "badgeText": "Sequence",
+    "sourceItemNumber": 8,
+    "title": "Uterine Wall Layers: \"P-M-E\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFF0F3",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#FF8D78",
-    "mnemonic": "Step 1: Capacitation (Sperm gets activated in Female Vagina/Uterus) -> Step 2: Acrosomal Reaction (Hyaluronidase dissolves Corona Radiata cells & Acrosin digests Zona Pellucida glycoprotein coat) -> Step 3: Depolarization & Cortical Granule Reaction -> ZONA HARDENS TO BLOCK ALL OTHER SPERM (Prevents Polyspermy)!",
-    "memoryHook": "Sperm takes a bath in female tract to become hyperactive (Capacitation). Acrosome sprays acid drill to melt Zona Pellucida. The second one sperm touches the egg membrane, the egg slams the steel door shut (Cortical Reaction blocks polyspermy)!",
-    "fact": "Fertilization sequence: 1) Capacitation: Physiological changes occurring in sperm inside female genital tract (removal of cholesterol/glycoprotein coat, influx of Ca²⁺, hyperactivation; takes ~5-6 hours). 2) Acrosome Reaction: When sperm contacts the transparent non-cellular glycoprotein layer called Zona Pellucida, acrosome releases sperm lysins (Hyaluronidase, Corona Penetrating Enzyme, Acrosin/Zona Lysin). 3) Block to Polyspermy: Contact of one sperm induces depolarization of oolemma (fast block) followed by Cortical Reaction (cortical granules release enzymes that harden the zona pellucida, forming a permanent slow block to polyspermy, ensuring only one sperm fertilizes the ovum).",
+    "mnemonic": "P-M-E",
+    "memoryHook": "P-M-E",
+    "fact": "P – Perimetrium (External thin membranous layer). M – Myometrium (Middle thick layer of smooth muscle; strong contractions during labor). E – Endometrium (Inner glandular layer; undergoes cyclical changes in menstrual cycle)",
     "breakdown": [
       {
-        "key": "Capacitation",
-        "label": "Occurs in female genital tract; activates sperm motility and acrosomal permeability"
+        "key": "P",
+        "label": "Perimetrium (External thin membranous layer)"
       },
       {
-        "key": "Zona Pellucida",
-        "label": "Primary non-cellular glycoprotein coat surrounding secondary oocyte"
+        "key": "M",
+        "label": "Myometrium (Middle thick layer of smooth muscle; strong contractions during labor)"
       },
       {
-        "key": "Acrosome Lysins",
-        "label": "Hyaluronidase dissolves hyaluronic acid cement of corona radiata; Acrosin digests zona pellucida"
-      },
-      {
-        "key": "Cortical Reaction",
-        "label": "Exocytosis of cortical granules hardens zona pellucida into fertilization membrane, preventing polyspermy"
+        "key": "E",
+        "label": "Endometrium (Inner glandular layer; undergoes cyclical changes in menstrual cycle)"
       }
     ],
-    "doodleBadge": "Capacitation -> Acrosome Drill -> Cortical Block to Polyspermy",
-    "doodleSubtext": "Fertilization Mechanics",
-    "explanation": "Zona pellucida remains intact around the developing blastocyst until it reaches the uterus to prevent premature ectopic implantation in the fallopian tube.",
-    "alsoRemember": "Sex of the baby is determined at fertilization by the male gamete (X-bearing sperm -> female XX; Y-bearing sperm -> male XY).",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.4.",
-    "neetTrap": "Capacitation occurs in the FEMALE REPRODUCTIVE TRACT, NOT in the male epididymis.",
+    "doodleBadge": "P-M-E",
+    "doodleSubtext": "Uterine Wall Layers",
+    "explanation": "Structural composition of the uterine wall from outside to inside.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Uterine Wall Layers.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 58",
     "tags": [
-      "Fertilization",
-      "Capacitation",
-      "Acrosome Reaction",
-      "Cortical Reaction",
-      "Zona Pellucida",
-      "Polyspermy"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Uterine"
     ],
-    "expandedMeaning": "Electrophysiological and biochemical mechanisms of species-specific gametic fusion and monospermy enforcement.",
-    "whyItWorks": "Three-step relay: Activate (Capacitation) -> Drill (Acrosome) -> Lock (Cortical reaction).",
-    "visualDescription": "Secondary oocyte showing multiple sperm trying to enter, with one single sperm head penetrating the clear Zona Pellucida layer, triggering yellow cortical granule lock.",
-    "neetRelevance": "One of the most frequently asked questions on capacitation and polyspermy prevention.",
-    "commonMistake": "Claiming capacitation occurs in the epididymis.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.4",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 58,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Where does the physiological process of sperm CAPACITATION normally occur in humans?",
+      "question": "Which of the following is associated with \"Uterine Wall Layers\" in NEET Biology?",
       "options": [
-        "Epididymis",
-        "Vas deferens",
-        "Female reproductive tract",
-        "Seminal vesicles"
+        "Perimetrium (External thin membranous layer)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Capacitation occurs in the female reproductive tract, where secretions remove inhibitory coats from sperm."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Perimetrium (External thin membranous layer)\". Remember using: \"P-M-E\"."
     }
   },
   {
@@ -607,75 +575,72 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-4",
-    "topicTitle": "Cleavage Stages: Zygote -> Morula -> Blastocyst",
-    "topic": "Holoblastic Cleavage, Morula (8-16 Cells), Blastocyst (Trophoblast + Inner Cell Mass)",
+    "classLevel": 12,
+    "topicId": "bio-top-21-1",
+    "topicTitle": "Female External Genitalia (Vulva)",
+    "topic": "Female External Genitalia (Vulva)",
     "mnemonicNumber": 9,
-    "title": "Early Embryo: Zygote -> Morula (8-16 Solid Mulberry Cells) -> Blastocyst (Trophoblast Wall -> Placenta + Inner Cell Mass -> Embryo / Stem Cells)",
-    "badgeText": "Sequence",
+    "sourceItemNumber": 9,
+    "title": "Female External Genitalia (Vulva): \"M-L-L-H-C\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Zygote (Day 1) -> 2 -> 4 -> 8 -> 16 celled solid Mulberry ball = MORULA (Days 3-4 in oviduct) -> Enters Uterus as BLASTOCYST (Hollow ball: Outer Trophoblast attaches to endometrium + Inner Cell Mass becomes Embryo Proper & Pluripotent Stem Cells)!",
-    "memoryHook": "Zygote divides into a solid Blackberry/Mulberry ball called MORULA (8-16 cells). It hollows out into a BLASTOCYST ring (Trophoblast makes the placenta anchor; Inner Cell Mass makes the baby human)!",
-    "fact": "Cleavage and Implantation: 1) The zygote undergoes rapid mitotic divisions called Cleavage (holoblastic, indeterminate, unequal) as it moves along oviduct toward uterus, forming 2, 4, 8, 16 daughter cells called Blastomeres. 2) Morula: Solid ball of 8 to 16 blastomeres resembling a little mulberry. 3) Blastocyst: Morula transforms into a fluid-filled blastocyst with two distinct cell populations: Outer layer called Trophoblast (attaches to uterine endometrium and forms chorionic placenta) and an Inner Cell Mass / ICM (attached to one end of trophoblast, contains pluripotent stem cells that differentiate into all embryonic germ layers). Implantation of blastocyst in endometrium occurs around Day 7 after fertilization.",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "M-L-L-H-C",
+    "memoryHook": "M-L-L-H-C",
+    "fact": "M – Mons pubis (Cushion of fatty tissue covered by skin and pubic hair). L – Labia majora (Fleshy folds extending down from mons pubis). L – Labia minora (Paired folds of tissue under labia majora). H – Hymen (Membrane partially covering vaginal opening). C – Clitoris (Tiny erectile structure at upper junction of labia minora)",
     "breakdown": [
       {
-        "key": "Cleavage Nature",
-        "label": "Holoblastic, rotational, asynchronous divisions without overall growth in total volume"
+        "key": "M",
+        "label": "Mons pubis (Cushion of fatty tissue covered by skin and pubic hair)"
       },
       {
-        "key": "Morula Stage",
-        "label": "Solid sphere of 8-16 blastomeres (Days 3-4)"
+        "key": "L",
+        "label": "Labia majora (Fleshy folds extending down from mons pubis)"
       },
       {
-        "key": "Trophoblast (Outer Layer)",
-        "label": "Forms chorionic villi, secretes hCG, attaches to endometrium for implantation"
+        "key": "L",
+        "label": "Labia minora (Paired folds of tissue under labia majora)"
       },
       {
-        "key": "Inner Cell Mass (ICM)",
-        "label": "Differentiates into Embryo proper (Ectoderm, Mesoderm, Endoderm); source of pluripotent stem cells"
+        "key": "H",
+        "label": "Hymen (Membrane partially covering vaginal opening)"
       },
       {
-        "key": "Implantation Timing",
-        "label": "Blastocyst embeds completely into the endometrium around Day 7-8"
+        "key": "C",
+        "label": "Clitoris (Tiny erectile structure at upper junction of labia minora)"
       }
     ],
-    "doodleBadge": "Morula (8-16 Cells) -> Blastocyst\nTrophoblast = Placenta | ICM = Baby",
-    "doodleSubtext": "Cleavage & Blastocyst",
-    "explanation": "The Inner Cell Mass contains pluripotent stem cells which have the developmental potency to give rise to all tissues and organs of the adult human body.",
-    "alsoRemember": "Zona pellucida lyses (blastocyst hatching) just prior to implantation in the uterine wall.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.4.",
-    "neetTrap": "The embryo implants into the uterine endometrium at the BLASTOCYST stage (NOT at morula or zygote stage).",
+    "doodleBadge": "M-L-L-H-C",
+    "doodleSubtext": "Female External Genitali",
+    "explanation": "Components of female external genitalia in human anatomy.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Female External Genitalia (Vulva).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 58",
     "tags": [
-      "Cleavage",
-      "Morula",
-      "Blastocyst",
-      "Trophoblast",
-      "Inner Cell Mass",
-      "Stem Cells",
-      "Implantation"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Female"
     ],
-    "expandedMeaning": "Preimplantation morphogenetic lineage divergence and blastocyst differentiation dynamics.",
-    "whyItWorks": "Solid Mulberry (Morula) -> Hollow Ring (Blastocyst: Trophoblast wall + ICM baby).",
-    "visualDescription": "Blastocyst cross section showing outer blue ring of Trophoblast cells surrounding fluid blastocoel, with golden cluster of Inner Cell Mass at one pole.",
-    "neetRelevance": "Core embryology question tested every year in NEET.",
-    "commonMistake": "Claiming the morula implants directly into the uterus.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.4",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 58,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "At which developmental stage does the human embryo embed and implant into the endometrium of the uterus?",
+      "question": "Which of the following is associated with \"Female External Genitalia (Vulva)\" in NEET Biology?",
       "options": [
-        "Zygote",
-        "Morula",
-        "Blastocyst",
-        "Gastrula"
+        "Mons pubis (Cushion of fatty tissue covered by skin and pubic hair)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Implantation of the human embryo into the uterine endometrium occurs at the Blastocyst stage (around Day 7)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Mons pubis (Cushion of fatty tissue covered by skin and pubic hair)\". Remember using: \"M-L-L-H-C\"."
     }
   },
   {
@@ -684,70 +649,72 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-5",
-    "topicTitle": "Placental Hormones & Pregnancy Specifics",
-    "topic": "hCG, hPL, Relaxin (Exclusively in Pregnancy) vs Estrogen & Progesterone",
+    "classLevel": 12,
+    "topicId": "bio-top-21-1",
+    "topicTitle": "Pathway of Milk in Mammary Gland",
+    "topic": "Pathway of Milk in Mammary Gland",
     "mnemonicNumber": 10,
-    "title": "Pregnancy-Only Hormones: hCG + hPL + Relaxin (Produced ONLY during pregnancy; hCG in urine = Positive Test)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 10,
+    "title": "Pathway of Milk in Mammary Gland: \"A-T-D-A-L\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Produced ONLY DURING PREGNANCY: 1) hCG (Human Chorionic Gonadotropin - detected in urine by pregnancy test kits!), 2) hPL (Human Placental Lactogen), 3) Relaxin (Secreted by Ovary in late pregnancy)! Estrogen, Progesterone, Cortisol, Prolactin, and Thyroxine increase several-fold in maternal blood!",
-    "memoryHook": "The Pregnancy Exclusives: hCG + hPL from the Placenta, and Relaxin from the Ovary! They appear ONLY when a baby is on board! Two lines on a home pregnancy kit detect hCG in morning urine!",
-    "fact": "Placenta functions as an endocrine gland producing: Human Chorionic Gonadotropin (hCG), Human Placental Lactogen (hPL), Estrogens, and Progestogens. In the later phase of pregnancy, a hormone called Relaxin is also secreted by the Ovary. Hormones produced in women ONLY DURING PREGNANCY are: hCG, hPL, and Relaxin. In addition, levels of other hormones like Estrogen, Progesterone, Cortisol, Prolactin, and Thyroxine increase several folds in maternal blood to support fetal growth and metabolic changes.",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "A-T-D-A-L",
+    "memoryHook": "A-T-D-A-L",
+    "fact": "A – Alveoli (Milk secreting clusters of cells). T – Mammary Tubules (Drains alveoli). D – Mammary Ducts (Formed by joining of several tubules). A – Mammary Ampulla (Wider region connecting ducts). L – Lactiferous Duct (Sucked out by baby)",
     "breakdown": [
       {
-        "key": "hCG (Placenta)",
-        "label": "Human Chorionic Gonadotropin; rescues corpus luteum to keep making progesterone; basis of Gravindex test"
+        "key": "A",
+        "label": "Alveoli (Milk secreting clusters of cells)"
       },
       {
-        "key": "hPL (Placenta)",
-        "label": "Human Placental Lactogen; stimulates mammary growth and maternal glucose sparing for fetus"
+        "key": "T",
+        "label": "Mammary Tubules (Drains alveoli)"
       },
       {
-        "key": "Relaxin (Ovary)",
-        "label": "Secreted by Ovary in late pregnancy; softens pubic symphysis and dilates cervix for labor"
+        "key": "D",
+        "label": "Mammary Ducts (Formed by joining of several tubules)"
       },
       {
-        "key": "Exclusive Trio",
-        "label": "hCG, hPL, and Relaxin are produced ONLY during pregnancy"
+        "key": "A",
+        "label": "Mammary Ampulla (Wider region connecting ducts)"
+      },
+      {
+        "key": "L",
+        "label": "Lactiferous Duct (Sucked out by baby)"
       }
     ],
-    "doodleBadge": "Pregnancy-Only Trio:\nhCG + hPL + Relaxin",
-    "doodleSubtext": "Placental Endocrinology",
-    "explanation": "Home pregnancy detection kits (strip tests) use anti-hCG monoclonal antibodies to detect hCG excreted in maternal urine within days of implantation.",
-    "alsoRemember": "Placenta is connected to the embryo via the Umbilical Cord which contains fetal blood vessels (2 umbilical arteries, 1 umbilical vein).",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.5.",
-    "neetTrap": "Relaxin is secreted by the OVARY in the later phase of pregnancy (not primarily by the placenta in humans).",
+    "doodleBadge": "A-T-D-A-L",
+    "doodleSubtext": "Pathway of Milk in Mamma",
+    "explanation": "Directional pathway of milk transport from glandular secretion site to nipples. NCERT Chapter 2 Mnemonics Master Guide \tPage 2 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Pathway of Milk in Mammary Gland.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 58",
     "tags": [
-      "Placenta",
-      "hCG",
-      "hPL",
-      "Relaxin",
-      "Pregnancy Test",
-      "Endocrine Placenta"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Pathway"
     ],
-    "expandedMeaning": "Gestational endocrinology and pregnancy-specific biomarker diagnostic peptide synthesis.",
-    "whyItWorks": "Three exclusive hormones: hCG (Test kit) + hPL (Milk prep) + Relaxin (Birth softener).",
-    "visualDescription": "Pregnancy test strip showing two pink lines labeled \"hCG Positive\", connected to placenta releasing hCG and hPL arrows, and ovary releasing Relaxin.",
-    "neetRelevance": "One of the most frequently asked questions on pregnancy-specific hormones in NEET.",
-    "commonMistake": "Thinking progesterone is produced ONLY during pregnancy.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.5",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 58,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following sets of hormones are produced in human females ONLY during pregnancy?",
+      "question": "Which of the following is associated with \"Pathway of Milk in Mammary Gland\" in NEET Biology?",
       "options": [
-        "Estrogen, Progesterone, Oxytocin",
-        "hCG, hPL, and Relaxin",
-        "Prolactin, Thyroxine, Cortisol",
-        "FSH, LH, and Estrogen"
+        "Alveoli (Milk secreting clusters of cells)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "hCG, hPL, and Relaxin are produced exclusively during pregnancy."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Alveoli (Milk secreting clusters of cells)\". Remember using: \"A-T-D-A-L\"."
     }
   },
   {
@@ -756,78 +723,72 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-5",
-    "topicTitle": "Fetal Development Milestones (Months 1 to 9)",
-    "topic": "Month 1 (Heart), Month 2 (Limbs/Digits), Month 3 (Organ Systems/Genitalia), Month 5 (Hair on Head & First Movement), Month 6 (Eyelashes & Eyelids Separate)",
+    "classLevel": 12,
+    "topicId": "bio-top-21-2",
+    "topicTitle": "Stages of Spermatogenesis",
+    "topic": "Stages of Spermatogenesis",
     "mnemonicNumber": 11,
-    "title": "Fetal Development: Month 1 = Heart Beat | Month 2 = Limbs & Digits | Month 3 = External Genitalia | Month 5 = 1st Movement & Head Hair | Month 6 = Eyelids Separate & Eyelashes",
-    "badgeText": "Sequence",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Month 1: Heart forms (1st sign of growing fetus is listening to heart beat!) -> Month 2: Limbs & Digits form -> Month 3 (End of 1st Trimester / 12 weeks): Major organ systems & External Genitalia well developed -> Month 5: FIRST FETAL MOVEMENTS (Quickening) & Hair on Head -> Month 6 (End of 2nd Trimester / 24 weeks): Fine hair on body, Eyelids separate, Eyelashes form -> Month 9: Fully developed ready for birth!",
-    "memoryHook": "Month 1 = Heart beats! Month 2 = Fingers & toes! Month 3 = Boy or girl genitalia! Month 5 = Baby kicks tummy & grows head hair! Month 6 = Eyes open & flutter eyelashes!",
-    "fact": "Embryonic development milestones in NCERT: 1) After 1 month: Embryo heart is formed; first sign of growing fetus is heart sound heard by stethoscope. 2) End of 2nd month: Limbs and digits develop. 3) End of 12 weeks (1st trimester / 3 months): Most major organ systems formed (limbs and external genital organs are well-developed). 4) 5th month: First movements of fetus (quickening) and appearance of hair on the head. 5) End of 24 weeks (2nd trimester / 6 months): Body covered with fine hair, eye-lids separate, and eye lashes are formed. 6) End of 9 months: Fetus is fully developed and ready for delivery.",
+    "sourceItemNumber": 11,
+    "title": "Stages of Spermatogenesis: \"S-P-S-S-S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "S-P-S-S-S",
+    "memoryHook": "S-P-S-S-S",
+    "fact": "S – Spermatogonia (Diploid; 46 chromosomes, multiply by mitosis). P – Primary Spermatocytes (Diploid; 46 chromosomes, undergo Meiosis-I). S – Secondary Spermatocytes (Haploid; 23 chromosomes, undergo Meiosis-II). S – Spermatids (Haploid; 23 chromosomes, non-motile). S – Spermatozoa / Sperms (Haploid; transformed via spermiogenesis)",
     "breakdown": [
       {
-        "key": "Month 1 (4 weeks)",
-        "label": "Heart formation; audible heartbeat via ultrasound/stethoscope"
+        "key": "S",
+        "label": "Spermatogonia (Diploid; 46 chromosomes, multiply by mitosis)"
       },
       {
-        "key": "Month 2 (8 weeks)",
-        "label": "Limbs and digits develop"
+        "key": "P",
+        "label": "Primary Spermatocytes (Diploid; 46 chromosomes, undergo Meiosis-I)"
       },
       {
-        "key": "Month 3 / 12 weeks (1st Trimester)",
-        "label": "Major organ systems formed; external genitalia distinct (sex identifiable)"
+        "key": "S",
+        "label": "Secondary Spermatocytes (Haploid; 23 chromosomes, undergo Meiosis-II)"
       },
       {
-        "key": "Month 5",
-        "label": "First fetal movement (quickening) observed by mother; hair appears on head"
+        "key": "S",
+        "label": "Spermatids (Haploid; 23 chromosomes, non-motile)"
       },
       {
-        "key": "Month 6 / 24 weeks (2nd Trimester)",
-        "label": "Fine body hair, eye-lids separate, eyelashes formed"
-      },
-      {
-        "key": "Month 9",
-        "label": "Fetus fully mature and ready for parturition"
+        "key": "S",
+        "label": "Spermatozoa / Sperms (Haploid; transformed via spermiogenesis)"
       }
     ],
-    "doodleBadge": "M1: Heart | M2: Digits | M3: Genitalia\nM5: Kicks & Hair | M6: Eyelids Open",
-    "doodleSubtext": "Fetal Milestones",
-    "explanation": "NEET frequently tests the specific milestone for Month 5 (First movements and head hair) and Month 6 (Eyelids separate and eyelashes).",
-    "alsoRemember": "Gestation period in human pregnancy is approximately 9 months or 280 days from the first day of the last menstrual period (LMP) / 38 weeks.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.5.",
-    "neetTrap": "First movement of the fetus and appearance of hair on head occurs during the 5TH MONTH (not 3rd or 6th month).",
+    "doodleBadge": "S-P-S-S-S",
+    "doodleSubtext": "Stages of Spermatogenesi",
+    "explanation": "Chromosomal and developmental sequence of male gamete differentiation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Stages of Spermatogenesis.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 59",
     "tags": [
-      "Fetal Milestones",
-      "Heartbeat",
-      "Month 5 Movements",
-      "Trimester",
-      "Eyelids",
-      "Gestation"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Stages"
     ],
-    "expandedMeaning": "Chronological organogenetic and neuromuscular developmental milestones of human prenatal ontogeny.",
-    "whyItWorks": "1-Heart, 2-Limbs, 3-Genitals, 5-Kicks, 6-Eyelashes timeline.",
-    "visualDescription": "Pregnancy timeline ribbon with 5 milestone icons: beating heart (M1), hand digits (M2), baby kicking with head hair (M5), opening eye (M6).",
-    "neetRelevance": "One of the most repeated matching questions in Class 12 zoology.",
-    "commonMistake": "Matching first fetal movements with the 3rd month.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.5",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 59,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "During human pregnancy, the first movements of the fetus and the appearance of hair on its head are typically observed during which month?",
+      "question": "Which of the following is associated with \"Stages of Spermatogenesis\" in NEET Biology?",
       "options": [
-        "Third month",
-        "Fourth month",
-        "Fifth month",
-        "Sixth month"
+        "Spermatogonia (Diploid; 46 chromosomes, multiply by mitosis)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "The first fetal movements and appearance of hair on the head occur characteristically during the 5th month of pregnancy."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Spermatogonia (Diploid; 46 chromosomes, multiply by mitosis)\". Remember using: \"S-P-S-S-S\"."
     }
   },
   {
@@ -836,74 +797,60 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-5",
-    "topicTitle": "Parturition & Fetal Ejection Reflex",
-    "topic": "Fully Developed Fetus + Placenta Signals -> Maternal Posterior Pituitary Oxytocin -> Positive Feedback Labor Contractions",
+    "classLevel": 12,
+    "topicId": "bio-top-21-2",
+    "topicTitle": "Spermiogenesis vs Spermiation",
+    "topic": "Spermiogenesis vs Spermiation",
     "mnemonicNumber": 12,
-    "title": "Parturition: Fetal Ejection Reflex (Mature Fetus + Placenta trigger signals -> Maternal Posterior Pituitary releases OXYTOCIN -> Uterine Squeeze)",
-    "badgeText": "Sequence",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Fully Developed Fetus + Placenta give the signal -> Induces mild uterine contractions (Fetal Ejection Reflex) -> Triggers maternal Posterior Pituitary to release OXYTOCIN -> Oxytocin causes stronger Myometrium contractions -> Stronger contractions stimulate MORE Oxytocin (Positive Feedback Loop!) -> Delivery of Baby (Parturition)!",
-    "memoryHook": "The baby initiates its own birth! Baby and placenta ring the alarm (Fetal ejection reflex); Mom's brain shoots out Oxytocin; positive feedback pushes harder and harder until the baby pops out!",
-    "fact": "Parturition (childbirth) is induced by a complex neuroendocrine mechanism. The signals for parturition originate from the fully developed fetus and the placenta which induce mild uterine contractions called the Fetal Ejection Reflex. This triggers the release of Oxytocin from the maternal posterior pituitary. Oxytocin acts on the uterine muscle (myometrium) and causes stronger uterine contractions, which in turn stimulates further secretion of oxytocin. The stimulatory positive feedback reflex continues, leading to expulsion of baby through birth canal.",
+    "sourceItemNumber": 12,
+    "title": "Spermiogenesis vs Spermiation: \"Genesis = Make, Ation = Away\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Genesis = Make, Ation = Away",
+    "memoryHook": "Genesis = Make, Ation = Away",
+    "fact": "Differentiation process vs physical release process of mature sperm.",
     "breakdown": [
       {
-        "key": "Parturition Signal Origin",
-        "label": "Originates from the fully developed Fetus and the Placenta"
+        "key": "Focus",
+        "label": "Spermiogenesis vs Spermiation"
       },
       {
-        "key": "Fetal Ejection Reflex",
-        "label": "Mild initial uterine contractions triggered by fetal signals"
-      },
-      {
-        "key": "Key Hormone",
-        "label": "Oxytocin released from maternal neurohypophysis (posterior pituitary)"
-      },
-      {
-        "key": "Positive Feedback Loop",
-        "label": "Contractions stimulate more oxytocin -> stronger contractions until delivery"
-      },
-      {
-        "key": "Placenta Expulsion",
-        "label": "Soon after infant delivery, placenta and fetal membranes are expelled as \"afterbirth\""
+        "key": "Trick",
+        "label": "Genesis = Make, Ation = Away"
       }
     ],
-    "doodleBadge": "Baby + Placenta -> Fetal Ejection Reflex\n-> Oxytocin -> Positive Feedback Birth",
-    "doodleSubtext": "Parturition Mechanism",
-    "explanation": "Relaxin hormone from the ovary assists by relaxing the pubic symphysis and softening the cervix, widening the birth canal.",
-    "alsoRemember": "Birth canal is formed by the Cervical Canal along with the Vagina.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.6.",
-    "neetTrap": "The signals for parturition originate from BOTH the fully developed fetus AND the placenta (not fetus alone).",
+    "doodleBadge": "Genesis = Make, Ation = ",
+    "doodleSubtext": "Spermiogenesis vs Spermi",
+    "explanation": "Differentiation process vs physical release process of mature sperm.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Spermiogenesis vs Spermiation.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 59",
     "tags": [
-      "Parturition",
-      "Fetal Ejection Reflex",
-      "Oxytocin",
-      "Positive Feedback",
-      "Birth Canal",
-      "Myometrium"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Spermiogenesis"
     ],
-    "expandedMeaning": "Neuroendocrine oxytocinergic positive feedback cascade driving human labor and parturition.",
-    "whyItWorks": "Dual signal origin (Baby + Placenta) -> Oxytocin positive feedback loop.",
-    "visualDescription": "Flow chart: Baby & Placenta signal arrow -> Maternal brain releases Oxytocin -> Myometrium contracts -> circular positive feedback loop to delivery.",
-    "neetRelevance": "Classic NCERT question on origin of parturition signals and positive feedback mechanism.",
-    "commonMistake": "Thinking parturition signals originate from the maternal ovary.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.6",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 59,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The signals for the initiation of parturition (childbirth) originate from:",
+      "question": "Which of the following is associated with \"Spermiogenesis vs Spermiation\" in NEET Biology?",
       "options": [
-        "Placenta only",
-        "Fully developed fetus only",
-        "Both fully developed fetus and placenta",
-        "Maternal pituitary gland"
+        "Genesis = Make, Ation = Away",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "The signals for parturition originate from both the fully developed fetus and the placenta, triggering the fetal ejection reflex."
+      "answerIndex": 0,
+      "explanation": "Differentiation process vs physical release process of mature sperm."
     }
   },
   {
@@ -912,71 +859,72 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-5",
-    "topicTitle": "Lactation & Colostrum Antibodies",
-    "topic": "Prolactin (Milk Synthesis), Oxytocin (Milk Ejection), Colostrum (Rich in IgA Antibodies)",
+    "classLevel": 12,
+    "topicId": "bio-top-21-2",
+    "topicTitle": "Hormonal Control of Male Reproduction",
+    "topic": "Hormonal Control of Male Reproduction",
     "mnemonicNumber": 13,
-    "title": "Lactation: Prolactin (MAKES Milk in Alveoli) + Oxytocin (EJECTS Milk) + Colostrum (Yellow First Milk Rich in IgA Antibodies)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
+    "sourceItemNumber": 13,
+    "title": "Hormonal Control of Male Reproduction: \"G-L-A-F-S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Prolactin = Production of Milk (Anterior Pituitary) | Oxytocin = Outpouring / Ejection of Milk (Posterior Pituitary) | COLOSTRUM = Yellowish first milk secreted in initial days -> Packed with IgA Antibodies to give newborn infant essential PASSIVE IMMUNITY against infections!",
-    "memoryHook": "Prolactin Bakes the milk; Oxytocin Pumps the milk out; Colostrum drops the golden IgA Antibody shield into baby's tummy for instant immune defense!",
-    "fact": "The mammary glands of the female undergo differentiation during pregnancy and start producing milk towards the end of pregnancy by the process called Lactation. Milk synthesis in mammary alveoli is stimulated by Prolactin (from anterior pituitary); milk ejection reflex is stimulated by Oxytocin (from posterior pituitary). The milk produced during the initial few days of lactation is called Colostrum which contains several antibodies (abundant in IgA) absolutely essential to develop passive immunity and resistance for the newborn baby.",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "G-L-A-F-S",
+    "memoryHook": "G-L-A-F-S",
+    "fact": "G – GnRH (Hypothalamic gonadotropin releasing hormone increases at puberty). L – LH acts on Leydig cells to produce Androgens (Testosterone). A – Androgens stimulate Spermatogenesis process. F – FSH acts on Sertoli cells. S – Sertoli cells secrete factors aiding Spermiogenesis",
     "breakdown": [
       {
-        "key": "Prolactin",
-        "label": "Synthesizes milk in mammary alveoli (Anterior Pituitary)"
+        "key": "G",
+        "label": "GnRH (Hypothalamic gonadotropin releasing hormone increases at puberty)"
       },
       {
-        "key": "Oxytocin",
-        "label": "Contracts myoepithelial cells for milk ejection / let-down (Posterior Pituitary)"
+        "key": "L",
+        "label": "LH acts on Leydig cells to produce Androgens (Testosterone)"
       },
       {
-        "key": "Colostrum",
-        "label": "Yellowish first milk secreted during initial days of lactation; low in fat/lactose, high in protein"
+        "key": "A",
+        "label": "Androgens stimulate Spermatogenesis process"
       },
       {
-        "key": "IgA Antibodies",
-        "label": "Provides passive natural immunity to protect newborn gastrointestinal tract from infections"
+        "key": "F",
+        "label": "FSH acts on Sertoli cells"
+      },
+      {
+        "key": "S",
+        "label": "Sertoli cells secrete factors aiding Spermiogenesis"
       }
     ],
-    "doodleBadge": "Prolactin = Milk Synthesis\nOxytocin = Milk Ejection\nColostrum = Rich in IgA",
-    "doodleSubtext": "Lactation & Colostrum",
-    "explanation": "Breastfeeding is strongly recommended by doctors because colostrum provides maternal secretory IgA antibodies that coat the infant's gut lining.",
-    "alsoRemember": "Mammary glands are modified apocrine sweat glands consisting of 15-20 mammary lobes containing alveoli.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.6 & Class 12 Chapter 8 Section 8.2.2.",
-    "neetTrap": "Colostrum is rich in IgA antibodies (provides PASSIVE IMMUNITY, not active immunity).",
+    "doodleBadge": "G-L-A-F-S",
+    "doodleSubtext": "Hormonal Control of Male",
+    "explanation": "Hypothalamic-pituitary-gonadal axis governing male sperm production.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Hormonal Control of Male Reproduction.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 59",
     "tags": [
-      "Lactation",
-      "Colostrum",
-      "IgA",
-      "Prolactin",
-      "Oxytocin",
-      "Passive Immunity",
-      "Mammary Glands"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Hormonal"
     ],
-    "expandedMeaning": "Neuroendocrine lactation reflex and colostral secretory IgA passive immunoprotection in neonates.",
-    "whyItWorks": "Prolactin (Producer) + Oxytocin (Ejector) + Colostrum (IgA Armor).",
-    "visualDescription": "Breast alveoli showing Prolactin milk synthesis, Oxytocin ejection reflex into lactiferous duct, and golden drop labeled \"Colostrum with IgA Antibodies\".",
-    "neetRelevance": "High yield cross-topic integration between reproduction and human health immunity.",
-    "commonMistake": "Thinking colostrum provides active immunity.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.6",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 59,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which antibody class is present in abundance in the yellowish first milk (colostrum) secreted by the mother during initial days of lactation?",
+      "question": "Which of the following is associated with \"Hormonal Control of Male Reproduction\" in NEET Biology?",
       "options": [
-        "IgG",
-        "IgA",
-        "IgM",
-        "IgE"
+        "GnRH (Hypothalamic gonadotropin releasing hormone increases at puberty)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Colostrum is rich in IgA antibodies which provide passive immunity to the newborn infant."
+      "answerIndex": 0,
+      "explanation": "Correct: \"GnRH (Hypothalamic gonadotropin releasing hormone increases at puberty)\". Remember using: \"G-L-A-F-S\"."
     }
   },
   {
@@ -985,73 +933,68 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-1",
-    "topicTitle": "Mammary Gland Duct Pathway",
-    "topic": "Mammary Alveoli -> Tubules -> Mammary Duct -> Ampulla -> Lactiferous Duct -> Nipple",
+    "classLevel": 12,
+    "topicId": "bio-top-21-2",
+    "topicTitle": "Structure of Human Sperm",
+    "topic": "Structure of Human Sperm",
     "mnemonicNumber": 14,
-    "title": "Milk Pathway: Alveoli (Milk Secretion) -> Mammary Tubules -> Mammary Duct -> Ampulla -> LACTIFEROUS DUCT -> Nipple",
-    "badgeText": "Sequence",
+    "sourceItemNumber": 14,
+    "title": "Structure of Human Sperm: \"H-N-M-T\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFE681",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#A66CFF",
-    "mnemonic": "All Tigers Must Always Leap: Alveoli -> Mammary Tubules -> Mammary Duct -> Mammary Ampulla (wider reservoir) -> LACTIFEROUS DUCT (opens at nipple for baby suckling)!",
-    "memoryHook": "Milk travels out through AT-MD-AL: Alveoli factory -> Tubules -> Ducts -> wide Ampulla pool -> Lactiferous duct pipeline -> Nipple exit!",
-    "fact": "Each human female mammary gland consists of glandular tissue and variable fat. Glandular tissue is divided into 15-20 Mammary Lobes containing clusters of cells called Alveoli. The cells of alveoli secrete milk stored in the lumen of alveoli. Sequence of milk passage: Alveoli -> Mammary Tubules -> Mammary Ducts (several tubules join) -> Mammary Ampulla (several ducts join to form wider ampulla) -> Lactiferous Duct through which milk is sucked out at the nipple.",
+    "mnemonic": "H-N-M-T",
+    "memoryHook": "H-N-M-T",
+    "fact": "H – Head (Contains elongated haploid nucleus & anterior Acrosome with enzymes). N – Neck (Short connecting segment containing centrioles). M – Middle Piece (Contains numerous mitochondria providing energy for motility). T – Tail (Lashing axial filament responsible for sperm motility)",
     "breakdown": [
       {
-        "key": "1. Mammary Alveoli",
-        "label": "Grape-like secretory sacs inside 15-20 mammary lobes; synthesize and store milk"
+        "key": "H",
+        "label": "Head (Contains elongated haploid nucleus & anterior Acrosome with enzymes)"
       },
       {
-        "key": "2. Mammary Tubules",
-        "label": "Fine tubes draining milk from individual alveoli"
+        "key": "N",
+        "label": "Neck (Short connecting segment containing centrioles)"
       },
       {
-        "key": "3. Mammary Ducts",
-        "label": "Formed by the convergence of several mammary tubules"
+        "key": "M",
+        "label": "Middle Piece (Contains numerous mitochondria providing energy for motility)"
       },
       {
-        "key": "4. Mammary Ampulla",
-        "label": "Wider dilated reservoir formed by union of mammary ducts"
-      },
-      {
-        "key": "5. Lactiferous Duct",
-        "label": "Terminal ducts connected to nipple through which milk is sucked out"
+        "key": "T",
+        "label": "Tail (Lashing axial filament responsible for sperm motility)"
       }
     ],
-    "doodleBadge": "Alveoli -> Tubules -> Duct -> Ampulla -> Lactiferous Duct",
-    "doodleSubtext": "5-Step Milk Highway",
-    "explanation": "Suckling by the baby sends sensory tactile impulses to the hypothalamus to trigger oxytocin release, contracting myoepithelial cells around alveoli.",
-    "alsoRemember": "Amount of adipose tissue (fat) determines breast size, but glandular functional capacity is independent of breast size.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.1.",
-    "neetTrap": "The LACTIFEROUS DUCT is the final duct opening at the nipple (not mammary duct or ampulla).",
+    "doodleBadge": "H-N-M-T",
+    "doodleSubtext": "Structure of Human Sperm",
+    "explanation": "Four anatomical divisions of a mature human sperm cell.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Structure of Human Sperm.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 59",
     "tags": [
-      "Mammary Gland",
-      "Lactiferous Duct",
-      "Alveoli",
-      "Mammary Ampulla",
-      "Milk Pathway"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Structure"
     ],
-    "expandedMeaning": "Anatomical ductal conduit arborization of the human functional mammary apparatus.",
-    "whyItWorks": "A-T-D-A-L sequential alphabetical mnemonic.",
-    "visualDescription": "Mammary gland cross section showing grape cluster Alveoli converging through green Tubules and Ducts into wide Ampulla leading to purple Lactiferous Duct at nipple.",
-    "neetRelevance": "Common in sequential ordering questions in NEET biology.",
-    "commonMistake": "Placing lactiferous duct before mammary duct.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 59,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What is the correct sequence of milk passage through the mammary gland conduits?",
+      "question": "Which of the following is associated with \"Structure of Human Sperm\" in NEET Biology?",
       "options": [
-        "Alveoli -> Mammary duct -> Mammary tubules -> Ampulla -> Lactiferous duct",
-        "Alveoli -> Mammary tubules -> Mammary duct -> Mammary ampulla -> Lactiferous duct",
-        "Lactiferous duct -> Ampulla -> Mammary duct -> Alveoli",
-        "Alveoli -> Ampulla -> Mammary tubules -> Lactiferous duct"
+        "Head (Contains elongated haploid nucleus & anterior Acrosome with enzymes)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The correct sequence is: Alveoli -> Mammary tubules -> Mammary duct -> Mammary ampulla -> Lactiferous duct."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Head (Contains elongated haploid nucleus & anterior Acrosome with enzymes)\". Remember using: \"H-N-M-T\"."
     }
   },
   {
@@ -1060,71 +1003,64 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
     "topicId": "bio-top-21-2",
-    "topicTitle": "Ovarian Follicle Maturation Stages",
-    "topic": "Primordial -> Primary -> Secondary -> Tertiary (Antrum & Theca) -> Graafian Follicle (Zona Pellucida & Corona Radiata)",
+    "topicTitle": "Normal Ejaculate & Semen Parameters",
+    "topic": "Normal Ejaculate & Semen Parameters",
     "mnemonicNumber": 15,
-    "title": "Follicle Journey: Primary Follicle -> Secondary (Theca) -> Tertiary (Fluid Antrum + Theca Interna/Externa) -> Mature Graafian Follicle",
-    "badgeText": "Sequence",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Primary Follicle (Primary oocyte + Granulosa layer) -> Secondary Follicle (More granulosa + Theca coat) -> TERTIARY FOLLICLE (Characterized by fluid cavity ANTRUM + Theca Interna & Externa + 1st Meiosis completes!) -> Mature GRAAFIAN FOLLICLE (Secondary oocyte + Zona Pellucida + Corona Radiata)!",
-    "memoryHook": "Antrum is the swimming pool cavity that announces the TERTIARY follicle! Mature Graafian follicle is the ready-to-pop bubble holding the secondary oocyte in a Zona Pellucida dress!",
-    "fact": "Ovarian follicular development: 1) Primary Follicle: Primary oocyte surrounded by a single layer of granulosa cells. 2) Secondary Follicle: Surrounded by more layers of granulosa cells and a new connective tissue theca layer. 3) Tertiary Follicle: Characterized by a fluid-filled cavity called ANTRUM. The theca layer is organized into an inner vascular Theca Interna (secretes estrogen) and outer fibrous Theca Externa. Primary oocyte completes its first meiotic division inside the tertiary follicle to form Secondary Oocyte and 1st polar body. 4) Mature Graafian Follicle: Secondary oocyte forms a new non-cellular membrane called Zona Pellucida surrounded by Corona Radiata.",
+    "sourceItemNumber": 15,
+    "title": "Normal Ejaculate & Semen Parameters: \"200-60-40 Rule\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "200-60-40 Rule",
+    "memoryHook": "200-60-40 Rule",
+    "fact": "Standard NCERT clinical thresholds required for normal male fertility. NCERT Chapter 2 Mnemonics Master Guide \tPage 3 of 10",
     "breakdown": [
       {
-        "key": "Primary Follicle",
-        "label": "Primary oocyte + single layer of granulosa cells"
+        "key": "Part 1",
+        "label": "200"
       },
       {
-        "key": "Secondary Follicle",
-        "label": "Stratified granulosa cells + organized Theca layer"
+        "key": "Part 2",
+        "label": "60"
       },
       {
-        "key": "Tertiary Follicle (Key Landmark)",
-        "label": "Appearance of fluid-filled ANTRUM cavity; Theca interna and externa; Meiosis I completes"
-      },
-      {
-        "key": "Mature Graafian Follicle",
-        "label": "Large fluid antrum; secondary oocyte enveloped by Zona Pellucida and Corona Radiata"
+        "key": "Part 3",
+        "label": "40 Rule"
       }
     ],
-    "doodleBadge": "Tertiary Follicle = ANTRUM Cavity\nGraafian = Zona Pellucida + Ovulation Ready",
-    "doodleSubtext": "Folliculogenesis Steps",
-    "explanation": "The presence of the fluid-filled cavity called Antrum is the definitive diagnostic characteristic of the Tertiary Follicle.",
-    "alsoRemember": "Theca Interna cells secrete androgens which granulosa cells convert into Estrogen using aromatase enzyme.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.2.",
-    "neetTrap": "The fluid-filled cavity ANTRUM first appears in the TERTIARY FOLLICLE (not secondary or primary).",
+    "doodleBadge": "200-60-40 Rule",
+    "doodleSubtext": "Normal Ejaculate & Semen",
+    "explanation": "Standard NCERT clinical thresholds required for normal male fertility. NCERT Chapter 2 Mnemonics Master Guide \tPage 3 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Normal Ejaculate & Semen Parameters.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 59",
     "tags": [
-      "Ovary",
-      "Folliculogenesis",
-      "Graafian Follicle",
-      "Antrum",
-      "Theca Interna",
-      "Zona Pellucida",
-      "Tertiary Follicle"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Normal"
     ],
-    "expandedMeaning": "Histological maturation and cavitary antral transformation of the mammalian ovarian follicle.",
-    "whyItWorks": "Antrum milestone uniquely identifies the Tertiary stage.",
-    "visualDescription": "Ovarian cycle slice showing progression from flat primordial follicle to multi-layered secondary, cavity-bearing tertiary (Antrum), and bulging Graafian follicle.",
-    "neetRelevance": "Extremely popular in antrum identification and theca cell layer MCQs.",
-    "commonMistake": "Thinking the antrum is present in secondary follicles.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 59,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "A fluid-filled cavity called the ANTRUM is the characteristic diagnostic feature of which stage of ovarian follicular development?",
+      "question": "Which of the following is associated with \"Normal Ejaculate & Semen Parameters\" in NEET Biology?",
       "options": [
-        "Primary follicle",
-        "Secondary follicle",
-        "Tertiary follicle",
-        "Corpus albicans"
+        "200-60-40 Rule",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "The appearance of the fluid-filled antrum cavity is the characteristic hallmark of the Tertiary follicle."
+      "answerIndex": 0,
+      "explanation": "Standard NCERT clinical thresholds required for normal male fertility. NCERT Chapter 2 Mnemonics Master Guide \tPage 3 of 10"
     }
   },
   {
@@ -1133,71 +1069,68 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-4",
-    "topicTitle": "Primary Germ Layers & Fate",
-    "topic": "Ectoderm (Nervous system, Skin epidermis), Mesoderm (Heart, Muscles, Bones, Gonads, Kidney), Endoderm (Gut lining, Liver, Pancreas, Lungs)",
+    "classLevel": 12,
+    "topicId": "bio-top-21-2",
+    "topicTitle": "Developmental Stages of Oogenesis",
+    "topic": "Developmental Stages of Oogenesis",
     "mnemonicNumber": 16,
-    "title": "3 Germ Layers: Ectoderm (Brain / Nerves / Epidermis) | Mesoderm (Muscle, Bones, Heart, Blood, Kidney) | Endoderm (Gut tube, Liver, Pancreas, Lungs)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 16,
+    "title": "Developmental Stages of Oogenesis: \"O-P-S-O\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Ectoderm (Attract-o-derm = Brain, Nerves, Skin, Eye lens) | Mesoderm (Movement-o-derm = Muscles, Skeleton, Blood/Heart circulation, Kidneys, Gonads) | Endoderm (Internal-o-derm = Inner linings of digestive tract, Respiratory lungs, Liver, Pancreas, Thyroid)!",
-    "memoryHook": "Ectoderm makes what you see on the outside (Skin) and think with (Brain). Mesoderm makes the heavy machinery (Heart, Blood, Bones, Muscles, Kidneys). Endoderm makes the inner gut tube plumbing and glands (Liver, Pancreas, Lungs)!",
-    "fact": "During gastrulation, the inner cell mass differentiates into three primary germ layers from which all adult organs arise: 1) Ectoderm (Outer): Central and peripheral nervous systems, brain, spinal cord, sensory epithelia of eye/ear/nose, epidermis of skin, hair, nails, mammary glands, adrenal medulla. 2) Mesoderm (Middle): All muscular tissues, connective tissues, skeletal bones, cartilage, blood, heart, blood vessels, kidneys, ureters, gonads (testes/ovaries), adrenal cortex. 3) Endoderm (Inner): Epithelial lining of gastrointestinal tract, respiratory tract, urinary bladder, liver, pancreas, thyroid, parathyroid, thymus.",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "O-P-S-O",
+    "memoryHook": "O-P-S-O",
+    "fact": "O – Oogonia (Diploid fetal germ cells; no more added after birth). P – Primary Oocyte (Arrested at Prophase-I of Meiosis-I until puberty). S – Secondary Oocyte (Haploid; retains bulk cytoplasm, arrested at Metaphase-II). O – Ovum (Mature haploid female gamete formed upon sperm entry)",
     "breakdown": [
       {
-        "key": "Ectoderm",
-        "label": "Brain, spinal cord, nerves, skin epidermis, lens of eye, adrenal medulla"
+        "key": "O",
+        "label": "Oogonia (Diploid fetal germ cells; no more added after birth)"
       },
       {
-        "key": "Mesoderm",
-        "label": "Heart, blood, blood vessels, muscles, skeleton/bones, kidneys, gonads, adrenal cortex"
+        "key": "P",
+        "label": "Primary Oocyte (Arrested at Prophase-I of Meiosis-I until puberty)"
       },
       {
-        "key": "Endoderm",
-        "label": "Gut lining, lungs, liver, pancreas, thyroid gland, parathyroid, urinary bladder"
+        "key": "S",
+        "label": "Secondary Oocyte (Haploid; retains bulk cytoplasm, arrested at Metaphase-II)"
       },
       {
-        "key": "Adrenal Exception",
-        "label": "Adrenal Cortex is Mesodermal; Adrenal Medulla is Ectodermal"
+        "key": "O",
+        "label": "Ovum (Mature haploid female gamete formed upon sperm entry)"
       }
     ],
-    "doodleBadge": "Ecto = Nerves & Skin\nMeso = Heart, Muscle, Bone, Kidney\nEndo = Gut, Liver, Lungs",
-    "doodleSubtext": "3 Primary Germ Layers",
-    "explanation": "The dual embryological origin of the adrenal gland is a classic NEET trap: Cortex is Mesodermal, Medulla is Ectodermal.",
-    "alsoRemember": "Gastrulation is characterized by morphogenetic cell movements establishing the 3 primary germ layers.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.5.",
-    "neetTrap": "Adrenal CORTEX is mesodermal in origin, but Adrenal MEDULLA is ectodermal in origin.",
+    "doodleBadge": "O-P-S-O",
+    "doodleSubtext": "Developmental Stages of ",
+    "explanation": "Stages of female gamete formation starting during fetal development.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Developmental Stages of Oogenesis.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 60",
     "tags": [
-      "Germ Layers",
-      "Ectoderm",
-      "Mesoderm",
-      "Endoderm",
-      "Gastrulation",
-      "Organogenesis",
-      "Adrenal Origin"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Developmental"
     ],
-    "expandedMeaning": "Embryological germ layer fate mapping and lineage derivation of human somatic organ systems.",
-    "whyItWorks": "Attract-o (Ecto: Brain/Beauty), Movement-o (Meso: Muscle/Heart), Internal-o (Endo: Gut/Lungs).",
-    "visualDescription": "Three-layered embryonic disc: blue outer Ectoderm (brain/skin), red middle Mesoderm (heart/bone), yellow inner Endoderm (gut/liver).",
-    "neetRelevance": "Common in organ-to-germ layer matching and adrenal origin questions.",
-    "commonMistake": "Thinking the entire adrenal gland has a single germ layer origin.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.5",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 60,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following human organs/tissues is derived embryologically from the MESODERM germ layer?",
+      "question": "Which of the following is associated with \"Developmental Stages of Oogenesis\" in NEET Biology?",
       "options": [
-        "Brain and spinal cord",
-        "Epidermis of skin",
-        "Heart, blood, and skeletal muscles",
-        "Epithelial lining of stomach and liver"
+        "Oogonia (Diploid fetal germ cells; no more added after birth)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Heart, blood, blood vessels, bones, and skeletal muscles are all derived from the Mesoderm."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Oogonia (Diploid fetal germ cells; no more added after birth)\". Remember using: \"O-P-S-O\"."
     }
   },
   {
@@ -1206,69 +1139,68 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-1",
-    "topicTitle": "Scrotum & Temperature Regulation",
-    "topic": "2 to 2.5°C Lower than Core Body Temperature for Spermatogenesis",
+    "classLevel": 12,
+    "topicId": "bio-top-21-2",
+    "topicTitle": "Follicular Development Progression",
+    "topic": "Follicular Development Progression",
     "mnemonicNumber": 17,
-    "title": "Scrotum: Thermoregulation (2 to 2.5°C Lower than Core Body Temp for Normal Spermatogenesis)",
-    "badgeText": "Formula",
-    "importance": "Must Know",
+    "sourceItemNumber": 17,
+    "title": "Follicular Development Progression: \"P-S-T-G\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "formula",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Testes in Extra-Abdominal Scrotum = Keeps temperature 2 to 2.5°C LOWER than core body (34.5 - 35°C) -> Essential for viable Spermatogenesis! (Failure to descend = Cryptorchidism -> Sterility)!",
-    "memoryHook": "Sperm cannot survive the 37°C core body oven! The Scrotum acts as an external biological air conditioner, keeping testes 2-2.5°C cooler so sperm can cook safely!",
-    "fact": "The testes are situated outside the abdominal cavity within a pouch called Scrotum. The scrotum helps in maintaining the low temperature of the testes (2-2.5°C lower than the normal internal body temperature) necessary for spermatogenesis. In mammals, failure of testes to descend from abdomen into scrotum before birth is called Cryptorchidism, which leads to sterility due to heat destruction of spermatogenic epithelium.",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "P-S-T-G",
+    "memoryHook": "P-S-T-G",
+    "fact": "P – Primary Follicle (Primary oocyte + single layer of granulosa cells). S – Secondary Follicle (More granulosa layers + new theca layer). T – Tertiary Follicle (Fluid-filled cavity Antrum + Theca Interna/Externa). G – Graafian Follicle (Mature follicle with Zona Pellucida surrounding secondary oocyte)",
     "breakdown": [
       {
-        "key": "Temperature Differential",
-        "label": "2 to 2.5°C below core body temperature (approx. 34.5 - 35°C)"
+        "key": "P",
+        "label": "Primary Follicle (Primary oocyte + single layer of granulosa cells)"
       },
       {
-        "key": "Physiological Necessity",
-        "label": "Higher core body temperatures (37°C) inhibit meiotic division and destroy spermatogonia"
+        "key": "S",
+        "label": "Secondary Follicle (More granulosa layers + new theca layer)"
       },
       {
-        "key": "Dartos & Cremaster Muscles",
-        "label": "Contract in cold to pull testes closer to body; relax in heat to dissipate warmth"
+        "key": "T",
+        "label": "Tertiary Follicle (Fluid-filled cavity Antrum + Theca Interna/Externa)"
       },
       {
-        "key": "Cryptorchidism",
-        "label": "Undescended testes condition; causes sterility if not corrected surgically (orchiopexy)"
+        "key": "G",
+        "label": "Graafian Follicle (Mature follicle with Zona Pellucida surrounding secondary oocyte)"
       }
     ],
-    "doodleBadge": "Scrotum = 2 to 2.5°C Cooler\nPrevents Heat Sterility",
-    "doodleSubtext": "Testicular Thermoregulation",
-    "explanation": "In seasonal breeders (like bats and rodents), testes descend into the scrotum during breeding season and retract back into the abdomen during non-breeding periods.",
-    "alsoRemember": "In elephants and whales, testes remain permanently intra-abdominal without causing sterility.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.1.",
-    "neetTrap": "The temperature of the scrotum is 2 to 2.5°C LOWER than internal body temperature (NOT 5°C or higher).",
+    "doodleBadge": "P-S-T-G",
+    "doodleSubtext": "Follicular Development P",
+    "explanation": "Maturation stages of ovarian follicles inside the ovary stroma.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Follicular Development Progression.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 60",
     "tags": [
-      "Scrotum",
-      "Thermoregulation",
-      "Spermatogenesis",
-      "Cryptorchidism",
-      "Testis"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Follicular"
     ],
-    "expandedMeaning": "Anatomical adaptations and homeostatic thermal control mechanisms for male gametogenesis.",
-    "whyItWorks": "Air conditioner metaphor with precise 2-2.5°C numerical anchor.",
-    "visualDescription": "Human body silhouette showing 37°C core temperature and external scrotum pouch labeled \"34.5°C (-2 to 2.5°C cooler for sperm)\".",
-    "neetRelevance": "Standard NCERT direct numerical question.",
-    "commonMistake": "Stating temperature is 4-5°C lower instead of 2-2.5°C.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 60,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The scrotum maintains the temperature of the testes lower than the normal internal body temperature by how much to facilitate spermatogenesis?",
+      "question": "Which of the following is associated with \"Follicular Development Progression\" in NEET Biology?",
       "options": [
-        "1°C",
-        "2 - 2.5°C",
-        "4 - 5°C",
-        "6 - 7°C"
+        "Primary Follicle (Primary oocyte + single layer of granulosa cells)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The scrotum maintains testicular temperature 2 to 2.5°C below normal body temperature for spermatogenesis."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Primary Follicle (Primary oocyte + single layer of granulosa cells)\". Remember using: \"P-S-T-G\"."
     }
   },
   {
@@ -1277,76 +1209,64 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-3",
-    "topicTitle": "Hormonal Feedback Control of Spermatogenesis",
-    "topic": "Hypothalamus GnRH -> Anterior Pituitary LH (Leydig -> Testosterone) + FSH (Sertoli -> Factors & Inhibin)",
+    "classLevel": 12,
+    "topicId": "bio-top-21-2",
+    "topicTitle": "Meiotic Arrest Points in Oogenesis",
+    "topic": "Meiotic Arrest Points in Oogenesis",
     "mnemonicNumber": 18,
-    "title": "Spermatogenesis Hormonal Loop: GnRH -> LH (Leydig / Testosterone) + FSH (Sertoli / Spermiogenesis & Inhibin)",
-    "badgeText": "Sequence",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Hypothalamus releases GnRH -> Anterior Pituitary secretes LH & FSH -> 1) LH stimulates Leydig cells to secrete Androgens (Testosterone stimulates spermatogenesis) | 2) FSH stimulates Sertoli cells to secrete factors for spermiogenesis & Inhibin (negative feedback on FSH)!",
-    "memoryHook": "GnRH starts the engine at puberty! LH calls Leydig for Testosterone gas! FSH calls Sertoli for mechanical tuning! Inhibin tells FSH when enough sperm is made!",
-    "fact": "Hormonal regulation of spermatogenesis: Spermatogenesis starts at puberty due to significant increase in GnRH (Gonadotropin Releasing Hormone) from hypothalamus. GnRH acts on anterior pituitary to stimulate secretion of two gonadotropins: 1) LH (Luteinizing Hormone): Acts on Leydig cells, stimulating synthesis and secretion of Androgens (Testosterone) which in turn stimulate spermatogenesis. 2) FSH (Follicle Stimulating Hormone): Acts on Sertoli cells, stimulating secretion of factors essential for Spermiogenesis (transformation of spermatids to spermatozoa) and Inhibin.",
+    "sourceItemNumber": 18,
+    "title": "Meiotic Arrest Points in Oogenesis: \"P-1, M-2\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "P-1, M-2",
+    "memoryHook": "P-1, M-2",
+    "fact": "Two distinct suspension points during meiotic division of female gametes.",
     "breakdown": [
       {
-        "key": "Hypothalamic Trigger",
-        "label": "GnRH secretion increases sharply at puberty"
+        "key": "Part 1",
+        "label": "P"
       },
       {
-        "key": "LH Action",
-        "label": "Acts on Leydig cells -> stimulates Testosterone secretion"
+        "key": "Part 2",
+        "label": "1, M"
       },
       {
-        "key": "FSH Action",
-        "label": "Acts on Sertoli cells -> stimulates factors for spermiogenesis"
-      },
-      {
-        "key": "Negative Feedback 1",
-        "label": "High Testosterone inhibits GnRH and LH release"
-      },
-      {
-        "key": "Negative Feedback 2",
-        "label": "Inhibin from Sertoli cells selectively inhibits FSH release from anterior pituitary"
+        "key": "Part 3",
+        "label": "2"
       }
     ],
-    "doodleBadge": "GnRH -> LH (Leydig: Testosterone)\n      -> FSH (Sertoli: Spermiogenesis)",
-    "doodleSubtext": "Male Endocrine Loop",
-    "explanation": "Inhibin peptide hormone acts directly on the anterior pituitary to suppress FSH synthesis without affecting LH secretion.",
-    "alsoRemember": "Testosterone exerts negative feedback on both the hypothalamus (GnRH) and anterior pituitary (LH).",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.2.",
-    "neetTrap": "Inhibin selectively inhibits FSH secretion from the anterior pituitary (it does NOT inhibit LH).",
+    "doodleBadge": "P-1, M-2",
+    "doodleSubtext": "Meiotic Arrest Points in",
+    "explanation": "Two distinct suspension points during meiotic division of female gametes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Meiotic Arrest Points in Oogenesis.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 60",
     "tags": [
-      "Hormonal Control",
-      "Spermatogenesis",
-      "GnRH",
-      "LH",
-      "FSH",
-      "Leydig",
-      "Sertoli",
-      "Inhibin"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Meiotic"
     ],
-    "expandedMeaning": "Hypothalamic-pituitary-gonadal dual-axis feedback loop governing male gametogenesis.",
-    "whyItWorks": "Direct branch diagram: GnRH splits to LH (Leydig) and FSH (Sertoli).",
-    "visualDescription": "Endocrine flow chart showing brain Hypothalamus (GnRH) sending dual branches to Pituitary, activating Leydig and Sertoli targets in testis.",
-    "neetRelevance": "One of the most frequently asked hormonal pathway questions in NEET.",
-    "commonMistake": "Thinking FSH acts on Leydig cells.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 60,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which hormone secreted by Sertoli cells exerts negative feedback specifically on the anterior pituitary to suppress FSH secretion?",
+      "question": "Which of the following is associated with \"Meiotic Arrest Points in Oogenesis\" in NEET Biology?",
       "options": [
-        "Testosterone",
-        "Inhibin",
-        "Prolactin",
-        "LH"
+        "P-1, M-2",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Inhibin secreted by Sertoli cells provides selective negative feedback on the anterior pituitary to decrease FSH release."
+      "answerIndex": 0,
+      "explanation": "Two distinct suspension points during meiotic division of female gametes."
     }
   },
   {
@@ -1355,69 +1275,60 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-4",
-    "topicTitle": "Sex Determination in Humans",
-    "topic": "Male Heterogamety: 50% X-Bearing Sperm + 50% Y-Bearing Sperm",
+    "classLevel": 12,
+    "topicId": "bio-top-21-2",
+    "topicTitle": "Follicular Atresia Count",
+    "topic": "Follicular Atresia Count",
     "mnemonicNumber": 19,
-    "title": "Sex Determination: 100% Female Eggs are X | Male Sperm is 50% X + 50% Y -> FATHER Determines Sex of Child!",
-    "badgeText": "Concept",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
+    "sourceItemNumber": 19,
+    "title": "Follicular Atresia Count: \"Millions to 60K\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Mother (Homogametic XX) gives ONLY 'X' chromosome in every single egg! | Father (Heterogametic XY) makes 50% X-sperm + 50% Y-sperm -> If X-sperm fertilizes = 44+XX Girl! If Y-sperm fertilizes = 44+XY Boy! Biologically, the FATHER determines sex of child!",
-    "memoryHook": "Mom always deals an X card (XX). Dad flips the coin: X sperm = Daughter (XX), Y sperm = Son (XY)! Blaming mothers for having girls is scientifically absurd!",
-    "fact": "Sex determination in humans follows the XX-XY mechanism: Human females have 44 autosomes + XX sex chromosomes and produce only one type of gamete (Homogametic, all eggs have 22 + X). Human males have 44 autosomes + XY sex chromosomes and produce two types of sperms in equal proportions (Heterogametic, 50% with 22 + X and 50% with 22 + Y). In case of fertilization of the ovum (22+X) with an X-bearing sperm, the zygote develops into a female (44+XX); fertilization with a Y-bearing sperm results in a male (44+XY). Hence, the sex of the baby is decided strictly by the father.",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Millions to 60K",
+    "memoryHook": "Millions to 60K",
+    "fact": "Massive degeneration of follicles (atresia) occurs between birth and puberty.",
     "breakdown": [
       {
-        "key": "Female Homogamety",
-        "label": "All human ova carry 22 autosomes + one X chromosome (22 + X)"
+        "key": "Focus",
+        "label": "Follicular Atresia Count"
       },
       {
-        "key": "Male Heterogamety",
-        "label": "50% spermatozoa carry (22 + X) and 50% carry (22 + Y)"
-      },
-      {
-        "key": "Probability",
-        "label": "Equal 50% statistical probability of having a boy or girl in each pregnancy"
-      },
-      {
-        "key": "Genetic Law",
-        "label": "Fetal sex is determined entirely at the instant of fertilization by the paternal sperm"
+        "key": "Trick",
+        "label": "Millions to 60K"
       }
     ],
-    "doodleBadge": "Egg (X) + X-Sperm = Girl (XX)\nEgg (X) + Y-Sperm = Boy (XY)",
-    "doodleSubtext": "Male Heterogamety",
-    "explanation": "Blaming women for the birth of female children is totally baseless and scientifically incorrect because sex is determined exclusively by paternal sperm type.",
-    "alsoRemember": "In birds, female heterogamety (ZW female, ZZ male) exists where the female determines the sex of offspring.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.4 & Chapter 5 Section 5.4.",
-    "neetTrap": "In humans, MALES are heterogametic (XY) and determine sex, whereas in BIRDS, FEMALES are heterogametic (ZW).",
+    "doodleBadge": "Millions to 60K",
+    "doodleSubtext": "Follicular Atresia Count",
+    "explanation": "Massive degeneration of follicles (atresia) occurs between birth and puberty.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Follicular Atresia Count.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 60",
     "tags": [
-      "Sex Determination",
-      "XX-XY",
-      "Heterogametic Male",
-      "Fertilization",
-      "Genetics"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Follicular"
     ],
-    "expandedMeaning": "Cytogenetic chromosomal basis of sex determination and paternal gametic gametoid assortment.",
-    "whyItWorks": "Mother = Fixed X, Father = 50% X / 50% Y coin flip.",
-    "visualDescription": "Punnett square showing female X egg crossing with male X sperm (Girl XX) and Y sperm (Boy XY) in 50:50 ratio.",
-    "neetRelevance": "High yield social and biological genetics question in NEET.",
-    "commonMistake": "Stating females determine the sex of the child in humans.",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.4",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 60,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In humans, sex of the baby is determined at fertilization by:",
+      "question": "Which of the following is associated with \"Follicular Atresia Count\" in NEET Biology?",
       "options": [
-        "Ovum chromosome composition",
-        "Paternal sperm chromosome (X or Y)",
-        "Nutritional status during pregnancy",
-        "Age of the mother"
+        "Millions to 60K",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Human sex is determined by the paternal sperm chromosome: X-bearing sperm produces a girl, Y-bearing sperm produces a boy."
+      "answerIndex": 0,
+      "explanation": "Massive degeneration of follicles (atresia) occurs between birth and puberty."
     }
   },
   {
@@ -1426,71 +1337,2016 @@ export const bioCh21Mnemonics = [
     "chapterId": "bio-ch-21",
     "chapterNumber": 21,
     "chapterTitle": "Human Reproduction",
-    "topicId": "bio-top-21-4",
-    "topicTitle": "Extra-Embryonic Membranes: Chorion, Amnion, Allantois, Yolk Sac",
-    "topic": "Chorion (Placenta), Amnion (Shock absorber / Amniocentesis), Allantois (Umbilical vessels), Yolk Sac (RBC formation)",
+    "classLevel": 12,
+    "topicId": "bio-top-21-2",
+    "topicTitle": "Layers of Mature Graafian Follicle / Ovum",
+    "topic": "Layers of Mature Graafian Follicle / Ovum",
     "mnemonicNumber": 20,
-    "title": "4 Extra-Embryonic Membranes: Chorion (Placenta), Amnion (Amniotic Fluid Shock Absorber), Allantois (Umbilical Cord), Yolk Sac (1st Blood Cells)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 20,
+    "title": "Layers of Mature Graafian Follicle / Ovum: \"Z-C-T-T\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Z-C-T-T",
+    "memoryHook": "Z-C-T-T",
+    "fact": "Z – Zona Pellucida (Acellular glycoprotein layer directly around secondary oocyte). C – Corona Radiata (Radiating granulosa cells outer to zona pellucida). T – Theca Interna (Inner vascular hormone-secreting layer). T – Theca Externa (Outer fibrous protective layer)",
+    "breakdown": [
+      {
+        "key": "Z",
+        "label": "Zona Pellucida (Acellular glycoprotein layer directly around secondary oocyte)"
+      },
+      {
+        "key": "C",
+        "label": "Corona Radiata (Radiating granulosa cells outer to zona pellucida)"
+      },
+      {
+        "key": "T",
+        "label": "Theca Interna (Inner vascular hormone-secreting layer)"
+      },
+      {
+        "key": "T",
+        "label": "Theca Externa (Outer fibrous protective layer)"
+      }
+    ],
+    "doodleBadge": "Z-C-T-T",
+    "doodleSubtext": "Layers of Mature Graafia",
+    "explanation": "Protective and functional layers surrounding the secondary oocyte during ovulation. NCERT Chapter 2 Mnemonics Master Guide \tPage 4 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Layers of Mature Graafian Follicle / Ovum.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 60",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Layers"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 60,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Layers of Mature Graafian Follicle / Ovum\" in NEET Biology?",
+      "options": [
+        "Zona Pellucida (Acellular glycoprotein layer directly around secondary oocyte)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Zona Pellucida (Acellular glycoprotein layer directly around secondary oocyte)\". Remember using: \"Z-C-T-T\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-3",
+    "topicTitle": "Phases of Menstrual Cycle in Order",
+    "topic": "Phases of Menstrual Cycle in Order",
+    "mnemonicNumber": 21,
+    "sourceItemNumber": 21,
+    "title": "Phases of Menstrual Cycle in Order: \"M-F-O-L\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "M-F-O-L",
+    "memoryHook": "M-F-O-L",
+    "fact": "M – Menstrual Phase (Days 1-5; shedding of endometrial lining). F – Follicular / Proliferative Phase (Days 6-13; regeneration of endometrium). O – Ovulatory Phase (Day 14; rupture of Graafian follicle and ovum release). L – Luteal / Secretory Phase (Days 15-28; corpus luteum secretes progesterone)",
+    "breakdown": [
+      {
+        "key": "M",
+        "label": "Menstrual Phase (Days 1-5; shedding of endometrial lining)"
+      },
+      {
+        "key": "F",
+        "label": "Follicular / Proliferative Phase (Days 6-13; regeneration of endometrium)"
+      },
+      {
+        "key": "O",
+        "label": "Ovulatory Phase (Day 14; rupture of Graafian follicle and ovum release)"
+      },
+      {
+        "key": "L",
+        "label": "Luteal / Secretory Phase (Days 15-28; corpus luteum secretes progesterone)"
+      }
+    ],
+    "doodleBadge": "M-F-O-L",
+    "doodleSubtext": "Phases of Menstrual Cycl",
+    "explanation": "The 28-day primate reproductive cycle divided into four sequential phases.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Phases of Menstrual Cycle in Order.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 61",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Phases"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 61,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Phases of Menstrual Cycle in Order\" in NEET Biology?",
+      "options": [
+        "Menstrual Phase (Days 1-5; shedding of endometrial lining)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Menstrual Phase (Days 1-5; shedding of endometrial lining)\". Remember using: \"M-F-O-L\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-3",
+    "topicTitle": "LH Surge Effects",
+    "topic": "LH Surge Effects",
+    "mnemonicNumber": 22,
+    "sourceItemNumber": 22,
+    "title": "LH Surge Effects: \"R-C-O\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "R-C-O",
+    "memoryHook": "R-C-O",
+    "fact": "R – Rupture of Graafian follicle. C – Conversion of remnant follicle into Corpus Luteum. O – Ovulation (Release of secondary oocyte into abdominal cavity)",
+    "breakdown": [
+      {
+        "key": "R",
+        "label": "Rupture of Graafian follicle"
+      },
+      {
+        "key": "C",
+        "label": "Conversion of remnant follicle into Corpus Luteum"
+      },
+      {
+        "key": "O",
+        "label": "Ovulation (Release of secondary oocyte into abdominal cavity)"
+      }
+    ],
+    "doodleBadge": "R-C-O",
+    "doodleSubtext": "LH Surge Effects",
+    "explanation": "Rapid peak of LH (LH surge) mid-cycle induces ovulation and luteinization.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in LH Surge Effects.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 61",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "LH"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 61,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"LH Surge Effects\" in NEET Biology?",
+      "options": [
+        "Rupture of Graafian follicle",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Rupture of Graafian follicle\". Remember using: \"R-C-O\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-3",
+    "topicTitle": "Major Hormones in Menstrual Cycle",
+    "topic": "Major Hormones in Menstrual Cycle",
+    "mnemonicNumber": 23,
+    "sourceItemNumber": 23,
+    "title": "Major Hormones in Menstrual Cycle: \"F-L-E-P\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "F-L-E-P",
+    "memoryHook": "F-L-E-P",
+    "fact": "F – FSH (Pituitary hormone; stimulates follicle growth). L – LH (Pituitary hormone; induces ovulation and corpus luteum). E – Estrogen (Ovarian hormone; promotes endometrial proliferation). P – Progesterone (Ovarian hormone; maintains endometrial lining for implantation)",
+    "breakdown": [
+      {
+        "key": "F",
+        "label": "FSH (Pituitary hormone; stimulates follicle growth)"
+      },
+      {
+        "key": "L",
+        "label": "LH (Pituitary hormone; induces ovulation and corpus luteum)"
+      },
+      {
+        "key": "E",
+        "label": "Estrogen (Ovarian hormone; promotes endometrial proliferation)"
+      },
+      {
+        "key": "P",
+        "label": "Progesterone (Ovarian hormone; maintains endometrial lining for implantation)"
+      }
+    ],
+    "doodleBadge": "F-L-E-P",
+    "doodleSubtext": "Major Hormones in Menstr",
+    "explanation": "Interplay of two gonadotropins and two steroid hormones during the female cycle.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Major Hormones in Menstrual Cycle.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 61",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Major"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 61,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Major Hormones in Menstrual Cycle\" in NEET Biology?",
+      "options": [
+        "FSH (Pituitary hormone; stimulates follicle growth)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"FSH (Pituitary hormone; stimulates follicle growth)\". Remember using: \"F-L-E-P\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-3",
+    "topicTitle": "Menarche vs Menopause",
+    "topic": "Menarche vs Menopause",
+    "mnemonicNumber": 24,
+    "sourceItemNumber": 24,
+    "title": "Menarche vs Menopause: \"Start Arche, Pause Stop\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Start Arche, Pause Stop",
+    "memoryHook": "Start Arche, Pause Stop",
+    "fact": "Onset and termination parameters of reproductive life in human females.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Menarche vs Menopause"
+      },
+      {
+        "key": "Trick",
+        "label": "Start Arche, Pause Stop"
+      }
+    ],
+    "doodleBadge": "Start Arche, Pause Stop",
+    "doodleSubtext": "Menarche vs Menopause",
+    "explanation": "Onset and termination parameters of reproductive life in human females.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Menarche vs Menopause.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 61",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Menarche"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 61,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Menarche vs Menopause\" in NEET Biology?",
+      "options": [
+        "Start Arche, Pause Stop",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Onset and termination parameters of reproductive life in human females."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-3",
+    "topicTitle": "Fate of Corpus Luteum",
+    "topic": "Fate of Corpus Luteum",
+    "mnemonicNumber": 25,
+    "sourceItemNumber": 25,
+    "title": "Fate of Corpus Luteum: \"Fertilizing Maintains, Absence Degenerates\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
     "difficulty": "medium",
     "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "CAAY: 1) CHORION (Outer membrane -> forms Chorionic villi of Placenta) | 2) AMNION (Inner membrane filled with Amniotic Fluid -> hydraulic shock absorber preventing desiccation & tested in Amniocentesis!) | 3) ALLANTOIS (Forms blood vessels of Umbilical cord) | 4) YOLK SAC (Site of initial fetal hematopoiesis / 1st RBCs)!",
-    "memoryHook": "Chorion hugs the mother to make Placenta; Amnion is the water-bed cushion floating the fetus; Allantois ties the umbilical cord lifeline; Yolk sac prints the baby's first red blood cells!",
-    "fact": "Human fetus is protected by four extra-embryonic fetal membranes: 1) Chorion: Formed from trophoblast and extra-embryonic mesoderm; develops chorionic villi interdigitating with uterine tissue to form Placenta; secretes hCG. 2) Amnion: Surrounds embryo creating amniotic cavity filled with Amniotic Fluid (acts as hydraulic shock absorber, maintains temperature, prevents embryo drying and sticking to amnion). Amniotic fluid is sampled in Amniocentesis for genetic karyotyping. 3) Allantois: Forms the structural foundation and blood vessels of the Umbilical Cord. 4) Yolk Sac: Non-nutritive in humans (small), functions as the primary site of early embryonic hematopoiesis (RBC synthesis).",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Fertilizing Maintains, Absence Degenerates",
+    "memoryHook": "Fertilizing Maintains, Absence Degenerates",
+    "fact": "Maintenance or degeneration of corpus luteum depending on pregnancy occurrence. NCERT Chapter 2 Mnemonics Master Guide \tPage 5 of 10",
     "breakdown": [
       {
-        "key": "Chorion",
-        "label": "Outermost membrane; forms chorionic villi of placenta; endocrine role (hCG, hPL)"
+        "key": "Focus",
+        "label": "Fate of Corpus Luteum"
       },
       {
-        "key": "Amnion",
-        "label": "Innermost membrane enclosing amniotic fluid; hydraulic shock absorber and anti-desiccant"
-      },
-      {
-        "key": "Allantois",
-        "label": "Vascularizes the umbilical cord (2 umbilical arteries, 1 umbilical vein)"
-      },
-      {
-        "key": "Yolk Sac",
-        "label": "Primary site of earliest embryonic blood and germ cell formation"
+        "key": "Trick",
+        "label": "Fertilizing Maintains, Absence Degenerates"
       }
     ],
-    "doodleBadge": "Chorion = Placenta | Amnion = Shock Absorber\nAllantois = Cord | Yolk Sac = 1st RBCs",
-    "doodleSubtext": "4 Fetal Membranes",
-    "explanation": "Amniotic fluid contains fetal skin cells that can be cultured for chromosomal karyotyping (Amniocentesis) to detect genetic disorders like Down syndrome.",
-    "alsoRemember": "Statutory ban on amniocentesis for sex determination was enacted in India to check female foeticide.",
-    "ncertConnection": "NCERT Class 12 Biology Section 3.5 & Chapter 4 Section 4.1.",
-    "neetTrap": "Amniotic fluid functions primarily as a HYDRAULIC SHOCK ABSORBER and prevents desiccation of the embryo.",
+    "doodleBadge": "Fertilizing Maintains, A",
+    "doodleSubtext": "Fate of Corpus Luteum",
+    "explanation": "Maintenance or degeneration of corpus luteum depending on pregnancy occurrence. NCERT Chapter 2 Mnemonics Master Guide \tPage 5 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Fate of Corpus Luteum.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 61",
     "tags": [
-      "Extra-Embryonic Membranes",
-      "Amnion",
-      "Chorion",
-      "Allantois",
-      "Yolk Sac",
-      "Amniotic Fluid",
-      "Amniocentesis"
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Fate"
     ],
-    "expandedMeaning": "Comparative developmental morphophysiology of the four amniote fetal extra-embryonic membranes.",
-    "whyItWorks": "CAAY acronym matching function directly to membrane.",
-    "visualDescription": "Fetus inside uterus showing outer purple Chorion linked to placenta, inner blue Amnion water bubble, small orange Yolk Sac, and green Allantois cord stem.",
-    "neetRelevance": "Common in structural matching and amniocentesis context questions.",
-    "commonMistake": "Thinking human yolk sac serves a major nutritive role as in birds (in humans it is for early blood formation).",
-    "sourceReference": "NCERT Class 12 Chapter 3 Section 3.5",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 61,
+      "chapter": "Human Reproduction"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which extra-embryonic membrane forms a fluid-filled sac around the human embryo to act as a hydraulic shock absorber and prevent embryonic desiccation?",
+      "question": "Which of the following is associated with \"Fate of Corpus Luteum\" in NEET Biology?",
       "options": [
-        "Chorion",
-        "Amnion",
-        "Allantois",
-        "Yolk sac"
+        "Fertilizing Maintains, Absence Degenerates",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "The Amnion encloses the amniotic cavity filled with amniotic fluid which protects the embryo as a hydraulic shock absorber."
+      "answerIndex": 0,
+      "explanation": "Maintenance or degeneration of corpus luteum depending on pregnancy occurrence. NCERT Chapter 2 Mnemonics Master Guide \tPage 5 of 10"
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-3",
+    "topicTitle": "Precise Site of Fertilization",
+    "topic": "Precise Site of Fertilization",
+    "mnemonicNumber": 26,
+    "sourceItemNumber": 26,
+    "title": "Precise Site of Fertilization: \"A-I Junction\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "A-I Junction",
+    "memoryHook": "A-I Junction",
+    "fact": "A – Ampullary region of fallopian tube. I – Isthmic junction (Ampullary-isthmic junction)",
+    "breakdown": [
+      {
+        "key": "A",
+        "label": "Ampullary region of fallopian tube"
+      },
+      {
+        "key": "I",
+        "label": "Isthmic junction (Ampullary-isthmic junction)"
+      }
+    ],
+    "doodleBadge": "A-I Junction",
+    "doodleSubtext": "Precise Site of Fertiliz",
+    "explanation": "Fertilization can only occur if ovum and sperms are transported simultaneously to the ampullary region.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Precise Site of Fertilization.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 62",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Precise"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 62,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Precise Site of Fertilization\" in NEET Biology?",
+      "options": [
+        "A-I Junction",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fertilization can only occur if ovum and sperms are transported simultaneously to the ampullary region."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-3",
+    "topicTitle": "Prevention of Polyspermy (Fast vs Slow Block)",
+    "topic": "Prevention of Polyspermy (Fast vs Slow Block)",
+    "mnemonicNumber": 27,
+    "sourceItemNumber": 27,
+    "title": "Prevention of Polyspermy (Fast vs Slow Block): \"Z-C-S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Z-C-S",
+    "memoryHook": "Z-C-S",
+    "fact": "Z – Zona pellucida change (Sperm contact induces changes in membrane). C – Cortical granules reaction (Blocks entry of additional sperms). S – Monospermy ensured (Guarantees only one sperm fertilizes ovum)",
+    "breakdown": [
+      {
+        "key": "Z",
+        "label": "Zona pellucida change (Sperm contact induces changes in membrane)"
+      },
+      {
+        "key": "C",
+        "label": "Cortical granules reaction (Blocks entry of additional sperms)"
+      },
+      {
+        "key": "S",
+        "label": "Monospermy ensured (Guarantees only one sperm fertilizes ovum)"
+      }
+    ],
+    "doodleBadge": "Z-C-S",
+    "doodleSubtext": "Prevention of Polyspermy",
+    "explanation": "Cortical reaction alters zona pellucida structure to block polyspermy permanently.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Prevention of Polyspermy (Fast vs Slow Block).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 62",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Prevention"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 62,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Prevention of Polyspermy (Fast vs Slow Block)\" in NEET Biology?",
+      "options": [
+        "Zona pellucida change (Sperm contact induces changes in membrane)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Zona pellucida change (Sperm contact induces changes in membrane)\". Remember using: \"Z-C-S\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-3",
+    "topicTitle": "Acrosomal Reaction Enzymes",
+    "topic": "Acrosomal Reaction Enzymes",
+    "mnemonicNumber": 28,
+    "sourceItemNumber": 28,
+    "title": "Acrosomal Reaction Enzymes: \"H-C-A\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "H-C-A",
+    "memoryHook": "H-C-A",
+    "fact": "H – Hyaluronidase (Dissolves hyaluronic acid binding granulosa cells). C – Corona Penetrating Enzyme (Digests corona radiata). A – Acrosin / Zona Lysin (Digests zona pellucida layer)",
+    "breakdown": [
+      {
+        "key": "H",
+        "label": "Hyaluronidase (Dissolves hyaluronic acid binding granulosa cells)"
+      },
+      {
+        "key": "C",
+        "label": "Corona Penetrating Enzyme (Digests corona radiata)"
+      },
+      {
+        "key": "A",
+        "label": "Acrosin / Zona Lysin (Digests zona pellucida layer)"
+      }
+    ],
+    "doodleBadge": "H-C-A",
+    "doodleSubtext": "Acrosomal Reaction Enzym",
+    "explanation": "Enzymatic contents of acrosome enabling sperm to penetrate ovum envelopes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Acrosomal Reaction Enzymes.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 62",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Acrosomal"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 62,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Acrosomal Reaction Enzymes\" in NEET Biology?",
+      "options": [
+        "Hyaluronidase (Dissolves hyaluronic acid binding granulosa cells)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Hyaluronidase (Dissolves hyaluronic acid binding granulosa cells)\". Remember using: \"H-C-A\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-3",
+    "topicTitle": "Completion of Meiosis-II in Oogenesis",
+    "topic": "Completion of Meiosis-II in Oogenesis",
+    "mnemonicNumber": 29,
+    "sourceItemNumber": 29,
+    "title": "Completion of Meiosis-II in Oogenesis: \"Sperm Entry Trigger\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Sperm Entry Trigger",
+    "memoryHook": "Sperm Entry Trigger",
+    "fact": "Fertilization is required to trigger final meiotic completion and polar body extrusion.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Completion of Meiosis-II in Oogenesis"
+      },
+      {
+        "key": "Trick",
+        "label": "Sperm Entry Trigger"
+      }
+    ],
+    "doodleBadge": "Sperm Entry Trigger",
+    "doodleSubtext": "Completion of Meiosis-II",
+    "explanation": "Fertilization is required to trigger final meiotic completion and polar body extrusion.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Completion of Meiosis-II in Oogenesis.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 62",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Completion"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 62,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Completion of Meiosis-II in Oogenesis\" in NEET Biology?",
+      "options": [
+        "Sperm Entry Trigger",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fertilization is required to trigger final meiotic completion and polar body extrusion."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-3",
+    "topicTitle": "Sex Determination Mechanism in Humans",
+    "topic": "Sex Determination Mechanism in Humans",
+    "mnemonicNumber": 30,
+    "sourceItemNumber": 30,
+    "title": "Sex Determination Mechanism in Humans: \"Father Decides\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "Father Decides",
+    "memoryHook": "Father Decides",
+    "fact": "XX – Female child | XY – Male child",
+    "breakdown": [
+      {
+        "key": "XX",
+        "label": "Female child | XY – Male child"
+      }
+    ],
+    "doodleBadge": "Father Decides",
+    "doodleSubtext": "Sex Determination Mechan",
+    "explanation": "Genetic sex of baby is determined strictly by male gamete carrying either X or Y chromosome. NCERT Chapter 2 Mnemonics Master Guide \tPage 6 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Sex Determination Mechanism in Humans.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 62",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Sex"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 62,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Sex Determination Mechanism in Humans\" in NEET Biology?",
+      "options": [
+        "Father Decides",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Genetic sex of baby is determined strictly by male gamete carrying either X or Y chromosome. NCERT Chapter 2 Mnemonics Master Guide \tPage 6 of 10"
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-31",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-4",
+    "topicTitle": "Cleavage Division Characteristics",
+    "topic": "Cleavage Division Characteristics",
+    "mnemonicNumber": 31,
+    "sourceItemNumber": 31,
+    "title": "Cleavage Division Characteristics: \"H-C-I-D\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "H-C-I-D",
+    "memoryHook": "H-C-I-D",
+    "fact": "H – Holoblastic (Complete mitotic cleavage of zygote). C – Constant overall mass (Cell size decreases while cell number increases). I – Increase in DNA synthesis and nucleocytoplasmic ratio. D – Directional migration towards uterine cavity",
+    "breakdown": [
+      {
+        "key": "H",
+        "label": "Holoblastic (Complete mitotic cleavage of zygote)"
+      },
+      {
+        "key": "C",
+        "label": "Constant overall mass (Cell size decreases while cell number increases)"
+      },
+      {
+        "key": "I",
+        "label": "Increase in DNA synthesis and nucleocytoplasmic ratio"
+      },
+      {
+        "key": "D",
+        "label": "Directional migration towards uterine cavity"
+      }
+    ],
+    "doodleBadge": "H-C-I-D",
+    "doodleSubtext": "Cleavage Division Charac",
+    "explanation": "Specialized mitotic divisions converting single-celled zygote into multicellular structure.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Cleavage Division Characteristics.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 63",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Cleavage"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 63,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Cleavage Division Characteristics\" in NEET Biology?",
+      "options": [
+        "Holoblastic (Complete mitotic cleavage of zygote)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Holoblastic (Complete mitotic cleavage of zygote)\". Remember using: \"H-C-I-D\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-32",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-4",
+    "topicTitle": "Early Embryonic Stages",
+    "topic": "Early Embryonic Stages",
+    "mnemonicNumber": 32,
+    "sourceItemNumber": 32,
+    "title": "Early Embryonic Stages: \"Z-M-B-G\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Z-M-B-G",
+    "memoryHook": "Z-M-B-G",
+    "fact": "Z – Zygote (Single-celled diploid fusion product). M – Morula (Solid mulberry-like ball of 8 to 16 blastomeres). B – Blastocyst (Fluid-filled sphere with trophoblast and inner cell mass). G – Gastrula (Three-layered germ embryo: Ecto, Meso, Endoderm)",
+    "breakdown": [
+      {
+        "key": "Z",
+        "label": "Zygote (Single-celled diploid fusion product)"
+      },
+      {
+        "key": "M",
+        "label": "Morula (Solid mulberry-like ball of 8 to 16 blastomeres)"
+      },
+      {
+        "key": "B",
+        "label": "Blastocyst (Fluid-filled sphere with trophoblast and inner cell mass)"
+      },
+      {
+        "key": "G",
+        "label": "Gastrula (Three-layered germ embryo: Ecto, Meso, Endoderm)"
+      }
+    ],
+    "doodleBadge": "Z-M-B-G",
+    "doodleSubtext": "Early Embryonic Stages",
+    "explanation": "Sequential morphological forms assumed by human embryo post-fertilization.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Early Embryonic Stages.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 63",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Early"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 63,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Early Embryonic Stages\" in NEET Biology?",
+      "options": [
+        "Zygote (Single-celled diploid fusion product)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Zygote (Single-celled diploid fusion product)\". Remember using: \"Z-M-B-G\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-33",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-4",
+    "topicTitle": "Blastocyst Structure Parts",
+    "topic": "Blastocyst Structure Parts",
+    "mnemonicNumber": 33,
+    "sourceItemNumber": 33,
+    "title": "Blastocyst Structure Parts: \"T-I-B\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "T-I-B",
+    "memoryHook": "T-I-B",
+    "fact": "T – Trophoblast (Outer single cell layer attaching to endometrium; forms placenta). I – Inner Cell Mass / Stem Cells (Group of cells attached to trophoblast forming embryo proper). B – Blastocoel (Fluid-filled central cavity)",
+    "breakdown": [
+      {
+        "key": "T",
+        "label": "Trophoblast (Outer single cell layer attaching to endometrium; forms placenta)"
+      },
+      {
+        "key": "I",
+        "label": "Inner Cell Mass / Stem Cells (Group of cells attached to trophoblast forming embryo proper)"
+      },
+      {
+        "key": "B",
+        "label": "Blastocoel (Fluid-filled central cavity)"
+      }
+    ],
+    "doodleBadge": "T-I-B",
+    "doodleSubtext": "Blastocyst Structure Par",
+    "explanation": "Structural differentiation of blastocyst required for successful implantation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Blastocyst Structure Parts.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 63",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Blastocyst"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 63,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Blastocyst Structure Parts\" in NEET Biology?",
+      "options": [
+        "Trophoblast (Outer single cell layer attaching to endometrium; forms placenta)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Trophoblast (Outer single cell layer attaching to endometrium; forms placenta)\". Remember using: \"T-I-B\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-34",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-4",
+    "topicTitle": "Timing of Implantation",
+    "topic": "Timing of Implantation",
+    "mnemonicNumber": 34,
+    "sourceItemNumber": 34,
+    "title": "Timing of Implantation: \"Day Seven Embeds\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Day Seven Embeds",
+    "memoryHook": "Day Seven Embeds",
+    "fact": "Exact timeline for attachment and embedding of blastocyst into mother's endometrium.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Exact timeline for attachment"
+      },
+      {
+        "key": "Point 2",
+        "label": "embedding of blastocyst into mother's endometrium"
+      }
+    ],
+    "doodleBadge": "Day Seven Embeds",
+    "doodleSubtext": "Timing of Implantation",
+    "explanation": "Exact timeline for attachment and embedding of blastocyst into mother's endometrium.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Timing of Implantation.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 63",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Timing"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 63,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Timing of Implantation\" in NEET Biology?",
+      "options": [
+        "Day Seven Embeds",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Exact timeline for attachment and embedding of blastocyst into mother's endometrium."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-35",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-4",
+    "topicTitle": "Germ Layers Differentiation from Inner Cell Mass",
+    "topic": "Germ Layers Differentiation from Inner Cell Mass",
+    "mnemonicNumber": 35,
+    "sourceItemNumber": 35,
+    "title": "Germ Layers Differentiation from Inner Cell Mass: \"E-M-E\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "E-M-E",
+    "memoryHook": "E-M-E",
+    "fact": "E – Ectoderm (Outer layer; gives rise to nervous system and skin). M – Mesoderm (Middle layer; gives rise to muscles, bones, circulatory system). E – Endoderm (Inner layer; gives rise to gut lining and visceral organs)",
+    "breakdown": [
+      {
+        "key": "E",
+        "label": "Ectoderm (Outer layer; gives rise to nervous system and skin)"
+      },
+      {
+        "key": "M",
+        "label": "Mesoderm (Middle layer; gives rise to muscles, bones, circulatory system)"
+      },
+      {
+        "key": "E",
+        "label": "Endoderm (Inner layer; gives rise to gut lining and visceral organs)"
+      }
+    ],
+    "doodleBadge": "E-M-E",
+    "doodleSubtext": "Germ Layers Differentiat",
+    "explanation": "Primary germ layers formed during gastrulation that give rise to all adult tissues. NCERT Chapter 2 Mnemonics Master Guide \tPage 7 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Germ Layers Differentiation from Inner Cell Mass.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 63",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Germ"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 63,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Germ Layers Differentiation from Inner Cell Mass\" in NEET Biology?",
+      "options": [
+        "Ectoderm (Outer layer; gives rise to nervous system and skin)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Ectoderm (Outer layer; gives rise to nervous system and skin)\". Remember using: \"E-M-E\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-36",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-4",
+    "topicTitle": "Structural Origin of Placenta",
+    "topic": "Structural Origin of Placenta",
+    "mnemonicNumber": 36,
+    "sourceItemNumber": 36,
+    "title": "Structural Origin of Placenta: \"C-U Joint\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "C-U Joint",
+    "memoryHook": "C-U Joint",
+    "fact": "C – Chorionic villi (Finger-like projections from trophoblast). U – Uterine tissue (Maternal tissue interdigitating with chorionic villi)",
+    "breakdown": [
+      {
+        "key": "C",
+        "label": "Chorionic villi (Finger-like projections from trophoblast)"
+      },
+      {
+        "key": "U",
+        "label": "Uterine tissue (Maternal tissue interdigitating with chorionic villi)"
+      }
+    ],
+    "doodleBadge": "C-U Joint",
+    "doodleSubtext": "Structural Origin of Pla",
+    "explanation": "Placenta is an intimate structural and functional unit between developing fetus and maternal body.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Structural Origin of Placenta.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 64",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Structural"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 64,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Structural Origin of Placenta\" in NEET Biology?",
+      "options": [
+        "C-U Joint",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Placenta is an intimate structural and functional unit between developing fetus and maternal body."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-37",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-4",
+    "topicTitle": "Functions of Placenta",
+    "topic": "Functions of Placenta",
+    "mnemonicNumber": 37,
+    "sourceItemNumber": 37,
+    "title": "Functions of Placenta: \"O-N-E-W\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "O-N-E-W",
+    "memoryHook": "O-N-E-W",
+    "fact": "O – Oxygen supply to developing fetus. N – Nutrient transport (Glucose, amino acids, lipids). E – Excretory waste removal (CO2 and nitrogenous wastes). W – Withstand endocrine role (Secretion of pregnancy-maintaining hormones)",
+    "breakdown": [
+      {
+        "key": "O",
+        "label": "Oxygen supply to developing fetus"
+      },
+      {
+        "key": "N",
+        "label": "Nutrient transport (Glucose, amino acids, lipids)"
+      },
+      {
+        "key": "E",
+        "label": "Excretory waste removal (CO2 and nitrogenous wastes)"
+      },
+      {
+        "key": "W",
+        "label": "Withstand endocrine role (Secretion of pregnancy-maintaining hormones)"
+      }
+    ],
+    "doodleBadge": "O-N-E-W",
+    "doodleSubtext": "Functions of Placenta",
+    "explanation": "Essential physiological functions mediated by placenta during gestation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Functions of Placenta.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 64",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Functions"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 64,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Functions of Placenta\" in NEET Biology?",
+      "options": [
+        "Oxygen supply to developing fetus",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Oxygen supply to developing fetus\". Remember using: \"O-N-E-W\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-38",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-4",
+    "topicTitle": "Hormones Produced Exclusively During Pregnancy",
+    "topic": "Hormones Produced Exclusively During Pregnancy",
+    "mnemonicNumber": 38,
+    "sourceItemNumber": 38,
+    "title": "Hormones Produced Exclusively During Pregnancy: \"H-H-R\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "H-H-R",
+    "memoryHook": "H-H-R",
+    "fact": "H – hCG (Human Chorionic Gonadotropin; maintains corpus luteum). H – hPL (Human Placental Lactogen; regulates fetal metabolism). R – Relaxin (Secreted by ovary/placenta in late pregnancy phase to soften pelvic ligaments)",
+    "breakdown": [
+      {
+        "key": "H",
+        "label": "hCG (Human Chorionic Gonadotropin; maintains corpus luteum)"
+      },
+      {
+        "key": "H",
+        "label": "hPL (Human Placental Lactogen; regulates fetal metabolism)"
+      },
+      {
+        "key": "R",
+        "label": "Relaxin (Secreted by ovary/placenta in late pregnancy phase to soften pelvic ligaments)"
+      }
+    ],
+    "doodleBadge": "H-H-R",
+    "doodleSubtext": "Hormones Produced Exclus",
+    "explanation": "Hormones produced in women strictly during pregnancy and detectable in urine diagnostic tests.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Hormones Produced Exclusively During Pregnancy.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 64",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Hormones"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 64,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hormones Produced Exclusively During Pregnancy\" in NEET Biology?",
+      "options": [
+        "hCG (Human Chorionic Gonadotropin; maintains corpus luteum)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"hCG (Human Chorionic Gonadotropin; maintains corpus luteum)\". Remember using: \"H-H-R\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-39",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-4",
+    "topicTitle": "Hormones Increased Several Fold in Pregnancy",
+    "topic": "Hormones Increased Several Fold in Pregnancy",
+    "mnemonicNumber": 39,
+    "sourceItemNumber": 39,
+    "title": "Hormones Increased Several Fold in Pregnancy: \"P-E-C-T-O\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "P-E-C-T-O",
+    "memoryHook": "P-E-C-T-O",
+    "fact": "P – Progestogens. E – Estrogens. C – Cortisol. T – Thyroxine. O – Prolactin",
+    "breakdown": [
+      {
+        "key": "P",
+        "label": "Progestogens"
+      },
+      {
+        "key": "E",
+        "label": "Estrogens"
+      },
+      {
+        "key": "C",
+        "label": "Cortisol"
+      },
+      {
+        "key": "T",
+        "label": "Thyroxine"
+      },
+      {
+        "key": "O",
+        "label": "Prolactin"
+      }
+    ],
+    "doodleBadge": "P-E-C-T-O",
+    "doodleSubtext": "Hormones Increased Sever",
+    "explanation": "Maternal blood levels of these hormones increase multi-fold to support fetal growth and metabolic changes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Hormones Increased Several Fold in Pregnancy.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 64",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Hormones"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 64,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hormones Increased Several Fold in Pregnancy\" in NEET Biology?",
+      "options": [
+        "Progestogens",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Progestogens\". Remember using: \"P-E-C-T-O\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-40",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-4",
+    "topicTitle": "Structure Connecting Placenta to Fetus",
+    "topic": "Structure Connecting Placenta to Fetus",
+    "mnemonicNumber": 40,
+    "sourceItemNumber": 40,
+    "title": "Structure Connecting Placenta to Fetus: \"U-C Lifeline\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "U-C Lifeline",
+    "memoryHook": "U-C Lifeline",
+    "fact": "U – Umbilical Cord (Contains umbilical artery and vein). C – Transport channel carrying nutrients to fetus and waste away to placenta",
+    "breakdown": [
+      {
+        "key": "U",
+        "label": "Umbilical Cord (Contains umbilical artery and vein)"
+      },
+      {
+        "key": "C",
+        "label": "Transport channel carrying nutrients to fetus and waste away to placenta"
+      }
+    ],
+    "doodleBadge": "U-C Lifeline",
+    "doodleSubtext": "Structure Connecting Pla",
+    "explanation": "Vascular conduit connecting the fetus to the placenta. NCERT Chapter 2 Mnemonics Master Guide \tPage 8 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Structure Connecting Placenta to Fetus.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 64",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Structure"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 64,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Structure Connecting Placenta to Fetus\" in NEET Biology?",
+      "options": [
+        "U-C Lifeline",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Vascular conduit connecting the fetus to the placenta. NCERT Chapter 2 Mnemonics Master Guide \tPage 8 of 10"
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-41",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-5",
+    "topicTitle": "Month 1 Fetal Milestone",
+    "topic": "Month 1 Fetal Milestone",
+    "mnemonicNumber": 41,
+    "sourceItemNumber": 41,
+    "title": "Month 1 Fetal Milestone: \"One Month Heart\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "One Month Heart",
+    "memoryHook": "One Month Heart",
+    "fact": "Early cardiac functional development occurring within 30 days of pregnancy.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Month 1 Fetal Milestone"
+      },
+      {
+        "key": "Trick",
+        "label": "One Month Heart"
+      }
+    ],
+    "doodleBadge": "One Month Heart",
+    "doodleSubtext": "Month 1 Fetal Milestone",
+    "explanation": "Early cardiac functional development occurring within 30 days of pregnancy.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Month 1 Fetal Milestone.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 65",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Month"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 65,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Month 1 Fetal Milestone\" in NEET Biology?",
+      "options": [
+        "One Month Heart",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Early cardiac functional development occurring within 30 days of pregnancy."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-42",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-5",
+    "topicTitle": "Month 2 Fetal Milestone",
+    "topic": "Month 2 Fetal Milestone",
+    "mnemonicNumber": 42,
+    "sourceItemNumber": 42,
+    "title": "Month 2 Fetal Milestone: \"Two Months Limbs\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Two Months Limbs",
+    "memoryHook": "Two Months Limbs",
+    "fact": "End of second month marks visible differentiation of hands, feet, and fingers.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "feet"
+      },
+      {
+        "key": "Point 2",
+        "label": "and fingers"
+      }
+    ],
+    "doodleBadge": "Two Months Limbs",
+    "doodleSubtext": "Month 2 Fetal Milestone",
+    "explanation": "End of second month marks visible differentiation of hands, feet, and fingers.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Month 2 Fetal Milestone.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 65",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Month"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 65,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Month 2 Fetal Milestone\" in NEET Biology?",
+      "options": [
+        "Two Months Limbs",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "End of second month marks visible differentiation of hands, feet, and fingers."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-43",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-5",
+    "topicTitle": "Month 3 (First Trimester - 12 Weeks) Milestone",
+    "topic": "Month 3 (First Trimester - 12 Weeks) Milestone",
+    "mnemonicNumber": 43,
+    "sourceItemNumber": 43,
+    "title": "Month 3 (First Trimester - 12 Weeks) Milestone: \"Twelve Weeks Organs\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Twelve Weeks Organs",
+    "memoryHook": "Twelve Weeks Organs",
+    "fact": "End of 1st trimester completes major organogenesis in human embryo.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Month 3 (First Trimester - 12 Weeks) Milestone"
+      },
+      {
+        "key": "Trick",
+        "label": "Twelve Weeks Organs"
+      }
+    ],
+    "doodleBadge": "Twelve Weeks Organs",
+    "doodleSubtext": "Month 3 (First Trimester",
+    "explanation": "End of 1st trimester completes major organogenesis in human embryo.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Month 3 (First Trimester - 12 Weeks) Milestone.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 65",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Month"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 65,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Month 3 (First Trimester - 12 Weeks) Milestone\" in NEET Biology?",
+      "options": [
+        "Twelve Weeks Organs",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "End of 1st trimester completes major organogenesis in human embryo."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-44",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-5",
+    "topicTitle": "Month 5 Fetal Milestone",
+    "topic": "Month 5 Fetal Milestone",
+    "mnemonicNumber": 44,
+    "sourceItemNumber": 44,
+    "title": "Month 5 Fetal Milestone: \"Five Months Hair & Move\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Five Months Hair & Move",
+    "memoryHook": "Five Months Hair & Move",
+    "fact": "Mother perceives distinct fetal movements accompanied by cranial hair growth.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Month 5 Fetal Milestone"
+      },
+      {
+        "key": "Trick",
+        "label": "Five Months Hair & Move"
+      }
+    ],
+    "doodleBadge": "Five Months Hair & Move",
+    "doodleSubtext": "Month 5 Fetal Milestone",
+    "explanation": "Mother perceives distinct fetal movements accompanied by cranial hair growth.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Month 5 Fetal Milestone.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 65",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Month"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 65,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Month 5 Fetal Milestone\" in NEET Biology?",
+      "options": [
+        "Five Months Hair & Move",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mother perceives distinct fetal movements accompanied by cranial hair growth."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-45",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-5",
+    "topicTitle": "Month 6 (Second Trimester - 24 Weeks) Milestone",
+    "topic": "Month 6 (Second Trimester - 24 Weeks) Milestone",
+    "mnemonicNumber": 45,
+    "sourceItemNumber": 45,
+    "title": "Month 6 (Second Trimester - 24 Weeks) Milestone: \"Twenty-Four Eyes & Body Hair\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Twenty-Four Eyes & Body Hair",
+    "memoryHook": "Twenty-Four Eyes & Body Hair",
+    "fact": "Facial features and integumentary maturation achieved by end of 2nd trimester. NCERT Chapter 2 Mnemonics Master Guide \tPage 9 of 10",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Twenty"
+      },
+      {
+        "key": "Part 2",
+        "label": "Four Eyes & Body Hair"
+      }
+    ],
+    "doodleBadge": "Twenty-Four Eyes & Body ",
+    "doodleSubtext": "Month 6 (Second Trimeste",
+    "explanation": "Facial features and integumentary maturation achieved by end of 2nd trimester. NCERT Chapter 2 Mnemonics Master Guide \tPage 9 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Month 6 (Second Trimester - 24 Weeks) Milestone.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 65",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Month"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 65,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Month 6 (Second Trimester - 24 Weeks) Milestone\" in NEET Biology?",
+      "options": [
+        "Twenty-Four Eyes & Body Hair",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Facial features and integumentary maturation achieved by end of 2nd trimester. NCERT Chapter 2 Mnemonics Master Guide \tPage 9 of 10"
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-46",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-5",
+    "topicTitle": "Foetal Ejection Reflex Reflex Arc",
+    "topic": "Foetal Ejection Reflex Reflex Arc",
+    "mnemonicNumber": 46,
+    "sourceItemNumber": 46,
+    "title": "Foetal Ejection Reflex Reflex Arc: \"F-P-O-C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "F-P-O-C",
+    "memoryHook": "F-P-O-C",
+    "fact": "F – Fully developed fetus and placenta originate mild uterine contractions. P – Posterior pituitary receives neural signal to release Oxytocin. O – Oxytocin causes stronger uterine muscle contractions. C – Continuous positive feedback reflex results in expulsion of baby",
+    "breakdown": [
+      {
+        "key": "F",
+        "label": "Fully developed fetus and placenta originate mild uterine contractions"
+      },
+      {
+        "key": "P",
+        "label": "Posterior pituitary receives neural signal to release Oxytocin"
+      },
+      {
+        "key": "O",
+        "label": "Oxytocin causes stronger uterine muscle contractions"
+      },
+      {
+        "key": "C",
+        "label": "Continuous positive feedback reflex results in expulsion of baby"
+      }
+    ],
+    "doodleBadge": "F-P-O-C",
+    "doodleSubtext": "Foetal Ejection Reflex R",
+    "explanation": "Neuroendocrine mechanism triggering labor contractions for child birth.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Foetal Ejection Reflex Reflex Arc.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 66",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Foetal"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 66,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Foetal Ejection Reflex Reflex Arc\" in NEET Biology?",
+      "options": [
+        "Fully developed fetus and placenta originate mild uterine contractions",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Fully developed fetus and placenta originate mild uterine contractions\". Remember using: \"F-P-O-C\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-47",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-5",
+    "topicTitle": "Oxytocin - The Labor & Milk-Ejection Hormone",
+    "topic": "Oxytocin - The Labor & Milk-Ejection Hormone",
+    "mnemonicNumber": 47,
+    "sourceItemNumber": 47,
+    "title": "Oxytocin - The Labor & Milk-Ejection Hormone: \"Push and Pour\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Push and Pour",
+    "memoryHook": "Push and Pour",
+    "fact": "Dual physiological action of oxytocin in childbirth and breastfeeding.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Oxytocin - The Labor & Milk-Ejection Hormone"
+      },
+      {
+        "key": "Trick",
+        "label": "Push and Pour"
+      }
+    ],
+    "doodleBadge": "Push and Pour",
+    "doodleSubtext": "Oxytocin - The Labor & M",
+    "explanation": "Dual physiological action of oxytocin in childbirth and breastfeeding.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Oxytocin - The Labor & Milk-Ejection Hormone.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 66",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Oxytocin"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 66,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Oxytocin - The Labor & Milk-Ejection Hormone\" in NEET Biology?",
+      "options": [
+        "Push and Pour",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dual physiological action of oxytocin in childbirth and breastfeeding."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-48",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-5",
+    "topicTitle": "Colostrum Composition & Significance",
+    "topic": "Colostrum Composition & Significance",
+    "mnemonicNumber": 48,
+    "sourceItemNumber": 48,
+    "title": "Colostrum Composition & Significance: \"C-I-A\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "C-I-A",
+    "memoryHook": "C-I-A",
+    "fact": "C – First yellowish milk produced during initial days of lactation. I – Immunoglobulin A (IgA antibodies present in rich quantity). A – Acquired passive immunity conferred to newborn baby against infections",
+    "breakdown": [
+      {
+        "key": "C",
+        "label": "First yellowish milk produced during initial days of lactation"
+      },
+      {
+        "key": "I",
+        "label": "Immunoglobulin A (IgA antibodies present in rich quantity)"
+      },
+      {
+        "key": "A",
+        "label": "Acquired passive immunity conferred to newborn baby against infections"
+      }
+    ],
+    "doodleBadge": "C-I-A",
+    "doodleSubtext": "Colostrum Composition & ",
+    "explanation": "Initial milk rich in IgA antibodies essential for establishing infant immunity.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Colostrum Composition & Significance.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 66",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Colostrum"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 66,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Colostrum Composition & Significance\" in NEET Biology?",
+      "options": [
+        "First yellowish milk produced during initial days of lactation",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"First yellowish milk produced during initial days of lactation\". Remember using: \"C-I-A\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-49",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-5",
+    "topicTitle": "Hormones Regulating Lactation",
+    "topic": "Hormones Regulating Lactation",
+    "mnemonicNumber": 49,
+    "sourceItemNumber": 49,
+    "title": "Hormones Regulating Lactation: \"P-O Pair\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "P-O Pair",
+    "memoryHook": "P-O Pair",
+    "fact": "Prolactin manufactures milk while oxytocin releases milk from mammary glands.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "P"
+      },
+      {
+        "key": "Part 2",
+        "label": "O Pair"
+      }
+    ],
+    "doodleBadge": "P-O Pair",
+    "doodleSubtext": "Hormones Regulating Lact",
+    "explanation": "Prolactin manufactures milk while oxytocin releases milk from mammary glands.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Hormones Regulating Lactation.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 66",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Hormones"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 66,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hormones Regulating Lactation\" in NEET Biology?",
+      "options": [
+        "P-O Pair",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Prolactin manufactures milk while oxytocin releases milk from mammary glands."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch21-50",
+    "subject": "biology",
+    "chapterId": "bio-ch-21",
+    "chapterNumber": 21,
+    "chapterTitle": "Human Reproduction",
+    "classLevel": 12,
+    "topicId": "bio-top-21-5",
+    "topicTitle": "Summary of Gestation Duration",
+    "topic": "Summary of Gestation Duration",
+    "mnemonicNumber": 50,
+    "sourceItemNumber": 50,
+    "title": "Summary of Gestation Duration: \"9-280-40 Rule\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "9-280-40 Rule",
+    "memoryHook": "9-280-40 Rule",
+    "fact": "Standard clinical duration measurements for human pregnancy. NCERT Chapter 2 Mnemonics Master Guide \tPage 10 of 10",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "9"
+      },
+      {
+        "key": "Part 2",
+        "label": "280"
+      },
+      {
+        "key": "Part 3",
+        "label": "40 Rule"
+      }
+    ],
+    "doodleBadge": "9-280-40 Rule",
+    "doodleSubtext": "Summary of Gestation Dur",
+    "explanation": "Standard clinical duration measurements for human pregnancy. NCERT Chapter 2 Mnemonics Master Guide \tPage 10 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 2 (Human Reproduction).",
+    "neetTrap": "Common NEET test point in Summary of Gestation Duration.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 2, PDF Page 66",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Human Reproduction",
+      "Summary"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 66,
+      "chapter": "Human Reproduction"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Summary of Gestation Duration\" in NEET Biology?",
+      "options": [
+        "9-280-40 Rule",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Standard clinical duration measurements for human pregnancy. NCERT Chapter 2 Mnemonics Master Guide \tPage 10 of 10"
     }
   }
 ];

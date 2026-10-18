@@ -1,154 +1,134 @@
 /**
- * Biology Chapter 19: Chemical Coordination and Integration
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 19: Chemical Coordination and Integration
+ * Class 11 Biology (30 verified mnemonics)
+ * Primary Source: NEET Biology Chapter-Wise 30 Mnemonics Master (PDF 1)
  */
 
 export const bioCh19Mnemonics = [
   {
-    "id": "mnemo-bio-08",
+    "id": "mnemo-bio-ch19-01",
     "subject": "biology",
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-1",
-    "topicTitle": "Anterior Pituitary Hormones",
-    "topic": "Adenohypophysis (Anterior Pituitary) 6 Master Hormones",
+    "topicTitle": "Definition and Modern Concept of Hormones",
+    "topic": "Definition and Modern Concept of Hormones",
     "mnemonicNumber": 1,
-    "title": "Anterior Pituitary Hormones: FLAT PIG",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
+    "title": "Definition and Modern Concept of Hormones: \"Hormones = Non-Nutrient Intercellular Messengers Produced in Trace Amounts\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "acronym",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "FLAT PIG: FSH, LH, ACTH, TSH, Prolactin, (i), GH",
-    "memoryHook": "The 6 master hormones released by the Anterior Pituitary gland: FSH, LH, ACTH, TSH, Prolactin, and Growth Hormone (GH)!",
-    "fact": "Anterior pituitary (Adenohypophysis / Pars Distalis) secretes: 1. FSH 2. LH 3. ACTH 4. TSH 5. Prolactin (PRL) 6. Growth Hormone (GH). Posterior pituitary (Neurohypophysis / Pars Nervosa) stores and releases Oxytocin and Vasopressin (ADH) synthesized by the Hypothalamus.",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Hormones = Non-Nutrient Intercellular Messengers Produced in Trace Amounts",
+    "memoryHook": "Hormones = Non-Nutrient Intercellular Messengers Produced in Trace Amounts",
+    "fact": "Traditional definition: Chemicals produced by endocrine glands poured directly into blood. Modern definition: Non-nutrient chemicals acting as intercellular messengers produced in trace amounts. Scope: Includes hormones secreted by organized endocrine glands as well as non-endocrine tissues (heart, kidney, GI tract)",
     "breakdown": [
       {
-        "key": "F - FSH",
-        "label": "Follicle Stimulating Hormone (Gametogenesis in testes/ovaries)"
+        "key": "Traditional definition",
+        "label": "Chemicals produced by endocrine glands poured directly into blood"
       },
       {
-        "key": "L - LH",
-        "label": "Luteinizing Hormone (Ovulation, corpus luteum, and androgen secretion)"
+        "key": "Modern definition",
+        "label": "Non-nutrient chemicals acting as intercellular messengers produced in trace amounts"
       },
       {
-        "key": "A - ACTH",
-        "label": "Adrenocorticotropic Hormone (Stimulates adrenal cortex glucocorticoids)"
-      },
-      {
-        "key": "T - TSH",
-        "label": "Thyroid Stimulating Hormone (Stimulates thyroid hormone synthesis)"
-      },
-      {
-        "key": "P - Prolactin (PRL)",
-        "label": "Milk synthesis and mammary gland development after childbirth"
-      },
-      {
-        "key": "G - GH",
-        "label": "Growth Hormone / Somatotropin (Body growth, elongation of bones)"
+        "key": "Scope",
+        "label": "Includes hormones secreted by organized endocrine glands as well as non-endocrine tissues (heart, kidney, GI tract)"
       }
     ],
-    "doodleBadge": "FLAT PIG",
-    "doodleSubtext": "Anterior Pituitary 6",
-    "explanation": "Posterior pituitary (Neurohypophysis) does NOT synthesize hormones! It only stores and releases Oxytocin and Vasopressin (ADH) made by the Hypothalamus.",
-    "alsoRemember": "Pars intermedia secretes only one hormone: Melanocyte Stimulating Hormone (MSH). In humans, pars intermedia is almost merged with pars distalis.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 22, Section 22.2.2.",
-    "neetTrap": "Oxytocin and Vasopressin are synthesized by the HYPOTHALAMUS, not the posterior pituitary.",
+    "doodleBadge": "Hormones = Non-Nutrient ",
+    "doodleSubtext": "Definition and Modern Co",
+    "explanation": "Evolution of hormone definition incorporating local and systemic non-endocrine signaling molecules.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Definition and Modern Concept of Hormones.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.8",
     "tags": [
-      "Endocrine",
-      "Pituitary",
-      "Hormones",
+      "NEET Biology",
       "Class 11",
-      "Adenohypophysis"
+      "Chemical Coordination and Integration",
+      "Definition"
     ],
-    "expandedMeaning": "Trophic hormonal array of the human adenohypophyseal master endocrine gland.",
-    "whyItWorks": "Classic acronym FLAT PIG covers all 6 trophic hormones directly.",
-    "visualDescription": "Anterior pituitary lobe releasing 6 colored arrows labeled FSH, LH, ACTH, TSH, Prolactin, GH.",
-    "neetRelevance": "One of the most foundational endocrinology questions.",
-    "commonMistake": "Thinking oxytocin is synthesized in the anterior pituitary.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 8,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following hormones is synthesized by the hypothalamus and stored in the posterior pituitary?",
+      "question": "Which of the following is associated with \"Definition and Modern Concept of Hormones\" in NEET Biology?",
       "options": [
-        "Thyroid Stimulating Hormone (TSH)",
-        "Growth Hormone (GH)",
-        "Oxytocin",
-        "Prolactin"
+        "Chemicals produced by endocrine glands poured directly into blood",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Oxytocin and ADH (Vasopressin) are produced in the hypothalamus and transported to the posterior pituitary for storage and release."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Chemicals produced by endocrine glands poured directly into blood\". Remember using: \"Hormones = Non-Nutrient Intercellular Messengers Produced in Trace Amounts\"."
     }
   },
   {
-    "id": "mnemo-bio-09",
+    "id": "mnemo-bio-ch19-02",
     "subject": "biology",
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
-    "topicId": "bio-top-19-2",
-    "topicTitle": "Adrenal Cortex Layers",
-    "topic": "Adrenal Cortex 3 Zones: Glomerulosa, Fasciculata, Reticularis",
+    "classLevel": 11,
+    "topicId": "bio-top-19-1",
+    "topicTitle": "Major Endocrine Glands in Human Body",
+    "topic": "Major Endocrine Glands in Human Body",
     "mnemonicNumber": 2,
-    "title": "Adrenal Cortex: GFR (Salt, Sugar, Sex)",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
+    "title": "Major Endocrine Glands in Human Body: \"HPTP TAG O P Adrenal - Hypothalamus, Pituitary, Pineal, Thyroid, Thymus, Adrenal, Gonads, Pancreas\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "GFR = Glomerulosa, Fasciculata, Reticularis (Salt -> Sugar -> Sex)",
-    "memoryHook": "Layers from Outside to Inside: G -> F -> R. Hormones they make: Salt (Aldosterone) -> Sugar (Cortisol) -> Sex (Androgens)!",
-    "fact": "Adrenal cortex consists of 3 layers from outside to inside: 1) Zona Glomerulosa (outer) makes Mineralocorticoids like Aldosterone (Salt/Na+ balance), 2) Zona Fasciculata (middle, thickest) makes Glucocorticoids like Cortisol (Sugar/glucose metabolism & anti-inflammatory), 3) Zona Reticularis (inner) makes small amounts of Androgenic Sex steroids.",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "HPTP TAG O P Adrenal - Hypothalamus, Pituitary, Pineal, Thyroid, Thymus, Adrenal, Gonads, Pancreas",
+    "memoryHook": "HPTP TAG O P Adrenal - Hypothalamus, Pituitary, Pineal, Thyroid, Thymus, Adrenal, Gonads, Pancreas",
+    "fact": "Hypothalamus, Pituitary, Pineal, Thyroid, Parathyroid, Thymus, Adrenal gland. Pancreas (Islets of Langerhans) and Gonads (Testis in males, Ovary in females). Scattered endocrine cells also present in gastric, duodenal, renal, and cardiac tissues",
     "breakdown": [
       {
-        "key": "G - Glomerulosa (Outer)",
-        "label": "Salt: Aldosterone (Mineralocorticoids: Na+ and water retention)"
+        "key": "Focus",
+        "label": "Major Endocrine Glands in Human Body"
       },
       {
-        "key": "F - Fasciculata (Middle)",
-        "label": "Sugar: Cortisol (Glucocorticoids: Gluconeogenesis, anti-inflammatory, immunosuppressive)"
-      },
-      {
-        "key": "R - Reticularis (Inner)",
-        "label": "Sex: Androgens (DHEA: axial hair, pubic hair, and facial hair development)"
+        "key": "Trick",
+        "label": "HPTP TAG O P Adrenal - Hypothalamus, Pituitary, Pineal, Thyroid, Thymus, Adrenal, Gonads, Pancreas"
       }
     ],
-    "doodleBadge": "G -> F -> R\nSalt -> Sugar -> Sex",
-    "doodleSubtext": "Outer to Inner",
-    "explanation": "The adrenal cortex sits like a cap on top of each kidney. Just remember kidney filtration rate is GFR, and the cortex layers are also G-F-R!",
-    "alsoRemember": "The central core is Adrenal Medulla, which releases Adrenaline and Noradrenaline (emergency fight-or-flight hormones).",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 22, Section 22.2.6.",
-    "neetTrap": "G-F-R order is OUTSIDE to INSIDE. If the question asks inside to outside, flip it to R-F-G.",
+    "doodleBadge": "HPTP TAG O P Adrenal - H",
+    "doodleSubtext": "Major Endocrine Glands i",
+    "explanation": "Comprehensive anatomical checklist of primary ductless endocrine glands in humans.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Major Endocrine Glands in Human Body.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.8",
     "tags": [
-      "Endocrine",
-      "Adrenal Cortex",
-      "Hormones",
+      "NEET Biology",
       "Class 11",
-      "Aldosterone",
-      "Cortisol"
+      "Chemical Coordination and Integration",
+      "Major"
     ],
-    "expandedMeaning": "Zonal histological stratigraphy and steroid hormone secretion profile of the adrenal cortex.",
-    "whyItWorks": "GFR acronym links to Salt, Sugar, Sex functional triad.",
-    "visualDescription": "Concentric adrenal shell cross section showing outer G (Salt), middle F (Sugar), inner R (Sex), surrounding central Medulla.",
-    "neetRelevance": "Repeatedly tested in zonal ordering and hormone matching.",
-    "commonMistake": "Reversing the inside-to-outside sequence.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 8,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which layer of the adrenal cortex secretes aldosterone (mineralocorticoids)?",
+      "question": "Which of the following is associated with \"Major Endocrine Glands in Human Body\" in NEET Biology?",
       "options": [
-        "Zona Reticularis",
-        "Zona Glomerulosa",
-        "Zona Fasciculata",
-        "Adrenal Medulla"
+        "Hypothalamus, Pituitary, Pineal, Thyroid, Parathyroid, Thymus, Adrenal gland",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The outermost layer, Zona Glomerulosa (G in GFR), secretes mineralocorticoids like aldosterone to regulate salt."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Hypothalamus, Pituitary, Pineal, Thyroid, Parathyroid, Thymus, Adrenal gland\". Remember using: \"HPTP TAG O P Adrenal - Hypothalamus, Pituitary, Pineal, Thyroid, Thymus, Adrenal, Gonads, Pancreas\"."
     }
   },
   {
@@ -157,70 +137,63 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-1",
-    "topicTitle": "Posterior Pituitary Hormones",
-    "topic": "Oxytocin (Parturition & Milk Ejection) vs Vasopressin / ADH (Anti-diuresis)",
+    "topicTitle": "Hypothalamus Regulatory Hormones",
+    "topic": "Hypothalamus Regulatory Hormones",
     "mnemonicNumber": 3,
-    "title": "Posterior Pituitary: Oxytocin (Birth Contractions + Milk Ejection) & Vasopressin / ADH (Water Reabsorption)",
-    "badgeText": "Memory Trick",
+    "title": "Hypothalamus Regulatory Hormones: \"Releasing Hormones Stimulate, Inhibiting Hormones Stop (e.g., Somatostatin)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Oxytocin = \"Love / Birth / Milk Ejection Hormone\" (Strong uterine contractions for childbirth + milk let-down ejection) | Vasopressin / ADH = Water-saving hormone (inserts aquaporins in DCT/CD to prevent diuresis)!",
-    "memoryHook": "Prolactin MAKES the milk in the kitchen (synthesis); Oxytocin SERVES the milk at the table (milk ejection reflex)! Oxytocin also squeezes the uterus during baby delivery!",
-    "fact": "Neurohypophysis (Pars Nervosa / Posterior Pituitary) stores and releases two hormones synthesized in the supraoptic and paraventricular nuclei of the Hypothalamus: 1) Oxytocin: Acts on smooth muscles, stimulating vigorous contraction of the uterus at the time of childbirth (parturition) and milk ejection from mammary glands. 2) Vasopressin / ADH: Acts mainly at kidney DCT/Collecting Duct, stimulating resorption of water and electrolytes, preventing diuresis.",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Releasing Hormones Stimulate, Inhibiting Hormones Stop (e.g., Somatostatin)",
+    "memoryHook": "Releasing Hormones Stimulate, Inhibiting Hormones Stop (e.g., Somatostatin)",
+    "fact": "Releasing Hormones (RH): Stimulate secretion of pituitary hormones (e.g., GnRH stimulates gonadotrophins). Inhibiting Hormones (IH): Inhibit secretion of pituitary hormones (e.g., Somatostatin inhibits growth hormone). Portal System: Hypothalamic hormones reach anterior pituitary via hypophyseal portal system",
     "breakdown": [
       {
-        "key": "Synthesis Site",
-        "label": "Synthesized in Hypothalamus, transported axonally to Posterior Pituitary"
+        "key": "Releasing Hormones (RH)",
+        "label": "Stimulate secretion of pituitary hormones (e.g., GnRH stimulates gonadotrophins)"
       },
       {
-        "key": "Oxytocin (Parturition)",
-        "label": "Uterine smooth muscle contraction during labor (positive feedback loop)"
+        "key": "Inhibiting Hormones (IH)",
+        "label": "Inhibit secretion of pituitary hormones (e.g., Somatostatin inhibits growth hormone)"
       },
       {
-        "key": "Oxytocin (Milk Let-Down)",
-        "label": "Contracts myoepithelial cells for milk ejection (Prolactin synthesizes milk)"
-      },
-      {
-        "key": "Vasopressin (ADH)",
-        "label": "Prevents water loss in urine; deficiency causes Diabetes Insipidus"
+        "key": "Portal System",
+        "label": "Hypothalamic hormones reach anterior pituitary via hypophyseal portal system"
       }
     ],
-    "doodleBadge": "Prolactin = Synthesizes Milk\nOxytocin = Ejects Milk",
-    "doodleSubtext": "Posterior Hormones",
-    "explanation": "Pitocin is synthetic oxytocin administered to pregnant mothers to induce labor and strengthen uterine contractions.",
-    "alsoRemember": "Oxytocin release operates via a positive neuroendocrine feedback reflex (Ferguson reflex).",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.2.",
-    "neetTrap": "Prolactin synthesizes milk; OXYTOCIN causes milk ejection (milk let-down reflex).",
+    "doodleBadge": "Releasing Hormones Stimu",
+    "doodleSubtext": "Hypothalamus Regulatory ",
+    "explanation": "Dual control mechanism exercised by hypothalamic neurosecretory nuclei over anterior pituitary.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Hypothalamus Regulatory Hormones.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.8",
     "tags": [
-      "Oxytocin",
-      "Vasopressin",
-      "Prolactin",
-      "Milk Ejection",
-      "Parturition",
-      "Posterior Pituitary"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Hypothalamus"
     ],
-    "expandedMeaning": "Physiological actions of the nonapeptide hormones stored in the pars nervosa.",
-    "whyItWorks": "Clear pairing: Prolactin (Producer) vs Oxytocin (Out-pourer / Ejector).",
-    "visualDescription": "Breast diagram showing Prolactin alveolus filling with milk, followed by Oxytocin squeezing myoepithelial basket to eject milk.",
-    "neetRelevance": "One of the most common confusion questions in NEET.",
-    "commonMistake": "Claiming oxytocin synthesizes milk.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 8,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which hormone is directly responsible for milk ejection (milk let-down reflex) from the mammary glands after childbirth?",
+      "question": "Which of the following is associated with \"Hypothalamus Regulatory Hormones\" in NEET Biology?",
       "options": [
-        "Prolactin",
-        "Oxytocin",
-        "Estrogen",
-        "Progesterone"
+        "Releasing Hormones (RH): Stimulate secretion of pituitary hormones (e.g., GnRH s",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Oxytocin stimulates contraction of myoepithelial cells around mammary alveoli, causing milk ejection."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Releasing Hormones (RH): Stimulate secretion of pituitary hormones (e.g., GnRH stimulates gonadotrophins)\". Remember using: \"Releasing Hormones Stimulate, Inhibiting Hormones Stop (e.g., Somatostatin)\"."
     }
   },
   {
@@ -229,69 +202,59 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-1",
-    "topicTitle": "Pineal Gland & Melatonin",
-    "topic": "Melatonin and 24-Hour Diurnal Sleep-Wake Rhythm",
+    "topicTitle": "Pituitary Gland Anatomy (Adenohypophysis vs Neurohypophysis)",
+    "topic": "Pituitary Gland Anatomy (Adenohypophysis vs Neurohypophysis)",
     "mnemonicNumber": 4,
-    "title": "Pineal Gland: Melatonin (24-Hour Circadian Biological Clock, Sleep-Wake Cycle & Body Temperature)",
-    "badgeText": "Memory Trick",
+    "title": "Pituitary Gland Anatomy (Adenohypophysis vs Neurohypophysis): \"Adenohypophysis = Pars Distalis + Pars Intermedia; Neurohypophysis = Pars Nervosa\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "concept",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Pineal Gland (Dorsal Forebrain) -> Melatonin = Master Sleep Hormone (Secreted in Darkness) -> Regulates 24-Hour Diurnal Rhythm + Body Temperature + Menstrual Cycle + Pigmentation + Defense Capability!",
-    "memoryHook": "Melatonin is the Vampire Hormone! It rises in dark night to put you to sleep and resets your 24-hour biological clock, body temperature, and immunity!",
-    "fact": "The Pineal Gland is located on the dorsal side of forebrain. It secretes a hormone called Melatonin. Melatonin plays a central role in the regulation of a 24-hour (diurnal) rhythm of our body: maintain normal sleep-wake cycle, body temperature, and also influences metabolism, skin pigmentation, menstrual cycle, as well as our defense capability (immunity).",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Adenohypophysis = Pars Distalis + Pars Intermedia; Neurohypophysis = Pars Nervosa",
+    "memoryHook": "Adenohypophysis = Pars Distalis + Pars Intermedia; Neurohypophysis = Pars Nervosa",
+    "fact": "Adenohypophysis (Anterior Pituitary): Divided into pars distalis and pars intermedia. Neurohypophysis (Posterior Pituitary): Known as pars nervosa; stores and releases oxytocin and vasopressin",
     "breakdown": [
       {
-        "key": "Location",
-        "label": "Dorsal side of forebrain (epithalamus)"
+        "key": "Point 1",
+        "label": "Embryological"
       },
       {
-        "key": "Hormone",
-        "label": "Melatonin (derived from amino acid Tryptophan)"
-      },
-      {
-        "key": "Primary Role",
-        "label": "Maintains 24-hour diurnal rhythm (sleep-wake cycle and body temperature)"
-      },
-      {
-        "key": "Secondary Roles",
-        "label": "Regulates metabolism, skin pigmentation, menstrual cycle, and immune defense"
+        "key": "Point 2",
+        "label": "posterior lobes"
       }
     ],
-    "doodleBadge": "Melatonin = 24-Hour Sleep-Wake Clock",
-    "doodleSubtext": "Pineal Master Timer",
-    "explanation": "Light exposure suppresses melatonin secretion; darkness stimulates pineal gland to release melatonin, inducing sleepiness.",
-    "alsoRemember": "MSH (Melanocyte Stimulating Hormone) from pars intermedia also affects skin pigmentation, while Melatonin lightens skin.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.3.",
-    "neetTrap": "Melatonin regulates the 24-hour CIRCADIAN / DIURNAL rhythm and body temperature (not insulin or adrenaline).",
+    "doodleBadge": "Adenohypophysis = Pars D",
+    "doodleSubtext": "Pituitary Gland Anatomy ",
+    "explanation": "Embryological and structural division of the pituitary gland into anterior and posterior lobes.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Pituitary Gland Anatomy (Adenohypophysis vs Neurohypophysis).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.8",
     "tags": [
-      "Pineal Gland",
-      "Melatonin",
-      "Circadian Rhythm",
-      "Sleep-Wake Cycle",
-      "Forebrain"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Pituitary"
     ],
-    "expandedMeaning": "Chronobiological neuroendocrine regulation mediated by the epiphyseal pineal gland.",
-    "whyItWorks": "Pineal = Pillow timer / Melatonin sleep rhythm anchor.",
-    "visualDescription": "Brain epithalamus showing tiny pineal pea emitting starry night waves labeled Melatonin over a 24-hour clock face.",
-    "neetRelevance": "Standard NCERT direct question on diurnal rhythm regulation.",
-    "commonMistake": "Confusing Melatonin (pineal sleep hormone) with Melanin (skin pigment).",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 8,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which hormone secreted by the pineal gland plays a central role in regulating the 24-hour diurnal sleep-wake cycle and body temperature?",
+      "question": "Identify the key feature of Pituitary Gland Anatomy (Adenohypophysis vs Neurohypophysis):",
       "options": [
-        "Melatonin",
-        "Thyroxine",
-        "Prolactin",
-        "Melanocyte Stimulating Hormone (MSH)"
+        "Adenohypophysis = Pars Distalis + Pars Intermedia; Neurohypophysis = Pars Nervosa",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
       "answerIndex": 0,
-      "explanation": "Melatonin from the pineal gland regulates the 24-hour circadian rhythm (sleep-wake cycle) and body temperature."
+      "explanation": "Embryological and structural division of the pituitary gland into anterior and posterior lobes."
     }
   },
   {
@@ -300,72 +263,59 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-1",
-    "topicTitle": "Thyroid Hormones: T3, T4 and Calcitonin (TCT)",
-    "topic": "BMR Regulation and Hypocalcemic Calcitonin Action",
+    "topicTitle": "Anterior Pituitary Hormones (Pars Distalis)",
+    "topic": "Anterior Pituitary Hormones (Pars Distalis)",
     "mnemonicNumber": 5,
-    "title": "Thyroid: T3 & T4 (BMR + RBC Formation + Iodine) & TCT (Thyrocalcitonin = LOWERS Blood Calcium / Bone In)",
-    "badgeText": "Comparison",
+    "title": "Anterior Pituitary Hormones (Pars Distalis): \"FLAT PEG - FSH, LH, ACTH, TSH, Prolactin, Endorphins/MSH, GH\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
+    "difficulty": "hard",
+    "visualType": "sequence",
     "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Follicular Cells make T3 + T4 (Requires Iodine -> Controls Basal Metabolic Rate / BMR & RBC synthesis) | Parafollicular / C-cells make TCT (Thyrocalcitonin = Hypocalcemic -> Puts Calcium INTO bones -> Lowers Blood Ca2+)!",
-    "memoryHook": "Calci-TONE-in tones DOWN blood calcium levels! TCT puts calcium into bone bank. PTH does the exact opposite!",
-    "fact": "Thyroid gland has two lobes connected by an isthmus. Follicles secrete Thyroxine (T4) and Triiodothyronine (T3) containing iodine. T3/T4 regulate Basal Metabolic Rate (BMR), support RBC formation (erythropoiesis), control metabolism of carbohydrates, proteins, fats, and water-electrolyte balance. Parafollicular C-cells secrete Thyrocalcitonin (TCT), a peptide hormone which is Hypocalcemic (decreases blood Ca²⁺ levels by inhibiting osteoclasts).",
+    "badgeColor": "#243044",
+    "mnemonic": "FLAT PEG - FSH, LH, ACTH, TSH, Prolactin, Endorphins/MSH, GH",
+    "memoryHook": "FLAT PEG - FSH, LH, ACTH, TSH, Prolactin, Endorphins/MSH, GH",
+    "fact": "TSH (Thyroid Stimulating Hormone), ACTH (Adrenocorticotropic Hormone). LH (Luteinizing Hormone), FSH (Follicle Stimulating Hormone). Prolactin (PRL) and Growth Hormone (GH). Pars Intermedia secretes Melanocyte Stimulating Hormone (MSH) in humans (merged with pars distalis)",
     "breakdown": [
       {
-        "key": "T3 & T4 (Thyroid Hormones)",
-        "label": "Synthesized by follicular cells; require Iodine; regulate BMR, RBC production, mental development"
+        "key": "Focus",
+        "label": "Anterior Pituitary Hormones (Pars Distalis)"
       },
       {
-        "key": "Thyrocalcitonin (TCT)",
-        "label": "Peptide hormone from C-cells; Hypocalcemic (lowers blood Ca²⁺ by depositing into bone)"
-      },
-      {
-        "key": "Isthmus",
-        "label": "Thin flap of connective tissue interconnecting the two lateral thyroid lobes"
-      },
-      {
-        "key": "Iodine Deficiency",
-        "label": "Causes Hypothyroidism and enlargement of thyroid gland (Simple Goitre)"
+        "key": "Trick",
+        "label": "FLAT PEG - FSH, LH, ACTH, TSH, Prolactin, Endorphins/MSH, GH"
       }
     ],
-    "doodleBadge": "T3/T4 = BMR & Metabolism\nTCT = Lowers Blood Ca2+",
-    "doodleSubtext": "Thyroid Dual Role",
-    "explanation": "Thyroid hormone is essential for amphibian metamorphosis; tadpoles in iodine-deficient water fail to metamorphose into adult frogs.",
-    "alsoRemember": "T3 (Triiodothyronine) is ~4 times more potent and faster acting than T4 (Thyroxine).",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.4.",
-    "neetTrap": "Thyrocalcitonin (TCT) is HYPOCALCEMIC (lowers blood calcium), whereas Parathyroid hormone (PTH) is HYPERCALCEMIC (raises blood calcium).",
+    "doodleBadge": "FLAT PEG - FSH, LH, ACTH",
+    "doodleSubtext": "Anterior Pituitary Hormo",
+    "explanation": "Classic mnemonic for memorizing all six major anterior pituitary trophic hormones.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Anterior Pituitary Hormones (Pars Distalis).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.8",
     "tags": [
-      "Thyroid",
-      "Thyroxine",
-      "T3",
-      "T4",
-      "Calcitonin",
-      "TCT",
-      "BMR",
-      "Goitre"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Anterior"
     ],
-    "expandedMeaning": "Thyrocytic metabolic regulation and calcitonin-mediated calcium homeostatic deposition.",
-    "whyItWorks": "Calcitonin \"tones down\" blood calcium.",
-    "visualDescription": "Butterfly thyroid gland with yellow follicles making metabolic T3/T4 and green C-cells shooting TCT arrows depositing Ca2+ into bone.",
-    "neetRelevance": "One of the most frequently asked endocrine hormone antagonism topics.",
-    "commonMistake": "Claiming calcitonin raises blood calcium levels.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 8,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which thyroid hormone is a peptide hormone that lowers blood calcium levels (hypocalcemic)?",
+      "question": "Which of the following is associated with \"Anterior Pituitary Hormones (Pars Distalis)\" in NEET Biology?",
       "options": [
-        "Thyroxine (T4)",
-        "Triiodothyronine (T3)",
-        "Thyrocalcitonin (TCT)",
-        "Thyrotropin (TSH)"
+        "TSH (Thyroid Stimulating Hormone), ACTH (Adrenocorticotropic Hormone)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Thyrocalcitonin (TCT) is a hypocalcemic peptide hormone secreted by thyroid C-cells that decreases blood Ca²⁺ levels."
+      "answerIndex": 0,
+      "explanation": "Correct: \"TSH (Thyroid Stimulating Hormone), ACTH (Adrenocorticotropic Hormone)\". Remember using: \"FLAT PEG - FSH, LH, ACTH, TSH, Prolactin, Endorphins/MSH, GH\"."
     }
   },
   {
@@ -374,74 +324,63 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-1",
-    "topicTitle": "Parathyroid Hormone (PTH) Actions",
-    "topic": "Hypercalcemic Hormone: Bone Resorption, Renal and Intestinal Ca2+ Uptake",
+    "topicTitle": "Growth Hormone (GH) Hypo & Hypersecretion Disorders",
+    "topic": "Growth Hormone (GH) Hypo & Hypersecretion Disorders",
     "mnemonicNumber": 6,
-    "title": "Parathyroid Hormone (PTH): Hypercalcemic (Increases Blood Ca2+ by Bone Resorption, Kidney Reabsorption & Gut Absorption)",
-    "badgeText": "Memory Trick",
+    "title": "Growth Hormone (GH) Hypo & Hypersecretion Disorders: \"Dwarfism = Low GH Children, Gigantism = High GH Children, Acromegaly = High GH Adults\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
     "badgeColor": "#3DBE75",
-    "mnemonic": "PTH (Parathormone / Collip Hormone) = Hypercalcemic (Pumps Blood Ca2+ UP!) by 3 ways: 1) Bone Resorption (Osteoclasts dissolve bone), 2) Renal Reabsorption of Ca2+ in tubules, 3) Gut Absorption of Ca2+ from digested food with Vitamin D!",
-    "memoryHook": "PTH PULLS calcium out of bones, kidneys, and food into the bloodstream! PTH and Calcitonin form an antagonistic tug-of-war to keep blood Ca2+ steady at 10 mg/dL!",
-    "fact": "Four parathyroid glands are present on the back side of the thyroid gland. They secrete a peptide hormone called Parathyroid Hormone (PTH) / Parathormone. PTH increases Ca²⁺ levels in blood (Hypercalcemic hormone): 1) Stimulates bone resorption (demineralization / osteoclast activity), 2) Stimulates reabsorption of Ca²⁺ by renal tubules, 3) Increases Ca²⁺ absorption from digested food in intestine. Along with TCT, PTH plays a significant role in calcium balance in the body.",
+    "mnemonic": "Dwarfism = Low GH Children, Gigantism = High GH Children, Acromegaly = High GH Adults",
+    "memoryHook": "Dwarfism = Low GH Children, Gigantism = High GH Children, Acromegaly = High GH Adults",
+    "fact": "Dwarfism: Stunted growth due to hyposecretion of GH during childhood. Gigantism: Abnormal overgrowth due to hypersecretion of GH during childhood. Acromegaly: Disproportionate facial/limb enlargement due to GH hypersecretion in adults",
     "breakdown": [
       {
-        "key": "Number & Location",
-        "label": "4 glands embedded on the posterior surface of the two thyroid lobes (one pair per lobe)"
+        "key": "Dwarfism",
+        "label": "Stunted growth due to hyposecretion of GH during childhood"
       },
       {
-        "key": "Primary Nature",
-        "label": "Peptide hormone; Hypercalcemic (increases blood Ca²⁺ levels)"
+        "key": "Gigantism",
+        "label": "Abnormal overgrowth due to hypersecretion of GH during childhood"
       },
       {
-        "key": "Target 1: Bone",
-        "label": "Stimulates osteoclast dissolution and demineralization of bone matrix"
-      },
-      {
-        "key": "Target 2: Kidney",
-        "label": "Increases tubular reabsorption of Ca²⁺ and excretion of phosphate (phosphaturic)"
-      },
-      {
-        "key": "Target 3: Gut",
-        "label": "Enhances intestinal absorption of Ca²⁺ (via activation of Vitamin D3 / Calcitriol)"
+        "key": "Acromegaly",
+        "label": "Disproportionate facial/limb enlargement due to GH hypersecretion in adults"
       }
     ],
-    "doodleBadge": "PTH = Raises Blood Ca2+ (Bone -> Blood)\nTCT = Lowers Blood Ca2+ (Blood -> Bone)",
-    "doodleSubtext": "Calcium Antagonists",
-    "explanation": "Surgical removal of parathyroid glands leads to a drop in blood calcium (hypocalcemia), causing sustained muscle twitches and fatal tetany.",
-    "alsoRemember": "PTH is phosphaturic, meaning it decreases blood phosphate levels by increasing urinary phosphate excretion.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.5.",
-    "neetTrap": "PTH and TCT are ANTAGONISTIC hormones regulating blood calcium homeostasis.",
+    "doodleBadge": "Dwarfism = Low GH Childr",
+    "doodleSubtext": "Growth Hormone (GH) Hypo",
+    "explanation": "Pathological consequences of growth hormone imbalance across different age stages. Chapter 19: Chemical Coordination and Integration (30 Mnemonics) \tPage 1",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Growth Hormone (GH) Hypo & Hypersecretion Disorders.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.8",
     "tags": [
-      "Parathyroid",
-      "PTH",
-      "Hypercalcemic",
-      "Bone Resorption",
-      "Calcium Homeostasis",
-      "Tetany"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Growth"
     ],
-    "expandedMeaning": "Systemic hypercalcemic osteolytic and renal transport dynamics of parathyroid hormone.",
-    "whyItWorks": "Hypercalcemic triad: Bone out + Kidney back + Gut in = High Blood Calcium.",
-    "visualDescription": "Bone releasing Ca2+ sparks into bloodstream under gold PTH arrow, with kidney and gut channels also pumping Ca2+ into blood.",
-    "neetRelevance": "One of the most heavily tested endocrine mechanisms in NEET.",
-    "commonMistake": "Believing PTH deposits calcium into bone (it withdraws calcium from bone).",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 8,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Parathyroid hormone (PTH) increases blood calcium levels through all of the following mechanisms EXCEPT:",
+      "question": "Which of the following is associated with \"Growth Hormone (GH) Hypo & Hypersecretion Disorders\" in NEET Biology?",
       "options": [
-        "Stimulating bone resorption (demineralization)",
-        "Increasing Ca2+ reabsorption by renal tubules",
-        "Increasing Ca2+ absorption from digested food",
-        "Inhibiting osteoclast activity in bone matrix"
+        "Stunted growth due to hyposecretion of GH during childhood",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 3,
-      "explanation": "PTH stimulates osteoclast activity to release calcium from bone into the blood; it does NOT inhibit osteoclasts."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Stunted growth due to hyposecretion of GH during childhood\". Remember using: \"Dwarfism = Low GH Children, Gigantism = High GH Children, Acromegaly = High GH Adults\"."
     }
   },
   {
@@ -450,71 +389,63 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
-    "topicId": "bio-top-19-2",
-    "topicTitle": "Pancreas: Insulin vs Glucagon",
-    "topic": "Alpha Cells (Glucagon / Hyperglycemic) vs Beta Cells (Insulin / Hypoglycemic)",
+    "classLevel": 11,
+    "topicId": "bio-top-19-1",
+    "topicTitle": "Prolactin, TSH, and ACTH Functions",
+    "topic": "Prolactin, TSH, and ACTH Functions",
     "mnemonicNumber": 7,
-    "title": "Pancreas: Beta Cells -> Insulin (Hypoglycemic / Glucose to Glycogen / GLUT-4) vs Alpha Cells -> Glucagon (Hyperglycemic / Glycogen to Glucose)",
-    "badgeText": "Comparison",
+    "title": "Prolactin, TSH, and ACTH Functions: \"Prolactin = Milk Production, TSH = Thyroid Stimulator, ACTH = Adrenal Cortex Stimulator\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Alpha (A) = Glucagon (Increases blood glucose / Hyperglycemic) | Beta (B) = Insulin (Decreases blood glucose / Hypoglycemic -> pushes glucose IN to cells via GLUT-4 & stores as Glycogen)!",
-    "memoryHook": "Glucagon makes Glucose GONE from liver into blood (Hyperglycemia)! Insulin packs glucose IN to muscle and fat cells like an internal storage keeper (Hypoglycemia)!",
-    "fact": "Islets of Langerhans (1-2 million, 1-2% of pancreatic tissue) contain two main cell types: 1) Alpha cells (α-cells): Secrete Glucagon, a peptide hormone that stimulates Glycogenolysis (breakdown of glycogen to glucose) and Gluconeogenesis in hepatocytes, acting as a Hyperglycemic hormone. 2) Beta cells (β-cells): Secrete Insulin, a peptide hormone that enhances cellular glucose uptake and utilization (via GLUT-4 in hepatocytes and adipocytes) and stimulates Glycogenesis (glucose to glycogen), acting as a Hypoglycemic hormone.",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Prolactin = Milk Production, TSH = Thyroid Stimulator, ACTH = Adrenal Cortex Stimulator",
+    "memoryHook": "Prolactin = Milk Production, TSH = Thyroid Stimulator, ACTH = Adrenal Cortex Stimulator",
+    "fact": "Prolactin: Regulates growth of mammary glands and formation of milk in females. TSH: Stimulates synthesis and secretion of thyroid hormones from thyroid gland. ACTH: Stimulates synthesis and secretion of glucocorticoid hormones from adrenal cortex",
     "breakdown": [
       {
-        "key": "Alpha Cells (Glucagon)",
-        "label": "Hyperglycemic peptide; stimulates glycogenolysis & gluconeogenesis; reduces cellular glucose uptake"
+        "key": "Prolactin",
+        "label": "Regulates growth of mammary glands and formation of milk in females"
       },
       {
-        "key": "Beta Cells (Insulin)",
-        "label": "Hypoglycemic peptide; stimulates GLUT-4 cellular uptake, glycogenesis, and lipogenesis"
+        "key": "TSH",
+        "label": "Stimulates synthesis and secretion of thyroid hormones from thyroid gland"
       },
       {
-        "key": "Target Cells",
-        "label": "Hepatocytes (liver) and Adipocytes (adipose tissue)"
-      },
-      {
-        "key": "Diabetes Mellitus",
-        "label": "Prolonged hyperglycemia from insulin deficiency/resistance; leads to Glycosuria & Ketone bodies"
+        "key": "ACTH",
+        "label": "Stimulates synthesis and secretion of glucocorticoid hormones from adrenal cortex"
       }
     ],
-    "doodleBadge": "Beta = Insulin (Lowers Sugar)\nAlpha = Glucagon (Raises Sugar)",
-    "doodleSubtext": "Pancreatic Balance",
-    "explanation": "Insulin stimulates the translocation of GLUT-4 glucose transporters to the plasma membrane of skeletal muscle and adipose tissue.",
-    "alsoRemember": "Delta cells (δ-cells) secrete Somatostatin which inhibits secretion of both insulin and glucagon.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.7.",
-    "neetTrap": "Insulin promotes GLYCOGENESIS (glycogen synthesis), while Glucagon promotes GLYCOGENOLYSIS (glycogen breakdown).",
+    "doodleBadge": "Prolactin = Milk Product",
+    "doodleSubtext": "Prolactin, TSH, and ACTH",
+    "explanation": "Primary trophic functions of prolactin, thyrotrophin, and adrenocorticotrophin.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Prolactin, TSH, and ACTH Functions.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.9",
     "tags": [
-      "Pancreas",
-      "Insulin",
-      "Glucagon",
-      "Beta Cells",
-      "Alpha Cells",
-      "Diabetes Mellitus",
-      "GLUT-4"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Prolactin,"
     ],
-    "expandedMeaning": "Dual antagonistic pancreatic islet endocrinology governing carbohydrate homeostasis.",
-    "whyItWorks": "A = Alpha/Adds sugar (Glucagon); B = Beta/Brings down sugar (Insulin).",
-    "visualDescription": "Seesaw with blood sugar in balance, weighted by red Insulin pushing down on left and green Glucagon lifting up on right.",
-    "neetRelevance": "One of the most frequently asked metabolic endocrinology topics in NEET.",
-    "commonMistake": "Confusing glycogenesis with glycogenolysis.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.7",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 9,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which pancreatic hormone acts primarily on hepatocytes and adipocytes to enhance cellular glucose uptake and stimulate glycogenesis, acting as a hypoglycemic hormone?",
+      "question": "Which of the following is associated with \"Prolactin, TSH, and ACTH Functions\" in NEET Biology?",
       "options": [
-        "Glucagon",
-        "Insulin",
-        "Somatostatin",
-        "Pancreatic polypeptide"
+        "Regulates growth of mammary glands and formation of milk in females",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Insulin from beta cells promotes cellular glucose uptake and glycogenesis, lowering blood glucose levels."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Regulates growth of mammary glands and formation of milk in females\". Remember using: \"Prolactin = Milk Production, TSH = Thyroid Stimulator, ACTH = Adrenal Cortex Stimulator\"."
     }
   },
   {
@@ -523,71 +454,55 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
-    "topicId": "bio-top-19-2",
-    "topicTitle": "Adrenal Medulla: Emergency Hormones (Catecholamines)",
-    "topic": "Adrenaline (Epinephrine) and Noradrenaline (Norepinephrine) 3F Actions",
+    "classLevel": 11,
+    "topicId": "bio-top-19-1",
+    "topicTitle": "Gonadotrophins (LH and FSH) Functions",
+    "topic": "Gonadotrophins (LH and FSH) Functions",
     "mnemonicNumber": 8,
-    "title": "Adrenal Medulla: 3F Emergency Hormones (Fight, Flight, Fright Catecholamines = Adrenaline + Noradrenaline)",
-    "badgeText": "Memory Trick",
+    "title": "Gonadotrophins (LH and FSH) Functions: \"LH = Ovulation/Androgens, FSH = Spermatogenesis/Follicular Growth\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
+    "visualType": "sequence",
     "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Adrenal Medulla -> Catecholamines (Adrenaline / Epinephrine + Noradrenaline / Norepinephrine) = \"3F Emergency Hormones\" (Fight, Flight, Fright) -> Increases Alertness, Pupillary Dilation, Piloerection (Goosebumps), Sweating, Heart Rate & Blood Glucose!",
-    "memoryHook": "When facing a tiger: Adrenaline spikes! Pupils widen to see, hair stands on end (Piloerection), sweat pours, heart pounds, and liver dumps glucose for turbo energy!",
-    "fact": "The centrally located Adrenal Medulla secretes two hormones called Catecholamines: Adrenaline (Epinephrine) and Noradrenaline (Norepinephrine). Rapidly secreted in response to stress of any kind and during emergency situations, they are called Emergency Hormones or Hormones of Fight or Flight (3F). They increase alertness, pupillary dilation, piloerection (raising of hairs/goosebumps), sweating, increase heartbeat, strength of heart contraction, and rate of respiration. They also stimulate breakdown of glycogen, lipids, and proteins.",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "LH = Ovulation/Androgens, FSH = Spermatogenesis/Follicular Growth",
+    "memoryHook": "LH = Ovulation/Androgens, FSH = Spermatogenesis/Follicular Growth",
+    "fact": "Luteinizing Hormone (LH): Stimulates ovulation in females and synthesis/secretion of androgens (testosterone) in males. Follicle Stimulating Hormone (FSH): Stimulates growth of ovarian follicles in females and spermatogenesis in males",
     "breakdown": [
       {
-        "key": "Embryological Origin",
-        "label": "Ectodermal origin (derived from neural crest cells), modified sympathetic ganglion"
-      },
-      {
-        "key": "Catecholamines",
-        "label": "Adrenaline (80%) and Noradrenaline (20%), synthesized from amino acid Tyrosine"
-      },
-      {
-        "key": "Emergency Responses",
-        "label": "Pupil dilation (mydriasis), piloerection, sweating, tachycardia, bronchodilation"
-      },
-      {
-        "key": "Metabolic Effect",
-        "label": "Massive glycogenolysis in liver/muscle raising blood glucose for immediate ATP"
+        "key": "Luteinizing Hormone (LH)",
+        "label": "Stimulates ovulation in females and synthesis/secretion of androgens (testosterone) in males"
       }
     ],
-    "doodleBadge": "Catecholamines = 3F Hormones\nFight, Flight, Fright",
-    "doodleSubtext": "Adrenal Medulla Turbo",
-    "explanation": "Catecholamines are synthesized biochemically from the aromatic amino acid Tyrosine (Tyrosine -> Dopa -> Dopamine -> Noradrenaline -> Adrenaline).",
-    "alsoRemember": "Adrenal cortex is mesodermal in origin, whereas adrenal medulla is ectodermal.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.6.",
-    "neetTrap": "Piloerection (goosebumps) and pupil dilation are directly stimulated by CATECHOLAMINES / Adrenaline.",
+    "doodleBadge": "LH = Ovulation/Androgens",
+    "doodleSubtext": "Gonadotrophins (LH and F",
+    "explanation": "Gonadotrophic regulation of gametogenesis and sex steroid synthesis in testes and ovaries.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Gonadotrophins (LH and FSH) Functions.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.9",
     "tags": [
-      "Adrenal Medulla",
-      "Catecholamines",
-      "Adrenaline",
-      "Noradrenaline",
-      "Emergency Hormone",
-      "Fight or Flight",
-      "Tyrosine"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Gonadotrophins"
     ],
-    "expandedMeaning": "Sympathoadrenal neuroendocrine activation mechanisms during acute physical stress.",
-    "whyItWorks": "3F formula: Fight, Flight, Fright emergency triggers.",
-    "visualDescription": "Person running from tiger with lightning bolt adrenaline badge showing dilated eye, racing heart, raised hairs, and liver glucose burst.",
-    "neetRelevance": "Common in physiological response and endocrine origin MCQs.",
-    "commonMistake": "Thinking adrenal medulla is derived from mesoderm (it is ectodermal).",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 9,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following physiological changes is directly induced by catecholamines (adrenaline and noradrenaline) secreted during emergency conditions?",
+      "question": "Which of the following is associated with \"Gonadotrophins (LH and FSH) Functions\" in NEET Biology?",
       "options": [
-        "Constriction of pupils",
-        "Piloerection (raising of hairs) and pupillary dilation",
-        "Decreased heart rate",
-        "Decreased glycogen breakdown in liver"
+        "LH = Ovulation/Androgens, FSH = Spermatogenesis/Follicular Growth",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Catecholamines cause piloerection (goosebumps), pupil dilation, increased heart rate, and glycogen breakdown."
+      "answerIndex": 0,
+      "explanation": "Gonadotrophic regulation of gametogenesis and sex steroid synthesis in testes and ovaries."
     }
   },
   {
@@ -596,74 +511,59 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-1",
-    "topicTitle": "Thymus Gland & Thymosins",
-    "topic": "Cell-Mediated Immunity (T-Cells) vs Humoral Immunity (Antibodies) and Age Degeneration",
+    "topicTitle": "Posterior Pituitary Hormones (Oxytocin and Vasopressin)",
+    "topic": "Posterior Pituitary Hormones (Oxytocin and Vasopressin)",
     "mnemonicNumber": 9,
-    "title": "Thymus: Thymosins (T-Cell Training for Cell-Mediated Immunity + Degenerates with Age)",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Thymus (Dorsal to Aorta / Behind Sternum) -> Thymosins = \"Thymus Training Academy for T-lymphocytes\" -> Differentiates T-cells for Cell-Mediated Immunity (CMI) + promotes antibodies for Humoral Immunity -> Shrinks & Degenerates in Old Age (why elderly have weak immunity)!",
-    "memoryHook": "T-cells go to Thymus Training School! As you get old, the school building shrinks and vanishes (thymic involution), leaving old folks with weaker immune defenses!",
-    "fact": "The Thymus gland is a lobular structure located between lungs behind sternum on the ventral side of aorta. It secretes peptide hormones called Thymosins. Thymosins play a major role in the differentiation of T-lymphocytes, which provide Cell-Mediated Immunity (CMI). Thymosins also promote production of antibodies to provide Humoral Immunity. Thymus is degenerated in old individuals resulting in a decreased production of thymosins, making the immune response of old persons weak.",
+    "title": "Posterior Pituitary Hormones (Oxytocin and Vasopressin): \"Oxytocin = Childbirth/Milk Ejection, ADH = Water Reabsorption in Kidney\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Oxytocin = Childbirth/Milk Ejection, ADH = Water Reabsorption in Kidney",
+    "memoryHook": "Oxytocin = Childbirth/Milk Ejection, ADH = Water Reabsorption in Kidney",
+    "fact": "Oxytocin: Contracts smooth muscles; stimulates uterine contraction during child birth and milk ejection from mammary glands. Vasopressin (ADH): Acts mainly at renal tubules stimulating resorption of water and electrolytes, reducing water loss (diuresis)",
     "breakdown": [
       {
-        "key": "Location",
-        "label": "Mediastinum: between lungs, behind sternum on the ventral side of aorta"
+        "key": "Oxytocin",
+        "label": "Contracts smooth muscles; stimulates uterine contraction during child birth and milk ejection from mammary glands"
       },
       {
-        "key": "Hormone",
-        "label": "Thymosins (peptide hormones)"
-      },
-      {
-        "key": "Primary Role",
-        "label": "Differentiation and maturation of T-lymphocytes for Cell-Mediated Immunity (CMI)"
-      },
-      {
-        "key": "Secondary Role",
-        "label": "Stimulates B-cell antibody production for Humoral Immunity"
-      },
-      {
-        "key": "Age Involution",
-        "label": "Prominent at birth, gradually atrophies after puberty and degenerates in old age"
+        "key": "Vasopressin (ADH)",
+        "label": "Acts mainly at renal tubules stimulating resorption of water and electrolytes, reducing water loss (diuresis)"
       }
     ],
-    "doodleBadge": "Thymosins = T-Cell School (CMI)\nShrinks in Old Age",
-    "doodleSubtext": "Thymus & Immunity",
-    "explanation": "Thymus is called the \"throne of immunity\" or \"training school of T-cells\" because bone marrow pre-T cells migrate here to undergo positive and negative selection.",
-    "alsoRemember": "Graft rejection during organ transplantation is mediated primarily by T-lymphocytes (Cell-Mediated Immunity).",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.8.",
-    "neetTrap": "Thymus DEGENERATES in old age, leading to the characteristic immune decline in elderly individuals.",
+    "doodleBadge": "Oxytocin = Childbirth/Mi",
+    "doodleSubtext": "Posterior Pituitary Horm",
+    "explanation": "Neurohypophyseal hormones synthesized by hypothalamus and released into posterior pituitary.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Posterior Pituitary Hormones (Oxytocin and Vasopressin).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.9",
     "tags": [
-      "Thymus",
-      "Thymosins",
-      "T-lymphocytes",
-      "Cell-Mediated Immunity",
-      "Humoral Immunity",
-      "Aging"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Posterior"
     ],
-    "expandedMeaning": "Thymic maturation of immunocompetent T-lymphocytes and involution kinetics across the human lifespan.",
-    "whyItWorks": "T-lymphocyte = Thymus training link + Age-related shrinkage rule.",
-    "visualDescription": "Chest diagram showing large pink Thymus gland in child shrinking to tiny gray remnant in elderly silhouette.",
-    "neetRelevance": "Common in immunity and endocrine integration questions.",
-    "commonMistake": "Attributing T-cell differentiation to thyroid gland.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.8",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 9,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which endocrine gland undergoes progressive degeneration with advancing age, causing a decline in immune responses in elderly people?",
+      "question": "Which of the following is associated with \"Posterior Pituitary Hormones (Oxytocin and Vasopressin)\" in NEET Biology?",
       "options": [
-        "Thyroid gland",
-        "Pineal gland",
-        "Thymus gland",
-        "Adrenal gland"
+        "Oxytocin = Childbirth/Milk Ejection, ADH = Water Reabsorption in Kidney",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "The Thymus gland degenerates with age, reducing thymosin secretion and weakening cell-mediated immunity."
+      "answerIndex": 0,
+      "explanation": "Neurohypophyseal hormones synthesized by hypothalamus and released into posterior pituitary."
     }
   },
   {
@@ -672,70 +572,59 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-1",
-    "topicTitle": "Testis & Ovary Hormones",
-    "topic": "Leydig Cells (Testosterone) vs Ovarian Follicles (Estrogen) vs Corpus Luteum (Progesterone)",
+    "topicTitle": "Diabetes Insipidus",
+    "topic": "Diabetes Insipidus",
     "mnemonicNumber": 10,
-    "title": "Gonadal Hormones: Leydig Cells (Testosterone / LH) | Ovarian Follicles (Estrogen / FSH) | Corpus Luteum (Progesterone)",
-    "badgeText": "Classification",
+    "title": "Diabetes Insipidus: \"DI = Low ADH -> Excessive Dilute Urine + Intense Thirst (Polyuria + Polydipsia)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Leydig Interstitial Cells (Testis) -> Testosterone (Male libido, beard, spermatogenesis under LH) | Growing Follicles (Ovary) -> Estrogen (Female 2° sex characteristics, endometrium growth) | Corpus Luteum (Ruptured Follicle) -> PROGESTERONE (Pregnancy hormone, maintains endometrium)!",
-    "memoryHook": "Leydig cells make Male Muscle (Testosterone). Ovarian Follicles make Feminine Estrogen. The yellow Corpus Luteum makes Progesterone (PRO-GESTATION = Pro-Pregnancy)!",
-    "fact": "Testis: Interstitial cells / Leydig cells in intertubular spaces secrete Androgens (mainly Testosterone) under LH stimulation, regulating spermatogenesis, secondary sexual characters, and libido. Ovary: Growing ovarian follicles secrete Estrogen (growth of female secondary sex organs, high pitch voice, mammary gland development). After ovulation, the ruptured follicle transforms into Corpus Luteum which secretes Progesterone (the pregnancy hormone that supports gestation and acts on mammary glands to form alveoli).",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "DI = Low ADH -> Excessive Dilute Urine + Intense Thirst (Polyuria + Polydipsia)",
+    "memoryHook": "DI = Low ADH -> Excessive Dilute Urine + Intense Thirst (Polyuria + Polydipsia)",
+    "fact": "Cause: Deficiency of Vasopressin / Antidiuretic Hormone (ADH). Symptoms: Inability of kidneys to conserve water leading to water loss, frequent urination (polyuria), and severe thirst",
     "breakdown": [
       {
-        "key": "Leydig Cells (Testis)",
-        "label": "Secretes Testosterone (stimulated by ICSH / LH); drives male 2° traits & spermatogenesis"
+        "key": "Cause",
+        "label": "Deficiency of Vasopressin / Antidiuretic Hormone (ADH)"
       },
       {
-        "key": "Ovarian Follicles (Ovary)",
-        "label": "Secrete Estrogen (stimulated by FSH); drives female 2° traits & proliferative phase"
-      },
-      {
-        "key": "Corpus Luteum (Ovary)",
-        "label": "Secretes Progesterone; maintains secretory endometrium for pregnancy; stimulates milk alveoli"
-      },
-      {
-        "key": "Inhibin",
-        "label": "Secreted by Sertoli cells (male) & Granulosa cells (female); negative feedback on FSH"
+        "key": "Symptoms",
+        "label": "Inability of kidneys to conserve water leading to water loss, frequent urination (polyuria), and severe thirst"
       }
     ],
-    "doodleBadge": "Leydig = Testosterone\nFollicles = Estrogen\nCorpus Luteum = Progesterone",
-    "doodleSubtext": "Gonadal Trio",
-    "explanation": "Progesterone is called the pregnancy hormone because its high levels maintain the vascular secretory endometrium and prevent uterine contractions.",
-    "alsoRemember": "Relaxin is secreted by the ovary/placenta in late pregnancy to soften pelvic ligaments for childbirth.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.9 & 22.2.10.",
-    "neetTrap": "Progesterone is secreted primarily by the CORPUS LUTEUM (and placenta), NOT by growing ovarian follicles.",
+    "doodleBadge": "DI = Low ADH -> Excessiv",
+    "doodleSubtext": "Diabetes Insipidus",
+    "explanation": "Endocrine disorder resulting from impaired water reabsorption in renal distal nephrons.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Diabetes Insipidus.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.9",
     "tags": [
-      "Testosterone",
-      "Estrogen",
-      "Progesterone",
-      "Leydig Cells",
-      "Corpus Luteum",
-      "Gonads"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Diabetes"
     ],
-    "expandedMeaning": "Steroidogenic ovarian and testicular cellular sources and physiological reproductive targets.",
-    "whyItWorks": "Source-to-hormone direct pairing: Leydig->Testosterone, Follicle->Estrogen, Corpus Luteum->Progesterone.",
-    "visualDescription": "Cross sections of testis showing Leydig clusters and ovary showing growing follicle (Estrogen) and yellow Corpus Luteum (Progesterone).",
-    "neetRelevance": "Core reproductive endocrinology tested in both Class 11 and Class 12.",
-    "commonMistake": "Confusing the cellular sources of estrogen vs progesterone.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.9",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 9,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which structure in the human ovary secretes progesterone to maintain the endometrium during pregnancy?",
+      "question": "Which of the following is associated with \"Diabetes Insipidus\" in NEET Biology?",
       "options": [
-        "Primary follicle",
-        "Graafian follicle",
-        "Corpus luteum",
-        "Tunica albuginea"
+        "DI = Low ADH -> Excessive Dilute Urine + Intense Thirst (Polyuria + Polydipsia)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "After ovulation, the ruptured Graafian follicle transforms into the Corpus Luteum, which secretes progesterone."
+      "answerIndex": 0,
+      "explanation": "Endocrine disorder resulting from impaired water reabsorption in renal distal nephrons."
     }
   },
   {
@@ -744,79 +633,63 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-2",
-    "topicTitle": "Hormones of Heart, Kidney & GI Tract",
-    "topic": "ANF (Heart), Erythropoietin (Kidney), Gastrin, Secretin, CCK, GIP (GIT)",
+    "topicTitle": "Pineal Gland and Melatonin",
+    "topic": "Pineal Gland and Melatonin",
     "mnemonicNumber": 11,
-    "title": "Non-Endocrine Tissues: Heart (ANF), Kidney (Erythropoietin), GIT (Gastrin, Secretin, CCK, GIP)",
-    "badgeText": "Classification",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Heart Atria = ANF (Dilates vessels, lowers BP) | Kidney JG Cells = Erythropoietin / EPO (RBC formation) | GIT 4 Hormones: Gastrin (HCl & Pepsinogen) | Secretin (Pancreatic Water & Bicarbonate) | CCK / Cholecystokinin (Gallbladder Bile & Pancreatic Enzymes) | GIP (Inhibits Gastric motility & secretion)!",
-    "memoryHook": "Secretin secretes Bicarbonate Water! CCK (Chole-Cysto-Kinin) squeezes Gallbladder + Pancreas enzymes! GIP is Gastric Inhibitory Peptide (shuts down stomach)!",
-    "fact": "Hormones from non-endocrine organs: 1) Heart: Atrial wall secretes Atrial Natriuretic Factor (ANF) which decreases blood pressure by vasodilation. 2) Kidney: Juxtaglomerular cells produce Erythropoietin (EPO), a peptide hormone stimulating erythropoiesis (RBC formation in bone marrow). 3) GI Tract: Gastrin (stimulates gastric HCl and pepsinogen), Secretin (stimulates exocrine pancreas to secrete water and bicarbonate ions), Cholecystokinin (CCK, stimulates gallbladder contraction to release bile and pancreas to release pancreatic enzymes), Gastric Inhibitory Peptide (GIP, inhibits gastric secretion and motility).",
+    "title": "Pineal Gland and Melatonin: \"Pineal = Melatonin, Circadian Rhythm, Sleep-Wake Cycle, Pigmentation\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Pineal = Melatonin, Circadian Rhythm, Sleep-Wake Cycle, Pigmentation",
+    "memoryHook": "Pineal = Melatonin, Circadian Rhythm, Sleep-Wake Cycle, Pigmentation",
+    "fact": "Location: Dorsal side of forebrain. Hormone: Melatonin (plays vital role in regulating 24-hour circadian rhythm of body). Functions: Maintains sleep-wake cycle, body temperature, metabolism, pigmentation, and defense capability",
     "breakdown": [
       {
-        "key": "Heart: ANF",
-        "label": "Vasodilator peptide; lowers blood pressure and promotes Na+ excretion"
+        "key": "Location",
+        "label": "Dorsal side of forebrain"
       },
       {
-        "key": "Kidney: Erythropoietin (EPO)",
-        "label": "Peptide hormone stimulating erythropoiesis (RBC production in bone marrow)"
+        "key": "Hormone",
+        "label": "Melatonin (plays vital role in regulating 24-hour circadian rhythm of body)"
       },
       {
-        "key": "GIT: Gastrin",
-        "label": "Acts on gastric glands to stimulate HCl and pepsinogen secretion"
-      },
-      {
-        "key": "GIT: Secretin",
-        "label": "First hormone discovered; stimulates pancreatic secretion of water and HCO3- ions"
-      },
-      {
-        "key": "GIT: CCK (Cholecystokinin)",
-        "label": "Stimulates gallbladder contraction (bile) + pancreatic digestive enzyme secretion"
-      },
-      {
-        "key": "GIT: GIP",
-        "label": "Gastric Inhibitory Peptide; inhibits gastric acid secretion and motility"
+        "key": "Functions",
+        "label": "Maintains sleep-wake cycle, body temperature, metabolism, pigmentation, and defense capability"
       }
     ],
-    "doodleBadge": "ANF = Lowers BP\nEPO = Makes RBCs\nSecretin = Water/HCO3-\nCCK = Bile & Enzymes",
-    "doodleSubtext": "Organ Hormones",
-    "explanation": "Secretin was the very first hormone ever discovered in physiology (by Bayliss and Starling in 1902).",
-    "alsoRemember": "Hypoxia (low tissue oxygen) is the primary physiological trigger stimulating renal erythropoietin secretion.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.3.",
-    "neetTrap": "Secretin stimulates WATER and BICARBONATE secretion, while CCK stimulates PANCREATIC ENZYMES and BILE.",
+    "doodleBadge": "Pineal = Melatonin, Circ",
+    "doodleSubtext": "Pineal Gland and Melaton",
+    "explanation": "Epiphysis cerebri hormone dictating biological rhythms and photoperiodic responses.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Pineal Gland and Melatonin.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.9",
     "tags": [
-      "ANF",
-      "Erythropoietin",
-      "Gastrin",
-      "Secretin",
-      "CCK",
-      "GIP",
-      "GI Tract"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Pineal"
     ],
-    "expandedMeaning": "Diffuse gastrointestinal and paracrine-endocrine peptide signaling outside classic endocrine glands.",
-    "whyItWorks": "Direct organ-to-hormone table with distinct GIT actions.",
-    "visualDescription": "Human torso map linking Heart (ANF), Kidney (EPO), Stomach (Gastrin), Pancreas (Secretin), Gallbladder (CCK).",
-    "neetRelevance": "One of the highest yield matching questions in NEET biology.",
-    "commonMistake": "Confusing the actions of Secretin (bicarbonates) with CCK (enzymes/bile).",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 9,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which gastrointestinal hormone stimulates the exocrine pancreas to secrete water and bicarbonate ions?",
+      "question": "Which of the following is associated with \"Pineal Gland and Melatonin\" in NEET Biology?",
       "options": [
-        "Gastrin",
-        "Secretin",
-        "Cholecystokinin (CCK)",
-        "Gastric Inhibitory Peptide (GIP)"
+        "Dorsal side of forebrain",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Secretin acts on the exocrine pancreas to stimulate the secretion of water and bicarbonate ions."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Dorsal side of forebrain\". Remember using: \"Pineal = Melatonin, Circadian Rhythm, Sleep-Wake Cycle, Pigmentation\"."
     }
   },
   {
@@ -825,70 +698,59 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
-    "topicId": "bio-top-19-3",
-    "topicTitle": "Mechanism of Hormone Action",
-    "topic": "Lipid-Soluble (Intracellular Receptors) vs Water-Soluble (Membrane Receptors & Second Messengers)",
+    "classLevel": 11,
+    "topicId": "bio-top-19-2",
+    "topicTitle": "Thyroid Gland Anatomy and Follicles",
+    "topic": "Thyroid Gland Anatomy and Follicles",
     "mnemonicNumber": 12,
-    "title": "Hormone Action: Water-Soluble / Peptides (Membrane Receptors -> 2nd Messengers: cAMP, IP3, Ca2+) vs Lipid-Soluble / Steroids (Intracellular Receptors -> Gene Expression)",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
+    "title": "Thyroid Gland Anatomy and Follicles: \"Thyroid = Isthmus Connects Lobes, Follicles Filled with Thyroglobulin + T3/T4\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Peptide / Protein / Amine Hormones (FSH, LH, Insulin, Glucagon, Adrenaline) = CANNOT cross lipid bilayer -> Bind Membrane Receptors -> Generate 2nd Messengers (cAMP, IP3, Ca2+) | Steroid & Thyroid Hormones (Estrogen, Progesterone, Testosterone, Cortisol, T3/T4) = Cross lipid bilayer -> Bind Intracellular Receptors in nucleus -> Alter Gene Expression!",
-    "memoryHook": "Peptides knock on the front door (Membrane receptor) and send a butler inside (2nd messenger: cAMP)! Steroids have a master key to walk straight into the bedroom nucleus (Intracellular receptor) and read the DNA blueprint!",
-    "fact": "Hormones produce effects by binding to specific hormone receptors: 1) Water-soluble hormones (Peptide, polypeptide, protein hormones like Insulin, Glucagon, Pituitary hormones, and Catecholamines): Bind membrane-bound receptors; do not enter target cell; generate second messengers (e.g., cyclic AMP / cAMP, IP3, Ca²⁺) which regulate cellular metabolism. 2) Lipid-soluble hormones (Steroid hormones: Cortisol, Testosterone, Estradiol, Progesterone, and Iodothyronines / Thyroid hormones): Cross membrane to bind Intracellular Receptors (mostly nuclear receptors); hormone-receptor complex interacts with genome to regulate gene expression / protein synthesis.",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Thyroid = Isthmus Connects Lobes, Follicles Filled with Thyroglobulin + T3/T4",
+    "memoryHook": "Thyroid = Isthmus Connects Lobes, Follicles Filled with Thyroglobulin + T3/T4",
+    "fact": "Structure: Two lobes on either side of trachea connected by non-secretory tissue called isthmus. Histology: Composed of follicles and stromal tissues; thyroid follicles filled with colloid (T3 and T4)",
     "breakdown": [
       {
-        "key": "Membrane Receptors + 2nd Messengers",
-        "label": "Peptides, Proteins, Adrenaline (FSH, Insulin, Glucagon); uses cAMP, IP3, Ca²⁺"
+        "key": "Structure",
+        "label": "Two lobes on either side of trachea connected by non-secretory tissue called isthmus"
       },
       {
-        "key": "Intracellular / Nuclear Receptors",
-        "label": "Steroids (Cortisol, Testosterone, Estrogen, Progesterone) and Thyroid hormones (T3, T4)"
-      },
-      {
-        "key": "Speed of Action",
-        "label": "Membrane 2nd messenger cascade is fast; Steroid gene expression is slow but long-lasting"
-      },
-      {
-        "key": "Thyroid Exception",
-        "label": "Thyroid hormones are amine derivatives (iodothyronines) but act via INTRACELLULAR nuclear receptors"
+        "key": "Histology",
+        "label": "Composed of follicles and stromal tissues; thyroid follicles filled with colloid (T3 and T4)"
       }
     ],
-    "doodleBadge": "Peptides = Membrane Receptor + cAMP/IP3\nSteroids/Thyroid = Intracellular + Gene Expression",
-    "doodleSubtext": "2 Hormone Mechanisms",
-    "explanation": "Thyroid hormones are amino acid derivatives, but because they are lipophilic, they uniquely cross the membrane and bind intracellular nuclear receptors just like steroids.",
-    "alsoRemember": "cAMP is generated from ATP by the membrane-bound enzyme Adenylate Cyclase.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.4.",
-    "neetTrap": "THYROID HORMONES bind to INTRACELLULAR receptors, not cell-surface membrane receptors.",
+    "doodleBadge": "Thyroid = Isthmus Connec",
+    "doodleSubtext": "Thyroid Gland Anatomy an",
+    "explanation": "Gross and microscopic structure of the butterfly-shaped endocrine gland in the neck. Chapter 19: Chemical Coordination and Integration (30 Mnemonics) \tPage 2",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Thyroid Gland Anatomy and Follicles.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.9",
     "tags": [
-      "Hormone Action",
-      "Second Messengers",
-      "cAMP",
-      "IP3",
-      "Steroid Hormones",
-      "Nuclear Receptors"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Thyroid"
     ],
-    "expandedMeaning": "Signal transduction dual-pathway divergence between polar peptide and lipophilic steroid ligands.",
-    "whyItWorks": "Door-knocker (Peptide/cAMP) vs Key-holder (Steroid/Intracellular) analogy.",
-    "visualDescription": "Dual diagram: left cell showing FSH binding surface receptor to trigger cAMP cascade; right cell showing Estrogen entering nucleus to bind DNA.",
-    "neetRelevance": "One of the most heavily tested diagram-based topics in NEET.",
-    "commonMistake": "Classifying thyroid hormones with membrane-bound receptor peptides.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 9,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following hormones acts by entering the target cell and binding to an INTRACELLULAR nuclear receptor to regulate gene expression?",
+      "question": "Which of the following is associated with \"Thyroid Gland Anatomy and Follicles\" in NEET Biology?",
       "options": [
-        "Follicle Stimulating Hormone (FSH)",
-        "Insulin",
-        "Estrogen",
-        "Glucagon"
+        "Thyroid = Isthmus Connects Lobes, Follicles Filled with Thyroglobulin + T3/T4",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Estrogen is a lipid-soluble steroid hormone that binds to intracellular receptors to regulate gene expression."
+      "answerIndex": 0,
+      "explanation": "Gross and microscopic structure of the butterfly-shaped endocrine gland in the neck. Chapter 19: Chemical Coordination and Integration (30 Mnemonics) \tPage 2"
     }
   },
   {
@@ -897,69 +759,63 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
-    "topicId": "bio-top-19-1",
-    "topicTitle": "Pituitary Growth Hormone Disorders",
-    "topic": "Gigantism (Childhood Excess) vs Acromegaly (Adult Excess) vs Pituitary Dwarfism (Deficiency)",
+    "classLevel": 11,
+    "topicId": "bio-top-19-2",
+    "topicTitle": "Thyroid Hormones (T3, T4) and Iodine Requirement",
+    "topic": "Thyroid Hormones (T3, T4) and Iodine Requirement",
     "mnemonicNumber": 13,
-    "title": "GH Disorders: Pituitary Dwarfism (Childhood Low GH) vs Gigantism (Childhood High GH) vs Acromegaly (Adult High GH / Gorilla Face)",
-    "badgeText": "Classification",
+    "title": "Thyroid Hormones (T3, T4) and Iodine Requirement: \"Thyroxine Requires Iodine; Regulates Basal Metabolic Rate (BMR), RBC Formation\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "GH in Children: Low = Dwarfism (Stunted body, normal IQ) | High = Gigantism (Abnormal tall height) | GH in Adults: High = ACROMEGALY (Gorilla-like disfigurement, enlarged hands, feet, lower jaw / Prognathism, serious complications)!",
-    "memoryHook": "In kids before growth plates fuse: High GH = Giant beanstalk height (Gigantism). In adults after bones fuse: bones can only grow thicker and wider = Acromegaly gorilla face and giant hands!",
-    "fact": "Disorders of Growth Hormone (GH / Somatotropin): 1) Pituitary Dwarfism: Hyposecretion of GH during childhood leads to stunted physical growth (dwarfs maintain normal intelligence and body proportions). 2) Gigantism: Hypersecretion of GH in childhood before epiphyseal plate fusion causes abnormal elongation of long bones and giant height. 3) Acromegaly: Hypersecretion of GH in adults (often due to pituitary adenoma) causes severe disfigurement especially of the face (protruding lower jaw / prognathism), enlarged hands and feet, leading to serious complications and premature death if untreated.",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Thyroxine Requires Iodine; Regulates Basal Metabolic Rate (BMR), RBC Formation",
+    "memoryHook": "Thyroxine Requires Iodine; Regulates Basal Metabolic Rate (BMR), RBC Formation",
+    "fact": "Requirement: Iodine is essential for normal rate of hormone synthesis in thyroid. Functions: Regulates BMR, supports RBC formation, controls carbohydrate, protein, and fat metabolism. Thyrocalcitonin (TCT): Protein hormone secreted by thyroid reducing blood calcium levels (hypocalcemic)",
     "breakdown": [
       {
-        "key": "Pituitary Dwarfism",
-        "label": "Hyposecretion of GH in children -> proportionate dwarfism with normal intelligence"
+        "key": "Requirement",
+        "label": "Iodine is essential for normal rate of hormone synthesis in thyroid"
       },
       {
-        "key": "Gigantism",
-        "label": "Hypersecretion of GH in childhood before epiphyseal cartilage fusion -> extreme height"
+        "key": "Functions",
+        "label": "Regulates BMR, supports RBC formation, controls carbohydrate, protein, and fat metabolism"
       },
       {
-        "key": "Acromegaly",
-        "label": "Hypersecretion of GH in adulthood -> disfigurement of face, hands, feet; prognathism"
-      },
-      {
-        "key": "Diagnosis Challenge",
-        "label": "Acromegaly develops silently and often goes undetected for many years"
+        "key": "Thyrocalcitonin (TCT)",
+        "label": "Protein hormone secreted by thyroid reducing blood calcium levels (hypocalcemic)"
       }
     ],
-    "doodleBadge": "Child: Dwarfism vs Gigantism\nAdult: Acromegaly (Gorilla Face)",
-    "doodleSubtext": "GH Pathologies",
-    "explanation": "Acromegaly is hard to diagnose in early stages and often goes undetected for years until external disfigurement becomes pronounced.",
-    "alsoRemember": "Laron dwarfism is caused by GH receptor insensitivity, not GH deficiency.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.2.",
-    "neetTrap": "Acromegaly occurs in ADULTS (not children) due to hypersecretion of growth hormone.",
+    "doodleBadge": "Thyroxine Requires Iodin",
+    "doodleSubtext": "Thyroid Hormones (T3, T4",
+    "explanation": "Metabolic control and iodine dependence of thyroid follicular hormone synthesis.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Thyroid Hormones (T3, T4) and Iodine Requirement.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.10",
     "tags": [
-      "Growth Hormone",
-      "Gigantism",
-      "Acromegaly",
-      "Pituitary Dwarfism",
-      "Somatotropin"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Thyroid"
     ],
-    "expandedMeaning": "Developmental age-dependent clinical manifestations of somatotrophic hypo- and hyper-secretion.",
-    "whyItWorks": "Age matrix: Kids (Tall/Short height) vs Adults (Thick/Disfigured bones).",
-    "visualDescription": "Three clinical silhouettes: tiny proportionate dwarf, towering giant, and adult with enlarged protruding jaw and massive hands.",
-    "neetRelevance": "Common in definition matching and true/false questions.",
-    "commonMistake": "Attributing acromegaly to childhood hypersecretion.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 10,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Hypersecretion of Growth Hormone (GH) in adults leads to severe disfigurement of the face and enlarged extremities, a condition called:",
+      "question": "Which of the following is associated with \"Thyroid Hormones (T3, T4) and Iodine Requirement\" in NEET Biology?",
       "options": [
-        "Gigantism",
-        "Acromegaly",
-        "Cretinism",
-        "Cushing syndrome"
+        "Iodine is essential for normal rate of hormone synthesis in thyroid",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Acromegaly is caused by hypersecretion of growth hormone in adults after the epiphyseal plates have closed."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Iodine is essential for normal rate of hormone synthesis in thyroid\". Remember using: \"Thyroxine Requires Iodine; Regulates Basal Metabolic Rate (BMR), RBC Formation\"."
     }
   },
   {
@@ -968,70 +824,63 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
-    "topicId": "bio-top-19-1",
-    "topicTitle": "Thyroid Pathologies: Cretinism vs Graves' Disease",
-    "topic": "Cretinism (Infant Hypothyroidism), Myxedema, and Exophthalmic Goitre (Graves' Disease)",
+    "classLevel": 11,
+    "topicId": "bio-top-19-2",
+    "topicTitle": "Hypothyroidism and Goitre / Cretinism",
+    "topic": "Hypothyroidism and Goitre / Cretinism",
     "mnemonicNumber": 14,
-    "title": "Thyroid Disorders: Cretinism (Infant Hypothyroidism = Stunted Growth & Mental Retardation) vs Graves' Disease (Hyperthyroidism = Exophthalmos / Bulging Eyes & High BMR)",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Hypothyroidism in pregnancy/infants = CRETINISM (Stunted physical growth, Mental retardation, low IQ, deaf-mutism) | Hyperthyroidism = GRAVES' DISEASE / Exophthalmic Goitre (Enlarged thyroid + Protruding Eyeballs / Exophthalmos + High BMR + Weight loss)!",
-    "memoryHook": "Cretinism creates a mentally retarded child because thyroid is needed for brain growth! Graves' disease digs a grave with racing high BMR and bugging-out bulging eyeballs!",
-    "fact": "Disorders of thyroid gland: 1) Cretinism: Hypothyroidism during pregnancy/infancy causes defective development leading to stunted growth (cretinism), mental retardation, low intelligence quotient (IQ), abnormal skin, and deaf-mutism. 2) Myxedema (Gull disease): Hypothyroidism in adults causing puffiness, low BMR, and lethargy. 3) Simple Goitre: Enlargement of thyroid gland due to dietary iodine deficiency. 4) Graves' Disease (Exophthalmic Goitre): Autoimmune form of hyperthyroidism characterized by thyroid enlargement, protrusion of eyeballs (exophthalmos), increased BMR, and weight loss.",
+    "title": "Hypothyroidism and Goitre / Cretinism: \"Hypothyroidism = Goitre (Low Iodine), Cretinism (Stunted Child), Myxedema (Adult)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Hypothyroidism = Goitre (Low Iodine), Cretinism (Stunted Child), Myxedema (Adult)",
+    "memoryHook": "Hypothyroidism = Goitre (Low Iodine), Cretinism (Stunted Child), Myxedema (Adult)",
+    "fact": "Simple Goitre: Enlargement of thyroid gland due to dietary iodine deficiency. Cretinism: Hypothyroidism during pregnancy causing stunted growth, mental retardation, abnormal skin. Myxedema: Hypothyroidism in adult women causing low BMR and weight gain",
     "breakdown": [
       {
-        "key": "Cretinism",
-        "label": "Infantile/congenital hypothyroidism -> Stunted growth, mental retardation, deaf-mutism, low IQ"
+        "key": "Simple Goitre",
+        "label": "Enlargement of thyroid gland due to dietary iodine deficiency"
       },
       {
-        "key": "Simple Goitre",
-        "label": "Enlarged thyroid gland caused by dietary iodine deficiency"
+        "key": "Cretinism",
+        "label": "Hypothyroidism during pregnancy causing stunted growth, mental retardation, abnormal skin"
       },
       {
         "key": "Myxedema",
-        "label": "Adult hypothyroidism -> sluggishness, low BMR, cold intolerance, puffy face"
-      },
-      {
-        "key": "Graves' Disease (Exophthalmic Goitre)",
-        "label": "Autoimmune hyperthyroidism (TSI antibodies) -> Protruding eyeballs (exophthalmos), high BMR, weight loss"
+        "label": "Hypothyroidism in adult women causing low BMR and weight gain"
       }
     ],
-    "doodleBadge": "Cretinism = Low Thyroid (Mental Retardation)\nGraves = High Thyroid (Bulging Eyes)",
-    "doodleSubtext": "Thyroid Pathologies",
-    "explanation": "In Graves' disease, abnormal antibodies (Thyroid Stimulating Immunoglobulins / TSI) bind to TSH receptors, constantly stimulating the thyroid to overproduce hormones.",
-    "alsoRemember": "Cretinism differs from pituitary dwarfism because cretins are mentally retarded, whereas pituitary dwarfs have normal intelligence.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.4.",
-    "neetTrap": "Cretinism includes MENTAL RETARDATION and deaf-mutism, unlike pituitary dwarfism which has normal IQ.",
+    "doodleBadge": "Hypothyroidism = Goitre ",
+    "doodleSubtext": "Hypothyroidism and Goitr",
+    "explanation": "Clinical syndromes resulting from inadequate thyroid hormone production.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Hypothyroidism and Goitre / Cretinism.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.10",
     "tags": [
-      "Cretinism",
-      "Graves Disease",
-      "Exophthalmic Goitre",
-      "Hypothyroidism",
-      "Hyperthyroidism",
-      "Iodine"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Hypothyroidism"
     ],
-    "expandedMeaning": "Etiological and neurodevelopmental pathology of congenital hypothyroid vs autoimmune hyperthyroid states.",
-    "whyItWorks": "Infant Low (Cretinism brain defect) vs Adult High (Graves bulging eyes).",
-    "visualDescription": "Side-by-side comparison: infant with deaf-mutism/stunted growth (Cretinism) vs adult face with prominently protruding eyeballs and goitre (Graves).",
-    "neetRelevance": "Guaranteed NEET clinical pathology question.",
-    "commonMistake": "Confusing cretinism with pituitary dwarfism.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 10,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Exophthalmic goitre (Graves' disease) is a form of hyperthyroidism characterized by:",
+      "question": "Which of the following is associated with \"Hypothyroidism and Goitre / Cretinism\" in NEET Biology?",
       "options": [
-        "Stunted growth and mental retardation",
-        "Enlargement of thyroid gland, protruding eyeballs (exophthalmos), and increased BMR",
-        "Decreased heart rate and low body temperature",
-        "Bronze pigmentation of skin"
+        "Enlargement of thyroid gland due to dietary iodine deficiency",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Graves' disease is characterized by an enlarged thyroid, protruding eyeballs (exophthalmos), elevated BMR, and weight loss."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Enlargement of thyroid gland due to dietary iodine deficiency\". Remember using: \"Hypothyroidism = Goitre (Low Iodine), Cretinism (Stunted Child), Myxedema (Adult)\"."
     }
   },
   {
@@ -1040,70 +889,59 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-2",
-    "topicTitle": "Adrenal Cortex Pathologies: Addison's vs Cushing's",
-    "topic": "Addison's Disease (Hyposecretion / Bronze Skin) vs Cushing's Syndrome (Hypercortisolism / Moon Face)",
+    "topicTitle": "Hyperthyroidism and Exophthalmic Goitre (Graves' Disease)",
+    "topic": "Hyperthyroidism and Exophthalmic Goitre (Graves' Disease)",
     "mnemonicNumber": 15,
-    "title": "Adrenal Disorders: Addison's Disease (Hypocortisolism / Bronze Skin & Fatigue) vs Cushing's Syndrome (Hypercortisolism / Moon Face & Buffalo Hump)",
-    "badgeText": "Comparison",
+    "title": "Hyperthyroidism and Exophthalmic Goitre (Graves' Disease): \"Graves = Bulging Eyes (Exophthalmos) + High BMR + Weight Loss\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Addison's Disease = ADrenal cortex is DOWN / UNDER-secreting (Low Aldosterone & Cortisol -> Bronze skin pigmentation, severe weakness, hypoglycemia, low BP) | Cushing's Syndrome = CORTISOL CUSHION / Excess (Moon face, buffalo hump, hyperglycemia, hypertension, obesity)!",
-    "memoryHook": "Addison needs to ADD more hormones (deficiency causes bronze fatigue). Cushing is stuffed like a fat Cushion with too much cortisol (moon face & buffalo hump)!",
-    "fact": "Adrenal cortex disorders: 1) Addison's Disease: Underproduction (hyposecretion) of corticoid hormones (aldosterone and cortisol) due to destruction of adrenal cortex. Alters carbohydrate metabolism causing acute weakness and fatigue, hypoglycemia, low blood pressure, and characteristic bronze skin pigmentation. 2) Cushing's Syndrome: Hypersecretion of cortisol (often due to adrenal tumor or excess ACTH) leading to high blood glucose (hyperglycemia), protein breakdown, loss of muscle, central obesity with \"Moon Face\" and \"Buffalo Hump\", and hypertension.",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Graves = Bulging Eyes (Exophthalmos) + High BMR + Weight Loss",
+    "memoryHook": "Graves = Bulging Eyes (Exophthalmos) + High BMR + Weight Loss",
+    "fact": "Cause: Hypersecretion of thyroid hormones due to thyroid cancer or nodules. Symptoms: Enlarged thyroid, high BMR, increased heart rate, nervousness, weight loss, protruding eyeballs",
     "breakdown": [
       {
-        "key": "Addison's Disease",
-        "label": "Adrenal cortex hyposecretion -> Bronze skin pigmentation, fatigue, hypotension, hypoglycemia, Na+ loss"
+        "key": "Cause",
+        "label": "Hypersecretion of thyroid hormones due to thyroid cancer or nodules"
       },
       {
-        "key": "Cushing's Syndrome",
-        "label": "Cortisol hypersecretion -> Central obesity, \"Moon Face\", \"Buffalo Hump\", hyperglycemia, hypertension"
-      },
-      {
-        "key": "Conn's Syndrome",
-        "label": "Hyperaldosteronism -> Excessive Na+ retention, severe hypertension, hypokalemia"
-      },
-      {
-        "key": "Adrenal Virilism",
-        "label": "Excess sex corticoids/androgens in females -> facial hair growth, deep voice"
+        "key": "Symptoms",
+        "label": "Enlarged thyroid, high BMR, increased heart rate, nervousness, weight loss, protruding eyeballs"
       }
     ],
-    "doodleBadge": "Addison = Low Cortisol (Bronze Skin)\nCushing = High Cortisol (Moon Face)",
-    "doodleSubtext": "Adrenal Cortex Disorders",
-    "explanation": "In Addison's disease, low cortisol removes negative feedback, causing excess ACTH secretion which cross-stimulates melanocytes to produce bronze skin pigmentation.",
-    "alsoRemember": "President John F. Kennedy was a famous historical figure who suffered from Addison's disease.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.6.",
-    "neetTrap": "Addison's disease is caused by UNDERPRODUCTION (hyposecretion) of adrenal corticoids, not hypersecretion.",
+    "doodleBadge": "Graves = Bulging Eyes (E",
+    "doodleSubtext": "Hyperthyroidism and Exop",
+    "explanation": "Autoimmune hyperthyroid condition characterized by accelerated metabolism and exophthalmos.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Hyperthyroidism and Exophthalmic Goitre (Graves' Disease).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.10",
     "tags": [
-      "Addison Disease",
-      "Cushing Syndrome",
-      "Cortisol",
-      "Aldosterone",
-      "Bronze Pigmentation",
-      "Adrenal Cortex"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Hyperthyroidism"
     ],
-    "expandedMeaning": "Clinical pathophysiology of adrenocortical insufficiency versus hypercortisolemic state.",
-    "whyItWorks": "Add-ison = Add hormones (Low) vs Cush-ing = Cushion of fat (High).",
-    "visualDescription": "Split illustration: frail bronze-toned patient (Addison) vs round-faced patient with buffalo hump fat pad (Cushing).",
-    "neetRelevance": "High yield matching and clinical sign identification questions.",
-    "commonMistake": "Confusing Addison's (hypo) with Cushing's (hyper).",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 10,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Underproduction of hormones by the adrenal cortex alters carbohydrate metabolism causing acute weakness, fatigue, and bronze-like skin pigmentation in:",
+      "question": "Which of the following is associated with \"Hyperthyroidism and Exophthalmic Goitre (Graves' Disease)\" in NEET Biology?",
       "options": [
-        "Cushing syndrome",
-        "Addison disease",
-        "Graves disease",
-        "Diabetes insipidus"
+        "Graves = Bulging Eyes (Exophthalmos) + High BMR + Weight Loss",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Addison's disease is caused by hyposecretion of adrenal cortex hormones, leading to fatigue and bronze pigmentation."
+      "answerIndex": 0,
+      "explanation": "Autoimmune hyperthyroid condition characterized by accelerated metabolism and exophthalmos."
     }
   },
   {
@@ -1112,73 +950,59 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
-    "topicId": "bio-top-19-1",
-    "topicTitle": "Hypothalamic Regulatory Hormones",
-    "topic": "Releasing (GnRH, TRH, CRH) vs Inhibiting (Somatostatin) Hormones",
+    "classLevel": 11,
+    "topicId": "bio-top-19-2",
+    "topicTitle": "Parathyroid Glands and PTH (Collip's Hormone)",
+    "topic": "Parathyroid Glands and PTH (Collip's Hormone)",
     "mnemonicNumber": 16,
-    "title": "Hypothalamus: Releasing Hormones (GnRH stimulates LH/FSH) vs Inhibiting Hormones (Somatostatin INHIBITS Growth Hormone)",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
+    "title": "Parathyroid Glands and PTH (Collip's Hormone): \"PTH = Increases Blood Ca2+ (Hypercalcemic), Stimulates Bone Resorption\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Releasing Hormones = Stimulate Pituitary (GnRH stimulates Gonadotropins LH & FSH) | Inhibiting Hormones = Stop Pituitary (Somatostatin from Hypothalamus INHIBITS Growth Hormone / Somatotropin release)!",
-    "memoryHook": "GnRH gives the GREEN light for puberty gonads! Somatostatin slams the STOP brake on Growth Hormone (Somato-Statin = Static Growth)!",
-    "fact": "Hypothalamus contains neurosecretory nuclei producing two types of hormones: 1) Releasing Hormones: Stimulate secretion of pituitary hormones (e.g., Gonadotropin Releasing Hormone / GnRH stimulates pituitary synthesis and release of gonadotropins LH and FSH). 2) Inhibiting Hormones: Inhibit secretion of pituitary hormones (e.g., Somatostatin from hypothalamus inhibits the release of Growth Hormone from anterior pituitary). These reach pituitary through the Hypophyseal Portal System.",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "PTH = Increases Blood Ca2+ (Hypercalcemic), Stimulates Bone Resorption",
+    "memoryHook": "PTH = Increases Blood Ca2+ (Hypercalcemic), Stimulates Bone Resorption",
+    "fact": "Location: 4 small glands stuck on back side of thyroid lobes. Parathyroid Hormone (PTH): Peptide hormone increasing blood calcium levels (hypercalcemic factor). Action: Stimulates bone resorption (demineralization), promotes Ca2+ reabsorption by renal tubules and absorption from digested food",
     "breakdown": [
       {
-        "key": "GnRH (Releasing)",
-        "label": "Stimulates adenohypophysis to secrete LH and FSH at puberty"
+        "key": "Location",
+        "label": "4 small glands stuck on back side of thyroid lobes"
       },
       {
-        "key": "Somatostatin (Inhibiting)",
-        "label": "Growth Hormone Inhibiting Hormone (GHIH); suppresses GH release"
-      },
-      {
-        "key": "TRH & CRH (Releasing)",
-        "label": "Thyrotropin-RH stimulates TSH; Corticotropin-RH stimulates ACTH"
-      },
-      {
-        "key": "Hypophyseal Portal System",
-        "label": "Vascular loop carrying hypothalamic hormones directly to Anterior Pituitary"
-      },
-      {
-        "key": "Direct Axonal Regulation",
-        "label": "Posterior Pituitary is under DIRECT neural regulation by hypothalamic neurons"
+        "key": "Action",
+        "label": "Stimulates bone resorption (demineralization), promotes Ca2+ reabsorption by renal tubules and absorption from digested food"
       }
     ],
-    "doodleBadge": "GnRH = Stimulates LH/FSH\nSomatostatin = Inhibits GH",
-    "doodleSubtext": "Hypothalamic Controls",
-    "explanation": "Anterior pituitary is regulated vascularly via the hypophyseal portal system, whereas posterior pituitary is under direct neural axonal control.",
-    "alsoRemember": "Somatostatin is also secreted by delta cells of the pancreas to inhibit insulin and glucagon.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.1.",
-    "neetTrap": "Anterior pituitary is controlled via PORTAL CIRCULATION, but posterior pituitary is under DIRECT NEURAL regulation.",
+    "doodleBadge": "PTH = Increases Blood Ca",
+    "doodleSubtext": "Parathyroid Glands and P",
+    "explanation": "Calcium homeostasis regulator acting antagonistically to thyrocalcitonin.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Parathyroid Glands and PTH (Collip's Hormone).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.10",
     "tags": [
-      "Hypothalamus",
-      "GnRH",
-      "Somatostatin",
-      "Hypophyseal Portal System",
-      "Pituitary Regulation"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Parathyroid"
     ],
-    "expandedMeaning": "Hypothalamic-hypophyseal vascular and neuroaxonal control architectures.",
-    "whyItWorks": "Releasing = Accelerator vs Inhibiting (Somatostatin) = Brake.",
-    "visualDescription": "Hypothalamus sending red GnRH arrow to pituitary accelerator and blue Somatostatin arrow to GH brake.",
-    "neetRelevance": "Standard question on portal system vs direct neural control.",
-    "commonMistake": "Thinking posterior pituitary is controlled via portal circulation.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 10,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which hormone synthesized by the hypothalamus directly inhibits the release of Growth Hormone from the anterior pituitary?",
+      "question": "Which of the following is associated with \"Parathyroid Glands and PTH (Collip's Hormone)\" in NEET Biology?",
       "options": [
-        "GnRH",
-        "Somatostatin",
-        "Prolactin",
-        "Oxytocin"
+        "4 small glands stuck on back side of thyroid lobes",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Somatostatin (Growth Hormone Inhibiting Hormone) from the hypothalamus inhibits the release of Growth Hormone."
+      "answerIndex": 0,
+      "explanation": "Correct: \"4 small glands stuck on back side of thyroid lobes\". Remember using: \"PTH = Increases Blood Ca2+ (Hypercalcemic), Stimulates Bone Resorption\"."
     }
   },
   {
@@ -1187,69 +1011,63 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
-    "topicId": "bio-top-19-1",
-    "topicTitle": "MSH & Pars Intermedia",
-    "topic": "Melanocyte Stimulating Hormone and Skin Pigmentation",
+    "classLevel": 11,
+    "topicId": "bio-top-19-2",
+    "topicTitle": "Thymus Gland and Thymosins",
+    "topic": "Thymus Gland and Thymosins",
     "mnemonicNumber": 17,
-    "title": "Pars Intermedia: MSH (Melanocyte Stimulating Hormone = Regulates Melanin Skin Pigmentation)",
-    "badgeText": "Concept",
-    "importance": "Medium Yield",
+    "title": "Thymus Gland and Thymosins: \"Thymus = Behind Sternum, Thymosins Mediate Cell-Mediated Immunity (T-Lymphocytes)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Pars Intermedia of Pituitary -> Secretes ONLY ONE hormone = MSH (Melanocyte Stimulating Hormone) -> Acts on Melanocytes to disperse Melanin pigment & darken skin!",
-    "memoryHook": "Middle lobe (Pars Intermedia) has a Single child = MSH! MSH tells Melanocytes to make and spread dark Melanin sunscreen!",
-    "fact": "The pituitary gland has two anatomical portions: Adenohypophysis and Neurohypophysis. Adenohypophysis consists of two portions: Pars Distalis and Pars Intermedia. Pars Intermedia secretes only one single hormone called Melanocyte Stimulating Hormone (MSH). MSH acts on melanocytes (melanin pigment-containing cells) and regulates pigmentation of the skin. In humans, pars intermedia is almost merged with pars distalis.",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Thymus = Behind Sternum, Thymosins Mediate Cell-Mediated Immunity (T-Lymphocytes)",
+    "memoryHook": "Thymus = Behind Sternum, Thymosins Mediate Cell-Mediated Immunity (T-Lymphocytes)",
+    "fact": "Location: Lobular structure located between lungs behind sternum on aorta. Hormone: Thymosins (peptide hormones playing major role in cell-mediated immunity). Differentiation: Promotes differentiation of T-lymphocytes for cell-mediated immunity and antibodies for humoral immunity",
     "breakdown": [
       {
-        "key": "Source Lobe",
-        "label": "Pars Intermedia (middle lobe of adenohypophysis, almost merged with pars distalis in humans)"
+        "key": "Location",
+        "label": "Lobular structure located between lungs behind sternum on aorta"
       },
       {
-        "key": "Single Secretion",
-        "label": "Melanocyte Stimulating Hormone (MSH)"
+        "key": "Hormone",
+        "label": "Thymosins (peptide hormones playing major role in cell-mediated immunity)"
       },
       {
-        "key": "Target Cells",
-        "label": "Melanocytes in the basal layer of epidermis"
-      },
-      {
-        "key": "Action",
-        "label": "Stimulates melanin synthesis and dispersion, regulating skin pigmentation"
+        "key": "Differentiation",
+        "label": "Promotes differentiation of T-lymphocytes for cell-mediated immunity and antibodies for humoral immunity"
       }
     ],
-    "doodleBadge": "Pars Intermedia = MSH Only\nMelanin Pigmentation",
-    "doodleSubtext": "Single Lobe Secretion",
-    "explanation": "In amphibians (frogs) and reptiles, MSH plays a dramatic role in physiological color change (camouflage) by dispersing melanin granules.",
-    "alsoRemember": "In adult humans, Pars Intermedia is almost completely coalesced with Pars Distalis.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.2.",
-    "neetTrap": "Pars Intermedia produces ONLY MSH; all other 6 anterior hormones come from Pars Distalis.",
+    "doodleBadge": "Thymus = Behind Sternum,",
+    "doodleSubtext": "Thymus Gland and Thymosi",
+    "explanation": "Immuno-endocrine gland promoting T-cell maturation that degenerates with age.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Thymus Gland and Thymosins.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.10",
     "tags": [
-      "MSH",
-      "Pars Intermedia",
-      "Melanocytes",
-      "Melanin",
-      "Pituitary"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Thymus"
     ],
-    "expandedMeaning": "Pigmentary neuroendocrine signaling from the intermediate hypophyseal lobe.",
-    "whyItWorks": "Single hormone matching: Pars Intermedia = MSH.",
-    "visualDescription": "Microscopic pituitary slice highlighting the thin middle boundary strip of Pars Intermedia labeled \"MSH -> Melanocytes\".",
-    "neetRelevance": "Common in structural sub-division matching questions.",
-    "commonMistake": "Attributing MSH secretion to the neurohypophysis.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 10,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which anatomical portion of the human pituitary gland secretes Melanocyte Stimulating Hormone (MSH)?",
+      "question": "Which of the following is associated with \"Thymus Gland and Thymosins\" in NEET Biology?",
       "options": [
-        "Pars Distalis",
-        "Pars Intermedia",
-        "Pars Nervosa",
-        "Infundibulum"
+        "Lobular structure located between lungs behind sternum on aorta",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Pars Intermedia secretes only one hormone: Melanocyte Stimulating Hormone (MSH)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Lobular structure located between lungs behind sternum on aorta\". Remember using: \"Thymus = Behind Sternum, Thymosins Mediate Cell-Mediated Immunity (T-Lymphocytes)\"."
     }
   },
   {
@@ -1258,70 +1076,55 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
-    "topicId": "bio-top-19-1",
-    "topicTitle": "Hormone Chemical Classification",
-    "topic": "Peptides/Proteins vs Steroids vs Iodothyronines vs Amino Acid Derivatives",
+    "classLevel": 11,
+    "topicId": "bio-top-19-2",
+    "topicTitle": "Adrenal Gland Anatomy (Cortex and Medulla)",
+    "topic": "Adrenal Gland Anatomy (Cortex and Medulla)",
     "mnemonicNumber": 18,
-    "title": "Hormone Chemistry: Peptides (Insulin/Glucagon/Pituitary), Steroids (Cortisol/Sex hormones), Iodothyronines (T3/T4), Amino Acid Derivatives (Adrenaline)",
-    "badgeText": "Classification",
-    "importance": "Must Know",
+    "title": "Adrenal Gland Anatomy (Cortex and Medulla): \"Adrenal on Kidneys: Outer Cortex (3 zones), Inner Medulla (Adrenaline)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "1) Peptide/Protein = Insulin, Glucagon, Pituitary, Hypothalamic hormones | 2) Steroids = Cortisol, Testosterone, Estradiol, Progesterone (from cholesterol) | 3) Iodothyronines = Thyroid T3 & T4 | 4) Amino Acid Derivatives = Epinephrine / Adrenaline (from Tyrosine)!",
-    "memoryHook": "Check the chemical pedigree: Steroids end in \"-one\" / \"-ol\" from adrenal/gonads; Adrenaline is a Tyrosine amino acid spark; T3/T4 have iodine rings; all the rest (Insulin, Pituitary) are Peptides/Proteins!",
-    "fact": "Chemical classification of hormones in NCERT: 1) Peptide, polypeptide, protein hormones: Insulin, Glucagon, Pituitary hormones, Hypothalamic hormones. 2) Steroids: Cortisol, Testosterone, Estradiol, and Progesterone (synthesized from cholesterol). 3) Iodothyronines: Thyroid hormones (T3 and T4). 4) Amino-acid derivatives: Epinephrine (Adrenaline) and Norepinephrine derived from amino acid Tyrosine.",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Adrenal on Kidneys: Outer Cortex (3 zones), Inner Medulla (Adrenaline)",
+    "memoryHook": "Adrenal on Kidneys: Outer Cortex (3 zones), Inner Medulla (Adrenaline)",
+    "fact": "Structure: Situated on anterior top of each kidney; composed of outer cortex and inner medulla. Cortex Zones (Outer to Inner): Zona glomerulosa (mineralocorticoids), Zona fasciculata (glucocorticoids), Zona reticularis (sex corticoids)",
     "breakdown": [
       {
-        "key": "Peptides & Proteins",
-        "label": "Insulin, Glucagon, Pituitary hormones (GH, TSH, ACTH, etc.), Hypothalamic hormones, PTH, TCT"
-      },
-      {
-        "key": "Steroid Hormones",
-        "label": "Cortisol, Aldosterone, Testosterone, Estrogen, Progesterone (Lipid soluble from cholesterol)"
-      },
-      {
-        "key": "Iodothyronines",
-        "label": "Thyroid hormones T3 (Triiodothyronine) and T4 (Tetraiodothyronine / Thyroxine)"
-      },
-      {
-        "key": "Amino Acid Derivatives",
-        "label": "Epinephrine and Norepinephrine (Catecholamines derived from Tyrosine), Melatonin (from Tryptophan)"
+        "key": "Structure",
+        "label": "Situated on anterior top of each kidney; composed of outer cortex and inner medulla"
       }
     ],
-    "doodleBadge": "Chemical Families:\nPeptides | Steroids | Iodothyronines | Amino Derivatives",
-    "doodleSubtext": "4 Biochemical Classes",
-    "explanation": "Steroid hormones are synthesized on-demand from cholesterol in the Smooth Endoplasmic Reticulum and cannot be stored in large vesicle pools.",
-    "alsoRemember": "Melatonin from the pineal gland is an amino acid derivative synthesized from Tryptophan.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.4.",
-    "neetTrap": "EPINEPHRINE is an amino-acid derivative (from Tyrosine), NOT a steroid hormone.",
+    "doodleBadge": "Adrenal on Kidneys: Oute",
+    "doodleSubtext": "Adrenal Gland Anatomy (C",
+    "explanation": "Zonal organization and dual embryological origin of adrenal glands. Chapter 19: Chemical Coordination and Integration (30 Mnemonics) \tPage 3",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Adrenal Gland Anatomy (Cortex and Medulla).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.10",
     "tags": [
-      "Hormone Chemistry",
-      "Peptides",
-      "Steroids",
-      "Iodothyronines",
-      "Amino Acid Derivatives",
-      "Epinephrine"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Adrenal"
     ],
-    "expandedMeaning": "Biochemical taxonomy and precursor categorization of vertebrate signaling molecules.",
-    "whyItWorks": "Four distinct chemical categories covering all NCERT hormones.",
-    "visualDescription": "Four chemical molecular structure boxes: Peptide chain, 4-ring Steroid, Iodinated benzene rings, and Tyrosine amine derivative.",
-    "neetRelevance": "One of the most frequently asked classification questions in NEET.",
-    "commonMistake": "Classifying Epinephrine as a steroid hormone.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 10,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following hormones is an amino-acid derivative synthesized from tyrosine?",
+      "question": "Which of the following is associated with \"Adrenal Gland Anatomy (Cortex and Medulla)\" in NEET Biology?",
       "options": [
-        "Insulin",
-        "Epinephrine (Adrenaline)",
-        "Cortisol",
-        "Estrogen"
+        "Adrenal on Kidneys: Outer Cortex (3 zones), Inner Medulla (Adrenaline)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Epinephrine (Adrenaline) is an amino-acid derivative synthesized from the amino acid Tyrosine."
+      "answerIndex": 0,
+      "explanation": "Zonal organization and dual embryological origin of adrenal glands. Chapter 19: Chemical Coordination and Integration (30 Mnemonics) \tPage 3"
     }
   },
   {
@@ -1330,71 +1133,55 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-2",
-    "topicTitle": "Diabetes Mellitus vs Diabetes Insipidus",
-    "topic": "Insulin Deficiency (Sweet Urine) vs ADH Deficiency (Watery Tasteless Urine)",
+    "topicTitle": "Adrenal Cortex Hormones (Glucocorticoids, Mineralocorticoids)",
+    "topic": "Adrenal Cortex Hormones (Glucocorticoids, Mineralocorticoids)",
     "mnemonicNumber": 19,
-    "title": "Diabetes Comparison: Mellitus = \"Honey Sweet\" (Insulin Defect / Sugar + Ketones in Urine) vs Insipidus = \"Tasteless\" (ADH Defect / Dilute Polyuria)",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
+    "title": "Adrenal Cortex Hormones (Glucocorticoids, Mineralocorticoids): \"Cortisol = Gluconeogenesis, Aldosterone = Na+ Retention & Water Balance\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Diabetes Mellitus = Lack of INSULIN (Hyperglycemia, Glycosuria, Ketonuria, Polyuria, Polydipsia, Polyphagia) | Diabetes Insipidus = Lack of ADH / Vasopressin from Posterior Pituitary (Massive dilute polyuria up to 15-20 L/day, Extreme thirst, ZERO sugar in urine)!",
-    "memoryHook": "Mellitus means Honey (Sweet urine attracting ants due to sugar). Insipidus means Tasteless (Pure water loss due to missing ADH filter valve)!",
-    "fact": "Differential diagnosis of Diabetes: 1) Diabetes Mellitus: Caused by deficiency of insulin or insulin resistance; characterized by chronic hyperglycemia, loss of glucose in urine (Glycosuria), formation of harmful ketone bodies (Ketonuria), excessive thirst (polydipsia), and frequent urination (polyuria). 2) Diabetes Insipidus: Caused by hyposecretion of Antidiuretic Hormone (ADH / Vasopressin) from posterior pituitary; inability of kidney tubules to reabsorb water, resulting in copious, dilute, tasteless urine (polyuria) with NO glucose or ketones.",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Cortisol = Gluconeogenesis, Aldosterone = Na+ Retention & Water Balance",
+    "memoryHook": "Cortisol = Gluconeogenesis, Aldosterone = Na+ Retention & Water Balance",
+    "fact": "Glucocorticoids (Cortisol): Involved in carbohydrate metabolism, stimulates gluconeogenesis, lipolysis, proteolysis, anti-inflammatory. Mineralocorticoids (Aldosterone): Regulates water and electrolyte balance; acts at renal tubules to reabsorb Na+ and water, excrete K+/PO43-. Androgenic Corticoids: Secreted in small amounts, stimulate axial/pubic hair growth during puberty",
     "breakdown": [
       {
-        "key": "Diabetes Mellitus Cause",
-        "label": "Insulin deficiency (Type 1) or target receptor resistance (Type 2)"
-      },
-      {
-        "key": "Mellitus Hallmarks",
-        "label": "Hyperglycemia, Glycosuria (sugar in urine), Ketonuria (ketone bodies in urine)"
-      },
-      {
-        "key": "Diabetes Insipidus Cause",
-        "label": "ADH (Vasopressin) hyposecretion from posterior pituitary / hypothalamus defect"
-      },
-      {
-        "key": "Insipidus Hallmarks",
-        "label": "Massive dilute polyuria, extreme dehydration/thirst, completely NO sugar or ketones in urine"
+        "key": "Androgenic Corticoids",
+        "label": "Secreted in small amounts, stimulate axial/pubic hair growth during puberty"
       }
     ],
-    "doodleBadge": "Mellitus = Insulin Lack (Sugar in Urine)\nInsipidus = ADH Lack (Pure Water Loss)",
-    "doodleSubtext": "2 Diabetes Types",
-    "explanation": "The term \"Mellitus\" comes from Latin for honey-sweet, because historical physicians diagnosed it by the sweet taste of urine.",
-    "alsoRemember": "Insulin is administered via subcutaneous injection because oral ingestion would digest the peptide hormone in stomach by pepsin.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.2.7 & 19.6.",
-    "neetTrap": "There is NO GLUCOSE or KETONE BODIES in the urine of a patient with Diabetes Insipidus.",
+    "doodleBadge": "Cortisol = Gluconeogenes",
+    "doodleSubtext": "Adrenal Cortex Hormones ",
+    "explanation": "Primary steroid hormones secreted by adrenal cortex regulating metabolism and electrolytes.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Adrenal Cortex Hormones (Glucocorticoids, Mineralocorticoids).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.11",
     "tags": [
-      "Diabetes Mellitus",
-      "Diabetes Insipidus",
-      "Insulin",
-      "ADH",
-      "Glycosuria",
-      "Ketonuria",
-      "Polyuria"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Adrenal"
     ],
-    "expandedMeaning": "Etiological and urinalysis differential diagnosis between pancreatic and neurohypophyseal diabetes syndromes.",
-    "whyItWorks": "Sweet (Mellitus/Insulin) vs Tasteless Water (Insipidus/ADH).",
-    "visualDescription": "Two urine test tubes: yellow with red glucose/ketone test strip (Mellitus) vs clear watery fluid with normal test strip (Insipidus).",
-    "neetRelevance": "Classic NCERT comparison question tested frequently in NEET.",
-    "commonMistake": "Assuming Diabetes Insipidus involves high blood sugar.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.2.7",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 11,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which clinical feature strictly distinguishes Diabetes Mellitus from Diabetes Insipidus during urinalysis?",
+      "question": "Identify the key feature of Adrenal Cortex Hormones (Glucocorticoids, Mineralocorticoids):",
       "options": [
-        "Excessive volume of urine (polyuria)",
-        "Intense thirst (polydipsia)",
-        "Presence of Glucose (Glycosuria) and Ketone bodies in urine",
-        "Dehydration"
+        "Glucocorticoids (Cortisol): Involved in carbohydrate metabolism, stimulates gluc",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Glycosuria (glucose in urine) and ketonuria are characteristic of Diabetes Mellitus and absent in Diabetes Insipidus."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Glucocorticoids (Cortisol): Involved in carbohydrate metabolism, stimulates gluconeogenesis, lipolysis, proteolysis, anti-inflammatory\". Remember using: \"Cortisol = Gluconeogenesis, Aldosterone = Na+ Retention & Water Balance\"."
     }
   },
   {
@@ -1403,71 +1190,693 @@ export const bioCh19Mnemonics = [
     "chapterId": "bio-ch-19",
     "chapterNumber": 19,
     "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
     "topicId": "bio-top-19-2",
-    "topicTitle": "Secondary Messengers in Hormone Action",
-    "topic": "cAMP, IP3, DAG, and Ca2+ as Intracellular Messengers",
+    "topicTitle": "Addison's Disease and Cushing's Syndrome",
+    "topic": "Addison's Disease and Cushing's Syndrome",
     "mnemonicNumber": 20,
-    "title": "Second Messengers: cAMP (Adenylate Cyclase), IP3 & DAG (Phospholipase C), and Ca2+ (Release from ER)",
-    "badgeText": "Memory Trick",
+    "title": "Addison's Disease and Cushing's Syndrome: \"Addison = Hypo-cortisol (Low BP, Pigmentation), Cushing = Hyper-cortisol (Moon face, High BP)\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "hard",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFE681",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Addison = Hypo-cortisol (Low BP, Pigmentation), Cushing = Hyper-cortisol (Moon face, High BP)",
+    "memoryHook": "Addison = Hypo-cortisol (Low BP, Pigmentation), Cushing = Hyper-cortisol (Moon face, High BP)",
+    "fact": "Addison's Disease: Underproduction of hormones by adrenal cortex causing hypoglycemia, weakness, skin pigmentation. Cushing's Syndrome: Overproduction of cortisol causing obesity, moon face, high blood pressure, hyperglycemia",
+    "breakdown": [
+      {
+        "key": "Addison's Disease",
+        "label": "Underproduction of hormones by adrenal cortex causing hypoglycemia, weakness, skin pigmentation"
+      },
+      {
+        "key": "Cushing's Syndrome",
+        "label": "Overproduction of cortisol causing obesity, moon face, high blood pressure, hyperglycemia"
+      }
+    ],
+    "doodleBadge": "Addison = Hypo-cortisol ",
+    "doodleSubtext": "Addison's Disease and Cu",
+    "explanation": "Clinical contrasting disorders of adrenal cortical insufficiency versus excess.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Addison's Disease and Cushing's Syndrome.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.11",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Addison's"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 11,
+      "chapter": "Chemical Coordination and Integration"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Addison's Disease and Cushing's Syndrome\" in NEET Biology?",
+      "options": [
+        "Addison = Hypo-cortisol (Low BP, Pigmentation), Cushing = Hyper-cortisol (Moon face, High BP)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Clinical contrasting disorders of adrenal cortical insufficiency versus excess."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch19-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-19",
+    "chapterNumber": 19,
+    "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
+    "topicId": "bio-top-19-3",
+    "topicTitle": "Adrenal Medulla Hormones (Catecholamines)",
+    "topic": "Adrenal Medulla Hormones (Catecholamines)",
+    "mnemonicNumber": 21,
+    "title": "Adrenal Medulla Hormones (Catecholamines): \"Adrenaline + Noradrenaline = Fight or Flight Hormones (Emergency Response)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Adrenaline + Noradrenaline = Fight or Flight Hormones (Emergency Response)",
+    "memoryHook": "Adrenaline + Noradrenaline = Fight or Flight Hormones (Emergency Response)",
+    "fact": "Hormones: Adrenaline (Epinephrine) and Noradrenaline (Norepinephrine) collectively called catecholamines. Trigger: Secreted in response to stress, emergency, fear, or danger (Fight or Flight). Effects: Increases heart rate, heart contraction strength, respiration rate, pupil dilation, and breakdown of glycogen",
+    "breakdown": [
+      {
+        "key": "Hormones",
+        "label": "Adrenaline (Epinephrine) and Noradrenaline (Norepinephrine) collectively called catecholamines"
+      },
+      {
+        "key": "Trigger",
+        "label": "Secreted in response to stress, emergency, fear, or danger (Fight or Flight)"
+      },
+      {
+        "key": "Effects",
+        "label": "Increases heart rate, heart contraction strength, respiration rate, pupil dilation, and breakdown of glycogen"
+      }
+    ],
+    "doodleBadge": "Adrenaline + Noradrenali",
+    "doodleSubtext": "Adrenal Medulla Hormones",
+    "explanation": "Sympathomimetic hormones preparing the body for rapid physical emergency action.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Adrenal Medulla Hormones (Catecholamines).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.11",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Adrenal"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 11,
+      "chapter": "Chemical Coordination and Integration"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Adrenal Medulla Hormones (Catecholamines)\" in NEET Biology?",
+      "options": [
+        "Adrenaline (Epinephrine) and Noradrenaline (Norepinephrine) collectively called ",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Adrenaline (Epinephrine) and Noradrenaline (Norepinephrine) collectively called catecholamines\". Remember using: \"Adrenaline + Noradrenaline = Fight or Flight Hormones (Emergency Response)\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch19-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-19",
+    "chapterNumber": 19,
+    "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
+    "topicId": "bio-top-19-3",
+    "topicTitle": "Pancreas as Composite Gland (Islets of Langerhans)",
+    "topic": "Pancreas as Composite Gland (Islets of Langerhans)",
+    "mnemonicNumber": 22,
+    "title": "Pancreas as Composite Gland (Islets of Langerhans): \"Alpha = Glucagon (Hyperglycemic), Beta = Insulin (Hypoglycemic)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Alpha = Glucagon (Hyperglycemic), Beta = Insulin (Hypoglycemic)",
+    "memoryHook": "Alpha = Glucagon (Hyperglycemic), Beta = Insulin (Hypoglycemic)",
+    "fact": "Composite Gland: Acts as both exocrine (digestive enzymes) and endocrine (Islets of Langerhans, 1-2% of tissue). Alpha Cells: Secrete Glucagon (increases blood glucose by glycogenolysis and gluconeogenesis). Beta Cells: Secrete Insulin (decreases blood glucose by cellular uptake and glycogenesis)",
+    "breakdown": [
+      {
+        "key": "Composite Gland",
+        "label": "Acts as both exocrine (digestive enzymes) and endocrine (Islets of Langerhans, 1-2% of tissue)"
+      },
+      {
+        "key": "Alpha Cells",
+        "label": "Secrete Glucagon (increases blood glucose by glycogenolysis and gluconeogenesis)"
+      },
+      {
+        "key": "Beta Cells",
+        "label": "Secrete Insulin (decreases blood glucose by cellular uptake and glycogenesis)"
+      }
+    ],
+    "doodleBadge": "Alpha = Glucagon (Hyperg",
+    "doodleSubtext": "Pancreas as Composite Gl",
+    "explanation": "Endocrine pancreas cell types maintaining strict blood glucose homeostasis.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Pancreas as Composite Gland (Islets of Langerhans).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.11",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Pancreas"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 11,
+      "chapter": "Chemical Coordination and Integration"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Pancreas as Composite Gland (Islets of Langerhans)\" in NEET Biology?",
+      "options": [
+        "Acts as both exocrine (digestive enzymes) and endocrine (Islets of Langerhans, 1",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Acts as both exocrine (digestive enzymes) and endocrine (Islets of Langerhans, 1-2% of tissue)\". Remember using: \"Alpha = Glucagon (Hyperglycemic), Beta = Insulin (Hypoglycemic)\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch19-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-19",
+    "chapterNumber": 19,
+    "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
+    "topicId": "bio-top-19-3",
+    "topicTitle": "Diabetes Mellitus",
+    "topic": "Diabetes Mellitus",
+    "mnemonicNumber": 23,
+    "title": "Diabetes Mellitus: \"DM = Low Insulin Resistance -> High Blood Glucose (Hyperglycemia) + Glycosuria\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "DM = Low Insulin Resistance -> High Blood Glucose (Hyperglycemia) + Glycosuria",
+    "memoryHook": "DM = Low Insulin Resistance -> High Blood Glucose (Hyperglycemia) + Glycosuria",
+    "fact": "Cause: Prolonged hyperglycemia due to insulin deficiency or receptor resistance. Symptoms: Loss of glucose in urine (glycosuria) and formation of ketone bodies. Treatment: Insulin therapy and dietary management",
+    "breakdown": [
+      {
+        "key": "Cause",
+        "label": "Prolonged hyperglycemia due to insulin deficiency or receptor resistance"
+      },
+      {
+        "key": "Symptoms",
+        "label": "Loss of glucose in urine (glycosuria) and formation of ketone bodies"
+      },
+      {
+        "key": "Treatment",
+        "label": "Insulin therapy and dietary management"
+      }
+    ],
+    "doodleBadge": "DM = Low Insulin Resista",
+    "doodleSubtext": "Diabetes Mellitus",
+    "explanation": "Metabolic disorder characterized by impaired carbohydrate utilization and chronic hyperglycemia.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Diabetes Mellitus.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.11",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Diabetes"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 11,
+      "chapter": "Chemical Coordination and Integration"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Diabetes Mellitus\" in NEET Biology?",
+      "options": [
+        "Prolonged hyperglycemia due to insulin deficiency or receptor resistance",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Prolonged hyperglycemia due to insulin deficiency or receptor resistance\". Remember using: \"DM = Low Insulin Resistance -> High Blood Glucose (Hyperglycemia) + Glycosuria\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch19-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-19",
+    "chapterNumber": 19,
+    "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
+    "topicId": "bio-top-19-3",
+    "topicTitle": "Testis Hormones (Androgens / Testosterone)",
+    "topic": "Testis Hormones (Androgens / Testosterone)",
+    "mnemonicNumber": 24,
+    "title": "Testis Hormones (Androgens / Testosterone): \"Testis Leydig Cells Produce Testosterone; Regulates Spermatogenesis & Secondary Sex Characters\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
     "badgeColor": "#A66CFF",
-    "mnemonic": "First Messenger (Hormone at Cell Surface) -> G-Protein Activation -> Effector Enzyme -> 2nd Messengers: 1) Adenylate Cyclase generates cAMP | 2) Phospholipase C cleaves PIP2 into IP3 + DAG | 3) IP3 triggers Ca2+ release from Endoplasmic Reticulum!",
-    "memoryHook": "The hormone is the 1st Mailman outside the gate. G-protein rings the bell. Adenylate Cyclase makes cAMP, while Phospholipase C splits into IP3 and DAG to release Calcium fireworks inside the room!",
-    "fact": "Hormones that interact with membrane-bound receptors do not enter the target cell but generate Second Messengers inside the cytoplasm. Primary second messenger systems: 1) Cyclic AMP (cAMP): Generated from ATP by membrane-bound Adenylate Cyclase, activates Protein Kinase A (PKA). 2) Inositol Trisphosphate (IP3) and Diacylglycerol (DAG): Generated by cleavage of membrane PIP2 by Phospholipase C; IP3 binds receptors on endoplasmic reticulum to release Ca²⁺ into cytoplasm. 3) Calcium ions (Ca²⁺): Binds Calmodulin to activate downstream kinases.",
+    "mnemonic": "Testis Leydig Cells Produce Testosterone; Regulates Spermatogenesis & Secondary Sex Characters",
+    "memoryHook": "Testis Leydig Cells Produce Testosterone; Regulates Spermatogenesis & Secondary Sex Characters",
+    "fact": "Location: Leydig (interstitial) cells present in intertubular spaces of testis. Hormone: Androgens (primarily testosterone). Functions: Regulates maturation of male accessory sex organs, spermatogenesis, libido, and secondary sexual characters",
+    "breakdown": [
+      {
+        "key": "Location",
+        "label": "Leydig (interstitial) cells present in intertubular spaces of testis"
+      },
+      {
+        "key": "Hormone",
+        "label": "Androgens (primarily testosterone)"
+      },
+      {
+        "key": "Functions",
+        "label": "Regulates maturation of male accessory sex organs, spermatogenesis, libido, and secondary sexual characters"
+      }
+    ],
+    "doodleBadge": "Testis Leydig Cells Prod",
+    "doodleSubtext": "Testis Hormones (Androge",
+    "explanation": "Male gonadal steroidogenesis driving primary and secondary sexual maturation. Chapter 19: Chemical Coordination and Integration (30 Mnemonics) \tPage 4",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Testis Hormones (Androgens / Testosterone).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.11",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Testis"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 11,
+      "chapter": "Chemical Coordination and Integration"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Testis Hormones (Androgens / Testosterone)\" in NEET Biology?",
+      "options": [
+        "Leydig (interstitial) cells present in intertubular spaces of testis",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Leydig (interstitial) cells present in intertubular spaces of testis\". Remember using: \"Testis Leydig Cells Produce Testosterone; Regulates Spermatogenesis & Secondary Sex Characters\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch19-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-19",
+    "chapterNumber": 19,
+    "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
+    "topicId": "bio-top-19-3",
+    "topicTitle": "Ovary Hormones (Estrogen and Progesterone)",
+    "topic": "Ovary Hormones (Estrogen and Progesterone)",
+    "mnemonicNumber": 25,
+    "title": "Ovary Hormones (Estrogen and Progesterone): \"Ovary = Graafian Follicle makes Estrogen, Corpus Luteum makes Progesterone\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Ovary = Graafian Follicle makes Estrogen, Corpus Luteum makes Progesterone",
+    "memoryHook": "Ovary = Graafian Follicle makes Estrogen, Corpus Luteum makes Progesterone",
+    "fact": "Estrogen: Synthesized by growing ovarian follicles; stimulates growth of female secondary sex organs and uterine changes. Progesterone: Secreted by corpus luteum; supports pregnancy, maintains endometrium, and stimulates mammary gland milk secretion",
+    "breakdown": [
+      {
+        "key": "Estrogen",
+        "label": "Synthesized by growing ovarian follicles; stimulates growth of female secondary sex organs and uterine changes"
+      },
+      {
+        "key": "Progesterone",
+        "label": "Secreted by corpus luteum; supports pregnancy, maintains endometrium, and stimulates mammary gland milk secretion"
+      }
+    ],
+    "doodleBadge": "Ovary = Graafian Follicl",
+    "doodleSubtext": "Ovary Hormones (Estrogen",
+    "explanation": "Female sex steroid hormones orchestrating menstrual cycle, pregnancy, and secondary characters.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Ovary Hormones (Estrogen and Progesterone).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.12",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Ovary"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 12,
+      "chapter": "Chemical Coordination and Integration"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Ovary Hormones (Estrogen and Progesterone)\" in NEET Biology?",
+      "options": [
+        "Ovary = Graafian Follicle makes Estrogen, Corpus Luteum makes Progesterone",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Female sex steroid hormones orchestrating menstrual cycle, pregnancy, and secondary characters."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch19-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-19",
+    "chapterNumber": 19,
+    "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
+    "topicId": "bio-top-19-3",
+    "topicTitle": "Hormones of Heart, Kidney, and GI Tract",
+    "topic": "Hormones of Heart, Kidney, and GI Tract",
+    "mnemonicNumber": 26,
+    "title": "Hormones of Heart, Kidney, and GI Tract: \"Heart ANF (Lowers BP), Kidney EPO (RBC), GI Tract Gastrin/Secretin (Digestion)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Heart ANF (Lowers BP), Kidney EPO (RBC), GI Tract Gastrin/Secretin (Digestion)",
+    "memoryHook": "Heart ANF (Lowers BP), Kidney EPO (RBC), GI Tract Gastrin/Secretin (Digestion)",
+    "fact": "Atrial Wall: Secretes Atrial Natriuretic Factor (ANF) which decreases blood pressure by vasodilation. Juxtaglomerular Cells of Kidney: Produce Erythropoietin (EPO) which stimulates erythropoiesis (RBC formation). Gastrointestinal Tract: Secretes peptide hormones Gastrin, Secretin, CCK, and GIP regulating digestive secretions",
+    "breakdown": [
+      {
+        "key": "Atrial Wall",
+        "label": "Secretes Atrial Natriuretic Factor (ANF) which decreases blood pressure by vasodilation"
+      },
+      {
+        "key": "Gastrointestinal Tract",
+        "label": "Secretes peptide hormones Gastrin, Secretin, CCK, and GIP regulating digestive secretions"
+      }
+    ],
+    "doodleBadge": "Heart ANF (Lowers BP), K",
+    "doodleSubtext": "Hormones of Heart, Kidne",
+    "explanation": "Non-endocrine organ endocrine secretions coordinating systemic circulation and digestion.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Hormones of Heart, Kidney, and GI Tract.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.12",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Hormones"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 12,
+      "chapter": "Chemical Coordination and Integration"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hormones of Heart, Kidney, and GI Tract\" in NEET Biology?",
+      "options": [
+        "Secretes Atrial Natriuretic Factor (ANF) which decreases blood pressure by vasod",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Secretes Atrial Natriuretic Factor (ANF) which decreases blood pressure by vasodilation\". Remember using: \"Heart ANF (Lowers BP), Kidney EPO (RBC), GI Tract Gastrin/Secretin (Digestion)\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch19-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-19",
+    "chapterNumber": 19,
+    "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
+    "topicId": "bio-top-19-3",
+    "topicTitle": "Mechanism of Hormone Action (Receptor Types)",
+    "topic": "Mechanism of Hormone Action (Receptor Types)",
+    "mnemonicNumber": 27,
+    "title": "Mechanism of Hormone Action (Receptor Types): \"Peptide Hormones = Membrane Receptors (Second Messengers); Steroid Hormones = Intracellular Receptors (Gene Expression)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Peptide Hormones = Membrane Receptors (Second Messengers); Steroid Hormones = Intracellular Receptors (Gene Expression)",
+    "memoryHook": "Peptide Hormones = Membrane Receptors (Second Messengers); Steroid Hormones = Intracellular Receptors (Gene Expression)",
+    "fact": "Membrane-bound Receptors: For water-soluble hormones (peptide, protein, amines); generate second messengers (cAMP, IP3, Ca2+). Intracellular Receptors: For lipid-soluble hormones (steroids, iodothyronines); directly interact with DNA to regulate gene expression",
+    "breakdown": [
+      {
+        "key": "Membrane",
+        "label": "bound Receptors: For water-soluble hormones (peptide, protein, amines); generate second messengers (cAMP, IP3, Ca2+)"
+      },
+      {
+        "key": "Intracellular Receptors",
+        "label": "For lipid-soluble hormones (steroids, iodothyronines); directly interact with DNA to regulate gene expression"
+      }
+    ],
+    "doodleBadge": "Peptide Hormones = Membr",
+    "doodleSubtext": "Mechanism of Hormone Act",
+    "explanation": "Biochemical classification of hormone receptor localization and signal transduction pathways.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Mechanism of Hormone Action (Receptor Types).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.12",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Mechanism"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 12,
+      "chapter": "Chemical Coordination and Integration"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Mechanism of Hormone Action (Receptor Types)\" in NEET Biology?",
+      "options": [
+        "Peptide Hormones = Membrane Receptors (Second Messengers); Steroid Hormones = Intracellular Receptors (Gene Expression)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Biochemical classification of hormone receptor localization and signal transduction pathways."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch19-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-19",
+    "chapterNumber": 19,
+    "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
+    "topicId": "bio-top-19-3",
+    "topicTitle": "Second Messenger System (cAMP, IP3)",
+    "topic": "Second Messenger System (cAMP, IP3)",
+    "mnemonicNumber": 28,
+    "title": "Second Messenger System (cAMP, IP3): \"Hormone (1st Messenger) -> Receptor -> cAMP (2nd Messenger) -> Biochemical Response\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Hormone (1st Messenger) -> Receptor -> cAMP (2nd Messenger) -> Biochemical Response",
+    "memoryHook": "Hormone (1st Messenger) -> Receptor -> cAMP (2nd Messenger) -> Biochemical Response",
+    "fact": "First Messenger: Hormone binding to membrane receptor outside cell. Second Messenger: Generated inside cell (e.g., cAMP, Ca2+, IP3) to regulate cellular metabolism. Amplification: Cascade of enzyme reactions producing rapid physiological response",
     "breakdown": [
       {
         "key": "First Messenger",
-        "label": "Extracellular hormone (e.g., Epinephrine, FSH, Glucagon, ACTH)"
+        "label": "Hormone binding to membrane receptor outside cell"
       },
       {
-        "key": "Second Messenger 1: cAMP",
-        "label": "Generated by Adenylate Cyclase; activates Protein Kinase A (PKA)"
+        "key": "Second Messenger",
+        "label": "Generated inside cell (e.g., cAMP, Ca2+, IP3) to regulate cellular metabolism"
       },
       {
-        "key": "Second Messenger 2: IP3 & DAG",
-        "label": "Generated by Phospholipase C; IP3 mobilizes intracellular Ca²⁺ from ER stores"
-      },
-      {
-        "key": "Second Messenger 3: Ca2+",
-        "label": "Binds calmodulin protein to regulate cell contraction, secretion, and metabolism"
+        "key": "Amplification",
+        "label": "Cascade of enzyme reactions producing rapid physiological response"
       }
     ],
-    "doodleBadge": "1st Messenger: Hormone\n2nd Messengers: cAMP, IP3, DAG, Ca2+",
-    "doodleSubtext": "Second Messenger Quartet",
-    "explanation": "Signal amplification occurs because a single hormone-receptor interaction can generate thousands of cAMP molecules, activating millions of enzyme molecules.",
-    "alsoRemember": "Phosphodiesterase (PDE) enzyme terminates hormone signaling by hydrolyzing active cAMP to inactive 5'-AMP.",
-    "ncertConnection": "NCERT Class 11 Biology Section 22.4.",
-    "neetTrap": "cAMP, IP3, DAG, and Ca2+ are SECOND messengers; the hormone itself is the FIRST messenger.",
+    "doodleBadge": "Hormone (1st Messenger) ",
+    "doodleSubtext": "Second Messenger System ",
+    "explanation": "Signal amplification cascade utilized by hydrophilic protein and peptide hormones.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Second Messenger System (cAMP, IP3).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.12",
     "tags": [
-      "Second Messengers",
-      "cAMP",
-      "IP3",
-      "DAG",
-      "Calcium",
-      "Adenylate Cyclase",
-      "Signal Transduction"
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Second"
     ],
-    "expandedMeaning": "Intracellular enzymatic cascade mechanics and second messenger generation downstream of G-protein coupled receptors.",
-    "whyItWorks": "Mailman (1st messenger) vs Butler team (cAMP, IP3, DAG, Ca2+ second messengers).",
-    "visualDescription": "Membrane diagram showing hormone binding receptor, activating G-protein, spinning Adenylate Cyclase wheel to produce cloud of cAMP sparks.",
-    "neetRelevance": "Common in advanced signal transduction and second messenger identification MCQs.",
-    "commonMistake": "Classifying the extracellular hormone as a second messenger.",
-    "sourceReference": "NCERT Class 11 Chapter 22 Section 22.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 12,
+      "chapter": "Chemical Coordination and Integration"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following acts as an intracellular SECOND MESSENGER in the action of water-soluble peptide hormones?",
+      "question": "Which of the following is associated with \"Second Messenger System (cAMP, IP3)\" in NEET Biology?",
       "options": [
-        "Insulin",
-        "Cyclic AMP (cAMP)",
-        "Follicle Stimulating Hormone (FSH)",
-        "Estrogen"
+        "Hormone binding to membrane receptor outside cell",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Cyclic AMP (cAMP), IP3, DAG, and Ca²⁺ act as second messengers inside target cells to mediate peptide hormone action."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Hormone binding to membrane receptor outside cell\". Remember using: \"Hormone (1st Messenger) -> Receptor -> cAMP (2nd Messenger) -> Biochemical Response\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch19-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-19",
+    "chapterNumber": 19,
+    "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
+    "topicId": "bio-top-19-3",
+    "topicTitle": "Hormone-Receptor Complex (Steroid Action)",
+    "topic": "Hormone-Receptor Complex (Steroid Action)",
+    "mnemonicNumber": 29,
+    "title": "Hormone-Receptor Complex (Steroid Action): \"Steroid Crosses Membrane -> Binds Nuclear Receptor -> Hormone-Receptor Complex -> Genome Interaction -> Protein Synthesis\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Steroid Crosses Membrane -> Binds Nuclear Receptor -> Hormone-Receptor Complex -> Genome Interaction -> Protein Synthesis",
+    "memoryHook": "Steroid Crosses Membrane -> Binds Nuclear Receptor -> Hormone-Receptor Complex -> Genome Interaction -> Protein Synthesis",
+    "fact": "Transport: Lipid-soluble steroid hormones easily cross cell membrane. Nuclear Binding: Bind intracellular receptors inside nucleus. Response: Hormone-receptor complex interacts with genome to control gene expression and protein synthesis (slower, long-lasting)",
+    "breakdown": [
+      {
+        "key": "Transport",
+        "label": "Lipid-soluble steroid hormones easily cross cell membrane"
+      },
+      {
+        "key": "Nuclear Binding",
+        "label": "Bind intracellular receptors inside nucleus"
+      },
+      {
+        "key": "Response",
+        "label": "Hormone-receptor complex interacts with genome to control gene expression and protein synthesis (slower, long-lasting)"
+      }
+    ],
+    "doodleBadge": "Steroid Crosses Membrane",
+    "doodleSubtext": "Hormone-Receptor Complex",
+    "explanation": "Direct genomic mechanism of action characteristic of steroid and thyroid hormones.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Hormone-Receptor Complex (Steroid Action).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.12",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Hormone-Receptor"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 12,
+      "chapter": "Chemical Coordination and Integration"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hormone-Receptor Complex (Steroid Action)\" in NEET Biology?",
+      "options": [
+        "Lipid-soluble steroid hormones easily cross cell membrane",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Lipid-soluble steroid hormones easily cross cell membrane\". Remember using: \"Steroid Crosses Membrane -> Binds Nuclear Receptor -> Hormone-Receptor Complex -> Genome Interaction -> Protein Synthesis\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch19-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-19",
+    "chapterNumber": 19,
+    "chapterTitle": "Chemical Coordination and Integration",
+    "classLevel": 11,
+    "topicId": "bio-top-19-3",
+    "topicTitle": "Feedback Control in Endocrine Systems",
+    "topic": "Feedback Control in Endocrine Systems",
+    "mnemonicNumber": 30,
+    "title": "Feedback Control in Endocrine Systems: \"Negative Feedback Inhibits, Positive Feedback Amplifies Hormone Output\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "Negative Feedback Inhibits, Positive Feedback Amplifies Hormone Output",
+    "memoryHook": "Negative Feedback Inhibits, Positive Feedback Amplifies Hormone Output",
+    "fact": "Negative Feedback: High level of target hormone inhibits pituitary/hypothalamic release (most common homeostatic loop). Positive Feedback: Hormone release stimulates further production (e.g., oxytocin surge during childbirth)",
+    "breakdown": [
+      {
+        "key": "Negative Feedback",
+        "label": "High level of target hormone inhibits pituitary/hypothalamic release (most common homeostatic loop)"
+      },
+      {
+        "key": "Positive Feedback",
+        "label": "Hormone release stimulates further production (e.g., oxytocin surge during childbirth)"
+      }
+    ],
+    "doodleBadge": "Negative Feedback Inhibi",
+    "doodleSubtext": "Feedback Control in Endo",
+    "explanation": "Homeostatic regulatory loops maintaining precise hormonal balance in human body. Chapter 19: Chemical Coordination and Integration (30 Mnemonics) \tPage 5",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 19 (Chemical Coordination and Integration).",
+    "neetTrap": "Pay close attention to exact terminology in Feedback Control in Endocrine Systems.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 19, Page from PDF p.12",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Chemical Coordination and Integration",
+      "Feedback"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 12,
+      "chapter": "Chemical Coordination and Integration"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Feedback Control in Endocrine Systems\" in NEET Biology?",
+      "options": [
+        "Negative Feedback Inhibits, Positive Feedback Amplifies Hormone Output",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Homeostatic regulatory loops maintaining precise hormonal balance in human body. Chapter 19: Chemical Coordination and Integration (30 Mnemonics) \tPage 5"
     }
   }
 ];

@@ -1,6 +1,7 @@
 /**
- * Biology Chapter 23: Principles of Inheritance and Variation
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 23 (NCERT Ch 4): Principles of Inheritance and Variation
+ * Class 12 Biology (50 verified mnemonics)
+ * Primary Source: NCERT Class 12 Biology Quick Revision Series (PDF 2)
  */
 
 export const bioCh23Mnemonics = [
@@ -10,70 +11,80 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
     "topicId": "bio-top-23-1",
-    "topicTitle": "Mendel's 7 Characters in Garden Pea",
-    "topic": "7 Contrasting Traits of Pisum sativum (Dominant vs Recessive)",
+    "topicTitle": "Mendel's",
+    "topic": "Mendel's",
     "mnemonicNumber": 1,
-    "title": "Mendel's 7 Pea Traits: Seed (Round/Yellow) | Pod (Inflated/Green) | Flower (Violet/Axial) | Stem (Tall)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 1,
+    "title": "Mendel's: \"7 Pea Characters \tS - P - F - C - C - P - H\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "visualType": "classification",
-    "mnemonicType": "classification",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Dominant Traits: Tall stem, Violet flower, Axial flower, Inflated pod, Green pod, Round seed, Yellow seed! Recessive: Dwarf, White flower, Terminal flower, Constricted pod, Yellow pod, Wrinkled seed, Green seed!",
-    "memoryHook": "Seed color vs Pod color Trap: Yellow is Dominant for SEEDS, but Green is Dominant for PODS! (A yellow green bean pod is diseased/recessive, but yellow corn/pea seeds are delicious/dominant)!",
-    "fact": "Gregor Mendel conducted hybridization experiments on garden peas (Pisum sativum) for 7 years (1856-1863) and studied 7 pairs of contrasting traits: 1) Stem height: Tall (D) / Dwarf (r), 2) Flower color: Violet (D) / White (r), 3) Flower position: Axial (D) / Terminal (r), 4) Pod shape: Inflated (D) / Constricted (r), 5) Pod color: Green (D) / Yellow (r), 6) Seed shape: Round (D) / Wrinkled (r), 7) Seed color: Yellow (D) / Green (r). Pea plants have 2n = 14 chromosomes distributed across 4 linkage groups (chromosomes 1, 4, 5, 7).",
+    "mnemonic": "7 Pea Characters \tS - P - F - C - C - P - H",
+    "memoryHook": "7 Pea Characters \tS - P - F - C - C - P - H",
+    "fact": "Stem height • Pod color • Flower color • Cotyledon color (seed) • Cotyledon shape (seed) • Pod shape • Hower position (axial/terminal) Mendel selected 7 contrasting pairs of characters in the garden pea (Pisum sativum).",
     "breakdown": [
       {
-        "key": "Stem & Flower Traits",
-        "label": "Height: Tall > Dwarf | Flower Color: Violet > White | Position: Axial > Terminal"
+        "key": "Part 1",
+        "label": "7 Pea Characters \tS"
       },
       {
-        "key": "Pod Traits",
-        "label": "Shape: Inflated > Constricted | Color: GREEN > Yellow"
+        "key": "Part 2",
+        "label": "P"
       },
       {
-        "key": "Seed Traits",
-        "label": "Shape: Round > Wrinkled | Color: YELLOW > Green"
+        "key": "Part 3",
+        "label": "F"
       },
       {
-        "key": "Classic Color Reversal Trap",
-        "label": "Seed color: Yellow is Dominant; Pod color: Green is Dominant"
+        "key": "Part 4",
+        "label": "C"
+      },
+      {
+        "key": "Part 5",
+        "label": "C"
+      },
+      {
+        "key": "Part 6",
+        "label": "P"
+      },
+      {
+        "key": "Part 7",
+        "label": "H"
       }
     ],
-    "doodleBadge": "7 Pea Traits:\nSeed Yellow > Green | Pod Green > Yellow",
-    "doodleSubtext": "Mendelian Contrasts",
-    "explanation": "Mendel was fortunate because the 7 characters he chose were located on 4 different chromosomes and showed no confounding genetic linkage.",
-    "alsoRemember": "Mendel's work remained unrecognized until 1900 when de Vries, Correns, and von Tschermak independently rediscovered his principles.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 5, Section 5.1.",
-    "neetTrap": "Pod color: GREEN is dominant (yellow is recessive); Seed color: YELLOW is dominant (green is recessive).",
+    "doodleBadge": "7 Pea Characters \tS - P ",
+    "doodleSubtext": "Mendel's",
+    "explanation": "Stem height • Pod color • Flower color • Cotyledon color (seed) • Cotyledon shape (seed) • Pod shape • Hower position (axial/terminal) Mendel selected 7 contrasting pairs of characters in the garden pea (Pisum sativum).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Mendel's.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 47",
     "tags": [
-      "Mendel",
-      "Pisum sativum",
-      "7 Traits",
-      "Dominant",
-      "Recessive",
-      "Garden Pea"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Mendel's"
     ],
-    "expandedMeaning": "Systematic phenotypic characterization and dominant-recessive allelic polarization in classical Mendelian genetics.",
-    "whyItWorks": "Clear pairing with special emphasis on the famous Pod Color vs Seed Color trap.",
-    "visualDescription": "Comparison table showing 7 green checkmark dominant pea traits next to 7 recessive variations, highlighting reversed pod vs seed colors.",
-    "neetRelevance": "One of the most frequently asked foundational questions in genetics.",
-    "commonMistake": "Thinking green seed color is dominant.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 47,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following traits in garden pea (Pisum sativum) studied by Mendel represents a RECESSIVE trait?",
+      "question": "Which of the following is associated with \"Mendel's\" in NEET Biology?",
       "options": [
-        "Yellow seed color",
-        "Violet flower color",
-        "Yellow pod color",
-        "Inflated pod shape"
+        "7 Pea Characters \tS - P - F - C - C - P - H",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Yellow pod color is a recessive trait (Green pod color is dominant), whereas Yellow seed color is dominant."
+      "answerIndex": 0,
+      "explanation": "Stem height • Pod color • Flower color • Cotyledon color (seed) • Cotyledon shape (seed) • Pod shape • Hower position (axial/terminal) Mendel selected 7 contrasting pairs of characters in the garden pea (Pisum sativum)."
     }
   },
   {
@@ -82,74 +93,80 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
     "topicId": "bio-top-23-1",
-    "topicTitle": "Incomplete Dominance: Snapdragon (Antirrhinum)",
-    "topic": "1:2:1 Phenotypic and Genotypic Ratios in Mirabilis & Snapdragon",
+    "topicTitle": "Dominant",
+    "topic": "Dominant",
     "mnemonicNumber": 2,
-    "title": "Incomplete Dominance: Snapdragon (Antirrhinum majus) = 1 Red (RR) : 2 Pink (Rr) : 1 White (rr) -> Phenotypic Ratio EQUALS Genotypic Ratio (1:2:1)!",
-    "badgeText": "Formula",
+    "sourceItemNumber": 2,
+    "title": "Dominant: \"Traits in Pea Plant \tT - G - Y - R - I - F - A\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Incomplete Dominance (Snapdragon / Dog Flower / Antirrhinum & Mirabilis jalapa): Red (RR) x White (rr) -> F1 is 100% PINK (Rr)! In F2 generation: 1 Red (RR) : 2 Pink (Rr) : 1 White (rr) -> Phenotypic (1:2:1) = Genotypic (1:2:1)!",
-    "memoryHook": "Incomplete dominance mixes the paint! Red paint + White paint = Pink flowers (Rr). Because every genotype shows its own unique color, the Phenotypic Ratio and Genotypic Ratio are IDENTICALLY 1:2:1!",
-    "fact": "Incomplete Dominance: When an allele is not completely dominant over another allele, the heterozygous phenotype is intermediate between the two homozygous phenotypes. Classic example: Snapdragon (Antirrhinum majus / Dog flower) and Mirabilis jalapa (4 o'clock plant). Cross between pure Red (RR) and White (rr) gives Pink (Rr) in F1. Selfing F1 gives F2: 1 Red (RR) : 2 Pink (Rr) : 1 White (rr). Key hallmark: Phenotypic ratio (1 Red : 2 Pink : 1 White) is exactly the same as the Genotypic ratio (1 RR : 2 Rr : 1 rr), completely deviating from Mendelian 3:1 phenotypic ratio.",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Traits in Pea Plant \tT - G - Y - R - I - F - A",
+    "memoryHook": "Traits in Pea Plant \tT - G - Y - R - I - F - A",
+    "fact": "Tall • Green pod • Yellow seed color • Round seed • Inflated pod • Flower axial • Alpha color (Violet flower) These are the 7 dominant phenotypic traits expressed in the heterozygous F1 generation.",
     "breakdown": [
       {
-        "key": "Classic Examples",
-        "label": "Snapdragon (Antirrhinum majus / Dog flower) and Mirabilis jalapa (Four o'clock plant)"
+        "key": "Part 1",
+        "label": "Traits in Pea Plant \tT"
       },
       {
-        "key": "F1 Generation",
-        "label": "100% Pink flowers (Rr) due to intermediate pigment expression"
+        "key": "Part 2",
+        "label": "G"
       },
       {
-        "key": "F2 Phenotypic Ratio",
-        "label": "1 Red : 2 Pink : 1 White (1:2:1)"
+        "key": "Part 3",
+        "label": "Y"
       },
       {
-        "key": "F2 Genotypic Ratio",
-        "label": "1 RR : 2 Rr : 1 rr (1:2:1)"
+        "key": "Part 4",
+        "label": "R"
       },
       {
-        "key": "Key Principle",
-        "label": "Both phenotypic and genotypic ratios are IDENTICAL (1:2:1)"
+        "key": "Part 5",
+        "label": "I"
+      },
+      {
+        "key": "Part 6",
+        "label": "F"
+      },
+      {
+        "key": "Part 7",
+        "label": "A"
       }
     ],
-    "doodleBadge": "Snapdragon F2 = 1 Red : 2 Pink : 1 White\nPhenotypic = Genotypic (1:2:1)",
-    "doodleSubtext": "Incomplete Dominance",
-    "explanation": "Incomplete dominance is not blending inheritance because original pure Red and White parental phenotypes reappear unblended in the F2 generation.",
-    "alsoRemember": "Starch grain size in pea seeds also shows incomplete dominance (BB large, bb small, Bb intermediate size).",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.2.2.",
-    "neetTrap": "In incomplete dominance, the phenotypic ratio and genotypic ratio are IDENTICAL (1:2:1).",
+    "doodleBadge": "Traits in Pea Plant \tT -",
+    "doodleSubtext": "Dominant",
+    "explanation": "Tall • Green pod • Yellow seed color • Round seed • Inflated pod • Flower axial • Alpha color (Violet flower) These are the 7 dominant phenotypic traits expressed in the heterozygous F1 generation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Dominant.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 47",
     "tags": [
-      "Incomplete Dominance",
-      "Snapdragon",
-      "Antirrhinum majus",
-      "Mirabilis jalapa",
-      "1:2:1 Ratio",
-      "Dog Flower"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Dominant"
     ],
-    "expandedMeaning": "Haploinsufficiency quantitative pigment synthesis genetics yielding identical phenotypic and genotypic segregation ratios.",
-    "whyItWorks": "1 Red + 2 Pink + 1 White formula proves Phenotype = Genotype (1:2:1).",
-    "visualDescription": "Punnett square showing R and r gametes crossing to produce 1 dark red square, 2 pink squares, and 1 white square.",
-    "neetRelevance": "Guaranteed question on ratio comparisons and Antirrhinum examples.",
-    "commonMistake": "Claiming incomplete dominance yields a 3:1 phenotypic ratio.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.2.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 47,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "When a red-flowered snapdragon (Antirrhinum majus) is crossed with a white-flowered snapdragon, what will be the phenotypic ratio in the F2 generation?",
+      "question": "Which of the following is associated with \"Dominant\" in NEET Biology?",
       "options": [
-        "3 Red : 1 White",
-        "1 Red : 2 Pink : 1 White",
-        "9 Red : 3 Pink : 3 White : 1 Yellow",
-        "All Pink"
+        "Traits in Pea Plant \tT - G - Y - R - I - F - A",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "In Snapdragon, incomplete dominance results in an F2 phenotypic ratio of 1 Red : 2 Pink : 1 White (1:2:1)."
+      "answerIndex": 0,
+      "explanation": "Tall • Green pod • Yellow seed color • Round seed • Inflated pod • Flower axial • Alpha color (Violet flower) These are the 7 dominant phenotypic traits expressed in the heterozygous F1 generation."
     }
   },
   {
@@ -158,74 +175,80 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
     "topicId": "bio-top-23-1",
-    "topicTitle": "Co-Dominance & ABO Blood Grouping",
-    "topic": "Gene I with IA, IB, i Alleles: 6 Genotypes & 4 Phenotypes",
+    "topicTitle": "Recessive",
+    "topic": "Recessive",
     "mnemonicNumber": 3,
-    "title": "ABO Blood Groups: 3 Alleles (IA, IB, i) -> 6 Genotypes & 4 Phenotypes (A, B, AB, O) | IA and IB are CO-DOMINANT!",
-    "badgeText": "Formula",
+    "sourceItemNumber": 3,
+    "title": "Recessive: \"Traits in Pea Plant \tD - Y - G - W - C - T - T\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Gene I has 3 Alleles: IA, IB, and i | 6 Genotypes: IAIA, IAi (Type A), IBIB, IBi (Type B), IAIB (Type AB - Co-dominance!), ii (Type O) | 4 Phenotypes: Blood Groups A, B, AB, O! Formula for genotypes = n(n+1)/2 = 3(4)/2 = 6!",
-    "memoryHook": "IA and IB are two co-equal kings (Co-Dominance: both express their sugars fully on RBCs)! The small 'i' is a quiet commoner (recessive). 3 alleles in the population give 6 genotypes and 4 blood phenotypes!",
-    "fact": "Co-dominance and Multiple Allelism in ABO Blood Groups: Controlled by the I gene (Isoagglutinogen) located on Chromosome 9. The plasma membrane of RBCs has sugar polymers protruding. Gene I has three alleles: IA, IB, and i. IA and IB produce slightly different forms of sugar surface antigens; allele i produces no sugar. IA and IB are completely dominant over i. When IA and IB are present together (IAIB), both express their own types of sugars equally (Co-dominance). With 3 alleles in the human population, there are 6 possible genotypes and 4 phenotypic blood groups (A, B, AB, O).",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Traits in Pea Plant \tD - Y - G - W - C - T - T",
+    "memoryHook": "Traits in Pea Plant \tD - Y - G - W - C - T - T",
+    "fact": "Dwarf stem • Yellow pod • Green seed color • Wrinkled seed • Constricted pod • Terminal flower • Terminal white flower Recessive traits only appear when homozygous (e.g., tt, yy, rr).",
     "breakdown": [
       {
-        "key": "Number of Alleles",
-        "label": "3 multiple alleles in population: IA, IB, i (located on Chromosome 9)"
+        "key": "Part 1",
+        "label": "Traits in Pea Plant \tD"
       },
       {
-        "key": "Co-Dominance Example",
-        "label": "Genotype IAIB produces both A and B surface sugar antigens simultaneously (Blood Group AB)"
+        "key": "Part 2",
+        "label": "Y"
       },
       {
-        "key": "6 Possible Genotypes",
-        "label": "IAIA (A), IAi (A), IBIB (B), IBi (B), IAIB (AB), ii (O)"
+        "key": "Part 3",
+        "label": "G"
       },
       {
-        "key": "4 Possible Phenotypes",
-        "label": "Group A, Group B, Group AB, Group O"
+        "key": "Part 4",
+        "label": "W"
       },
       {
-        "key": "Allele Calculation Formula",
-        "label": "Total genotypes for n alleles = n(n + 1) / 2 = 3(4)/2 = 6"
+        "key": "Part 5",
+        "label": "C"
+      },
+      {
+        "key": "Part 6",
+        "label": "T"
+      },
+      {
+        "key": "Part 7",
+        "label": "T"
       }
     ],
-    "doodleBadge": "3 Alleles -> 6 Genotypes -> 4 Blood Groups\nIAIB = Co-Dominance",
-    "doodleSubtext": "ABO Genetics",
-    "explanation": "Multiple alleles can be observed only when population studies are made, because an individual human can possess only two alleles at a given locus.",
-    "alsoRemember": "Blood group O is the universal donor, and AB is the universal recipient.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.2.3.",
-    "neetTrap": "3 alleles of the ABO blood system produce 6 GENOTYPES and 4 PHENOTYPES.",
+    "doodleBadge": "Traits in Pea Plant \tD -",
+    "doodleSubtext": "Recessive",
+    "explanation": "Dwarf stem • Yellow pod • Green seed color • Wrinkled seed • Constricted pod • Terminal flower • Terminal white flower Recessive traits only appear when homozygous (e.g., tt, yy, rr).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Recessive.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 47",
     "tags": [
-      "Co-Dominance",
-      "ABO Blood Groups",
-      "Multiple Alleles",
-      "Gene I",
-      "Chromosome 9",
-      "Genotypes"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Recessive"
     ],
-    "expandedMeaning": "Multi-allelic isoagglutinogen codominance and combinatorial genotypic calculation in human immunogenetics.",
-    "whyItWorks": "3 alleles -> 6 genotypes -> 4 phenotypes mathematical hierarchy.",
-    "visualDescription": "RBC surface diagrams showing Group A with triangle sugars, Group B with round sugars, Group AB with both shapes co-dominantly, and Group O bald.",
-    "neetRelevance": "Guaranteed NEET questions on parent-child blood group inheritance probability.",
-    "commonMistake": "Counting 8 genotypes instead of 6.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.2.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 47,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "How many different genotypes and phenotypes respectively are possible in the human population for ABO blood groups determined by 3 alleles?",
+      "question": "Which of the following is associated with \"Recessive\" in NEET Biology?",
       "options": [
-        "4 genotypes and 6 phenotypes",
-        "6 genotypes and 4 phenotypes",
-        "3 genotypes and 3 phenotypes",
-        "6 genotypes and 6 phenotypes"
+        "Traits in Pea Plant \tD - Y - G - W - C - T - T",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "With 3 alleles (IA, IB, i), there are 6 possible genotypes [n(n+1)/2 = 6] and 4 phenotypes (A, B, AB, O)."
+      "answerIndex": 0,
+      "explanation": "Dwarf stem • Yellow pod • Green seed color • Wrinkled seed • Constricted pod • Terminal flower • Terminal white flower Recessive traits only appear when homozygous (e.g., tt, yy, rr)."
     }
   },
   {
@@ -234,74 +257,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-2",
-    "topicTitle": "Chromosomal Theory of Inheritance",
-    "topic": "Sutton & Boveri (1902) Parallelism between Chromosomes and Genes",
+    "classLevel": 12,
+    "topicId": "bio-top-23-1",
+    "topicTitle": "Why",
+    "topic": "Why",
     "mnemonicNumber": 4,
-    "title": "Chromosomal Theory: Sutton & Boveri (1902) = Chromosomes & Genes Move in Parallel Pairs during Meiosis & Fertilization",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 4,
+    "title": "Why: \"Mendel Chose Pea Plants \tE - A - S - Y\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "concept",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Sutton & Boveri (1902): Chromosomes and Genes are PARALLEL! 1) Both occur in pairs (2n) | 2) Both segregate during gamete formation (Meiosis Anaphase I) so only 1 enters a gamete (n) | 3) Independent pairs assort independently into gametes | 4) Restored to pairs upon fertilization (2n)!",
-    "memoryHook": "Sutton and Boveri realized that Mendel's invisible \"factors\" (genes) are physically riding on the chromosome trains! Chromosomes pair, split, and reunite in exact parallel with genes!",
-    "fact": "Chromosomal Theory of Inheritance was proposed by Walter Sutton and Theodore Boveri in 1902: They noted that the behavior of chromosomes was parallel to the behavior of genes and used chromosome movement to explain Mendel's laws: 1) Both chromosomes and Mendelian genes occur in pairs in diploid cells. 2) Homologous chromosomes and gene pairs segregate during Anaphase I of meiosis so that only one member of each pair enters each gamete. 3) Independent pairs of chromosomes segregate independently of each other. Sutton united the knowledge of chromosomal segregation with Mendelian principles and called it the Chromosomal Theory of Inheritance.",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Mendel Chose Pea Plants \tE - A - S - Y",
+    "memoryHook": "Mendel Chose Pea Plants \tE - A - S - Y",
+    "fact": "Easily cultivated • Annual plant (short life cycle) • Self-pollinating (easily cross-pollinated) • Yields many offspring These biological advantages made statistical analysis of genetic crosses feasible and reliable.",
     "breakdown": [
       {
-        "key": "Proposers",
-        "label": "Walter Sutton and Theodore Boveri (1902)"
+        "key": "Focus",
+        "label": "Why"
       },
       {
-        "key": "Parallel Principle 1",
-        "label": "Genes occur in pairs; homologous chromosomes occur in pairs"
-      },
-      {
-        "key": "Parallel Principle 2",
-        "label": "Alleles segregate during gametogenesis; homologous chromosomes separate during Anaphase I"
-      },
-      {
-        "key": "Parallel Principle 3",
-        "label": "Independent pairs of chromosomes assort independently during Meiosis"
-      },
-      {
-        "key": "Experimental Verification",
-        "label": "Thomas Hunt Morgan and his colleagues using fruit flies (Drosophila melanogaster)"
+        "key": "Trick",
+        "label": "Mendel Chose Pea Plants \tE - A - S - Y"
       }
     ],
-    "doodleBadge": "Sutton & Boveri (1902)\nChromosomes Parallel to Genes",
-    "doodleSubtext": "Chromosomal Theory",
-    "explanation": "Thomas Hunt Morgan provided the experimental verification of the Chromosomal Theory of Inheritance using Drosophila melanogaster.",
-    "alsoRemember": "Boveri studied sea urchin development, while Sutton studied grasshopper meiosis to observe chromosome pairing.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.3.",
-    "neetTrap": "Sutton and Boveri PROPOSED the theory; Thomas Hunt Morgan EXPERIMENTALLY VERIFIED it using Drosophila.",
+    "doodleBadge": "Mendel Chose Pea Plants ",
+    "doodleSubtext": "Why",
+    "explanation": "Easily cultivated • Annual plant (short life cycle) • Self-pollinating (easily cross-pollinated) • Yields many offspring These biological advantages made statistical analysis of genetic crosses feasible and reliable.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Why.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 47",
     "tags": [
-      "Chromosomal Theory",
-      "Sutton and Boveri",
-      "Morgan",
-      "Drosophila",
-      "Meiosis",
-      "Parallelism"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Why"
     ],
-    "expandedMeaning": "Cytological-Mendelian synthesis aligning chromosomal meiotic disjunction with factor segregation.",
-    "whyItWorks": "Sutton & Boveri (Thinkers/Proposers) vs Morgan (Fly Experimenter).",
-    "visualDescription": "Parallel track diagram showing Mendelian alleles (T/t) riding directly on colored homologous chromosome arms as they separate in Anaphase I.",
-    "neetRelevance": "Common in scientist attribution and chromosome-gene comparison questions.",
-    "commonMistake": "Crediting Morgan with proposing the Chromosomal Theory (Morgan verified it experimentally).",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 47,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Who experimentally verified the Chromosomal Theory of Inheritance proposed by Sutton and Boveri using the fruit fly Drosophila melanogaster?",
+      "question": "Which of the following is associated with \"Why\" in NEET Biology?",
       "options": [
-        "Gregor Mendel",
-        "Thomas Hunt Morgan",
-        "Hugo de Vries",
-        "Alfred Sturtevant"
+        "Mendel Chose Pea Plants \tE - A - S - Y",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Thomas Hunt Morgan experimentally verified the Chromosomal Theory of Inheritance using Drosophila melanogaster."
+      "answerIndex": 0,
+      "explanation": "Easily cultivated • Annual plant (short life cycle) • Self-pollinating (easily cross-pollinated) • Yields many offspring These biological advantages made statistical analysis of genetic crosses feasible and reliable."
     }
   },
   {
@@ -310,74 +319,64 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-2",
-    "topicTitle": "Morgan's Drosophila Work & Linkage",
-    "topic": "Why Drosophila (Fruit Fly)? Fast 2-Week Life Cycle, High Progeny, Sexual Dimorphism, Easy Microscope Views",
+    "classLevel": 12,
+    "topicId": "bio-top-23-1",
+    "topicTitle": "Mendel's",
+    "topic": "Mendel's",
     "mnemonicNumber": 5,
-    "title": "Morgan's Drosophila: 4 Advantages (Grown on Synthetic Medium, 2-Week Life Cycle, Clear Sexual Dimorphism, Low Power Microscope Views)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 5,
+    "title": "Mendel's: \"Laws of Inheritance \tD - S - I\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "classification",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Why Morgan Chose Fruit Fly (Drosophila melanogaster): 1) Grown on simple synthetic medium in lab, 2) Complete life cycle in just 2 WEEKS, 3) Single mating produces HUNDREDS of progeny flies, 4) Clear Sexual Dimorphism (Male is smaller with sex combs; Female is larger), 5) Many hereditary variations easily seen under simple LOW-POWER MICROSCOPE!",
-    "memoryHook": "The Perfect Lab Fly: Cheap food, baby-to-adult in 2 weeks, hundreds of kids per egg, obvious boy vs girl differences, and visible traits under cheap microscopes!",
-    "fact": "Thomas Hunt Morgan selected the fruit fly (Drosophila melanogaster) for experimental genetics because: 1) They could be grown easily on simple synthetic medium in laboratory bottles. 2) They complete their life cycle in about two weeks. 3) A single mating could produce a large number of progeny flies. 4) There was a clear differentiation of the sexes: male (smaller) and female (larger). 5) It possesses many types of hereditary variations that can be seen easily under low-power microscopes. Morgan discovered Linkage and Recombination using Drosophila crosses for eye color, body color, and wing size.",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Laws of Inheritance \tD - S - I",
+    "memoryHook": "Laws of Inheritance \tD - S - I",
+    "fact": "Dominance (Law of Dominance) • Segregation (Law of Segregation) • Independent Assortment The foundational three principles established by Gregor Mendel using monohybrid and dihybrid crosses.",
     "breakdown": [
       {
-        "key": "Short Life Cycle",
-        "label": "Takes only ~14 days (2 weeks) from egg to reproductive adult"
+        "key": "Part 1",
+        "label": "Laws of Inheritance \tD"
       },
       {
-        "key": "High Progeny Output",
-        "label": "Hundreds of offspring per single cross, providing statistically robust data"
+        "key": "Part 2",
+        "label": "S"
       },
       {
-        "key": "Sexual Dimorphism",
-        "label": "Female is larger; male is smaller with dark abdomen tip and foreleg sex combs"
-      },
-      {
-        "key": "Chromosomes",
-        "label": "Small chromosome number (2n = 8: 3 pairs of autosomes + 1 pair of sex chromosomes)"
-      },
-      {
-        "key": "Father of Experimental Genetics",
-        "label": "T.H. Morgan was awarded Nobel Prize in 1933 for discoveries concerning the role of chromosome in heredity"
+        "key": "Part 3",
+        "label": "I"
       }
     ],
-    "doodleBadge": "Drosophila = 2-Week Life Cycle\nMale (Small) vs Female (Large)",
-    "doodleSubtext": "The Cinderella of Genetics",
-    "explanation": "Morgan's student, Alfred Sturtevant, used the frequency of recombination between gene pairs on the same chromosome as a measure of distance to construct the first Genetic Maps.",
-    "alsoRemember": "Drosophila has giant polytene chromosomes in its larval salivary glands.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.3.1.",
-    "neetTrap": "Male Drosophila is SMALLER than the female (female is larger).",
+    "doodleBadge": "Laws of Inheritance \tD -",
+    "doodleSubtext": "Mendel's",
+    "explanation": "Dominance (Law of Dominance) • Segregation (Law of Segregation) • Independent Assortment The foundational three principles established by Gregor Mendel using monohybrid and dihybrid crosses.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Mendel's.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 47",
     "tags": [
-      "Drosophila",
-      "Morgan",
-      "Fruit Fly",
-      "Linkage",
-      "Sexual Dimorphism",
-      "2-Week Life Cycle"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Mendel's"
     ],
-    "expandedMeaning": "Model organism selection criteria in dipteran experimental cytogenetics.",
-    "whyItWorks": "Five clear points matching exact NCERT text reasons.",
-    "visualDescription": "Laboratory culture bottle showing small male fruit fly next to larger female fly, labeled with 2-week developmental lifecycle clock.",
-    "neetRelevance": "Repeated in statement-selection MCQs on reasons for choosing Drosophila.",
-    "commonMistake": "Claiming the male Drosophila is larger than the female.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.3.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 47,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is a key reason why Thomas Hunt Morgan selected Drosophila melanogaster for his genetic linkage experiments?",
+      "question": "Which of the following is associated with \"Mendel's\" in NEET Biology?",
       "options": [
-        "It has a very long life cycle of 6 months",
-        "Clear sexual dimorphism where female is easily distinguished from male",
-        "It can only be grown on complex living plants",
-        "It produces only 1-2 offspring per mating"
+        "Laws of Inheritance \tD - S - I",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Drosophila exhibits clear sexual dimorphism (female is larger than male) and completes its life cycle in just 2 weeks."
+      "answerIndex": 0,
+      "explanation": "Dominance (Law of Dominance) • Segregation (Law of Segregation) • Independent Assortment The foundational three principles established by Gregor Mendel using monohybrid and dihybrid crosses."
     }
   },
   {
@@ -386,72 +385,68 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-2",
-    "topicTitle": "Linkage vs Recombination Percentages",
-    "topic": "Yellow-White (Tight Linkage: 1.3% Recombination) vs White-Miniature (Loose Linkage: 37.2% Recombination)",
+    "classLevel": 12,
+    "topicId": "bio-top-23-1",
+    "topicTitle": "Law",
+    "topic": "Law",
     "mnemonicNumber": 6,
-    "title": "Linkage Distance: Tight Linkage = Yellow-White (1.3% Recombination / 98.7% Parental) vs Loose Linkage = White-Miniature (37.2% Recombination)",
-    "badgeText": "Formula",
+    "sourceItemNumber": 6,
+    "title": "Law: \"of Segregation Rule \tP-U-R-E\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "hard",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Cross A (Yellow body & White eye on X-chromosome) = Tight Linkage / Very close -> 98.7% Parental : 1.3% Recombinants! | Cross B (White eye & Miniature wing) = Loose Linkage / Far apart -> 62.8% Parental : 37.2% Recombinants! Rule: Distance between genes is directly proportional to Recombination Frequency (1% Recombination = 1 map unit / 1 centiMorgan)!",
-    "memoryHook": "Yellow & White are glued tight side-by-side on the chromosome -> only 1.3% crossing over recombinants! White & Miniature are far apart -> easy to cross over with 37.2% recombinants!",
-    "fact": "Morgan's Dihybrid Crosses on Drosophila X-chromosome: 1) Cross A: Yellow body (y) and White eye (w) genes were very tightly linked and showed only 1.3% recombinant phenotypes (98.7% parental combinations). 2) Cross B: White eye (w) and Miniature wing (m) genes were loosely linked (farther apart) and showed 37.2% recombinant phenotypes (62.8% parental combinations). Recombination frequency is directly proportional to the physical distance between genes on a chromosome: 1% recombination frequency = 1 map unit = 1 centiMorgan (cM), used by Alfred Sturtevant to map chromosome gene loci.",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "of Segregation Rule \tP-U-R-E",
+    "memoryHook": "of Segregation Rule \tP-U-R-E",
+    "fact": "Purity of gametes • Unblended alleles • Random fusion • Each gamete gets only one allele Alleles do not show any blending; alleles segregate during gamete formation so each gamete carries only one factor.",
     "breakdown": [
       {
-        "key": "Cross A: y and w (Body/Eye)",
-        "label": "Tight Linkage: 98.7% Parental types and only 1.3% Recombinants (Distance = 1.3 cM)"
+        "key": "Part 1",
+        "label": "of Segregation Rule \tP"
       },
       {
-        "key": "Cross B: w and m (Eye/Wing)",
-        "label": "Loose Linkage: 62.8% Parental types and 37.2% Recombinants (Distance = 37.2 cM)"
+        "key": "Part 2",
+        "label": "U"
       },
       {
-        "key": "Linkage Inverse Rule",
-        "label": "Strength of linkage is INVERSELY proportional to distance between genes"
+        "key": "Part 3",
+        "label": "R"
       },
       {
-        "key": "Genetic Mapping Pioneer",
-        "label": "Alfred Sturtevant (Morgan's student) used recombination frequency to create first genetic maps"
+        "key": "Part 4",
+        "label": "E"
       }
     ],
-    "doodleBadge": "Cross A: 1.3% Recombinant (Tight)\nCross B: 37.2% Recombinant (Loose)",
-    "doodleSubtext": "Morgan's Recombination Data",
-    "explanation": "Maximum theoretical recombination frequency between two linked genes on a single chromosome is 50%; beyond that, genes assort independently like unlinked genes.",
-    "alsoRemember": "Genetic maps are extensively used today as the starting point for sequencing whole genomes (Human Genome Project).",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.3.1.",
-    "neetTrap": "Yellow-white genes show 1.3% RECOMBINATION (98.7% parental); White-miniature show 37.2% RECOMBINATION.",
+    "doodleBadge": "of Segregation Rule \tP-U",
+    "doodleSubtext": "Law",
+    "explanation": "Purity of gametes • Unblended alleles • Random fusion • Each gamete gets only one allele Alleles do not show any blending; alleles segregate during gamete formation so each gamete carries only one factor.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Law.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 47",
     "tags": [
-      "Linkage",
-      "Recombination",
-      "Morgan",
-      "Sturtevant",
-      "Genetic Map",
-      "centiMorgan",
-      "1.3%",
-      "37.2%"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Law"
     ],
-    "expandedMeaning": "Quantitative chiasma-frequency mapping and linear distance metric derivation in Drosophila cytogenetics.",
-    "whyItWorks": "Direct contrast between Cross A (1.3%) and Cross B (37.2%) numerical benchmarks.",
-    "visualDescription": "Chromosome line showing close y-w dots (1.3 cM gap) alongside distant w-m dots (37.2 cM gap) with corresponding recombinant percentages.",
-    "neetRelevance": "One of the most frequently asked numerical matching questions in NCERT genetics.",
-    "commonMistake": "Confusing 1.3% recombinant frequency with 98.7% parental frequency.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.3.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 47,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In Morgan's dihybrid cross on Drosophila involving yellow body and white eye genes (Cross A), what percentage of the F2 generation showed RECOMBINANT phenotypes?",
+      "question": "Which of the following is associated with \"Law\" in NEET Biology?",
       "options": [
-        "1.3%",
-        "37.2%",
-        "98.7%",
-        "62.8%"
+        "of Segregation Rule \tP-U-R-E",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
       "answerIndex": 0,
-      "explanation": "In Cross A (yellow body and white eye), the genes are tightly linked and produced only 1.3% recombinant phenotypes (98.7% parental)."
+      "explanation": "Purity of gametes • Unblended alleles • Random fusion • Each gamete gets only one allele Alleles do not show any blending; alleles segregate during gamete formation so each gamete carries only one factor."
     }
   },
   {
@@ -460,72 +455,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-3",
-    "topicTitle": "Sex Determination Systems across Animals",
-    "topic": "XX-XY (Human, Drosophila) vs XX-XO (Grasshopper) vs ZW-ZZ (Birds) vs Haplodiploidy (Honeybee)",
+    "classLevel": 12,
+    "topicId": "bio-top-23-1",
+    "topicTitle": "Monohybrid",
+    "topic": "Monohybrid",
     "mnemonicNumber": 7,
-    "title": "Sex Determination: XX-XY (Humans/Flies: Male Heterogametic) | XX-XO (Grasshoppers) | ZW-ZZ (Birds: FEMALE Heterogametic) | Haplodiploidy (Honeybees)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 7,
+    "title": "Monohybrid: \"Phenotypic Ratio \t3 : 1\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "medium",
     "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EDF4FF",
+    "cardColor": "#EFFBF4",
     "badgeColor": "#5B8DEF",
-    "mnemonic": "1) XX-XY: Male heterogametic XY, Female XX (Humans, Drosophila) | 2) XX-XO: Male XO has 1 less chromosome, Female XX (Grasshopper / Insects) | 3) ZW-ZZ: FEMALE is Heterogametic ZW, Male is Homogametic ZZ (Birds / Fowls / Butterflies!) | 4) Haplodiploidy: Female Queen/Worker is Diploid (2n=32), Male Drone is Haploid (n=16 via Parthenogenesis) in Honeybees!",
-    "memoryHook": "In Birds, the mother hen is the boss (ZW female determines sex)! In Honeybees, boys have NO father and cannot have sons, but have grandfathers and grandsons (Haplodiploidy)!",
-    "fact": "Sex determination mechanisms in animals: 1) XX-XY type (Male Heterogamety): Males produce X and Y gametes (Humans, Drosophila). 2) XX-XO type (Male Heterogamety): Males have only one X chromosome (XO) and produce gametes with or without X; females have XX (Grasshopper and some insects, discovered by Henking's X-body in 1891). 3) ZW-ZZ type (Female Heterogamety): Females have two different sex chromosomes (ZW) and determine sex; males have identical pair (ZZ) (Birds, reptiles, fowls). 4) Haplodiploid Sex Determination (Honeybees): Females (Queen/Workers) develop from fertilized eggs (diploid, 2n=32); males (Drones) develop parthenogenetically from unfertilized eggs (haploid, n=16). Drones produce sperm by mitosis (not meiosis). Drones have no father and cannot have sons, but have a grandfather and can have grandsons.",
+    "mnemonic": "Phenotypic Ratio \t3 : 1",
+    "memoryHook": "Phenotypic Ratio \t3 : 1",
+    "fact": "3 Dominant : 1 Recessive ratio observed in the F2 generation of a monohybrid cross. Example: Tall (TT, Tt, Tt) to Dwarf (tt) plants in a 3:1 ratio.",
     "breakdown": [
       {
-        "key": "XX-XY (Male Heterogametic)",
-        "label": "Humans, Drosophila (Male XY, Female XX)"
+        "key": "Focus",
+        "label": "Monohybrid"
       },
       {
-        "key": "XX-XO (Male Heterogametic)",
-        "label": "Grasshopper (Male has only one X = XO; Female has XX)"
-      },
-      {
-        "key": "ZW-ZZ (Female Heterogametic)",
-        "label": "Birds, Fowls, Butterflies (Female is ZW; Male is ZZ)"
-      },
-      {
-        "key": "Haplodiploidy (Honeybees)",
-        "label": "Female = 2n (32, fertilized); Male Drone = n (16, parthenogenesis, makes sperm by mitosis)"
+        "key": "Trick",
+        "label": "Phenotypic Ratio \t3 : 1"
       }
     ],
-    "doodleBadge": "Birds = ZW Female (Heterogametic)\nBees = Male n=16 | Female 2n=32",
-    "doodleSubtext": "4 Sex Determination Modes",
-    "explanation": "Henking (1891) first traced a specific nuclear structure during spermatogenesis in insects, calling it the \"X-body\" (later identified as the X chromosome).",
-    "alsoRemember": "Male honeybees (drones) cannot undergo meiotic division during spermatogenesis; they produce haploid sperm via mitosis.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.4.",
-    "neetTrap": "In BIRDS, females are HETEROGAMETIC (ZW) and males are HOMOGAMETIC (ZZ).",
+    "doodleBadge": "Phenotypic Ratio \t3 : 1",
+    "doodleSubtext": "Monohybrid",
+    "explanation": "3 Dominant : 1 Recessive ratio observed in the F2 generation of a monohybrid cross. Example: Tall (TT, Tt, Tt) to Dwarf (tt) plants in a 3:1 ratio.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Monohybrid.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 47",
     "tags": [
-      "Sex Determination",
-      "XX-XY",
-      "XX-XO",
-      "ZW-ZZ",
-      "Birds",
-      "Haplodiploidy",
-      "Honeybee",
-      "Henking"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Monohybrid"
     ],
-    "expandedMeaning": "Comparative cytogenetic taxonomy of male versus female heterogametic and haplodiploid genetic sex determination systems.",
-    "whyItWorks": "Four distinct categories with clear heterogametic allocation.",
-    "visualDescription": "Four animal icons: human face (XY male), grasshopper (XO male), bird (ZW female highlighted), and bee hive (32 female / 16 male drone).",
-    "neetRelevance": "Extremely popular topic in NEET genetics questions.",
-    "commonMistake": "Thinking male birds are heterogametic.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.4",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 47,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In which of the following organisms is FEMALE HETEROGAMETY (ZW sex chromosome mechanism) observed where the female determines the sex of the offspring?",
+      "question": "Which of the following is associated with \"Monohybrid\" in NEET Biology?",
       "options": [
-        "Humans",
-        "Grasshopper",
-        "Birds (Fowls)",
-        "Drosophila"
+        "Phenotypic Ratio \t3 : 1",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "In birds and fowls, the female is heterogametic (ZW) and produces two types of eggs, determining the sex of the offspring."
+      "answerIndex": 0,
+      "explanation": "3 Dominant : 1 Recessive ratio observed in the F2 generation of a monohybrid cross. Example: Tall (TT, Tt, Tt) to Dwarf (tt) plants in a 3:1 ratio."
     }
   },
   {
@@ -534,75 +517,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-4",
-    "topicTitle": "Sickle Cell Anemia Molecular Genetics",
-    "topic": "Point Mutation on Beta-Globin Gene (GAG -> GUG / Glutamic Acid -> Valine at 6th Position)",
+    "classLevel": 12,
+    "topicId": "bio-top-23-1",
+    "topicTitle": "Monohybrid",
+    "topic": "Monohybrid",
     "mnemonicNumber": 8,
-    "title": "Sickle Cell Anemia: Point Mutation GAG -> GUG (Glutamic Acid -> VALINE at Position 6 of Beta-Globin Chain)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 8,
+    "title": "Monohybrid: \"Genotypic Ratio \t1 : 2 : 1\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "GAG -> GUG (DNA: CTC -> CAC) | Position 6 of Beta-Globin Chain: Negatively charged Hydrophilic GLUTAMIC ACID (Glu) is swapped by Hydrophobic Non-polar VALINE (Val) -> Low O2 causes HbS polymerization -> RBCs collapse from Biconcave Discs into SICKLE SHAPES!",
-    "memoryHook": "GAG turned into GUG! Glutamic acid was replaced by Valine at seat #6 on the beta-chain bus! Under low oxygen, the mutant HbS sticky fibers make red blood cells curve like sharp sickle blades!",
-    "fact": "Sickle Cell Anemia is an Autosomal Recessive genetic disorder: Caused by a point mutation (single base pair substitution) in the beta-globin (HBB) gene on Chromosome 11: DNA triplet CTC (coding strand GAG) changes to CAC (coding strand GTG), resulting in mRNA codon change from GAG to GUG. This substitutes the 6th amino acid of the beta-globin chain from Glutamic acid (Glu) to Valine (Val). The mutant hemoglobin (HbS) undergoes polymerization under low oxygen tension, causing mechanical distortion of RBCs from biconcave discs to elongated sickle-like shapes, leading to hemolytic anemia and microvascular occlusion.",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Genotypic Ratio \t1 : 2 : 1",
+    "memoryHook": "Genotypic Ratio \t1 : 2 : 1",
+    "fact": "1 Homozygous Dominant (TT) : 2 Heterozygous (Tt) : 1 Homozygous Recessive (tt) Refers to the actual genetic constitution underlying the 3:1 phenotypic expression.",
     "breakdown": [
       {
-        "key": "Inheritance Mode",
-        "label": "Autosomal Recessive (Chromosome 11 HBB gene); HbA HbS heterozygotes are carriers"
+        "key": "Focus",
+        "label": "Monohybrid"
       },
       {
-        "key": "Base Substitution",
-        "label": "DNA: CTC -> CAC (Coding strand: GAG -> GTG); mRNA Codon: GAG -> GUG"
-      },
-      {
-        "key": "Amino Acid Change",
-        "label": "6th position of Beta-globin polypeptide: Glutamic Acid (Glu) -> Valine (Val)"
-      },
-      {
-        "key": "Mechanism of Sickling",
-        "label": "Deoxygenated HbS polymerizes into rigid helical fibers, deforming the RBC membrane"
-      },
-      {
-        "key": "Malaria Advantage",
-        "label": "Heterozygotes (HbA HbS) have sickle-cell trait and are naturally resistant to Plasmodium falciparum malaria"
+        "key": "Trick",
+        "label": "Genotypic Ratio \t1 : 2 : 1"
       }
     ],
-    "doodleBadge": "Position 6 Beta Chain:\nGAG (Glu) -> GUG (Val)\nBiconcave -> Sickle Shape",
-    "doodleSubtext": "Molecular Point Mutation",
-    "explanation": "Sickle cell anemia is a qualitative defect (synthesizing an abnormally functioning hemoglobin variant), whereas thalassemia is a quantitative defect (reduced rate of globin chain synthesis).",
-    "alsoRemember": "Homozygous individuals (HbS HbS) show lethal severe anemia; heterozygous carriers (HbA HbS) are clinically unaffected under normal atmospheric pressure.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.8.2.",
-    "neetTrap": "The amino acid substitution is GLUTAMIC ACID TO VALINE at the 6TH POSITION of the beta-globin chain (NOT alpha-chain).",
+    "doodleBadge": "Genotypic Ratio \t1 : 2 :",
+    "doodleSubtext": "Monohybrid",
+    "explanation": "1 Homozygous Dominant (TT) : 2 Heterozygous (Tt) : 1 Homozygous Recessive (tt) Refers to the actual genetic constitution underlying the 3:1 phenotypic expression.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Monohybrid.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 47",
     "tags": [
-      "Sickle Cell Anemia",
-      "Point Mutation",
-      "Glutamic Acid",
-      "Valine",
-      "GAG to GUG",
-      "Beta-Globin",
-      "Chromosome 11"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Monohybrid"
     ],
-    "expandedMeaning": "Molecular etiology, single-nucleotide transversion, and quaternary polymeric sickle hemoglobin pathobiology.",
-    "whyItWorks": "Exact molecular substitution coordinates: GAG (Glu) -> GUG (Val) at Position 6 of Beta chain.",
-    "visualDescription": "Normal round RBC with GAG/Glu marker next to curved crescent sickle RBC with GUG/Val marker and oxygen drop arrow.",
-    "neetRelevance": "One of the top 3 most frequently tested molecular genetics questions in NEET.",
-    "commonMistake": "Placing the mutation in the alpha-globin chain instead of the beta-globin chain.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.8.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 47,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In sickle-cell anemia, the molecular defect is caused by the substitution of which amino acid at the 6th position of the beta-globin chain?",
+      "question": "Which of the following is associated with \"Monohybrid\" in NEET Biology?",
       "options": [
-        "Valine by Glutamic acid",
-        "Glutamic acid by Valine",
-        "Glycine by Alanine",
-        "Lysine by Valine"
+        "Genotypic Ratio \t1 : 2 : 1",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Sickle cell anemia is caused by the replacement of Glutamic acid by Valine at the 6th position of the beta-globin polypeptide chain."
+      "answerIndex": 0,
+      "explanation": "1 Homozygous Dominant (TT) : 2 Heterozygous (Tt) : 1 Homozygous Recessive (tt) Refers to the actual genetic constitution underlying the 3:1 phenotypic expression."
     }
   },
   {
@@ -611,74 +579,68 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-4",
-    "topicTitle": "Phenylketonuria (PKU) Inborn Error of Metabolism",
-    "topic": "Autosomal Recessive, Phenylalanine Hydroxylase Deficiency, Phenylpyruvic Acid, Mental Retardation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-1",
+    "topicTitle": "Test",
+    "topic": "Test",
     "mnemonicNumber": 9,
-    "title": "Phenylketonuria (PKU): Autosomal Recessive (Lack of Phenylalanine Hydroxylase -> Phenylpyruvic Acid in Brain -> Mental Retardation & Light Skin)",
-    "badgeText": "Concept",
-    "importance": "High Yield",
+    "sourceItemNumber": 9,
+    "title": "Test: \"Cross Purpose \tUNKNOWN GENOTYPE\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
     "badgeColor": "#A66CFF",
-    "mnemonic": "PKU = Autosomal Recessive Inborn Error of Metabolism on Chromosome 12! Lack of enzyme PHENYLALANINE HYDROXYLASE -> Cannot convert Phenylalanine to Tyrosine -> Phenylalanine converts to toxic PHENYLPYRUVIC ACID -> Causes Mental Retardation, microcephaly, hypopigmentation of skin/hair, and excreted in urine due to poor kidney reabsorption!",
-    "memoryHook": "PKU breaks the chemical bridge! Phenylalanine cannot cross over to Tyrosine. It overflows into toxic Phenylpyruvic acid, damaging the baby's brain and leaking out in urine!",
-    "fact": "Phenylketonuria (PKU) is an inborn error of metabolism inherited as an Autosomal Recessive trait: The affected individual lacks a liver enzyme called Phenylalanine Hydroxylase that converts the essential amino acid Phenylalanine into Tyrosine. As a result, phenylalanine accumulates and is converted into phenylpyruvic acid and other derivatives. Accumulation of these in the brain results in mental retardation and neurological damage. These are also excreted through urine because of its poor absorption by kidney tubules. Also causes hypopigmentation of hair and skin (because Tyrosine is required for melanin synthesis). Example of Pleiotropy.",
+    "mnemonic": "Cross Purpose \tUNKNOWN GENOTYPE",
+    "memoryHook": "Cross Purpose \tUNKNOWN GENOTYPE",
+    "fact": "Cross between an organism with dominant phenotype and a homozygous recessive parent to find unknown genotype. If offspring show 1:1 ratio, the dominant parent was heterozygous; if 100% dominant, homozygous.",
     "breakdown": [
       {
-        "key": "Inheritance Mode",
-        "label": "Autosomal Recessive (mutation on PAH gene on Chromosome 12)"
+        "key": "Point 1",
+        "label": "1 ratio"
       },
       {
-        "key": "Deficient Enzyme",
-        "label": "Phenylalanine Hydroxylase (converts Phenylalanine -> Tyrosine)"
+        "key": "Point 2",
+        "label": "the dominant parent was heterozygous"
       },
       {
-        "key": "Toxic Accumulant",
-        "label": "Phenylalanine, Phenylpyruvic acid, Phenyl-lactic acid in blood and CSF"
+        "key": "Point 3",
+        "label": "if 100% dominant"
       },
       {
-        "key": "Clinical Triad",
-        "label": "Mental retardation, hypopigmentation of hair/skin, phenylketones excreted in urine"
-      },
-      {
-        "key": "Genetics Category",
-        "label": "Classic example of Pleiotropy (single gene mutation affects multiple phenotypic traits)"
+        "key": "Point 4",
+        "label": "homozygous"
       }
     ],
-    "doodleBadge": "PKU = Lack of Phenylalanine Hydroxylase\nPhenylalanine -> Phenylpyruvic Acid (Brain Damage)",
-    "doodleSubtext": "Inborn Error of Metabolism",
-    "explanation": "PKU is a classic example of Pleiotropy where a mutation in a single gene controlling one enzyme produces multiple phenotypic effects (brain mental retardation, skin hypopigmentation, urine metabolites).",
-    "alsoRemember": "Guthrie test (bacterial inhibition assay) is used for neonatal screening of PKU from heel-prick blood.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.8.2.",
-    "neetTrap": "Phenylketonuria is inherited as an AUTOSOMAL RECESSIVE trait (not X-linked or autosomal dominant).",
+    "doodleBadge": "Cross Purpose \tUNKNOWN G",
+    "doodleSubtext": "Test",
+    "explanation": "Cross between an organism with dominant phenotype and a homozygous recessive parent to find unknown genotype. If offspring show 1:1 ratio, the dominant parent was heterozygous; if 100% dominant, homozygous.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Test.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 47",
     "tags": [
-      "Phenylketonuria",
-      "PKU",
-      "Phenylalanine Hydroxylase",
-      "Pleiotropy",
-      "Autosomal Recessive",
-      "Mental Retardation"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Test"
     ],
-    "expandedMeaning": "Inborn metabolic enzymopathy, neurotoxic ketoacidogenesis, and pleiotropic multi-organ manifestation.",
-    "whyItWorks": "Blocked bridge (Phenylalanine -> Tyrosine) -> Toxic overflow (Phenylpyruvic acid mental defect).",
-    "visualDescription": "Biochemical block diagram showing Phenylalanine with red \"X\" over Phenylalanine Hydroxylase enzyme arrow, spilling over into brain (mental retardation) and urine excretion.",
-    "neetRelevance": "Common in inborn error matching and pleiotropy example questions.",
-    "commonMistake": "Classifying PKU as an X-linked recessive disorder.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.8.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 47,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Phenylketonuria (PKU) in humans is an autosomal recessive disorder caused by the deficiency of which hepatic enzyme?",
+      "question": "Which of the following is associated with \"Test\" in NEET Biology?",
       "options": [
-        "Tyrosinase",
-        "Phenylalanine hydroxylase",
-        "Homogentisic acid oxidase",
-        "Adenosine deaminase"
+        "Cross Purpose \tUNKNOWN GENOTYPE",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "PKU is caused by a deficiency of the enzyme Phenylalanine Hydroxylase, leading to accumulation of phenylalanine."
+      "answerIndex": 0,
+      "explanation": "Cross between an organism with dominant phenotype and a homozygous recessive parent to find unknown genotype. If offspring show 1:1 ratio, the dominant parent was heterozygous; if 100% dominant, homozygous."
     }
   },
   {
@@ -687,70 +649,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-4",
-    "topicTitle": "Thalassemia vs Sickle Cell Anemia",
-    "topic": "Quantitative Globin Synthesis Defect (Thalassemia) vs Qualitative Amino Acid Defect (Sickle Cell)",
+    "classLevel": 12,
+    "topicId": "bio-top-23-1",
+    "topicTitle": "Back",
+    "topic": "Back",
     "mnemonicNumber": 10,
-    "title": "Thalassemia vs Sickle Cell: Thalassemia = QUANTITATIVE Defect (Too FEW globin chains made) vs Sickle Cell = QUALITATIVE Defect (Wrong amino acid in globin)",
-    "badgeText": "Comparison",
+    "sourceItemNumber": 10,
+    "title": "Back: \"Cross Definition \tF1 × ANY PARENT\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Thalassemia = QUANTITATIVE defect (Synthesis of abnormally LOW NUMBERS of normal globin chains: Alpha on Chr 16, Beta on Chr 11) | Sickle Cell Anemia = QUALITATIVE defect (Synthesis of an ABNORMALLY FUNCTIONING hemoglobin with Glu->Val mutation)!",
-    "memoryHook": "Thalassemia makes too FEW chains (Count/Quantity problem)! Sickle cell makes the BAD mutant chain (Shape/Quality problem)!",
-    "fact": "Thalassemia is an Autosomal Recessive blood disorder caused by mutation or deletion of globin genes, resulting in reduced rate of synthesis of one of the globin chains (alpha or beta) that make up hemoglobin. This causes formation of abnormal hemoglobin molecules and anemia: 1) Alpha Thalassemia: Controlled by two closely linked genes HBA1 and HBA2 on Chromosome 16 of each parent (4 alleles total); caused by deletion of 1, 2, 3, or all 4 genes. 2) Beta Thalassemia: Controlled by a single gene HBB on Chromosome 11 of each parent. Critical distinction: Thalassemia is a QUANTITATIVE problem (synthesizing too few globin molecules), whereas Sickle-cell anemia is a QUALITATIVE problem (synthesizing an incorrectly functioning globin variant).",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Cross Definition \tF1 × ANY PARENT",
+    "memoryHook": "Cross Definition \tF1 × ANY PARENT",
+    "fact": "Crossing of an F1 hybrid with either of its two parents (dominant or recessive). All test crosses are back crosses, but not all back crosses are test crosses.",
     "breakdown": [
       {
-        "key": "Thalassemia Nature",
-        "label": "QUANTITATIVE defect: reduced synthesis of normal alpha or beta globin chains"
+        "key": "Focus",
+        "label": "Back"
       },
       {
-        "key": "Sickle Cell Nature",
-        "label": "QUALITATIVE defect: normal synthesis rate, but mutant amino acid produces abnormal HbS"
-      },
-      {
-        "key": "Alpha Thalassemia Genetics",
-        "label": "HBA1 and HBA2 genes (4 alleles) located on Chromosome 16"
-      },
-      {
-        "key": "Beta Thalassemia Genetics",
-        "label": "Single HBB gene (2 alleles) located on Chromosome 11"
+        "key": "Trick",
+        "label": "Cross Definition \tF1 × ANY PARENT"
       }
     ],
-    "doodleBadge": "Thalassemia = Quantitative (Too Few Chains)\nSickle Cell = Qualitative (Wrong Amino Acid)",
-    "doodleSubtext": "Quantitative vs Qualitative",
-    "explanation": "Alpha thalassemia severity is proportional to the number of deleted genes: deletion of all 4 alleles results in fatal hydrops fetalis (Hb Barts).",
-    "alsoRemember": "Cooley's anemia is another name for Beta Thalassemia major.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.8.2.",
-    "neetTrap": "Thalassemia is a QUANTITATIVE problem; Sickle-cell anemia is a QUALITATIVE problem.",
+    "doodleBadge": "Cross Definition \tF1 × A",
+    "doodleSubtext": "Back",
+    "explanation": "Crossing of an F1 hybrid with either of its two parents (dominant or recessive). All test crosses are back crosses, but not all back crosses are test crosses.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Back.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 47",
     "tags": [
-      "Thalassemia",
-      "Alpha Thalassemia",
-      "Beta Thalassemia",
-      "Quantitative Defect",
-      "Chromosome 16",
-      "Chromosome 11"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Back"
     ],
-    "expandedMeaning": "Comparative molecular hematology distinguishing synthesis-rate deficits from polypeptide conformational mutations.",
-    "whyItWorks": "Quantitative (Thalassemia count) vs Qualitative (Sickle quality).",
-    "visualDescription": "Scale balance: Thalassemia showing missing globin chain weights (Quantity deficit) vs Sickle Cell showing misshapen mutant chain (Quality defect).",
-    "neetRelevance": "One of the most frequently asked distinction questions in NCERT genetics.",
-    "commonMistake": "Claiming thalassemia is a qualitative defect.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.8.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 47,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which statement correctly distinguishes Thalassemia from Sickle Cell Anemia?",
+      "question": "Which of the following is associated with \"Back\" in NEET Biology?",
       "options": [
-        "Thalassemia is qualitative while sickle cell is quantitative",
-        "Thalassemia is a quantitative defect of synthesizing too few globin chains, while sickle cell is a qualitative defect of synthesizing an abnormal globin variant",
-        "Thalassemia is sex-linked while sickle cell is autosomal",
-        "Thalassemia is caused by trisomy 21"
+        "Cross Definition \tF1 × ANY PARENT",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Thalassemia is a quantitative defect (reduced synthesis of globin chains), whereas sickle cell is a qualitative defect (abnormal mutant globin)."
+      "answerIndex": 0,
+      "explanation": "Crossing of an F1 hybrid with either of its two parents (dominant or recessive). All test crosses are back crosses, but not all back crosses are test crosses."
     }
   },
   {
@@ -759,75 +711,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-4",
-    "topicTitle": "Down Syndrome (Trisomy 21)",
-    "topic": "Aneuploidy 47,XX+21 / 47,XY+21, Langdon Down (1866), Simian Crease, Furrowed Tongue",
+    "classLevel": 12,
+    "topicId": "bio-top-23-2",
+    "topicTitle": "Dihybrid",
+    "topic": "Dihybrid",
     "mnemonicNumber": 11,
-    "title": "Down Syndrome: Trisomy 21 (47 Chromosomes / Langdon Down 1866 = Short Stature, Furrowed Tongue, Simian Palm Crease, Mental Retardation)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
+    "sourceItemNumber": 11,
+    "title": "Dihybrid: \"Phenotypic Ratio \t9 : 3 : 3 : 1\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Down Syndrome = TRISOMY 21 (45 Autosomes + XX/XY = 47 Total Chromosomes)! Discovered by Langdon Down in 1866: 1) Short stature with small round head, 2) Furrowed tongue & partially open mouth, 3) Broad palm with characteristic single SIMIAN PALM CREASE, 4) Physical, psychomotor and mental development is retarded!",
-    "memoryHook": "Down Syndrome adds an extra chromosome UP (21 + 1 = 3 copies of 21)! First described by Langdon Down in 1866! Look for the Single Simian Crease across the palm and furrowed tongue!",
-    "fact": "Down Syndrome is an autosomal aneuploidy caused by the presence of an additional copy of chromosome number 21 (Trisomy 21). Total chromosome count is 47 (45A + XX or 45A + XY). Caused by non-disjunction of homologous chromosomes during maternal meiosis (strongly correlated with advancing maternal age >35 yrs). First described by Langdon Down (1866). Clinical features: Affected individual is short statured with small round head, furrowed tongue and partially open mouth, broad palm with characteristic single transverse palm crease (Simian crease), epicanthic eye folds, and physical, psychomotor and mental development is retarded.",
+    "mnemonic": "Phenotypic Ratio \t9 : 3 : 3 : 1",
+    "memoryHook": "Phenotypic Ratio \t9 : 3 : 3 : 1",
+    "fact": "9 Both dominant • 3 Dominant-Recessive • 3 Recessive-Dominant • 1 Both recessive Observed in F2 generation when tracking two independent pairs of contrasting traits (e.g., Round Yellow × Wrinkled Green).",
     "breakdown": [
       {
-        "key": "Karyotype",
-        "label": "47, XX, +21 (Female) or 47, XY, +21 (Male) -> Trisomy of Chromosome 21"
+        "key": "Focus",
+        "label": "Dihybrid"
       },
       {
-        "key": "Cause",
-        "label": "Non-disjunction of chromosome 21 during oogenesis"
-      },
-      {
-        "key": "First Documented",
-        "label": "Langdon Down in 1866"
-      },
-      {
-        "key": "Key Physical Signs",
-        "label": "Short stature, small round head, furrowed tongue, partially open mouth, single simian palm crease"
-      },
-      {
-        "key": "Neurological Sign",
-        "label": "Psychomotor and intellectual disability (mental retardation)"
+        "key": "Trick",
+        "label": "Phenotypic Ratio \t9 : 3 : 3 : 1"
       }
     ],
-    "doodleBadge": "Down Syndrome = Trisomy 21 (47)\nSimian Crease + Furrowed Tongue",
-    "doodleSubtext": "Langdon Down 1866",
-    "explanation": "Risk of non-disjunction of chromosome 21 increases dramatically with advancing maternal age due to prolonged arrest of primary oocytes in dictyotene/diplotene stage.",
-    "alsoRemember": "Amniocentesis and maternal serum screening (triple test) detect Down syndrome in early pregnancy.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.8.3.",
-    "neetTrap": "Down syndrome is an AUTOSOMAL aneuploidy (Trisomy 21), NOT a sex-chromosomal disorder.",
+    "doodleBadge": "Phenotypic Ratio \t9 : 3 ",
+    "doodleSubtext": "Dihybrid",
+    "explanation": "9 Both dominant • 3 Dominant-Recessive • 3 Recessive-Dominant • 1 Both recessive Observed in F2 generation when tracking two independent pairs of contrasting traits (e.g., Round Yellow × Wrinkled Green).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Dihybrid.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 48",
     "tags": [
-      "Down Syndrome",
-      "Trisomy 21",
-      "Aneuploidy",
-      "Langdon Down",
-      "Simian Crease",
-      "Furrowed Tongue",
-      "Non-disjunction"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Dihybrid"
     ],
-    "expandedMeaning": "Autosomal non-disjunctional aneuploidy cytogenetics and characteristic craniofacial-dermatoglyphic dysmorphology.",
-    "whyItWorks": "Trisomy 21 + 1866 Langdon Down + Simian crease physical hallmark.",
-    "visualDescription": "Karyotype showing 3 copies of chromosome 21 (total 47) next to patient hand showing single horizontal Simian palm line.",
-    "neetRelevance": "One of the most frequently asked chromosomal disorder questions in NEET.",
-    "commonMistake": "Classifying Down syndrome as a sex-chromosomal anomaly.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.8.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 48,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following chromosomal abnormalities causes Down syndrome in humans?",
+      "question": "Which of the following is associated with \"Dihybrid\" in NEET Biology?",
       "options": [
-        "Monosomy of X chromosome (45, X0)",
-        "Trisomy of chromosome 21 (47, XX/XY, +21)",
-        "Trisomy of sex chromosome (47, XXY)",
-        "Deletion of short arm of chromosome 5"
+        "Phenotypic Ratio \t9 : 3 : 3 : 1",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Down syndrome is caused by the presence of an extra copy of chromosome 21 (Trisomy 21, total 47 chromosomes)."
+      "answerIndex": 0,
+      "explanation": "9 Both dominant • 3 Dominant-Recessive • 3 Recessive-Dominant • 1 Both recessive Observed in F2 generation when tracking two independent pairs of contrasting traits (e.g., Round Yellow × Wrinkled Green)."
     }
   },
   {
@@ -836,72 +773,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-4",
-    "topicTitle": "Klinefelter's vs Turner's Syndrome",
-    "topic": "Klinefelter (47, XXY / Sterile Male with Gynecomastia) vs Turner (45, X0 / Sterile Female with Streak Ovaries)",
+    "classLevel": 12,
+    "topicId": "bio-top-23-2",
+    "topicTitle": "Dihybrid",
+    "topic": "Dihybrid",
     "mnemonicNumber": 12,
-    "title": "Sex Chromosome Disorders: Klinefelter (47, XXY = Male with Feminine Gynecomastia & Sterile) vs Turner (45, X0 = Female with Rudimentary Ovaries & Sterile)",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
+    "sourceItemNumber": 12,
+    "title": "Dihybrid: \"Genotypic Varieties \tTOTAL 9 GENOTYPES\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EDF4FF",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
     "badgeColor": "#5B8DEF",
-    "mnemonic": "Klinefelter Syndrome = 47, XXY (Extra X in Male! Overall masculine body, but develops feminine breasts / GYNECOMASTIA and high pitch voice, Sterile!) | Turner Syndrome = 45, X0 (Missing X in Female! 44 Autosomes + 1 single X! Sterile female with rudimentary streak ovaries, short stature, webbed neck, lack of secondary sexual characters)!",
-    "memoryHook": "Klinefelter has an EXTRA X (XXY boy with breast development / Gynecomastia). Turner has a MISSING X (X0 girl with rudimentary ovaries and webbed neck). Both are completely sterile!",
-    "fact": "Sex Chromosome Aneuploidies: 1) Klinefelter's Syndrome: Caused by presence of an additional copy of X-chromosome resulting in karyotype 47, XXY (44A + XXY). Individual has overall masculine development, but feminine development (development of breast, i.e., Gynecomastia) is also expressed. Individuals are tall, eunuchoid, and STERILE. Barr body is present (1 Barr body). 2) Turner's Syndrome: Caused by absence of one of the X chromosomes, resulting in karyotype 45, X0 (44A + X0). Such females are STERILE as ovaries are rudimentary (streak ovaries), lack secondary sexual characters, short stature, webbed neck, shield chest, and have NO Barr bodies.",
+    "mnemonic": "Genotypic Varieties \tTOTAL 9 GENOTYPES",
+    "memoryHook": "Genotypic Varieties \tTOTAL 9 GENOTYPES",
+    "fact": "Out of 16 boxes in Punnett square, there are 9 distinct genotypic combinations in standard dihybrid cross. Ratio expression formula: (1:2:1) × (1:2:1) yields 9 different genotypes.",
     "breakdown": [
       {
-        "key": "Klinefelter Karyotype",
-        "label": "47, XXY (Male phenotype with 44 autosomes + XXY)"
+        "key": "Focus",
+        "label": "Dihybrid"
       },
       {
-        "key": "Klinefelter Features",
-        "label": "Masculine body + Gynecomastia (breast development) + Sterile testes + 1 Barr body"
-      },
-      {
-        "key": "Turner Karyotype",
-        "label": "45, X0 (Monosomy: Female phenotype with 44 autosomes + single X)"
-      },
-      {
-        "key": "Turner Features",
-        "label": "Sterile female + Rudimentary streak ovaries + Short stature + Webbed neck + Zero Barr body"
+        "key": "Trick",
+        "label": "Genotypic Varieties \tTOTAL 9 GENOTYPES"
       }
     ],
-    "doodleBadge": "Klinefelter = 47, XXY (Male + Gynecomastia)\nTurner = 45, X0 (Female + Streak Ovaries)",
-    "doodleSubtext": "Sex Chromosome Anomalies",
-    "explanation": "Barr body count rule: Number of Barr bodies = Total X chromosomes - 1. Normal female (XX) has 1; Klinefelter male (XXY) has 1; Turner female (X0) has 0; Normal male (XY) has 0.",
-    "alsoRemember": "Both Klinefelter and Turner syndromes result from meiotic non-disjunction of sex chromosomes during parental gametogenesis.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.8.3.",
-    "neetTrap": "Klinefelter is 47, XXY (MALE with gynecomastia); Turner is 45, X0 (FEMALE with streak ovaries).",
+    "doodleBadge": "Genotypic Varieties \tTOT",
+    "doodleSubtext": "Dihybrid",
+    "explanation": "Out of 16 boxes in Punnett square, there are 9 distinct genotypic combinations in standard dihybrid cross. Ratio expression formula: (1:2:1) × (1:2:1) yields 9 different genotypes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Dihybrid.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 48",
     "tags": [
-      "Klinefelter Syndrome",
-      "Turner Syndrome",
-      "XXY",
-      "X0",
-      "Gynecomastia",
-      "Streak Ovaries",
-      "Aneuploidy",
-      "Barr Body"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Dihybrid"
     ],
-    "expandedMeaning": "Sex chromosomal gonosomal nondisjunctional karyotyping and phenotypic sexual dysgenesis.",
-    "whyItWorks": "XXY (Extra X boy with breasts) vs X0 (Missing X girl with streak ovaries).",
-    "visualDescription": "Split comparison: tall male silhouette with Gynecomastia labeled 47, XXY vs short female silhouette with webbed neck labeled 45, X0.",
-    "neetRelevance": "One of the most frequently asked comparison questions in NEET genetics.",
-    "commonMistake": "Associating gynecomastia with Turner syndrome.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.8.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 48,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following genetic syndromes is characterized by a karyotype of 47, XXY, exhibiting overall masculine development along with feminine breast development (gynecomastia)?",
+      "question": "Which of the following is associated with \"Dihybrid\" in NEET Biology?",
       "options": [
-        "Down syndrome",
-        "Turner syndrome",
-        "Klinefelter syndrome",
-        "Cri-du-chat syndrome"
+        "Genotypic Varieties \tTOTAL 9 GENOTYPES",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Klinefelter syndrome is characterized by a 47, XXY karyotype with masculine development and gynecomastia."
+      "answerIndex": 0,
+      "explanation": "Out of 16 boxes in Punnett square, there are 9 distinct genotypic combinations in standard dihybrid cross. Ratio expression formula: (1:2:1) × (1:2:1) yields 9 different genotypes."
     }
   },
   {
@@ -910,74 +835,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-4",
-    "topicTitle": "Hemophilia (Royal Disease) & Criss-Cross Inheritance",
-    "topic": "X-Linked Recessive, Clotting Factor VIII Defect, Queen Victoria Pedigree, Criss-Cross Pattern",
+    "classLevel": 12,
+    "topicId": "bio-top-23-2",
+    "topicTitle": "Law",
+    "topic": "Law",
     "mnemonicNumber": 13,
-    "title": "Hemophilia: X-Linked Recessive (\"Royal Disease\" / Factor VIII Defect -> Continuous Bleeding, Father -> Carrier Daughter -> Grandson)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
+    "sourceItemNumber": 13,
+    "title": "Law: \"of Independent Assortment Basis \tDIHYBRID CROSS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
+    "visualType": "classification",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Hemophilia (Bleeder's Disease / Royal Family): Sex-Linked (X-linked) RECESSIVE trait -> Defect in blood clotting cascade (Factor VIII) -> Simple cut results in non-stop bleeding! Criss-Cross Inheritance: Affected Father -> Carrier Daughter (XHXh) -> Transmits to 50% of her Sons (XhY)! Female hemophilic (XhXh) is extremely rare!",
-    "memoryHook": "The Royal Bleeder's curse! The mutant gene hides on the X chromosome. A father gives his Xh to his daughter (carrier); the carrier daughter passes it to her son (affected grandson)!",
-    "fact": "Hemophilia is a Sex-linked Recessive disease: In this disease, a single protein that is a part of the cascade of proteins involved in blood clotting is affected (Hemophilia A: Factor VIII deficiency; Hemophilia B: Factor IX deficiency). Consequently, an affected individual experiences continuous bleeding even from a simple cut. Follows Criss-Cross inheritance (transmission from grandfather to grandson through carrier daughter). Females rarely become hemophilic (requires homozygous XhXh condition, meaning mother must be at least a carrier XHXh and father must be hemophilic XhY). The family pedigree of Queen Victoria of England shows a number of hemophilic descendants as she was a carrier.",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "of Independent Assortment Basis \tDIHYBRID CROSS",
+    "memoryHook": "of Independent Assortment Basis \tDIHYBRID CROSS",
+    "fact": "Based on dihybrid cross results where alleles of two different genes get sorted into gametes independently of one another. Applies strictly to genes located on separate chromosomes or far apart on the same chromosome.",
     "breakdown": [
       {
-        "key": "Inheritance Mode",
-        "label": "Sex-Linked (X-linked) Recessive disorder"
+        "key": "Focus",
+        "label": "Law"
       },
       {
-        "key": "Molecular Defect",
-        "label": "Deficiency of clotting factor VIII (Hemophilia A) or factor IX (Hemophilia B)"
-      },
-      {
-        "key": "Criss-Cross Path",
-        "label": "Affected father transmits to carrier daughter, who transmits to affected grandson"
-      },
-      {
-        "key": "Female Rarity",
-        "label": "Females are rarely affected (XhXh) because it requires carrier mother + hemophilic father"
-      },
-      {
-        "key": "Queen Victoria Link",
-        "label": "Queen Victoria was a heterozygous carrier who transmitted the mutant gene to European royalty"
+        "key": "Trick",
+        "label": "of Independent Assortment Basis \tDIHYBRID CROSS"
       }
     ],
-    "doodleBadge": "Hemophilia = X-Linked Recessive\nFather -> Carrier Daughter -> Grandson",
-    "doodleSubtext": "Royal Bleeder's Disease",
-    "explanation": "Homozygous hemophilic female embryos (XhXh) are often lethal in utero or suffer fatal hemorrhages during menarche.",
-    "alsoRemember": "Color blindness is also an X-linked recessive trait affecting 8% of human males and only 0.4% of females.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.8.2.",
-    "neetTrap": "For a female child to be hemophilic, the mother must be at least a CARRIER and the father must be HEMOPHILIC.",
+    "doodleBadge": "of Independent Assortmen",
+    "doodleSubtext": "Law",
+    "explanation": "Based on dihybrid cross results where alleles of two different genes get sorted into gametes independently of one another. Applies strictly to genes located on separate chromosomes or far apart on the same chromosome.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Law.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 48",
     "tags": [
-      "Hemophilia",
-      "X-Linked Recessive",
-      "Factor VIII",
-      "Queen Victoria",
-      "Criss-Cross Inheritance",
-      "Bleeder Disease"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Law"
     ],
-    "expandedMeaning": "X-chromosomal recessive coagulopathy pedigree dynamics and diagonal trans-generational inheritance.",
-    "whyItWorks": "Criss-cross diagonal pathway: Grandfather -> Carrier Mother -> Grandson.",
-    "visualDescription": "Pedigree tree showing Queen Victoria (carrier circle with dot) passing Xh chromosome to daughters and affected hemophilic royal princes (filled squares).",
-    "neetRelevance": "Common in pedigree problem-solving and carrier probability questions in NEET.",
-    "commonMistake": "Assuming a hemophilic father can pass the disease directly to his son (father gives Y chromosome to sons).",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.8.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 48,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following conditions must be fulfilled for a human female to be born with Hemophilia (XhXh)?",
+      "question": "Which of the following is associated with \"Law\" in NEET Biology?",
       "options": [
-        "Mother must be normal and father must be normal",
-        "Mother must be a carrier and father must be hemophilic",
-        "Mother must be hemophilic and father must be normal",
-        "Father must be normal and mother carrier"
+        "of Independent Assortment Basis \tDIHYBRID CROSS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "For a daughter to inherit XhXh, the mother must be at least a carrier (XHXh) and the father must be hemophilic (XhY)."
+      "answerIndex": 0,
+      "explanation": "Based on dihybrid cross results where alleles of two different genes get sorted into gametes independently of one another. Applies strictly to genes located on separate chromosomes or far apart on the same chromosome."
     }
   },
   {
@@ -986,70 +897,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-4",
-    "topicTitle": "Color Blindness Inheritance Math",
-    "topic": "X-Linked Recessive, 8% in Males vs 0.4% in Females, Red-Green Cone Defect",
+    "classLevel": 12,
+    "topicId": "bio-top-23-2",
+    "topicTitle": "Incomplete",
+    "topic": "Incomplete",
     "mnemonicNumber": 14,
-    "title": "Color Blindness: X-Linked Recessive (8% Males vs 0.4% Females / Red-Green Cone Photopigment Defect)",
-    "badgeText": "Formula",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#FFE681",
+    "sourceItemNumber": 14,
+    "title": "Incomplete: \"Dominance Example \tMIRABILIS JALAPA\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#A66CFF",
-    "mnemonic": "Color Blindness = X-Linked Recessive! Affects 8% of Males (only need 1 XcY gene) vs ONLY 0.4% of Females (need two mutant alleles XcXc = 0.08 x 0.08 ≈ 0.0064 = 0.4%)! Defect in Red or Green cone photopigments -> Failure to distinguish Red and Green colors!",
-    "memoryHook": "Men have no backup X chromosome! If a boy gets one Xc from his mom, he is 100% color blind (8% of all men)! A girl needs two defective X chromosomes from both parents to be color blind (rare 0.4%)!",
-    "fact": "Color Blindness is a sex-linked recessive disorder: Results in defect in either red or green cone photoreceptors of the eye, causing failure to discriminate between red and green colors. The gene for red-green color blindness is located on the X chromosome. It occurs in about 8% of males and only about 0.4% of females. This is because the genes are on the X chromosome; males have only one X chromosome (hemizygous), so a single mutant allele XcY expresses the disease. A female expresses color blindness only when homozygous (XcXc), which requires a color-blind father and at least a carrier mother.",
+    "mnemonic": "Dominance Example \tMIRABILIS JALAPA",
+    "memoryHook": "Dominance Example \tMIRABILIS JALAPA",
+    "fact": "Four O' Clock plant (Mirabilis jalapa) or Snapdragon (Antirrhinum majus) flower color. Red (RR) × White (rr) yields Pink (Rr) flowers in F1, deviating from strict Mendelian dominance.",
     "breakdown": [
       {
-        "key": "Inheritance Mode",
-        "label": "Sex-linked (X-linked) Recessive defect on X-chromosome"
+        "key": "Focus",
+        "label": "Incomplete"
       },
       {
-        "key": "Prevalence Disparity",
-        "label": "8% in human males vs 0.4% in human females"
-      },
-      {
-        "key": "Biological Basis",
-        "label": "Mutation in opsin photopigment genes for red (protan) and green (deutan) cone cells"
-      },
-      {
-        "key": "Carrier Mother Cross",
-        "label": "Carrier mother (XCXc) x Normal father (XCY) -> 50% of sons are color blind (XcY)"
+        "key": "Trick",
+        "label": "Dominance Example \tMIRABILIS JALAPA"
       }
     ],
-    "doodleBadge": "Color Blindness:\n8% Males vs 0.4% Females (X-Linked Recessive)",
-    "doodleSubtext": "Male Vulnerability",
-    "explanation": "Son of a carrier mother has a 50% chance of being color blind, and cannot inherit the disorder from his color-blind father because father passes only Y chromosome to sons.",
-    "alsoRemember": "Ishihara test charts (colored dot plates) are used clinically to diagnose red-green color blindness.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.8.2.",
-    "neetTrap": "A color-blind father CANNOT pass the gene to his sons; he passes it only to his DAUGHTERS (making them carriers).",
+    "doodleBadge": "Dominance Example \tMIRAB",
+    "doodleSubtext": "Incomplete",
+    "explanation": "Four O' Clock plant (Mirabilis jalapa) or Snapdragon (Antirrhinum majus) flower color. Red (RR) × White (rr) yields Pink (Rr) flowers in F1, deviating from strict Mendelian dominance.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Incomplete.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 48",
     "tags": [
-      "Color Blindness",
-      "X-Linked Recessive",
-      "8% Males",
-      "0.4% Females",
-      "Ishihara Test",
-      "Cones"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Incomplete"
     ],
-    "expandedMeaning": "Hemizygous male penetrance kinetics and population frequency disparity in X-linked photoreceptor gene mutations.",
-    "whyItWorks": "8% vs 0.4% mathematical contrast explains single-X vulnerability.",
-    "visualDescription": "Ishihara color test plate with hidden number \"74\" alongside Punnett square showing 50% of sons inheriting color blindness from carrier mother.",
-    "neetRelevance": "Extremely popular genetics probability calculation question in NEET.",
-    "commonMistake": "Assuming a color-blind father passes the condition directly to his sons.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.8.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 48,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Why is red-green color blindness observed in about 8% of human males but only about 0.4% of human females?",
+      "question": "Which of the following is associated with \"Incomplete\" in NEET Biology?",
       "options": [
-        "Because it is an autosomal dominant trait",
-        "Because males possess only one X chromosome and a single recessive allele causes the disorder",
-        "Because the gene is located on the Y chromosome",
-        "Because testosterone activates the mutant gene"
+        "Dominance Example \tMIRABILIS JALAPA",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Males are hemizygous (XY) with only one X chromosome, so a single recessive mutant allele on the X chromosome causes color blindness."
+      "answerIndex": 0,
+      "explanation": "Four O' Clock plant (Mirabilis jalapa) or Snapdragon (Antirrhinum majus) flower color. Red (RR) × White (rr) yields Pink (Rr) flowers in F1, deviating from strict Mendelian dominance."
     }
   },
   {
@@ -1058,70 +959,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-1",
-    "topicTitle": "Pleiotropy vs Polygenic Inheritance",
-    "topic": "1 Gene -> Multiple Traits (Pleiotropy: PKU) vs Multiple Genes -> 1 Continuous Trait (Polygenic: Skin Color)",
+    "classLevel": 12,
+    "topicId": "bio-top-23-2",
+    "topicTitle": "Incomplete",
+    "topic": "Incomplete",
     "mnemonicNumber": 15,
-    "title": "Gene Interactions: Pleiotropy (1 Gene controls Multiple Phenotypic Traits: PKU) vs Polygenic (Multiple Genes control 1 Trait: Skin Color)",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Pleiotropy = 1 Single Gene -> Multiple diverse phenotypic effects (e.g., PKU causes Mental Retardation + Light Hair + Light Skin; Starch gene in pea controls seed shape AND starch grain size!) | Polygenic Inheritance = Multiple Genes (A, B, C) -> 1 Single Quantitative Gradient Trait (e.g., Human Skin Color AABBCC dark to aabbcc light, Human Height)!",
-    "memoryHook": "Pleio = PLENTY of effects from ONE gene (1 to Many)! Poly-genic = PLENTY of genes building ONE trait (Many to 1, like human skin shades)!",
-    "fact": "Pleiotropy vs Polygenic Inheritance: 1) Pleiotropy: A single gene exhibits multiple phenotypic expressions. The underlying mechanism is the effect of a gene on metabolic pathways which contribute to different phenotypes (e.g., Phenylketonuria / PKU where single mutation causes mental retardation, reduction in skin pigmentation, and hair loss; Starch branching enzyme gene in peas where BB produces large starch grains and round seeds, bb produces small grains and wrinkled seeds, Bb produces intermediate size grains and round seeds). 2) Polygenic Inheritance: Traits controlled by three or more genes (polygenes), giving a continuous phenotypic gradient (bell-shaped curve) influenced by environment (e.g., Human Skin Color controlled by three genes A, B, C; AABBCC is darkest, aabbcc is lightest, AaBbCc is intermediate mulatto).",
+    "sourceItemNumber": 15,
+    "title": "Incomplete: \"Dominance F2 Ratios \t1 : 2 : 1 (BOTH)\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Dominance F2 Ratios \t1 : 2 : 1 (BOTH)",
+    "memoryHook": "Dominance F2 Ratios \t1 : 2 : 1 (BOTH)",
+    "fact": "Both phenotypic and genotypic ratios in incomplete dominance are identical: 1 Red : 2 Pink : 1 White. The heterozygous condition produces an intermediate blended phenotype.",
     "breakdown": [
       {
-        "key": "Pleiotropy (1 Gene -> Many Traits)",
-        "label": "Single gene mutation produces multiple clinical/morphological symptoms (e.g., PKU, Sickle Cell)"
+        "key": "Focus",
+        "label": "Incomplete"
       },
       {
-        "key": "Starch Gene Pleiotropy",
-        "label": "Gene B controls Seed Shape (Dominance: Round > Wrinkled) AND Starch Grain Size (Incomplete Dominance: Large/Intermediate/Small)"
-      },
-      {
-        "key": "Polygenic (Many Genes -> 1 Trait)",
-        "label": "Quantitative inheritance: phenotype reflects additive contribution of multiple alleles (A, B, C)"
-      },
-      {
-        "key": "Human Skin Color",
-        "label": "AABBCC (6 dominant alleles = Darkest) -> 3 dominant alleles (Mulatto) -> aabbcc (0 dominant alleles = Lightest)"
+        "key": "Trick",
+        "label": "Dominance F2 Ratios \t1 : 2 : 1 (BOTH)"
       }
     ],
-    "doodleBadge": "Pleiotropy = 1 Gene -> Many Traits (PKU)\nPolygenic = Many Genes -> 1 Trait (Skin Color)",
-    "doodleSubtext": "1-to-Many vs Many-to-1",
-    "explanation": "Dominance is not an autonomous feature of a gene or its product; it depends on the particular phenotypic trait chosen for examination (e.g., starch branching gene in pea).",
-    "alsoRemember": "Polygenic inheritance produces a continuous Gaussian bell-shaped distribution curve in the population.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.6 & 5.7.",
-    "neetTrap": "Starch synthesis in pea seed is an example of PLEIOTROPY showing both complete dominance (seed shape) and incomplete dominance (grain size).",
+    "doodleBadge": "Dominance F2 Ratios \t1 :",
+    "doodleSubtext": "Incomplete",
+    "explanation": "Both phenotypic and genotypic ratios in incomplete dominance are identical: 1 Red : 2 Pink : 1 White. The heterozygous condition produces an intermediate blended phenotype.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Incomplete.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 48",
     "tags": [
-      "Pleiotropy",
-      "Polygenic Inheritance",
-      "Skin Color",
-      "Starch Grain Size",
-      "PKU",
-      "Quantitative Genetics"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Incomplete"
     ],
-    "expandedMeaning": "Mendelian monogenic pleiotropic pleiotropism versus multi-locus additive polygenic quantitative trait architecture.",
-    "whyItWorks": "1 to Many (Pleiotropy) vs Many to 1 (Polygenic).",
-    "visualDescription": "Dual diagram: single gene branching to 3 trait boxes (Pleiotropy) vs 3 genes converging with plus signs onto a continuous skin color gradient spectrum (Polygenic).",
-    "neetRelevance": "Common in definition matching and pea starch grain genetics questions.",
-    "commonMistake": "Confusing pleiotropy with polygenic inheritance.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.6",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 48,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The inheritance of human skin color (controlled by three genes A, B, and C with additive effects) is a classic example of:",
+      "question": "Which of the following is associated with \"Incomplete\" in NEET Biology?",
       "options": [
-        "Pleiotropy",
-        "Polygenic inheritance",
-        "Incomplete dominance",
-        "Co-dominance"
+        "Dominance F2 Ratios \t1 : 2 : 1 (BOTH)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Human skin color is a quantitative trait controlled by multiple additive genes, representing polygenic inheritance."
+      "answerIndex": 0,
+      "explanation": "Both phenotypic and genotypic ratios in incomplete dominance are identical: 1 Red : 2 Pink : 1 White. The heterozygous condition produces an intermediate blended phenotype."
     }
   },
   {
@@ -1130,70 +1021,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-4",
-    "topicTitle": "Pedigree Analysis Symbols & Diagnostic Rules",
-    "topic": "Autosomal Dominant vs Autosomal Recessive vs X-Linked Recessive",
+    "classLevel": 12,
+    "topicId": "bio-top-23-2",
+    "topicTitle": "Co-Dominance",
+    "topic": "Co-Dominance",
     "mnemonicNumber": 16,
-    "title": "Pedigree Analysis: Square = Male, Circle = Female | Autosomal Dominant (Every Generation / No Skip) vs Autosomal Recessive (Skips Generations)",
-    "badgeText": "Classification",
-    "importance": "Must Know",
-    "difficulty": "hard",
+    "sourceItemNumber": 16,
+    "title": "Co-Dominance: \"Definition \tBOTH EXPRESSED EQUALLY\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
     "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Pedigree Rules: 1) Square = Male, Circle = Female, Shaded = Affected, Diamond = Sex unspecified, Double line = Consanguineous mating! 2) Autosomal Dominant = NO SKIP OF GENERATION (Affected child MUST have affected parent, e.g., Myotonic Dystrophy) | 3) Autosomal Recessive = SKIPS GENERATIONS (Unaffected carrier parents produce affected child, e.g., Sickle Cell Anemia)!",
-    "memoryHook": "Dominant diseases never skip a beat (present in every generation row)! Recessive diseases hide silently in carrier parents and jump out to surprise the kids (skips generation)!",
-    "fact": "Pedigree Analysis is the study of inheritance of traits in several generations of a human family: 1) Standard Symbols: Square (Male), Circle (Female), Diamond (Sex unspecified), Solid/shaded symbol (Affected individuals), Horizontal mating line, Double horizontal line (Consanguineous mating between relatives), Number inside symbol (Number of unaffected offspring). 2) Autosomal Dominant (e.g., Myotonic Dystrophy): Trait appears in every generation without skipping; unaffected parents do not transmit trait; equal male-female ratio. 3) Autosomal Recessive (e.g., Sickle-cell anemia, Cystic fibrosis): Trait skips generations; affected children often born to unaffected heterozygous carrier parents.",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Definition \tBOTH EXPRESSED EQUALLY",
+    "memoryHook": "Definition \tBOTH EXPRESSED EQUALLY",
+    "fact": "F1 generation resembles both parents equally without blending or dominance suppression. Classic example: AB blood group in humans where both IA and IB alleles express simultaneously.",
     "breakdown": [
       {
-        "key": "Square & Circle",
-        "label": "Square represents Male; Circle represents Female"
+        "key": "Point 1",
+        "label": "AB blood group in humans where both IA"
       },
       {
-        "key": "Consanguinity Symbol",
-        "label": "Double horizontal line connecting male and female represents mating between relatives"
-      },
-      {
-        "key": "Autosomal Dominant Clue",
-        "label": "No skipping of generations; affected child always has at least one affected parent (Myotonic Dystrophy)"
-      },
-      {
-        "key": "Autosomal Recessive Clue",
-        "label": "Skips generations; two unaffected carrier parents (Aa x Aa) produce an affected child (aa) (Sickle Cell Anemia)"
+        "key": "Point 2",
+        "label": "IB alleles express simultaneously"
       }
     ],
-    "doodleBadge": "Dominant = Every Generation (Myotonic Dystrophy)\nRecessive = Skips Generation (Sickle Cell)",
-    "doodleSubtext": "Pedigree Rules",
-    "explanation": "NCERT specifically features two pedigree charts: Figure 5.13(a) representing Autosomal Dominant (Myotonic Dystrophy) and Figure 5.13(b) representing Autosomal Recessive (Sickle-cell anemia).",
-    "alsoRemember": "X-linked recessive pedigrees show criss-cross inheritance with unaffected mothers having affected sons and almost all affected individuals being males.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.8.1.",
-    "neetTrap": "In autosomal recessive pedigrees, affected individuals can be born to UNAFFECTED (heterozygous carrier) parents.",
+    "doodleBadge": "Definition \tBOTH EXPRESS",
+    "doodleSubtext": "Co-Dominance",
+    "explanation": "F1 generation resembles both parents equally without blending or dominance suppression. Classic example: AB blood group in humans where both IA and IB alleles express simultaneously.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Co-Dominance.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 48",
     "tags": [
-      "Pedigree Analysis",
-      "Autosomal Dominant",
-      "Autosomal Recessive",
-      "Myotonic Dystrophy",
-      "Consanguinity",
-      "Symbols"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Co-Dominance"
     ],
-    "expandedMeaning": "Familial genealogical tracing rules and segregational pedigree chart interpretation in clinical genetics.",
-    "whyItWorks": "Generation skip rule: No skip = Dominant; Skips = Recessive.",
-    "visualDescription": "NCERT pedigree charts showing generation-by-generation dominant transmission (Myotonic Dystrophy) next to skipped-generation recessive carrier cross (Sickle Cell).",
-    "neetRelevance": "Direct pedigree chart interpretation questions appear in NEET every year.",
-    "commonMistake": "Failing to identify consanguineous mating represented by double lines.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.8.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 48,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In a human pedigree chart, what does a DOUBLE horizontal line connecting a male square and a female circle represent?",
+      "question": "Which of the following is associated with \"Co-Dominance\" in NEET Biology?",
       "options": [
-        "Divorced parents",
-        "Mating between relatives (Consanguineous mating)",
-        "Monozygotic twins",
-        "Non-identical twins"
+        "Definition \tBOTH EXPRESSED EQUALLY",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "A double horizontal line connecting male and female in a pedigree indicates consanguineous mating (mating between close relatives)."
+      "answerIndex": 0,
+      "explanation": "F1 generation resembles both parents equally without blending or dominance suppression. Classic example: AB blood group in humans where both IA and IB alleles express simultaneously."
     }
   },
   {
@@ -1202,74 +1083,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-1",
-    "topicTitle": "Mendel's Dihybrid Cross Ratios",
-    "topic": "9:3:3:1 Phenotypic Ratio & 1:2:2:4:1:2:1:2:1 Genotypic Ratio",
+    "classLevel": 12,
+    "topicId": "bio-top-23-2",
+    "topicTitle": "Multiple",
+    "topic": "Multiple",
     "mnemonicNumber": 17,
-    "title": "Dihybrid Cross: Phenotypic Ratio 9:3:3:1 (Yellow Round 9, Yellow Wrinkled 3, Green Round 3, Green Wrinkled 1) | Law of Independent Assortment",
-    "badgeText": "Formula",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Dihybrid F2 Phenotypic Ratio = 9:3:3:1 -> 9 Yellow Round (Dominant-Dominant) : 3 Yellow Wrinkled (Dominant-Recessive) : 3 Green Round (Recessive-Dominant) : 1 Green Wrinkled (Recessive-Recessive)! | Recombinant Phenotypes = 3 + 3 = 6 out of 16 (37.5%)!",
-    "memoryHook": "9 Yellow-Round kings (Both dominant), 3 Yellow-Wrinkled hybrids, 3 Green-Round hybrids, and 1 lonely Green-Wrinkled peasant (Both recessive)! 6 out of 16 are brand-new recombinant mixes!",
-    "fact": "Mendel's Dihybrid Cross (crossing Round Yellow RRYY x Wrinkled Green rryy): F1 generation is 100% Round Yellow (RrYy). Selfing F1 gives 16 combinations in F2: 1) Phenotypic ratio: 9 Yellow Round : 3 Yellow Wrinkled : 3 Green Round : 1 Green Wrinkled (9:3:3:1). Parental phenotypes = 9 + 1 = 10/16 (62.5%); Recombinant phenotypes = 3 + 3 = 6/16 (37.5%). 2) Genotypic ratio: 1:2:2:4:1:2:1:2:1 (9 different genotypes, with RrYy being 4/16). 3) Basis of Mendel's 3rd Law: Law of Independent Assortment (When two pairs of traits are combined in a hybrid, segregation of one pair of characters is independent of the other pair of characters).",
+    "sourceItemNumber": 17,
+    "title": "Multiple: \"Alleles Example \tABO BLOOD GROUP\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Alleles Example \tABO BLOOD GROUP",
+    "memoryHook": "Alleles Example \tABO BLOOD GROUP",
+    "fact": "Controlled by gene I having three alleles: IA, IB, and i. More than two alternative forms of a gene occupying the same locus in a population.",
     "breakdown": [
       {
-        "key": "F2 Phenotypic Ratio",
-        "label": "9 Yellow Round : 3 Yellow Wrinkled : 3 Green Round : 1 Green Wrinkled (9:3:3:1)"
+        "key": "Focus",
+        "label": "Multiple"
       },
       {
-        "key": "Parental Combinations",
-        "label": "9 Yellow Round + 1 Green Wrinkled = 10 / 16 (62.5%)"
-      },
-      {
-        "key": "Recombinant Combinations",
-        "label": "3 Yellow Wrinkled + 3 Green Round = 6 / 16 (37.5%)"
-      },
-      {
-        "key": "Number of Genotypes",
-        "label": "9 distinct genotypes (1 RRYY, 2 RRYy, 2 RrYY, 4 RrYy, 1 RRyy, 2 Rryy, 1 rrYY, 2 rrYy, 1 rryy)"
-      },
-      {
-        "key": "Law of Independent Assortment",
-        "label": "Holds true ONLY for genes located on different chromosomes or far apart on same chromosome"
+        "key": "Trick",
+        "label": "Alleles Example \tABO BLOOD GROUP"
       }
     ],
-    "doodleBadge": "Dihybrid F2 = 9:3:3:1\nParental = 10/16 | Recombinant = 6/16",
-    "doodleSubtext": "Independent Assortment",
-    "explanation": "The Law of Independent Assortment fails when genes are closely linked on the same chromosome (Genetic Linkage).",
-    "alsoRemember": "Number of gamete types produced by a genotype with n heterozygous gene pairs = 2ⁿ (e.g., AaBbCc produces 2³ = 8 gamete types).",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.2.3.",
-    "neetTrap": "The proportion of RECOMBINANT phenotypes in a Mendelian dihybrid cross is 6/16 (37.5%), NOT 9/16.",
+    "doodleBadge": "Alleles Example \tABO BLO",
+    "doodleSubtext": "Multiple",
+    "explanation": "Controlled by gene I having three alleles: IA, IB, and i. More than two alternative forms of a gene occupying the same locus in a population.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Multiple.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 48",
     "tags": [
-      "Dihybrid Cross",
-      "9:3:3:1",
-      "Independent Assortment",
-      "Recombinant Phenotypes",
-      "Punnett Square",
-      "RrYy"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Multiple"
     ],
-    "expandedMeaning": "Combinatorial biallelic gametic segregation matrix and dihybrid phenotypic proportions.",
-    "whyItWorks": "9:3:3:1 ratio broken down into 10 parental and 6 recombinant components.",
-    "visualDescription": "16-square Punnett checkerboard color-coded showing 9 yellow rounds, 3 yellow wrinkled, 3 green rounds, and 1 green wrinkled square.",
-    "neetRelevance": "One of the most frequently asked numerical probability topics in NEET.",
-    "commonMistake": "Confusing the number of phenotypes (4) with number of genotypes (9).",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.2.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 48,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In a Mendelian dihybrid cross between a homozygous round yellow pea and a wrinkled green pea, what proportion of the F2 progeny exhibits RECOMBINANT (non-parental) phenotypes?",
+      "question": "Which of the following is associated with \"Multiple\" in NEET Biology?",
       "options": [
-        "9 / 16",
-        "6 / 16 (37.5%)",
-        "10 / 16",
-        "1 / 16"
+        "Alleles Example \tABO BLOOD GROUP",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Recombinant phenotypes (3 Yellow Wrinkled + 3 Green Round) comprise 6 out of 16 (37.5%) of the F2 generation."
+      "answerIndex": 0,
+      "explanation": "Controlled by gene I having three alleles: IA, IB, and i. More than two alternative forms of a gene occupying the same locus in a population."
     }
   },
   {
@@ -1278,71 +1145,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-4",
-    "topicTitle": "Aneuploidy vs Polyploidy",
-    "topic": "Non-Disjunction of Chromatids (Aneuploidy: Down/Turner) vs Failure of Cytokinesis (Polyploidy in Plants)",
+    "classLevel": 12,
+    "topicId": "bio-top-23-2",
+    "topicTitle": "Human",
+    "topic": "Human",
     "mnemonicNumber": 18,
-    "title": "Genomic Mutations: Aneuploidy (Gain/Loss of 1-2 Chromosomes from Non-Disjunction: Down, Turner) vs Polyploidy (Gain of Entire Genome Set 3n/4n from Cytokinesis Failure in Plants)",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Aneuploidy = Failure of chromatids to segregate during cell division -> Gain or Loss of single chromosomes (2n ± 1: Down 2n+1=47, Turner 2n-1=45) | Polyploidy = Failure of CYTOKINESIS after telophase -> Increase in a whole ENTIRE SET of chromosomes (3n, 4n, 6n)! Common in PLANTS (Wheat 6n), lethal in humans!",
-    "memoryHook": "Aneuploidy drops or adds a single passenger on the bus (45 or 47 chromosomes). Polyploidy clones the entire fleet of buses (3n Triploid, 4n Tetraploid, 6n Hexaploid in wheat crops)!",
-    "fact": "Numerical chromosomal mutations: 1) Aneuploidy: Failure of segregation of chromatids during cell division cycle results in the gain or loss of a chromosome(s). Examples: Down syndrome (Trisomy 21 / 2n+1), Turner syndrome (Monosomy X / 2n-1), Klinefelter syndrome (Trisomy XXY / 2n+1). 2) Polyploidy: Failure of cytokinesis after telophase stage of cell division results in an increase in a whole set of chromosomes in an organism (e.g., 3n, 4n, 6n). This phenomenon is known as polyploidy and is very commonly observed in plants (e.g., bread wheat Triticum aestivum is hexaploid 6n = 42). Colchicine chemical inhibits spindle formation and induces polyploidy.",
+    "sourceItemNumber": 18,
+    "title": "Human: \"ABO Blood Group Genotypes \t6 GENOTYPES / 4 PHENOTYPES\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "ABO Blood Group Genotypes \t6 GENOTYPES / 4 PHENOTYPES",
+    "memoryHook": "ABO Blood Group Genotypes \t6 GENOTYPES / 4 PHENOTYPES",
+    "fact": "Genotypes: IAIA, IAi, IBIB, IBi, IAIB, ii (6 total yielding A, B, AB, O). Demonstrates both multiple alleles (3 alleles) and co-dominance (IAIB).",
     "breakdown": [
       {
-        "key": "Aneuploidy Mechanism",
-        "label": "Non-disjunction of homologous chromosomes/sister chromatids during anaphase"
+        "key": "Focus",
+        "label": "Human"
       },
       {
-        "key": "Aneuploidy Formula",
-        "label": "2n + 1 (Trisomy), 2n - 1 (Monosomy), 2n + 2 (Tetrasomy), 2n - 2 (Nullisomy)"
-      },
-      {
-        "key": "Polyploidy Mechanism",
-        "label": "Failure of CYTOKINESIS after karyokinesis / telophase"
-      },
-      {
-        "key": "Polyploidy Formula",
-        "label": "3n (Triploid), 4n (Tetraploid), 6n (Hexaploid) -> common in agricultural crop plants"
+        "key": "Trick",
+        "label": "ABO Blood Group Genotypes \t6 GENOTYPES / 4 PHENOTYPES"
       }
     ],
-    "doodleBadge": "Aneuploidy = 2n ± 1 (Non-Disjunction)\nPolyploidy = 3n/4n (No Cytokinesis)",
-    "doodleSubtext": "Numerical Mutations",
-    "explanation": "Colchicine (derived from autumn crocus Colchicum autumnale) arrests mitosis at metaphase by inhibiting spindle microtubule polymerization, artificially inducing polyploidy in plant breeding.",
-    "alsoRemember": "Euploidy refers to variations involving exact multiples of the basic haploid genome set (n, 2n, 3n, 4n).",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.8.3.",
-    "neetTrap": "Failure of CYTOKINESIS after telophase results in POLYPLOIDY (not aneuploidy).",
+    "doodleBadge": "ABO Blood Group Genotype",
+    "doodleSubtext": "Human",
+    "explanation": "Genotypes: IAIA, IAi, IBIB, IBi, IAIB, ii (6 total yielding A, B, AB, O). Demonstrates both multiple alleles (3 alleles) and co-dominance (IAIB).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Human.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 48",
     "tags": [
-      "Aneuploidy",
-      "Polyploidy",
-      "Non-Disjunction",
-      "Cytokinesis",
-      "Trisomy",
-      "Monosomy",
-      "Colchicine"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Human"
     ],
-    "expandedMeaning": "Cytological karyotypic aberrations distinguishing individual chromosomal nondisjunction from whole-genome endoreduplication.",
-    "whyItWorks": "Single passenger missing (Aneuploidy) vs Whole fleet added (Polyploidy).",
-    "visualDescription": "Karyotype comparison showing 47 single-chromosome addition (Aneuploidy) vs full triplet set of all chromosomes (Polyploidy).",
-    "neetRelevance": "Common in definition matching and cell division failure mechanism MCQs.",
-    "commonMistake": "Confusing the cellular cause of polyploidy (failure of cytokinesis) with aneuploidy (non-disjunction).",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.8.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 48,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Failure of CYTOKINESIS after the telophase stage of cell division leads to which condition commonly observed in plants?",
+      "question": "Which of the following is associated with \"Human\" in NEET Biology?",
       "options": [
-        "Aneuploidy",
-        "Polyploidy",
-        "Point mutation",
-        "Translocation"
+        "ABO Blood Group Genotypes \t6 GENOTYPES / 4 PHENOTYPES",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Failure of cytokinesis following telophase results in polyploidy (an increase in a whole set of chromosomes)."
+      "answerIndex": 0,
+      "explanation": "Genotypes: IAIA, IAi, IBIB, IBi, IAIB, ii (6 total yielding A, B, AB, O). Demonstrates both multiple alleles (3 alleles) and co-dominance (IAIB)."
     }
   },
   {
@@ -1351,71 +1207,60 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-4",
-    "topicTitle": "Types of Mutations: Point vs Frameshift",
-    "topic": "Transition, Transversion, Deletion/Insertion, and Mutagens (UV Radiation)",
+    "classLevel": 12,
+    "topicId": "bio-top-23-2",
+    "topicTitle": "Pleiotropy",
+    "topic": "Pleiotropy",
     "mnemonicNumber": 19,
-    "title": "Mutations: Point Mutation (Single Base Substitution: Sickle Cell GAG->GUG) vs Frameshift (Insertion/Deletion shifts reading frame)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 19,
+    "title": "Pleiotropy: \"Definition \tONE GENE - MANY TRAITS\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
     "difficulty": "medium",
     "visualType": "classification",
-    "mnemonicType": "classification",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Point Mutation = Change in a SINGLE BASE PAIR of DNA (Classic: Sickle cell anemia GAG -> GUG) | Frameshift Mutation = Deletion or Insertion of 1 or 2 bases -> Completely shifts the triplet reading frame of all downstream codons! UV Radiation is a physical mutagen causing thymine dimers!",
-    "memoryHook": "Change 1 letter in a sentence = Point mutation (\"CAT\" becomes \"BAT\"). Delete 1 letter = Frameshift mutation (all downstream 3-letter words become complete gibberish)!",
-    "fact": "Mutation is a phenomenon which results in alteration of DNA sequences: 1) Point Mutation: Mutation arising due to change in a single base pair of DNA (e.g., Sickle cell anemia where A is replaced by T in DNA, changing GAG codon to GUG). 2) Frameshift Mutation: Deletions and insertions of base pairs of DNA. Addition or deletion of 1 or 2 bases alters the reading frame from the point of insertion/deletion onward; insertion/deletion of 3 bases (or multiples of 3) adds/removes 1 amino acid without altering downstream reading frame. 3) Mutagens: Chemical and physical factors that induce mutations (e.g., UV radiation is a physical mutagen that causes pyrimidine thymine dimers).",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Definition \tONE GENE - MANY TRAITS",
+    "memoryHook": "Definition \tONE GENE - MANY TRAITS",
+    "fact": "A single gene exhibits multiple phenotypic expressions (pleiotropic gene). Example: Phenylketonuria (PKU) affects skin pigmentation, mental retardation, and hair color.",
     "breakdown": [
       {
-        "key": "Point Mutation",
-        "label": "Single nucleotide substitution altering a single codon (Sickle Cell Anemia)"
+        "key": "Part 1",
+        "label": "Definition \tONE GENE"
       },
       {
-        "key": "Frameshift Mutation",
-        "label": "Insertion/deletion of non-multiples of 3 bases altering all downstream codon triplet reading frames"
-      },
-      {
-        "key": "Three-Base Insertion",
-        "label": "Adds 1 complete codon/amino acid without altering reading frame downstream"
-      },
-      {
-        "key": "Mutagens",
-        "label": "Physical (UV rays, X-rays, gamma rays) and Chemical agents (EMS, mustard gas, nitrosoguanidine)"
+        "key": "Part 2",
+        "label": "MANY TRAITS"
       }
     ],
-    "doodleBadge": "Point: 1 Base Swap (Sickle Cell)\nFrameshift: Insert/Delete Shifts Reading Frame",
-    "doodleSubtext": "DNA Mutation Types",
-    "explanation": "UV radiation cannot penetrate deep tissues and causes thymine-thymine (pyrimidine) dimers in skin cells, predisposing to xeroderma pigmentosum and skin cancers.",
-    "alsoRemember": "Silent mutations change the codon due to genetic code degeneracy without changing the amino acid.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.5.",
-    "neetTrap": "Insertion or deletion of THREE bases (or multiples of 3) does NOT cause a frameshift; it simply adds or deletes amino acids.",
+    "doodleBadge": "Definition \tONE GENE - M",
+    "doodleSubtext": "Pleiotropy",
+    "explanation": "A single gene exhibits multiple phenotypic expressions (pleiotropic gene). Example: Phenylketonuria (PKU) affects skin pigmentation, mental retardation, and hair color.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Pleiotropy.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 48",
     "tags": [
-      "Mutations",
-      "Point Mutation",
-      "Frameshift Mutation",
-      "Mutagens",
-      "UV Radiation",
-      "Sickle Cell",
-      "Reading Frame"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Pleiotropy"
     ],
-    "expandedMeaning": "Molecular mutational mechanics, transversion/transition kinetics, and translational reading frame disruption.",
-    "whyItWorks": "Single letter swap (Point) vs Frame shift (Gibberish downstream).",
-    "visualDescription": "Sentence analogy: \"RAM HAS RED CAP\" -> Insert B -> \"RAM HAS BRE DCA P\" (Frameshift gibberish).",
-    "neetRelevance": "Common in reading frame and mutagen identification MCQs.",
-    "commonMistake": "Thinking inserting 3 bases causes a complete frameshift mutation.",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.5",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 48,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following physical agents is a well-known mutagen that causes DNA damage and mutations in living organisms?",
+      "question": "Which of the following is associated with \"Pleiotropy\" in NEET Biology?",
       "options": [
-        "Infrared radiation",
-        "UV radiation",
-        "Visible green light",
-        "Radio waves"
+        "Definition \tONE GENE - MANY TRAITS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "UV radiation is a potent physical mutagen that causes pyrimidine dimers in DNA."
+      "answerIndex": 0,
+      "explanation": "A single gene exhibits multiple phenotypic expressions (pleiotropic gene). Example: Phenylketonuria (PKU) affects skin pigmentation, mental retardation, and hair color."
     }
   },
   {
@@ -1424,74 +1269,1960 @@ export const bioCh23Mnemonics = [
     "chapterId": "bio-ch-23",
     "chapterNumber": 23,
     "chapterTitle": "Principles of Inheritance and Variation",
-    "topicId": "bio-top-23-1",
-    "topicTitle": "Test Cross vs Back Cross",
-    "topic": "Crossing Unknown Dominant Phenotype with Homozygous Recessive Parent (1:1 Ratio)",
+    "classLevel": 12,
+    "topicId": "bio-top-23-2",
+    "topicTitle": "Starch",
+    "topic": "Starch",
     "mnemonicNumber": 20,
-    "title": "Test Cross: Unknown Dominant (Tt or TT) crossed with HOMOZYGOUS RECESSIVE (tt) -> If 100% Tall = TT | If 1:1 Ratio = Tt Heterozygous!",
-    "badgeText": "Formula",
-    "importance": "Must Know",
+    "sourceItemNumber": 20,
+    "title": "Starch: \"Grain Size in Pea (Pleiotropy) \tB GENE CONTROLS 2 TRAITS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
+    "visualType": "classification",
     "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "TEST CROSS = Unknown Dominant (T_) x Homozygous Recessive Parent (tt)! Result 1: If 100% of progeny are Tall -> Unknown was HOMOZYGOUS DOMINANT (TT)! Result 2: If progeny shows 1 Tall : 1 Dwarf (50% : 50%) -> Unknown was HETEROZYGOUS (Tt)!",
-    "memoryHook": "To test an unknown tall plant, marry it to a dwarf (tt)! If a single dwarf baby appears (50:50), the parent is unmasked as a heterozygous Tt carrier! If all kids are tall, the parent was pure TT!",
-    "fact": "Test Cross: A cross used to determine the unknown genotype of an organism displaying a dominant phenotype. The organism is crossed with the Homozygous Recessive parent: 1) Monohybrid Test Cross: If the unknown is homozygous dominant (TT x tt), all progeny show dominant phenotype (100% Tall). If the unknown is heterozygous (Tt x tt), progeny segregates in 1:1 ratio (50% Tall : 50% Dwarf). 2) Dihybrid Test Cross: Heterozygous dihybrid (RrYy x rryy) yields a 1:1:1:1 test cross ratio (25% Round Yellow : 25% Round Green : 25% Wrinkled Yellow : 25% Wrinkled Green).",
+    "badgeColor": "#243044",
+    "mnemonic": "Grain Size in Pea (Pleiotropy) \tB GENE CONTROLS 2 TRAITS",
+    "memoryHook": "Grain Size in Pea (Pleiotropy) \tB GENE CONTROLS 2 TRAITS",
+    "fact": "Gene B controls starch grain size (large/small) AND seed shape (round/wrinkled) in pea plants. Classic NCERT example showing how a single gene locus influences multiple phenotypic characters.",
     "breakdown": [
       {
-        "key": "Definition",
-        "label": "Cross of an individual with unknown dominant genotype with a homozygous recessive parent"
+        "key": "Focus",
+        "label": "Starch"
       },
       {
-        "key": "Purpose",
-        "label": "To determine whether the dominant phenotype is homozygous (pure) or heterozygous (hybrid)"
-      },
-      {
-        "key": "Monohybrid Test Cross Ratio",
-        "label": "1 : 1 (if heterozygous Tt x tt)"
-      },
-      {
-        "key": "Dihybrid Test Cross Ratio",
-        "label": "1 : 1 : 1 : 1 (if heterozygous RrYy x rryy)"
-      },
-      {
-        "key": "Back Cross vs Test Cross",
-        "label": "All test crosses are back crosses, but not all back crosses are test crosses"
+        "key": "Trick",
+        "label": "Grain Size in Pea (Pleiotropy) \tB GENE CONTROLS 2 TRAITS"
       }
     ],
-    "doodleBadge": "Test Cross = Unknown x tt\n1:1 Ratio = Heterozygous Tt\n1:1:1:1 = Dihybrid Test Cross",
-    "doodleSubtext": "Genotype Testing Tool",
-    "explanation": "A back cross is a cross of F1 with either parent (dominant or recessive); a test cross is specifically the cross of F1 with the homozygous recessive parent only.",
-    "alsoRemember": "If test cross ratio deviates from 1:1:1:1 in a dihybrid cross, it indicates genetic linkage between the two gene loci.",
-    "ncertConnection": "NCERT Class 12 Biology Section 5.2.2.",
-    "neetTrap": "The test cross ratio for a monohybrid cross is 1:1; for a dihybrid cross it is 1:1:1:1.",
+    "doodleBadge": "Grain Size in Pea (Pleio",
+    "doodleSubtext": "Starch",
+    "explanation": "Gene B controls starch grain size (large/small) AND seed shape (round/wrinkled) in pea plants. Classic NCERT example showing how a single gene locus influences multiple phenotypic characters.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Starch.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 48",
     "tags": [
-      "Test Cross",
-      "Back Cross",
-      "1:1 Ratio",
-      "1:1:1:1 Ratio",
-      "Genotype Determination",
-      "Homozygous Recessive"
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Starch"
     ],
-    "expandedMeaning": "Diagnostic backcross methodology for determining zygosity of dominant phenotypes.",
-    "whyItWorks": "Test cross logic: Recessive parent acts as a mirror revealing the unknown parent's gametes.",
-    "visualDescription": "Punnett square showing unknown dominant plant crossed with homozygous recessive green pea, yielding 50% violet and 50% white flowers (1:1).",
-    "neetRelevance": "One of the most frequently asked practical genetics questions in NEET.",
-    "commonMistake": "Confusing test cross (cross with recessive parent) with standard back cross (cross with any parent).",
-    "sourceReference": "NCERT Class 12 Chapter 5 Section 5.2.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 48,
+      "chapter": "Principles of Inheritance and Variation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "A test cross is performed to determine the unknown genotype of a plant displaying a dominant phenotype by crossing it with:",
+      "question": "Which of the following is associated with \"Starch\" in NEET Biology?",
       "options": [
-        "Homozygous dominant parent",
-        "Heterozygous dominant plant",
-        "Homozygous recessive parent",
-        "Any F1 hybrid plant"
+        "Grain Size in Pea (Pleiotropy) \tB GENE CONTROLS 2 TRAITS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "A test cross involves crossing the organism of unknown dominant genotype with the homozygous recessive parent."
+      "answerIndex": 0,
+      "explanation": "Gene B controls starch grain size (large/small) AND seed shape (round/wrinkled) in pea plants. Classic NCERT example showing how a single gene locus influences multiple phenotypic characters."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-3",
+    "topicTitle": "Polygenic",
+    "topic": "Polygenic",
+    "mnemonicNumber": 21,
+    "sourceItemNumber": 21,
+    "title": "Polygenic: \"Inheritance Definition \tMANY GENES - ONE TRAIT\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Inheritance Definition \tMANY GENES - ONE TRAIT",
+    "memoryHook": "Inheritance Definition \tMANY GENES - ONE TRAIT",
+    "fact": "Traits controlled by three or more genes, producing a continuous range of expression (quantitative inheritance). Example: Human skin color, height, and intelligence.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Human skin color"
+      },
+      {
+        "key": "Point 2",
+        "label": "height"
+      },
+      {
+        "key": "Point 3",
+        "label": "and intelligence"
+      }
+    ],
+    "doodleBadge": "Inheritance Definition \t",
+    "doodleSubtext": "Polygenic",
+    "explanation": "Traits controlled by three or more genes, producing a continuous range of expression (quantitative inheritance). Example: Human skin color, height, and intelligence.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Polygenic.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 49",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Polygenic"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 49,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Polygenic\" in NEET Biology?",
+      "options": [
+        "Inheritance Definition \tMANY GENES - ONE TRAIT",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Traits controlled by three or more genes, producing a continuous range of expression (quantitative inheritance). Example: Human skin color, height, and intelligence."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-3",
+    "topicTitle": "Human",
+    "topic": "Human",
+    "mnemonicNumber": 22,
+    "sourceItemNumber": 22,
+    "title": "Human: \"Skin Color Inheritance \tA, B, C GENES\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Skin Color Inheritance \tA, B, C GENES",
+    "memoryHook": "Skin Color Inheritance \tA, B, C GENES",
+    "fact": "Controlled by 3 genes (A, B, C) with additive effect. Dominant alleles (ABC) = dark; recessive (abc) = light. Produces a classic bell-shaped normal distribution curve in population phenotypes.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Human"
+      },
+      {
+        "key": "Trick",
+        "label": "Skin Color Inheritance \tA, B, C GENES"
+      }
+    ],
+    "doodleBadge": "Skin Color Inheritance \t",
+    "doodleSubtext": "Human",
+    "explanation": "Controlled by 3 genes (A, B, C) with additive effect. Dominant alleles (ABC) = dark; recessive (abc) = light. Produces a classic bell-shaped normal distribution curve in population phenotypes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Human.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 49",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Human"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 49,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Human\" in NEET Biology?",
+      "options": [
+        "Skin Color Inheritance \tA, B, C GENES",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Controlled by 3 genes (A, B, C) with additive effect. Dominant alleles (ABC) = dark; recessive (abc) = light. Produces a classic bell-shaped normal distribution curve in population phenotypes."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-3",
+    "topicTitle": "Chromosomal",
+    "topic": "Chromosomal",
+    "mnemonicNumber": 23,
+    "sourceItemNumber": 23,
+    "title": "Chromosomal: \"Theory of Inheritance \tSUTTON & BOVERI (1902)\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Theory of Inheritance \tSUTTON & BOVERI (1902)",
+    "memoryHook": "Theory of Inheritance \tSUTTON & BOVERI (1902)",
+    "fact": "Proposed by Sutton and Boveri; paired condition of chromosomes is parallel to behavior of Mendelian factors. Linked Mendelian hereditary units (genes) directly to physical chromosomes in the nucleus.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Proposed by Sutton"
+      },
+      {
+        "key": "Point 2",
+        "label": "Boveri"
+      }
+    ],
+    "doodleBadge": "Theory of Inheritance \tS",
+    "doodleSubtext": "Chromosomal",
+    "explanation": "Proposed by Sutton and Boveri; paired condition of chromosomes is parallel to behavior of Mendelian factors. Linked Mendelian hereditary units (genes) directly to physical chromosomes in the nucleus.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Chromosomal.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 49",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Chromosomal"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 49,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Chromosomal\" in NEET Biology?",
+      "options": [
+        "Theory of Inheritance \tSUTTON & BOVERI (1902)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Proposed by Sutton and Boveri; paired condition of chromosomes is parallel to behavior of Mendelian factors. Linked Mendelian hereditary units (genes) directly to physical chromosomes in the nucleus."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-3",
+    "topicTitle": "Parallels",
+    "topic": "Parallels",
+    "mnemonicNumber": 24,
+    "sourceItemNumber": 24,
+    "title": "Parallels: \"Between Genes & Chromosomes \tC - O - U - P - L - E\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Between Genes & Chromosomes \tC - O - U - P - L - E",
+    "memoryHook": "Between Genes & Chromosomes \tC - O - U - P - L - E",
+    "fact": "Chromosomes & genes occur in pairs • Occur as alleles on homologous sites • Union of gametes restores pair • Pairs segregate at meiosis • Linkage independent assortment • Equivalent behavior The striking parallels confirmed chromosomes as the carriers of hereditary genetic information.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Parallels"
+      },
+      {
+        "key": "Trick",
+        "label": "Between Genes & Chromosomes \tC - O - U - P - L - E"
+      }
+    ],
+    "doodleBadge": "Between Genes & Chromoso",
+    "doodleSubtext": "Parallels",
+    "explanation": "Chromosomes & genes occur in pairs • Occur as alleles on homologous sites • Union of gametes restores pair • Pairs segregate at meiosis • Linkage independent assortment • Equivalent behavior The striking parallels confirmed chromosomes as the carriers of hereditary genetic information.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Parallels.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 49",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Parallels"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 49,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Parallels\" in NEET Biology?",
+      "options": [
+        "Between Genes & Chromosomes \tC - O - U - P - L - E",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Chromosomes & genes occur in pairs • Occur as alleles on homologous sites • Union of gametes restores pair • Pairs segregate at meiosis • Linkage independent assortment • Equivalent behavior The striking parallels confirmed chromosomes as the carrier"
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-3",
+    "topicTitle": "Experimental",
+    "topic": "Experimental",
+    "mnemonicNumber": 25,
+    "sourceItemNumber": 25,
+    "title": "Experimental: \"Proof of Chromosomal Theory \tT.H. MORGAN (DROSOPHILA)\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Proof of Chromosomal Theory \tT.H. MORGAN (DROSOPHILA)",
+    "memoryHook": "Proof of Chromosomal Theory \tT.H. MORGAN (DROSOPHILA)",
+    "fact": "Demonstrated by Thomas Hunt Morgan using fruit fly (Drosophila melanogaster). Drosophila was chosen due to short life cycle (2 weeks), cheap culture, and clear sexual dimorphism.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "cheap culture"
+      },
+      {
+        "key": "Point 2",
+        "label": "and clear sexual dimorphism"
+      }
+    ],
+    "doodleBadge": "Proof of Chromosomal The",
+    "doodleSubtext": "Experimental",
+    "explanation": "Demonstrated by Thomas Hunt Morgan using fruit fly (Drosophila melanogaster). Drosophila was chosen due to short life cycle (2 weeks), cheap culture, and clear sexual dimorphism.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Experimental.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 49",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Experimental"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 49,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Experimental\" in NEET Biology?",
+      "options": [
+        "Proof of Chromosomal Theory \tT.H. MORGAN (DROSOPHILA)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Demonstrated by Thomas Hunt Morgan using fruit fly (Drosophila melanogaster). Drosophila was chosen due to short life cycle (2 weeks), cheap culture, and clear sexual dimorphism."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-3",
+    "topicTitle": "Linkage",
+    "topic": "Linkage",
+    "mnemonicNumber": 26,
+    "sourceItemNumber": 26,
+    "title": "Linkage: \"Definition (Morgan) \tPHYSICAL ASSOCIATION\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Definition (Morgan) \tPHYSICAL ASSOCIATION",
+    "memoryHook": "Definition (Morgan) \tPHYSICAL ASSOCIATION",
+    "fact": "Tendency of genes located on the same chromosome to be inherited together during meiosis. Violates independent assortment; linked genes show higher parental combinations than recombinants.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Linkage"
+      },
+      {
+        "key": "Trick",
+        "label": "Definition (Morgan) \tPHYSICAL ASSOCIATION"
+      }
+    ],
+    "doodleBadge": "Definition (Morgan) \tPHY",
+    "doodleSubtext": "Linkage",
+    "explanation": "Tendency of genes located on the same chromosome to be inherited together during meiosis. Violates independent assortment; linked genes show higher parental combinations than recombinants.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Linkage.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 49",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Linkage"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 49,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Linkage\" in NEET Biology?",
+      "options": [
+        "Definition (Morgan) \tPHYSICAL ASSOCIATION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tendency of genes located on the same chromosome to be inherited together during meiosis. Violates independent assortment; linked genes show higher parental combinations than recombinants."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-3",
+    "topicTitle": "Recombination",
+    "topic": "Recombination",
+    "mnemonicNumber": 27,
+    "sourceItemNumber": 27,
+    "title": "Recombination: \"Definition \tNON-PARENTAL GENE COMBINATIONS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Definition \tNON-PARENTAL GENE COMBINATIONS",
+    "memoryHook": "Definition \tNON-PARENTAL GENE COMBINATIONS",
+    "fact": "Generation of non-parental gene combinations due to crossing over between non-sister chromatids. Recombination frequency is directly proportional to the physical distance between genes.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Recombination"
+      },
+      {
+        "key": "Trick",
+        "label": "Definition \tNON-PARENTAL GENE COMBINATIONS"
+      }
+    ],
+    "doodleBadge": "Definition \tNON-PARENTAL",
+    "doodleSubtext": "Recombination",
+    "explanation": "Generation of non-parental gene combinations due to crossing over between non-sister chromatids. Recombination frequency is directly proportional to the physical distance between genes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Recombination.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 49",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Recombination"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 49,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Recombination\" in NEET Biology?",
+      "options": [
+        "Definition \tNON-PARENTAL GENE COMBINATIONS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Generation of non-parental gene combinations due to crossing over between non-sister chromatids. Recombination frequency is directly proportional to the physical distance between genes."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-3",
+    "topicTitle": "Tight",
+    "topic": "Tight",
+    "mnemonicNumber": 28,
+    "sourceItemNumber": 28,
+    "title": "Tight: \"vs Loose Linkage \tDISTANCE MATTERS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "vs Loose Linkage \tDISTANCE MATTERS",
+    "memoryHook": "vs Loose Linkage \tDISTANCE MATTERS",
+    "fact": "Tightly linked genes: Low recombination, high parental progeny.. Loosely linked genes: High recombination frequency.",
+    "breakdown": [
+      {
+        "key": "Tightly linked genes",
+        "label": "Low recombination, high parental progeny."
+      },
+      {
+        "key": "Loosely linked genes",
+        "label": "High recombination frequency."
+      }
+    ],
+    "doodleBadge": "vs Loose Linkage \tDISTAN",
+    "doodleSubtext": "Tight",
+    "explanation": "Alfred Sturtevant used recombination frequency to construct genetic chromosome maps (centimorgans).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Tight.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 49",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Tight"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 49,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Tight\" in NEET Biology?",
+      "options": [
+        "vs Loose Linkage \tDISTANCE MATTERS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Alfred Sturtevant used recombination frequency to construct genetic chromosome maps (centimorgans)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-3",
+    "topicTitle": "Sex",
+    "topic": "Sex",
+    "mnemonicNumber": 29,
+    "sourceItemNumber": 29,
+    "title": "Sex: \"Determination Types \tXY - XO - ZW - H\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Determination Types \tXY - XO - ZW - H",
+    "memoryHook": "Determination Types \tXY - XO - ZW - H",
+    "fact": "XY (Humans/Drosophila) • XO (Grasshopper) • ZW (Birds) • Haplo-diploidy (Honeybee) Different biological systems employ distinct chromosomal mechanisms to determine sex.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Determination Types \tXY"
+      },
+      {
+        "key": "Part 2",
+        "label": "XO"
+      },
+      {
+        "key": "Part 3",
+        "label": "ZW"
+      },
+      {
+        "key": "Part 4",
+        "label": "H"
+      }
+    ],
+    "doodleBadge": "Determination Types \tXY ",
+    "doodleSubtext": "Sex",
+    "explanation": "XY (Humans/Drosophila) • XO (Grasshopper) • ZW (Birds) • Haplo-diploidy (Honeybee) Different biological systems employ distinct chromosomal mechanisms to determine sex.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Sex.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 49",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Sex"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 49,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Sex\" in NEET Biology?",
+      "options": [
+        "Determination Types \tXY - XO - ZW - H",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "XY (Humans/Drosophila) • XO (Grasshopper) • ZW (Birds) • Haplo-diploidy (Honeybee) Different biological systems employ distinct chromosomal mechanisms to determine sex."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-3",
+    "topicTitle": "Male",
+    "topic": "Male",
+    "mnemonicNumber": 30,
+    "sourceItemNumber": 30,
+    "title": "Male: \"Heterogamety Examples \tXX - XY & XX - XO\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "Heterogamety Examples \tXX - XY & XX - XO",
+    "memoryHook": "Heterogamety Examples \tXX - XY & XX - XO",
+    "fact": "Males produce two types of gametes (X and Y, or X and O). Examples: Humans, Drosophila, Grasshoppers. Female is homogametic (produces only X gametes).",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Heterogamety Examples \tXX"
+      },
+      {
+        "key": "Part 2",
+        "label": "XY & XX"
+      },
+      {
+        "key": "Part 3",
+        "label": "XO"
+      }
+    ],
+    "doodleBadge": "Heterogamety Examples \tX",
+    "doodleSubtext": "Male",
+    "explanation": "Males produce two types of gametes (X and Y, or X and O). Examples: Humans, Drosophila, Grasshoppers. Female is homogametic (produces only X gametes).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Male.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 49",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Male"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 49,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Male\" in NEET Biology?",
+      "options": [
+        "Heterogamety Examples \tXX - XY & XX - XO",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Males produce two types of gametes (X and Y, or X and O). Examples: Humans, Drosophila, Grasshoppers. Female is homogametic (produces only X gametes)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-31",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-4",
+    "topicTitle": "Female",
+    "topic": "Female",
+    "mnemonicNumber": 31,
+    "sourceItemNumber": 31,
+    "title": "Female: \"Heterogamety Example \tZW - ZZ (BIRDS)\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Heterogamety Example \tZW - ZZ (BIRDS)",
+    "memoryHook": "Heterogamety Example \tZW - ZZ (BIRDS)",
+    "fact": "Female is ZW (heterogametic, produces Z and W eggs); Male is ZZ (homogametic). Found in birds and reptiles. The exact reverse of the human XY system where males are heterogametic.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Heterogamety Example \tZW"
+      },
+      {
+        "key": "Part 2",
+        "label": "ZZ (BIRDS)"
+      }
+    ],
+    "doodleBadge": "Heterogamety Example \tZW",
+    "doodleSubtext": "Female",
+    "explanation": "Female is ZW (heterogametic, produces Z and W eggs); Male is ZZ (homogametic). Found in birds and reptiles. The exact reverse of the human XY system where males are heterogametic.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Female.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 50",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Female"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 50,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Female\" in NEET Biology?",
+      "options": [
+        "Heterogamety Example \tZW - ZZ (BIRDS)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Female is ZW (heterogametic, produces Z and W eggs); Male is ZZ (homogametic). Found in birds and reptiles. The exact reverse of the human XY system where males are heterogametic."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-32",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-4",
+    "topicTitle": "Haplo-Diploid",
+    "topic": "Haplo-Diploid",
+    "mnemonicNumber": 32,
+    "sourceItemNumber": 32,
+    "title": "Haplo-Diploid: \"Sex Determination \tHONEYBEE SYSTEM\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Sex Determination \tHONEYBEE SYSTEM",
+    "memoryHook": "Sex Determination \tHONEYBEE SYSTEM",
+    "fact": "Fertilized egg (2n = 32): Develops into female (Queen or Worker).. Unfertilized egg (n = 16): Develops into male (Drone) via parthenogenesis.",
+    "breakdown": [
+      {
+        "key": "Fertilized egg (2n = 32)",
+        "label": "Develops into female (Queen or Worker)."
+      }
+    ],
+    "doodleBadge": "Sex Determination \tHONEY",
+    "doodleSubtext": "Haplo-Diploid",
+    "explanation": "Males have no fathers and cannot produce sons, but have grandfathers and can have grandsons.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Haplo-Diploid.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 50",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Haplo-Diploid"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 50,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Haplo-Diploid\" in NEET Biology?",
+      "options": [
+        "Sex Determination \tHONEYBEE SYSTEM",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Males have no fathers and cannot produce sons, but have grandfathers and can have grandsons."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-33",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-4",
+    "topicTitle": "Mutation",
+    "topic": "Mutation",
+    "mnemonicNumber": 33,
+    "sourceItemNumber": 33,
+    "title": "Mutation: \"Definition & Types \tALTERATION IN DNA\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Definition & Types \tALTERATION IN DNA",
+    "memoryHook": "Definition & Types \tALTERATION IN DNA",
+    "fact": "Sudden heritable change in DNA sequence. Divided into Point mutations and Frame-shift mutations. Mutations can result in structural or functional protein changes.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Mutation"
+      },
+      {
+        "key": "Trick",
+        "label": "Definition & Types \tALTERATION IN DNA"
+      }
+    ],
+    "doodleBadge": "Definition & Types \tALTE",
+    "doodleSubtext": "Mutation",
+    "explanation": "Sudden heritable change in DNA sequence. Divided into Point mutations and Frame-shift mutations. Mutations can result in structural or functional protein changes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Mutation.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 50",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Mutation"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 50,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Mutation\" in NEET Biology?",
+      "options": [
+        "Definition & Types \tALTERATION IN DNA",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sudden heritable change in DNA sequence. Divided into Point mutations and Frame-shift mutations. Mutations can result in structural or functional protein changes."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-34",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-4",
+    "topicTitle": "Point",
+    "topic": "Point",
+    "mnemonicNumber": 34,
+    "sourceItemNumber": 34,
+    "title": "Point: \"Mutation Classic Example \tSICKLE-CELL ANEMIA\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Mutation Classic Example \tSICKLE-CELL ANEMIA",
+    "memoryHook": "Mutation Classic Example \tSICKLE-CELL ANEMIA",
+    "fact": "Substitution of single base pair (GAG to GUG) in beta-globin gene causes glutamic acid to be replaced by valine. A classic point mutation altering hemoglobin structure under low oxygen tension.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Point"
+      },
+      {
+        "key": "Trick",
+        "label": "Mutation Classic Example \tSICKLE-CELL ANEMIA"
+      }
+    ],
+    "doodleBadge": "Mutation Classic Example",
+    "doodleSubtext": "Point",
+    "explanation": "Substitution of single base pair (GAG to GUG) in beta-globin gene causes glutamic acid to be replaced by valine. A classic point mutation altering hemoglobin structure under low oxygen tension.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Point.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 50",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Point"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 50,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Point\" in NEET Biology?",
+      "options": [
+        "Mutation Classic Example \tSICKLE-CELL ANEMIA",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Substitution of single base pair (GAG to GUG) in beta-globin gene causes glutamic acid to be replaced by valine. A classic point mutation altering hemoglobin structure under low oxygen tension."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-35",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-4",
+    "topicTitle": "Pedigree",
+    "topic": "Pedigree",
+    "mnemonicNumber": 35,
+    "sourceItemNumber": 35,
+    "title": "Pedigree: \"Analysis Symbols \tSQUARE = MALE / CIRCLE = FEMALE\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Analysis Symbols \tSQUARE = MALE / CIRCLE = FEMALE",
+    "memoryHook": "Analysis Symbols \tSQUARE = MALE / CIRCLE = FEMALE",
+    "fact": "Square = Male • Circle = Female • Filled shape = Affected individual • Double line = Consanguineous mating. Pedigree charts trace inheritance of specific traits through generations of a family tree.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Pedigree"
+      },
+      {
+        "key": "Trick",
+        "label": "Analysis Symbols \tSQUARE = MALE / CIRCLE = FEMALE"
+      }
+    ],
+    "doodleBadge": "Analysis Symbols \tSQUARE",
+    "doodleSubtext": "Pedigree",
+    "explanation": "Square = Male • Circle = Female • Filled shape = Affected individual • Double line = Consanguineous mating. Pedigree charts trace inheritance of specific traits through generations of a family tree.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Pedigree.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 50",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Pedigree"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 50,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Pedigree\" in NEET Biology?",
+      "options": [
+        "Analysis Symbols \tSQUARE = MALE / CIRCLE = FEMALE",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Square = Male • Circle = Female • Filled shape = Affected individual • Double line = Consanguineous mating. Pedigree charts trace inheritance of specific traits through generations of a family tree."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-36",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-4",
+    "topicTitle": "Autosomal",
+    "topic": "Autosomal",
+    "mnemonicNumber": 36,
+    "sourceItemNumber": 36,
+    "title": "Autosomal: \"Dominant Pedigree Traits \tNO SKIPPING GENERATIONS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Dominant Pedigree Traits \tNO SKIPPING GENERATIONS",
+    "memoryHook": "Dominant Pedigree Traits \tNO SKIPPING GENERATIONS",
+    "fact": "Trait appears in every generation; both males and females affected equally. Example: Myotonic dystrophy. An affected individual must have at least one affected parent.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Autosomal"
+      },
+      {
+        "key": "Trick",
+        "label": "Dominant Pedigree Traits \tNO SKIPPING GENERATIONS"
+      }
+    ],
+    "doodleBadge": "Dominant Pedigree Traits",
+    "doodleSubtext": "Autosomal",
+    "explanation": "Trait appears in every generation; both males and females affected equally. Example: Myotonic dystrophy. An affected individual must have at least one affected parent.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Autosomal.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 50",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Autosomal"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 50,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Autosomal\" in NEET Biology?",
+      "options": [
+        "Dominant Pedigree Traits \tNO SKIPPING GENERATIONS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Trait appears in every generation; both males and females affected equally. Example: Myotonic dystrophy. An affected individual must have at least one affected parent."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-37",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-4",
+    "topicTitle": "Autosomal",
+    "topic": "Autosomal",
+    "mnemonicNumber": 37,
+    "sourceItemNumber": 37,
+    "title": "Autosomal: \"Recessive Pedigree Traits \tSKIPS GENERATIONS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Recessive Pedigree Traits \tSKIPS GENERATIONS",
+    "memoryHook": "Recessive Pedigree Traits \tSKIPS GENERATIONS",
+    "fact": "Trait often skips generations; carriers (heterozygotes) are normal. Example: Sickle-cell anemia, Phenylketonuria. Affected children can be born to unaffected carrier parents (25% recurrence risk).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Autosomal"
+      },
+      {
+        "key": "Trick",
+        "label": "Recessive Pedigree Traits \tSKIPS GENERATIONS"
+      }
+    ],
+    "doodleBadge": "Recessive Pedigree Trait",
+    "doodleSubtext": "Autosomal",
+    "explanation": "Trait often skips generations; carriers (heterozygotes) are normal. Example: Sickle-cell anemia, Phenylketonuria. Affected children can be born to unaffected carrier parents (25% recurrence risk).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Autosomal.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 50",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Autosomal"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 50,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Autosomal\" in NEET Biology?",
+      "options": [
+        "Recessive Pedigree Traits \tSKIPS GENERATIONS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Trait often skips generations; carriers (heterozygotes) are normal. Example: Sickle-cell anemia, Phenylketonuria. Affected children can be born to unaffected carrier parents (25% recurrence risk)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-38",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-4",
+    "topicTitle": "X-Linked",
+    "topic": "X-Linked",
+    "mnemonicNumber": 38,
+    "sourceItemNumber": 38,
+    "title": "X-Linked: \"Recessive Pedigree Traits \tCRISSCROSS INHERITANCE\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Recessive Pedigree Traits \tCRISSCROSS INHERITANCE",
+    "memoryHook": "Recessive Pedigree Traits \tCRISSCROSS INHERITANCE",
+    "fact": "Affected grandfather passes trait to grandson through carrier daughter. Example: Haemophilia, Colour blindness. Males are affected much more frequently because they carry only one X chromosome.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "X-Linked"
+      },
+      {
+        "key": "Trick",
+        "label": "Recessive Pedigree Traits \tCRISSCROSS INHERITANCE"
+      }
+    ],
+    "doodleBadge": "Recessive Pedigree Trait",
+    "doodleSubtext": "X-Linked",
+    "explanation": "Affected grandfather passes trait to grandson through carrier daughter. Example: Haemophilia, Colour blindness. Males are affected much more frequently because they carry only one X chromosome.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in X-Linked.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 50",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "X-Linked"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 50,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"X-Linked\" in NEET Biology?",
+      "options": [
+        "Recessive Pedigree Traits \tCRISSCROSS INHERITANCE",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Affected grandfather passes trait to grandson through carrier daughter. Example: Haemophilia, Colour blindness. Males are affected much more frequently because they carry only one X chromosome."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-39",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-4",
+    "topicTitle": "Classification",
+    "topic": "Classification",
+    "mnemonicNumber": 39,
+    "sourceItemNumber": 39,
+    "title": "Classification: \"of Genetic Disorders \tM - C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "of Genetic Disorders \tM - C",
+    "memoryHook": "of Genetic Disorders \tM - C",
+    "fact": "Mendelian disorders (single gene mutations) • Chromosomal disorders (structural/numerical aberration) Broad medical genetics division of inherited human abnormalities.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "of Genetic Disorders \tM"
+      },
+      {
+        "key": "Part 2",
+        "label": "C"
+      }
+    ],
+    "doodleBadge": "of Genetic Disorders \tM ",
+    "doodleSubtext": "Classification",
+    "explanation": "Mendelian disorders (single gene mutations) • Chromosomal disorders (structural/numerical aberration) Broad medical genetics division of inherited human abnormalities.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Classification.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 50",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Classification"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 50,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Classification\" in NEET Biology?",
+      "options": [
+        "of Genetic Disorders \tM - C",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mendelian disorders (single gene mutations) • Chromosomal disorders (structural/numerical aberration) Broad medical genetics division of inherited human abnormalities."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-40",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-4",
+    "topicTitle": "Mendelian",
+    "topic": "Mendelian",
+    "mnemonicNumber": 40,
+    "sourceItemNumber": 40,
+    "title": "Mendelian: \"Disorder Examples \tH - S - P - C - P - F\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Disorder Examples \tH - S - P - C - P - F",
+    "memoryHook": "Disorder Examples \tH - S - P - C - P - F",
+    "fact": "Haemophilia • Sickle-cell anemia • Phenylketonuria • Cystic fibrosis • Pedigree traits • Fibrosis These disorders follow clear-cut Mendelian patterns of inheritance in families.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Disorder Examples \tH"
+      },
+      {
+        "key": "Part 2",
+        "label": "S"
+      },
+      {
+        "key": "Part 3",
+        "label": "P"
+      },
+      {
+        "key": "Part 4",
+        "label": "C"
+      },
+      {
+        "key": "Part 5",
+        "label": "P"
+      },
+      {
+        "key": "Part 6",
+        "label": "F"
+      }
+    ],
+    "doodleBadge": "Disorder Examples \tH - S",
+    "doodleSubtext": "Mendelian",
+    "explanation": "Haemophilia • Sickle-cell anemia • Phenylketonuria • Cystic fibrosis • Pedigree traits • Fibrosis These disorders follow clear-cut Mendelian patterns of inheritance in families.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Mendelian.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 50",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Mendelian"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 50,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Mendelian\" in NEET Biology?",
+      "options": [
+        "Disorder Examples \tH - S - P - C - P - F",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Haemophilia • Sickle-cell anemia • Phenylketonuria • Cystic fibrosis • Pedigree traits • Fibrosis These disorders follow clear-cut Mendelian patterns of inheritance in families."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-41",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-5",
+    "topicTitle": "Haemophilia",
+    "topic": "Haemophilia",
+    "mnemonicNumber": 41,
+    "sourceItemNumber": 41,
+    "title": "Haemophilia: \"(Bleeder's Disease) \tX-LINKED RECESSIVE\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "(Bleeder's Disease) \tX-LINKED RECESSIVE",
+    "memoryHook": "(Bleeder's Disease) \tX-LINKED RECESSIVE",
+    "fact": "Failure to form normal blood clotting cascade (Factor VIII or IX deficiency). Queen Victoria was a famous carrier. Simple minor cuts result in non-stop bleeding in affected males.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "(Bleeder's Disease) \tX"
+      },
+      {
+        "key": "Part 2",
+        "label": "LINKED RECESSIVE"
+      }
+    ],
+    "doodleBadge": "(Bleeder's Disease) \tX-L",
+    "doodleSubtext": "Haemophilia",
+    "explanation": "Failure to form normal blood clotting cascade (Factor VIII or IX deficiency). Queen Victoria was a famous carrier. Simple minor cuts result in non-stop bleeding in affected males.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Haemophilia.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 51",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Haemophilia"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 51,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Haemophilia\" in NEET Biology?",
+      "options": [
+        "(Bleeder's Disease) \tX-LINKED RECESSIVE",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Failure to form normal blood clotting cascade (Factor VIII or IX deficiency). Queen Victoria was a famous carrier. Simple minor cuts result in non-stop bleeding in affected males."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-42",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-5",
+    "topicTitle": "Phenylketonuria",
+    "topic": "Phenylketonuria",
+    "mnemonicNumber": 42,
+    "sourceItemNumber": 42,
+    "title": "Phenylketonuria: \"(PKU) Enzyme Defect \tPAH ENZYME ABSENT\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "(PKU) Enzyme Defect \tPAH ENZYME ABSENT",
+    "memoryHook": "(PKU) Enzyme Defect \tPAH ENZYME ABSENT",
+    "fact": "Deficiency of liver enzyme phenylalanine hydroxylase; phenylalanine accumulates and converts to phenylpyruvic acid. Causes severe mental retardation and excretion in urine (phenylketonuria).",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "phenylalanine accumulates"
+      },
+      {
+        "key": "Point 2",
+        "label": "excretion in urine (phenylketonuria)"
+      }
+    ],
+    "doodleBadge": "(PKU) Enzyme Defect \tPAH",
+    "doodleSubtext": "Phenylketonuria",
+    "explanation": "Deficiency of liver enzyme phenylalanine hydroxylase; phenylalanine accumulates and converts to phenylpyruvic acid. Causes severe mental retardation and excretion in urine (phenylketonuria).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Phenylketonuria.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 51",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Phenylketonuria"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 51,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Phenylketonuria\" in NEET Biology?",
+      "options": [
+        "(PKU) Enzyme Defect \tPAH ENZYME ABSENT",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Deficiency of liver enzyme phenylalanine hydroxylase; phenylalanine accumulates and converts to phenylpyruvic acid. Causes severe mental retardation and excretion in urine (phenylketonuria)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-43",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-5",
+    "topicTitle": "Thalassemia",
+    "topic": "Thalassemia",
+    "mnemonicNumber": 43,
+    "sourceItemNumber": 43,
+    "title": "Thalassemia: \"Classification \tALPHA vs BETA\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Classification \tALPHA vs BETA",
+    "memoryHook": "Classification \tALPHA vs BETA",
+    "fact": "Alpha-thalassemia: Controlled by HBA1 and HBA2 on chromosome 16.. Beta-thalassemia: Controlled by HBB on chromosome 11.",
+    "breakdown": [
+      {
+        "key": "Alpha",
+        "label": "thalassemia: Controlled by HBA1 and HBA2 on chromosome 16."
+      },
+      {
+        "key": "Beta",
+        "label": "thalassemia: Controlled by HBB on chromosome 11."
+      }
+    ],
+    "doodleBadge": "Classification \tALPHA vs",
+    "doodleSubtext": "Thalassemia",
+    "explanation": "Quantitative genetic blood disorder resulting in abnormal hemoglobin chain synthesis and severe anaemia.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Thalassemia.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 51",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Thalassemia"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 51,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Thalassemia\" in NEET Biology?",
+      "options": [
+        "Classification \tALPHA vs BETA",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Quantitative genetic blood disorder resulting in abnormal hemoglobin chain synthesis and severe anaemia."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-44",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-5",
+    "topicTitle": "Aneuploidy",
+    "topic": "Aneuploidy",
+    "mnemonicNumber": 44,
+    "sourceItemNumber": 44,
+    "title": "Aneuploidy: \"vs Euploidy \tGAIN / LOSS OF CHROMOSOMES\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "vs Euploidy \tGAIN / LOSS OF CHROMOSOMES",
+    "memoryHook": "vs Euploidy \tGAIN / LOSS OF CHROMOSOMES",
+    "fact": "Aneuploidy: Gain or loss of individual chromosomes due to failure of segregation (non-disjunction) during cell division. Example: Trisomy (2n+1) or Monosomy (2n-1).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Aneuploidy"
+      },
+      {
+        "key": "Trick",
+        "label": "vs Euploidy \tGAIN / LOSS OF CHROMOSOMES"
+      }
+    ],
+    "doodleBadge": "vs Euploidy \tGAIN / LOSS",
+    "doodleSubtext": "Aneuploidy",
+    "explanation": "Aneuploidy: Gain or loss of individual chromosomes due to failure of segregation (non-disjunction) during cell division. Example: Trisomy (2n+1) or Monosomy (2n-1).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Aneuploidy.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 51",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Aneuploidy"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 51,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Aneuploidy\" in NEET Biology?",
+      "options": [
+        "vs Euploidy \tGAIN / LOSS OF CHROMOSOMES",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Aneuploidy: Gain or loss of individual chromosomes due to failure of segregation (non-disjunction) during cell division. Example: Trisomy (2n+1) or Monosomy (2n-1)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-45",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-5",
+    "topicTitle": "Polyploidy",
+    "topic": "Polyploidy",
+    "mnemonicNumber": 45,
+    "sourceItemNumber": 45,
+    "title": "Polyploidy: \"Definition \tWHOLE SET INCREASE (3n, 4n)\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Definition \tWHOLE SET INCREASE (3n, 4n)",
+    "memoryHook": "Definition \tWHOLE SET INCREASE (3n, 4n)",
+    "fact": "Increase in a whole set of chromosomes due to failure of cytokinesis after telophase in cell division. Common in plants (e.g., wheat, banana triploids) but generally lethal in humans.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "wheat"
+      },
+      {
+        "key": "Point 2",
+        "label": "banana triploids) but generally lethal in humans"
+      }
+    ],
+    "doodleBadge": "Definition \tWHOLE SET IN",
+    "doodleSubtext": "Polyploidy",
+    "explanation": "Increase in a whole set of chromosomes due to failure of cytokinesis after telophase in cell division. Common in plants (e.g., wheat, banana triploids) but generally lethal in humans.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Polyploidy.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 51",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Polyploidy"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 51,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Polyploidy\" in NEET Biology?",
+      "options": [
+        "Definition \tWHOLE SET INCREASE (3n, 4n)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Increase in a whole set of chromosomes due to failure of cytokinesis after telophase in cell division. Common in plants (e.g., wheat, banana triploids) but generally lethal in humans."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-46",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-5",
+    "topicTitle": "Down's",
+    "topic": "Down's",
+    "mnemonicNumber": 46,
+    "sourceItemNumber": 46,
+    "title": "Down's: \"Syndrome (Trisomy 21) \tTRISOMY OF CHROMOSOME 21\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Syndrome (Trisomy 21) \tTRISOMY OF CHROMOSOME 21",
+    "memoryHook": "Syndrome (Trisomy 21) \tTRISOMY OF CHROMOSOME 21",
+    "fact": "Presence of an extra chromosome 21 (total 47 chromosomes). Features: Furrowed tongue, mental retardation, epicanthal fold. First described by Langdon Down (1866).",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Furrowed tongue"
+      },
+      {
+        "key": "Point 2",
+        "label": "mental retardation"
+      }
+    ],
+    "doodleBadge": "Syndrome (Trisomy 21) \tT",
+    "doodleSubtext": "Down's",
+    "explanation": "Presence of an extra chromosome 21 (total 47 chromosomes). Features: Furrowed tongue, mental retardation, epicanthal fold. First described by Langdon Down (1866).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Down's.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 51",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Down's"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 51,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Down's\" in NEET Biology?",
+      "options": [
+        "Syndrome (Trisomy 21) \tTRISOMY OF CHROMOSOME 21",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Presence of an extra chromosome 21 (total 47 chromosomes). Features: Furrowed tongue, mental retardation, epicanthal fold. First described by Langdon Down (1866)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-47",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-5",
+    "topicTitle": "Klinefelter's",
+    "topic": "Klinefelter's",
+    "mnemonicNumber": 47,
+    "sourceItemNumber": 47,
+    "title": "Klinefelter's: \"Syndrome Karyotype \t47, XXY\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Syndrome Karyotype \t47, XXY",
+    "memoryHook": "Syndrome Karyotype \t47, XXY",
+    "fact": "Extra X chromosome in males resulting in 47, XXY karyotype. Features: Overall masculine development with feminine traits (gynecomastia, sterile males).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Klinefelter's"
+      },
+      {
+        "key": "Trick",
+        "label": "Syndrome Karyotype \t47, XXY"
+      }
+    ],
+    "doodleBadge": "Syndrome Karyotype \t47, ",
+    "doodleSubtext": "Klinefelter's",
+    "explanation": "Extra X chromosome in males resulting in 47, XXY karyotype. Features: Overall masculine development with feminine traits (gynecomastia, sterile males).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Klinefelter's.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 51",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Klinefelter's"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 51,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Klinefelter's\" in NEET Biology?",
+      "options": [
+        "Syndrome Karyotype \t47, XXY",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Extra X chromosome in males resulting in 47, XXY karyotype. Features: Overall masculine development with feminine traits (gynecomastia, sterile males)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-48",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-5",
+    "topicTitle": "Turner's",
+    "topic": "Turner's",
+    "mnemonicNumber": 48,
+    "sourceItemNumber": 48,
+    "title": "Turner's: \"Syndrome Karyotype \t45, XO\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Syndrome Karyotype \t45, XO",
+    "memoryHook": "Syndrome Karyotype \t45, XO",
+    "fact": "Absence of one X chromosome in females resulting in 45, XO karyotype. Features: Sterile females, rudimentary ovaries, short stature, webbed neck.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Sterile females"
+      },
+      {
+        "key": "Point 2",
+        "label": "rudimentary ovaries"
+      },
+      {
+        "key": "Point 3",
+        "label": "short stature"
+      },
+      {
+        "key": "Point 4",
+        "label": "webbed neck"
+      }
+    ],
+    "doodleBadge": "Syndrome Karyotype \t45, ",
+    "doodleSubtext": "Turner's",
+    "explanation": "Absence of one X chromosome in females resulting in 45, XO karyotype. Features: Sterile females, rudimentary ovaries, short stature, webbed neck.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Turner's.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 51",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Turner's"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 51,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Turner's\" in NEET Biology?",
+      "options": [
+        "Syndrome Karyotype \t45, XO",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Absence of one X chromosome in females resulting in 45, XO karyotype. Features: Sterile females, rudimentary ovaries, short stature, webbed neck."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-49",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-5",
+    "topicTitle": "Comparison",
+    "topic": "Comparison",
+    "mnemonicNumber": 49,
+    "sourceItemNumber": 49,
+    "title": "Comparison: \"of 3 Syndromes \tD - K - T\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "of 3 Syndromes \tD - K - T",
+    "memoryHook": "of 3 Syndromes \tD - K - T",
+    "fact": "Down's: Trisomy 21 (47). Klinefelter's: XXY (47, male sterile). Turner's: XO (45, female sterile)",
+    "breakdown": [
+      {
+        "key": "Down's",
+        "label": "Trisomy 21 (47)"
+      },
+      {
+        "key": "Klinefelter's",
+        "label": "XXY (47, male sterile)"
+      },
+      {
+        "key": "Turner's",
+        "label": "XO (45, female sterile)"
+      }
+    ],
+    "doodleBadge": "of 3 Syndromes \tD - K - ",
+    "doodleSubtext": "Comparison",
+    "explanation": "High-yield summary table for NEET numerical chromosomal disorder questions.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Comparison.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 51",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Comparison"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 51,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Comparison\" in NEET Biology?",
+      "options": [
+        "Down's: Trisomy 21 (47)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Down's: Trisomy 21 (47)\". Remember using: \"of 3 Syndromes \tD - K - T\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch23-50",
+    "subject": "biology",
+    "chapterId": "bio-ch-23",
+    "chapterNumber": 23,
+    "chapterTitle": "Principles of Inheritance and Variation",
+    "classLevel": 12,
+    "topicId": "bio-top-23-5",
+    "topicTitle": "Non-Disjunction",
+    "topic": "Non-Disjunction",
+    "mnemonicNumber": 50,
+    "sourceItemNumber": 50,
+    "title": "Non-Disjunction: \"Cause \tANAPHASE FAILURE\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Cause \tANAPHASE FAILURE",
+    "memoryHook": "Cause \tANAPHASE FAILURE",
+    "fact": "Failure of sister chromatids or homologous chromosomes to separate properly during anaphase of meiosis. Root cause of all aneuploidy conditions like Down's, Klinefelter's, and Turner's syndromes.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Klinefelter's"
+      },
+      {
+        "key": "Point 2",
+        "label": "and Turner's syndromes"
+      }
+    ],
+    "doodleBadge": "Cause \tANAPHASE FAILURE",
+    "doodleSubtext": "Non-Disjunction",
+    "explanation": "Failure of sister chromatids or homologous chromosomes to separate properly during anaphase of meiosis. Root cause of all aneuploidy conditions like Down's, Klinefelter's, and Turner's syndromes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 4 (Principles of Inheritance and Variation).",
+    "neetTrap": "Common NEET test point in Non-Disjunction.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 4, PDF Page 51",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Principles of Inheritance and Variation",
+      "Non-Disjunction"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 51,
+      "chapter": "Principles of Inheritance and Variation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Non-Disjunction\" in NEET Biology?",
+      "options": [
+        "Cause \tANAPHASE FAILURE",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Failure of sister chromatids or homologous chromosomes to separate properly during anaphase of meiosis. Root cause of all aneuploidy conditions like Down's, Klinefelter's, and Turner's syndromes."
     }
   }
 ];

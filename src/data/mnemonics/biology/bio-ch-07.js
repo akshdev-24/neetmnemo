@@ -1,3 +1,9 @@
+/**
+ * NEET Biology Mnemonics — Chapter 7: Structural Organisation in Animals
+ * Class 11 Biology (30 verified mnemonics)
+ * Primary Source: NEET Biology Chapter-Wise 30 Mnemonics Master (PDF 1)
+ */
+
 export const bioCh07Mnemonics = [
   {
     "id": "mnemo-bio-ch07-01",
@@ -5,69 +11,67 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
     "topicId": "bio-top-7-1",
-    "topicTitle": "Epithelial Tissue",
-    "topic": "Simple Epithelial Tissues (Squamous, Cuboidal, Columnar)",
+    "topicTitle": "Four Primary Animal Tissues",
+    "topic": "Four Primary Animal Tissues",
     "mnemonicNumber": 1,
-    "title": "Epithelial Trio: \"Squamous = Flat Tiles (Alveoli/Vessels) | Cuboidal = Secretory Cubes (PCT Nephron) | Columnar = Tall Pillars (Stomach/Intestine)\"",
-    "badgeText": "Classification",
+    "title": "Four Primary Animal Tissues: \"E C M N” (Epithelial, Connective, Muscular, Nervous)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "classification",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Squamous = Flattened floor tiles with irregular boundaries (Diffusion in lung alveoli & blood vessels) | Cuboidal = Cube-like cells (Secretion/Absorption in PCT of nephron with microvilli) | Columnar = Tall pillar cells with basal nuclei (Stomach & Intestinal lining)",
-    "memoryHook": "Skin tiles: Thin flat Squamous tiles let oxygen diffuse across lung air sacs and capillary walls! Cuboidal cubes work hard in kidney PCT tubes (with brush-border microvilli for reabsorption)! Tall Columnar pillars line the stomach and intestines to absorb nutrients and squirt mucus from goblet cells!",
-    "expandedMeaning": "1. Squamous epithelium: Single thin layer of flattened cells with irregular boundaries; found in walls of blood vessels and air sacs of lungs; involved in functions like forming a diffusion boundary. 2. Cuboidal epithelium: Composed of a single layer of cube-like cells; commonly found in ducts of glands and tubular parts of nephrons in kidneys; main functions are secretion and absorption; epithelium of proximal convoluted tubule (PCT) of nephron has microvilli. 3. Columnar epithelium: Composed of a single layer of tall and slender cells; their nuclei are located at the base; free surface may have microvilli; found in the lining of stomach and intestine and help in secretion and absorption.",
-    "fact": "The proximal convoluted tubule (PCT) of nephron in kidney is lined by simple cuboidal brush border epithelium, which increases surface area for maximum tubular reabsorption.",
+    "mnemonic": "E C M N” (Epithelial, Connective, Muscular, Nervous)",
+    "memoryHook": "E C M N” (Epithelial, Connective, Muscular, Nervous)",
+    "fact": "Epithelial: Covering/lining tissue with tightly packed cells. Connective: Most abundant, binds and supports other tissues. Muscular: Contractile tissue responsible for movements. Nervous: Excitable tissue controlling body responsiveness",
     "breakdown": [
       {
-        "key": "Squamous",
-        "label": "Single flat layer, irregular margins; diffusion boundary in lung alveoli and blood vessel walls (endothelium)"
+        "key": "Epithelial",
+        "label": "Covering/lining tissue with tightly packed cells"
       },
       {
-        "key": "Cuboidal",
-        "label": "Cube-shaped cells; secretion and absorption in salivary ducts and kidney nephron PCT (brush border)"
+        "key": "Connective",
+        "label": "Most abundant, binds and supports other tissues"
       },
       {
-        "key": "Columnar",
-        "label": "Tall slender cells with basal nuclei; lining of stomach and intestine (secretion and absorption)"
+        "key": "Muscular",
+        "label": "Contractile tissue responsible for movements"
+      },
+      {
+        "key": "Nervous",
+        "label": "Excitable tissue controlling body responsiveness"
       }
     ],
-    "doodleBadge": "Squamous = Diffuse | Cuboidal = PCT | Columnar = Gut",
-    "doodleSubtext": "3 Epithelial Types",
-    "explanation": "Basal nuclei are a key morphological marker identifying columnar cells under the microscope.",
-    "whyItWorks": "Directly hooks each shape to its specific NCERT location and function.",
-    "alsoRemember": "Goblet cells are modified isolated glandular columnar cells that secrete mucus.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.1.1",
-    "neetTrap": "Which epithelium lines the PCT of nephron? Simple CUBOIDAL epithelium with brush border microvilli.",
-    "commonMistake": "Thinking alveoli are lined by columnar cells (alveoli have simple squamous epithelium).",
+    "doodleBadge": "E C M N” (Epithelial, Co",
+    "doodleSubtext": "Four Primary Animal Tiss",
+    "explanation": "The four basic tissue types constituting all complex animal organ systems.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Four Primary Animal Tissues.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.68",
     "tags": [
-      "Epithelial Tissue",
-      "Squamous",
-      "Cuboidal",
-      "Columnar",
-      "Alveoli",
-      "PCT",
-      "Microvilli"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Four"
     ],
-    "visualDescription": "Three histological panels: flat pavement squamous tiles, square cuboidal cells with brush border, and tall vertical columnar cells with oval basal nuclei.",
-    "neetRelevance": "NEET 2021, 2020, 2018 match-the-column questions on epithelial locations.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.1.1"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 68,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The proximal convoluted tubule (PCT) of a nephron in the kidney is lined by which type of epithelium?",
+      "question": "Which of the following is associated with \"Four Primary Animal Tissues\" in NEET Biology?",
       "options": [
-        "Simple squamous epithelium",
-        "Simple cuboidal epithelium with brush border microvilli",
-        "Stratified columnar epithelium",
-        "Pseudostratified ciliated epithelium"
+        "Covering/lining tissue with tightly packed cells",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "PCT is lined by simple cuboidal epithelium equipped with a brush border of microvilli to maximize reabsorption."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Covering/lining tissue with tightly packed cells\". Remember using: \"E C M N” (Epithelial, Connective, Muscular, Nervous)\"."
     }
   },
   {
@@ -76,71 +80,67 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
     "topicId": "bio-top-7-1",
-    "topicTitle": "Epithelial Tissue",
-    "topic": "Ciliated Epithelium (Bronchioles & Fallopian Tubes)",
+    "topicTitle": "Simple Squamous Epithelium Locations",
+    "topic": "Simple Squamous Epithelium Locations",
     "mnemonicNumber": 2,
-    "title": "Ciliated Epithelium: \"Bronchioles Sweep Mucus Out | Fallopian Tubes Sweep Ovum to Uterus\"",
-    "badgeText": "Must Know",
+    "title": "Simple Squamous Epithelium Locations: \"A B L E\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Ciliated Epithelium = Bronchioles (Respiratory) + Fallopian Tubes (Oviducts) → Moves Particles or Mucus in a Specific Direction",
-    "memoryHook": "Brooms in the body: Cilia wave in synchronized harmony! In narrow BRONCHIOLES, they sweep trapped dust and mucus upward away from the lungs. In FALLOPIAN TUBES, they sweep the ovum gently toward the uterus!",
-    "expandedMeaning": "If the columnar or cuboidal cells bear cilia on their free surface, they are called CILIATED EPITHELIUM. Their function is to move particles or mucus in a specific direction over the epithelium. They are mainly present in the inner surface of hollow organs like BRONCHIOLES and FALLOPIAN TUBES (oviducts).",
-    "fact": "Immotile cilia syndrome (Kartagener syndrome) caused by dynein arm defects leads to chronic respiratory infections and female infertility due to paralyzed cilia.",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "A B L E",
+    "memoryHook": "A B L E",
+    "fact": "A – Alveoli of lungs (diffusion boundary). B – Blood vessels (endothelium). L – Lymphatic vessels. E – Excretory bowman's capsule (filtration membrane)",
     "breakdown": [
       {
-        "key": "Structure",
-        "label": "Cuboidal or Columnar cells bearing hair-like cilia on their free apical border"
+        "key": "A",
+        "label": "Alveoli of lungs (diffusion boundary)"
       },
       {
-        "key": "Primary Function",
-        "label": "Move particles, fluids, or mucus in a coordinated specific direction"
+        "key": "B",
+        "label": "Blood vessels (endothelium)"
       },
       {
-        "key": "Location 1",
-        "label": "BRONCHIOLES (clears respiratory mucus upward toward throat)"
+        "key": "L",
+        "label": "Lymphatic vessels"
       },
       {
-        "key": "Location 2",
-        "label": "FALLOPIAN TUBES / Oviducts (transports ovum toward uterus)"
+        "key": "E",
+        "label": "Excretory bowman's capsule (filtration membrane)"
       }
     ],
-    "doodleBadge": "Bronchioles + Fallopian Tubes = Ciliated",
-    "doodleSubtext": "Coordinated Sweeping",
-    "explanation": "Rhythmic ciliary beating creates a directional fluid current along the epithelial surface.",
-    "whyItWorks": "Directly pairs Ciliated Epithelium with its exact two textbook locations: Bronchioles and Fallopian tubes.",
-    "alsoRemember": "Ependymal cells lining brain ventricles and spinal cord central canal are also ciliated.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.1.1",
-    "neetTrap": "Questions listing trachea vs bronchioles. NCERT explicitly names hollow organs: BRONCHIOLES and FALLOPIAN TUBES.",
-    "commonMistake": "Placing ciliated epithelium in the stomach or urinary bladder.",
+    "doodleBadge": "A B L E",
+    "doodleSubtext": "Simple Squamous Epitheli",
+    "explanation": "Single layer of flattened cells with irregular boundaries adapted for filtration and diffusion.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Simple Squamous Epithelium Locations.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.68",
     "tags": [
-      "Ciliated Epithelium",
-      "Bronchioles",
-      "Fallopian Tubes",
-      "Oviducts",
-      "Mucus Transport"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Simple"
     ],
-    "visualDescription": "A hair-lined wave sweeping a pink ovum along the fallopian tube tunnel.",
-    "neetRelevance": "NEET 2020, 2019, 2014 questions on ciliated epithelium locations.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.1.1"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 68,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Ciliated epithelium is mainly present on the inner surface of hollow organs such as:",
+      "question": "Which of the following is associated with \"Simple Squamous Epithelium Locations\" in NEET Biology?",
       "options": [
-        "Stomach and intestine",
-        "Bronchioles and fallopian tubes",
-        "Bile duct and esophagus",
-        "Urinary bladder and ureter"
+        "Alveoli of lungs (diffusion boundary)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Ciliated epithelium lines the interior of hollow structures like bronchioles and fallopian tubes to move mucus and particles."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Alveoli of lungs (diffusion boundary)\". Remember using: \"A B L E\"."
     }
   },
   {
@@ -149,68 +149,67 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
     "topicId": "bio-top-7-1",
-    "topicTitle": "Epithelial Tissue",
-    "topic": "Cell Junctions (Tight, Adhering, Gap)",
+    "topicTitle": "Simple Cuboidal Epithelium Locations",
+    "topic": "Simple Cuboidal Epithelium Locations",
     "mnemonicNumber": 3,
-    "title": "Cell Junctions: \"Tight = Stop Leaks | Adhering = Cement Neighbours | Gap = Rapid Ion Bridges\"",
-    "badgeText": "Must Know",
+    "title": "Simple Cuboidal Epithelium Locations: \"D N G P\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Tight Junctions = Stop Substances from Leaking across Tissue | Adhering Junctions = Cementing to Keep Neighboring Cells Together | Gap Junctions = Facilitate Rapid Transfer of Ions & Small Molecules",
-    "memoryHook": "Cell social life: TIGHT junctions lock the door to STOP LEAKS. ADHERING junctions use superglue cement to hold cells together. GAP junctions open glowing open tunnels (connexons) so ions and chemical messengers can zip across instantly!",
-    "expandedMeaning": "All cells in epithelium are held together with little intercellular material. Three types of cell junctions are found in epithelium and other tissues: 1. TIGHT JUNCTIONS: Help to stop substances from leaking across a tissue. 2. ADHERING JUNCTIONS: Perform cementing to keep neighbouring cells together (desmosomes). 3. GAP JUNCTIONS: Facilitate the cells to communicate with each other by connecting the cytoplasm of adjoining cells, for rapid transfer of ions, small molecules and sometimes big molecules.",
-    "fact": "Intercalated discs of cardiac muscle fibers contain abundant gap junctions, allowing electrical action potentials to spread instantaneously so the heart contracts as a functional syncytium.",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "D N G P",
+    "memoryHook": "D N G P",
+    "fact": "D – Ducts of glands (salivary, pancreatic). N – Nephron tubular parts (secretion and absorption). G – Germinal epithelium of ovaries/testes. P – PCT of nephron (bears microvilli)",
     "breakdown": [
       {
-        "key": "Tight Junctions",
-        "label": "Zonula occludens: prevents leakage of extracellular fluid across epithelial layer"
+        "key": "D",
+        "label": "Ducts of glands (salivary, pancreatic)"
       },
       {
-        "key": "Adhering Junctions",
-        "label": "Zonula adherens / Desmosomes: cements neighbouring cell cytoskeletons together"
+        "key": "N",
+        "label": "Nephron tubular parts (secretion and absorption)"
       },
       {
-        "key": "Gap Junctions",
-        "label": "Connexons: hydrophilic channels connecting cytoplasms for rapid ionic communication"
+        "key": "G",
+        "label": "Germinal epithelium of ovaries/testes"
+      },
+      {
+        "key": "P",
+        "label": "PCT of nephron (bears microvilli)"
       }
     ],
-    "doodleBadge": "Tight = No Leaks | Gap = Ion Highway",
-    "doodleSubtext": "3 Cellular Junctions",
-    "explanation": "Gap junctions allow cardiac muscle and smooth muscle to contract synchronously as a coordinated single unit.",
-    "whyItWorks": "Direct 3-way functional match: Tight=Leak, Adhering=Cement, Gap=Communicate/Ions.",
-    "alsoRemember": "Intercalated discs in cardiac muscle contain both adhering junctions and gap junctions.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.1.1",
-    "neetTrap": "Which junction facilitates rapid transfer of ions between adjacent cells? GAP JUNCTIONS (not tight junctions).",
-    "commonMistake": "Confusing the function of tight junctions with adhering junctions.",
+    "doodleBadge": "D N G P",
+    "doodleSubtext": "Simple Cuboidal Epitheli",
+    "explanation": "Single layer of cube-like cells primarily performing secretory and absorptive functions.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Simple Cuboidal Epithelium Locations.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.68",
     "tags": [
-      "Cell Junctions",
-      "Tight Junctions",
-      "Adhering Junctions",
-      "Gap Junctions",
-      "Desmosomes",
-      "Connexons"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Simple"
     ],
-    "visualDescription": "Three cell-to-cell connection diagrams: welded zipper stopping leak (tight), fibrous button anchor (adhering), and open pipe channel (gap).",
-    "neetRelevance": "NEET 2020, 2019, 2017 high-frequency questions on gap junction vs tight junction definitions.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.1.1"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 68,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which type of cell junction facilitates intercellular communication by connecting the cytoplasm of adjoining cells for rapid transfer of ions and small molecules?",
+      "question": "Which of the following is associated with \"Simple Cuboidal Epithelium Locations\" in NEET Biology?",
       "options": [
-        "Tight junctions",
-        "Adhering junctions",
-        "Gap junctions",
-        "Interdigitations"
+        "Ducts of glands (salivary, pancreatic)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Gap junctions form direct cytoplasmic channels allowing rapid passage of ions, chemical messengers, and small molecules between adjacent cells."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Ducts of glands (salivary, pancreatic)\". Remember using: \"D N G P\"."
     }
   },
   {
@@ -219,73 +218,63 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-2",
-    "topicTitle": "Connective Tissue",
-    "topic": "Tendons vs Ligaments (Dense Regular Connective Tissue)",
+    "classLevel": 11,
+    "topicId": "bio-top-7-1",
+    "topicTitle": "Simple Columnar Epithelium Locations",
+    "topic": "Simple Columnar Epithelium Locations",
     "mnemonicNumber": 4,
-    "title": "Tendons & Ligaments: \"M-T-B (Muscle to Bone = Tendon) & B-L-B (Bone to Bone = Ligament)\"",
-    "badgeText": "Memory Trick",
+    "title": "Simple Columnar Epithelium Locations: \"S I G” (Stomach, Intestine, Gallbladder)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "M-T-B = Muscle To Bone is Tendon (Dense white collagen cords) | B-L-B = Bone To Bone is Ligament (Elastic yellow fibers)",
-    "memoryHook": "Mountain Bike connects Muscle to Bone: M-T-B = Muscle-Tendon-Bone! Big Lovely Bones connect Bone to Bone: B-L-B = Bone-Ligament-Bone! Both are DENSE REGULAR connective tissues where collagen fibers line up in parallel bundles!",
-    "expandedMeaning": "Dense regular connective tissue: Collagen fibres are present in rows between many parallel bundles of fibres. 1. TENDONS: Attach skeletal muscles to bones (dense, tough, white fibrous tissue rich in collagen). 2. LIGAMENTS: Attach one bone to another bone (elastic, yellow fibrous tissue). Dense irregular connective tissue has fibroblasts and many fibres (mostly collagen) that are oriented differently; present in the SKIN.",
-    "fact": "Sprains occur when ligaments are stretched or torn, whereas strains occur when tendons or muscles are stretched or torn.",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "S I G” (Stomach, Intestine, Gallbladder)",
+    "memoryHook": "S I G” (Stomach, Intestine, Gallbladder)",
+    "fact": "S – Stomach lining. I – Intestine lining (has microvilli for absorption). G – Gallbladder lining",
     "breakdown": [
       {
-        "key": "M-T-B",
-        "label": "Muscle to Bone = TENDON (White collagenous fibres, high tensile strength)"
+        "key": "S",
+        "label": "Stomach lining"
       },
       {
-        "key": "B-L-B",
-        "label": "Bone to Bone = LIGAMENT (Yellow elastic fibres, flexible)"
+        "key": "I",
+        "label": "Intestine lining (has microvilli for absorption)"
       },
       {
-        "key": "Tissue class",
-        "label": "Dense REGULAR connective tissue (parallel rows of fibers)"
-      },
-      {
-        "key": "Dense IRREGULAR",
-        "label": "Collagen fibers oriented randomly in all directions; found in the DERMIS of skin"
+        "key": "G",
+        "label": "Gallbladder lining"
       }
     ],
-    "doodleBadge": "MTB = Tendon | BLB = Ligament",
-    "doodleSubtext": "Dense Regular Tissue",
-    "explanation": "Parallel orientation of fibers gives maximum tensile strength in the single direction of muscle pull.",
-    "whyItWorks": "MTB and BLB are the most reliable mnemonics in animal histology.",
-    "alsoRemember": "Dense irregular connective tissue is found in the dermis of skin.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.1.2.2",
-    "neetTrap": "Questions asking what attaches muscle to bone: TENDON (not ligament).",
-    "commonMistake": "Flipping tendons and ligaments in skeletal attachments.",
+    "doodleBadge": "S I G” (Stomach, Intesti",
+    "doodleSubtext": "Simple Columnar Epitheli",
+    "explanation": "Tall column-like cells with basal nuclei involved in secretion and absorption across gastrointestinal tract.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Simple Columnar Epithelium Locations.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.68",
     "tags": [
-      "Tendon",
-      "Ligament",
-      "Dense Regular Connective Tissue",
-      "Collagen",
-      "Elastin",
-      "MTB",
-      "BLB"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Simple"
     ],
-    "visualDescription": "A muscle attaching via white rope tendon to a bone, and two bones strapped together across a joint by elastic yellow ligaments.",
-    "neetRelevance": "NEET 2020, 2018, 2016 questions on tendons vs ligaments and dense regular tissue.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.1.2.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 68,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Tendons that attach skeletal muscles to bones are composed of which type of connective tissue?",
+      "question": "Which of the following is associated with \"Simple Columnar Epithelium Locations\" in NEET Biology?",
       "options": [
-        "Dense irregular connective tissue",
-        "Dense regular connective tissue",
-        "Loose areolar connective tissue",
-        "Specialized adipose tissue"
+        "Stomach lining",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Tendons are composed of dense regular connective tissue with parallel bundles of collagen fibers."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Stomach lining\". Remember using: \"S I G” (Stomach, Intestine, Gallbladder)\"."
     }
   },
   {
@@ -294,76 +283,63 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-2",
-    "topicTitle": "Connective Tissue",
-    "topic": "Cartilage vs Bone Matrix & Cells",
+    "classLevel": 11,
+    "topicId": "bio-top-7-1",
+    "topicTitle": "Ciliated Epithelium Locations",
+    "topic": "Ciliated Epithelium Locations",
     "mnemonicNumber": 5,
-    "title": "Skeletal Tissues: \"Cartilage = Solid & Pliable (Chondrocytes) | Bone = Hard & Non-Pliable (Calcium Osteocytes)\"",
-    "badgeText": "Comparison",
+    "title": "Ciliated Epithelium Locations: \"B F C” (Bronchioles, Fallopian tubes, Cilia)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Cartilage = Solid and PLIABLE, resists compression (Chondrocytes in lacunae) | Bone = Hard and NON-PLIABLE rich in Calcium salts (Osteocytes in lacunae)",
-    "memoryHook": "Bend your nose tip — it gives! That is CARTILAGE: solid yet pliable (bendy chondrocytes in lacunae). Tap your shin bone — it will not bend at all! That is BONE: rock-hard, non-pliable matrix loaded with calcium phosphate and collagen!",
-    "expandedMeaning": "1. Cartilage: Intercellular material is solid and pliable and resists compression. Cells of this tissue (CHONDROCYTES) are enclosed in small cavities called lacunae within the matrix secreted by them. Present in tip of nose, outer ear joints, between adjacent bones of vertebral column, limbs and hands in adults. Most of the cartilages in vertebrate embryos are replaced by bones in adults. 2. Bone: Have a hard and non-pliable ground substance rich in calcium salts and collagen fibres which give bone its strength. Bone cells (OSTEOCYTES) are present in the spaces called lacunae. Long bones bear weight; bone marrow in some bones is the site of production of blood cells.",
-    "fact": "Chondroitin sulphate salts make cartilage matrix pliable, whereas hydroxyapatite calcium phosphate salts make bone matrix hard and rigid.",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "B F C” (Bronchioles, Fallopian tubes, Cilia)",
+    "memoryHook": "B F C” (Bronchioles, Fallopian tubes, Cilia)",
+    "fact": "B – Bronchioles (moves mucus outwards). F – Fallopian tubes (moves ovum towards uterus). C – Ciliated columnar/cuboidal structure",
     "breakdown": [
       {
-        "key": "Cartilage matrix",
-        "label": "Solid, PLIABLE, resists compression (Chondroitin sulphate)"
+        "key": "B",
+        "label": "Bronchioles (moves mucus outwards)"
       },
       {
-        "key": "Cartilage cells",
-        "label": "CHONDROCYTES situated in lacunae (2-4 per lacuna)"
+        "key": "F",
+        "label": "Fallopian tubes (moves ovum towards uterus)"
       },
       {
-        "key": "Cartilage locations",
-        "label": "Tip of nose, outer ear pinna, intervertebral discs, articular joint surfaces"
-      },
-      {
-        "key": "Bone matrix",
-        "label": "Hard, NON-PLIABLE, rich in calcium salts (Ossein protein + Calcium phosphate)"
-      },
-      {
-        "key": "Bone cells",
-        "label": "OSTEOCYTES situated in lacunae connected by fine canaliculi"
+        "key": "C",
+        "label": "Ciliated columnar/cuboidal structure"
       }
     ],
-    "doodleBadge": "Cartilage = Pliable | Bone = Non-Pliable",
-    "doodleSubtext": "Skeletal Matrix Contrast",
-    "explanation": "Cartilage is avascular (lacks blood vessels), healing slowly; bone has rich vascular Haversian canal systems.",
-    "whyItWorks": "Direct contrast: Pliable (Cartilage) vs Non-pliable (Bone); Chondrocytes vs Osteocytes.",
-    "alsoRemember": "Haversian canals are characteristic features of mammalian long bones.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.1.2.3",
-    "neetTrap": "Is cartilage matrix pliable or non-pliable? PLIABLE (bone is non-pliable).",
-    "commonMistake": "Thinking all embryonic cartilage stays cartilage (most is ossified into bone in adults).",
+    "doodleBadge": "B F C” (Bronchioles, Fal",
+    "doodleSubtext": "Ciliated Epithelium Loca",
+    "explanation": "Epithelium bearing cilia on free surface to propel particles or fluids in a specific direction.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Ciliated Epithelium Locations.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.68",
     "tags": [
-      "Cartilage",
-      "Bone",
-      "Chondrocytes",
-      "Osteocytes",
-      "Lacunae",
-      "Pliable Matrix"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Ciliated"
     ],
-    "visualDescription": "Cross-section of flexible nose cartilage showing chondrocytes in paired lacunae beside dense Haversian rings of calcified osteocyte bone rings.",
-    "neetRelevance": "NEET 2020, 2019 questions on pliable cartilage matrix vs non-pliable bone matrix.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.1.2.3"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 68,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following describes the intercellular matrix of cartilage according to NCERT?",
+      "question": "Which of the following is associated with \"Ciliated Epithelium Locations\" in NEET Biology?",
       "options": [
-        "Hard and non-pliable with calcium salts",
-        "Solid, pliable, and resists compression",
-        "Liquid without any fibers or cells",
-        "Gaseous with spongy trabeculae"
+        "Bronchioles (moves mucus outwards)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The intercellular material of cartilage is solid and pliable, and resists mechanical compression."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Bronchioles (moves mucus outwards)\". Remember using: \"B F C” (Bronchioles, Fallopian tubes, Cilia)\"."
     }
   },
   {
@@ -372,68 +348,63 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-3",
-    "topicTitle": "Muscle Tissue",
-    "topic": "Muscle Types (Skeletal, Smooth, Cardiac)",
+    "classLevel": 11,
+    "topicId": "bio-top-7-1",
+    "topicTitle": "Types of Cell Junctions",
+    "topic": "Types of Cell Junctions",
     "mnemonicNumber": 6,
-    "title": "Muscle Types: \"Skeletal = Striated Voluntary (Syncytial) | Smooth = Fusiform Involuntary | Cardiac = Branched Intercalated Discs\"",
-    "badgeText": "Comparison",
+    "title": "Types of Cell Junctions: \"T A G” (Tight, Adhering, Gap)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "comparison",
+    "visualType": "sequence",
     "cardColor": "#FFFDF7",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Skeletal = Striated, Voluntary, Cylindrical, Multinucleated | Smooth = Non-striated, Involuntary, Fusiform Spindle, Uninucleate (Visceral organs) | Cardiac = Striated, Involuntary, Branched, Intercalated Discs (Heart wall only)",
-    "memoryHook": "Three muscle motors: Biceps have SKELETAL stripes under your voluntary command (multinucleated cylinders). Stomach and blood vessels have smooth spindle SMOOTH muscles working involuntarily without stripes. Your beating heart has CARDIAC branches locked by INTERCALATED DISCS so the whole heart pumps as one rhythm!",
-    "expandedMeaning": "1. Skeletal muscle: Closely attached to skeletal bones; striped (striated) appearance; bundled together in parallel fashion; voluntary; cylindrical, unbranched, multinucleated (syncytium). 2. Smooth muscle: Fibres taper at both ends (FUSIFORM) and do not show striations; cell junctions hold them together and they are bundled in connective tissue sheath; involuntary; walls of internal visceral organs like blood vessels, stomach and intestine. 3. Cardiac muscle: Contractile tissue present only in the HEART; cells are cylindrical, branched, uninucleate, and striated; involuntary; communication junctions (INTERCALATED DISCS) at some fusion points allow cells to contract as a unit (wave of contraction).",
-    "fact": "Intercalated discs are unique to cardiac muscle: they contain adhering desmosomes to prevent separation during contraction and gap junctions for rapid electrical conduction.",
+    "mnemonic": "T A G” (Tight, Adhering, Gap)",
+    "memoryHook": "T A G” (Tight, Adhering, Gap)",
+    "fact": "Tight Junctions: Stop substances from leaking across tissue. Adhering Junctions: Perform cementing to keep neighboring cells together. Gap Junctions: Facilitate intercellular communication by connecting cytoplasm",
     "breakdown": [
       {
-        "key": "Skeletal muscle",
-        "label": "Striated, voluntary, cylindrical, unbranched, multinucleated syncytium"
+        "key": "Tight Junctions",
+        "label": "Stop substances from leaking across tissue"
       },
       {
-        "key": "Smooth muscle",
-        "label": "Non-striated, involuntary, fusiform spindle-shaped, uninucleate; visceral organs"
+        "key": "Adhering Junctions",
+        "label": "Perform cementing to keep neighboring cells together"
       },
       {
-        "key": "Cardiac muscle",
-        "label": "Striated, involuntary, branched, uninucleate, INTERCALATED DISCS; heart only"
+        "key": "Gap Junctions",
+        "label": "Facilitate intercellular communication by connecting cytoplasm"
       }
     ],
-    "doodleBadge": "Cardiac = Intercalated Discs | Smooth = Fusiform",
-    "doodleSubtext": "3 Muscle Classes",
-    "explanation": "Smooth muscle does not fatigue easily and maintains sustained tonic contractions (peristalsis).",
-    "whyItWorks": "Direct contrast across all 5 anatomical parameters: Striations, Control, Shape, Branching, and Nuclei count.",
-    "alsoRemember": "Skeletal muscle fibers are surrounded by a specialized sheath called sarcolemma.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.1.3",
-    "neetTrap": "Where are intercalated discs found? EXCLUSIVELY in CARDIAC muscle.",
-    "commonMistake": "Calling cardiac muscle voluntary (it is involuntary).",
+    "doodleBadge": "T A G” (Tight, Adhering,",
+    "doodleSubtext": "Types of Cell Junctions",
+    "explanation": "Specialized structural junctions providing physical connection and communication between epithelial cells. Chapter 7: Structural Organisation in Animals (30 Mnemonics) \tPage 1",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Types of Cell Junctions.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.68",
     "tags": [
-      "Skeletal Muscle",
-      "Smooth Muscle",
-      "Cardiac Muscle",
-      "Intercalated Discs",
-      "Fusiform",
-      "Syncytium"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Types"
     ],
-    "visualDescription": "Three muscle fibers: striped multi-nucleated cylinder (skeletal), spindle cell with center nucleus (smooth), and branched striped cells joined by dark zig-zag intercalated discs (cardiac).",
-    "neetRelevance": "NEET 2021, 2020, 2018 questions on intercalated discs in cardiac muscle and fusiform smooth muscle.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.1.3"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 68,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Intercalated discs containing communication gap junctions are a unique diagnostic feature of which muscle tissue?",
+      "question": "Which of the following is associated with \"Types of Cell Junctions\" in NEET Biology?",
       "options": [
-        "Skeletal muscle",
-        "Smooth muscle",
-        "Cardiac muscle",
-        "Visceral muscle"
+        "Stop substances from leaking across tissue",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Intercalated discs with gap junctions are found exclusively in cardiac muscle tissue of the heart."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Stop substances from leaking across tissue\". Remember using: \"T A G” (Tight, Adhering, Gap)\"."
     }
   },
   {
@@ -442,81 +413,59 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-4",
-    "topicTitle": "Cockroach Morphology",
-    "topic": "Cockroach Exoskeleton & Head Anatomy",
+    "classLevel": 11,
+    "topicId": "bio-top-7-1",
+    "topicTitle": "Loose Connective Tissue Types",
+    "topic": "Loose Connective Tissue Types",
     "mnemonicNumber": 7,
-    "title": "Cockroach Armor: \"Chitin Sclerites (Terga Dorsal, Sterna Ventral, Arthrodial Membrane) | Hypognathous Head\"",
-    "badgeText": "Must Know",
+    "title": "Loose Connective Tissue Types: \"A & A” (Areolar and Adipose)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
+    "difficulty": "easy",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Cockroach Exoskeleton = Hard Chitin SCLERITES (Terga on back, Sterna on belly) joined by flexible ARTHRODIAL MEMBRANE | Triangular Head = Formed by fusion of 6 segments, bent at 90° (Hypognathous)",
-    "memoryHook": "The armoured roach: Exoskeleton is made of brown chitin plates called SCLERITES. Top back plates are TERGA; bottom belly plates are STERNA. They are glued together by a soft bendy ARTHRODIAL MEMBRANE. Its triangular head is fused from 6 baby segments and hangs bent downwards at 90 degrees (Hypognathous)!",
-    "expandedMeaning": "Periplaneta americana (common cockroach): Adults are 34-53 mm long. Exoskeleton is made of brown chitin. In each segment, exoskeleton has hardened plates called SCLERITES: tergites dorsally (TERGA) and sternites ventrally (STERNA), joined to each other by a thin, flexible articular membrane called ARTHRODIAL MEMBRANE. Head is triangular in shape, lies anteriorly at right angles to the longitudinal body axis (HYPOGNATHOUS), formed by fusion of SIX embryonic segments. A pair of compound eyes and antennae (tactile & olfactory receptors).",
-    "fact": "Mouthparts of cockroach are biting and chewing type (mandibulate), consisting of a labrum (upper lip), a pair of mandibles, a pair of maxillae, a labium (lower lip), and a median hypopharynx (tongue).",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "A & A” (Areolar and Adipose)",
+    "memoryHook": "A & A” (Areolar and Adipose)",
+    "fact": "Areolar Tissue: Serves as support framework for epithelium under skin; contains fibroblasts, macrophages, mast cells. Adipose Tissue: Fat-storing tissue located mainly beneath the skin",
     "breakdown": [
       {
-        "key": "Sclerites",
-        "label": "Hardened chitinous plates covering each body segment"
+        "key": "Areolar Tissue",
+        "label": "Serves as support framework for epithelium under skin; contains fibroblasts, macrophages, mast cells"
       },
       {
-        "key": "Terga (Tergites)",
-        "label": "DORSAL (back) sclerite plates"
-      },
-      {
-        "key": "Sterna (Sternites)",
-        "label": "VENTRAL (belly) sclerite plates"
-      },
-      {
-        "key": "Arthrodial membrane",
-        "label": "Thin, flexible articular membrane joining sclerites together"
-      },
-      {
-        "key": "Head orientation",
-        "label": "Triangular, hypognathous (at 90° angle), formed by fusion of 6 segments"
-      },
-      {
-        "key": "Mouthparts",
-        "label": "Biting and chewing type: Labrum, Mandibles, Maxillae, Labium, Hypopharynx"
+        "key": "Adipose Tissue",
+        "label": "Fat-storing tissue located mainly beneath the skin"
       }
     ],
-    "doodleBadge": "Terga Dorsal | Sterna Ventral | 6 Segments Head",
-    "doodleSubtext": "Cockroach Exoskeleton",
-    "explanation": "Flexible arthrodial membrane allows body expansion during respiration and after a heavy meal.",
-    "whyItWorks": "Direct contrast: Terga (Dorsal) vs Sterna (Ventral); 6 embryonic head segments; Arthrodial membrane.",
-    "alsoRemember": "Hypopharynx acts as the tongue, bearing openings of salivary glands.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.4.1",
-    "neetTrap": "Which membrane joins the tergites and sternites in a cockroach? ARTHRODIAL MEMBRANE.",
-    "commonMistake": "Thinking cockroach head is formed by 1 single segment (it is fused from 6 segments).",
+    "doodleBadge": "A & A” (Areolar and Adip",
+    "doodleSubtext": "Loose Connective Tissue ",
+    "explanation": "Connective tissues with cells and fibers loosely arranged in a semi-fluid ground substance.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Loose Connective Tissue Types.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.69",
     "tags": [
-      "Cockroach",
-      "Periplaneta americana",
-      "Sclerites",
-      "Terga",
-      "Sterna",
-      "Arthrodial Membrane",
-      "Hypognathous"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Loose"
     ],
-    "visualDescription": "A cockroach body ring cutaway showing dorsal tergum plate, ventral sternum plate, and side flexible arthrodial joint membrane.",
-    "neetRelevance": "NEET 2021, 2020, 2017 questions on arthrodial membrane and head segment count.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.4.1"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 69,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In cockroach (Periplaneta americana), the dorsal tergites and ventral sternites of each segment are joined together by:",
+      "question": "Which of the following is associated with \"Loose Connective Tissue Types\" in NEET Biology?",
       "options": [
-        "Cartilaginous rings",
-        "A flexible arthrodial membrane",
-        "Cementing gap junctions",
-        "Calcified sutures"
+        "A & A” (Areolar and Adipose)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Sclerites in cockroach are joined to each other by a thin, flexible articular membrane called the arthrodial membrane."
+      "answerIndex": 0,
+      "explanation": "Connective tissues with cells and fibers loosely arranged in a semi-fluid ground substance."
     }
   },
   {
@@ -525,68 +474,59 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-4",
-    "topicTitle": "Cockroach Morphology",
-    "topic": "Cockroach Wings (Tegmina vs Hindwings)",
+    "classLevel": 11,
+    "topicId": "bio-top-7-1",
+    "topicTitle": "Dense Connective Tissue: Tendon vs Ligament",
+    "topic": "Dense Connective Tissue: Tendon vs Ligament",
     "mnemonicNumber": 8,
-    "title": "Cockroach Wings: \"Tegmina = Mesothorax Leathery Shield | Hindwings = Metathorax Flight Wings\"",
-    "badgeText": "Comparison",
+    "title": "Dense Connective Tissue: Tendon vs Ligament: \"T M B, L B B\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Forewings (TEGMINA) = Arise from MESOTHORAX, Opaque, Dark, Leathery, Protective covers (Not used in flight!) | Hindwings = Arise from METATHORAX, Transparent, Membranous, USED IN FLIGHT",
-    "memoryHook": "Wing jobs: First wings are armor (TEGMINA from Mesothorax): dark, leathery, opaque covers that fold like a shield. Second wings are sails (Hindwings from Metathorax): thin, delicate, transparent membranes that flap during FLIGHT!",
-    "expandedMeaning": "Thorax consists of three parts: prothorax, mesothorax and metathorax. Each thoracic segment bears a pair of walking legs. First pair of wings arises from MESOTHORAX and the second pair from METATHORAX. Forewings (mesothoracic) called TEGMINA are opaque, dark and leathery and cover the hind wings when at rest. The hind wings are transparent, membranous and are USED IN FLIGHT.",
-    "fact": "The prothorax bears legs but NEVER bears wings; only the mesothorax and metathorax bear wings (pterothorax).",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "T M B, L B B",
+    "memoryHook": "T M B, L B B",
+    "fact": "T M B: Tendon connects Muscle to Bone. L B B: Ligament connects Bone to Bone",
     "breakdown": [
       {
-        "key": "Forewings (Tegmina)",
-        "label": "Mesothoracic origin; opaque, dark, leathery, protective cover at rest"
+        "key": "T M B",
+        "label": "Tendon connects Muscle to Bone"
       },
       {
-        "key": "Hindwings",
-        "label": "Metathoracic origin; transparent, membranous; EXCLUSIVELY USED IN FLIGHT"
-      },
-      {
-        "key": "Prothorax",
-        "label": "Has legs, but ZERO wings"
+        "key": "L B B",
+        "label": "Ligament connects Bone to Bone"
       }
     ],
-    "doodleBadge": "Tegmina = Mesothorax | Flight = Hindwings",
-    "doodleSubtext": "Wing Differences",
-    "explanation": "Tegmina protect the delicate membranous flight wings from damage when crawling through debris.",
-    "whyItWorks": "Direct contrast: Mesothorax = Tegmina (Shield); Metathorax = Hindwings (Flight).",
-    "alsoRemember": "Prothoracic legs are anterior, mesothoracic are middle, metathoracic are posterior.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.4.1",
-    "neetTrap": "Which wings are used for flight in cockroach? HINDWINGS (Tegmina are purely protective!).",
-    "commonMistake": "Claiming wings arise from the prothorax (prothorax has no wings).",
+    "doodleBadge": "T M B, L B B",
+    "doodleSubtext": "Dense Connective Tissue:",
+    "explanation": "Dense regular connective tissues where collagen fibers run in parallel bundles to withstand tension.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Dense Connective Tissue: Tendon vs Ligament.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.69",
     "tags": [
-      "Cockroach",
-      "Tegmina",
-      "Mesothorax",
-      "Metathorax",
-      "Hindwings",
-      "Flight"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Dense"
     ],
-    "visualDescription": "A cockroach spreading leathery brown front tegmina covers to reveal clear, vein-laced membranous hindwings ready for flight.",
-    "neetRelevance": "NEET 2021, 2019, 2016 questions on tegmina origin and wings used for flight.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.4.1"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 69,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In cockroach, the forewings (tegmina) arise from which segment of the thorax and what is their primary function?",
+      "question": "Which of the following is associated with \"Dense Connective Tissue: Tendon vs Ligament\" in NEET Biology?",
       "options": [
-        "Prothorax; used in active flight",
-        "Mesothorax; opaque leathery covers protecting hindwings at rest",
-        "Metathorax; transparent wings used for flight",
-        "Abdomen; sensory organs of balance"
+        "T M B, L B B",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Tegmina arise from the mesothorax; they are dark, leathery, and cover the hindwings at rest."
+      "answerIndex": 0,
+      "explanation": "Dense regular connective tissues where collagen fibers run in parallel bundles to withstand tension."
     }
   },
   {
@@ -595,71 +535,63 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-4",
-    "topicTitle": "Cockroach Morphology",
-    "topic": "Anal Styles vs Anal Cerci (Sexual Dimorphism)",
+    "classLevel": 11,
+    "topicId": "bio-top-7-1",
+    "topicTitle": "Specialized Connective Tissues",
+    "topic": "Specialized Connective Tissues",
     "mnemonicNumber": 9,
-    "title": "Roach Sex: \"Anal Styles = MALES ONLY on 9th Sternum | Anal Cerci = BOTH Sexes on 10th Tergum\"",
-    "badgeText": "Exception Alert",
+    "title": "Specialized Connective Tissues: \"C B B” (Cartilage, Bone, Blood)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "exception",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Anal Styles = Present ONLY IN MALES (9th sternite, unjointed) | Anal Cerci = Present in BOTH MALES & FEMALES (10th segment, jointed sensory)",
-    "memoryHook": "Boys have Style: Only MALES carry short thread-like ANAL STYLES on their 9th belly segment! Both boys and girls carry long jointed ANAL CERCI on their 10th segment like rear antennae to hear vibrations!",
-    "expandedMeaning": "Abdomen in both males and females consists of 10 segments. In females, the 7th sternum is boat-shaped and together with 8th and 9th sterna forms a brood or genital pouch. In males, genital pouch lies at the hind end of abdomen. Males bear a pair of short, thread-like ANAL STYLES which are ABSENT IN FEMALES. In both sexes, the 10th segment bears a pair of jointed filamentous structures called ANAL CERCI.",
-    "fact": "Anal cerci are sensitive to sound vibrations and air currents, triggering an immediate escape reflex in the cockroach.",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "C B B” (Cartilage, Bone, Blood)",
+    "memoryHook": "C B B” (Cartilage, Bone, Blood)",
+    "fact": "Cartilage: Solid, pliable matrix; chondrocytes in lacunae. Bone: Hard, non-pliable matrix rich in calcium salts and collagen; osteocytes. Blood: Fluid connective tissue with plasma, RBCs, WBCs, and platelets",
     "breakdown": [
       {
-        "key": "Anal Styles",
-        "label": "MALES ONLY: pair of short, unjointed thread-like appendages on 9th sternum"
+        "key": "Cartilage",
+        "label": "Solid, pliable matrix; chondrocytes in lacunae"
       },
       {
-        "key": "Anal Cerci",
-        "label": "BOTH MALES & FEMALES: pair of jointed sensory filaments on 10th tergum"
+        "key": "Bone",
+        "label": "Hard, non-pliable matrix rich in calcium salts and collagen; osteocytes"
       },
       {
-        "key": "Female pouch",
-        "label": "Formed by 7th, 8th, and 9th sterna (7th sternum is boat-shaped)"
-      },
-      {
-        "key": "Male pouch",
-        "label": "Bounded dorsally by 9th and 10th terga and ventrally by 9th sternum"
+        "key": "Blood",
+        "label": "Fluid connective tissue with plasma, RBCs, WBCs, and platelets"
       }
     ],
-    "doodleBadge": "Anal Styles = ♂ MALES ONLY",
-    "doodleSubtext": "Sexual Dimorphism",
-    "explanation": "Looking at the posterior abdomen, presence of two pairs of projections (cerci + styles) identifies a male; one pair (cerci only) identifies a female.",
-    "whyItWorks": "Direct phrase: \"Boys have style\" locks Anal Styles = Males only.",
-    "alsoRemember": "Female 7th sternum is boat-shaped.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.4.1",
-    "neetTrap": "Are anal cerci present only in females? NO! Anal cerci are present in BOTH sexes; only ANAL STYLES are male-specific.",
-    "commonMistake": "Flipping anal styles and anal cerci.",
+    "doodleBadge": "C B B” (Cartilage, Bone,",
+    "doodleSubtext": "Specialized Connective T",
+    "explanation": "Specialized supportive and transport tissues lacking structural fibers in blood.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Specialized Connective Tissues.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.69",
     "tags": [
-      "Cockroach",
-      "Anal Styles",
-      "Anal Cerci",
-      "Sexual Dimorphism",
-      "Genital Pouch"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Specialized"
     ],
-    "visualDescription": "Rear abdominal comparison: male tip with both long cerci and short central anal styles, beside female tip with only cerci.",
-    "neetRelevance": "NEET 2021, 2020, 2018 high-frequency questions on distinguishing male from female cockroach.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.4.1"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 69,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which anatomical feature distinguishes a male cockroach from a female cockroach?",
+      "question": "Which of the following is associated with \"Specialized Connective Tissues\" in NEET Biology?",
       "options": [
-        "Presence of jointed anal cerci on the 10th segment",
-        "Presence of a pair of unjointed anal styles on the 9th sternum",
-        "Presence of walking legs on the prothorax",
-        "Presence of compound eyes"
+        "Solid, pliable matrix; chondrocytes in lacunae",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Male cockroaches possess a pair of short, thread-like anal styles on the 9th sternum, which are completely absent in females."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Solid, pliable matrix; chondrocytes in lacunae\". Remember using: \"C B B” (Cartilage, Bone, Blood)\"."
     }
   },
   {
@@ -668,73 +600,63 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-4",
-    "topicTitle": "Cockroach Anatomy",
-    "topic": "Cockroach Digestive Tract (Crop, Gizzard, Hepatic Caeca)",
+    "classLevel": 11,
+    "topicId": "bio-top-7-1",
+    "topicTitle": "Types of Muscle Tissues",
+    "topic": "Types of Muscle Tissues",
     "mnemonicNumber": 10,
-    "title": "Roach Digestion: \"Crop Stores Food, Gizzard (6 Chitin Teeth) Grinds, Hepatic Caeca (6-8) Secretes Juice\"",
-    "badgeText": "Must Know",
+    "title": "Types of Muscle Tissues: \"S S C” (Skeletal, Smooth, Cardiac)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "hard",
     "visualType": "sequence",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Mouth → Pharynx → Esophagus → CROP (Stores food) → GIZZARD / Proventriculus (6 Chitinous Teeth grind food) → HEPATIC CAECA (6-8 blind tubules secrete digestive juice) → Midgut → Malpighian Tubules → Hindgut",
-    "memoryHook": "The roach grinder pipeline: Pharynx leads to big balloon CROP for storage. Right after sits the muscular GIZZARD armed with SIX circular cuticular CHITIN TEETH that crush food to dust! At the junction of foregut and midgut, 6 to 8 blind HEPATIC CAECA squirt digestive enzymes!",
-    "expandedMeaning": "Alimentary canal divided into foregut, midgut, and hindgut. Foregut consists of mouth, pharynx, oesophagus, opening into a sac-like CROP used for storing food. The crop is followed by GIZZARD or proventriculus, which has an outer layer of thick circular muscles and thick inner cuticle forming SIX HIGHLY CHITINOUS PLATES CALLED TEETH. Gizzard helps in grinding food particles. At the junction of foregut and midgut, a ring of 6-8 blind tubules called HEPATIC or GASTRIC CAECA is present, which secretes digestive juice.",
-    "fact": "The entire foregut (stomodeum) and hindgut (proctodeum) are lined internally by ECTODERMAL CUTICLE, while the midgut (mesenteron) is lined by endoderm with NO cuticular lining.",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "S S C” (Skeletal, Smooth, Cardiac)",
+    "memoryHook": "S S C” (Skeletal, Smooth, Cardiac)",
+    "fact": "Skeletal: Striated, voluntary, multinucleated, unbranched. Smooth: Non-striated (visceral), involuntary, spindle-shaped (fusiform), uninucleated. Cardiac: Striated, involuntary, branched, intercalated discs present",
     "breakdown": [
       {
-        "key": "Crop",
-        "label": "Sac-like dilatation for storing swallowed food"
+        "key": "Skeletal",
+        "label": "Striated, voluntary, multinucleated, unbranched"
       },
       {
-        "key": "Gizzard (Proventriculus)",
-        "label": "Has thick circular muscles and 6 CHITINOUS TEETH for crushing food"
+        "key": "Smooth",
+        "label": "Non-striated (visceral), involuntary, spindle-shaped (fusiform), uninucleated"
       },
       {
-        "key": "Hepatic / Gastric Caeca",
-        "label": "6 to 8 blind tubules at foregut-midgut junction; secretes digestive enzymes"
-      },
-      {
-        "key": "Cuticular lining",
-        "label": "Entire foregut and hindgut are lined by cuticle (midgut is not)"
+        "key": "Cardiac",
+        "label": "Striated, involuntary, branched, intercalated discs present"
       }
     ],
-    "doodleBadge": "Crop Stores | Gizzard Grinds (6 Teeth)",
-    "doodleSubtext": "Cockroach Foregut",
-    "explanation": "Food particles are ground into fine paste by the cuticular teeth before passing through the stomodeal valve into the midgut.",
-    "whyItWorks": "Direct sequence and number association: Gizzard = 6 teeth; Hepatic caeca = 6-8 tubules at foregut-midgut junction.",
-    "alsoRemember": "Hindgut is broader than midgut and differentiated into ileum, colon, and rectum.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.4.2",
-    "neetTrap": "Where are hepatic caeca located? At the junction of FOREGUT and MIDGUT (not midgut and hindgut!).",
-    "commonMistake": "Confusing hepatic caeca (6-8, digestive) with Malpighian tubules (100-150, excretory).",
+    "doodleBadge": "S S C” (Skeletal, Smooth",
+    "doodleSubtext": "Types of Muscle Tissues",
+    "explanation": "Three muscle categories based on cross-striations, control mechanisms, and cellular morphology.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Types of Muscle Tissues.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.69",
     "tags": [
-      "Cockroach",
-      "Crop",
-      "Gizzard",
-      "Chitinous Teeth",
-      "Hepatic Caeca",
-      "Foregut",
-      "Midgut"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Types"
     ],
-    "visualDescription": "Cockroach gut diagram showing swollen food crop, muscular gizzard cut open showing 6 internal black teeth, and ring of 8 yellow hepatic caeca fingers.",
-    "neetRelevance": "NEET 2021, 2020, 2018 questions on gizzard teeth count and hepatic caeca location.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.4.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 69,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In the digestive system of cockroach, how many chitinous teeth are present in the proventriculus (gizzard) for grinding food?",
+      "question": "Which of the following is associated with \"Types of Muscle Tissues\" in NEET Biology?",
       "options": [
-        "Four",
-        "Six",
-        "Eight",
-        "Twelve"
+        "Striated, voluntary, multinucleated, unbranched",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The gizzard (proventriculus) of cockroach contains an inner cuticular layer forming six highly chitinous teeth used for grinding food."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Striated, voluntary, multinucleated, unbranched\". Remember using: \"S S C” (Skeletal, Smooth, Cardiac)\"."
     }
   },
   {
@@ -743,76 +665,59 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-4",
-    "topicTitle": "Cockroach Anatomy",
-    "topic": "Malpighian Tubules & Excretion in Cockroach",
+    "classLevel": 11,
+    "topicId": "bio-top-7-2",
+    "topicTitle": "Intercalated Discs Significance",
+    "topic": "Intercalated Discs Significance",
     "mnemonicNumber": 11,
-    "title": "Roach Excretion: \"100-150 Yellow Malpighian Tubules at Midgut-Hindgut | Excretes Uric Acid (Uricotelic)\"",
-    "badgeText": "Must Know",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "cardColor": "#EFFBF4",
+    "title": "Intercalated Discs Significance: \"Cardiac Communication Synchrony\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#3DBE75",
-    "mnemonic": "100 to 150 Yellow Filamentous MALPIGHIAN TUBULES at Midgut-Hindgut Junction | Lined by Glandular Ciliated Cells | Converts Nitrogen Waste to URIC ACID (Uricotelic)",
-    "memoryHook": "Yellow excretory threads: At the junction between midgut and hindgut, a ring of 100 to 150 fine yellow threads float in hemolymph — MALPIGHIAN TUBULES! Their glandular ciliated cells pull nitrogen waste from blood and dump it as solid URIC ACID into the hindgut to conserve water!",
-    "expandedMeaning": "At the junction of midgut and hindgut is another ring of 100-150 yellow coloured thin filamentous MALPIGHIAN TUBULES. They help in removal of excretory products from haemolymph. Each tubule is lined by glandular and ciliated cells. They absorb nitrogenous waste products and convert them into URIC ACID which is excreted out through the hindgut. Therefore, this insect is URICOTELIC. In addition, the fat body, nephrocytes, and urecose glands also help in excretion.",
-    "fact": "Urecose glands are found in the mushroom gland of male cockroaches and store uric acid, discharging it during copulation.",
+    "mnemonic": "Cardiac Communication Synchrony",
+    "memoryHook": "Cardiac Communication Synchrony",
+    "fact": "Intercalated Discs: Unique cellular communication junctions in cardiac muscle. Function: Allows cardiac cells to contract as a single unit (functional syncytium)",
     "breakdown": [
       {
-        "key": "Location",
-        "label": "Junction of MIDGUT and HINDGUT"
+        "key": "Intercalated Discs",
+        "label": "Unique cellular communication junctions in cardiac muscle"
       },
       {
-        "key": "Count & Appearance",
-        "label": "100 to 150 fine yellow filamentous tubules"
-      },
-      {
-        "key": "Lining",
-        "label": "Glandular and ciliated epithelium"
-      },
-      {
-        "key": "Excretory product",
-        "label": "URIC ACID (Uricotelic organism, saves water)"
-      },
-      {
-        "key": "Accessory excretory tissues",
-        "label": "Fat body, nephrocytes, and urecose glands"
+        "key": "Function",
+        "label": "Allows cardiac cells to contract as a single unit (functional syncytium)"
       }
     ],
-    "doodleBadge": "100-150 Tubules = Uric Acid",
-    "doodleSubtext": "Cockroach Excretion",
-    "explanation": "Uricotelic excretion allows terrestrial insects to survive in extremely dry niches with minimal water loss.",
-    "whyItWorks": "Direct contrast: Hepatic caeca = 6-8 at foregut-midgut; Malpighian tubules = 100-150 at midgut-hindgut.",
-    "alsoRemember": "Nephrocytes and fat body cells also assist in excretory storage.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.4.2",
-    "neetTrap": "Where are Malpighian tubules located? At junction of MIDGUT and HINDGUT (Hepatic caeca are at Foregut-Midgut!).",
-    "commonMistake": "Calling cockroach ureotelic (cockroach is strictly URICOTELIC).",
+    "doodleBadge": "Cardiac Communication Sy",
+    "doodleSubtext": "Intercalated Discs Signi",
+    "explanation": "Plasma membrane fusion points in heart muscle allowing rapid electrical signal impulse spread.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Intercalated Discs Significance.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.69",
     "tags": [
-      "Cockroach",
-      "Malpighian Tubules",
-      "Uricotelic",
-      "Uric Acid",
-      "Nephrocytes",
-      "Fat Body"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Intercalated"
     ],
-    "visualDescription": "A fringe of 100+ fine yellow thread tubules floating in body cavity fluid at the junction entering the hindgut.",
-    "neetRelevance": "NEET 2021, 2020, 2017 high-frequency questions on Malpighian tubule count, location, and uricotelic excretion.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.4.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 69,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following correctly describes the location and number of Malpighian tubules in a cockroach?",
+      "question": "Which of the following is associated with \"Intercalated Discs Significance\" in NEET Biology?",
       "options": [
-        "6-8 tubules at the foregut-midgut junction",
-        "100-150 yellow filamentous tubules at the midgut-hindgut junction",
-        "10-12 tubules lining the crop",
-        "50-60 tubules opening into the gizzard"
+        "Cardiac Communication Synchrony",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Malpighian tubules are 100-150 yellow filamentous structures located at the junction of the midgut and hindgut."
+      "answerIndex": 0,
+      "explanation": "Plasma membrane fusion points in heart muscle allowing rapid electrical signal impulse spread."
     }
   },
   {
@@ -821,76 +726,59 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-4",
-    "topicTitle": "Cockroach Anatomy",
-    "topic": "Cockroach Open Heart (13 Chambers) & Tracheal Spiracles",
+    "classLevel": 11,
+    "topicId": "bio-top-7-2",
+    "topicTitle": "Neural Tissue Components",
+    "topic": "Neural Tissue Components",
     "mnemonicNumber": 12,
-    "title": "Roach Transport: \"13-Chambered Tubular Heart with Ostia | 10 Pairs of Spiracles with Tracheoles\"",
-    "badgeText": "Must Know",
-    "importance": "Must Know",
+    "title": "Neural Tissue Components: \"Neurons & Neuroglia\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "concept",
+    "visualType": "sequence",
     "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Circulation = Open System + 13 Funnel-shaped Heart Chambers with Ostia | Respiration = Tracheal Network + 10 Pairs of Lateral SPIRACLES (2 Thoracic + 8 Abdominal)",
-    "memoryHook": "Open white blood: Blood vessels are poorly developed and dump clear hemolymph into open body sinuses (hemocoel). The dorsal heart is a long tube with THIRTEEN funnel-shaped chambers with ostia valves! To breathe, 10 pairs of side SPIRACLES blow air directly into branching tracheal pipes (no lungs, no hemoglobin)!",
-    "expandedMeaning": "1. Circulatory system: Open type. Blood vessels are poorly developed and open into spaces (haemocoel). Visceral organs in haemocoel are bathed in blood (HAEMOLYMPH composed of colourless plasma and haemocytes). Heart of cockroach consists of an elongated muscular tube lying along mid-dorsal line of thorax and abdomen. Differentiated into THIRTEEN funnel-shaped chambers with ostia on either side. 2. Respiratory system: Consists of a network of trachea that open through 10 PAIRS of small holes called SPIRACLES present on the lateral side of the body. Thin branching tubes (tracheal tubes subdivided into tracheoles) carry oxygen from the air to all parts. Opening of spiracles is regulated by sphincters.",
-    "fact": "Cockroach blood carries ZERO respiratory gases; it has no hemoglobin or hemocyanin. Oxygen diffuses directly from tracheoles into cells.",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Neurons & Neuroglia",
+    "memoryHook": "Neurons & Neuroglia",
+    "fact": "Neurons: Excitable structural units that transmit electrical impulses. Neuroglial Cells: Non-excitable supporting cells occupying >50% volume of neural tissue",
     "breakdown": [
       {
-        "key": "Heart chambers",
-        "label": "13 funnel-shaped chambers lying along mid-dorsal line (3 thoracic + 10 abdominal)"
+        "key": "Neurons",
+        "label": "Excitable structural units that transmit electrical impulses"
       },
       {
-        "key": "Ostia",
-        "label": "Paired lateral valves in each heart chamber for one-way blood entry"
-      },
-      {
-        "key": "Hemolymph",
-        "label": "Colorless plasma + hemocytes (does NOT transport O2)"
-      },
-      {
-        "key": "Spiracles",
-        "label": "10 pairs of lateral holes: 2 pairs in thorax + 8 pairs in abdomen"
-      },
-      {
-        "key": "Gas exchange",
-        "label": "Diffusion at fluid-filled ends of microscopic tracheoles directly into tissues"
+        "key": "Neuroglial Cells",
+        "label": "Non-excitable supporting cells occupying >50% volume of neural tissue"
       }
     ],
-    "doodleBadge": "13 Heart Chambers | 10 Pairs Spiracles",
-    "doodleSubtext": "Internal Pipeline",
-    "explanation": "Alary muscles (12 pairs) attached to terga help expand pericardial sinus to draw hemolymph into heart chambers.",
-    "whyItWorks": "Direct numbers: 13 funnel-shaped heart chambers, 10 pairs of lateral spiracles.",
-    "alsoRemember": "Spiracle openings are regulated by muscular sphincters.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.4.2",
-    "neetTrap": "Does cockroach hemolymph transport oxygen? NO! Tracheal tubes transport oxygen directly to tissues.",
-    "commonMistake": "Thinking cockroach heart is 4-chambered (it has 13 funnel-shaped chambers).",
+    "doodleBadge": "Neurons & Neuroglia",
+    "doodleSubtext": "Neural Tissue Components",
+    "explanation": "Neural tissue structural composition regulating body sensory perception and response. Chapter 7: Structural Organisation in Animals (30 Mnemonics) \tPage 2",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Neural Tissue Components.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.69",
     "tags": [
-      "Cockroach",
-      "Heart",
-      "13 Chambers",
-      "Spiracles",
-      "Tracheal System",
-      "Hemolymph"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Neural"
     ],
-    "visualDescription": "A mid-dorsal view showing 13 interconnected funnel chambers of the heart flanked by 10 lateral spiracle valves connecting to tracheal pipes.",
-    "neetRelevance": "NEET 2021, 2019 questions on open circulatory system, 13 heart chambers, and spiracle count.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.4.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 69,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "How many pairs of spiracles are present on the lateral sides of the body in a cockroach for respiration?",
+      "question": "Which of the following is associated with \"Neural Tissue Components\" in NEET Biology?",
       "options": [
-        "Six pairs",
-        "Eight pairs",
-        "Ten pairs",
-        "Twelve pairs"
+        "Neurons & Neuroglia",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Cockroach possesses 10 pairs of spiracles (2 pairs in the thorax and 8 pairs in the abdomen)."
+      "answerIndex": 0,
+      "explanation": "Neural tissue structural composition regulating body sensory perception and response. Chapter 7: Structural Organisation in Animals (30 Mnemonics) \tPage 2"
     }
   },
   {
@@ -899,76 +787,63 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-4",
-    "topicTitle": "Cockroach Anatomy",
-    "topic": "Cockroach Nervous System (9 Ganglia) & Ommatidia",
+    "classLevel": 11,
+    "topicId": "bio-top-7-2",
+    "topicTitle": "Cockroach Scientific Name & Class",
+    "topic": "Cockroach Scientific Name & Class",
     "mnemonicNumber": 13,
-    "title": "Roach Senses: \"9 Ganglia (3 Thorax + 6 Abdomen) | Cut Head Lives 1 Week | 2000 Ommatidia Mosaic Vision\"",
-    "badgeText": "Concept Rule",
-    "importance": "Must Know",
-    "difficulty": "hard",
-    "visualType": "concept",
+    "title": "Cockroach Scientific Name & Class: \"Periplaneta americana Insecta Arthropoda\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Nervous System = Fused Segmental Ganglia on Ventral Nerve Cord: 3 in Thorax + 6 in Abdomen (Head holds only a bit!) → Cut off head, roach lives for 1 week! | Eyes = 2000 Hexagonal OMMATIDIA per eye → MOSAIC VISION (High sensitivity, Low resolution)",
-    "memoryHook": "Why a headless roach survives: Most of its brain is in its belly! A double ventral nerve cord runs down the body with 3 ganglia in the thorax and 6 in the abdomen; the head holds only a tiny brain fraction, so a decapitated roach can live for a whole week! Its compound eyes pack 2000 hexagonal OMMATIDIA producing a blurry MOSAIC vision with extreme night sensitivity!",
-    "expandedMeaning": "Nervous system of cockroach consists of a series of fused, segmentally arranged ganglia joined by paired longitudinal connectives on the ventral side. THREE ganglia lie in the thorax, and SIX in the abdomen. The head holds a bit of a nervous system while the rest is situated along the ventral (belly) part of its body. So, if the head of a cockroach is cut off, it will still live for as long as ONE WEEK. Compound eyes situated at dorsal surface of head: each eye consists of about 2000 hexagonal OMMATIDIA (sing. ommatidium). With the help of several ommatidia, a cockroach can receive several images of an object. This kind of vision is known as MOSAIC VISION with more sensitivity but less resolution, being common during night (nocturnal vision).",
-    "fact": "Sub-oesophageal ganglion supplies mouthparts; supra-oesophageal ganglion (brain) supplies compound eyes and antennae.",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Periplaneta americana Insecta Arthropoda",
+    "memoryHook": "Periplaneta americana Insecta Arthropoda",
+    "fact": "Species: Periplaneta americana. Class: Insecta (3 pairs of jointed legs). Phylum: Arthropoda (chitinous exoskeleton)",
     "breakdown": [
       {
-        "key": "Ganglia count",
-        "label": "9 ganglia total: 3 in thorax + 6 in abdomen"
+        "key": "Species",
+        "label": "Periplaneta americana"
       },
       {
-        "key": "Head decapitation",
-        "label": "Lives for up to ONE WEEK because majority of nervous system is in thorax and abdomen"
+        "key": "Class",
+        "label": "Insecta (3 pairs of jointed legs)"
       },
       {
-        "key": "Nerve cord",
-        "label": "Double, ventral, solid with segmental ganglia"
-      },
-      {
-        "key": "Compound eye",
-        "label": "2000 hexagonal ommatidia per eye"
-      },
-      {
-        "key": "Mosaic vision",
-        "label": "High sensitivity (great in dim night light), low resolution (blurry overlapping image)"
+        "key": "Phylum",
+        "label": "Arthropoda (chitinous exoskeleton)"
       }
     ],
-    "doodleBadge": "3 Thorax + 6 Abdomen Ganglia | 2000 Ommatidia",
-    "doodleSubtext": "Cockroach Neurosensory",
-    "explanation": "Mosaic vision detects slight movements of approaching predators instantly in dark kitchens.",
-    "whyItWorks": "Direct numbers: 3 thorax + 6 abdomen = 9 ganglia; 1 week survival without head; 2000 ommatidia; Mosaic vision.",
-    "alsoRemember": "Tactile and olfactory receptors are present on antennae and maxillary palps.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.4.2",
-    "neetTrap": "How is mosaic vision characterized? MORE SENSITIVITY but LESS RESOLUTION (not high resolution).",
-    "commonMistake": "Thinking the brain is concentrated entirely in the head like humans.",
+    "doodleBadge": "Periplaneta americana In",
+    "doodleSubtext": "Cockroach Scientific Nam",
+    "explanation": "Taxonomic hierarchy and classification position of the common nocturnal cockroach.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Cockroach Scientific Name & Class.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.70",
     "tags": [
-      "Cockroach",
-      "Ganglia",
-      "Decapitation",
-      "Ommatidia",
-      "Mosaic Vision",
-      "Ventral Nerve Cord"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Cockroach"
     ],
-    "visualDescription": "Ventral nerve cord showing 3 blue thoracic and 6 abdominal nodes, alongside a compound eye honeycomb of 2000 hexagonal lens ommatidia.",
-    "neetRelevance": "NEET 2021, 2020, 2017 questions on why decapitated cockroach survives a week and ommatidia vision characteristics.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.4.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 70,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Why can a cockroach live for as long as one week even after its head is cut off?",
+      "question": "Which of the following is associated with \"Cockroach Scientific Name & Class\" in NEET Biology?",
       "options": [
-        "It has an open circulatory system with no blood pressure",
-        "The head holds only a bit of nervous system while the rest lies along the ventral body",
-        "It breathes through mouthparts located on abdomen",
-        "Its digestive system is completely autonomous"
+        "Periplaneta americana",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Only a small portion of the nervous system is in the head, while major segmental ganglia reside along the ventral thorax and abdomen."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Periplaneta americana\". Remember using: \"Periplaneta americana Insecta Arthropoda\"."
     }
   },
   {
@@ -977,84 +852,63 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-4",
-    "topicTitle": "Cockroach Reproduction",
-    "topic": "Cockroach Reproductive System (Mushroom Gland & Ootheca)",
+    "classLevel": 11,
+    "topicId": "bio-top-7-2",
+    "topicTitle": "Cockroach Exoskeleton Sclerites",
+    "topic": "Cockroach Exoskeleton Sclerites",
     "mnemonicNumber": 14,
-    "title": "Roach Reproduction: \"Male = Mushroom Gland (4-6th Segments) & Spermatophore | Female = 16 Ovarioles, Ootheca (9-10 Capsules, 14-16 Eggs)\"",
-    "badgeText": "Must Know",
-    "importance": "Must Know",
-    "difficulty": "hard",
-    "visualType": "concept",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Male Roach = Testes (4th-6th) + MUSHROOM GLAND (Utricular gland in 6th-7th) + Spermatophore packages + Phallomeres | Female Roach = Pair of Ovaries (2nd-6th) with 8 Ovarioles each (16 total) + Spermatheca + OOTHECA (9-10 capsules, each containing 14-16 eggs)",
-    "memoryHook": "Roach mating numbers: Mister Roach has testes in 4-6th segments and a MUSHROOM GLAND (utricular gland) in 6-7th segments packaging sperms into bundles called Spermatophores. Miss Roach has 2 ovaries made of 8 egg tubules each (16 ovarioles total) and lays 9 to 10 dark reddish-brown OOTHECA capsules, each holding 14 to 16 eggs!",
-    "expandedMeaning": "1. Male reproductive system: Pair of testes lying one on each lateral side in 4th - 6th abdominal segments. Vas deferens opens into ejaculatory duct through seminal vesicle. A characteristic mushroom-shaped gland (utricular gland) is present in 6th-7th abdominal segments (accessory reproductive gland). External genitalia represented by chitinous asymmetrical PHALLOMERES. Sperms glued together in bundles called SPERMATOPHORES. 2. Female reproductive system: Two large ovaries in 2nd-6th segments, each formed of 8 ovarian tubules or OVARIOLES containing developing ova. Oviducts unite into single median vagina. Spermatheca in 6th segment receives sperms. Fertilized eggs encased in dark reddish to blackish-brown capsules called OOTHECAE (8 mm long). Female produces 9-10 oothecae, each containing 14-16 EGGS. Development is PAUROMETABOLOUS (nymph looks like adult, moults 13 times to become adult).",
-    "fact": "Development of Periplaneta americana is paurometabolous (gradual metamorphosis); the nymph moults 13 times, and only the adult stage possesses true wings (next to last nymphal stage has wing pads).",
+    "title": "Cockroach Exoskeleton Sclerites: \"Dorsal Tergite, Ventral Strenite, Lateral Pleura\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Dorsal Tergite, Ventral Strenite, Lateral Pleura",
+    "memoryHook": "Dorsal Tergite, Ventral Strenite, Lateral Pleura",
+    "fact": "Tergites: Dorsal hardened chitinous plates. Sternites: Ventral hardened chitinous plates. Pleurites: Flexible lateral arthrodial membranes connecting plates",
     "breakdown": [
       {
-        "key": "Male Testes",
-        "label": "4th to 6th abdominal segments"
+        "key": "Tergites",
+        "label": "Dorsal hardened chitinous plates"
       },
       {
-        "key": "Mushroom Gland",
-        "label": "6th to 7th abdominal segments (accessory reproductive gland)"
+        "key": "Sternites",
+        "label": "Ventral hardened chitinous plates"
       },
       {
-        "key": "Spermatophores",
-        "label": "Bundles of sperms glued together, discharged during copulation"
-      },
-      {
-        "key": "Female Ovaries",
-        "label": "2nd to 6th segments; 2 ovaries × 8 ovarioles = 16 total ovarioles"
-      },
-      {
-        "key": "Oothecae count",
-        "label": "9 to 10 capsules produced per female"
-      },
-      {
-        "key": "Eggs per ootheca",
-        "label": "14 to 16 eggs per capsule"
-      },
-      {
-        "key": "Metamorphosis",
-        "label": "Paurometabolous; nymph moults 13 times; wing pads in penultimate stage"
+        "key": "Pleurites",
+        "label": "Flexible lateral arthrodial membranes connecting plates"
       }
     ],
-    "doodleBadge": "Mushroom Gland = ♂ | 14-16 Eggs per Ootheca",
-    "doodleSubtext": "Cockroach Reproduction",
-    "explanation": "Nymphal instars look identical to adults except they lack wings and mature gonads.",
-    "whyItWorks": "Direct numbers checklist: 4-6th testes, 6-7th mushroom gland, 16 ovarioles, 9-10 oothecae, 14-16 eggs, 13 moults.",
-    "alsoRemember": "Only the adult cockroach has wings; the next to last nymphal stage has wing pads.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.4.3",
-    "neetTrap": "How many eggs are present in each ootheca? 14 to 16 eggs (not 9-10; 9-10 is the number of oothecae!).",
-    "commonMistake": "Confusing ootheca count (9-10) with egg count per ootheca (14-16).",
+    "doodleBadge": "Dorsal Tergite, Ventral ",
+    "doodleSubtext": "Cockroach Exoskeleton Sc",
+    "explanation": "Hardened exoskeleton sclerite organization surrounding each body segment of cockroach.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Cockroach Exoskeleton Sclerites.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.70",
     "tags": [
-      "Cockroach",
-      "Mushroom Gland",
-      "Ootheca",
-      "Ovarioles",
-      "Paurometabolous",
-      "Spermatophore"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Cockroach"
     ],
-    "visualDescription": "A male mushroom gland cluster beside a dark brown purse-like ootheca containing two rows of 16 developing embryos.",
-    "neetRelevance": "NEET 2021, 2020, 2018 high-frequency questions on mushroom gland, ootheca egg count, and paurometabolous development.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.4.3"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 70,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "On average, how many oothecae are laid by a female cockroach and how many eggs does each ootheca contain?",
+      "question": "Which of the following is associated with \"Cockroach Exoskeleton Sclerites\" in NEET Biology?",
       "options": [
-        "14-16 oothecae; 9-10 eggs each",
-        "9-10 oothecae; 14-16 eggs each",
-        "2-4 oothecae; 20-30 eggs each",
-        "20-25 oothecae; 6-8 eggs each"
+        "Dorsal hardened chitinous plates",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "A female cockroach produces 9-10 oothecae, each containing 14-16 eggs arranged in two rows."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Dorsal hardened chitinous plates\". Remember using: \"Dorsal Tergite, Ventral Strenite, Lateral Pleura\"."
     }
   },
   {
@@ -1063,76 +917,67 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-5",
-    "topicTitle": "Frog Anatomy",
-    "topic": "Frog Morphology & Cloacal Chamber",
+    "classLevel": 11,
+    "topicId": "bio-top-7-2",
+    "topicTitle": "Cockroach Head Segmentation & Mouthparts",
+    "topic": "Cockroach Head Segmentation & Mouthparts",
     "mnemonicNumber": 15,
-    "title": "Frog Morphology: \"Poikilotherm Camouflage, No Neck or Tail, Nictitating Membrane, Copulatory Pad in Males\"",
-    "badgeText": "Concept Rule",
-    "importance": "Must Know",
+    "title": "Cockroach Head Segmentation & Mouthparts: \"6 Segments Form Head, Biting & Chewing\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Rana tigrina = Poikilotherm (Camouflage Mimicry) + Moist Mucus Skin (Never drinks water, absorbs via skin!) + Body = Head & Trunk only (No neck, No tail) + Male Vocal Sacs & Copulatory Pad on 1st Forelimb Digit",
-    "memoryHook": "The green amphibian: Rana tigrina changes color to hide (camouflage mimicry). It NEVER drinks water with its mouth — it absorbs all moisture through moist glandular skin! Body has no neck and no tail. Male frogs sing with VOCAL SACS and grab females during amplexus with a swollen COPULATORY PAD on the first toe of forelimbs!",
-    "expandedMeaning": "Rana tigrina (Indian bullfrog): Cold-blooded or poikilothermic (body temperature varies with environment). Exhibits camouflage (protective coloration or mimicry). Undergoes winter sleep (HIBERNATION) and summer sleep (AESTIVATION) to protect from extreme cold and heat. Skin is smooth, slippery due to mucus, and absorbs water directly (frog never drinks water). Body divided into HEAD and TRUNK; neck and tail are absent. Eyes bulged, protected by NICTITATING MEMBRANE while in water. On either side of eyes, a membranous TYMPANUM receives sound signals. Male frogs distinguished by sound-amplifying VOCAL SACS and a COPULATORY PAD on the first digit of forelimbs (absent in females).",
-    "fact": "Frogs do not drink water through their mouth; water is absorbed osmotically through the thin, vascularized, mucous-covered skin.",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "6 Segments Form Head, Biting & Chewing",
+    "memoryHook": "6 Segments Form Head, Biting & Chewing",
+    "fact": "Origin: Formed by fusion of 6 embryonic body segments. Labrum: Upper lip | Labium: Lower lip. Mandibles: Paired grinding/incising jaws. Maxillae: Paired holding appendages | Hypopharynx: Tongue-like median lobe",
     "breakdown": [
       {
-        "key": "Thermoregulation",
-        "label": "Poikilotherm (cold-blooded); undergoes hibernation (winter) and aestivation (summer)"
+        "key": "Origin",
+        "label": "Formed by fusion of 6 embryonic body segments"
       },
       {
-        "key": "Water balance",
-        "label": "NEVER drinks water; absorbs all water directly through moist skin"
+        "key": "Labrum",
+        "label": "Upper lip | Labium: Lower lip"
       },
       {
-        "key": "Body division",
-        "label": "Head and Trunk ONLY (neck and tail are absent)"
+        "key": "Mandibles",
+        "label": "Paired grinding/incising jaws"
       },
       {
-        "key": "Eye protection",
-        "label": "Nictitating membrane covers eyes underwater"
-      },
-      {
-        "key": "Male hallmarks",
-        "label": "1. Vocal sacs (mating calls), 2. Copulatory/nuptial pad on first digit of forelimb"
+        "key": "Maxillae",
+        "label": "Paired holding appendages | Hypopharynx: Tongue-like median lobe"
       }
     ],
-    "doodleBadge": "No Neck/Tail | Male = Copulatory Pad",
-    "doodleSubtext": "Frog Morphology",
-    "explanation": "Copulatory pad allows the male frog to grip the slippery female securely during amplexus in water.",
-    "whyItWorks": "Direct contrast: Male frog = Vocal sacs + Copulatory pad; Never drinks water.",
-    "alsoRemember": "Forelimbs have 4 digits; Hindlimbs have 5 webbed digits for swimming.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.5",
-    "neetTrap": "How do frogs drink water? They NEVER drink water; they absorb it through skin.",
-    "commonMistake": "Looking for claws or scales on a frog (digits lack claws and skin lacks scales).",
+    "doodleBadge": "6 Segments Form Head, Bi",
+    "doodleSubtext": "Cockroach Head Segmentat",
+    "explanation": "Triangular hypognathous head structure with biting and chewing type apparatus.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Cockroach Head Segmentation & Mouthparts.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.70",
     "tags": [
-      "Frog",
-      "Rana tigrina",
-      "Camouflage",
-      "Copulatory Pad",
-      "Vocal Sacs",
-      "Nictitating Membrane"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Cockroach"
     ],
-    "visualDescription": "A male frog croaking with expanded vocal sacs under chin and highlighting swollen copulatory pad on first thumb digit.",
-    "neetRelevance": "NEET 2020, 2017 questions on sexual dimorphism in frogs (copulatory pad) and water absorption.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.5"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 70,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following structures is present only in male frogs to facilitate amplexus during mating?",
+      "question": "Which of the following is associated with \"Cockroach Head Segmentation & Mouthparts\" in NEET Biology?",
       "options": [
-        "Nictitating membrane",
-        "Tympanum",
-        "Copulatory pad on the first digit of forelimbs",
-        "Webbed hindlimbs"
+        "Formed by fusion of 6 embryonic body segments",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Male frogs uniquely possess copulatory pads on the first digit of their forelimbs as well as vocal sacs."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Formed by fusion of 6 embryonic body segments\". Remember using: \"6 Segments Form Head, Biting & Chewing\"."
     }
   },
   {
@@ -1141,68 +986,59 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-5",
-    "topicTitle": "Frog Anatomy",
-    "topic": "Frog Respiration (Cutaneous vs Buccal vs Pulmonary)",
+    "classLevel": 11,
+    "topicId": "bio-top-7-2",
+    "topicTitle": "Cockroach Wings (Tegmina vs Hindwings)",
+    "topic": "Cockroach Wings (Tegmina vs Hindwings)",
     "mnemonicNumber": 16,
-    "title": "Frog Breathing: \"In Water = Cutaneous (Skin) | On Land = Skin, Mouth & Pink Sac Lungs | Hibernation = Skin Only!\"",
-    "badgeText": "Concept Rule",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "cardColor": "#FFFDF7",
+    "title": "Cockroach Wings (Tegmina vs Hindwings): \"Tegmina Dark Opaque Mesothorax, Hindwing Membranous Transparent Metathorax\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
     "badgeColor": "#3DBE75",
-    "mnemonic": "In Water = CUTANEOUS (Skin diffusion) | On Land = Buccal cavity + Moist Skin + PULMONARY (Pair of pink lungs) | During Hibernation & Aestivation = CUTANEOUS ONLY!",
-    "memoryHook": "Three ways to breathe: Underwater, the frog breathes 100% through moist skin (Cutaneous). On land, it uses its mouth floor pump, moist skin, and a pair of pink elongated lung sacs (Pulmonary). During deep winter hibernation or summer aestivation buried in mud, it breathes EXCLUSIVELY through skin!",
-    "expandedMeaning": "Frogs respire on land and in the water by two different methods: 1. In water: Skin acts as aquatic respiratory organ (CUTANEOUS RESPIRATION). Dissolved oxygen in water is exchanged through the skin by diffusion. 2. On land: Buccal cavity, skin and lungs act as respiratory organs. Respiration by lungs is called PULMONARY RESPIRATION. The lungs are a pair of elongated, pink coloured sac-like structures found in thorax. Air enters through external nostrils into buccal cavity and then to lungs. 3. During aestivation and hibernation, gaseous exchange takes place EXCLUSIVELY through skin.",
-    "fact": "Cutaneous respiration in frogs requires the skin to remain permanently moist; if a frog skin dries out completely, it asphyxiates and dies.",
+    "mnemonic": "Tegmina Dark Opaque Mesothorax, Hindwing Membranous Transparent Metathorax",
+    "memoryHook": "Tegmina Dark Opaque Mesothorax, Hindwing Membranous Transparent Metathorax",
+    "fact": "Forewings (Tegmina): Arise from mesothorax; opaque, dark, leathery, protective. Hindwings: Arise from metathorax; transparent, membranous, used in actual flight",
     "breakdown": [
       {
-        "key": "In Water",
-        "label": "Cutaneous respiration via thin vascular skin by simple diffusion"
+        "key": "Forewings (Tegmina)",
+        "label": "Arise from mesothorax; opaque, dark, leathery, protective"
       },
       {
-        "key": "On Land",
-        "label": "Three modes: Buccopharyngeal cavity, Cutaneous (skin), and Pulmonary (pink sac lungs)"
-      },
-      {
-        "key": "During Hibernation/Aestivation",
-        "label": "Strictly CUTANEOUS respiration through skin buried in mud"
+        "key": "Hindwings",
+        "label": "Arise from metathorax; transparent, membranous, used in actual flight"
       }
     ],
-    "doodleBadge": "Water = Skin | Mud = Skin Only | Land = Lungs",
-    "doodleSubtext": "3 Frog Respiration Modes",
-    "explanation": "Because frogs lack a diaphragm and ribs, air is pumped into lungs by raising and lowering the floor of the buccal cavity (positive pressure breathing).",
-    "whyItWorks": "Directly reinforces: Water = skin; Hibernation = skin only; Land = skin + mouth + lungs.",
-    "alsoRemember": "Tadpole larva breathes with external and internal gills.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.5.2",
-    "neetTrap": "How does a frog breathe during hibernation and aestivation? EXCLUSIVELY through cutaneous skin (not lungs).",
-    "commonMistake": "Assuming frogs breathe with lungs in mud (lungs are inactive during aestivation).",
+    "doodleBadge": "Tegmina Dark Opaque Meso",
+    "doodleSubtext": "Cockroach Wings (Tegmina",
+    "explanation": "Structural and functional distinction between the two thoracic wing pairs in cockroaches.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Cockroach Wings (Tegmina vs Hindwings).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.70",
     "tags": [
-      "Frog",
-      "Respiration",
-      "Cutaneous Respiration",
-      "Pulmonary Respiration",
-      "Hibernation",
-      "Aestivation"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Cockroach"
     ],
-    "visualDescription": "Three panels: frog swimming using skin diffusion, frog on lily pad filling pink lung sacs, and frog asleep in winter mud breathing solely through skin.",
-    "neetRelevance": "NEET 2021, 2018 questions on frog respiration during aestivation/hibernation.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.5.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 70,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "During summer sleep (aestivation) and winter sleep (hibernation), gaseous exchange in a frog takes place exclusively through:",
+      "question": "Which of the following is associated with \"Cockroach Wings (Tegmina vs Hindwings)\" in NEET Biology?",
       "options": [
-        "Gills",
-        "Lungs (pulmonary respiration)",
-        "Moist skin (cutaneous respiration)",
-        "Buccopharyngeal cavity"
+        "Tegmina Dark Opaque Mesothorax, Hindwing Membranous Transparent Metathorax",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "During hibernation and aestivation, frogs respire solely through cutaneous respiration via their moist skin."
+      "answerIndex": 0,
+      "explanation": "Structural and functional distinction between the two thoracic wing pairs in cockroaches."
     }
   },
   {
@@ -1211,76 +1047,63 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-5",
-    "topicTitle": "Frog Anatomy",
-    "topic": "Frog Heart (Sinus Venosus & Conus Arteriosus)",
+    "classLevel": 11,
+    "topicId": "bio-top-7-2",
+    "topicTitle": "Cockroach Alimentary Canal Parts",
+    "topic": "Cockroach Alimentary Canal Parts",
     "mnemonicNumber": 17,
-    "title": "Frog Heart: \"3 Chambers + Sinus Venosus (Dorsal Receiver) + Conus Arteriosus (Ventral Output) | Nucleated RBCs\"",
-    "badgeText": "Must Know",
-    "importance": "Must Know",
-    "difficulty": "hard",
-    "visualType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Heart = 3 Chambers (2 Atria + 1 Ventricle) + Triangular SINUS VENOSUS joins Right Atrium (Dorsal) + CONUS ARTERIOSUS leads out from Ventricle (Ventral) | RBCs = Oval, Biconvex & NUCLEATED | Hepatic & Renal Portal Systems",
-    "memoryHook": "The frog pump: Heart has 3 chambers (2 upper receiving atria, 1 bottom pumping ventricle). Dirty vena cava blood collects in a dorsal triangle called SINUS VENOSUS before entering right atrium. Blood leaves the single ventricle through a ventral trumpet called CONUS ARTERIOSUS! Unlike humans, frog red blood cells have a NUCLEUS!",
-    "expandedMeaning": "Vascular system of frog is closed and well-developed. Heart is a muscular structure situated in upper part of body cavity: THREE chambers, two atria and one ventricle, covered by pericardium. A triangular structure called SINUS VENOSUS joins the right atrium; it receives blood through major veins (vena cava). The ventricle opens on the ventral side into a sac-like CONUS ARTERIOSUS. Special venous connections: HEPATIC PORTAL SYSTEM (liver-gut) and RENAL PORTAL SYSTEM (kidney-lower body). Blood consists of plasma and cells (RBCs, WBCs, platelets); RBCs are NUCLEATED, oval, and contain haemoglobin.",
-    "fact": "Frog erythrocytes (RBCs) are oval, biconvex, and contain a prominent central nucleus, unlike mature mammalian RBCs which are circular, biconcave, and enucleated.",
+    "title": "Cockroach Alimentary Canal Parts: \"Pharynx Oesophagus Crop Gizzard Midgut Hindgut\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Pharynx Oesophagus Crop Gizzard Midgut Hindgut",
+    "memoryHook": "Pharynx Oesophagus Crop Gizzard Midgut Hindgut",
+    "fact": "Foregut: Pharynx -> Oesophagus -> Crop (stores food) -> Gizzard/Proventriculus (grinds food with 6 chitinous teeth). Midgut (Mesenteron): Digestion and absorption. Hindgut: Ileum -> Colon -> Rectum",
     "breakdown": [
       {
-        "key": "Chambers",
-        "label": "3 chambers: 2 atria (right & left) + 1 single undivided ventricle"
+        "key": "Foregut",
+        "label": "Pharynx -> Oesophagus -> Crop (stores food) -> Gizzard/Proventriculus (grinds food with 6 chitinous teeth)"
       },
       {
-        "key": "Sinus Venosus",
-        "label": "Dorsal triangular accessory chamber; receives caval veins, empties into right atrium"
+        "key": "Midgut (Mesenteron)",
+        "label": "Digestion and absorption"
       },
       {
-        "key": "Conus Arteriosus",
-        "label": "Ventral muscular tube; carries blood away from ventricle into aortic trunks"
-      },
-      {
-        "key": "Portal systems",
-        "label": "Hepatic portal (intestine to liver) AND Renal portal (lower body to kidneys)"
-      },
-      {
-        "key": "RBCs",
-        "label": "Oval, biconvex, and NUCLEATED (possess a nucleus)"
+        "key": "Hindgut",
+        "label": "Ileum -> Colon -> Rectum"
       }
     ],
-    "doodleBadge": "Sinus Venosus (In) | Conus Arteriosus (Out)",
-    "doodleSubtext": "Frog Cardiovascular",
-    "explanation": "Oxygenated blood from left atrium and deoxygenated blood from right atrium mix partially in the single ventricle.",
-    "whyItWorks": "Direct contrast: Sinus venosus = Dorsal entry into right atrium; Conus arteriosus = Ventral exit from ventricle; RBCs = Nucleated.",
-    "alsoRemember": "Lymph in frogs lacks RBCs and few proteins compared to blood.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.5.3",
-    "neetTrap": "Are frog RBCs enucleated like humans? NO! Frog RBCs are NUCLEATED and oval.",
-    "commonMistake": "Confusing sinus venosus (receives blood) with conus arteriosus (discharges blood).",
+    "doodleBadge": "Pharynx Oesophagus Crop ",
+    "doodleSubtext": "Cockroach Alimentary Can",
+    "explanation": "Sequential anatomical divisions of the complete digestive tract in cockroaches.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Cockroach Alimentary Canal Parts.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.70",
     "tags": [
-      "Frog",
-      "Heart",
-      "Sinus Venosus",
-      "Conus Arteriosus",
-      "Renal Portal System",
-      "Nucleated RBCs"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Cockroach"
     ],
-    "visualDescription": "Dorsal view of frog heart showing triangular sinus venosus feeding right atrium beside ventral view showing conus arteriosus branching to arches.",
-    "neetRelevance": "NEET 2021, 2020, 2017 questions on sinus venosus, portal systems, and nucleated RBCs in frogs.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.5.3"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 70,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which triangular accessory chamber joins the right atrium on the dorsal side of the frog heart, receiving deoxygenated blood from vena cava?",
+      "question": "Which of the following is associated with \"Cockroach Alimentary Canal Parts\" in NEET Biology?",
       "options": [
-        "Conus arteriosus",
-        "Sinus venosus",
-        "Fossa ovalis",
-        "Bulbus cordis"
+        "Pharynx -> Oesophagus -> Crop (stores food) -> Gizzard/Proventriculus (grinds fo",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Sinus venosus is a triangular accessory chamber that joins the right atrium dorsally and receives blood from the vena cava."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Pharynx -> Oesophagus -> Crop (stores food) -> Gizzard/Proventriculus (grinds food with 6 chitinous teeth)\". Remember using: \"Pharynx Oesophagus Crop Gizzard Midgut Hindgut\"."
     }
   },
   {
@@ -1289,76 +1112,59 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-5",
-    "topicTitle": "Frog Anatomy",
-    "topic": "Male Frog Urogenital System & Bidder's Canal",
+    "classLevel": 11,
+    "topicId": "bio-top-7-2",
+    "topicTitle": "Cockroach Hepatic Caeca vs Malpighian Tubules",
+    "topic": "Cockroach Hepatic Caeca vs Malpighian Tubules",
     "mnemonicNumber": 18,
-    "title": "Male Frog: \"Testes over Kidneys (Mesorchium) → 10-12 Vasa Efferentia → Bidder's Canal → Urogenital Duct\"",
-    "badgeText": "Sequence Rule",
-    "importance": "Must Know",
-    "difficulty": "hard",
+    "title": "Cockroach Hepatic Caeca vs Malpighian Tubules: \"Hepatic 6-8 Fore-Mid Junction, Malpighian 100-150 Mid-Hind Junction\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
     "visualType": "sequence",
     "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Testes (Attached by Mesorchium) → 10-12 Vasa Efferentia enter Kidneys → Open into BIDDER'S CANAL → Ureter acts as Common UROGENITAL DUCT → Cloaca",
-    "memoryHook": "Sperm highway through kidneys: Yellow oval testes are taped to kidney tops by MESORCHIUM fold. 10 to 12 tiny vasa efferentia tubes pierce into the kidney, empty sperms into BIDDER'S CANAL, and exit through the ureter! In male frogs, the ureter is a dual UROGENITAL DUCT carrying both urine and sperms!",
-    "expandedMeaning": "Male reproductive system: Pair of yellowish ovoid testes adhered to upper part of kidneys by a double fold of peritoneum called MESORCHIUM. Vasa efferentia are 10-12 in number; arise from testes, enter kidneys on their side and open into BIDDER'S CANAL. Finally, it communicates with the urinogenital duct that comes out of the kidneys and opens into the CLOACA. The cloaca is a small, median chamber used to pass faecal matter, urine and sperms to the exterior.",
-    "fact": "In male frogs, the ureter carries BOTH urine and sperms (hence called urogenital duct). In female frogs, ureters and oviducts open SEPARATELY into the cloaca; female ureters carry urine only!",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Hepatic 6-8 Fore-Mid Junction, Malpighian 100-150 Mid-Hind Junction",
+    "memoryHook": "Hepatic 6-8 Fore-Mid Junction, Malpighian 100-150 Mid-Hind Junction",
+    "fact": "Hepatic/Gastric Caeca: 6–8 blind tubules at Foregut-Midgut junction (secretes digestive juice). Malpighian Tubules: 100–150 yellow thin tubules at Midgut-Hindgut junction (excretion)",
     "breakdown": [
       {
-        "key": "Testes attachment",
-        "label": "Attached to kidney anterior by peritoneum fold called MESORCHIUM"
+        "key": "Hepatic/Gastric Caeca",
+        "label": "6–8 blind tubules at Foregut-Midgut junction (secretes digestive juice)"
       },
       {
-        "key": "Vasa efferentia",
-        "label": "10 to 12 fine tubules entering the kidney"
-      },
-      {
-        "key": "Bidder's Canal",
-        "label": "Longitudinal canal inside male kidney receiving sperms"
-      },
-      {
-        "key": "Urogenital duct",
-        "label": "Ureter in male carries both urine and sperms into cloaca"
-      },
-      {
-        "key": "Female contrast",
-        "label": "Oviducts and ureters open separately; ovaries have NO connection with kidneys"
+        "key": "Malpighian Tubules",
+        "label": "100–150 yellow thin tubules at Midgut-Hindgut junction (excretion)"
       }
     ],
-    "doodleBadge": "Vasa Efferentia → Bidder's Canal → Cloaca",
-    "doodleSubtext": "Male Frog Pathway",
-    "explanation": "Bidder's canal is completely absent in female frogs.",
-    "whyItWorks": "Direct sequence: Testes → Mesorchium → 10-12 Vasa efferentia → Bidder's canal → Urogenital duct → Cloaca.",
-    "alsoRemember": "Bidder's canal is unique to male frog kidneys.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.5.5",
-    "neetTrap": "Does the female frog have Bidder's canal? NO! Bidder's canal is present ONLY in male frog kidneys.",
-    "commonMistake": "Thinking female ureters carry eggs (eggs pass exclusively through separate oviducts).",
+    "doodleBadge": "Hepatic 6-8 Fore-Mid Jun",
+    "doodleSubtext": "Cockroach Hepatic Caeca ",
+    "explanation": "Location, number, and distinct physiological functions of digestive vs excretory tubules. Chapter 7: Structural Organisation in Animals (30 Mnemonics) \tPage 3",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Cockroach Hepatic Caeca vs Malpighian Tubules.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.70",
     "tags": [
-      "Frog",
-      "Male Reproductive System",
-      "Bidder's Canal",
-      "Vasa Efferentia",
-      "Mesorchium",
-      "Urogenital Duct"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Cockroach"
     ],
-    "visualDescription": "Diagram of male frog kidney showing yellow testis on top connected by mesorchium, 12 vasa efferentia tubes feeding internal Bidder's canal, and common urogenital duct.",
-    "neetRelevance": "NEET 2021, 2020, 2019, 2017 high-frequency questions on Bidder's canal and male frog urogenital duct.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.5.5"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 70,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In male frogs, sperms pass from the testes through 10-12 vasa efferentia into which specialized kidney structure before reaching the urogenital duct?",
+      "question": "Which of the following is associated with \"Cockroach Hepatic Caeca vs Malpighian Tubules\" in NEET Biology?",
       "options": [
-        "Wolffian duct",
-        "Bidder's canal",
-        "Bowman capsule",
-        "Seminal vesicle"
+        "Hepatic 6-8 Fore-Mid Junction, Malpighian 100-150 Mid-Hind Junction",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Vasa efferentia enter the kidney and open into Bidder's canal, which communicates with the urogenital duct."
+      "answerIndex": 0,
+      "explanation": "Location, number, and distinct physiological functions of digestive vs excretory tubules. Chapter 7: Structural Organisation in Animals (30 Mnemonics) \tPage 3"
     }
   },
   {
@@ -1367,76 +1173,59 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-5",
-    "topicTitle": "Frog Anatomy",
-    "topic": "Female Frog Reproductive System",
+    "classLevel": 11,
+    "topicId": "bio-top-7-2",
+    "topicTitle": "Cockroach Respiration & Excretion",
+    "topic": "Cockroach Respiration & Excretion",
     "mnemonicNumber": 19,
-    "title": "Female Frog: \"Ovaries Have No Connection with Kidneys | 2500-3000 Eggs Laid at a Time\"",
-    "badgeText": "Concept Rule",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
+    "title": "Cockroach Respiration & Excretion: \"Spiracles 10 Pairs, Uricotelic Excretion\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Female Frog = Ovaries near kidneys but NO functional/structural connection! | Oviducts open SEPARATELY into Cloaca | Lays 2500 to 3000 Jelly-Coated Eggs at a Time",
-    "memoryHook": "Female independence: Unlike male testes that funnel through kidneys, female frog ovaries have ZERO connection with kidneys! A long coiled pair of separate OVIDUCTS scoop up eggs and dump them directly into the cloaca. A single mature female releases 2,500 to 3,000 eggs at once into water!",
-    "expandedMeaning": "Female reproductive organs: Pair of ovaries situated near kidneys, but there is NO functional connection with kidneys. A pair of oviducts arising from the ovaries opens separately into the cloaca. A mature female can lay 2500 to 3000 eggs at a time. Fertilization is EXTERNAL and takes place in water. Development involves a larval stage called TADPOLE. Tadpole undergoes metamorphosis to form the adult.",
-    "fact": "Tadpole larva is aquatic, has a tail with fins, possesses internal and external gills, has a lateral line system, and is AMMONOTELIC (excretes ammonia), whereas adult frog is ureotelic.",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Spiracles 10 Pairs, Uricotelic Excretion",
+    "memoryHook": "Spiracles 10 Pairs, Uricotelic Excretion",
+    "fact": "Respiration: Tracheal network opening through 10 pairs of spiracles (2 thoracic, 8 abdominal). Excretion: Uricotelic; Malpighian tubules absorb nitrogenous wastes converting to uric acid. Accessory Excretory Units: Fat body, nephrocytes, urecose glands",
     "breakdown": [
       {
-        "key": "Ovary-kidney connection",
-        "label": "COMPLETELY ABSENT (no structural or functional link)"
+        "key": "Respiration",
+        "label": "Tracheal network opening through 10 pairs of spiracles (2 thoracic, 8 abdominal)"
       },
       {
-        "key": "Oviduct opening",
-        "label": "Opens SEPARATELY into cloaca (independent from urinary duct)"
-      },
-      {
-        "key": "Fecundity",
-        "label": "2500 to 3000 eggs laid at a single spawning"
-      },
-      {
-        "key": "Fertilization",
-        "label": "EXTERNAL in water (external amplexus)"
-      },
-      {
-        "key": "Larval stage",
-        "label": "Tadpole larva (ammonotelic herbivore with gills and tail)"
+        "key": "Excretion",
+        "label": "Uricotelic; Malpighian tubules absorb nitrogenous wastes converting to uric acid"
       }
     ],
-    "doodleBadge": "Ovaries ≠ Kidneys | 2500-3000 Eggs",
-    "doodleSubtext": "Female Frog System",
-    "explanation": "The jelly coat around eggs swells in water, insulating them from microbes and thermal shocks.",
-    "whyItWorks": "Direct contrast: Male testes connect through kidneys; female ovaries have zero kidney connection.",
-    "alsoRemember": "Tadpole larva is ammonotelic; adult frog is ureotelic.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.5.5",
-    "neetTrap": "Do ovaries have any connection with kidneys in female frog? NO! They are completely separate.",
-    "commonMistake": "Believing female frog fertilization is internal (it is strictly external in water).",
+    "doodleBadge": "Spiracles 10 Pairs, Uric",
+    "doodleSubtext": "Cockroach Respiration & ",
+    "explanation": "Respiratory spiracular system and uricotelic metabolic waste elimination pathways.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Cockroach Respiration & Excretion.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.71",
     "tags": [
-      "Frog",
-      "Female Reproductive System",
-      "Oviducts",
-      "Tadpole",
-      "Metamorphosis",
-      "2500-3000 Eggs"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Cockroach"
     ],
-    "visualDescription": "Female frog dissection showing lobed black-and-white ovaries beside kidneys and coiled white oviducts leading independently to cloaca.",
-    "neetRelevance": "NEET 2021, 2019 questions on female frog oviducts and absence of kidney connection.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.5.5"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 71,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following statements regarding the female reproductive system of a frog is correct?",
+      "question": "Which of the following is associated with \"Cockroach Respiration & Excretion\" in NEET Biology?",
       "options": [
-        "Ovaries are connected to kidneys through 10-12 vasa efferentia",
-        "Ovaries have no functional connection with kidneys and oviducts open separately into the cloaca",
-        "Ureters act as urogenital ducts carrying both ova and urine",
-        "Fertilization takes place internally inside the oviducts"
+        "Tracheal network opening through 10 pairs of spiracles (2 thoracic, 8 abdominal)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "In female frogs, ovaries have no connection with kidneys, and oviducts open separately into the cloaca."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Tracheal network opening through 10 pairs of spiracles (2 thoracic, 8 abdominal)\". Remember using: \"Spiracles 10 Pairs, Uricotelic Excretion\"."
     }
   },
   {
@@ -1445,73 +1234,709 @@ export const bioCh07Mnemonics = [
     "chapterId": "bio-ch-07",
     "chapterNumber": 7,
     "chapterTitle": "Structural Organisation in Animals",
-    "topicId": "bio-top-7-5",
-    "topicTitle": "Frog Anatomy",
-    "topic": "Frog Brain & 10 Pairs of Cranial Nerves",
+    "classLevel": 11,
+    "topicId": "bio-top-7-2",
+    "topicTitle": "Cockroach Circulatory System",
+    "topic": "Cockroach Circulatory System",
     "mnemonicNumber": 20,
-    "title": "Frog Nervous System: \"10 Pairs Cranial Nerves | Fore (Olfactory/Cerebrum), Mid (Optic Lobes), Hind (Cerebellum/Medulla)\"",
-    "badgeText": "Classification",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "classification",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Frog Brain = 10 PAIRS of Cranial Nerves + Forebrain (Olfactory lobes, Cerebral hemispheres, Diencephalon) + Midbrain (Pair of OPTIC LOBES) + Hindbrain (Cerebellum & Medulla oblongata exiting through Foramen Magnum)",
-    "memoryHook": "Count the frog wires: Exactly 10 PAIRS of cranial nerves sprout from the brain (humans have 12 pairs)! The brain has 3 rooms: Forebrain handles smell and decisions. Midbrain is dominated by giant bulging OPTIC LOBES. Hindbrain has cerebellum and medulla that exits through the skull foramen magnum into the spinal cord!",
-    "expandedMeaning": "Nervous system of frog organized into: Central (brain & spinal cord), Peripheral (cranial & spinal nerves), Autonomic (sympathetic & parasympathetic). There are 10 PAIRS OF CRANIAL NERVES arising from the brain. Brain enclosed in bony cranium. Forebrain includes olfactory lobes, paired cerebral hemispheres and unpaired diencephalon. Midbrain is characterized by a pair of OPTIC LOBES. Hindbrain consists of CEREBELLUM and MEDULLA OBLONGATA. Medulla oblongata passes out through the foramen magnum and continues into spinal cord, which is contained in the vertebral column.",
-    "fact": "Frogs have 10 pairs of cranial nerves and 10 pairs of spinal nerves. Humans have 12 pairs of cranial nerves and 31 pairs of spinal nerves.",
+    "title": "Cockroach Circulatory System: \"Open Hemolymph 13-Chambered Heart\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Open Hemolymph 13-Chambered Heart",
+    "memoryHook": "Open Hemolymph 13-Chambered Heart",
+    "fact": "Type: Open vascular system with hemocoel cavity filled with hemolymph. Heart: 13 funnel-shaped muscular chambers along mid-dorsal line with ostia. Circulation: Pumped anteriorly into sinuses aided by 12 pairs of alary muscles",
     "breakdown": [
       {
-        "key": "Cranial nerves",
-        "label": "10 PAIRS (arise from brain)"
+        "key": "Type",
+        "label": "Open vascular system with hemocoel cavity filled with hemolymph"
       },
       {
-        "key": "Forebrain",
-        "label": "Olfactory lobes (smell) + Cerebral hemispheres + Unpaired diencephalon"
+        "key": "Heart",
+        "label": "13 funnel-shaped muscular chambers along mid-dorsal line with ostia"
       },
       {
-        "key": "Midbrain",
-        "label": "Pair of prominent OPTIC LOBES"
-      },
-      {
-        "key": "Hindbrain",
-        "label": "Cerebellum (coordination) + Medulla oblongata (passes via foramen magnum)"
+        "key": "Circulation",
+        "label": "Pumped anteriorly into sinuses aided by 12 pairs of alary muscles"
       }
     ],
-    "doodleBadge": "10 Pairs Cranial Nerves | Optic Lobes",
-    "doodleSubtext": "Frog Brain Divisions",
-    "explanation": "Medulla oblongata coordinates autonomous vegetative activities like heartbeat and respiration.",
-    "whyItWorks": "Direct cranial nerve count (10 pairs) and 3 brain division contents from NCERT text.",
-    "alsoRemember": "Sensory organs: Eyes, tympanum, sensory papillae, taste buds, nasal epithelium.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 7, Section 7.5.4",
-    "neetTrap": "How many pairs of cranial nerves arise from a frog brain? TEN PAIRS (humans have 12).",
-    "commonMistake": "Selecting 12 pairs of cranial nerves for frog.",
+    "doodleBadge": "Open Hemolymph 13-Chambe",
+    "doodleSubtext": "Cockroach Circulatory Sy",
+    "explanation": "Open circulatory mechanics where blood flows freely in open tissue spaces.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Cockroach Circulatory System.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.71",
     "tags": [
-      "Frog",
-      "Nervous System",
-      "10 Cranial Nerves",
-      "Optic Lobes",
-      "Forebrain",
-      "Hindbrain",
-      "Medulla"
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Cockroach"
     ],
-    "visualDescription": "A dorsal view of frog brain showing anterior olfactory bulbs, cerebral hemispheres, twin optic lobes, and medulla tapering through foramen magnum.",
-    "neetRelevance": "NEET 2020, 2018 questions on frog cranial nerve count and midbrain optic lobes.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 7.5.4"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 71,
+      "chapter": "Structural Organisation in Animals"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "How many pairs of cranial nerves arise from the brain of a frog (Rana tigrina)?",
+      "question": "Which of the following is associated with \"Cockroach Circulatory System\" in NEET Biology?",
       "options": [
-        "Eight pairs",
-        "Ten pairs",
-        "Twelve pairs",
-        "Thirty-one pairs"
+        "Open vascular system with hemocoel cavity filled with hemolymph",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Ten pairs of cranial nerves arise from the brain in frogs."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Open vascular system with hemocoel cavity filled with hemolymph\". Remember using: \"Open Hemolymph 13-Chambered Heart\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch07-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-07",
+    "chapterNumber": 7,
+    "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-7-3",
+    "topicTitle": "Cockroach Reproductive System Features",
+    "topic": "Cockroach Reproductive System Features",
+    "mnemonicNumber": 21,
+    "title": "Cockroach Reproductive System Features: \"Male Testes 4-6, Female Ovaries 2-6 (16 Ovarioles)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Male Testes 4-6, Female Ovaries 2-6 (16 Ovarioles)",
+    "memoryHook": "Male Testes 4-6, Female Ovaries 2-6 (16 Ovarioles)",
+    "fact": "Male: Testes in 4th–6th abdominal segments; Mushroom gland in 6th–7th segments. Female: 2 large ovaries in 2nd–6th segments; each ovary has 8 ovarioles (total 16). Ootheca: Dark reddish brown capsule containing 14–16 eggs",
+    "breakdown": [
+      {
+        "key": "Male",
+        "label": "Testes in 4th–6th abdominal segments; Mushroom gland in 6th–7th segments"
+      },
+      {
+        "key": "Female",
+        "label": "2 large ovaries in 2nd–6th segments; each ovary has 8 ovarioles (total 16)"
+      },
+      {
+        "key": "Ootheca",
+        "label": "Dark reddish brown capsule containing 14–16 eggs"
+      }
+    ],
+    "doodleBadge": "Male Testes 4-6, Female ",
+    "doodleSubtext": "Cockroach Reproductive S",
+    "explanation": "Segmental placement of gonads and ootheca formation parameters in cockroaches.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Cockroach Reproductive System Features.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.71",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Cockroach"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 71,
+      "chapter": "Structural Organisation in Animals"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Cockroach Reproductive System Features\" in NEET Biology?",
+      "options": [
+        "Testes in 4th–6th abdominal segments; Mushroom gland in 6th–7th segments",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Testes in 4th–6th abdominal segments; Mushroom gland in 6th–7th segments\". Remember using: \"Male Testes 4-6, Female Ovaries 2-6 (16 Ovarioles)\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch07-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-07",
+    "chapterNumber": 7,
+    "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-7-3",
+    "topicTitle": "Cockroach Vision: Mosaic Vision",
+    "topic": "Cockroach Vision: Mosaic Vision",
+    "mnemonicNumber": 22,
+    "title": "Cockroach Vision: Mosaic Vision: \"2000 Ommatidia Mosaic High Sensitivity Low Resolution\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "2000 Ommatidia Mosaic High Sensitivity Low Resolution",
+    "memoryHook": "2000 Ommatidia Mosaic High Sensitivity Low Resolution",
+    "fact": "Compound Eyes: Each eye composed of ~2,000 hexagonal ommatidia. Vision Type: Mosaic vision (multiple images of an object). Trait: High nocturnal sensitivity but lower image resolution",
+    "breakdown": [
+      {
+        "key": "Compound Eyes",
+        "label": "Each eye composed of ~2,000 hexagonal ommatidia"
+      },
+      {
+        "key": "Vision Type",
+        "label": "Mosaic vision (multiple images of an object)"
+      },
+      {
+        "key": "Trait",
+        "label": "High nocturnal sensitivity but lower image resolution"
+      }
+    ],
+    "doodleBadge": "2000 Ommatidia Mosaic Hi",
+    "doodleSubtext": "Cockroach Vision: Mosaic",
+    "explanation": "Visual unit composition of arthropod compound eyes specialized for night detection.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Cockroach Vision: Mosaic Vision.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.71",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Cockroach"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 71,
+      "chapter": "Structural Organisation in Animals"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Cockroach Vision: Mosaic Vision\" in NEET Biology?",
+      "options": [
+        "Each eye composed of ~2,000 hexagonal ommatidia",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Each eye composed of ~2,000 hexagonal ommatidia\". Remember using: \"2000 Ommatidia Mosaic High Sensitivity Low Resolution\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch07-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-07",
+    "chapterNumber": 7,
+    "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-7-3",
+    "topicTitle": "Frog Taxonomy & Amphibian Nature",
+    "topic": "Frog Taxonomy & Amphibian Nature",
+    "mnemonicNumber": 23,
+    "title": "Frog Taxonomy & Amphibian Nature: \"Rana tigrina Poikilotherm Camouflage\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Rana tigrina Poikilotherm Camouflage",
+    "memoryHook": "Rana tigrina Poikilotherm Camouflage",
+    "fact": "Species: Rana tigrina (Indian Bullfrog). Poikilotherm: Cold-blooded animal (body temperature varies with environment). Adaptations: Camouflage (mimicry), aestivation (summer sleep), hibernation (winter sleep)",
+    "breakdown": [
+      {
+        "key": "Species",
+        "label": "Rana tigrina (Indian Bullfrog)"
+      },
+      {
+        "key": "Poikilotherm",
+        "label": "Cold-blooded animal (body temperature varies with environment)"
+      },
+      {
+        "key": "Adaptations",
+        "label": "Camouflage (mimicry), aestivation (summer sleep), hibernation (winter sleep)"
+      }
+    ],
+    "doodleBadge": "Rana tigrina Poikilother",
+    "doodleSubtext": "Frog Taxonomy & Amphibia",
+    "explanation": "Basic characteristics and survival adaptations of land-water living amphibians.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Frog Taxonomy & Amphibian Nature.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.71",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Frog"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 71,
+      "chapter": "Structural Organisation in Animals"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Frog Taxonomy & Amphibian Nature\" in NEET Biology?",
+      "options": [
+        "Rana tigrina (Indian Bullfrog)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Rana tigrina (Indian Bullfrog)\". Remember using: \"Rana tigrina Poikilotherm Camouflage\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch07-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-07",
+    "chapterNumber": 7,
+    "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-7-3",
+    "topicTitle": "Frog Morphology (Skin & Digits)",
+    "topic": "Frog Morphology (Skin & Digits)",
+    "mnemonicNumber": 24,
+    "title": "Frog Morphology (Skin & Digits): \"Smooth Smooth Skin, Fore-4 Hind-5 Digits\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Smooth Smooth Skin, Fore-4 Hind-5 Digits",
+    "memoryHook": "Smooth Smooth Skin, Fore-4 Hind-5 Digits",
+    "fact": "Skin: Smooth, moist, slippery, mucus-covered, lacks scales. Forelimbs: End in 4 digits (copulatory pad present on 1st digit in males during breeding). Hindlimbs: Larger, muscular, end in 5 webbed digits adapted for swimming",
+    "breakdown": [
+      {
+        "key": "Skin",
+        "label": "Smooth, moist, slippery, mucus-covered, lacks scales"
+      },
+      {
+        "key": "Forelimbs",
+        "label": "End in 4 digits (copulatory pad present on 1st digit in males during breeding)"
+      },
+      {
+        "key": "Hindlimbs",
+        "label": "Larger, muscular, end in 5 webbed digits adapted for swimming"
+      }
+    ],
+    "doodleBadge": "Smooth Smooth Skin, Fore",
+    "doodleSubtext": "Frog Morphology (Skin & ",
+    "explanation": "Cutaneous characteristics and limb/digit count variations aiding locomotion. Chapter 7: Structural Organisation in Animals (30 Mnemonics) \tPage 4",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Frog Morphology (Skin & Digits).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.71",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Frog"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 71,
+      "chapter": "Structural Organisation in Animals"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Frog Morphology (Skin & Digits)\" in NEET Biology?",
+      "options": [
+        "Smooth, moist, slippery, mucus-covered, lacks scales",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Smooth, moist, slippery, mucus-covered, lacks scales\". Remember using: \"Smooth Smooth Skin, Fore-4 Hind-5 Digits\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch07-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-07",
+    "chapterNumber": 7,
+    "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-7-3",
+    "topicTitle": "Frog Digestive System Peculiarities",
+    "topic": "Frog Digestive System Peculiarities",
+    "mnemonicNumber": 25,
+    "title": "Frog Digestive System Peculiarities: \"Short Alimentary Canal, Bifid Tongue, Cloaca Out\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Short Alimentary Canal, Bifid Tongue, Cloaca Out",
+    "memoryHook": "Short Alimentary Canal, Bifid Tongue, Cloaca Out",
+    "fact": "Short Gut: Carnivorous nature leads to reduced intestine length. Tongue: Bilobed/bifid muscular tongue attached anteriorly to catch prey. Cloaca: Common chamber for digestive, excretory, and reproductive outlets",
+    "breakdown": [
+      {
+        "key": "Short Gut",
+        "label": "Carnivorous nature leads to reduced intestine length"
+      },
+      {
+        "key": "Tongue",
+        "label": "Bilobed/bifid muscular tongue attached anteriorly to catch prey"
+      },
+      {
+        "key": "Cloaca",
+        "label": "Common chamber for digestive, excretory, and reproductive outlets"
+      }
+    ],
+    "doodleBadge": "Short Alimentary Canal, ",
+    "doodleSubtext": "Frog Digestive System Pe",
+    "explanation": "Anatomical digestive tract modifications suited to carnivorous diet and single excretory opening.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Frog Digestive System Peculiarities.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.72",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Frog"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 72,
+      "chapter": "Structural Organisation in Animals"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Frog Digestive System Peculiarities\" in NEET Biology?",
+      "options": [
+        "Carnivorous nature leads to reduced intestine length",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Carnivorous nature leads to reduced intestine length\". Remember using: \"Short Alimentary Canal, Bifid Tongue, Cloaca Out\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch07-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-07",
+    "chapterNumber": 7,
+    "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-7-3",
+    "topicTitle": "Three Modes of Respiration in Frog",
+    "topic": "Three Modes of Respiration in Frog",
+    "mnemonicNumber": 26,
+    "title": "Three Modes of Respiration in Frog: \"Cutaneous Buccal Pulmonary\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Cutaneous Buccal Pulmonary",
+    "memoryHook": "Cutaneous Buccal Pulmonary",
+    "fact": "Cutaneous (Skin): Moist skin respiration in water, land, hibernation, and aestivation. Buccopharyngeal: Oral cavity lining respiration on land. Pulmonary (Lungs): Pair of elongated pink sac-like lungs used on land",
+    "breakdown": [
+      {
+        "key": "Cutaneous (Skin)",
+        "label": "Moist skin respiration in water, land, hibernation, and aestivation"
+      },
+      {
+        "key": "Buccopharyngeal",
+        "label": "Oral cavity lining respiration on land"
+      },
+      {
+        "key": "Pulmonary (Lungs)",
+        "label": "Pair of elongated pink sac-like lungs used on land"
+      }
+    ],
+    "doodleBadge": "Cutaneous Buccal Pulmona",
+    "doodleSubtext": "Three Modes of Respirati",
+    "explanation": "Triple respiratory mechanisms enabling survival across aquatic and terrestrial habitats.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Three Modes of Respiration in Frog.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.72",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Three"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 72,
+      "chapter": "Structural Organisation in Animals"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Three Modes of Respiration in Frog\" in NEET Biology?",
+      "options": [
+        "Cutaneous (Skin): Moist skin respiration in water, land, hibernation, and aestiv",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Cutaneous (Skin): Moist skin respiration in water, land, hibernation, and aestivation\". Remember using: \"Cutaneous Buccal Pulmonary\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch07-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-07",
+    "chapterNumber": 7,
+    "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-7-3",
+    "topicTitle": "Frog Heart & Circulatory System",
+    "topic": "Frog Heart & Circulatory System",
+    "mnemonicNumber": 27,
+    "title": "Frog Heart & Circulatory System: \"3-Chambered Sinus Venosus Truncus Arteriosus Nucleated RBC\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "3-Chambered Sinus Venosus Truncus Arteriosus Nucleated RBC",
+    "memoryHook": "3-Chambered Sinus Venosus Truncus Arteriosus Nucleated RBC",
+    "fact": "Chambers: 3-chambered heart (2 auricles + 1 ventricle). Accessory Structures: Sinus venosus (joins right atrium), Truncus arteriosus (arises from ventricle). Blood Cells: RBCs are oval, nucleated, and contain hemoglobin",
+    "breakdown": [
+      {
+        "key": "Chambers",
+        "label": "3-chambered heart (2 auricles + 1 ventricle)"
+      },
+      {
+        "key": "Accessory Structures",
+        "label": "Sinus venosus (joins right atrium), Truncus arteriosus (arises from ventricle)"
+      },
+      {
+        "key": "Blood Cells",
+        "label": "RBCs are oval, nucleated, and contain hemoglobin"
+      }
+    ],
+    "doodleBadge": "3-Chambered Sinus Venosu",
+    "doodleSubtext": "Frog Heart & Circulatory",
+    "explanation": "Closed circulatory system layout with double circulation and specialized portal systems.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Frog Heart & Circulatory System.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.72",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Frog"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 72,
+      "chapter": "Structural Organisation in Animals"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Frog Heart & Circulatory System\" in NEET Biology?",
+      "options": [
+        "3-chambered heart (2 auricles + 1 ventricle)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"3-chambered heart (2 auricles + 1 ventricle)\". Remember using: \"3-Chambered Sinus Venosus Truncus Arteriosus Nucleated RBC\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch07-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-07",
+    "chapterNumber": 7,
+    "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-7-3",
+    "topicTitle": "Portal Systems in Frog",
+    "topic": "Portal Systems in Frog",
+    "mnemonicNumber": 28,
+    "title": "Portal Systems in Frog: \"Hepatic & Renal Portal Systems Present\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Hepatic & Renal Portal Systems Present",
+    "memoryHook": "Hepatic & Renal Portal Systems Present",
+    "fact": "Hepatic Portal System: Venous connection between gut/alimentary canal and liver. Renal Portal System: Venous connection between lower body parts and kidneys",
+    "breakdown": [
+      {
+        "key": "Hepatic Portal System",
+        "label": "Venous connection between gut/alimentary canal and liver"
+      },
+      {
+        "key": "Renal Portal System",
+        "label": "Venous connection between lower body parts and kidneys"
+      }
+    ],
+    "doodleBadge": "Hepatic & Renal Portal S",
+    "doodleSubtext": "Portal Systems in Frog",
+    "explanation": "Specialized vascular bypass systems routing venous blood through intermediate organs before reaching heart.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Portal Systems in Frog.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.72",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Portal"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 72,
+      "chapter": "Structural Organisation in Animals"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Portal Systems in Frog\" in NEET Biology?",
+      "options": [
+        "Hepatic & Renal Portal Systems Present",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Specialized vascular bypass systems routing venous blood through intermediate organs before reaching heart."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch07-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-07",
+    "chapterNumber": 7,
+    "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-7-3",
+    "topicTitle": "Frog Excretory System",
+    "topic": "Frog Excretory System",
+    "mnemonicNumber": 29,
+    "title": "Frog Excretory System: \"Ureotelic Mesonephric Kidneys\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Ureotelic Mesonephric Kidneys",
+    "memoryHook": "Ureotelic Mesonephric Kidneys",
+    "fact": "Product: Ureotelic animal (excretes urea). Organs: Pair of dark red compact mesonephric kidneys. Ureters: Open into cloaca; urinary bladder lies ventral to rectum opening into cloaca",
+    "breakdown": [
+      {
+        "key": "Product",
+        "label": "Ureotelic animal (excretes urea)"
+      },
+      {
+        "key": "Organs",
+        "label": "Pair of dark red compact mesonephric kidneys"
+      },
+      {
+        "key": "Ureters",
+        "label": "Open into cloaca; urinary bladder lies ventral to rectum opening into cloaca"
+      }
+    ],
+    "doodleBadge": "Ureotelic Mesonephric Ki",
+    "doodleSubtext": "Frog Excretory System",
+    "explanation": "Renal excretory setup filtering metabolic nitrogenous waste into urea.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Frog Excretory System.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.72",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Frog"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 72,
+      "chapter": "Structural Organisation in Animals"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Frog Excretory System\" in NEET Biology?",
+      "options": [
+        "Ureotelic animal (excretes urea)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Ureotelic animal (excretes urea)\". Remember using: \"Ureotelic Mesonephric Kidneys\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch07-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-07",
+    "chapterNumber": 7,
+    "chapterTitle": "Structural Organisation in Animals",
+    "classLevel": 11,
+    "topicId": "bio-top-7-3",
+    "topicTitle": "Male Frog Reproductive Anatomy (Bidder's Canal)",
+    "topic": "Male Frog Reproductive Anatomy (Bidder's Canal)",
+    "mnemonicNumber": 30,
+    "title": "Male Frog Reproductive Anatomy (Bidder's Canal): \"10-12 Vasa Efferentia -> Bidder's Canal -> Cloaca\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "10-12 Vasa Efferentia -> Bidder's Canal -> Cloaca",
+    "memoryHook": "10-12 Vasa Efferentia -> Bidder's Canal -> Cloaca",
+    "fact": "Testes: Adhered to upper part of kidneys by mesorchium. Vasa Efferentia: 10–12 ductules arising from testes entering kidneys. Bidder's Canal: Kidney canal receiving vasa efferentia, carrying sperm to urogenital duct opening into cloaca",
+    "breakdown": [
+      {
+        "key": "Testes",
+        "label": "Adhered to upper part of kidneys by mesorchium"
+      },
+      {
+        "key": "Vasa Efferentia",
+        "label": "10–12 ductules arising from testes entering kidneys"
+      },
+      {
+        "key": "Bidder's Canal",
+        "label": "Kidney canal receiving vasa efferentia, carrying sperm to urogenital duct opening into cloaca"
+      }
+    ],
+    "doodleBadge": "10-12 Vasa Efferentia ->",
+    "doodleSubtext": "Male Frog Reproductive A",
+    "explanation": "Male reproductive tract integration with kidney drainage system in frogs. Chapter 7: Structural Organisation in Animals (30 Mnemonics) \tPage 5",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 7 (Structural Organisation in Animals).",
+    "neetTrap": "Pay close attention to exact terminology in Male Frog Reproductive Anatomy (Bidder's Canal).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 7, Page from PDF p.72",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Structural Organisation in Animals",
+      "Male"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 72,
+      "chapter": "Structural Organisation in Animals"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Male Frog Reproductive Anatomy (Bidder's Canal)\" in NEET Biology?",
+      "options": [
+        "Adhered to upper part of kidneys by mesorchium",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Adhered to upper part of kidneys by mesorchium\". Remember using: \"10-12 Vasa Efferentia -> Bidder's Canal -> Cloaca\"."
     }
   }
 ];

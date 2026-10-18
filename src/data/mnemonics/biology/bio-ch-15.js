@@ -1,81 +1,69 @@
 /**
- * Biology Chapter 15: Body Fluids and Circulation
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 15: Body Fluids and Circulation
+ * Class 11 Biology (30 verified mnemonics)
+ * Primary Source: NEET Biology Chapter-Wise 30 Mnemonics Master (PDF 1)
  */
 
 export const bioCh15Mnemonics = [
   {
-    "id": "mnemo-bio-07",
+    "id": "mnemo-bio-ch15-01",
     "subject": "biology",
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
-    "topicId": "bio-top-15-2",
-    "topicTitle": "WBC Count Order",
-    "topic": "WBC Relative Abundance in Human Blood",
+    "classLevel": 11,
+    "topicId": "bio-top-15-1",
+    "topicTitle": "Components of Blood (Plasma vs Formed Elements)",
+    "topic": "Components of Blood (Plasma vs Formed Elements)",
     "mnemonicNumber": 1,
-    "title": "WBC Abundance: Never Let Monkeys Eat Bananas",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
+    "title": "Components of Blood (Plasma vs Formed Elements): \"55 Plasma, 45 Formed Elements\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Never Let Monkeys Eat Bananas (NLMEB: 65% > 25% > 6% > 2% > 0.5%)",
-    "memoryHook": "Neutrophils (Most abundant ~60-65%) > Lymphocytes (~20-25%) > Monocytes (~6-8%) > Eosinophils (~2-3%) > Basophils (Least abundant 0.5-1%)!",
-    "fact": "Order of White Blood Cell abundance in normal human blood: Neutrophils (60-65%) > Lymphocytes (20-25%) > Monocytes (6-8%) > Eosinophils (2-3%) > Basophils (0.5-1%).",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "55 Plasma, 45 Formed Elements",
+    "memoryHook": "55 Plasma, 45 Formed Elements",
+    "fact": "Plasma (55%): Liquid matrix containing 90-92% water and 6-8% proteins. Formed Elements (45%): Erythrocytes (RBCs), Leucocytes (WBCs), and Platelets (Thrombocytes)",
     "breakdown": [
       {
-        "key": "N - Neutrophils (60-65%)",
-        "label": "Phagocytic soldier cells that destroy foreign microbes"
+        "key": "Plasma (55%)",
+        "label": "Liquid matrix containing 90-92% water and 6-8% proteins"
       },
       {
-        "key": "L - Lymphocytes (20-25%)",
-        "label": "B & T cells responsible for immune antibody responses"
-      },
-      {
-        "key": "M - Monocytes (6-8%)",
-        "label": "Large phagocytic macrophages"
-      },
-      {
-        "key": "E - Eosinophils (2-3%)",
-        "label": "Resist infections and allergic reactions (histaminase)"
-      },
-      {
-        "key": "B - Basophils (0.5-1%)",
-        "label": "Least abundant! Secrete Histamine, Serotonin & Heparin"
+        "key": "Formed Elements (45%)",
+        "label": "Erythrocytes (RBCs), Leucocytes (WBCs), and Platelets (Thrombocytes)"
       }
     ],
-    "doodleBadge": "N > L > M > E > B",
-    "doodleSubtext": "WBC Abundance",
-    "explanation": "Neutrophils are the most plentiful first-responders. Basophils are the rarest cells and secrete inflammatory chemicals like histamine and anti-clotting heparin.",
-    "alsoRemember": "Granulocytes: Neutrophils, Eosinophils, Basophils (contain granules). Agranulocytes: Lymphocytes and Monocytes.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 18, Section 18.1.2.",
-    "neetTrap": "Basophils secrete Histamine (inflammation), Serotonin, and Heparin (anti-coagulant).",
+    "doodleBadge": "55 Plasma, 45 Formed Ele",
+    "doodleSubtext": "Components of Blood (Pla",
+    "explanation": "Proportional division of total blood volume into fluid matrix and cellular components.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Components of Blood (Plasma vs Formed Elements).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.28",
     "tags": [
-      "Blood",
-      "WBC",
-      "Circulation",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Components"
     ],
-    "expandedMeaning": "Relative percentage hierarchy of leukocyte populations in circulating blood.",
-    "whyItWorks": "Memorable mnemonic sentence using first letters of all 5 leukocyte types in order of abundance.",
-    "visualDescription": "A descending bar chart showing tall Neutrophil bar down to a tiny sliver for Basophil.",
-    "neetRelevance": "Appears frequently in match-the-column and numerical percentage ranking questions.",
-    "commonMistake": "Confusing Monocyte percentage with Eosinophils.",
-    "sourceReference": "NCERT Class 11 Biology Section 18.1.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 28,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which white blood cell type is the LEAST abundant in normal human blood (0.5 - 1%)?",
+      "question": "Which of the following is associated with \"Components of Blood (Plasma vs Formed Elements)\" in NEET Biology?",
       "options": [
-        "Neutrophil",
-        "Eosinophil",
-        "Basophil",
-        "Monocyte"
+        "55 Plasma, 45 Formed Elements",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Basophils represent the smallest percentage of WBCs (0.5-1%), while Neutrophils are the most abundant (60-65%)."
+      "answerIndex": 0,
+      "explanation": "Proportional division of total blood volume into fluid matrix and cellular components."
     }
   },
   {
@@ -84,72 +72,63 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
     "topicId": "bio-top-15-1",
-    "topicTitle": "Granulocytes vs Agranulocytes",
-    "topic": "Leukocyte Granule Classification",
+    "topicTitle": "Major Plasma Proteins",
+    "topic": "Major Plasma Proteins",
     "mnemonicNumber": 2,
-    "title": "Granulocytes: Phil has Granules in his BEN (Basophil, Eosinophil, Neutrophil)",
-    "badgeText": "Memory Trick",
+    "title": "Major Plasma Proteins: \"Fibrinogen Clots, Globulin Defends, Albumin Osmotic Balance\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "All -phils are Granulocytes (BEN: Basophil, Eosinophil, Neutrophil) | -cytes are Agranulocytes (ML: Monocyte, Lymphocyte)",
-    "memoryHook": "If it ends in \"phil\", it loves granules! If it ends in \"cyte\", it has no granules!",
-    "fact": "Leukocytes are classified into Granulocytes (Neutrophils, Eosinophils, Basophils) possessing cytoplasmic granules, and Agranulocytes (Lymphocytes, Monocytes) lacking conspicuous granules.",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Fibrinogen Clots, Globulin Defends, Albumin Osmotic Balance",
+    "memoryHook": "Fibrinogen Clots, Globulin Defends, Albumin Osmotic Balance",
+    "fact": "Fibrinogen: Needed for blood clotting / coagulation. Globulins: Involved in defense mechanisms (immunoglobulins/antibodies). Albumins: Maintains osmotic balance and colloid osmotic pressure",
     "breakdown": [
       {
-        "key": "Basophils (B)",
-        "label": "Granulocyte: 0.5-1%, secretes histamine, serotonin, heparin"
+        "key": "Fibrinogen",
+        "label": "Needed for blood clotting / coagulation"
       },
       {
-        "key": "Eosinophils (E)",
-        "label": "Granulocyte: 2-3%, resists infections and allergic reactions"
+        "key": "Globulins",
+        "label": "Involved in defense mechanisms (immunoglobulins/antibodies)"
       },
       {
-        "key": "Neutrophils (N)",
-        "label": "Granulocyte: 60-65%, primary phagocytic leukocytes"
-      },
-      {
-        "key": "Monocytes (M)",
-        "label": "Agranulocyte: 6-8%, phagocytic bean-shaped nucleus"
-      },
-      {
-        "key": "Lymphocytes (L)",
-        "label": "Agranulocyte: 20-25%, B & T immune cells with large round nucleus"
+        "key": "Albumins",
+        "label": "Maintains osmotic balance and colloid osmotic pressure"
       }
     ],
-    "doodleBadge": "BEN = Granules",
-    "doodleSubtext": "Phil vs Cyte",
-    "explanation": "Granulocytes contain secretory vesicles in their cytoplasm that stain differently with acidic, basic, or neutral dyes.",
-    "alsoRemember": "Platelets (thrombocytes) are cell fragments produced from megakaryocytes in bone marrow.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.1.2.",
-    "neetTrap": "Monocytes are agranulocytes despite having phagocytic function like neutrophils.",
+    "doodleBadge": "Fibrinogen Clots, Globul",
+    "doodleSubtext": "Major Plasma Proteins",
+    "explanation": "Primary functions of the three major plasma protein fractions.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Major Plasma Proteins.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.28",
     "tags": [
-      "Blood",
-      "Granulocytes",
-      "Agranulocytes",
-      "Leukocytes"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Major"
     ],
-    "expandedMeaning": "Morphological grouping of white blood cells by presence or absence of stainable cytoplasmic granules.",
-    "whyItWorks": "Suffix rule: -phil = granulocyte, -cyte = agranulocyte.",
-    "visualDescription": "Two compartments: one with speckled \"phils\" (BEN) and another with clean \"cytes\" (LM).",
-    "neetRelevance": "Commonly tested in classification questions.",
-    "commonMistake": "Categorizing Lymphocytes as granulocytes.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.1.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 28,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is an agranulocyte?",
+      "question": "Which of the following is associated with \"Major Plasma Proteins\" in NEET Biology?",
       "options": [
-        "Neutrophil",
-        "Basophil",
-        "Monocyte",
-        "Eosinophil"
+        "Needed for blood clotting / coagulation",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Monocytes and Lymphocytes are agranulocytes (lacking cytoplasmic granules)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Needed for blood clotting / coagulation\". Remember using: \"Fibrinogen Clots, Globulin Defends, Albumin Osmotic Balance\"."
     }
   },
   {
@@ -158,65 +137,71 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
-    "topicId": "bio-top-15-2",
-    "topicTitle": "Cardiac Cycle & Valves",
-    "topic": "Atrioventricular Valves: Tricuspid vs Bicuspid (Mitral)",
+    "classLevel": 11,
+    "topicId": "bio-top-15-1",
+    "topicTitle": "Relative Abundance of White Blood Cells (WBC Abundance)",
+    "topic": "Relative Abundance of White Blood Cells (WBC Abundance)",
     "mnemonicNumber": 3,
-    "title": "Heart Valves: RAT vs LAB (Right Atrium = Tricuspid, Left Atrium = Bicuspid)",
-    "badgeText": "Memory Trick",
+    "title": "Relative Abundance of White Blood Cells (WBC Abundance): \"Never Let Monkeys Eat Bananas\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "acronym",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "RAT (Right Atrioventricular = Tricuspid) | LAB (Left Atrioventricular = Bicuspid / Mitral)",
-    "memoryHook": "Right side has 3 flaps (Tricuspid), Left side has 2 flaps (Bicuspid/Mitral)!",
-    "fact": "The opening between right atrium and right ventricle is guarded by the Tricuspid valve (3 muscular flaps), while between left atrium and left ventricle is the Bicuspid or Mitral valve (2 cusps).",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Never Let Monkeys Eat Bananas",
+    "memoryHook": "Never Let Monkeys Eat Bananas",
+    "fact": "N (Neutrophils): 60 – 65% (Most abundant). L (Lymphocytes): 20 – 25%. M (Monocytes): 6 – 8%. E (Eosinophils): 2 – 3%. B (Basophils): 0.5 – 1% (Least abundant)",
     "breakdown": [
       {
-        "key": "RAT",
-        "label": "Right Atrium-Ventricle -> Tricuspid valve (3 cusps)"
+        "key": "N (Neutrophils)",
+        "label": "60 – 65% (Most abundant)"
       },
       {
-        "key": "LAB",
-        "label": "Left Atrium-Ventricle -> Bicuspid / Mitral valve (2 cusps)"
+        "key": "L (Lymphocytes)",
+        "label": "20 – 25%"
       },
       {
-        "key": "Semilunar Valves",
-        "label": "Guard pulmonary artery and aorta openings"
+        "key": "M (Monocytes)",
+        "label": "6 – 8%"
+      },
+      {
+        "key": "E (Eosinophils)",
+        "label": "2 – 3%"
+      },
+      {
+        "key": "B (Basophils)",
+        "label": "0.5 – 1% (Least abundant)"
       }
     ],
-    "doodleBadge": "RAT vs LAB",
-    "doodleSubtext": "Tricuspid vs Bicuspid",
-    "explanation": "Chordae tendineae attached to papillary muscles prevent these AV valves from turning inside out into the atria during ventricular systole.",
-    "alsoRemember": "First heart sound \"LUB\" occurs on closure of AV (tricuspid/bicuspid) valves.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.3.1.",
-    "neetTrap": "Mitral valve is another name for the BICUSPID valve on the left side, not the right.",
+    "doodleBadge": "Never Let Monkeys Eat Ba",
+    "doodleSubtext": "Relative Abundance of Wh",
+    "explanation": "Decreasing order of concentration for leucocyte types in normal human blood.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Relative Abundance of White Blood Cells (WBC Abundance).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.28",
     "tags": [
-      "Heart",
-      "Valves",
-      "Tricuspid",
-      "Bicuspid",
-      "Mitral"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Relative"
     ],
-    "expandedMeaning": "Anatomical designation of cuspid valves controlling unidirectional blood flow into cardiac ventricles.",
-    "whyItWorks": "Three-letter acronyms RAT and LAB immediately solve side-to-valve matching.",
-    "visualDescription": "A diagram of heart cross-section highlighting 3 cusps on right and 2 cusps on left.",
-    "neetRelevance": "Tested annually in valve anatomy and cardiac cycle questions.",
-    "commonMistake": "Placing the tricuspid valve on the left side.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.3.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 28,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The bicuspid (mitral) valve guards the opening between:",
+      "question": "Which of the following is associated with \"Relative Abundance of White Blood Cells (WBC Abundance)\" in NEET Biology?",
       "options": [
-        "Right atrium and right ventricle",
-        "Left atrium and left ventricle",
-        "Right ventricle and pulmonary artery",
-        "Left ventricle and aorta"
+        "N (Neutrophils): 60 – 65% (Most abundant)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The bicuspid (mitral) valve guards the opening between the left atrium and left ventricle."
+      "answerIndex": 0,
+      "explanation": "Correct: \"N (Neutrophils): 60 – 65% (Most abundant)\". Remember using: \"Never Let Monkeys Eat Bananas\"."
     }
   },
   {
@@ -225,69 +210,59 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
-    "topicId": "bio-top-15-2",
-    "topicTitle": "Cardiac Conduction System",
-    "topic": "Heart Electrical Impulse Pathway",
+    "classLevel": 11,
+    "topicId": "bio-top-15-1",
+    "topicTitle": "Granulocytes vs Agranulocytes",
+    "topic": "Granulocytes vs Agranulocytes",
     "mnemonicNumber": 4,
-    "title": "Heart Electrical Conduction: Send A Big Powerful Pulse (SAN -> AVN -> Bundle of His -> Purkinje Fibres)",
-    "badgeText": "Sequence",
-    "importance": "High Yield",
+    "title": "Granulocytes vs Agranulocytes: \"Gran Grandpa BEN, Agran Lympho Mono\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFE681",
+    "cardColor": "#F7F0FF",
     "badgeColor": "#A66CFF",
-    "mnemonic": "SAN (Right Atrium Top) -> AVN (Right Atrium Bottom) -> AV Bundle (Bundle of His) -> Bundle Branches -> Purkinje Fibres",
-    "memoryHook": "SAN is the pacemaker (70-75 bpm) -> hands off signal to AVN -> races down Bundle of His in septum -> Purkinje fibres spread wave across ventricular walls!",
-    "fact": "The nodal cardiac pathway: SAN (70-75 impulses/min) initiates action potentials, transferred to AVN, then to AV bundle (Bundle of His), dividing into right & left bundle branches, branching into Purkinje fibres in ventricular myocardium.",
+    "mnemonic": "Gran Grandpa BEN, Agran Lympho Mono",
+    "memoryHook": "Gran Grandpa BEN, Agran Lympho Mono",
+    "fact": "Granulocytes: Basophils, Eosinophils, Neutrophils (contain cytoplasmic granules). Agranulocytes: Lymphocytes, Monocytes (lack cytoplasmic granules)",
     "breakdown": [
       {
-        "key": "SAN (Sinoatrial Node)",
-        "label": "Natural Pacemaker, generates maximum action potentials (70-75/min)"
+        "key": "Granulocytes",
+        "label": "Basophils, Eosinophils, Neutrophils (contain cytoplasmic granules)"
       },
       {
-        "key": "AVN (Atrioventricular Node)",
-        "label": "Relays signal with slight delay allowing atrial emptying"
-      },
-      {
-        "key": "AV Bundle (Bundle of His)",
-        "label": "Traverses the interventricular septum"
-      },
-      {
-        "key": "Purkinje Fibres",
-        "label": "Minute fibres throughout ventricular musculature causing coordinated ventricular contraction"
+        "key": "Agranulocytes",
+        "label": "Lymphocytes, Monocytes (lack cytoplasmic granules)"
       }
     ],
-    "doodleBadge": "SAN -> AVN -> His -> Purkinje",
-    "doodleSubtext": "Conduction Track",
-    "explanation": "SAN generates the highest frequency of action potentials and sets the sinus rhythm, making it the master pacemaker.",
-    "alsoRemember": "SAN is located in the right upper corner of the right atrium.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.3.1.",
-    "neetTrap": "Both SAN and AVN are located in the RIGHT atrium, not the left atrium.",
+    "doodleBadge": "Gran Grandpa BEN, Agran ",
+    "doodleSubtext": "Granulocytes vs Agranulo",
+    "explanation": "Histological division of white blood cells based on presence of cytoplasmic granules.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Granulocytes vs Agranulocytes.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.28",
     "tags": [
-      "Pacemaker",
-      "SAN",
-      "AVN",
-      "Purkinje",
-      "Conduction"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Granulocytes"
     ],
-    "expandedMeaning": "Anatomical sequence of specialized autorhythmic nodal tissue regulating heartbeat.",
-    "whyItWorks": "Direct step-by-step pathway from master node to ventricular muscle walls.",
-    "visualDescription": "Heart outline showing electrical wave moving from SAN at top right atrium down through septum to apex.",
-    "neetRelevance": "Core topic for cardiac impulse conduction and pacemaker MCQs.",
-    "commonMistake": "Thinking the AV node is located in the left atrium.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.3.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 28,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which part of the cardiac nodal system generates the maximum number of action potentials per minute (70-75/min)?",
+      "question": "Which of the following is associated with \"Granulocytes vs Agranulocytes\" in NEET Biology?",
       "options": [
-        "AV Node",
-        "Purkinje fibres",
-        "Bundle of His",
-        "SA Node"
+        "Gran Grandpa BEN, Agran Lympho Mono",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 3,
-      "explanation": "The Sinoatrial Node (SAN) has the highest intrinsic rate of autorhythmicity (70-75/min) and functions as pacemaker."
+      "answerIndex": 0,
+      "explanation": "Histological division of white blood cells based on presence of cytoplasmic granules."
     }
   },
   {
@@ -296,69 +271,67 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
-    "topicId": "bio-top-15-3",
-    "topicTitle": "ECG Waves",
-    "topic": "Electrocardiogram Wave Interpretation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-1",
+    "topicTitle": "Specific WBC Functions",
+    "topic": "Specific WBC Functions",
     "mnemonicNumber": 5,
-    "title": "ECG Waves: P = Atrial depolarization, QRS = Ventricular depolarization, T = Ventricular repolarization",
-    "badgeText": "Memory Trick",
+    "title": "Specific WBC Functions: \"Neutro-Mono Phagocytes, Baso Inflame, Eosino Allergy, Lympho Immunity\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "P = Atrial Systole (Depolarization) | QRS = Ventricle Squeeze (Depolarization) | T = Ventricle Relax (Repolarization)",
-    "memoryHook": "P wave squeezes atria, big sharp QRS wave fires ventricles, T wave lets ventricles recover and recharge!",
-    "fact": "In standard ECG: P-wave represents electrical excitation (depolarization) of atria leading to atrial contraction. QRS complex represents depolarization of ventricles (ventricular contraction starts after Q). T-wave represents repolarization of ventricles (return to resting state).",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Neutro-Mono Phagocytes, Baso Inflame, Eosino Allergy, Lympho Immunity",
+    "memoryHook": "Neutro-Mono Phagocytes, Baso Inflame, Eosino Allergy, Lympho Immunity",
+    "fact": "Neutrophils & Monocytes: Phagocytic cells destroying foreign organisms. Basophils: Secrete Histamine, Serotonin, Heparin; involved in inflammatory reactions. Eosinophils: Resist infections and associated with allergic reactions. Lymphocytes: B and T cells responsible for immune responses",
     "breakdown": [
       {
-        "key": "P wave",
-        "label": "Depolarization of Atria -> Atrial contraction"
+        "key": "Neutrophils & Monocytes",
+        "label": "Phagocytic cells destroying foreign organisms"
       },
       {
-        "key": "QRS complex",
-        "label": "Depolarization of Ventricles -> Ventricular contraction"
+        "key": "Basophils",
+        "label": "Secrete Histamine, Serotonin, Heparin; involved in inflammatory reactions"
       },
       {
-        "key": "T wave",
-        "label": "Repolarization of Ventricles -> Ventricular relaxation"
+        "key": "Eosinophils",
+        "label": "Resist infections and associated with allergic reactions"
       },
       {
-        "key": "End of T wave",
-        "label": "Marks the end of ventricular systole"
+        "key": "Lymphocytes",
+        "label": "B and T cells responsible for immune responses"
       }
     ],
-    "doodleBadge": "P - QRS - T",
-    "doodleSubtext": "Atria -> Ventricle -> Reset",
-    "explanation": "By counting the number of QRS complexes in a given time period, one can easily determine the heart rate of an individual.",
-    "alsoRemember": "Atrial repolarization occurs during the QRS complex and is hidden by the large ventricular voltage.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.4.",
-    "neetTrap": "Contraction of ventricles starts shortly AFTER the Q wave, not before.",
+    "doodleBadge": "Neutro-Mono Phagocytes, ",
+    "doodleSubtext": "Specific WBC Functions",
+    "explanation": "Key physiological roles of distinct white blood cell types in immune defense.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Specific WBC Functions.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.28",
     "tags": [
-      "ECG",
-      "P-wave",
-      "QRS",
-      "T-wave",
-      "Cardiology"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Specific"
     ],
-    "expandedMeaning": "Electrophysiological correlation of surface ECG deflections to cardiac mechanical events.",
-    "whyItWorks": "Chronological matching: P (first/small = atria), QRS (huge = ventricle squeeze), T (return = relax).",
-    "visualDescription": "Standard ECG tracing with labeled P wave, Q-R-S spike, and smooth rounded T wave.",
-    "neetRelevance": "One of the most frequently asked diagram-based questions in NEET.",
-    "commonMistake": "Thinking T wave represents atrial repolarization.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 28,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In a standard ECG, which wave/complex represents the depolarization of the ventricles?",
+      "question": "Which of the following is associated with \"Specific WBC Functions\" in NEET Biology?",
       "options": [
-        "P wave",
-        "QRS complex",
-        "T wave",
-        "U wave"
+        "Neutrophils & Monocytes: Phagocytic cells destroying foreign organisms",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The QRS complex represents the electrical depolarization of the ventricles."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Neutrophils & Monocytes: Phagocytic cells destroying foreign organisms\". Remember using: \"Neutro-Mono Phagocytes, Baso Inflame, Eosino Allergy, Lympho Immunity\"."
     }
   },
   {
@@ -367,61 +340,67 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
-    "topicId": "bio-top-15-2",
-    "topicTitle": "Heart Sounds",
-    "topic": "First (LUB) vs Second (DUB) Heart Sounds",
+    "classLevel": 11,
+    "topicId": "bio-top-15-1",
+    "topicTitle": "Erythrocytes (RBCs) Key Characteristics",
+    "topic": "Erythrocytes (RBCs) Key Characteristics",
     "mnemonicNumber": 6,
-    "title": "Heart Sounds: LUB = AV Valves Close | DUB = Semilunar Valves Close",
-    "badgeText": "Comparison",
-    "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "LUB (1st Sound, Long & Low pitch) = Closure of Tricuspid + Bicuspid | DUB (2nd Sound, Short & Sharp) = Closure of Semilunar Valves",
-    "memoryHook": "LUB shuts the inner doors (AV valves at start of ventricular systole). DUB slams the outer highway exits (Semilunar valves at start of ventricular diastole)!",
-    "fact": "First heart sound (LUB) is produced by closure of atrioventricular (tricuspid & bicuspid) valves at onset of ventricular systole. Second heart sound (DUB) is produced by closure of semilunar valves at onset of ventricular diastole.",
+    "title": "Erythrocytes (RBCs) Key Characteristics: \"5 to 5.5 Million, Spleen Graveyard, Biconcave No Nucleus\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "5 to 5.5 Million, Spleen Graveyard, Biconcave No Nucleus",
+    "memoryHook": "5 to 5.5 Million, Spleen Graveyard, Biconcave No Nucleus",
+    "fact": "Count: 5.0 to 5.5 million/mm3 of blood. Features: Enucleate (lacks nucleus in mammals), biconcave shape, 120 days lifespan. Destruction Site: Spleen is known as the graveyard of RBCs. Hemoglobin: 12–16 g of Hb per 100 mL of healthy blood",
     "breakdown": [
       {
-        "key": "LUB (First sound)",
-        "label": "Closure of AV valves (bicuspid & tricuspid), lower pitch, longer duration"
+        "key": "Count",
+        "label": "5.0 to 5.5 million/mm3 of blood"
       },
       {
-        "key": "DUB (Second sound)",
-        "label": "Closure of semilunar valves (aortic & pulmonary), higher pitch, shorter duration"
+        "key": "Features",
+        "label": "Enucleate (lacks nucleus in mammals), biconcave shape, 120 days lifespan"
+      },
+      {
+        "key": "Destruction Site",
+        "label": "Spleen is known as the graveyard of RBCs"
+      },
+      {
+        "key": "Hemoglobin",
+        "label": "12–16 g of Hb per 100 mL of healthy blood"
       }
     ],
-    "doodleBadge": "LUB: AV shut\nDUB: Semilunar shut",
-    "doodleSubtext": "Heart Acoustics",
-    "explanation": "Heart sounds are caused by the turbulent blood vibration when valves slam shut against backflow pressure.",
-    "alsoRemember": "Cardiac output = Stroke volume (70 mL) × Heart rate (72 bpm) ≈ 5040 mL ≈ 5 Litres/min.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.3.2.",
-    "neetTrap": "Heart sounds are caused by CLOSURE of valves, never by opening of valves.",
+    "doodleBadge": "5 to 5.5 Million, Spleen",
+    "doodleSubtext": "Erythrocytes (RBCs) Key ",
+    "explanation": "Structural, quantitative, and lifecycle parameters of red blood cells. Chapter 15: Body Fluids and Circulation (30 Mnemonics) \tPage 1",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Erythrocytes (RBCs) Key Characteristics.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.28",
     "tags": [
-      "Heart Sounds",
-      "LUB",
-      "DUB",
-      "Valves",
-      "Stethoscope"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Erythrocytes"
     ],
-    "expandedMeaning": "Acoustic cardiac cycle markers produced by synchronous closure of cuspid and semilunar valves.",
-    "whyItWorks": "AV = first alphabetical & first sound (LUB); Semilunar = second sound (DUB).",
-    "visualDescription": "Phonocardiogram showing broader Lub peak followed by sharp Dub spike.",
-    "neetRelevance": "Common in assertion-reason and valve association questions.",
-    "commonMistake": "Attributing heart sounds to valve opening.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.3.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 28,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The second heart sound (DUB) is associated with the:",
+      "question": "Which of the following is associated with \"Erythrocytes (RBCs) Key Characteristics\" in NEET Biology?",
       "options": [
-        "Closure of AV valves",
-        "Opening of AV valves",
-        "Closure of semilunar valves",
-        "Opening of semilunar valves"
+        "5.0 to 5.5 million/mm3 of blood",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "DUB is caused by the closure of the semilunar valves at the onset of ventricular diastole."
+      "answerIndex": 0,
+      "explanation": "Correct: \"5.0 to 5.5 million/mm3 of blood\". Remember using: \"5 to 5.5 Million, Spleen Graveyard, Biconcave No Nucleus\"."
     }
   },
   {
@@ -430,68 +409,63 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
-    "topicId": "bio-top-15-2",
-    "topicTitle": "Cardiac Output Formula",
-    "topic": "Calculation of Cardiac Output and Stroke Volume",
+    "classLevel": 11,
+    "topicId": "bio-top-15-1",
+    "topicTitle": "Thrombocytes (Platelets) & Megakaryocytes",
+    "topic": "Thrombocytes (Platelets) & Megakaryocytes",
     "mnemonicNumber": 7,
-    "title": "Cardiac Output: CO = SV × HR (70 mL × 72 bpm ≈ 5 L/min)",
-    "badgeText": "Formula",
+    "title": "Thrombocytes (Platelets) & Megakaryocytes: \"Megakaryocyte Fragments, 1.5 to 3.5 Lakhs, Clotting\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "CO = SV × HR (Cardiac Output = Stroke Volume 70mL × Heart Rate 72/min = 5040 mL/min ≈ 5 Litres)",
-    "memoryHook": "Each ventricular pump ejects 70 mL (Stroke Volume). In one minute of 72 beats, your entire blood volume (~5 Litres) circulates through the body!",
-    "fact": "Cardiac output is defined as the volume of blood pumped out by each ventricle per minute. It is calculated by multiplying stroke volume (~70 mL) by heart rate (~72 beats/min), yielding approx. 5000 mL or 5 L in a resting adult.",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Megakaryocyte Fragments, 1.5 to 3.5 Lakhs, Clotting",
+    "memoryHook": "Megakaryocyte Fragments, 1.5 to 3.5 Lakhs, Clotting",
+    "fact": "Origin: Cell fragments produced from Megakaryocytes (special cells in bone marrow). Normal Count: 1,50,000 to 3,50,000 platelets/mm3 of blood. Function: Release coagulation substances; reduction leads to clotting disorders and excess blood loss",
     "breakdown": [
       {
-        "key": "Stroke Volume (SV)",
-        "label": "Volume of blood pumped by each ventricle during each cardiac cycle (~70 mL)"
+        "key": "Origin",
+        "label": "Cell fragments produced from Megakaryocytes (special cells in bone marrow)"
       },
       {
-        "key": "Heart Rate (HR)",
-        "label": "Number of heartbeats per minute (~72 bpm)"
+        "key": "Normal Count",
+        "label": "1,50,000 to 3,50,000 platelets/mm3 of blood"
       },
       {
-        "key": "Cardiac Output (CO)",
-        "label": "SV × HR = 70 × 72 ≈ 5040 mL/min (5 Litres/min)"
-      },
-      {
-        "key": "Athletes Advantage",
-        "label": "Trained athletes have higher stroke volume and lower resting heart rate"
+        "key": "Function",
+        "label": "Release coagulation substances; reduction leads to clotting disorders and excess blood loss"
       }
     ],
-    "doodleBadge": "CO = SV × HR\n70 × 72 = 5L",
-    "doodleSubtext": "5 Litres/min",
-    "explanation": "Both ventricles pump equal volumes of blood into their respective circuits (pulmonary and systemic) in a balanced state.",
-    "alsoRemember": "Sympathetic nerves increase HR and strength of contraction (increasing CO); parasympathetic/vagus nerves decrease HR.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.3.2.",
-    "neetTrap": "Stroke volume is the volume pumped by EACH ventricle, not both ventricles combined.",
+    "doodleBadge": "Megakaryocyte Fragments,",
+    "doodleSubtext": "Thrombocytes (Platelets)",
+    "explanation": "Cellular origin, normal count range, and physiological significance of platelets.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Thrombocytes (Platelets) & Megakaryocytes.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.29",
     "tags": [
-      "Cardiac Output",
-      "Stroke Volume",
-      "Heart Rate",
-      "Hemodynamics"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Thrombocytes"
     ],
-    "expandedMeaning": "Volumetric hemodynamic equation determining tissue perfusion capacity per minute.",
-    "whyItWorks": "Simple arithmetic product of individual beat volume and beats per minute.",
-    "visualDescription": "70 mL measuring beaker multiplied by 72 beats giving a large 5-litre jug.",
-    "neetRelevance": "Direct numerical and conceptual questions on cardiac output and athletic adaptation.",
-    "commonMistake": "Doubling the output thinking both ventricles contribute 5L each to systemic circuit.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.3.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 29,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "If an individual has a stroke volume of 80 mL and a heart rate of 75 beats per minute, what is their cardiac output?",
+      "question": "Which of the following is associated with \"Thrombocytes (Platelets) & Megakaryocytes\" in NEET Biology?",
       "options": [
-        "5000 mL/min",
-        "6000 mL/min",
-        "4800 mL/min",
-        "5600 mL/min"
+        "Cell fragments produced from Megakaryocytes (special cells in bone marrow)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Cardiac Output = SV × HR = 80 mL × 75 bpm = 6000 mL/min (6 L/min)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Cell fragments produced from Megakaryocytes (special cells in bone marrow)\". Remember using: \"Megakaryocyte Fragments, 1.5 to 3.5 Lakhs, Clotting\"."
     }
   },
   {
@@ -500,73 +474,67 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
     "topicId": "bio-top-15-1",
-    "topicTitle": "Blood Clotting Cascade",
-    "topic": "Enzymatic Cascade of Blood Coagulation",
+    "topicTitle": "ABO Blood Grouping Antigens & Antibodies",
+    "topic": "ABO Blood Grouping Antigens & Antibodies",
     "mnemonicNumber": 8,
-    "title": "Blood Clotting Cascade: Thromboplastin -> Prothrombinase -> Thrombin -> Fibrin",
-    "badgeText": "Sequence",
-    "importance": "High Yield",
-    "difficulty": "medium",
+    "title": "ABO Blood Grouping Antigens & Antibodies: \"Antigen on RBC, Antibody in Plasma\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
+    "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFE681",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#FF8D78",
-    "mnemonic": "Trauma -> Thromboplastin + Ca2+ -> Thrombokinase (Prothrombinase) -> Prothrombin to Thrombin -> Fibrinogen to Fibrin Mesh",
-    "memoryHook": "Tissue injury triggers Thromboplastin -> creates Thrombokinase enzyme -> clips Prothrombin into active Thrombin -> Thrombin weaves soluble Fibrinogen into solid Fibrin threads!",
-    "fact": "Blood coagulation involves an enzymatic cascade: Injured tissue and platelets release thromboplastin, forming thrombokinase enzyme complex. With Ca²⁺ ions, thrombokinase converts inactive prothrombin into thrombin. Thrombin converts soluble fibrinogen into insoluble fibrin mesh that traps formed elements.",
+    "mnemonic": "Antigen on RBC, Antibody in Plasma",
+    "memoryHook": "Antigen on RBC, Antibody in Plasma",
+    "fact": "Group A: A antigen on RBC, anti-B antibody in plasma. Group B: B antigen on RBC, anti-A antibody in plasma. Group AB: Both A & B antigens, NO antibodies (Universal Recipient). Group O: NO antigens, Both anti-A & anti-B antibodies (Universal Donor)",
     "breakdown": [
       {
-        "key": "Step 1: Release",
-        "label": "Platelets/damaged tissues release thromboplastins"
+        "key": "Group A",
+        "label": "A antigen on RBC, anti-B antibody in plasma"
       },
       {
-        "key": "Step 2: Enzyme Activation",
-        "label": "Thrombokinase enzyme complex forms in presence of Ca²⁺"
+        "key": "Group B",
+        "label": "B antigen on RBC, anti-A antibody in plasma"
       },
       {
-        "key": "Step 3: Prothrombin -> Thrombin",
-        "label": "Thrombokinase converts plasma prothrombin into active thrombin"
+        "key": "Group AB",
+        "label": "Both A & B antigens, NO antibodies (Universal Recipient)"
       },
       {
-        "key": "Step 4: Fibrinogen -> Fibrin",
-        "label": "Thrombin cleaves fibrinogen into insoluble fibrin polymer threads"
-      },
-      {
-        "key": "Essential Ion",
-        "label": "Calcium ions (Ca²⁺) play a crucial role at every step"
+        "key": "Group O",
+        "label": "NO antigens, Both anti-A & anti-B antibodies (Universal Donor)"
       }
     ],
-    "doodleBadge": "Prothrombin -> Thrombin\nFibrinogen -> Fibrin",
-    "doodleSubtext": "Ca2+ Dependent",
-    "explanation": "Calcium ions (Ca²⁺ / Factor IV) are indispensable cofactors in clotting; chelating agents like EDTA or sodium citrate prevent clotting by binding calcium.",
-    "alsoRemember": "Vitamin K is required by the liver for synthesis of clotting factors (prothrombin).",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.1.4.",
-    "neetTrap": "Serum is plasma MINUS clotting factors (Serum = Plasma - Clotting factors).",
+    "doodleBadge": "Antigen on RBC, Antibody",
+    "doodleSubtext": "ABO Blood Grouping Antig",
+    "explanation": "Distribution of surface glycoproteins and plasma immunoglobulins defining ABO compatibility.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in ABO Blood Grouping Antigens & Antibodies.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.29",
     "tags": [
-      "Clotting",
-      "Thrombin",
-      "Fibrinogen",
-      "Fibrin",
-      "Calcium"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "ABO"
     ],
-    "expandedMeaning": "Biochemical sequential enzymatic cascade transforming liquid plasma into a solid hemostatic plug.",
-    "whyItWorks": "Prefix \"Pro-\" means inactive precursor, suffix \"-gen\" means generator; thrombin activates fibrin.",
-    "visualDescription": "Cascade flow chart showing injury leading to Ca2+ catalyzed reactions and a net trapping RBCs.",
-    "neetRelevance": "Extremely popular topic in NEET biochemistry and animal physiology.",
-    "commonMistake": "Thinking thrombin converts prothrombin rather than fibrinogen.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.1.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 29,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which mineral ion is essential for both conversion of prothrombin to thrombin and fibrinogen to fibrin?",
+      "question": "Which of the following is associated with \"ABO Blood Grouping Antigens & Antibodies\" in NEET Biology?",
       "options": [
-        "Sodium (Na+)",
-        "Potassium (K+)",
-        "Calcium (Ca2+)",
-        "Magnesium (Mg2+)"
+        "A antigen on RBC, anti-B antibody in plasma",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Calcium ions (Ca²⁺) are essential cofactors at multiple stages of the blood coagulation cascade."
+      "answerIndex": 0,
+      "explanation": "Correct: \"A antigen on RBC, anti-B antibody in plasma\". Remember using: \"Antigen on RBC, Antibody in Plasma\"."
     }
   },
   {
@@ -575,73 +543,59 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
     "topicId": "bio-top-15-1",
-    "topicTitle": "Erythroblastosis Foetalis",
-    "topic": "Rh Incompatibility in Pregnancy",
+    "topicTitle": "Universal Donors & Recipients (Exact Rh Subtype)",
+    "topic": "Universal Donors & Recipients (Exact Rh Subtype)",
     "mnemonicNumber": 9,
-    "title": "Erythroblastosis Foetalis: Rh- Negative Mother + Rh+ Positive Second Child",
-    "badgeText": "Exception",
-    "importance": "High Yield",
+    "title": "Universal Donors & Recipients (Exact Rh Subtype): \"O Negative Universal Donor, AB Positive Universal Recipient\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Mom is Rh-Negative, Dad is Rh-Positive -> 1st Rh+ baby sensitizes mom at delivery -> 2nd Rh+ baby attacked by maternal anti-Rh IgG antibodies!",
-    "memoryHook": "First baby escapes unharmed during pregnancy, but exposure during delivery makes mom produce anti-Rh antibodies. In the second Rh+ pregnancy, antibodies cross placenta and destroy fetal RBCs!",
-    "fact": "Erythroblastosis foetalis occurs when an Rh-negative mother carries an Rh-positive fetus. During first delivery, maternal blood is exposed to Rh antigens, producing anti-Rh antibodies (IgG). In subsequent Rh-positive pregnancies, maternal IgG antibodies cross placenta, destroying fetal RBCs causing severe anemia and jaundice.",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "O Negative Universal Donor, AB Positive Universal Recipient",
+    "memoryHook": "O Negative Universal Donor, AB Positive Universal Recipient",
+    "fact": "Universal Donor: O negative (O-ve) because it lacks A, B, and Rh antigens. Universal Recipient: AB positive (AB+ve) because it lacks anti-A, anti-B, and anti-Rh antibodies",
     "breakdown": [
       {
-        "key": "Mother Rh Type",
-        "label": "Rh-negative (must be negative)"
+        "key": "Universal Donor",
+        "label": "O negative (O-ve) because it lacks A, B, and Rh antigens"
       },
       {
-        "key": "Fetus Rh Type",
-        "label": "Rh-positive (inherited from Rh-positive father)"
-      },
-      {
-        "key": "First Pregnancy",
-        "label": "Normal delivery, but maternal sensitization occurs"
-      },
-      {
-        "key": "Second Pregnancy",
-        "label": "Maternal anti-Rh IgG crosses placenta -> Hemolysis of fetal RBCs"
-      },
-      {
-        "key": "Prevention",
-        "label": "Administer anti-Rh antibodies (RhoGAM) to mother immediately after first delivery"
+        "key": "Universal Recipient",
+        "label": "AB positive (AB+ve) because it lacks anti-A, anti-B, and anti-Rh antibodies"
       }
     ],
-    "doodleBadge": "Rh- Mom x Rh+ Fetus",
-    "doodleSubtext": "IgG Hemolysis",
-    "explanation": "Administration of anti-Rh antibodies to the mother immediately after first delivery destroys fetal Rh+ cells before her immune system can develop memory.",
-    "alsoRemember": "Rh antigen is named after Rhesus monkey where it was first observed.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.1.3.2.",
-    "neetTrap": "The condition occurs ONLY when MOTHER is Rh-negative and FETUS is Rh-positive, never the reverse.",
+    "doodleBadge": "O Negative Universal Don",
+    "doodleSubtext": "Universal Donors & Recip",
+    "explanation": "Precise Rh and ABO blood subtypes for emergency universal transfusions.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Universal Donors & Recipients (Exact Rh Subtype).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.29",
     "tags": [
-      "Rh Factor",
-      "Erythroblastosis",
-      "Pregnancy",
-      "Antibodies",
-      "IgG"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Universal"
     ],
-    "expandedMeaning": "Immunological hemolytic disease of the newborn caused by transplacental maternal Rh antibody transfer.",
-    "whyItWorks": "Rh-negative mom vs Rh-positive baby formula.",
-    "visualDescription": "First pregnancy showing peaceful birth; second pregnancy showing maternal Y-shaped IgG antibodies attacking fetal RBCs.",
-    "neetRelevance": "Guaranteed question in genetics and blood grouping.",
-    "commonMistake": "Thinking the first child is the one affected.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.1.3.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 29,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Erythroblastosis foetalis can be avoided by administering which of the following to the Rh-negative mother immediately after delivery of the first Rh-positive child?",
+      "question": "Which of the following is associated with \"Universal Donors & Recipients (Exact Rh Subtype)\" in NEET Biology?",
       "options": [
-        "Anti-Rh antibodies (RhoGAM)",
-        "Rh antigens",
-        "Vitamin K",
-        "Calcium gluconate"
+        "O Negative Universal Donor, AB Positive Universal Recipient",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
       "answerIndex": 0,
-      "explanation": "Administering anti-Rh antibodies to the mother immediately after birth prevents her immune system from generating active anti-Rh memory."
+      "explanation": "Precise Rh and ABO blood subtypes for emergency universal transfusions."
     }
   },
   {
@@ -650,69 +604,67 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
     "topicId": "bio-top-15-1",
-    "topicTitle": "ABO Blood Groups & Antibodies",
-    "topic": "Antigens on RBCs vs Antibodies in Plasma",
+    "topicTitle": "Erythroblastosis Foetalis Mechanism",
+    "topic": "Erythroblastosis Foetalis Mechanism",
     "mnemonicNumber": 10,
-    "title": "ABO Blood Group: O is Universal Donor (No Antigens) | AB is Universal Recipient (No Antibodies)",
-    "badgeText": "Comparison",
+    "title": "Erythroblastosis Foetalis Mechanism: \"Rh Negative Mother, Rh Positive Foetus, Anti-Rh Antibodies Kill\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Blood O = Zero Antigens (Can give to all!) | Blood AB = Zero Antibodies (Can receive from all!)",
-    "memoryHook": "O looks like a zero (0 antigens on RBC surface). AB has both antigens, so it makes zero antibodies in plasma to attack incoming blood!",
-    "fact": "Blood group A has antigen A and anti-B antibodies. Group B has antigen B and anti-A antibodies. Group AB has both A & B antigens and NO antibodies (Universal Recipient). Group O has NEITHER A nor B antigens and both anti-A & anti-B antibodies (Universal Donor).",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Rh Negative Mother, Rh Positive Foetus, Anti-Rh Antibodies Kill",
+    "memoryHook": "Rh Negative Mother, Rh Positive Foetus, Anti-Rh Antibodies Kill",
+    "fact": "Condition: Rh -ve mother carrying Rh +ve foetus. Sensitization: Blood mixing during 1st delivery causes mother to form anti-Rh antibodies. Subsequent Pregnancy: Anti-Rh antibodies cross placenta and destroy fetal RBCs causing severe anemia & jaundice. Prevention: Administer Anti-Rh antibodies (RhOGAM) to mother immediately after 1st delivery",
     "breakdown": [
       {
-        "key": "Group A",
-        "label": "Antigen A on RBCs; Anti-B antibody in plasma"
+        "key": "Condition",
+        "label": "Rh -ve mother carrying Rh +ve foetus"
       },
       {
-        "key": "Group B",
-        "label": "Antigen B on RBCs; Anti-A antibody in plasma"
+        "key": "Sensitization",
+        "label": "Blood mixing during 1st delivery causes mother to form anti-Rh antibodies"
       },
       {
-        "key": "Group AB",
-        "label": "Both A & B antigens on RBCs; NO antibodies in plasma (Universal Recipient)"
+        "key": "Subsequent Pregnancy",
+        "label": "Anti-Rh antibodies cross placenta and destroy fetal RBCs causing severe anemia & jaundice"
       },
       {
-        "key": "Group O",
-        "label": "NO antigens on RBCs; Both Anti-A & Anti-B antibodies in plasma (Universal Donor)"
+        "key": "Prevention",
+        "label": "Administer Anti-Rh antibodies (RhOGAM) to mother immediately after 1st delivery"
       }
     ],
-    "doodleBadge": "O = 0 Antigens (Donor)\nAB = 0 Antibodies (Receiver)",
-    "doodleSubtext": "ABO Compatibility",
-    "explanation": "Karl Landsteiner discovered the ABO blood groups based on surface glycoprotein antigens.",
-    "alsoRemember": "Specifically, O-negative is the true universal donor and AB-positive is the true universal recipient.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.1.3.1.",
-    "neetTrap": "Group O plasma has BOTH anti-A and anti-B antibodies.",
+    "doodleBadge": "Rh Negative Mother, Rh P",
+    "doodleSubtext": "Erythroblastosis Foetali",
+    "explanation": "Incompatibility condition leading to fetal hemolytic anemia and preventive immunotherapy.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Erythroblastosis Foetalis Mechanism.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.29",
     "tags": [
-      "Blood Groups",
-      "ABO",
-      "Antigens",
-      "Antibodies",
-      "Landsteiner"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Erythroblastosis"
     ],
-    "expandedMeaning": "Immunohematological matching rule governing safe erythrocyte transfusions.",
-    "whyItWorks": "O = 0 antigens, AB = zero antibodies.",
-    "visualDescription": "4 RBC surfaces: A has triangles, B has circles, AB has both, O is completely smooth (naked).",
-    "neetRelevance": "Basic fundamental concept tested in both Class 11 physiology and Class 12 genetics.",
-    "commonMistake": "Saying group AB has no antigens.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.1.3.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 29,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which blood group lacks both anti-A and anti-B antibodies in its plasma?",
+      "question": "Which of the following is associated with \"Erythroblastosis Foetalis Mechanism\" in NEET Biology?",
       "options": [
-        "Group O",
-        "Group AB",
-        "Group A",
-        "Group B"
+        "Rh -ve mother carrying Rh +ve foetus",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Blood group AB individuals have both A and B antigens on RBCs and lack anti-A/anti-B antibodies in plasma."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Rh -ve mother carrying Rh +ve foetus\". Remember using: \"Rh Negative Mother, Rh Positive Foetus, Anti-Rh Antibodies Kill\"."
     }
   },
   {
@@ -721,68 +673,63 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
     "topicId": "bio-top-15-2",
-    "topicTitle": "Hepatic Portal System",
-    "topic": "Vascular Connection between Digestive Tract and Liver",
+    "topicTitle": "Blood Clotting Cascade Enzymes",
+    "topic": "Blood Clotting Cascade Enzymes",
     "mnemonicNumber": 11,
-    "title": "Hepatic Portal Vein: Gut to Liver First (Digestive Tract -> Liver -> Inferior Vena Cava)",
-    "badgeText": "Sequence",
+    "title": "Blood Clotting Cascade Enzymes: \"Thrombokinase converts Prothrombin to Thrombin, Thrombin converts Fibrinogen to Fibrin\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EFFBF4",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Gut Veins -> Hepatic Portal Vein -> Liver Capillaries (Processing) -> Hepatic Vein -> Inferior Vena Cava -> Heart",
-    "memoryHook": "Nutrients absorbed from intestine do not rush directly to heart! They take the portal detour to the Liver kitchen for detox and glucose regulation first!",
-    "fact": "A unique vascular connection exists between the digestive tract and liver called the Hepatic Portal System. The hepatic portal vein carries blood from intestine to the liver before it is delivered to the systemic circulation via the hepatic vein.",
+    "mnemonic": "Thrombokinase converts Prothrombin to Thrombin, Thrombin converts Fibrinogen to Fibrin",
+    "memoryHook": "Thrombokinase converts Prothrombin to Thrombin, Thrombin converts Fibrinogen to Fibrin",
+    "fact": "Step 1: Damaged tissues/platelets release Thromboplastin forming enzyme complex Thrombokinase. Step 2: Prothrombin --(Thrombokinase + Ca2+)--> Thrombin. Step 3: Fibrinogen --(Thrombin)--> Fibrin threads (mesh capturing dead elements)",
     "breakdown": [
       {
-        "key": "Origin",
-        "label": "Capillaries of stomach, small and large intestine, spleen"
+        "key": "Step 1",
+        "label": "Damaged tissues/platelets release Thromboplastin forming enzyme complex Thrombokinase"
       },
       {
-        "key": "Vessel",
-        "label": "Hepatic Portal Vein carries nutrient-rich, deoxygenated blood"
+        "key": "Step 2",
+        "label": "Prothrombin --(Thrombokinase + Ca2+)--> Thrombin"
       },
       {
-        "key": "Destination",
-        "label": "Liver sinusoids for nutrient processing, glycogen storage, detox"
-      },
-      {
-        "key": "Exit",
-        "label": "Hepatic Vein drains blood into Inferior Vena Cava"
+        "key": "Step 3",
+        "label": "Fibrinogen --(Thrombin)--> Fibrin threads (mesh capturing dead elements)"
       }
     ],
-    "doodleBadge": "Intestine -> Liver -> Heart",
-    "doodleSubtext": "Portal Highway",
-    "explanation": "A portal system begins and ends in capillaries, without passing through the heart in between.",
-    "alsoRemember": "The hypophyseal portal system connects the hypothalamus to the anterior pituitary gland.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.3.3.",
-    "neetTrap": "Hepatic Portal Vein brings blood INTO the liver; Hepatic Vein takes blood OUT of the liver to IVC.",
+    "doodleBadge": "Thrombokinase converts P",
+    "doodleSubtext": "Blood Clotting Cascade E",
+    "explanation": "Sequential enzymatic cascade converting soluble plasma proteins into an insoluble fibrin clot.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Blood Clotting Cascade Enzymes.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.29",
     "tags": [
-      "Circulation",
-      "Hepatic Portal",
-      "Liver",
-      "Blood Vessels"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Blood"
     ],
-    "expandedMeaning": "Specialized venous circulation directing intestinal venous outflow through hepatic sinusoidal capillaries.",
-    "whyItWorks": "Portal = gateway (intestine -> liver checkpoint -> systemic circulation).",
-    "visualDescription": "Vascular map connecting digestive organs through blue hepatic portal vein into liver lobe.",
-    "neetRelevance": "Frequently asked definition of portal system and vessel identification.",
-    "commonMistake": "Confusing Hepatic Artery (oxygenated) with Hepatic Portal Vein (nutrient-rich deoxygenated).",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.3.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 29,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The hepatic portal vein carries blood to the liver from the:",
+      "question": "Which of the following is associated with \"Blood Clotting Cascade Enzymes\" in NEET Biology?",
       "options": [
-        "Heart",
-        "Kidneys",
-        "Intestine",
-        "Lungs"
+        "Damaged tissues/platelets release Thromboplastin forming enzyme complex Thrombok",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "The hepatic portal vein collects deoxygenated, nutrient-rich blood from the digestive tract (intestine) and delivers it to the liver."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Damaged tissues/platelets release Thromboplastin forming enzyme complex Thrombokinase\". Remember using: \"Thrombokinase converts Prothrombin to Thrombin, Thrombin converts Fibrinogen to Fibrin\"."
     }
   },
   {
@@ -791,69 +738,59 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
     "topicId": "bio-top-15-2",
-    "topicTitle": "Artery vs Vein Wall Layers",
-    "topic": "Three Tunics of Blood Vessels",
+    "topicTitle": "Key Ion Required for Blood Clotting",
+    "topic": "Key Ion Required for Blood Clotting",
     "mnemonicNumber": 12,
-    "title": "Blood Vessel 3 Layers: Tunica Intima (Squamous), Media (Smooth Muscle), Externa (Collagen)",
-    "badgeText": "Classification",
-    "importance": "Medium Yield",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Inside to Outside: Tunica Intima (Inner Endothelium) -> Tunica Media (Middle Muscle & Elastic) -> Tunica Externa (Outer Fibrous Collagen)",
-    "memoryHook": "Intima is Intimate with blood (inner squamous cells). Media is Middle Muscle. Externa is External fibrous armor!",
-    "fact": "Arteries and veins consist of three layers: an inner Tunica Intima of squamous endothelium, a middle Tunica Media of smooth muscle and elastic fibres (much thicker in arteries), and an outer Tunica Externa of fibrous connective tissue with collagen fibres.",
+    "title": "Key Ion Required for Blood Clotting: \"Calcium Ion (Ca2+) is Crucial for Clotting\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Calcium Ion (Ca2+) is Crucial for Clotting",
+    "memoryHook": "Calcium Ion (Ca2+) is Crucial for Clotting",
+    "fact": "Role: Calcium ions (Ca2+) play an essential role in multiple steps of the coagulation cascade. Clinical: Anticoagulants like EDTA or Sodium Citrate bind Ca2+ to prevent clotting in stored blood",
     "breakdown": [
       {
-        "key": "Tunica Intima",
-        "label": "Innermost layer of flat squamous endothelial cells lining the lumen"
+        "key": "Role",
+        "label": "Calcium ions (Ca2+) play an essential role in multiple steps of the coagulation cascade"
       },
       {
-        "key": "Tunica Media",
-        "label": "Middle layer of smooth muscle and elastic fibres (thick in arteries, thin in veins)"
-      },
-      {
-        "key": "Tunica Externa",
-        "label": "Outermost layer of fibrous connective tissue with collagen fibres"
-      },
-      {
-        "key": "Key Difference",
-        "label": "Arteries have thick tunica media and narrow lumen; veins have thin media, wide lumen and valves"
+        "key": "Clinical",
+        "label": "Anticoagulants like EDTA or Sodium Citrate bind Ca2+ to prevent clotting in stored blood"
       }
     ],
-    "doodleBadge": "Intima (In) -> Media (Mid) -> Externa (Out)",
-    "doodleSubtext": "3 Vessel Tunics",
-    "explanation": "The thick tunica media in arteries withstands high systolic pressures generated by ventricular ejection.",
-    "alsoRemember": "Capillaries consist of ONLY a single layer of tunica intima (endothelium) to facilitate rapid gas/nutrient exchange.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.3.3.",
-    "neetTrap": "Tunica media is comparatively much THINNER in veins than in arteries.",
+    "doodleBadge": "Calcium Ion (Ca2+) is Cr",
+    "doodleSubtext": "Key Ion Required for Blo",
+    "explanation": "Essential cofactor role of divalent calcium ions in hemostasis. Chapter 15: Body Fluids and Circulation (30 Mnemonics) \tPage 2",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Key Ion Required for Blood Clotting.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.29",
     "tags": [
-      "Blood Vessels",
-      "Artery",
-      "Vein",
-      "Tunica Media",
-      "Endothelium"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Key"
     ],
-    "expandedMeaning": "Histological trilaminar organization of macrovascular blood conduits.",
-    "whyItWorks": "Etymology matches location: Intima (internal), Media (middle), Externa (external).",
-    "visualDescription": "Cross section comparison of a round thick-walled artery vs collapsible wide-lumen vein.",
-    "neetRelevance": "High yield histology matching and true/false statements.",
-    "commonMistake": "Assuming capillaries have all 3 tunics.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.3.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 29,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which tunic of blood vessels is composed of smooth muscle and elastic fibres and is much thicker in arteries than veins?",
+      "question": "Which of the following is associated with \"Key Ion Required for Blood Clotting\" in NEET Biology?",
       "options": [
-        "Tunica intima",
-        "Tunica media",
-        "Tunica externa",
-        "Tunica adventitia"
+        "Calcium Ion (Ca2+) is Crucial for Clotting",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Tunica media is composed of smooth muscle and elastic fibres and is notably thicker in arteries."
+      "answerIndex": 0,
+      "explanation": "Essential cofactor role of divalent calcium ions in hemostasis. Chapter 15: Body Fluids and Circulation (30 Mnemonics) \tPage 2"
     }
   },
   {
@@ -862,65 +799,63 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
     "topicId": "bio-top-15-2",
-    "topicTitle": "Neural & Hormonal Regulation of Heart",
-    "topic": "Sympathetic vs Parasympathetic Control of Cardiac Activity",
+    "topicTitle": "Lymph (Tissue Fluid) Properties",
+    "topic": "Lymph (Tissue Fluid) Properties",
     "mnemonicNumber": 13,
-    "title": "Heart Regulation: Sympathetic Accelerates (Fight/Flight) | Parasympathetic (Vagus) Slows Down",
-    "badgeText": "Comparison",
+    "title": "Lymph (Tissue Fluid) Properties: \"Colorless, Fewer Proteins, High Lymphocytes, Fats in Lacteals\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Sympathetic nerves + Adrenaline = Speed up HR & Strength | Parasympathetic (Vagus nerve / ACh) = Slow down HR & Speed of conduction",
-    "memoryHook": "Sympathetic shows \"Sympathy\" when running from a lion -> accelerates heart rate and stroke volume! Parasympathetic \"Parks\" the heart -> slows it down via Vagus nerve!",
-    "fact": "Cardiac center in medulla oblongata regulates heart function via ANS: Sympathetic nerves release noradrenaline to increase heart rate, conduction velocity, and cardiac output. Parasympathetic neural signals (via vagus nerve) release acetylcholine (ACh) to decrease heart rate and action potential conduction speed.",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Colorless, Fewer Proteins, High Lymphocytes, Fats in Lacteals",
+    "memoryHook": "Colorless, Fewer Proteins, High Lymphocytes, Fats in Lacteals",
+    "fact": "Nature: Colorless interstitial fluid containing specialized lymphocytes. Composition: Similar to plasma but with lower protein concentration. Fat Transport: Digested fats are absorbed into lymph in lacteals present in intestinal villi",
     "breakdown": [
       {
-        "key": "Sympathetic Stimulation",
-        "label": "Increases heart rate (HR), ventricular contraction strength, and cardiac output (CO)"
+        "key": "Nature",
+        "label": "Colorless interstitial fluid containing specialized lymphocytes"
       },
       {
-        "key": "Parasympathetic (Vagus)",
-        "label": "Decreases heart rate, slows SAN firing and AV conduction speed"
+        "key": "Composition",
+        "label": "Similar to plasma but with lower protein concentration"
       },
       {
-        "key": "Adrenal Medullary Hormones",
-        "label": "Adrenaline and Noradrenaline also increase cardiac output"
+        "key": "Fat Transport",
+        "label": "Digested fats are absorbed into lymph in lacteals present in intestinal villi"
       }
     ],
-    "doodleBadge": "Sympathetic = UP\nParasympathetic = DOWN",
-    "doodleSubtext": "ANS Cardiac Control",
-    "explanation": "The normal myogenic baseline of SAN (~100 bpm) is kept down to ~72 bpm at rest by continuous parasympathetic (vagal) tone.",
-    "alsoRemember": "Human heart is myogenic because its normal rhythm is generated autorhythmically by nodal tissue.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.5.",
-    "neetTrap": "Parasympathetic stimulation decreases heart rate, but does NOT directly reduce the strength of ventricular contraction significantly.",
+    "doodleBadge": "Colorless, Fewer Protein",
+    "doodleSubtext": "Lymph (Tissue Fluid) Pro",
+    "explanation": "Features and transport roles of lymphatic fluid linking tissue space to circulation.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Lymph (Tissue Fluid) Properties.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.30",
     "tags": [
-      "Heart Regulation",
-      "ANS",
-      "Sympathetic",
-      "Vagus",
-      "Adrenaline"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Lymph"
     ],
-    "expandedMeaning": "Autonomic nervous system modulation of intrinsic autorhythmic cardiac nodal pacing.",
-    "whyItWorks": "Sympathetic = Speed, Parasympathetic = Pace/Pause.",
-    "visualDescription": "Medulla oblongata with green accelerator nerve (sympathetic) and red brake nerve (vagus) targeting SAN.",
-    "neetRelevance": "Core physiology question topic for autonomic cardiac control.",
-    "commonMistake": "Assuming the heart beat is neurogenic in humans (it is myogenic).",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 30,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Parasympathetic neural signals from the medulla affect the heart by:",
+      "question": "Which of the following is associated with \"Lymph (Tissue Fluid) Properties\" in NEET Biology?",
       "options": [
-        "Increasing heart rate and cardiac output",
-        "Decreasing heart rate and speed of conduction",
-        "Increasing strength of ventricular contraction",
-        "Stimulating adrenal medulla secretion"
+        "Colorless interstitial fluid containing specialized lymphocytes",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Parasympathetic signals via the vagus nerve decrease the heart rate and reduce the speed of action potential conduction."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Colorless interstitial fluid containing specialized lymphocytes\". Remember using: \"Colorless, Fewer Proteins, High Lymphocytes, Fats in Lacteals\"."
     }
   },
   {
@@ -929,73 +864,63 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
-    "topicId": "bio-top-15-3",
-    "topicTitle": "Circulatory Disorders",
-    "topic": "Cardiovascular Pathologies: CAD, Angina, Heart Failure vs Arrest",
+    "classLevel": 11,
+    "topicId": "bio-top-15-2",
+    "topicTitle": "Vertebrate Heart Chambers Comparison",
+    "topic": "Vertebrate Heart Chambers Comparison",
     "mnemonicNumber": 14,
-    "title": "Heart Disorders: Atherosclerosis = Plaque | Angina = Chest Pain | Arrest = Stops Beating | Failure = Poor Pump",
-    "badgeText": "Classification",
+    "title": "Vertebrate Heart Chambers Comparison: \"Fish 2, Amphibians/Reptiles 3, Birds/Mammals/Crocodiles 4\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "CAD/Atherosclerosis = Calcium/Fat plaque in Coronary Artery | Angina Pectoris = Acute chest pain due to O2 lack | Heart Attack = Heart muscle dies | Heart Arrest = Heart stops beating | Heart Failure = Inadequate pumping (Congestion)",
-    "memoryHook": "Atherosclerosis clogs the pipe; Angina gives warning chest pain; Heart Attack damages muscle; Cardiac Arrest stops the pulse completely; Heart Failure causes fluid congestion in lungs!",
-    "fact": "Coronary Artery Disease (CAD/Atherosclerosis) is caused by deposits of calcium, fat, cholesterol, and fibrous tissue narrowing coronary arteries. Angina (Angina Pectoris) is acute chest pain when insufficient oxygen reaches heart muscle. Heart failure is state when heart does not pump blood effectively to meet body needs (congestive heart failure). Cardiac arrest is when heart stops beating completely. Heart attack is when heart muscle is suddenly damaged by inadequate blood supply.",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Fish 2, Amphibians/Reptiles 3, Birds/Mammals/Crocodiles 4",
+    "memoryHook": "Fish 2, Amphibians/Reptiles 3, Birds/Mammals/Crocodiles 4",
+    "fact": "2-Chambered (1 Atrium + 1 Ventricle): Fishes (Single circulation). 3-Chambered (2 Atria + 1 Ventricle): Amphibians and Reptiles (Incomplete double circulation). 4-Chambered (2 Atria + 2 Ventricles): Birds, Mammals, and Crocodiles (Complete double circulation)",
     "breakdown": [
       {
-        "key": "Atherosclerosis (CAD)",
-        "label": "Narrowing of coronary arteries due to lumen plaque (calcium, cholesterol, fat)"
+        "key": "2",
+        "label": "Chambered (1 Atrium + 1 Ventricle): Fishes (Single circulation)"
       },
       {
-        "key": "Angina Pectoris",
-        "label": "Acute chest pain symptom arising from cardiac ischemia (hypoxia)"
+        "key": "3",
+        "label": "Chambered (2 Atria + 1 Ventricle): Amphibians and Reptiles (Incomplete double circulation)"
       },
       {
-        "key": "Heart Attack (Myocardial Infarction)",
-        "label": "Sudden necrosis/damage of heart muscle due to blocked blood supply"
-      },
-      {
-        "key": "Cardiac Arrest",
-        "label": "Complete cessation of heart pumping (heart stops beating)"
-      },
-      {
-        "key": "Heart Failure",
-        "label": "Failure to pump enough blood; main symptom is congestion of lungs"
+        "key": "4",
+        "label": "Chambered (2 Atria + 2 Ventricles): Birds, Mammals, and Crocodiles (Complete double circulation)"
       }
     ],
-    "doodleBadge": "Disorder Map:\nCAD -> Angina -> Attack -> Arrest",
-    "doodleSubtext": "Clear Distinction",
-    "explanation": "NEET specifically tests the distinction between Heart Failure, Cardiac Arrest, and Heart Attack.",
-    "alsoRemember": "Hypertension is defined as resting blood pressure persistently higher than 140/90 mm Hg (normal is 120/80 mm Hg).",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.6.",
-    "neetTrap": "Heart failure is NOT the same as cardiac arrest (heart stops) or heart attack (muscle damaged). Heart failure means inadequate pumping causing congestion.",
+    "doodleBadge": "Fish 2, Amphibians/Repti",
+    "doodleSubtext": "Vertebrate Heart Chamber",
+    "explanation": "Comparative evolution of cardiac chambers across vertebrate classes.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Vertebrate Heart Chambers Comparison.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.30",
     "tags": [
-      "Cardiology",
-      "Atherosclerosis",
-      "Angina",
-      "Heart Attack",
-      "Heart Failure"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Vertebrate"
     ],
-    "expandedMeaning": "Differential diagnostic criteria for major clinical disorders of the human cardiovascular system.",
-    "whyItWorks": "Direct contrast of confusing clinical terminology.",
-    "visualDescription": "Four distinct clinical cards highlighting Plaque, Squeezing Pain, Muscle Necrosis, and Fluid in Lungs.",
-    "neetRelevance": "Tested directly in match-the-column questions on circulatory pathologies.",
-    "commonMistake": "Confusing heart failure with cardiac arrest.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 30,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which condition is characterized by acute chest pain when not enough oxygen is reaching the heart muscle?",
+      "question": "Which of the following is associated with \"Vertebrate Heart Chambers Comparison\" in NEET Biology?",
       "options": [
-        "Atherosclerosis",
-        "Angina pectoris",
-        "Heart failure",
-        "Cardiac arrest"
+        "Chambered (1 Atrium + 1 Ventricle): Fishes (Single circulation)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Angina pectoris is the clinical symptom of acute chest pain caused by insufficient oxygen supply to myocardial tissue."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Chambered (1 Atrium + 1 Ventricle): Fishes (Single circulation)\". Remember using: \"Fish 2, Amphibians/Reptiles 3, Birds/Mammals/Crocodiles 4\"."
     }
   },
   {
@@ -1004,65 +929,63 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
-    "topicId": "bio-top-15-1",
-    "topicTitle": "Plasma Proteins and Functions",
-    "topic": "Fibrinogen, Globulins, and Albumins",
+    "classLevel": 11,
+    "topicId": "bio-top-15-2",
+    "topicTitle": "Human Heart Anatomy & Origin",
+    "topic": "Human Heart Anatomy & Origin",
     "mnemonicNumber": 15,
-    "title": "Plasma Proteins: FGA (Fibrinogen = Clotting, Globulin = Antibodies, Albumin = Osmotic Pressure)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "acronym",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "FGA: Fibrinogen (Clotting/Coagulation) | Globulins (Defense/Immunoglobulins) | Albumins (Osmotic balance/BCOP)",
-    "memoryHook": "Fibrinogen Forms clots; Globulins Guard against germs (Defense); Albumins Attract water to maintain Blood Colloid Osmotic Pressure!",
-    "fact": "Plasma contains 6-8% proteins: Fibrinogen is needed for blood clotting; Globulins are primarily involved in defense mechanisms (antibodies/immunoglobulins); Albumins maintain osmotic balance and colloid oncotic pressure.",
+    "title": "Human Heart Anatomy & Origin: \"Mesodermal Origin, Mediastinum, Pericardium\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Mesodermal Origin, Mediastinum, Pericardium",
+    "memoryHook": "Mesodermal Origin, Mediastinum, Pericardium",
+    "fact": "Origin: Mesodermally derived organ. Location: Thoracic cavity, in mediastinum between two lungs, tilted slightly to the left. Protection: Enclosed by double-walled membrane bag called Pericardium filled with pericardial fluid",
     "breakdown": [
       {
-        "key": "Fibrinogen",
-        "label": "Blood clotting and coagulation precursor synthesized in liver"
+        "key": "Origin",
+        "label": "Mesodermally derived organ"
       },
       {
-        "key": "Globulins",
-        "label": "Immunoglobulins/antibodies involved in immune defense"
+        "key": "Location",
+        "label": "Thoracic cavity, in mediastinum between two lungs, tilted slightly to the left"
       },
       {
-        "key": "Albumins",
-        "label": "Most abundant plasma protein; maintains blood colloid osmotic pressure (BCOP)"
+        "key": "Protection",
+        "label": "Enclosed by double-walled membrane bag called Pericardium filled with pericardial fluid"
       }
     ],
-    "doodleBadge": "F - G - A\nClot - Guard - Osmosis",
-    "doodleSubtext": "Plasma 6-8%",
-    "explanation": "Plasma makes up 55% of blood volume, and 90-92% of plasma is water, with 6-8% proteins.",
-    "alsoRemember": "Loss of albumin in urine (proteinuria) leads to edema due to drop in oncotic pressure.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.1.1.",
-    "neetTrap": "Albumin maintains osmotic pressure, NOT fibrinogen.",
+    "doodleBadge": "Mesodermal Origin, Media",
+    "doodleSubtext": "Human Heart Anatomy & Or",
+    "explanation": "Embryonic origin, anatomical position, and protective membrane of human heart.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Human Heart Anatomy & Origin.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.30",
     "tags": [
-      "Plasma Proteins",
-      "Albumin",
-      "Globulin",
-      "Fibrinogen",
-      "Osmotic Pressure"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Human"
     ],
-    "expandedMeaning": "Functional distribution of the three major colloidal protein fractions in human blood plasma.",
-    "whyItWorks": "Alliteration and functional pairing: F-Forms clots, G-Guards, A-Attracts water.",
-    "visualDescription": "Three test tubes showing Clot mesh (Fibrinogen), Y-antibody shield (Globulin), and Water droplet balance (Albumin).",
-    "neetRelevance": "Classic NCERT matching question.",
-    "commonMistake": "Mixing up functions of albumin and globulins.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.1.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 30,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which plasma protein is primarily responsible for maintaining the colloidal osmotic balance of blood?",
+      "question": "Which of the following is associated with \"Human Heart Anatomy & Origin\" in NEET Biology?",
       "options": [
-        "Fibrinogen",
-        "Albumin",
-        "Globulin",
-        "Prothrombin"
+        "Mesodermally derived organ",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Albumins are the major plasma proteins responsible for maintaining blood colloid osmotic pressure."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Mesodermally derived organ\". Remember using: \"Mesodermal Origin, Mediastinum, Pericardium\"."
     }
   },
   {
@@ -1071,65 +994,63 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
-    "topicId": "bio-top-15-1",
-    "topicTitle": "Formed Elements Cell Counts",
-    "topic": "Normal Physiological Counts of RBCs, WBCs, and Platelets",
+    "classLevel": 11,
+    "topicId": "bio-top-15-2",
+    "topicTitle": "Heart Valves Locations",
+    "topic": "Heart Valves Locations",
     "mnemonicNumber": 16,
-    "title": "Blood Cell Counts: RBC = 5 Million | Platelets = 1.5-3.5 Lakh | WBC = 6-8 Thousand",
-    "badgeText": "Formula",
+    "title": "Heart Valves Locations: \"Tricuspid Right, Bicuspid (Mitral) Left, Semilunar Outlets\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "RBCs in Millions (5 to 5.5 Million/mm³) > Platelets in Lakhs (1.5 to 3.5 Lakh/mm³) > WBCs in Thousands (6000 to 8000/mm³)",
-    "memoryHook": "Count in descending unit scales: Millions (RBC) -> Lakhs (Platelets) -> Thousands (WBC)!",
-    "fact": "Normal values per mm³ of blood: Erythrocytes (RBCs): 5 - 5.5 million/mm³ (lifespan 120 days, graveyard is spleen). Platelets (Thrombocytes): 150,000 - 350,000/mm³. Leukocytes (WBCs): 6,000 - 8,000/mm³.",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Tricuspid Right, Bicuspid (Mitral) Left, Semilunar Outlets",
+    "memoryHook": "Tricuspid Right, Bicuspid (Mitral) Left, Semilunar Outlets",
+    "fact": "Tricuspid Valve: Between Right Atrium and Right Ventricle. Bicuspid / Mitral Valve: Between Left Atrium and Left Ventricle. Semilunar Valves: At openings of Right Ventricle into Pulmonary Artery and Left Ventricle into Aorta",
     "breakdown": [
       {
-        "key": "RBCs (Erythrocytes)",
-        "label": "5 to 5.5 million per mm³; lifespan 120 days; destroy in spleen (graveyard of RBCs)"
+        "key": "Tricuspid Valve",
+        "label": "Between Right Atrium and Right Ventricle"
       },
       {
-        "key": "Platelets (Thrombocytes)",
-        "label": "1.5 to 3.5 lakh (150,000-350,000) per mm³; made from megakaryocytes"
+        "key": "Bicuspid / Mitral Valve",
+        "label": "Between Left Atrium and Left Ventricle"
       },
       {
-        "key": "WBCs (Leukocytes)",
-        "label": "6,000 to 8,000 per mm³; short-lived nucleated defense cells"
+        "key": "Semilunar Valves",
+        "label": "At openings of Right Ventricle into Pulmonary Artery and Left Ventricle into Aorta"
       }
     ],
-    "doodleBadge": "Millions > Lakhs > Thousands\nRBC > Platelets > WBC",
-    "doodleSubtext": "Blood Cell Census",
-    "explanation": "A healthy adult has 12-16 g of hemoglobin in every 100 mL of blood.",
-    "alsoRemember": "Mature mammalian RBCs are biconcave and enucleated (lack nucleus and mitochondria) to maximize surface area and oxygen transport.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.1.2.",
-    "neetTrap": "Mammalian RBCs lack a nucleus and mitochondria at maturity.",
+    "doodleBadge": "Tricuspid Right, Bicuspi",
+    "doodleSubtext": "Heart Valves Locations",
+    "explanation": "Anatomical locations of heart valves enforcing unidirectional blood flow.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Heart Valves Locations.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.30",
     "tags": [
-      "RBC",
-      "WBC",
-      "Platelets",
-      "Cell Count",
-      "Hemoglobin"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Heart"
     ],
-    "expandedMeaning": "Quantitative reference ranges for the cellular formed elements of human circulating blood.",
-    "whyItWorks": "Unit drop mnemonic: Millions -> Hundred-thousands -> Thousands.",
-    "visualDescription": "Three jars showing huge crowd of red discs (5M), moderate pile of purple platelets (2.5L), and few white soldiers (7K).",
-    "neetRelevance": "Standard NCERT direct numerical MCQs.",
-    "commonMistake": "Confusing mm³ count with per-litre counts.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.1.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 30,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What is the normal count of platelets (thrombocytes) in 1 mm³ of healthy human blood?",
+      "question": "Which of the following is associated with \"Heart Valves Locations\" in NEET Biology?",
       "options": [
-        "5,000 - 10,000",
-        "1,500,000 - 3,500,000",
-        "150,000 - 350,000",
-        "50,000 - 80,000"
+        "Between Right Atrium and Right Ventricle",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Normal platelet count in human blood is 1.5 to 3.5 lakh (150,000 - 350,000) per mm³."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Between Right Atrium and Right Ventricle\". Remember using: \"Tricuspid Right, Bicuspid (Mitral) Left, Semilunar Outlets\"."
     }
   },
   {
@@ -1138,69 +1059,55 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
     "topicId": "bio-top-15-2",
-    "topicTitle": "Cardiac Cycle Time Durations",
-    "topic": "0.8 Second Cardiac Cycle Phase Timing",
+    "topicTitle": "Nodal Tissue Conduction Pathway",
+    "topic": "Nodal Tissue Conduction Pathway",
     "mnemonicNumber": 17,
-    "title": "Cardiac Cycle: 0.8s Total (Atrial Systole 0.1s + Ventricular Systole 0.3s + Joint Diastole 0.4s)",
-    "badgeText": "Formula",
+    "title": "Nodal Tissue Conduction Pathway: \"SAN -> AVN -> AV Bundle (Bundle of His) -> Purkinje Fibres\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#EDF4FF",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#5B8DEF",
-    "mnemonic": "Total Cycle = 0.8 s | Atrial Systole = 0.1 s (Diastole = 0.7 s) | Ventricular Systole = 0.3 s (Diastole = 0.5 s) | Joint Diastole = 0.4 s",
-    "memoryHook": "0.1 (Atria squeeze) + 0.3 (Ventricles squeeze) + 0.4 (All chambers relax together) = 0.8 seconds per beat!",
-    "fact": "At a heart rate of 75 beats/minute, duration of each cardiac cycle is 60/75 = 0.8 seconds. Atrial systole lasts 0.1 s, ventricular systole lasts 0.3 s, and complete joint diastole lasts 0.4 s.",
+    "mnemonic": "SAN -> AVN -> AV Bundle (Bundle of His) -> Purkinje Fibres",
+    "memoryHook": "SAN -> AVN -> AV Bundle (Bundle of His) -> Purkinje Fibres",
+    "fact": "SAN (Sino-atrial Node): Right upper corner of right atrium; Pacemaker (70–75 beats/min). AVN (Atrio-ventricular Node): Lower left corner of right atrium near AV septum. AV Bundle & Purkinje Fibres: Transmit action potential rapidly through ventricular musculature",
     "breakdown": [
       {
-        "key": "Atrial Systole",
-        "label": "0.1 second (Atrial Diastole lasts 0.7 s)"
-      },
-      {
-        "key": "Ventricular Systole",
-        "label": "0.3 second (Ventricular Diastole lasts 0.5 s)"
-      },
-      {
-        "key": "Joint Diastole",
-        "label": "0.4 second (all 4 chambers in relaxed state)"
-      },
-      {
-        "key": "Total Duration",
-        "label": "0.8 second (60 seconds / 75 bpm)"
+        "key": "SAN (Sino-atrial Node)",
+        "label": "Right upper corner of right atrium; Pacemaker (70–75 beats/min)"
       }
     ],
-    "doodleBadge": "0.1 + 0.3 + 0.4 = 0.8s",
-    "doodleSubtext": "Cycle Chronology",
-    "explanation": "During joint diastole (0.4 s), semilunar valves are closed, and AV valves are open, allowing passive ventricular filling (70% of filling).",
-    "alsoRemember": "Atrial systole accounts for only about 30% of ventricular filling.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.3.2.",
-    "neetTrap": "Ventricular diastole lasts 0.5 s, NOT 0.4 s (Joint diastole 0.4s + Atrial systole 0.1s during which ventricles are still relaxing).",
+    "doodleBadge": "SAN -> AVN -> AV Bundle ",
+    "doodleSubtext": "Nodal Tissue Conduction ",
+    "explanation": "Sequential pathway of specialized auto-excitable cardiac tissue generating heart rate.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Nodal Tissue Conduction Pathway.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.30",
     "tags": [
-      "Cardiac Cycle",
-      "Systole",
-      "Diastole",
-      "Timing",
-      "Joint Diastole"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Nodal"
     ],
-    "expandedMeaning": "Chronological timeline of mechanical phases constituting a single 0.8-second heartbeat.",
-    "whyItWorks": "1 + 3 + 4 = 8 tenths of a second.",
-    "visualDescription": "Circular pie chart split into 8 slices of 0.1s: 1 slice atrial systole, 3 slices ventricular systole, 4 slices joint diastole.",
-    "neetRelevance": "Frequently tested in time-duration calculation problems in NEET.",
-    "commonMistake": "Confusing joint diastole (0.4 s) with total ventricular diastole (0.5 s).",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.3.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 30,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "During a 0.8-second cardiac cycle, what is the duration of joint diastole when all four chambers are relaxed?",
+      "question": "Which of the following is associated with \"Nodal Tissue Conduction Pathway\" in NEET Biology?",
       "options": [
-        "0.1 second",
-        "0.3 second",
-        "0.4 second",
-        "0.5 second"
+        "SAN (Sino-atrial Node): Right upper corner of right atrium; Pacemaker (70–75 bea",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Joint diastole lasts 0.4 seconds, during which all four chambers are in a relaxed state."
+      "answerIndex": 0,
+      "explanation": "Correct: \"SAN (Sino-atrial Node): Right upper corner of right atrium; Pacemaker (70–75 beats/min)\". Remember using: \"SAN -> AVN -> AV Bundle (Bundle of His) -> Purkinje Fibres\"."
     }
   },
   {
@@ -1209,64 +1116,67 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
     "topicId": "bio-top-15-2",
-    "topicTitle": "Double Circulation Circuits",
-    "topic": "Pulmonary vs Systemic Circulation Circuits",
+    "topicTitle": "Cardiac Cycle Phases Duration",
+    "topic": "Cardiac Cycle Phases Duration",
     "mnemonicNumber": 18,
-    "title": "Double Circulation: Pulmonary (Right Ventricle -> Lungs -> Left Atrium) vs Systemic (Left Ventricle -> Body -> Right Atrium)",
-    "badgeText": "Concept",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Pulmonary Circuit: RV -> Pulmonary Artery -> Lungs -> Pulmonary Vein -> LA | Systemic Circuit: LV -> Aorta -> Body Tissues -> Vena Cava -> RA",
-    "memoryHook": "Right ventricle pumps to lungs for oxygen; Left ventricle pumps oxygenated blood to the whole body. Two separate circuits with no mixing!",
-    "fact": "Human circulation is complete double circulation: Pulmonary circulation pumps deoxygenated blood from Right Ventricle to lungs via pulmonary artery and returns oxygenated blood via pulmonary veins to Left Atrium. Systemic circulation pumps oxygenated blood from Left Ventricle via aorta to body tissues and returns deoxygenated blood via vena cava to Right Atrium.",
+    "title": "Cardiac Cycle Phases Duration: \"Atrial Systole 0.1s, Ventricular Systole 0.3s, Joint Diastole 0.4s (Total 0.8s)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Atrial Systole 0.1s, Ventricular Systole 0.3s, Joint Diastole 0.4s (Total 0.8s)",
+    "memoryHook": "Atrial Systole 0.1s, Ventricular Systole 0.3s, Joint Diastole 0.4s (Total 0.8s)",
+    "fact": "Total Cycle Duration: 0.8 seconds (at standard 75 beats per minute). Atrial Systole: 0.1 sec (increases blood flow to ventricles by ~30%). Ventricular Systole: 0.3 sec (pumps blood into pulmonary artery and aorta). Joint Diastole: 0.4 sec (all 4 chambers in relaxed state filling with blood)",
     "breakdown": [
       {
-        "key": "Pulmonary Circuit",
-        "label": "RV -> Pulmonary Artery (deox) -> Lungs -> Pulmonary Veins (ox) -> LA"
+        "key": "Total Cycle Duration",
+        "label": "0.8 seconds (at standard 75 beats per minute)"
       },
       {
-        "key": "Systemic Circuit",
-        "label": "LV -> Aorta (ox) -> Tissues/Capillaries -> Vena Cava (deox) -> RA"
+        "key": "Atrial Systole",
+        "label": "0.1 sec (increases blood flow to ventricles by ~30%)"
       },
       {
-        "key": "Key Vessel Exception",
-        "label": "Pulmonary artery carries deoxygenated blood; Pulmonary vein carries oxygenated blood"
+        "key": "Ventricular Systole",
+        "label": "0.3 sec (pumps blood into pulmonary artery and aorta)"
+      },
+      {
+        "key": "Joint Diastole",
+        "label": "0.4 sec (all 4 chambers in relaxed state filling with blood)"
       }
     ],
-    "doodleBadge": "Double Loop: 8 Shape",
-    "doodleSubtext": "Pulmonary & Systemic",
-    "explanation": "Double circulation prevents mixing of oxygenated and deoxygenated blood, ensuring high efficiency oxygen delivery in endotherms.",
-    "alsoRemember": "Fishes have single circulation with a 2-chambered heart (1 atrium, 1 ventricle). Amphibians and reptiles (except crocodiles) have incomplete double circulation with a 3-chambered heart.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.3.3.",
-    "neetTrap": "Crocodiles have a 4-chambered heart, unlike other reptiles.",
+    "doodleBadge": "Atrial Systole 0.1s, Ven",
+    "doodleSubtext": "Cardiac Cycle Phases Dur",
+    "explanation": "Time distribution of atrial and ventricular mechanical events during one cardiac cycle. Chapter 15: Body Fluids and Circulation (30 Mnemonics) \tPage 3",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Cardiac Cycle Phases Duration.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.30",
     "tags": [
-      "Double Circulation",
-      "Pulmonary",
-      "Systemic",
-      "Heart Chambers"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Cardiac"
     ],
-    "expandedMeaning": "Dual-loop closed vascular cardiovascular circuit in birds and mammals.",
-    "whyItWorks": "Figure-8 loop concept where blood visits heart twice in one complete circuit.",
-    "visualDescription": "Figure-8 loop diagram showing upper blue-to-red loop through lungs and lower red-to-blue loop through body tissues.",
-    "neetRelevance": "Evolution of heart chambers and circulatory pathways across animal groups.",
-    "commonMistake": "Assuming pulmonary arteries carry oxygenated blood.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.3.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 30,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which reptile uniquely possesses a fully 4-chambered heart with complete double circulation?",
+      "question": "Which of the following is associated with \"Cardiac Cycle Phases Duration\" in NEET Biology?",
       "options": [
-        "Chameleon",
-        "Crocodile",
-        "King Cobra",
-        "Calotes"
+        "0.8 seconds (at standard 75 beats per minute)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Crocodiles are the exceptional reptiles that possess a complete four-chambered heart."
+      "answerIndex": 0,
+      "explanation": "Correct: \"0.8 seconds (at standard 75 beats per minute)\". Remember using: \"Atrial Systole 0.1s, Ventricular Systole 0.3s, Joint Diastole 0.4s (Total 0.8s)\"."
     }
   },
   {
@@ -1275,69 +1185,63 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
-    "topicId": "bio-top-15-1",
-    "topicTitle": "Lymph (Tissue Fluid) Characteristics",
-    "topic": "Composition and Function of Lymphatic System",
+    "classLevel": 11,
+    "topicId": "bio-top-15-2",
+    "topicTitle": "Stroke Volume & Cardiac Output Calculation",
+    "topic": "Stroke Volume & Cardiac Output Calculation",
     "mnemonicNumber": 19,
-    "title": "Lymph: Blood Minus RBCs, Platelets & Large Proteins (Rich in Lymphocytes & Fats in Lacteals)",
-    "badgeText": "Concept",
-    "importance": "Medium Yield",
+    "title": "Stroke Volume & Cardiac Output Calculation: \"Stroke Volume 70 mL, Cardiac Output = SV x HR = 5 Litres\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
     "badgeColor": "#A66CFF",
-    "mnemonic": "Lymph = Interstitial Fluid / Blood minus (RBCs + Platelets + Large Plasma Proteins) | Fats absorbed via Lacteals",
-    "memoryHook": "When fluid filters out of capillaries, big cells (RBCs) and big proteins stay behind. The filtered colorless fluid is Lymph, carrying lymphocytes and absorbing dietary fats via intestinal lacteals!",
-    "fact": "As blood passes through capillaries in tissues, water and small soluble substances filter out into intercellular spaces forming interstitial fluid or tissue fluid. When this fluid enters lymphatic capillaries, it is called lymph. Lymph is a colorless fluid containing specialized lymphocytes (responsible for immune responses) and carries absorbed fats via lacteals in intestinal villi.",
+    "mnemonic": "Stroke Volume 70 mL, Cardiac Output = SV x HR = 5 Litres",
+    "memoryHook": "Stroke Volume 70 mL, Cardiac Output = SV x HR = 5 Litres",
+    "fact": "Stroke Volume (SV): Volume of blood pumped by each ventricle per beat (~70 mL). Cardiac Output (CO): SV x Heart Rate (70 mL x 72 beats/min = ~5000 mL or 5 Litres/min). Variation: Athletes have significantly higher stroke volume and cardiac output",
     "breakdown": [
       {
-        "key": "Color & Nature",
-        "label": "Colorless fluid lacking RBCs, platelets, and large plasma proteins"
+        "key": "Stroke Volume (SV)",
+        "label": "Volume of blood pumped by each ventricle per beat (~70 mL)"
       },
       {
-        "key": "Immune Role",
-        "label": "Rich in lymphocytes for immune defense"
+        "key": "Cardiac Output (CO)",
+        "label": "SV x Heart Rate (70 mL x 72 beats/min = ~5000 mL or 5 Litres/min)"
       },
       {
-        "key": "Fat Absorption",
-        "label": "Fats are absorbed into lymph through specialized lacteals in intestinal villi"
-      },
-      {
-        "key": "Drainage",
-        "label": "Lymphatic vessels drain back into major systemic veins (subclavian veins)"
+        "key": "Variation",
+        "label": "Athletes have significantly higher stroke volume and cardiac output"
       }
     ],
-    "doodleBadge": "Lymph = Blood - RBC/Large Proteins",
-    "doodleSubtext": "Lacteals = Fats",
-    "explanation": "Lymphatic system is an open drainage network that collects excess extracellular fluid and returns it to the vascular bloodstream.",
-    "alsoRemember": "Lymph nodes act as biological filters that trap microorganisms and foreign antigens.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.2.",
-    "neetTrap": "Fats are absorbed into LACTEALS (lymph vessels), not directly into blood capillaries of villi.",
+    "doodleBadge": "Stroke Volume 70 mL, Car",
+    "doodleSubtext": "Stroke Volume & Cardiac ",
+    "explanation": "Mathematical relationship between stroke volume, heart rate, and total minute output.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Stroke Volume & Cardiac Output Calculation.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.31",
     "tags": [
-      "Lymph",
-      "Lacteals",
-      "Tissue Fluid",
-      "Lymphocytes",
-      "Fats"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Stroke"
     ],
-    "expandedMeaning": "Physiology and drainage pathways of clear extracellular lymph fluid and lacteal lipid transport.",
-    "whyItWorks": "Equation format: Lymph = Blood - RBC - Large Proteins.",
-    "visualDescription": "Intestinal villus showing central green lacteal taking up yellow fat droplets surrounded by red capillary network.",
-    "neetRelevance": "Repeatedly tested in digestion-circulation integration questions.",
-    "commonMistake": "Thinking lymph contains red blood cells.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 31,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Specialized lymphatic capillaries present in intestinal villi responsible for fat absorption are called:",
+      "question": "Which of the following is associated with \"Stroke Volume & Cardiac Output Calculation\" in NEET Biology?",
       "options": [
-        "Sinusoids",
-        "Lacteals",
-        "Crypts of Lieberkuhn",
-        "Canaliculi"
+        "Stroke Volume (SV): Volume of blood pumped by each ventricle per beat (~70 mL)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Lacteals are specialized lymph vessels located in the villi of the small intestine that absorb dietary fats (chylomicrons)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Stroke Volume (SV): Volume of blood pumped by each ventricle per beat (~70 mL)\". Remember using: \"Stroke Volume 70 mL, Cardiac Output = SV x HR = 5 Litres\"."
     }
   },
   {
@@ -1346,69 +1250,677 @@ export const bioCh15Mnemonics = [
     "chapterId": "bio-ch-15",
     "chapterNumber": 15,
     "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
     "topicId": "bio-top-15-2",
-    "topicTitle": "Sphygmomanometer & Blood Pressure Values",
-    "topic": "Measurement of Systolic vs Diastolic Blood Pressure",
+    "topicTitle": "First and Second Heart Sounds",
+    "topic": "First and Second Heart Sounds",
     "mnemonicNumber": 20,
-    "title": "Blood Pressure: 120/80 mm Hg (120 = Systolic / Pumping, 80 = Diastolic / Resting)",
-    "badgeText": "Formula",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "120 mm Hg (Systolic / Ventricle contracting) / 80 mm Hg (Diastolic / Ventricle relaxing) | Hypertension >= 140/90 mm Hg",
-    "memoryHook": "Top number (120) is high pressure during systolic pump! Bottom number (80) is resting baseline pressure in arteries during diastole!",
-    "fact": "Normal human blood pressure is 120/80 mm Hg (measured by sphygmomanometer in brachial artery). 120 mm Hg is systolic (pumping) pressure and 80 mm Hg is diastolic (resting) pressure. Pulse pressure = Systolic - Diastolic = 120 - 80 = 40 mm Hg. Hypertension is diagnosed when resting pressure is repeatedly 140/90 mm Hg or higher.",
+    "title": "First and Second Heart Sounds: \"LUB = AV Valves Close, DUB = Semilunar Valves Close\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "LUB = AV Valves Close, DUB = Semilunar Valves Close",
+    "memoryHook": "LUB = AV Valves Close, DUB = Semilunar Valves Close",
+    "fact": "1st Sound (LUB): Caused by closure of Tricuspid and Bicuspid valves at onset of Ventricular Systole. 2nd Sound (DUB): Caused by closure of Semilunar valves at onset of Ventricular Diastole",
     "breakdown": [
       {
-        "key": "Systolic Pressure",
-        "label": "120 mm Hg (peak pressure during ventricular contraction)"
+        "key": "1st Sound (LUB)",
+        "label": "Caused by closure of Tricuspid and Bicuspid valves at onset of Ventricular Systole"
       },
       {
-        "key": "Diastolic Pressure",
-        "label": "80 mm Hg (baseline pressure during ventricular relaxation)"
-      },
-      {
-        "key": "Pulse Pressure",
-        "label": "120 - 80 = 40 mm Hg"
-      },
-      {
-        "key": "Instrument",
-        "label": "Sphygmomanometer used with stethoscope over brachial artery"
+        "key": "2nd Sound (DUB)",
+        "label": "Caused by closure of Semilunar valves at onset of Ventricular Diastole"
       }
     ],
-    "doodleBadge": "120/80 mm Hg",
-    "doodleSubtext": "Systolic / Diastolic",
-    "explanation": "Persistent hypertension damages vital organs including brain (stroke), kidneys (renal failure), and heart.",
-    "alsoRemember": "Normal cardiac output can double or triple during vigorous exercise.",
-    "ncertConnection": "NCERT Class 11 Biology Section 18.6.",
-    "neetTrap": "Blood pressure is measured in mm Hg (millimeters of mercury), usually in the brachial artery.",
+    "doodleBadge": "LUB = AV Valves Close, D",
+    "doodleSubtext": "First and Second Heart S",
+    "explanation": "Acoustic origins of normal cardiac stethoscope sounds.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in First and Second Heart Sounds.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.31",
     "tags": [
-      "Blood Pressure",
-      "Hypertension",
-      "Sphygmomanometer",
-      "Systolic",
-      "Diastolic"
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "First"
     ],
-    "expandedMeaning": "Arterial hemodynamic pressure parameters and clinical diagnostic thresholds.",
-    "whyItWorks": "Direct numerical pairing 120 (squeeze) over 80 (rest).",
-    "visualDescription": "Mercury sphygmomanometer column with marker at 120 and 80 mm Hg.",
-    "neetRelevance": "Foundational clinical biology questions.",
-    "commonMistake": "Thinking 80 is systolic and 120 is diastolic.",
-    "sourceReference": "NCERT Class 11 Chapter 18 Section 18.6",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 31,
+      "chapter": "Body Fluids and Circulation"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What is the pulse pressure in a healthy adult with a normal blood pressure reading of 120/80 mm Hg?",
+      "question": "Which of the following is associated with \"First and Second Heart Sounds\" in NEET Biology?",
       "options": [
-        "120 mm Hg",
-        "80 mm Hg",
-        "40 mm Hg",
-        "200 mm Hg"
+        "LUB = AV Valves Close, DUB = Semilunar Valves Close",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Pulse pressure is the difference between systolic and diastolic pressures (120 - 80 = 40 mm Hg)."
+      "answerIndex": 0,
+      "explanation": "Acoustic origins of normal cardiac stethoscope sounds."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch15-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-15",
+    "chapterNumber": 15,
+    "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-3",
+    "topicTitle": "Electrocardiogram (ECG) Waves Breakdown",
+    "topic": "Electrocardiogram (ECG) Waves Breakdown",
+    "mnemonicNumber": 21,
+    "title": "Electrocardiogram (ECG) Waves Breakdown: \"P = Atrial Depolarisation, QRS = Ventricular Depolarisation, T = Ventricular Repolarisation\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "P = Atrial Depolarisation, QRS = Ventricular Depolarisation, T = Ventricular Repolarisation",
+    "memoryHook": "P = Atrial Depolarisation, QRS = Ventricular Depolarisation, T = Ventricular Repolarisation",
+    "fact": "P-wave: Depolarisation (excitation) of atria leading to atrial contraction. QRS Complex: Depolarisation of ventricles initiating ventricular contraction. T-wave: Repolarisation of ventricles (return from excited to normal state). Pulse Counting: Counting QRS complexes in a given time period gives heart rate",
+    "breakdown": [
+      {
+        "key": "P",
+        "label": "wave: Depolarisation (excitation) of atria leading to atrial contraction"
+      },
+      {
+        "key": "QRS Complex",
+        "label": "Depolarisation of ventricles initiating ventricular contraction"
+      },
+      {
+        "key": "T",
+        "label": "wave: Repolarisation of ventricles (return from excited to normal state)"
+      },
+      {
+        "key": "Pulse Counting",
+        "label": "Counting QRS complexes in a given time period gives heart rate"
+      }
+    ],
+    "doodleBadge": "P = Atrial Depolarisatio",
+    "doodleSubtext": "Electrocardiogram (ECG) ",
+    "explanation": "Standard electrocardiographic wave deflections mapped to cardiac electrical cycles.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Electrocardiogram (ECG) Waves Breakdown.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.31",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Electrocardiogram"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 31,
+      "chapter": "Body Fluids and Circulation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Electrocardiogram (ECG) Waves Breakdown\" in NEET Biology?",
+      "options": [
+        "wave: Depolarisation (excitation) of atria leading to atrial contraction",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"wave: Depolarisation (excitation) of atria leading to atrial contraction\". Remember using: \"P = Atrial Depolarisation, QRS = Ventricular Depolarisation, T = Ventricular Repolarisation\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch15-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-15",
+    "chapterNumber": 15,
+    "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-3",
+    "topicTitle": "Standard ECG Lead Placement",
+    "topic": "Standard ECG Lead Placement",
+    "mnemonicNumber": 22,
+    "title": "Standard ECG Lead Placement: \"Three Leads = Both Wrists + Left Ankle\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Three Leads = Both Wrists + Left Ankle",
+    "memoryHook": "Three Leads = Both Wrists + Left Ankle",
+    "fact": "Standard Lead Setup: Patient connected to 3 electrical leads. Attachments: One to each wrist (left and right) and one to the left ankle for continuous monitoring",
+    "breakdown": [
+      {
+        "key": "Standard Lead Setup",
+        "label": "Patient connected to 3 electrical leads"
+      },
+      {
+        "key": "Attachments",
+        "label": "One to each wrist (left and right) and one to the left ankle for continuous monitoring"
+      }
+    ],
+    "doodleBadge": "Three Leads = Both Wrist",
+    "doodleSubtext": "Standard ECG Lead Placem",
+    "explanation": "Clinical positioning of standard three-lead monitoring electrodes.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Standard ECG Lead Placement.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.31",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Standard"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 31,
+      "chapter": "Body Fluids and Circulation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Standard ECG Lead Placement\" in NEET Biology?",
+      "options": [
+        "Three Leads = Both Wrists + Left Ankle",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Clinical positioning of standard three-lead monitoring electrodes."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch15-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-15",
+    "chapterNumber": 15,
+    "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-3",
+    "topicTitle": "Hepatic Portal System",
+    "topic": "Hepatic Portal System",
+    "mnemonicNumber": 23,
+    "title": "Hepatic Portal System: \"Digestive Tract -> Hepatic Portal Vein -> Liver -> Vena Cava\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Digestive Tract -> Hepatic Portal Vein -> Liver -> Vena Cava",
+    "memoryHook": "Digestive Tract -> Hepatic Portal Vein -> Liver -> Vena Cava",
+    "fact": "Definition: Unique vascular connection between digestive tract and liver. Hepatic Portal Vein: Carries blood from intestine directly to liver before reaching systemic circulation",
+    "breakdown": [
+      {
+        "key": "Definition",
+        "label": "Unique vascular connection between digestive tract and liver"
+      },
+      {
+        "key": "Hepatic Portal Vein",
+        "label": "Carries blood from intestine directly to liver before reaching systemic circulation"
+      }
+    ],
+    "doodleBadge": "Digestive Tract -> Hepat",
+    "doodleSubtext": "Hepatic Portal System",
+    "explanation": "Specialized venous portal network routing nutrient-rich intestinal blood through liver first.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Hepatic Portal System.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.31",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Hepatic"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 31,
+      "chapter": "Body Fluids and Circulation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hepatic Portal System\" in NEET Biology?",
+      "options": [
+        "Digestive Tract -> Hepatic Portal Vein -> Liver -> Vena Cava",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Specialized venous portal network routing nutrient-rich intestinal blood through liver first."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch15-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-15",
+    "chapterNumber": 15,
+    "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-3",
+    "topicTitle": "Coronary Circulation",
+    "topic": "Coronary Circulation",
+    "mnemonicNumber": 24,
+    "title": "Coronary Circulation: \"Coronary System Supplies Cardiac Musculature\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Coronary System Supplies Cardiac Musculature",
+    "memoryHook": "Coronary System Supplies Cardiac Musculature",
+    "fact": "Function: Dedicated system of blood vessels (Coronary Arteries & Veins) exclusively supplying circulation to the heart muscle (Myocardium) Specialized vascular network providing oxygen and nutrients to cardiac tissue itself.",
+    "breakdown": [
+      {
+        "key": "Function",
+        "label": "Dedicated system of blood vessels (Coronary Arteries & Veins) exclusively supplying circulation to the heart muscle (Myocardium) Specialized vascular network providing oxygen and nutrients to cardiac tissue itself."
+      }
+    ],
+    "doodleBadge": "Coronary System Supplies",
+    "doodleSubtext": "Coronary Circulation",
+    "explanation": "Function: Dedicated system of blood vessels (Coronary Arteries & Veins) exclusively supplying circulation to the heart muscle (Myocardium) Specialized vascular network providing oxygen and nutrients to cardiac tissue itself.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Coronary Circulation.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.31",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Coronary"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 31,
+      "chapter": "Body Fluids and Circulation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Coronary Circulation\" in NEET Biology?",
+      "options": [
+        "Coronary System Supplies Cardiac Musculature",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Function: Dedicated system of blood vessels (Coronary Arteries & Veins) exclusively supplying circulation to the heart muscle (Myocardium) Specialized vascular network providing oxygen and nutrients to cardiac tissue itself."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch15-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-15",
+    "chapterNumber": 15,
+    "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-3",
+    "topicTitle": "Autonomic Regulation of Cardiac Function",
+    "topic": "Autonomic Regulation of Cardiac Function",
+    "mnemonicNumber": 25,
+    "title": "Autonomic Regulation of Cardiac Function: \"Sympathetic Accelerates, Parasympathetic Decelerates\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Sympathetic Accelerates, Parasympathetic Decelerates",
+    "memoryHook": "Sympathetic Accelerates, Parasympathetic Decelerates",
+    "fact": "Sympathetic Nerves: Release Noradrenaline; increases HR, strength of ventricular contraction, and cardiac output. Parasympathetic Nerves (Vagus): Release Acetylcholine; decreases HR, speed of conduction, and cardiac output. Neural Center: Located in Medulla Oblongata",
+    "breakdown": [
+      {
+        "key": "Sympathetic Nerves",
+        "label": "Release Noradrenaline; increases HR, strength of ventricular contraction, and cardiac output"
+      },
+      {
+        "key": "Neural Center",
+        "label": "Located in Medulla Oblongata"
+      }
+    ],
+    "doodleBadge": "Sympathetic Accelerates,",
+    "doodleSubtext": "Autonomic Regulation of ",
+    "explanation": "Dual autonomic neural modulation balancing cardiac rate and force of contraction.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Autonomic Regulation of Cardiac Function.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.32",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Autonomic"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 32,
+      "chapter": "Body Fluids and Circulation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Autonomic Regulation of Cardiac Function\" in NEET Biology?",
+      "options": [
+        "Release Noradrenaline; increases HR, strength of ventricular contraction, and ca",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Release Noradrenaline; increases HR, strength of ventricular contraction, and cardiac output\". Remember using: \"Sympathetic Accelerates, Parasympathetic Decelerates\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch15-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-15",
+    "chapterNumber": 15,
+    "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-3",
+    "topicTitle": "Hormonal Regulation of Heart Rate",
+    "topic": "Hormonal Regulation of Heart Rate",
+    "mnemonicNumber": 26,
+    "title": "Hormonal Regulation of Heart Rate: \"Adrenal Medulla Hormones Increase Cardiac Output\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Adrenal Medulla Hormones Increase Cardiac Output",
+    "memoryHook": "Adrenal Medulla Hormones Increase Cardiac Output",
+    "fact": "Hormones: Adrenaline (Epinephrine) and Noradrenaline from Adrenal Medulla. Effect: Increases heart rate, stroke volume, and overall cardiac output during emergency/fight-or-flight states",
+    "breakdown": [
+      {
+        "key": "Hormones",
+        "label": "Adrenaline (Epinephrine) and Noradrenaline from Adrenal Medulla"
+      },
+      {
+        "key": "Effect",
+        "label": "Increases heart rate, stroke volume, and overall cardiac output during emergency/fight-or-flight states"
+      }
+    ],
+    "doodleBadge": "Adrenal Medulla Hormones",
+    "doodleSubtext": "Hormonal Regulation of H",
+    "explanation": "Endocrine control mechanism elevating cardiovascular parameters during stress.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Hormonal Regulation of Heart Rate.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.32",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Hormonal"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 32,
+      "chapter": "Body Fluids and Circulation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hormonal Regulation of Heart Rate\" in NEET Biology?",
+      "options": [
+        "Adrenal Medulla Hormones Increase Cardiac Output",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Endocrine control mechanism elevating cardiovascular parameters during stress."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch15-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-15",
+    "chapterNumber": 15,
+    "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-3",
+    "topicTitle": "Hypertension (High Blood Pressure) Cutoff",
+    "topic": "Hypertension (High Blood Pressure) Cutoff",
+    "mnemonicNumber": 27,
+    "title": "Hypertension (High Blood Pressure) Cutoff: \"Normal 120/80, High 140/90 or Above\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Normal 120/80, High 140/90 or Above",
+    "memoryHook": "Normal 120/80, High 140/90 or Above",
+    "fact": "Normal BP: 120 mmHg (Systolic) / 80 mmHg (Diastolic). Hypertension: Repeated readings of 140/90 mmHg or higher. Consequences: Leads to heart diseases and affects vital organs like brain and kidney",
+    "breakdown": [
+      {
+        "key": "Normal BP",
+        "label": "120 mmHg (Systolic) / 80 mmHg (Diastolic)"
+      },
+      {
+        "key": "Hypertension",
+        "label": "Repeated readings of 140/90 mmHg or higher"
+      },
+      {
+        "key": "Consequences",
+        "label": "Leads to heart diseases and affects vital organs like brain and kidney"
+      }
+    ],
+    "doodleBadge": "Normal 120/80, High 140/",
+    "doodleSubtext": "Hypertension (High Blood",
+    "explanation": "Clinical diagnostic thresholds and target organ complications of high blood pressure.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Hypertension (High Blood Pressure) Cutoff.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.32",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Hypertension"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 32,
+      "chapter": "Body Fluids and Circulation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hypertension (High Blood Pressure) Cutoff\" in NEET Biology?",
+      "options": [
+        "120 mmHg (Systolic) / 80 mmHg (Diastolic)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"120 mmHg (Systolic) / 80 mmHg (Diastolic)\". Remember using: \"Normal 120/80, High 140/90 or Above\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch15-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-15",
+    "chapterNumber": 15,
+    "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-3",
+    "topicTitle": "Coronary Artery Disease (CAD) / Atherosclerosis",
+    "topic": "Coronary Artery Disease (CAD) / Atherosclerosis",
+    "mnemonicNumber": 28,
+    "title": "Coronary Artery Disease (CAD) / Atherosclerosis: \"Atherosclerosis = Calcium, Fat, Cholesterol Narrowing Lumen\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Atherosclerosis = Calcium, Fat, Cholesterol Narrowing Lumen",
+    "memoryHook": "Atherosclerosis = Calcium, Fat, Cholesterol Narrowing Lumen",
+    "fact": "Cause: Deposits of Calcium, Fat, Cholesterol, and fibrous tissues in coronary arteries. Pathology: Narrows the lumen of arteries supplying blood to heart muscle",
+    "breakdown": [
+      {
+        "key": "Cause",
+        "label": "Deposits of Calcium, Fat, Cholesterol, and fibrous tissues in coronary arteries"
+      },
+      {
+        "key": "Pathology",
+        "label": "Narrows the lumen of arteries supplying blood to heart muscle"
+      }
+    ],
+    "doodleBadge": "Atherosclerosis = Calciu",
+    "doodleSubtext": "Coronary Artery Disease ",
+    "explanation": "Pathological narrowing of coronary arteries obstructing myocardial perfusion.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Coronary Artery Disease (CAD) / Atherosclerosis.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.32",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Coronary"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 32,
+      "chapter": "Body Fluids and Circulation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Coronary Artery Disease (CAD) / Atherosclerosis\" in NEET Biology?",
+      "options": [
+        "Atherosclerosis = Calcium, Fat, Cholesterol Narrowing Lumen",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pathological narrowing of coronary arteries obstructing myocardial perfusion."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch15-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-15",
+    "chapterNumber": 15,
+    "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-3",
+    "topicTitle": "Angina Pectoris (Chest Pain)",
+    "topic": "Angina Pectoris (Chest Pain)",
+    "mnemonicNumber": 29,
+    "title": "Angina Pectoris (Chest Pain): \"Acute Chest Pain, Lack of Oxygen to Heart Muscle\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Acute Chest Pain, Lack of Oxygen to Heart Muscle",
+    "memoryHook": "Acute Chest Pain, Lack of Oxygen to Heart Muscle",
+    "fact": "Symptom: Acute chest pain appearing when not enough oxygen reaches heart muscle. Demographics: Can occur in men and women of any age but more common in middle-aged and elderly",
+    "breakdown": [
+      {
+        "key": "Symptom",
+        "label": "Acute chest pain appearing when not enough oxygen reaches heart muscle"
+      },
+      {
+        "key": "Demographics",
+        "label": "Can occur in men and women of any age but more common in middle-aged and elderly"
+      }
+    ],
+    "doodleBadge": "Acute Chest Pain, Lack o",
+    "doodleSubtext": "Angina Pectoris (Chest P",
+    "explanation": "Ischemic symptom presenting as severe retrosternal chest pain during exertion/stress.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Angina Pectoris (Chest Pain).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.32",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Angina"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 32,
+      "chapter": "Body Fluids and Circulation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Angina Pectoris (Chest Pain)\" in NEET Biology?",
+      "options": [
+        "Acute Chest Pain, Lack of Oxygen to Heart Muscle",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Ischemic symptom presenting as severe retrosternal chest pain during exertion/stress."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch15-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-15",
+    "chapterNumber": 15,
+    "chapterTitle": "Body Fluids and Circulation",
+    "classLevel": 11,
+    "topicId": "bio-top-15-3",
+    "topicTitle": "Heart Failure vs Cardiac Arrest vs Heart Attack",
+    "topic": "Heart Failure vs Cardiac Arrest vs Heart Attack",
+    "mnemonicNumber": 30,
+    "title": "Heart Failure vs Cardiac Arrest vs Heart Attack: \"Failure = Ineffective Pump, Arrest = Heart Stops Beating, Attack = Muscle Damaged\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "Failure = Ineffective Pump, Arrest = Heart Stops Beating, Attack = Muscle Damaged",
+    "memoryHook": "Failure = Ineffective Pump, Arrest = Heart Stops Beating, Attack = Muscle Damaged",
+    "fact": "Heart Failure: Heart doesn't pump blood effectively enough to meet body needs (often called congestive heart failure due to lung congestion). Cardiac Arrest: Heart completely stops beating due to electrical failure. Heart Attack (Myocardial Infarction): Heart muscle is suddenly damaged by an inadequate blood supply",
+    "breakdown": [
+      {
+        "key": "Heart Failure",
+        "label": "Heart doesn't pump blood effectively enough to meet body needs (often called congestive heart failure due to lung congestion)"
+      },
+      {
+        "key": "Cardiac Arrest",
+        "label": "Heart completely stops beating due to electrical failure"
+      }
+    ],
+    "doodleBadge": "Failure = Ineffective Pu",
+    "doodleSubtext": "Heart Failure vs Cardiac",
+    "explanation": "Clinical differentiation between cardiac pump dysfunction, electrical cessation, and acute ischemia. Chapter 15: Body Fluids and Circulation (30 Mnemonics) \tPage 5",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 15 (Body Fluids and Circulation).",
+    "neetTrap": "Pay close attention to exact terminology in Heart Failure vs Cardiac Arrest vs Heart Attack.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 15, Page from PDF p.32",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Body Fluids and Circulation",
+      "Heart"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 32,
+      "chapter": "Body Fluids and Circulation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Heart Failure vs Cardiac Arrest vs Heart Attack\" in NEET Biology?",
+      "options": [
+        "Heart doesn't pump blood effectively enough to meet body needs (often called con",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Heart doesn't pump blood effectively enough to meet body needs (often called congestive heart failure due to lung congestion)\". Remember using: \"Failure = Ineffective Pump, Arrest = Heart Stops Beating, Attack = Muscle Damaged\"."
     }
   }
 ];

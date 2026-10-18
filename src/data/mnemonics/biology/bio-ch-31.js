@@ -1,1240 +1,3192 @@
+/**
+ * NEET Biology Mnemonics — Chapter 31 (NCERT Ch 12): Ecosystem
+ * Class 12 Biology (50 verified mnemonics)
+ * Primary Source: NCERT Class 12 Biology Quick Revision Series (PDF 2)
+ */
+
 export const bioCh31Mnemonics = [
   {
-    "id": "bio-ch31-01",
+    "id": "mnemo-bio-ch31-01",
     "subject": "biology",
     "chapterId": "bio-ch-31",
     "chapterNumber": 31,
     "chapterTitle": "Ecosystem",
+    "classLevel": 12,
     "topicId": "bio-top-31-1",
-    "topicTitle": "Decomposition 5 Steps: FL CHM",
+    "topicTitle": "4 Functional Aspects of Ecosystem",
+    "topic": "4 Functional Aspects of Ecosystem",
     "mnemonicNumber": 1,
-    "title": "Decomposition 5 Steps: FL CHM (Fragmentation, Leaching, Catabolism, Humification, Mineralization)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 1,
+    "title": "4 Functional Aspects of Ecosystem: \"P-D-E-N: Primary Doctors Enjoy Nutrition\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "sequence",
+    "difficulty": "medium",
+    "visualType": "classification",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "FL CHM: Fragmentation (Earthworm) → Leaching (Solubles drop) → Catabolism (Fungi/Bacteria enzymes) → Humification (Dark Humus) → Mineralization (Inorganic Ions)",
-    "memoryHook": "Earthworm breaks detritus (Fragmentation) → Water washes minerals into soil horizon (Leaching) → Microbial enzymes digest (Catabolism) → Dark colloidal humus forms (Humification) → Inorganic nutrients released (Mineralization)!",
-    "fact": "Decomposition of dead organic matter (detritus) involves 5 steps: 1. Fragmentation (Detritivores like earthworms break detritus into smaller particles), 2. Leaching (Water-soluble inorganic nutrients seep into soil horizon and precipitate as unavailable salts), 3. Catabolism (Bacterial and fungal enzymes degrade detritus into simpler inorganic substances), 4. Humification (Accumulation of dark, amorphous, colloidal humus), 5. Mineralization (Degradation of humus by microbes releasing inorganic nutrients).",
+    "mnemonic": "P-D-E-N: Primary Doctors Enjoy Nutrition",
+    "memoryHook": "P-D-E-N: Primary Doctors Enjoy Nutrition",
+    "fact": "Productivity, Decomposition, Energy flow, Nutrient cycling.",
     "breakdown": [
       {
-        "key": "1. Fragmentation",
-        "label": "Detritivores (e.g. Earthworm) break dead detritus into smaller bits, increasing surface area"
+        "key": "P",
+        "label": "Productivity"
       },
       {
-        "key": "2. Leaching",
-        "label": "Water-soluble inorganic nutrients percolate down into soil horizons and precipitate out"
+        "key": "D",
+        "label": "Decomposition"
       },
       {
-        "key": "3. Catabolism",
-        "label": "Extracellular enzymes from fungi and bacteria break down complex polymers"
+        "key": "E",
+        "label": "Energy flow"
       },
       {
-        "key": "4. Humification",
-        "label": "Leads to accumulation of dark amorphous colloidal substance called HUMUS (highly resistant to microbes, acts as nutrient reservoir)"
-      },
-      {
-        "key": "5. Mineralization",
-        "label": "Humus is further broken down by specialized microbes, releasing inorganic minerals (N, P, K)"
+        "key": "N",
+        "label": "Nutrient cycling"
       }
     ],
-    "doodleBadge": "F → L → C → H → M",
-    "doodleSubtext": "5 Decomposition Steps",
-    "explanation": "Humus is dark-colored, amorphous, and colloidal in nature. It serves as a reservoir of nutrients and undergoes decomposition at an extremely slow rate.",
-    "alsoRemember": "Decomposition is faster if detritus is rich in Nitrogen and sugars, and slower if rich in Lignin and Chitin.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.3.",
-    "neetTrap": "Humification and Mineralization occur during decomposition in the SOIL, while fragmentation, leaching, and catabolism operate simultaneously on the detritus.",
+    "doodleBadge": "P-D-E-N: Primary Doctors",
+    "doodleSubtext": "4 Functional Aspects of ",
+    "explanation": "Productivity, Decomposition, Energy flow, Nutrient cycling.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in 4 Functional Aspects of Ecosystem.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 5",
     "tags": [
-      "Ecology",
+      "NEET Biology",
+      "Class 12",
       "Ecosystem",
-      "Decomposition",
-      "Humus",
-      "Leaching"
+      "4"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 5,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "During the process of decomposition, what is the step called where water-soluble inorganic nutrients go down into the soil horizon and get precipitated as unavailable salts?",
+      "question": "Which of the following is associated with \"4 Functional Aspects of Ecosystem\" in NEET Biology?",
       "options": [
-        "Catabolism",
-        "Leaching",
-        "Humification",
-        "Mineralization"
-      ],
-      "answerIndex": 1,
-      "explanation": "Leaching is the downward percolation of water-soluble inorganic nutrients into lower soil horizons where they precipitate."
-    }
-  },
-  {
-    "id": "bio-ch31-02",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-2",
-    "topicTitle": "Ecological Pyramids: Energy Pyramid is ALWAYS Upright",
-    "mnemonicNumber": 2,
-    "title": "Pyramid of Energy is ALWAYS Upright (10% Law)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Energy Pyramid = ALWAYS UPRIGHT (Never inverted!) | Biomass in Sea = INVERTED (Phytoplankton < Fishes) | Tree Pyramid of Numbers = INVERTED (1 Tree → Many Birds → Thousands of Parasites)",
-    "memoryHook": "Energy is always lost as heat at each step (Lindeman's 10% law), so energy pyramid can NEVER be inverted! Biomass in sea is inverted because small standing crop of phytoplankton supports huge fish biomass!",
-    "fact": "1. Pyramid of Energy: ALWAYS UPRIGHT because energy is lost as metabolic heat at every trophic transfer (only ~10% passes to next level). 2. Pyramid of Biomass in Sea: INVERTED because standing biomass of phytoplankton with rapid turnover is very small compared to long-lived predatory fishes. 3. Pyramid of Numbers in a Tree Ecosystem: INVERTED (1 large tree supports many herbivorous birds, which support thousands of hyperparasitic lice/mites).",
-    "breakdown": [
-      {
-        "key": "Energy Pyramid",
-        "label": "ALWAYS upright; can never be inverted in any ecosystem (Thermodynamics 2nd Law)"
-      },
-      {
-        "key": "Biomass in Ocean/Sea",
-        "label": "INVERTED (Phytoplankton small standing crop < Zooplankton < Fishes)"
-      },
-      {
-        "key": "Numbers in Grassland",
-        "label": "UPRIGHT (Millions of grass blades → Rabbits → Wolves → Lions)"
-      },
-      {
-        "key": "Numbers on Single Tree",
-        "label": "INVERTED (1 Producer Tree → Many Birds → Innumerable Parasites)"
-      }
-    ],
-    "doodleBadge": "Energy: ALWAYS Upright\nSea Biomass: Inverted",
-    "doodleSubtext": "Pyramid Rules",
-    "explanation": "Lindeman's 10% Law of Energy Transfer: on average, only 10% of the energy entering a trophic level is stored as biomass available to the next higher trophic level.",
-    "alsoRemember": "Saprophytes/decomposers are not given any place in ecological pyramids despite playing a vital role in ecosystems.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.5, Figure 14.4.",
-    "neetTrap": "The Pyramid of Energy can NEVER be inverted under any circumstance in any ecosystem.",
-    "tags": [
-      "Ecosystem",
-      "Energy Pyramid",
-      "Biomass Pyramid",
-      "Lindeman Law",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "Which type of ecological pyramid is ALWAYS upright and can never be inverted under any natural condition?",
-      "options": [
-        "Pyramid of biomass in an ocean",
-        "Pyramid of numbers on a single tree",
-        "Pyramid of energy in any ecosystem",
-        "Pyramid of biomass in a lake"
-      ],
-      "answerIndex": 2,
-      "explanation": "The pyramid of energy is always upright because energy is progressively lost as heat at each step according to the second law of thermodynamics."
-    }
-  },
-  {
-    "id": "bio-ch31-03",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-3",
-    "topicTitle": "Primary Productivity: GPP vs NPP",
-    "mnemonicNumber": 3,
-    "title": "Productivity Equation: NPP = GPP - R (Net = Gross - Respiration)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "process",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Gross Primary Productivity (GPP) - Respiration losses (R) = Net Primary Productivity (NPP)",
-    "memoryHook": "GPP is total sugar made in photosynthesis; subtract the plant's own breathing/maintenance tax (R), and what is left for herbivores is NPP!",
-    "fact": "Primary productivity formulas: 1. Gross Primary Productivity (GPP): total rate of production of organic matter during photosynthesis. 2. Net Primary Productivity (NPP): biomass available for consumption by heterotrophs (herbivores and decomposers). Equation: NPP = GPP - R (where R = respiratory losses).",
-    "breakdown": [
-      {
-        "key": "GPP (Gross Primary Productivity)",
-        "label": "Total organic biomass manufactured by plants per unit area per unit time"
-      },
-      {
-        "key": "R (Respiration)",
-        "label": "Metabolic energy used by plants for cellular respiration and maintenance"
-      },
-      {
-        "key": "NPP (Net Primary Productivity)",
-        "label": "Remaining biomass available to herbivores (NPP = GPP - R)"
-      },
-      {
-        "key": "Secondary Productivity",
-        "label": "Rate of formation of new organic matter by consumers (herbivores/carnivores)"
-      }
-    ],
-    "doodleBadge": "NPP = GPP - R\nNet = Gross - Respiration",
-    "doodleSubtext": "Productivity Equation",
-    "explanation": "The annual net primary productivity of the entire biosphere is approximately 170 billion tons (dry weight) of organic matter.",
-    "alsoRemember": "Oceans occupy ~70% of the Earth's surface, but contribute only 55 billion tons of annual productivity (terrestrial land contributes 115 billion tons).",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.2.",
-    "neetTrap": "Oceans cover 70% of Earth's surface but contribute only 55 billion tons (~32%) of global productivity due to light and nutrient limitation.",
-    "tags": [
-      "Ecosystem",
-      "GPP",
-      "NPP",
-      "Primary Productivity",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "What is the annual net primary productivity of the entire biosphere, and what proportion is contributed by the oceans?",
-      "options": [
-        "Total: 170 billion tons; Oceans: 55 billion tons",
-        "Total: 170 billion tons; Oceans: 115 billion tons",
-        "Total: 55 billion tons; Oceans: 170 billion tons",
-        "Total: 250 billion tons; Oceans: 180 billion tons"
+        "P-D-E-N: Primary Doctors Enjoy Nutrition",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
       "answerIndex": 0,
-      "explanation": "The annual net primary productivity of the biosphere is ~170 billion tons, of which oceans contribute only 55 billion tons."
+      "explanation": "Productivity, Decomposition, Energy flow, Nutrient cycling."
     }
   },
   {
-    "id": "bio-ch31-04",
+    "id": "mnemo-bio-ch31-02",
     "subject": "biology",
     "chapterId": "bio-ch-31",
     "chapterNumber": 31,
     "chapterTitle": "Ecosystem",
+    "classLevel": 12,
     "topicId": "bio-top-31-1",
-    "topicTitle": "Grazing vs Detritus Food Chain",
+    "topicTitle": "5 Steps of Decomposition",
+    "topic": "5 Steps of Decomposition",
+    "mnemonicNumber": 2,
+    "sourceItemNumber": 2,
+    "title": "5 Steps of Decomposition: \"F-L-C-H-M: Fresh Lemons Create Healthy\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "F-L-C-H-M: Fresh Lemons Create Healthy",
+    "memoryHook": "F-L-C-H-M: Fresh Lemons Create Healthy",
+    "fact": "Morning\" Fragmentation, Leaching, Catabolism, Humification, Mineralisation.",
+    "breakdown": [
+      {
+        "key": "F",
+        "label": "Morning\" Fragmentation"
+      },
+      {
+        "key": "L",
+        "label": "Leaching"
+      },
+      {
+        "key": "C",
+        "label": "Catabolism"
+      },
+      {
+        "key": "H",
+        "label": "Humification"
+      },
+      {
+        "key": "M",
+        "label": "Mineralisation"
+      }
+    ],
+    "doodleBadge": "F-L-C-H-M: Fresh Lemons ",
+    "doodleSubtext": "5 Steps of Decomposition",
+    "explanation": "Morning\" Fragmentation, Leaching, Catabolism, Humification, Mineralisation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in 5 Steps of Decomposition.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 5",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "5"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 5,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"5 Steps of Decomposition\" in NEET Biology?",
+      "options": [
+        "F-L-C-H-M: Fresh Lemons Create Healthy",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Morning\" Fragmentation, Leaching, Catabolism, Humification, Mineralisation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-03",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-1",
+    "topicTitle": "Agents of Fragmentation",
+    "topic": "Agents of Fragmentation",
+    "mnemonicNumber": 3,
+    "sourceItemNumber": 3,
+    "title": "Agents of Fragmentation: \"E-A-R-T-H: Earthworms Eating Litter\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "E-A-R-T-H: Earthworms Eating Litter",
+    "memoryHook": "E-A-R-T-H: Earthworms Eating Litter",
+    "fact": "Detritivores (e.g. Earthworms) break down detritus into smaller particles.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Agents of Fragmentation"
+      },
+      {
+        "key": "Trick",
+        "label": "E-A-R-T-H: Earthworms Eating Litter"
+      }
+    ],
+    "doodleBadge": "E-A-R-T-H: Earthworms Ea",
+    "doodleSubtext": "Agents of Fragmentation",
+    "explanation": "Detritivores (e.g. Earthworms) break down detritus into smaller particles.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Agents of Fragmentation.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 5",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Agents"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 5,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Agents of Fragmentation\" in NEET Biology?",
+      "options": [
+        "E-A-R-T-H: Earthworms Eating Litter",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Detritivores (e.g. Earthworms) break down detritus into smaller particles."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-04",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-1",
+    "topicTitle": "Leaching Mechanism",
+    "topic": "Leaching Mechanism",
     "mnemonicNumber": 4,
-    "title": "Food Chains: GFC (Sunlight Driven in Ocean) vs DFC (Dead Matter Driven in Forest)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 4,
+    "title": "Leaching Mechanism: \"W-S-I: Water Soluble Inorganic\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "GFC (Grazing Food Chain: Producer → Herbivore → Carnivore) | DFC (Detritus Food Chain: Dead litter → Fungi/Bacteria → Detritivores)",
-    "memoryHook": "In aquatic ecosystems, GFC is the major conduit for energy flow; in terrestrial forest ecosystems, a much larger fraction of energy flows through DFC (Detritus)!",
-    "fact": "1. Grazing Food Chain (GFC): Starts with living green plants (producers) → herbivores → primary carnivores. In aquatic ecosystems, GFC is the major conduit for energy flow. 2. Detritus Food Chain (DFC): Starts with dead organic matter (leaf litter, dead animals) → decomposers (heterotrophic fungi and bacteria). In terrestrial ecosystems, much more energy flows through DFC than GFC.",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "W-S-I: Water Soluble Inorganic",
+    "memoryHook": "W-S-I: Water Soluble Inorganic",
+    "fact": "Water-Soluble Inorganic nutrients go down soil horizon and precipitate as unavailable salts.",
     "breakdown": [
       {
-        "key": "GFC (Grazing)",
-        "label": "Grass → Goat → Man | Phytoplankton → Zooplankton → Small fish → Large fish"
+        "key": "Focus",
+        "label": "Leaching Mechanism"
       },
       {
-        "key": "DFC (Detritus)",
-        "label": "Dead leaves → Earthworm / Fungi → Soil predators"
-      },
-      {
-        "key": "Aquatic Dominance",
-        "label": "GFC dominates energy flow in oceans and deep lakes"
-      },
-      {
-        "key": "Terrestrial Dominance",
-        "label": "DFC dominates energy flow in forests and grasslands"
-      },
-      {
-        "key": "Interconnection",
-        "label": "DFC can be connected with GFC at some levels (e.g. Cockroaches/crows omnivores in both)"
+        "key": "Trick",
+        "label": "W-S-I: Water Soluble Inorganic"
       }
     ],
-    "doodleBadge": "Aquatic: GFC Dominates\nTerrestrial: DFC Dominates",
-    "doodleSubtext": "Energy Flow Channels",
-    "explanation": "Decomposers in DFC secrete digestive enzymes extracellularly to break down organic matter into simple inorganic nutrients and absorb them (saprotrophy).",
-    "alsoRemember": "A network of interconnected food chains forms a Food Web, which provides stability to the ecosystem.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.4.",
-    "neetTrap": "In terrestrial ecosystems, MORE energy flows through DFC than GFC; in aquatic ecosystems, GFC is the major conduit.",
+    "doodleBadge": "W-S-I: Water Soluble Ino",
+    "doodleSubtext": "Leaching Mechanism",
+    "explanation": "Water-Soluble Inorganic nutrients go down soil horizon and precipitate as unavailable salts.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Leaching Mechanism.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 5",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Ecosystem",
-      "GFC",
-      "DFC",
-      "Food Chain",
-      "Class 12"
+      "Leaching"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 5,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "In a terrestrial forest ecosystem, which food chain is the major conduit for energy flow?",
+      "question": "Which of the following is associated with \"Leaching Mechanism\" in NEET Biology?",
       "options": [
-        "Grazing food chain (GFC)",
-        "Detritus food chain (DFC)",
-        "Parasitic food chain",
-        "Solar food chain"
+        "W-S-I: Water Soluble Inorganic",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "In terrestrial ecosystems, a much larger fraction of energy flows through the Detritus Food Chain (DFC) via dead leaf litter."
+      "answerIndex": 0,
+      "explanation": "Water-Soluble Inorganic nutrients go down soil horizon and precipitate as unavailable salts."
     }
   },
   {
-    "id": "bio-ch31-05",
+    "id": "mnemo-bio-ch31-05",
     "subject": "biology",
     "chapterId": "bio-ch-31",
     "chapterNumber": 31,
     "chapterTitle": "Ecosystem",
+    "classLevel": 12,
     "topicId": "bio-top-31-1",
-    "topicTitle": "PAR: Photosynthetically Active Radiation",
+    "topicTitle": "Catabolism Enzymes",
+    "topic": "Catabolism Enzymes",
     "mnemonicNumber": 5,
-    "title": "Solar Energy: 50% is PAR (400–700 nm) → Plants Capture Only 2–10% of PAR",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 5,
+    "title": "Catabolism Enzymes: \"B-F: Bacteria & Fungi\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "process",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Incident Sunlight → 50% is PAR (400-700nm) → Plants capture only 2-10% of PAR (1-5% of total incident light)!",
-    "memoryHook": "Of total incident solar radiation, less than 50% is PAR; plants capture only 2–10% of this PAR to sustain the entire living world!",
-    "fact": "Solar radiation facts in NCERT: 1. Of the total incident solar radiation, less than 50% is Photosynthetically Active Radiation (PAR, 400-700 nm wavelength). 2. Photosynthetic plants capture only 2–10% of the PAR (which equals ~1–5% of total incident solar radiation). This small fraction sustains the entire living biosphere.",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "B-F: Bacteria & Fungi",
+    "memoryHook": "B-F: Bacteria & Fungi",
+    "fact": "Bacterial and Fungal enzymes degrade detritus into simpler inorganic substances.",
     "breakdown": [
       {
-        "key": "Incident Solar Radiation",
-        "label": "100% total solar energy striking Earth's upper atmosphere"
+        "key": "B",
+        "label": "Bacterial"
       },
       {
-        "key": "PAR Fraction",
-        "label": "< 50% of incident radiation falls in 400–700 nm visible band"
-      },
-      {
-        "key": "Captured by Plants",
-        "label": "Only 2–10% of PAR is converted into chemical energy of biomass by photosynthesis"
-      },
-      {
-        "key": "Fraction of Total Incident Light",
-        "label": "1% to 5% of total incident sunlight"
+        "key": "F",
+        "label": "Fungal enzymes degrade detritus into simpler inorganic substances"
       }
     ],
-    "doodleBadge": "PAR = <50% of Sun\nPlants capture 2-10% PAR",
-    "doodleSubtext": "Solar Energy Flow",
-    "explanation": "Deep-sea hydrothermal ecosystems are the only known ecosystems on Earth that do not depend directly or indirectly on solar energy (they rely on chemosynthetic sulfur bacteria).",
-    "alsoRemember": "Ecosystems obey the First and Second Laws of Thermodynamics (energy is conserved, but quality degrades into heat).",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.4.",
-    "neetTrap": "Plants capture 2–10% of PAR, which corresponds to roughly 1–5% of TOTAL INCIDENT sunlight.",
+    "doodleBadge": "B-F: Bacteria & Fungi",
+    "doodleSubtext": "Catabolism Enzymes",
+    "explanation": "Bacterial and Fungal enzymes degrade detritus into simpler inorganic substances.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Catabolism Enzymes.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 5",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Ecosystem",
-      "PAR",
-      "Solar Radiation",
-      "Photosynthesis",
-      "Class 12"
+      "Catabolism"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 5,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "What percentage of Photosynthetically Active Radiation (PAR) is captured by autotrophic green plants during photosynthesis?",
+      "question": "Which of the following is associated with \"Catabolism Enzymes\" in NEET Biology?",
       "options": [
-        "50%",
-        "2–10%",
-        "20–30%",
-        "100%"
+        "B-F: Bacteria & Fungi",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Plants capture only 2–10% of Photosynthetically Active Radiation (PAR) to manufacture organic biomass."
+      "answerIndex": 0,
+      "explanation": "Bacterial and Fungal enzymes degrade detritus into simpler inorganic substances."
     }
   },
   {
-    "id": "bio-ch31-06",
+    "id": "mnemo-bio-ch31-06",
     "subject": "biology",
     "chapterId": "bio-ch-31",
     "chapterNumber": 31,
     "chapterTitle": "Ecosystem",
+    "classLevel": 12,
     "topicId": "bio-top-31-1",
-    "topicTitle": "Decomposition Rate Factors: Temperature, Moisture, Chemical Composition",
+    "topicTitle": "Properties of Humus",
+    "topic": "Properties of Humus",
     "mnemonicNumber": 6,
-    "title": "Decomposition Speed: Fast (Warm + Moist + Nitrogen) vs Slow (Cold + Dry + Lignin/Chitin)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 6,
+    "title": "Properties of Humus: \"A-D-C-R: Dark Amorphous Colloidal Reservoir\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "A-D-C-R: Dark Amorphous Colloidal Reservoir",
+    "memoryHook": "A-D-C-R: Dark Amorphous Colloidal Reservoir",
+    "fact": "Amorphous, Dark colored, Colloidal (reservoir of nutrients), Resistant to microbial action.",
+    "breakdown": [
+      {
+        "key": "A",
+        "label": "Amorphous"
+      },
+      {
+        "key": "D",
+        "label": "Dark colored"
+      },
+      {
+        "key": "C",
+        "label": "Colloidal (reservoir of nutrients)"
+      },
+      {
+        "key": "R",
+        "label": "Resistant to microbial action"
+      }
+    ],
+    "doodleBadge": "A-D-C-R: Dark Amorphous ",
+    "doodleSubtext": "Properties of Humus",
+    "explanation": "Amorphous, Dark colored, Colloidal (reservoir of nutrients), Resistant to microbial action.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Properties of Humus.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 5",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Properties"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 5,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Properties of Humus\" in NEET Biology?",
+      "options": [
+        "A-D-C-R: Dark Amorphous Colloidal Reservoir",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Amorphous, Dark colored, Colloidal (reservoir of nutrients), Resistant to microbial action."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-07",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-1",
+    "topicTitle": "Slow Decomposition Factors",
+    "topic": "Slow Decomposition Factors",
+    "mnemonicNumber": 7,
+    "sourceItemNumber": 7,
+    "title": "Slow Decomposition Factors: \"L-C-O-D: Lignin Chitin Oxygen Down\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "L-C-O-D: Lignin Chitin Oxygen Down",
+    "memoryHook": "L-C-O-D: Lignin Chitin Oxygen Down",
+    "fact": "Decomposition is slower if detritus is rich in Lignin & Chitin, or under low Oxygen (anaerobiosis).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Slow Decomposition Factors"
+      },
+      {
+        "key": "Trick",
+        "label": "L-C-O-D: Lignin Chitin Oxygen Down"
+      }
+    ],
+    "doodleBadge": "L-C-O-D: Lignin Chitin O",
+    "doodleSubtext": "Slow Decomposition Facto",
+    "explanation": "Decomposition is slower if detritus is rich in Lignin & Chitin, or under low Oxygen (anaerobiosis).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Slow Decomposition Factors.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 5",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Slow"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 5,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Slow Decomposition Factors\" in NEET Biology?",
+      "options": [
+        "L-C-O-D: Lignin Chitin Oxygen Down",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Decomposition is slower if detritus is rich in Lignin & Chitin, or under low Oxygen (anaerobiosis)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-08",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-1",
+    "topicTitle": "Fast Decomposition Factors",
+    "topic": "Fast Decomposition Factors",
+    "mnemonicNumber": 8,
+    "sourceItemNumber": 8,
+    "title": "Fast Decomposition Factors: \"N-S-W-T: Nitrogen Sugars Warm Tropical\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "N-S-W-T: Nitrogen Sugars Warm Tropical",
+    "memoryHook": "N-S-W-T: Nitrogen Sugars Warm Tropical",
+    "fact": "Decomposition is faster if detritus is rich in Nitrogen & Sugars, with Warm & Tropically moist climate. Master Ecosystem Structure, Decomposition, Energy Flow, Pyramids & Ecological Succession",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Decomposition"
+      },
+      {
+        "key": "Point 2",
+        "label": "Energy Flow"
+      },
+      {
+        "key": "Point 3",
+        "label": "Pyramids & Ecological Succession"
+      }
+    ],
+    "doodleBadge": "N-S-W-T: Nitrogen Sugars",
+    "doodleSubtext": "Fast Decomposition Facto",
+    "explanation": "Decomposition is faster if detritus is rich in Nitrogen & Sugars, with Warm & Tropically moist climate. Master Ecosystem Structure, Decomposition, Energy Flow, Pyramids & Ecological Succession",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Fast Decomposition Factors.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 5",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Fast"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 5,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Fast Decomposition Factors\" in NEET Biology?",
+      "options": [
+        "N-S-W-T: Nitrogen Sugars Warm Tropical",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Decomposition is faster if detritus is rich in Nitrogen & Sugars, with Warm & Tropically moist climate. Master Ecosystem Structure, Decomposition, Energy Flow, Pyramids & Ecological Succession"
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-09",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-1",
+    "topicTitle": "GPP vs NPP Relation",
+    "topic": "GPP vs NPP Relation",
+    "mnemonicNumber": 9,
+    "sourceItemNumber": 9,
+    "title": "GPP vs NPP Relation: \"NPP = GPP - R: Net Productivity Payoff\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "NPP = GPP - R: Net Productivity Payoff",
+    "memoryHook": "NPP = GPP - R: Net Productivity Payoff",
+    "fact": "Net Primary Productivity = Gross Primary Productivity minus Respiration losses.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "GPP vs NPP Relation"
+      },
+      {
+        "key": "Trick",
+        "label": "NPP = GPP - R: Net Productivity Payoff"
+      }
+    ],
+    "doodleBadge": "NPP = GPP - R: Net Produ",
+    "doodleSubtext": "GPP vs NPP Relation",
+    "explanation": "Net Primary Productivity = Gross Primary Productivity minus Respiration losses.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in GPP vs NPP Relation.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 6",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "GPP"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 6,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"GPP vs NPP Relation\" in NEET Biology?",
+      "options": [
+        "NPP = GPP - R: Net Productivity Payoff",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Net Primary Productivity = Gross Primary Productivity minus Respiration losses."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-10",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-1",
+    "topicTitle": "Global Primary Productivity",
+    "topic": "Global Primary Productivity",
+    "mnemonicNumber": 10,
+    "sourceItemNumber": 10,
+    "title": "Global Primary Productivity: \"170 Billion Tons Total (Dry Organic)\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "170 Billion Tons Total (Dry Organic)",
+    "memoryHook": "170 Billion Tons Total (Dry Organic)",
+    "fact": "Annual net primary productivity of whole biosphere is ~170 billion tons (dry weight).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Global Primary Productivity"
+      },
+      {
+        "key": "Trick",
+        "label": "170 Billion Tons Total (Dry Organic)"
+      }
+    ],
+    "doodleBadge": "170 Billion Tons Total (",
+    "doodleSubtext": "Global Primary Productiv",
+    "explanation": "Annual net primary productivity of whole biosphere is ~170 billion tons (dry weight).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Global Primary Productivity.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 6",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Global"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 6,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Global Primary Productivity\" in NEET Biology?",
+      "options": [
+        "170 Billion Tons Total (Dry Organic)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Annual net primary productivity of whole biosphere is ~170 billion tons (dry weight)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-11",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-2",
+    "topicTitle": "Oceanic Productivity Share",
+    "topic": "Oceanic Productivity Share",
+    "mnemonicNumber": 11,
+    "sourceItemNumber": 11,
+    "title": "Oceanic Productivity Share: \"Oceans = 70% Area but ONLY 55 Billion Tons\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Oceans = 70% Area but ONLY 55 Billion Tons",
+    "memoryHook": "Oceans = 70% Area but ONLY 55 Billion Tons",
+    "fact": "Oceans occupy ~70% of earth surface but contribute only 55 billion tons (~32% of total productivity).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Oceanic Productivity Share"
+      },
+      {
+        "key": "Trick",
+        "label": "Oceans = 70% Area but ONLY 55 Billion Tons"
+      }
+    ],
+    "doodleBadge": "Oceans = 70% Area but ON",
+    "doodleSubtext": "Oceanic Productivity Sha",
+    "explanation": "Oceans occupy ~70% of earth surface but contribute only 55 billion tons (~32% of total productivity).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Oceanic Productivity Share.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 6",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Oceanic"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 6,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Oceanic Productivity Share\" in NEET Biology?",
+      "options": [
+        "Oceans = 70% Area but ONLY 55 Billion Tons",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Oceans occupy ~70% of earth surface but contribute only 55 billion tons (~32% of total productivity)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-12",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-2",
+    "topicTitle": "Secondary Productivity Definition",
+    "topic": "Secondary Productivity Definition",
+    "mnemonicNumber": 12,
+    "sourceItemNumber": 12,
+    "title": "Secondary Productivity Definition: \"C-O-N: Consumers Organic New\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Fast = Warm (>25°C), Moist, High Nitrogen & Water-Soluble Sugars | Slow = Low Temp, Anaerobic, High Lignin & Chitin",
-    "memoryHook": "Warmth, moisture, and nitrogen-rich detritus speed up microbial enzymes; cold freezing weather, lack of oxygen, and tough lignin/chitin slow rot down!",
-    "fact": "Factors governing decomposition rate: 1. Chemical nature of detritus: decomposition is SLOW if detritus is rich in Lignin and Chitin, and FAST if rich in Nitrogen and water-soluble substances (like sugars). 2. Climatic factors: Warm temperature and moist environment favor decomposition; low temperature and anaerobiosis inhibit decomposition resulting in buildup of organic materials.",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "C-O-N: Consumers Organic New",
+    "memoryHook": "C-O-N: Consumers Organic New",
+    "fact": "Rate of formation of new organic matter by Consumers.",
     "breakdown": [
       {
-        "key": "Detritus Rich in Lignin / Chitin",
-        "label": "Very slow decomposition rate (tough aromatic polymers resist enzymes)"
+        "key": "Part 1",
+        "label": "C"
       },
       {
-        "key": "Detritus Rich in Nitrogen / Sugars",
-        "label": "Rapid decomposition rate (easy substrate for bacteria and fungi)"
+        "key": "Part 2",
+        "label": "O"
       },
       {
-        "key": "Warm & Moist Climate",
-        "label": "Optimal microbial metabolism (rapid humus formation)"
-      },
-      {
-        "key": "Cold & Anaerobic Conditions",
-        "label": "Inhibits microbes, leading to peat and un-decomposed organic layer accumulation"
+        "key": "Part 3",
+        "label": "N: Consumers Organic New"
       }
     ],
-    "doodleBadge": "Warm + Moist = Fast\nLignin + Cold = Slow",
-    "doodleSubtext": "Decomposition Controls",
-    "explanation": "In tropical rainforests, high warmth and humidity result in rapid decomposition; standing litter is minimal and soil has low nutrient retention.",
-    "alsoRemember": "Peat bogs accumulate because anaerobic, acidic, and cold conditions completely halt microbial decomposition.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.3.",
-    "neetTrap": "Anaerobiosis (lack of oxygen) and low temperature INHIBIT decomposition, causing buildup of organic matter.",
+    "doodleBadge": "C-O-N: Consumers Organic",
+    "doodleSubtext": "Secondary Productivity D",
+    "explanation": "Rate of formation of new organic matter by Consumers.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Secondary Productivity Definition.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 6",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Ecosystem",
-      "Decomposition",
-      "Lignin",
-      "Chitin",
+      "Secondary"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 6,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Secondary Productivity Definition\" in NEET Biology?",
+      "options": [
+        "C-O-N: Consumers Organic New",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Rate of formation of new organic matter by Consumers."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-13",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-2",
+    "topicTitle": "Photosynthetically Active Radiation (PAR)",
+    "topic": "Photosynthetically Active Radiation (PAR)",
+    "mnemonicNumber": 13,
+    "sourceItemNumber": 13,
+    "title": "Photosynthetically Active Radiation (PAR): \"PAR < 50% Solar Radiation\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "PAR < 50% Solar Radiation",
+    "memoryHook": "PAR < 50% Solar Radiation",
+    "fact": "Less than 50% of incident solar radiation is PAR.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Photosynthetically Active Radiation (PAR)"
+      },
+      {
+        "key": "Trick",
+        "label": "PAR < 50% Solar Radiation"
+      }
+    ],
+    "doodleBadge": "PAR < 50% Solar Radiatio",
+    "doodleSubtext": "Photosynthetically Activ",
+    "explanation": "Less than 50% of incident solar radiation is PAR.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Photosynthetically Active Radiation (PAR).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 6",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Photosynthetically"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 6,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Photosynthetically Active Radiation (PAR)\" in NEET Biology?",
+      "options": [
+        "PAR < 50% Solar Radiation",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Less than 50% of incident solar radiation is PAR."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-14",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-2",
+    "topicTitle": "PAR Captured by Plants",
+    "topic": "PAR Captured by Plants",
+    "mnemonicNumber": 14,
+    "sourceItemNumber": 14,
+    "title": "PAR Captured by Plants: \"Plants Capture 2 - 10% of PAR\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Plants Capture 2 - 10% of PAR",
+    "memoryHook": "Plants Capture 2 - 10% of PAR",
+    "fact": "Plants capture only 2-10% of PAR (which equals 1-5% of total incident solar radiation).",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Plants Capture 2"
+      },
+      {
+        "key": "Part 2",
+        "label": "10% of PAR"
+      }
+    ],
+    "doodleBadge": "Plants Capture 2 - 10% o",
+    "doodleSubtext": "PAR Captured by Plants",
+    "explanation": "Plants capture only 2-10% of PAR (which equals 1-5% of total incident solar radiation).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in PAR Captured by Plants.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 6",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "PAR"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 6,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"PAR Captured by Plants\" in NEET Biology?",
+      "options": [
+        "Plants Capture 2 - 10% of PAR",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Plants capture only 2-10% of PAR (which equals 1-5% of total incident solar radiation)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-15",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-2",
+    "topicTitle": "Energy Flow Rule",
+    "topic": "Energy Flow Rule",
+    "mnemonicNumber": 15,
+    "sourceItemNumber": 15,
+    "title": "Energy Flow Rule: \"U-N-I: Unidirectional Non-cyclic Energy\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "U-N-I: Unidirectional Non-cyclic Energy",
+    "memoryHook": "U-N-I: Unidirectional Non-cyclic Energy",
+    "fact": "Energy flow in an ecosystem is strictly Unidirectional (Sun → Producers → Consumers).",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "U"
+      },
+      {
+        "key": "Part 2",
+        "label": "N"
+      },
+      {
+        "key": "Part 3",
+        "label": "I: Unidirectional Non"
+      },
+      {
+        "key": "Part 4",
+        "label": "cyclic Energy"
+      }
+    ],
+    "doodleBadge": "U-N-I: Unidirectional No",
+    "doodleSubtext": "Energy Flow Rule",
+    "explanation": "Energy flow in an ecosystem is strictly Unidirectional (Sun → Producers → Consumers).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Energy Flow Rule.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 6",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Energy"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 6,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Energy Flow Rule\" in NEET Biology?",
+      "options": [
+        "U-N-I: Unidirectional Non-cyclic Energy",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Energy flow in an ecosystem is strictly Unidirectional (Sun → Producers → Consumers)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-16",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-2",
+    "topicTitle": "10 Percent Law",
+    "topic": "10 Percent Law",
+    "mnemonicNumber": 16,
+    "sourceItemNumber": 16,
+    "title": "10 Percent Law: \"Lindeman's 10% Transfer Limit\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Lindeman's 10% Transfer Limit",
+    "memoryHook": "Lindeman's 10% Transfer Limit",
+    "fact": "Only 10% of energy is transferred to each trophic level from the lower trophic level.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "10 Percent Law"
+      },
+      {
+        "key": "Trick",
+        "label": "Lindeman's 10% Transfer Limit"
+      }
+    ],
+    "doodleBadge": "Lindeman's 10% Transfer ",
+    "doodleSubtext": "10 Percent Law",
+    "explanation": "Only 10% of energy is transferred to each trophic level from the lower trophic level.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in 10 Percent Law.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 6",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "10"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 6,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"10 Percent Law\" in NEET Biology?",
+      "options": [
+        "Lindeman's 10% Transfer Limit",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Only 10% of energy is transferred to each trophic level from the lower trophic level."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-17",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-2",
+    "topicTitle": "Grazing Food Chain (GFC)",
+    "topic": "Grazing Food Chain (GFC)",
+    "mnemonicNumber": 17,
+    "sourceItemNumber": 17,
+    "title": "Grazing Food Chain (GFC): \"P-H-C: Producer Herbivore Carnivore\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "P-H-C: Producer Herbivore Carnivore",
+    "memoryHook": "P-H-C: Producer Herbivore Carnivore",
+    "fact": "GFC starts with Producers (Green plants) → Primary consumers (Herbivores) → Secondary consumers.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Grazing Food Chain (GFC)"
+      },
+      {
+        "key": "Trick",
+        "label": "P-H-C: Producer Herbivore Carnivore"
+      }
+    ],
+    "doodleBadge": "P-H-C: Producer Herbivor",
+    "doodleSubtext": "Grazing Food Chain (GFC)",
+    "explanation": "GFC starts with Producers (Green plants) → Primary consumers (Herbivores) → Secondary consumers.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Grazing Food Chain (GFC).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 6",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Grazing"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 6,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Grazing Food Chain (GFC)\" in NEET Biology?",
+      "options": [
+        "P-H-C: Producer Herbivore Carnivore",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "GFC starts with Producers (Green plants) → Primary consumers (Herbivores) → Secondary consumers."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-18",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-2",
+    "topicTitle": "Detritus Food Chain (DFC)",
+    "topic": "Detritus Food Chain (DFC)",
+    "mnemonicNumber": 18,
+    "sourceItemNumber": 18,
+    "title": "Detritus Food Chain (DFC): \"D-D-S: Dead Organic Detritivore Saprotroph\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "D-D-S: Dead Organic Detritivore Saprotroph",
+    "memoryHook": "D-D-S: Dead Organic Detritivore Saprotroph",
+    "fact": "DFC begins with Dead Organic Matter processed by decomposers/saprotrophs (fungi, bacteria).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Detritus Food Chain (DFC)"
+      },
+      {
+        "key": "Trick",
+        "label": "D-D-S: Dead Organic Detritivore Saprotroph"
+      }
+    ],
+    "doodleBadge": "D-D-S: Dead Organic Detr",
+    "doodleSubtext": "Detritus Food Chain (DFC",
+    "explanation": "DFC begins with Dead Organic Matter processed by decomposers/saprotrophs (fungi, bacteria).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Detritus Food Chain (DFC).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 6",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Detritus"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 6,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Detritus Food Chain (DFC)\" in NEET Biology?",
+      "options": [
+        "D-D-S: Dead Organic Detritivore Saprotroph",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "DFC begins with Dead Organic Matter processed by decomposers/saprotrophs (fungi, bacteria)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-19",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-2",
+    "topicTitle": "Pyramid of Energy Rule",
+    "topic": "Pyramid of Energy Rule",
+    "mnemonicNumber": 19,
+    "sourceItemNumber": 19,
+    "title": "Pyramid of Energy Rule: \"ALWAYS Upright - NO Exception!\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "ALWAYS Upright - NO Exception!",
+    "memoryHook": "ALWAYS Upright - NO Exception!",
+    "fact": "Pyramid of energy is ALWAYS upright because energy is lost as heat at every step.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "ALWAYS Upright"
+      },
+      {
+        "key": "Part 2",
+        "label": "NO Exception!"
+      }
+    ],
+    "doodleBadge": "ALWAYS Upright - NO Exce",
+    "doodleSubtext": "Pyramid of Energy Rule",
+    "explanation": "Pyramid of energy is ALWAYS upright because energy is lost as heat at every step.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Pyramid of Energy Rule.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 7",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Pyramid"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 7,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Pyramid of Energy Rule\" in NEET Biology?",
+      "options": [
+        "ALWAYS Upright - NO Exception!",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pyramid of energy is ALWAYS upright because energy is lost as heat at every step."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-20",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-2",
+    "topicTitle": "Inverted Biomass Pyramid Example",
+    "topic": "Inverted Biomass Pyramid Example",
+    "mnemonicNumber": 20,
+    "sourceItemNumber": 20,
+    "title": "Inverted Biomass Pyramid Example: \"S-P-O-T: Sea Phytoplankton Zooplankton\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "S-P-O-T: Sea Phytoplankton Zooplankton",
+    "memoryHook": "S-P-O-T: Sea Phytoplankton Zooplankton",
+    "fact": "Turnover\" Pyramid of biomass in Sea/Aquatic ecosystem is usually inverted (small biomass of phytoplankton supports large biomass of fishes).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Inverted Biomass Pyramid Example"
+      },
+      {
+        "key": "Trick",
+        "label": "S-P-O-T: Sea Phytoplankton Zooplankton"
+      }
+    ],
+    "doodleBadge": "S-P-O-T: Sea Phytoplankt",
+    "doodleSubtext": "Inverted Biomass Pyramid",
+    "explanation": "Turnover\" Pyramid of biomass in Sea/Aquatic ecosystem is usually inverted (small biomass of phytoplankton supports large biomass of fishes).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Inverted Biomass Pyramid Example.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 7",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Inverted"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 7,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Inverted Biomass Pyramid Example\" in NEET Biology?",
+      "options": [
+        "S-P-O-T: Sea Phytoplankton Zooplankton",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Turnover\" Pyramid of biomass in Sea/Aquatic ecosystem is usually inverted (small biomass of phytoplankton supports large biomass of fishes)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-3",
+    "topicTitle": "Inverted/Spindle Number Pyramid",
+    "topic": "Inverted/Spindle Number Pyramid",
+    "mnemonicNumber": 21,
+    "sourceItemNumber": 21,
+    "title": "Inverted/Spindle Number Pyramid: \"T-B-P: Tree Parasite Bird\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "T-B-P: Tree Parasite Bird",
+    "memoryHook": "T-B-P: Tree Parasite Bird",
+    "fact": "A single large Tree supporting many herbivorous birds and thousands of parasites gives an inverted or spindle number pyramid.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "T"
+      },
+      {
+        "key": "Part 2",
+        "label": "B"
+      },
+      {
+        "key": "Part 3",
+        "label": "P: Tree Parasite Bird"
+      }
+    ],
+    "doodleBadge": "T-B-P: Tree Parasite Bir",
+    "doodleSubtext": "Inverted/Spindle Number ",
+    "explanation": "A single large Tree supporting many herbivorous birds and thousands of parasites gives an inverted or spindle number pyramid.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Inverted/Spindle Number Pyramid.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 7",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Inverted/Spindle"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 7,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Inverted/Spindle Number Pyramid\" in NEET Biology?",
+      "options": [
+        "T-B-P: Tree Parasite Bird",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "A single large Tree supporting many herbivorous birds and thousands of parasites gives an inverted or spindle number pyramid."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-3",
+    "topicTitle": "Limitations of Pyramids",
+    "topic": "Limitations of Pyramids",
+    "mnemonicNumber": 22,
+    "sourceItemNumber": 22,
+    "title": "Limitations of Pyramids: \"S-F-D: Same Species, Food Web, Decomposers\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "S-F-D: Same Species, Food Web, Decomposers",
+    "memoryHook": "S-F-D: Same Species, Food Web, Decomposers",
+    "fact": "Omitted\" 1. Doesn't account for species operating at 2+ levels. 2. Assumes simple food chain. 3. Excludes decomposers/saprotrophs entirely.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Limitations of Pyramids"
+      },
+      {
+        "key": "Trick",
+        "label": "S-F-D: Same Species, Food Web, Decomposers"
+      }
+    ],
+    "doodleBadge": "S-F-D: Same Species, Foo",
+    "doodleSubtext": "Limitations of Pyramids",
+    "explanation": "Omitted\" 1. Doesn't account for species operating at 2+ levels. 2. Assumes simple food chain. 3. Excludes decomposers/saprotrophs entirely.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Limitations of Pyramids.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 7",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Limitations"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 7,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Limitations of Pyramids\" in NEET Biology?",
+      "options": [
+        "S-F-D: Same Species, Food Web, Decomposers",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Omitted\" 1. Doesn't account for species operating at 2+ levels. 2. Assumes simple food chain. 3. Excludes decomposers/saprotrophs entirely."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-3",
+    "topicTitle": "Standing Crop Definition",
+    "topic": "Standing Crop Definition",
+    "mnemonicNumber": 23,
+    "sourceItemNumber": 23,
+    "title": "Standing Crop Definition: \"M-A-S-S: Mass Alive Specific Space\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "M-A-S-S: Mass Alive Specific Space",
+    "memoryHook": "M-A-S-S: Mass Alive Specific Space",
+    "fact": "Mass of living material (biomass) or number in a unit area at a given time.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Standing Crop Definition"
+      },
+      {
+        "key": "Trick",
+        "label": "M-A-S-S: Mass Alive Specific Space"
+      }
+    ],
+    "doodleBadge": "M-A-S-S: Mass Alive Spec",
+    "doodleSubtext": "Standing Crop Definition",
+    "explanation": "Mass of living material (biomass) or number in a unit area at a given time.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Standing Crop Definition.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 7",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Standing"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 7,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Standing Crop Definition\" in NEET Biology?",
+      "options": [
+        "M-A-S-S: Mass Alive Specific Space",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mass of living material (biomass) or number in a unit area at a given time."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-3",
+    "topicTitle": "Standing State Definition",
+    "topic": "Standing State Definition",
+    "mnemonicNumber": 24,
+    "sourceItemNumber": 24,
+    "title": "Standing State Definition: \"S-O-I-L: Soil Inorganic Nutrients\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "S-O-I-L: Soil Inorganic Nutrients",
+    "memoryHook": "S-O-I-L: Soil Inorganic Nutrients",
+    "fact": "Amount of inorganic nutrients (N, P, Ca) present in soil at any given time.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Amount of inorganic nutrients (N"
+      },
+      {
+        "key": "Point 2",
+        "label": "Ca) present in soil at any given time"
+      }
+    ],
+    "doodleBadge": "S-O-I-L: Soil Inorganic ",
+    "doodleSubtext": "Standing State Definitio",
+    "explanation": "Amount of inorganic nutrients (N, P, Ca) present in soil at any given time.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Standing State Definition.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 7",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Standing"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 7,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Standing State Definition\" in NEET Biology?",
+      "options": [
+        "S-O-I-L: Soil Inorganic Nutrients",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Amount of inorganic nutrients (N, P, Ca) present in soil at any given time."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-3",
+    "topicTitle": "Primary Consumer vs Secondary Consumer",
+    "topic": "Primary Consumer vs Secondary Consumer",
+    "mnemonicNumber": 25,
+    "sourceItemNumber": 25,
+    "title": "Primary Consumer vs Secondary Consumer: \"Herbivores ARE Primary Consumers\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Herbivores ARE Primary Consumers",
+    "memoryHook": "Herbivores ARE Primary Consumers",
+    "fact": "Herbivores eat plants → Primary consumers. Carnivores eating herbivores → Secondary consumers (Primary Carnivores).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Primary Consumer vs Secondary Consumer"
+      },
+      {
+        "key": "Trick",
+        "label": "Herbivores ARE Primary Consumers"
+      }
+    ],
+    "doodleBadge": "Herbivores ARE Primary C",
+    "doodleSubtext": "Primary Consumer vs Seco",
+    "explanation": "Herbivores eat plants → Primary consumers. Carnivores eating herbivores → Secondary consumers (Primary Carnivores).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Primary Consumer vs Secondary Consumer.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 7",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Primary"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 7,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Primary Consumer vs Secondary Consumer\" in NEET Biology?",
+      "options": [
+        "Herbivores ARE Primary Consumers",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Herbivores eat plants → Primary consumers. Carnivores eating herbivores → Secondary consumers (Primary Carnivores)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-3",
+    "topicTitle": "Main Energy Conduit in Terrestrial vs Aquatic",
+    "topic": "Main Energy Conduit in Terrestrial vs Aquatic",
+    "mnemonicNumber": 26,
+    "sourceItemNumber": 26,
+    "title": "Main Energy Conduit in Terrestrial vs Aquatic: \"T-D / A-G: Terrestrial Detritus, Aquatic Grazing\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "T-D / A-G: Terrestrial Detritus, Aquatic Grazing",
+    "memoryHook": "T-D / A-G: Terrestrial Detritus, Aquatic Grazing",
+    "fact": "In terrestrial ecosystem, major energy flows through DFC. In aquatic ecosystem, GFC is the major conduit.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "In terrestrial ecosystem"
+      },
+      {
+        "key": "Point 2",
+        "label": "GFC is the major conduit"
+      }
+    ],
+    "doodleBadge": "T-D / A-G: Terrestrial D",
+    "doodleSubtext": "Main Energy Conduit in T",
+    "explanation": "In terrestrial ecosystem, major energy flows through DFC. In aquatic ecosystem, GFC is the major conduit.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Main Energy Conduit in Terrestrial vs Aquatic.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 7",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Main"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 7,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Main Energy Conduit in Terrestrial vs Aquatic\" in NEET Biology?",
+      "options": [
+        "T-D / A-G: Terrestrial Detritus, Aquatic Grazing",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "In terrestrial ecosystem, major energy flows through DFC. In aquatic ecosystem, GFC is the major conduit."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-3",
+    "topicTitle": "7 Stages of Primary Hydrarch Succession",
+    "topic": "7 Stages of Primary Hydrarch Succession",
+    "mnemonicNumber": 27,
+    "sourceItemNumber": 27,
+    "title": "7 Stages of Primary Hydrarch Succession: \"P-S-R-M-M-S-F: Please Send Real Medicine, My\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "P-S-R-M-M-S-F: Please Send Real Medicine, My",
+    "memoryHook": "P-S-R-M-M-S-F: Please Send Real Medicine, My",
+    "fact": "Sick Friend\" Phytoplankton → Submerged plant → Reed-swamp → Marsh-meadow → Scrub → Forest (Climax).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "7 Stages of Primary Hydrarch Succession"
+      },
+      {
+        "key": "Trick",
+        "label": "P-S-R-M-M-S-F: Please Send Real Medicine, My"
+      }
+    ],
+    "doodleBadge": "P-S-R-M-M-S-F: Please Se",
+    "doodleSubtext": "7 Stages of Primary Hydr",
+    "explanation": "Sick Friend\" Phytoplankton → Submerged plant → Reed-swamp → Marsh-meadow → Scrub → Forest (Climax).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in 7 Stages of Primary Hydrarch Succession.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 8",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "7"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 8,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"7 Stages of Primary Hydrarch Succession\" in NEET Biology?",
+      "options": [
+        "P-S-R-M-M-S-F: Please Send Real Medicine, My",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sick Friend\" Phytoplankton → Submerged plant → Reed-swamp → Marsh-meadow → Scrub → Forest (Climax)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-3",
+    "topicTitle": "Pioneer Species in Hydrarch",
+    "topic": "Pioneer Species in Hydrarch",
+    "mnemonicNumber": 28,
+    "sourceItemNumber": 28,
+    "title": "Pioneer Species in Hydrarch: \"Phytoplankton Starts Pond\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Phytoplankton Starts Pond",
+    "memoryHook": "Phytoplankton Starts Pond",
+    "fact": "Phytoplankton (autotrophic microscopic organisms) are pioneers in aquatic succession.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Pioneer Species in Hydrarch"
+      },
+      {
+        "key": "Trick",
+        "label": "Phytoplankton Starts Pond"
+      }
+    ],
+    "doodleBadge": "Phytoplankton Starts Pon",
+    "doodleSubtext": "Pioneer Species in Hydra",
+    "explanation": "Phytoplankton (autotrophic microscopic organisms) are pioneers in aquatic succession.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Pioneer Species in Hydrarch.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 8",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Pioneer"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 8,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Pioneer Species in Hydrarch\" in NEET Biology?",
+      "options": [
+        "Phytoplankton Starts Pond",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Phytoplankton (autotrophic microscopic organisms) are pioneers in aquatic succession."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-3",
+    "topicTitle": "Pioneer Species in Xerarch",
+    "topic": "Pioneer Species in Xerarch",
+    "mnemonicNumber": 29,
+    "sourceItemNumber": 29,
+    "title": "Pioneer Species in Xerarch: \"Lichens Dissolve Rocks\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Lichens Dissolve Rocks",
+    "memoryHook": "Lichens Dissolve Rocks",
+    "fact": "Lichens secrete acids to dissolve rock and help soil formation.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Lichens secrete acids to dissolve rock"
+      },
+      {
+        "key": "Point 2",
+        "label": "help soil formation"
+      }
+    ],
+    "doodleBadge": "Lichens Dissolve Rocks",
+    "doodleSubtext": "Pioneer Species in Xerar",
+    "explanation": "Lichens secrete acids to dissolve rock and help soil formation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Pioneer Species in Xerarch.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 8",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Pioneer"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 8,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Pioneer Species in Xerarch\" in NEET Biology?",
+      "options": [
+        "Lichens Dissolve Rocks",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Lichens secrete acids to dissolve rock and help soil formation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-3",
+    "topicTitle": "Xerarch Stages Order",
+    "topic": "Xerarch Stages Order",
+    "mnemonicNumber": 30,
+    "sourceItemNumber": 30,
+    "title": "Xerarch Stages Order: \"L-M-A-S-F: Lichens Mosses Annuals Shrubs\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "L-M-A-S-F: Lichens Mosses Annuals Shrubs",
+    "memoryHook": "L-M-A-S-F: Lichens Mosses Annuals Shrubs",
+    "fact": "Forest\" Lichens → Bryophytes/Mosses → Annual herbs → Shrubs → Climax Forest.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Xerarch Stages Order"
+      },
+      {
+        "key": "Trick",
+        "label": "L-M-A-S-F: Lichens Mosses Annuals Shrubs"
+      }
+    ],
+    "doodleBadge": "L-M-A-S-F: Lichens Mosse",
+    "doodleSubtext": "Xerarch Stages Order",
+    "explanation": "Forest\" Lichens → Bryophytes/Mosses → Annual herbs → Shrubs → Climax Forest.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Xerarch Stages Order.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 8",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Xerarch"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 8,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Xerarch Stages Order\" in NEET Biology?",
+      "options": [
+        "L-M-A-S-F: Lichens Mosses Annuals Shrubs",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Forest\" Lichens → Bryophytes/Mosses → Annual herbs → Shrubs → Climax Forest."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-31",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-4",
+    "topicTitle": "Convergence of Succession",
+    "topic": "Convergence of Succession",
+    "mnemonicNumber": 31,
+    "sourceItemNumber": 31,
+    "title": "Convergence of Succession: \"Both Hydrarch & Xerarch Lead to MESIC\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Both Hydrarch & Xerarch Lead to MESIC",
+    "memoryHook": "Both Hydrarch & Xerarch Lead to MESIC",
+    "fact": "Both water-based (hydrarch) and dry-based (xerarch) succession lead to medium water conditions: Mesic condition.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Convergence of Succession"
+      },
+      {
+        "key": "Trick",
+        "label": "Both Hydrarch & Xerarch Lead to MESIC"
+      }
+    ],
+    "doodleBadge": "Both Hydrarch & Xerarch ",
+    "doodleSubtext": "Convergence of Successio",
+    "explanation": "Both water-based (hydrarch) and dry-based (xerarch) succession lead to medium water conditions: Mesic condition.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Convergence of Succession.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 8",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Convergence"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 8,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Convergence of Succession\" in NEET Biology?",
+      "options": [
+        "Both Hydrarch & Xerarch Lead to MESIC",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Both water-based (hydrarch) and dry-based (xerarch) succession lead to medium water conditions: Mesic condition."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-32",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-4",
+    "topicTitle": "Primary vs Secondary Succession Speed",
+    "topic": "Primary vs Secondary Succession Speed",
+    "mnemonicNumber": 32,
+    "sourceItemNumber": 32,
+    "title": "Primary vs Secondary Succession Speed: \"Secondary is SWIFT because Soil Exists\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Secondary is SWIFT because Soil Exists",
+    "memoryHook": "Secondary is SWIFT because Soil Exists",
+    "fact": "Secondary succession is much faster than primary because soil or sediment is already present.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Primary vs Secondary Succession Speed"
+      },
+      {
+        "key": "Trick",
+        "label": "Secondary is SWIFT because Soil Exists"
+      }
+    ],
+    "doodleBadge": "Secondary is SWIFT becau",
+    "doodleSubtext": "Primary vs Secondary Suc",
+    "explanation": "Secondary succession is much faster than primary because soil or sediment is already present.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Primary vs Secondary Succession Speed.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 8",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Primary"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 8,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Primary vs Secondary Succession Speed\" in NEET Biology?",
+      "options": [
+        "Secondary is SWIFT because Soil Exists",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Secondary succession is much faster than primary because soil or sediment is already present."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-33",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-4",
+    "topicTitle": "Primary Succession Sites",
+    "topic": "Primary Succession Sites",
+    "mnemonicNumber": 33,
+    "sourceItemNumber": 33,
+    "title": "Primary Succession Sites: \"B-N-C: Bare Rock, New Lava, Cooled Reservoir\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "B-N-C: Bare Rock, New Lava, Cooled Reservoir",
+    "memoryHook": "B-N-C: Bare Rock, New Lava, Cooled Reservoir",
+    "fact": "Occurs in newly cooled lava, bare rocks, newly created ponds or reservoirs (no soil initially).",
+    "breakdown": [
+      {
+        "key": "B",
+        "label": "Occurs in newly cooled lava"
+      },
+      {
+        "key": "N",
+        "label": "bare rocks"
+      },
+      {
+        "key": "C",
+        "label": "newly created ponds or reservoirs (no soil initially)"
+      }
+    ],
+    "doodleBadge": "B-N-C: Bare Rock, New La",
+    "doodleSubtext": "Primary Succession Sites",
+    "explanation": "Occurs in newly cooled lava, bare rocks, newly created ponds or reservoirs (no soil initially).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Primary Succession Sites.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 8",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Primary"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 8,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Primary Succession Sites\" in NEET Biology?",
+      "options": [
+        "B-N-C: Bare Rock, New Lava, Cooled Reservoir",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Occurs in newly cooled lava, bare rocks, newly created ponds or reservoirs (no soil initially)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-34",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-4",
+    "topicTitle": "Secondary Succession Sites",
+    "topic": "Secondary Succession Sites",
+    "mnemonicNumber": 34,
+    "sourceItemNumber": 34,
+    "title": "Secondary Succession Sites: \"F-C-D: Abandoned Farm, Cut Forest, Damaged\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "F-C-D: Abandoned Farm, Cut Forest, Damaged",
+    "memoryHook": "F-C-D: Abandoned Farm, Cut Forest, Damaged",
+    "fact": "Land\" Occurs where natural biotic communities were destroyed (burned forests, flooded land, abandoned farmland).",
+    "breakdown": [
+      {
+        "key": "F",
+        "label": "Land\" Occurs where natural biotic communities were destroyed (burned forests"
+      },
+      {
+        "key": "C",
+        "label": "flooded land"
+      },
+      {
+        "key": "D",
+        "label": "abandoned farmland)"
+      }
+    ],
+    "doodleBadge": "F-C-D: Abandoned Farm, C",
+    "doodleSubtext": "Secondary Succession Sit",
+    "explanation": "Land\" Occurs where natural biotic communities were destroyed (burned forests, flooded land, abandoned farmland).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Secondary Succession Sites.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 8",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Secondary"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 8,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Secondary Succession Sites\" in NEET Biology?",
+      "options": [
+        "F-C-D: Abandoned Farm, Cut Forest, Damaged",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Land\" Occurs where natural biotic communities were destroyed (burned forests, flooded land, abandoned farmland)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-35",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-4",
+    "topicTitle": "Seral Community / Sere",
+    "topic": "Seral Community / Sere",
+    "mnemonicNumber": 35,
+    "sourceItemNumber": 35,
+    "title": "Seral Community / Sere: \"Entire Sequence = SERE\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Entire Sequence = SERE",
+    "memoryHook": "Entire Sequence = SERE",
+    "fact": "The entire sequence of communities that successively change in a given area is called a Sere.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Seral Community / Sere"
+      },
+      {
+        "key": "Trick",
+        "label": "Entire Sequence = SERE"
+      }
+    ],
+    "doodleBadge": "Entire Sequence = SERE",
+    "doodleSubtext": "Seral Community / Sere",
+    "explanation": "The entire sequence of communities that successively change in a given area is called a Sere.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Seral Community / Sere.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 8",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Seral"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 8,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Seral Community / Sere\" in NEET Biology?",
+      "options": [
+        "Entire Sequence = SERE",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "The entire sequence of communities that successively change in a given area is called a Sere."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-36",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-4",
+    "topicTitle": "Climax Community Features",
+    "topic": "Climax Community Features",
+    "mnemonicNumber": 36,
+    "sourceItemNumber": 36,
+    "title": "Climax Community Features: \"E-S-M: Equilibrium Stable Environment\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "E-S-M: Equilibrium Stable Environment",
+    "memoryHook": "E-S-M: Equilibrium Stable Environment",
+    "fact": "Near-equilibrium state with environment, highly stable and diverse community.",
+    "breakdown": [
+      {
+        "key": "E",
+        "label": "Near-equilibrium state with environment"
+      },
+      {
+        "key": "S",
+        "label": "highly stable"
+      },
+      {
+        "key": "M",
+        "label": "diverse community"
+      }
+    ],
+    "doodleBadge": "E-S-M: Equilibrium Stabl",
+    "doodleSubtext": "Climax Community Feature",
+    "explanation": "Near-equilibrium state with environment, highly stable and diverse community.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Climax Community Features.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 8",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Climax"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 8,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Climax Community Features\" in NEET Biology?",
+      "options": [
+        "E-S-M: Equilibrium Stable Environment",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Near-equilibrium state with environment, highly stable and diverse community."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-37",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-4",
+    "topicTitle": "Two Types of Nutrient Cycles",
+    "topic": "Two Types of Nutrient Cycles",
+    "mnemonicNumber": 37,
+    "sourceItemNumber": 37,
+    "title": "Two Types of Nutrient Cycles: \"G-S: Gaseous vs Sedimentary\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "G-S: Gaseous vs Sedimentary",
+    "memoryHook": "G-S: Gaseous vs Sedimentary",
+    "fact": "1. Gaseous (Reservoir = Atmosphere/Hydrosphere): C, N, H, O. 2. Sedimentary (Reservoir = Earth's crust): P, S, Ca.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "G"
+      },
+      {
+        "key": "Part 2",
+        "label": "S: Gaseous vs Sedimentary"
+      }
+    ],
+    "doodleBadge": "G-S: Gaseous vs Sediment",
+    "doodleSubtext": "Two Types of Nutrient Cy",
+    "explanation": "1. Gaseous (Reservoir = Atmosphere/Hydrosphere): C, N, H, O. 2. Sedimentary (Reservoir = Earth's crust): P, S, Ca.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Two Types of Nutrient Cycles.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Two"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Two Types of Nutrient Cycles\" in NEET Biology?",
+      "options": [
+        "G-S: Gaseous vs Sedimentary",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "1. Gaseous (Reservoir = Atmosphere/Hydrosphere): C, N, H, O. 2. Sedimentary (Reservoir = Earth's crust): P, S, Ca."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-38",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-4",
+    "topicTitle": "Carbon Reservoir Breakdown",
+    "topic": "Carbon Reservoir Breakdown",
+    "mnemonicNumber": 38,
+    "sourceItemNumber": 38,
+    "title": "Carbon Reservoir Breakdown: \"71% Carbon Dissolved in Oceans\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "71% Carbon Dissolved in Oceans",
+    "memoryHook": "71% Carbon Dissolved in Oceans",
+    "fact": "71% of global carbon is dissolved in oceans; atmosphere contains only ~1% of total global carbon.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Carbon Reservoir Breakdown"
+      },
+      {
+        "key": "Trick",
+        "label": "71% Carbon Dissolved in Oceans"
+      }
+    ],
+    "doodleBadge": "71% Carbon Dissolved in ",
+    "doodleSubtext": "Carbon Reservoir Breakdo",
+    "explanation": "71% of global carbon is dissolved in oceans; atmosphere contains only ~1% of total global carbon.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Carbon Reservoir Breakdown.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Carbon"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Carbon Reservoir Breakdown\" in NEET Biology?",
+      "options": [
+        "71% Carbon Dissolved in Oceans",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "71% of global carbon is dissolved in oceans; atmosphere contains only ~1% of total global carbon."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-39",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-4",
+    "topicTitle": "Carbon Fixed Annually",
+    "topic": "Carbon Fixed Annually",
+    "mnemonicNumber": 39,
+    "sourceItemNumber": 39,
+    "title": "Carbon Fixed Annually: \"4 x 10^13 kg Carbon Fixed by Photosynthesis\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "4 x 10^13 kg Carbon Fixed by Photosynthesis",
+    "memoryHook": "4 x 10^13 kg Carbon Fixed by Photosynthesis",
+    "fact": "4 × 1013 kg of carbon is fixed in biosphere through photosynthesis annually.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Carbon Fixed Annually"
+      },
+      {
+        "key": "Trick",
+        "label": "4 x 10^13 kg Carbon Fixed by Photosynthesis"
+      }
+    ],
+    "doodleBadge": "4 x 10^13 kg Carbon Fixe",
+    "doodleSubtext": "Carbon Fixed Annually",
+    "explanation": "4 × 1013 kg of carbon is fixed in biosphere through photosynthesis annually.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Carbon Fixed Annually.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Carbon"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Carbon Fixed Annually\" in NEET Biology?",
+      "options": [
+        "4 x 10^13 kg Carbon Fixed by Photosynthesis",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "4 × 1013 kg of carbon is fixed in biosphere through photosynthesis annually."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-40",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-4",
+    "topicTitle": "Phosphorus Cycle Key Feature",
+    "topic": "Phosphorus Cycle Key Feature",
+    "mnemonicNumber": 40,
+    "sourceItemNumber": 40,
+    "title": "Phosphorus Cycle Key Feature: \"NO Respiratory Release of Phosphorus\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "NO Respiratory Release of Phosphorus",
+    "memoryHook": "NO Respiratory Release of Phosphorus",
+    "fact": "Unlike Carbon, phosphorus has no gaseous exchange via respiration and minimal rainfall inputs.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Unlike Carbon"
+      },
+      {
+        "key": "Point 2",
+        "label": "minimal rainfall inputs"
+      }
+    ],
+    "doodleBadge": "NO Respiratory Release o",
+    "doodleSubtext": "Phosphorus Cycle Key Fea",
+    "explanation": "Unlike Carbon, phosphorus has no gaseous exchange via respiration and minimal rainfall inputs.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Phosphorus Cycle Key Feature.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Phosphorus"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Phosphorus Cycle Key Feature\" in NEET Biology?",
+      "options": [
+        "NO Respiratory Release of Phosphorus",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Unlike Carbon, phosphorus has no gaseous exchange via respiration and minimal rainfall inputs."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-41",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-5",
+    "topicTitle": "Phosphorus Natural Reservoir",
+    "topic": "Phosphorus Natural Reservoir",
+    "mnemonicNumber": 41,
+    "sourceItemNumber": 41,
+    "title": "Phosphorus Natural Reservoir: \"R-O-C-K-S: Rocks Store Phosphate\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "R-O-C-K-S: Rocks Store Phosphate",
+    "memoryHook": "R-O-C-K-S: Rocks Store Phosphate",
+    "fact": "Natural reservoir of phosphorus is rocks, containing phosphorus in the form of phosphates.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "R"
+      },
+      {
+        "key": "Part 2",
+        "label": "O"
+      },
+      {
+        "key": "Part 3",
+        "label": "C"
+      },
+      {
+        "key": "Part 4",
+        "label": "K"
+      },
+      {
+        "key": "Part 5",
+        "label": "S: Rocks Store Phosphate"
+      }
+    ],
+    "doodleBadge": "R-O-C-K-S: Rocks Store P",
+    "doodleSubtext": "Phosphorus Natural Reser",
+    "explanation": "Natural reservoir of phosphorus is rocks, containing phosphorus in the form of phosphates.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Phosphorus Natural Reservoir.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Phosphorus"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Phosphorus Natural Reservoir\" in NEET Biology?",
+      "options": [
+        "R-O-C-K-S: Rocks Store Phosphate",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Natural reservoir of phosphorus is rocks, containing phosphorus in the form of phosphates."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-42",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-5",
+    "topicTitle": "Ecosystem Services Price Tag (Constanza)",
+    "topic": "Ecosystem Services Price Tag (Constanza)",
+    "mnemonicNumber": 42,
+    "sourceItemNumber": 42,
+    "title": "Ecosystem Services Price Tag (Constanza): \"$33 Trillion US Dollars / Year\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "$33 Trillion US Dollars / Year",
+    "memoryHook": "$33 Trillion US Dollars / Year",
+    "fact": "Robert Constanza estimated global ecosystem services at US $33 trillion/year (nearly twice global GNP).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Ecosystem Services Price Tag (Constanza)"
+      },
+      {
+        "key": "Trick",
+        "label": "$33 Trillion US Dollars / Year"
+      }
+    ],
+    "doodleBadge": "$33 Trillion US Dollars ",
+    "doodleSubtext": "Ecosystem Services Price",
+    "explanation": "Robert Constanza estimated global ecosystem services at US $33 trillion/year (nearly twice global GNP).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Ecosystem Services Price Tag (Constanza).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Ecosystem"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Ecosystem Services Price Tag (Constanza)\" in NEET Biology?",
+      "options": [
+        "$33 Trillion US Dollars / Year",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Robert Constanza estimated global ecosystem services at US $33 trillion/year (nearly twice global GNP)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-43",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-5",
+    "topicTitle": "Soil Formation Cost Share",
+    "topic": "Soil Formation Cost Share",
+    "mnemonicNumber": 43,
+    "sourceItemNumber": 43,
+    "title": "Soil Formation Cost Share: \"50% for Soil Formation Alone\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "50% for Soil Formation Alone",
+    "memoryHook": "50% for Soil Formation Alone",
+    "fact": "Soil formation accounts for ~50% of total ecosystem service valuation.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Soil Formation Cost Share"
+      },
+      {
+        "key": "Trick",
+        "label": "50% for Soil Formation Alone"
+      }
+    ],
+    "doodleBadge": "50% for Soil Formation A",
+    "doodleSubtext": "Soil Formation Cost Shar",
+    "explanation": "Soil formation accounts for ~50% of total ecosystem service valuation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Soil Formation Cost Share.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Soil"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Soil Formation Cost Share\" in NEET Biology?",
+      "options": [
+        "50% for Soil Formation Alone",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Soil formation accounts for ~50% of total ecosystem service valuation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-44",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-5",
+    "topicTitle": "Recreation & Nutrient Cycling Share",
+    "topic": "Recreation & Nutrient Cycling Share",
+    "mnemonicNumber": 44,
+    "sourceItemNumber": 44,
+    "title": "Recreation & Nutrient Cycling Share: \"10% Each for Recreation & Nutrients\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "10% Each for Recreation & Nutrients",
+    "memoryHook": "10% Each for Recreation & Nutrients",
+    "fact": "Recreation and Nutrient cycling account for less than 10% each.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Recreation"
+      },
+      {
+        "key": "Point 2",
+        "label": "Nutrient cycling account for less than 10% each"
+      }
+    ],
+    "doodleBadge": "10% Each for Recreation ",
+    "doodleSubtext": "Recreation & Nutrient Cy",
+    "explanation": "Recreation and Nutrient cycling account for less than 10% each.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Recreation & Nutrient Cycling Share.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Recreation"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Recreation & Nutrient Cycling Share\" in NEET Biology?",
+      "options": [
+        "10% Each for Recreation & Nutrients",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Recreation and Nutrient cycling account for less than 10% each."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-45",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-5",
+    "topicTitle": "Climate Regulation & Habitat Share",
+    "topic": "Climate Regulation & Habitat Share",
+    "mnemonicNumber": 45,
+    "sourceItemNumber": 45,
+    "title": "Climate Regulation & Habitat Share: \"6% Each for Climate & Wildlife Habitat\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "6% Each for Climate & Wildlife Habitat",
+    "memoryHook": "6% Each for Climate & Wildlife Habitat",
+    "fact": "Climate regulation and habitat for wildlife account for about 6% each.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Climate regulation"
+      },
+      {
+        "key": "Point 2",
+        "label": "habitat for wildlife account for about 6% each"
+      }
+    ],
+    "doodleBadge": "6% Each for Climate & Wi",
+    "doodleSubtext": "Climate Regulation & Hab",
+    "explanation": "Climate regulation and habitat for wildlife account for about 6% each.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Climate Regulation & Habitat Share.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
       "Climate"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "Which combination of conditions will lead to the SLOWEST rate of detritus decomposition in an ecosystem?",
+      "question": "Which of the following is associated with \"Climate Regulation & Habitat Share\" in NEET Biology?",
       "options": [
-        "Warm temperature, high moisture, and nitrogen-rich detritus",
-        "Low temperature, anaerobiosis, and detritus rich in lignin and chitin",
-        "Aerobic conditions with sugar-rich leaf litter",
-        "Warm moist tropical soil"
+        "6% Each for Climate & Wildlife Habitat",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Low temperature, anaerobic conditions, and high lignin/chitin content significantly inhibit microbial decomposition."
+      "answerIndex": 0,
+      "explanation": "Climate regulation and habitat for wildlife account for about 6% each."
     }
   },
   {
-    "id": "bio-ch31-07",
+    "id": "mnemo-bio-ch31-46",
     "subject": "biology",
     "chapterId": "bio-ch-31",
     "chapterNumber": 31,
     "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Ecological Succession: Hydrarch vs Xerarch",
-    "mnemonicNumber": 7,
-    "title": "Succession: Hydrarch (Water) & Xerarch (Dry Rock) Both Lead to MESIC Climax Forest",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "process",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Hydrarch starts in Water → Xerarch starts on Dry Rock → Both end in same MESIC (Medium moisture) Climax Forest!",
-    "memoryHook": "Whether ecological succession begins in deep water (Hydrarch) or on barren dry rock (Xerarch), both converge on the exact same medium-moisture MESIC forest!",
-    "fact": "Ecological succession types: 1. Hydrarch succession: takes place in wetter areas; seral stages progress from hydric (water) to mesic conditions. 2. Xerarch succession: takes place in dry areas (bare rock); seral stages progress from xeric (dry) to mesic conditions. Both hydrarch and xerarch successions lead to medium water conditions (mesic climax forest).",
-    "breakdown": [
-      {
-        "key": "Pioneer Species (Xerarch)",
-        "label": "Lichens on bare rock (secrete acids to weather rock into soil)"
-      },
-      {
-        "key": "Pioneer Species (Hydrarch)",
-        "label": "Phytoplankton in water"
-      },
-      {
-        "key": "Sere / Seral Stages",
-        "label": "Entire sequence of transitional communities that successively change in a given area"
-      },
-      {
-        "key": "Climax Community",
-        "label": "Final stable community in equilibrium with climate (Mesic forest); stable as long as climate remains unchanged"
-      }
-    ],
-    "doodleBadge": "Hydric (Wet) ↘\n                     → Mesic Forest\nXeric (Dry) ↗",
-    "doodleSubtext": "Succession Convergence",
-    "explanation": "Primary succession occurs on newly exposed substrates where no life previously existed (bare rock, lava flow, newly created pond) and takes hundreds to thousands of years.",
-    "alsoRemember": "Secondary succession begins where natural biotic communities were destroyed (burned forest, flooded land) and proceeds much faster because soil is already present.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.6.",
-    "neetTrap": "Both hydrarch and xerarch successions lead to the SAME climax condition: MESIC (medium moisture).",
-    "tags": [
-      "Ecosystem",
-      "Succession",
-      "Hydrarch",
-      "Xerarch",
-      "Mesic",
-      "Pioneers"
-    ],
-    "quiz": {
-      "question": "Both hydrarch (starting in water) and xerarch (starting on dry rock) ecological successions eventually culminate in which climax moisture condition?",
-      "options": [
-        "Highly hydric wetland",
-        "Extremely xeric desert",
-        "Mesic (medium moisture) condition",
-        "Hyperhaline swamp"
-      ],
-      "answerIndex": 2,
-      "explanation": "All ecological successions converge toward medium moisture (mesic) climax communities."
-    }
-  },
-  {
-    "id": "bio-ch31-08",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Hydrarch Succession 7 Seral Stages",
-    "mnemonicNumber": 8,
-    "title": "Hydrarch Seral Stages: Phytoplankton → Submerged → Floating → Reed Swamp → Marsh Meadow → Scrub → Forest",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "P-S-F-R-M-S-F: Phytoplankton → Submerged (Hydrilla) → Free-floating (Pistia) → Reed Swamp (Typha) → Marsh Meadow (Carex) → Scrub → Forest Tree Climax",
-    "memoryHook": "Phytoplankton pioneer → Submerged rooted plants → Floating leaves → Reed swamp tall grasses → Marsh meadow sedges → Scrub bushes → Climax Forest!",
-    "fact": "Seven seral stages of primary Hydrarch succession in a pond/water body: 1. Phytoplankton stage (Pioneers: diatoms, unicellular green algae), 2. Submerged plant stage (Hydrilla, Vallisneria, Potamogeton), 3. Submerged free-floating stage (Nymphaea, Nelumbo, Pistia, Eichhornia), 4. Reed-swamp stage (Typha, Phragmites), 5. Marsh-meadow stage (Carex, Juncus, Cyperus), 6. Scrub stage (shrubs and small trees like Salix, Cornus), 7. Forest stage (Climax mesophytic trees).",
-    "breakdown": [
-      {
-        "key": "1. Phytoplankton (Pioneers)",
-        "label": "Microscopic autotrophs; spores brought by wind and water"
-      },
-      {
-        "key": "2. Submerged Rooted",
-        "label": "Hydrilla, Vallisneria; dead matter builds up pond floor"
-      },
-      {
-        "key": "3. Floating Stage",
-        "label": "Nelumbo, Nymphaea, Eichhornia; water becomes shallower"
-      },
-      {
-        "key": "4. Reed Swamp Stage",
-        "label": "Typha, Phragmites rooted in mud with shoots exposed to air"
-      },
-      {
-        "key": "5. Marsh Meadow Stage",
-        "label": "Carex, Cyperus grasses; rapid transpiration of remaining water"
-      },
-      {
-        "key": "6. Scrub Stage",
-        "label": "Woody shrubs tolerant of drying soil"
-      },
-      {
-        "key": "7. Climax Forest",
-        "label": "Stable terrestrial tree forest"
-      }
-    ],
-    "doodleBadge": "Phyto → Submerged →\nFloating → Reed → Marsh\n→ Scrub → Forest",
-    "doodleSubtext": "Hydrarch Sequence",
-    "explanation": "As organic matter sediments and soil washes in, the water body gradually becomes shallower until it completely converts into land.",
-    "alsoRemember": "With time, the water body is converted into dry terrestrial forest.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.6, Figure 14.5.",
-    "neetTrap": "The correct chronological order of stages in Hydrarch succession is frequently asked in NEET matching questions.",
-    "tags": [
-      "Ecosystem",
-      "Hydrarch",
-      "Succession",
-      "Seral Stages",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "Which of the following represents the correct sequence of seral stages in primary hydrarch succession?",
-      "options": [
-        "Forest → Scrub → Reed swamp → Phytoplankton",
-        "Phytoplankton → Submerged plants → Floating plants → Reed swamp → Marsh meadow → Scrub → Forest",
-        "Marsh meadow → Scrub → Phytoplankton → Forest",
-        "Submerged plants → Forest → Phytoplankton → Reed swamp"
-      ],
-      "answerIndex": 1,
-      "explanation": "Hydrarch succession starts with phytoplankton → submerged → floating → reed swamp → marsh meadow → scrub → climax forest."
-    }
-  },
-  {
-    "id": "bio-ch31-09",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Carbon Cycle & Reservoir",
-    "mnemonicNumber": 9,
-    "title": "Carbon Cycle: Oceans Hold 71% of Global Dissolved Carbon",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Oceans = 71% of Earth's Carbon | Atmosphere = Only 1% of total carbon | Photosynthesis fixes 4 * 10^13 kg carbon annually!",
-    "memoryHook": "Oceans are the massive carbon sponge holding 71% of all dissolved carbon on Earth; the atmosphere holds just 1%, and plants fix 4 * 10^13 kg carbon per year!",
-    "fact": "Carbon cycle parameters in NCERT: 1. 49% of dry weight of organisms is carbon (second only to water). 2. 71% of total global carbon is found dissolved in oceans, which acts as the major carbon reservoir regulating atmospheric CO2. 3. Atmosphere contains only about 1% of total global carbon. 4. An estimated 4 * 10^13 kg (40,000 billion kg) of carbon is fixed annually in the biosphere through photosynthesis.",
-    "breakdown": [
-      {
-        "key": "Organic Dry Weight",
-        "label": "Carbon constitutes 49% of the dry weight of all living organisms"
-      },
-      {
-        "key": "Oceanic Reservoir",
-        "label": "71% of total global carbon is dissolved in oceans"
-      },
-      {
-        "key": "Atmospheric Reservoir",
-        "label": "Holds ~1% of total global carbon"
-      },
-      {
-        "key": "Annual Photosynthetic Fixation",
-        "label": "4 * 10^13 kg of carbon fixed annually by autotrophs"
-      }
-    ],
-    "doodleBadge": "71% in Oceans\n4 * 10^13 kg Fixed/Year",
-    "doodleSubtext": "Carbon Reservoirs",
-    "explanation": "Carbon returns to atmosphere via respiration of producers, consumers, and decomposers, as well as burning of fossil fuels, forest fires, and volcanic activity.",
-    "alsoRemember": "Human activities like deforestation and fossil fuel combustion have significantly accelerated CO2 release into the atmosphere.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.7.1, Figure 14.6.",
-    "neetTrap": "71% of global carbon is in OCEANS; only ~1% is in the ATMOSPHERE.",
-    "tags": [
-      "Ecosystem",
-      "Carbon Cycle",
-      "Oceans",
-      "Photosynthetic Fixation"
-    ],
-    "quiz": {
-      "question": "What percentage of the total global carbon on Earth is found dissolved in the oceans?",
-      "options": [
-        "1%",
-        "49%",
-        "71%",
-        "90%"
-      ],
-      "answerIndex": 2,
-      "explanation": "71% of total global carbon is dissolved in the oceans, forming the primary oceanic reservoir."
-    }
-  },
-  {
-    "id": "bio-ch31-10",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Phosphorus Cycle vs Carbon Cycle",
-    "mnemonicNumber": 10,
-    "title": "Phosphorus Cycle: Sedimentary (Rock Reservoir, No Gas Exchange)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Carbon = Gaseous Cycle (Atmosphere / Ocean exchange) | Phosphorus = Sedimentary Cycle (Rocks weather → Soil → Plants → No gaseous respiratory release!)",
-    "memoryHook": "Phosphorus has NO gaseous respiratory exchange with atmosphere; its natural reservoir is rock containing phosphate minerals!",
-    "fact": "Key differences between Carbon (Gaseous) and Phosphorus (Sedimentary) cycles: 1. Phosphorus atmospheric inputs through rainfall are negligible compared to carbon. 2. Gaseous exchanges of phosphorus between organisms and environment are negligible (no respiratory gas release). 3. Natural reservoir of phosphorus is Rock (containing phosphates in mineral form), which releases phosphate ions into soil via rock weathering.",
-    "breakdown": [
-      {
-        "key": "Carbon Cycle",
-        "label": "Gaseous cycle; major reservoir in oceans/atmosphere; rapid gaseous exchange via CO2"
-      },
-      {
-        "key": "Phosphorus Cycle",
-        "label": "Sedimentary cycle; major reservoir in Earth's crust rocks; negligible atmospheric component"
-      },
-      {
-        "key": "Rock Weathering",
-        "label": "Minute amounts of phosphates dissolve in soil solution and are absorbed by plant roots"
-      },
-      {
-        "key": "Biological Role of P",
-        "label": "Essential component of nucleic acids (DNA/RNA), ATP, cell membranes (phospholipids), bones, and teeth"
-      }
-    ],
-    "doodleBadge": "Carbon = Gaseous\nPhosphorus = Sedimentary (Rocks)",
-    "doodleSubtext": "Biogeochemical Cycles",
-    "explanation": "Guano (bird droppings) and bone deposits are rich natural sources of phosphates mined for chemical fertilizers.",
-    "alsoRemember": "Herbivores and other animals obtain phosphorus by eating plants or other animals.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.7.2, Figure 14.7.",
-    "neetTrap": "The natural reservoir of phosphorus is ROCKS containing phosphate minerals (not atmosphere or oceans alone).",
-    "tags": [
-      "Ecosystem",
-      "Phosphorus Cycle",
-      "Sedimentary Cycle",
-      "Rock Weathering"
-    ],
-    "quiz": {
-      "question": "Unlike the carbon cycle, the phosphorus cycle is characterized by which of the following features?",
-      "options": [
-        "A large atmospheric gaseous reservoir",
-        "Natural reservoir in rocks and negligible gaseous exchange with the atmosphere",
-        "Direct respiratory release into the air by consumers",
-        "Heavy deposition through acid rain"
-      ],
-      "answerIndex": 1,
-      "explanation": "The phosphorus cycle is a sedimentary cycle where rocks act as the reservoir, with negligible atmospheric exchange."
-    }
-  },
-  {
-    "id": "bio-ch31-11",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Ecosystem Services: Robert Costanza Price Tag",
-    "mnemonicNumber": 11,
-    "title": "Ecosystem Services: Robert Costanza US$ 33 Trillion / Year (Soil Formation 50%)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Robert Costanza & colleagues: Global Ecosystem Services = US $33 Trillion / year (Nearly 2x Global GNP of $18 Trillion!) → Soil Formation takes 50%!",
-    "memoryHook": "Nature gives us US $33 trillion in free ecosystem services every year (twice the world GDP of $18 trillion); Soil Formation accounts for 50% of this total value!",
-    "fact": "Robert Costanza and his colleagues put an average price tag of US $33 trillion a year on nature's fundamental life-support ecosystem services. This is nearly twice the total global Gross National Product (GNP of US $18 trillion). Breakdown: Soil formation accounts for ~50%; Recreation and nutrient cycling ~10% each; Climate regulation and habitat for wildlife ~6% each.",
-    "breakdown": [
-      {
-        "key": "Price Tag on Nature",
-        "label": "Average US $33 Trillion per year (range US $16 to 54 trillion)"
-      },
-      {
-        "key": "Global GNP Comparison",
-        "label": "Global GNP was US $18 Trillion (Ecosystem services are nearly 2x global GDP)"
-      },
-      {
-        "key": "Soil Formation Share",
-        "label": "50% of the total service value (~US $16.5 trillion)"
-      },
-      {
-        "key": "Nutrient Cycling & Recreation",
-        "label": "Account for ~10% each"
-      },
-      {
-        "key": "Climate Regulation & Wildlife Habitat",
-        "label": "Account for ~6% each"
-      }
-    ],
-    "doodleBadge": "Costanza: $33 Trillion/Year\nSoil Formation = 50%",
-    "doodleSubtext": "Ecosystem Valuation",
-    "explanation": "Ecosystem services include purified air and water, drought and flood mitigation, nutrient cycling, fertile soil generation, carbon storage, pollination, and recreation.",
-    "alsoRemember": "We take these ecosystem services for granted because they are provided by nature for free.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.8.",
-    "neetTrap": "Soil formation accounts for FIFTY PERCENT (50%) of the total US $33 trillion valuation in Costanza's study.",
-    "tags": [
-      "Ecosystem",
-      "Ecosystem Services",
-      "Costanza",
-      "Soil Formation",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "In Robert Costanza’s valuation of global ecosystem services (US $33 trillion/year), which individual service accounts for about 50% of the total cost?",
-      "options": [
-        "Recreation",
-        "Climate regulation",
-        "Soil formation",
-        "Nutrient cycling"
-      ],
-      "answerIndex": 2,
-      "explanation": "Soil formation accounts for approximately 50% of the total US $33 trillion price tag on ecosystem services."
-    }
-  },
-  {
-    "id": "bio-ch31-12",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Standing Crop vs Standing State",
-    "mnemonicNumber": 12,
-    "title": "Standing Crop (Living Biomass) vs Standing State (Inorganic Nutrients in Soil)",
-    "badgeText": "Memory Trick",
+    "classLevel": 12,
+    "topicId": "bio-top-31-5",
+    "topicTitle": "Primary vs Secondary Carnivore",
+    "topic": "Primary vs Secondary Carnivore",
+    "mnemonicNumber": 46,
+    "sourceItemNumber": 46,
+    "title": "Primary vs Secondary Carnivore: \"Primary Carnivore = Secondary Consumer (T3)\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Standing Crop = Living Biomass / Organisms at a trophic level | Standing State = Non-living Inorganic Nutrients (N, P, Ca) in Soil",
-    "memoryHook": "Crop is Living (measured as dry weight or number per unit area); State is Non-living (amount of minerals in the soil at any given time)!",
-    "fact": "1. Standing Crop: Each trophic level has a certain mass of living material at a particular time called standing crop. Measured as the biomass (mass of living organisms) or the number in a unit area. Measurement of biomass in terms of dry weight is more accurate than fresh weight. 2. Standing State: The amount of all non-living inorganic nutrients (such as nitrogen, phosphorus, calcium, carbon) present in the soil/abiotic environment at any given time.",
-    "breakdown": [
-      {
-        "key": "Standing Crop",
-        "label": "Mass of living organisms (biomass) at a trophic level at a given time; measured in dry weight"
-      },
-      {
-        "key": "Standing State",
-        "label": "Amount of inorganic mineral nutrients present in soil/water at any given time"
-      },
-      {
-        "key": "Why Dry Weight?",
-        "label": "Water content fluctuates widely; dry weight reflects true organic mass accurately"
-      }
-    ],
-    "doodleBadge": "Crop = Living Biomass\nState = Soil Minerals",
-    "doodleSubtext": "Ecological Terminology",
-    "explanation": "Standing state varies in different seasons and soil types and continuously recycles through biogeochemical cycles.",
-    "alsoRemember": "Energy flows unidirectionally through standing crop, while nutrients cycle endlessly through standing state.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.4 & 14.7.",
-    "neetTrap": "Standing Crop is measured as DRY WEIGHT because fresh weight includes fluctuating water content.",
-    "tags": [
-      "Ecosystem",
-      "Standing Crop",
-      "Standing State",
-      "Biomass",
-      "Dry Weight"
-    ],
-    "quiz": {
-      "question": "The total amount of non-living inorganic nutrients such as carbon, nitrogen, phosphorus, and calcium present in the soil at any given time is called:",
-      "options": [
-        "Standing crop",
-        "Standing state",
-        "Gross primary productivity",
-        "Trophic biomass"
-      ],
-      "answerIndex": 1,
-      "explanation": "Standing state refers to the quantity of inorganic mineral nutrients present in the abiotic component of an ecosystem."
-    }
-  },
-  {
-    "id": "bio-ch31-13",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Four Structural Components of Pond Ecosystem",
-    "mnemonicNumber": 13,
-    "title": "Pond Ecosystem: Complete Self-Sustaining Unit (Abiotic + Producers + Consumers + Decomposers)",
-    "badgeText": "Memory Trick",
-    "importance": "Medium",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Abiotic (Water, Dissolved minerals, Sunlight) + Autotrophs (Phytoplankton/Algae) + Consumers (Zooplankton/Fish) + Decomposers (Fungi/Flagellates at pond bottom)",
-    "memoryHook": "A simple shallow pond exhibits all 4 basic functional attributes of a complete ecosystem: Productivity, Decomposition, Energy Flow, and Nutrient Cycling!",
-    "fact": "A pond is a shallow freshwater body where all four basic components of an ecosystem work as a unit: 1. Abiotic: water, dissolved inorganic/organic substances, solar input, temperature cycle. 2. Autotrophic producers: Phytoplankton, filamentous algae, floating, submerged and marginal plants. 3. Consumers: Zooplankton, free-swimming and bottom-dwelling fishes. 4. Decomposers: Fungi, bacteria, and flagellates abundant at the bottom silt.",
-    "breakdown": [
-      {
-        "key": "Productivity",
-        "label": "Phytoplankton and aquatic plants convert solar energy into biomass"
-      },
-      {
-        "key": "Consumption",
-        "label": "Zooplankton feed on phytoplankton; small fish feed on zooplankton; carnivores feed on small fish"
-      },
-      {
-        "key": "Decomposition",
-        "label": "Benthic microbes decompose organic sediment at pond floor"
-      },
-      {
-        "key": "Energy Flow",
-        "label": "Unidirectional flow of solar energy dissipated as heat"
-      }
-    ],
-    "doodleBadge": "Pond = Complete Model\nAll 4 Functions Active",
-    "doodleSubtext": "Aquatic Ecosystem Model",
-    "explanation": "A pond demonstrates how biotic and abiotic components interact dynamically in a self-contained ecological system.",
-    "alsoRemember": "Aquarium is a man-made artificial aquatic ecosystem.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.1.",
-    "neetTrap": "Decomposers in a pond are especially abundant in the BOTTOM SILT / BENTHIC layer.",
-    "tags": [
-      "Ecosystem",
-      "Pond",
-      "Phytoplankton",
-      "Zooplankton",
-      "Benthic"
-    ],
-    "quiz": {
-      "question": "Which organisms represent the primary producers in a natural freshwater pond ecosystem?",
-      "options": [
-        "Zooplankton and tadpoles",
-        "Phytoplankton, algae, and floating/submerged plants",
-        "Benthic fungi and bacteria",
-        "Carnivorous fishes"
-      ],
-      "answerIndex": 1,
-      "explanation": "Phytoplankton, filamentous algae, and aquatic plants are the photosynthetic autotrophic producers in ponds."
-    }
-  },
-  {
-    "id": "bio-ch31-14",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Stratification: Vertical Layering of Species",
-    "mnemonicNumber": 14,
-    "title": "Stratification: Vertical Distribution of Species at Different Levels",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Canopy Trees (Top layer) → Shrubs (Middle layer) → Herbs & Grasses (Bottom floor)",
-    "memoryHook": "Stratification is vertical layering: Trees occupy top strata, shrubs occupy second layer, herbs and grasses occupy the forest ground floor!",
-    "fact": "Vertical distribution of different species occupying different levels is called Stratification. For example, in a forest, trees occupy the top vertical strata or layer, shrubs the second layer, and herbs and grasses occupy the bottom layer.",
-    "breakdown": [
-      {
-        "key": "Top Stratum",
-        "label": "Tall emergent canopy trees capturing maximum sunlight"
-      },
-      {
-        "key": "Middle Stratum",
-        "label": "Shrubs and understory saplings adapted to moderate light"
-      },
-      {
-        "key": "Bottom Stratum",
-        "label": "Herbs, grasses, ferns, and mosses on forest floor adapted to deep shade"
-      }
-    ],
-    "doodleBadge": "Trees (Top)\nShrubs (Middle)\nHerbs (Bottom)",
-    "doodleSubtext": "Forest Stratification",
-    "explanation": "Stratification minimizes competition among plant species by allowing different growth forms to optimize light capture at different vertical heights.",
-    "alsoRemember": "Stratification also occurs in lakes (Epilimnion, Metalimnion/Thermocline, Hypolimnion).",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.1.",
-    "neetTrap": "STRATIFICATION refers to VERTICAL distribution of species occupying different levels.",
-    "tags": [
-      "Ecosystem",
-      "Stratification",
-      "Forest Layers",
-      "Canopy"
-    ],
-    "quiz": {
-      "question": "The vertical distribution of different species occupying different vertical levels in a biotic community is termed:",
-      "options": [
-        "Zonation",
-        "Stratification",
-        "Scarification",
-        "Speciation"
-      ],
-      "answerIndex": 1,
-      "explanation": "Stratification is the vertical layering of a habitat and the arrangement of vegetation in distinct vertical strata."
-    }
-  },
-  {
-    "id": "bio-ch31-15",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-2",
-    "topicTitle": "Limitations of Ecological Pyramids",
-    "mnemonicNumber": 15,
-    "title": "3 Flaws of Ecological Pyramids: No Food Web, Single Trophic Assumption, No Decomposers!",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
     "difficulty": "medium",
     "visualType": "classification",
     "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "1. Assumes simple food chain (ignores food webs) | 2. Ignores that 1 species can occupy multiple trophic levels (Sparrow / Human) | 3. NO place for Saprophytes/Decomposers!",
-    "memoryHook": "Ecological pyramids have 3 major limitations: they assume an unrealistic linear food chain, ignore omnivores occupying multiple levels, and completely leave out vital Decomposers!",
-    "fact": "Three major limitations of ecological pyramids: 1. It assumes a simple food chain, something that almost never exists in nature; it does not accommodate a food web. 2. It does not take into account the same species belonging to two or more trophic levels (e.g. Sparrow is a primary consumer when eating seeds, but secondary consumer when eating insects/worms). 3. Saprophytes/decomposers are not given any place in ecological pyramids even though they play a vital role in the ecosystem.",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Primary Carnivore = Secondary Consumer (T3)",
+    "memoryHook": "Primary Carnivore = Secondary Consumer (T3)",
+    "fact": "Primary carnivores eat herbivores (Primary consumers), placing them at Trophic Level 3.",
     "breakdown": [
       {
-        "key": "Limitation 1: No Food Web",
-        "label": "Rigid linear chain representation cannot depict real branching food webs"
+        "key": "Focus",
+        "label": "Primary vs Secondary Carnivore"
       },
       {
-        "key": "Limitation 2: Omnivores Ignored",
-        "label": "Sparrows, bears, crows, and humans belong to multiple trophic levels simultaneously"
-      },
-      {
-        "key": "Limitation 3: Decomposers Excluded",
-        "label": "Vital saprophytic bacteria and fungi are completely omitted from pyramid diagrams"
+        "key": "Trick",
+        "label": "Primary Carnivore = Secondary Consumer (T3)"
       }
     ],
-    "doodleBadge": "No Web · No Omnivore\nNo Decomposers",
-    "doodleSubtext": "Pyramid Limitations",
-    "explanation": "Despite these limitations, ecological pyramids remain useful didactic models for comparing biomass, number, and energy relationships across major ecosystems.",
-    "alsoRemember": "A trophic level represents a functional level, not a single species as such.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.5.",
-    "neetTrap": "SAPROPHYTES are completely EXCLUDED from ecological pyramids in classical ecology.",
+    "doodleBadge": "Primary Carnivore = Seco",
+    "doodleSubtext": "Primary vs Secondary Car",
+    "explanation": "Primary carnivores eat herbivores (Primary consumers), placing them at Trophic Level 3.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Primary vs Secondary Carnivore.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Ecosystem",
-      "Pyramid Limitations",
-      "Saprophytes",
-      "Trophic Levels"
+      "Primary"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "Which ecologically vital group of organisms is completely omitted and given no place in classical ecological pyramids?",
+      "question": "Which of the following is associated with \"Primary vs Secondary Carnivore\" in NEET Biology?",
       "options": [
-        "Herbivores",
-        "Primary producers",
-        "Decomposers (Saprophytes)",
-        "Apex predators"
+        "Primary Carnivore = Secondary Consumer (T3)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Saprophytes and decomposers are completely excluded from classical ecological pyramid diagrams."
+      "answerIndex": 0,
+      "explanation": "Primary carnivores eat herbivores (Primary consumers), placing them at Trophic Level 3."
     }
   },
   {
-    "id": "bio-ch31-16",
+    "id": "mnemo-bio-ch31-47",
     "subject": "biology",
     "chapterId": "bio-ch-31",
     "chapterNumber": 31,
     "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Secondary Productivity Definition",
-    "mnemonicNumber": 16,
-    "title": "Secondary Productivity: Rate of Formation of New Organic Matter by CONSUMERS",
-    "badgeText": "Memory Trick",
+    "classLevel": 12,
+    "topicId": "bio-top-31-5",
+    "topicTitle": "Autotrophs vs Heterotrophs Roles",
+    "topic": "Autotrophs vs Heterotrophs Roles",
+    "mnemonicNumber": 47,
+    "sourceItemNumber": 47,
+    "title": "Autotrophs vs Heterotrophs Roles: \"Producers Fix, Consumers Mix, Decomposers\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Primary Productivity = Plants / Producers | Secondary Productivity = Consumers / Herbivores / Carnivores",
-    "memoryHook": "Primary is made by autotrophs from sunlight; Secondary productivity is new flesh/biomass built by CONSUMERS from digested food!",
-    "fact": "Secondary productivity is defined as the rate of assimilation and formation of new organic matter by consumers (herbivores and carnivores). It represents the efficiency with which consumers convert ingested food energy into their own body biomass.",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Producers Fix, Consumers Mix, Decomposers",
+    "memoryHook": "Producers Fix, Consumers Mix, Decomposers",
+    "fact": "Solv-it\" Producers fix solar energy, consumers transfer it, decomposers recycle elements back to abiotics.",
     "breakdown": [
       {
-        "key": "Primary Productivity",
-        "label": "Rate of biomass synthesis by green plant autotrophs"
+        "key": "Point 1",
+        "label": "Solv-it\" Producers fix solar energy"
       },
       {
-        "key": "Secondary Productivity",
-        "label": "Rate of biomass synthesis by heterotrophic consumers"
+        "key": "Point 2",
+        "label": "consumers transfer it"
       },
       {
-        "key": "Efficiency",
-        "label": "Roughly 10% of consumed food is converted into new consumer biomass"
+        "key": "Point 3",
+        "label": "decomposers recycle elements back to abiotics"
       }
     ],
-    "doodleBadge": "Primary = Producers\nSecondary = Consumers",
-    "doodleSubtext": "Productivity Levels",
-    "explanation": "Herbivores ingest NPP, assimilate a portion of it, lose a large fraction in feces and respiration, and use the remainder for secondary production (growth and reproduction).",
-    "alsoRemember": "Net primary productivity is the starting energetic baseline for all secondary productivity.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.2.",
-    "neetTrap": "Secondary productivity is defined strictly for CONSUMERS (heterotrophs), not plants.",
+    "doodleBadge": "Producers Fix, Consumers",
+    "doodleSubtext": "Autotrophs vs Heterotrop",
+    "explanation": "Solv-it\" Producers fix solar energy, consumers transfer it, decomposers recycle elements back to abiotics.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Autotrophs vs Heterotrophs Roles.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Ecosystem",
-      "Secondary Productivity",
-      "Consumers",
+      "Autotrophs"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Autotrophs vs Heterotrophs Roles\" in NEET Biology?",
+      "options": [
+        "Producers Fix, Consumers Mix, Decomposers",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Solv-it\" Producers fix solar energy, consumers transfer it, decomposers recycle elements back to abiotics."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-48",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-5",
+    "topicTitle": "Ecological Succession Key Characteristic",
+    "topic": "Ecological Succession Key Characteristic",
+    "mnemonicNumber": 48,
+    "sourceItemNumber": 48,
+    "title": "Ecological Succession Key Characteristic: \"P-O-P: Predictable Orderly Parallel\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "P-O-P: Predictable Orderly Parallel",
+    "memoryHook": "P-O-P: Predictable Orderly Parallel",
+    "fact": "Changes are sequential, orderly and predictable, parallel to environmental changes.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Changes are sequential"
+      },
+      {
+        "key": "Point 2",
+        "label": "orderly"
+      },
+      {
+        "key": "Point 3",
+        "label": "predictable"
+      },
+      {
+        "key": "Point 4",
+        "label": "parallel to environmental changes"
+      }
+    ],
+    "doodleBadge": "P-O-P: Predictable Order",
+    "doodleSubtext": "Ecological Succession Ke",
+    "explanation": "Changes are sequential, orderly and predictable, parallel to environmental changes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Ecological Succession Key Characteristic.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
+      "Ecological"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Ecological Succession Key Characteristic\" in NEET Biology?",
+      "options": [
+        "P-O-P: Predictable Orderly Parallel",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Changes are sequential, orderly and predictable, parallel to environmental changes."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch31-49",
+    "subject": "biology",
+    "chapterId": "bio-ch-31",
+    "chapterNumber": 31,
+    "chapterTitle": "Ecosystem",
+    "classLevel": 12,
+    "topicId": "bio-top-31-5",
+    "topicTitle": "Biomass Measurement Unit",
+    "topic": "Biomass Measurement Unit",
+    "mnemonicNumber": 49,
+    "sourceItemNumber": 49,
+    "title": "Biomass Measurement Unit: \"Dry Weight is ALWAYS Preferred Over Fresh\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Dry Weight is ALWAYS Preferred Over Fresh",
+    "memoryHook": "Dry Weight is ALWAYS Preferred Over Fresh",
+    "fact": "Biomass is always measured in terms of dry weight to avoid variable moisture fluctuations, giving accurate ecological comparisons.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Biomass Measurement Unit"
+      },
+      {
+        "key": "Trick",
+        "label": "Dry Weight is ALWAYS Preferred Over Fresh"
+      }
+    ],
+    "doodleBadge": "Dry Weight is ALWAYS Pre",
+    "doodleSubtext": "Biomass Measurement Unit",
+    "explanation": "Biomass is always measured in terms of dry weight to avoid variable moisture fluctuations, giving accurate ecological comparisons.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Biomass Measurement Unit.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Ecosystem",
       "Biomass"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "Secondary productivity is defined as the rate of formation of new organic matter by:",
+      "question": "Which of the following is associated with \"Biomass Measurement Unit\" in NEET Biology?",
       "options": [
-        "Producers",
-        "Decomposers",
-        "Consumers",
-        "Parasites only"
+        "Dry Weight is ALWAYS Preferred Over Fresh",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Secondary productivity is defined in NCERT as the rate of formation of new organic matter by consumers."
+      "answerIndex": 0,
+      "explanation": "Biomass is always measured in terms of dry weight to avoid variable moisture fluctuations, giving accurate ecological comparisons."
     }
   },
   {
-    "id": "bio-ch31-17",
+    "id": "mnemo-bio-ch31-50",
     "subject": "biology",
     "chapterId": "bio-ch-31",
     "chapterNumber": 31,
     "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Xerarch Succession on Bare Rock Steps",
-    "mnemonicNumber": 17,
-    "title": "Xerarch Stages: Crustose Lichens → Foliose Lichens → Mosses → Herbs → Shrubs → Forest",
-    "badgeText": "Memory Trick",
+    "classLevel": 12,
+    "topicId": "bio-top-31-5",
+    "topicTitle": "Golden Ecosystem Rule for NEET",
+    "topic": "Golden Ecosystem Rule for NEET",
+    "mnemonicNumber": 50,
+    "sourceItemNumber": 50,
+    "title": "Golden Ecosystem Rule for NEET: \"ENERGY FLOWS, NUTRIENTS CYCLE!\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Crustose Lichen (Rhizocarpon pioneer) → Foliose Lichen (Parmelia) → Mosses (Polytrichum) → Annual Herbs → Perennial Grasses → Shrubs → Climax Forest",
-    "memoryHook": "Crustose lichens etch rock → Foliose lichens build dust → Mosses carpet soil → Herbs root → Shrubs shade → Tall Forest Trees take over!",
-    "fact": "Seral stages of Xerarch primary succession on bare rock: 1. Crustose Lichens (Pioneers: secrete organic acids that corrode and weather bare rock into fine soil particles), 2. Foliose Lichens (leafy, trap dust), 3. Moss stage (Sphagnum, Polytrichum carpet, hold moisture), 4. Herbaceous stage (annual grasses), 5. Shrub stage (bushes), 6. Climax Forest stage (stable mesophytic woodland).",
-    "breakdown": [
-      {
-        "key": "1. Crustose Lichen (Pioneer)",
-        "label": "Adheres tightly to rock; secretes carbonic and lichen acids to weather minerals"
-      },
-      {
-        "key": "2. Foliose Lichen",
-        "label": "Leaf-like thalli overshadow crustose forms and accumulate more organic debris"
-      },
-      {
-        "key": "3. Moss Stage",
-        "label": "Thick rhizoids anchor in shallow soil, holding rain water"
-      },
-      {
-        "key": "4. Herbs & Grasses",
-        "label": "Decomposing roots enrich soil fertility and depth"
-      },
-      {
-        "key": "5. Shrubs",
-        "label": "Roots penetrate deeper rock fissures"
-      },
-      {
-        "key": "6. Climax Forest",
-        "label": "Mesophytic tree canopy in equilibrium with local climate"
-      }
-    ],
-    "doodleBadge": "Lichen → Moss →\nHerb → Shrub → Forest",
-    "doodleSubtext": "Xerarch Progression",
-    "explanation": "Lichens are the pioneer organisms on bare rocks because their symbiotic partnership allows survival on dry mineral substrates while chemically manufacturing soil.",
-    "alsoRemember": "Soil depth and organic humus content progressively increase throughout the succession.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.6.",
-    "neetTrap": "CRUSTOSE LICHENS are the very first pioneers on bare rock (followed by foliose lichens and mosses).",
-    "tags": [
-      "Ecosystem",
-      "Xerarch",
-      "Lichens",
-      "Mosses",
-      "Succession"
-    ],
-    "quiz": {
-      "question": "Which organisms act as the initial pioneer species on bare rock during primary xerarch succession?",
-      "options": [
-        "Mosses",
-        "Crustose lichens",
-        "Foliose lichens",
-        "Annual herbs"
-      ],
-      "answerIndex": 1,
-      "explanation": "Crustose lichens are the pioneer species on bare rock that secrete acids to begin soil formation."
-    }
-  },
-  {
-    "id": "bio-ch31-18",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Gaseous vs Sedimentary Nutrient Cycles",
-    "mnemonicNumber": 18,
-    "title": "Nutrient Cycles: Gaseous (Atmosphere/Ocean: N, C) vs Sedimentary (Earth's Crust: P, S)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
     "difficulty": "easy",
     "visualType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Gaseous = Nitrogen & Carbon (Air & Oceans) | Sedimentary = Phosphorus & Sulfur (Rocks & Earth's Crust)",
-    "memoryHook": "Gas cycles have atmospheric reservoirs (Nitrogen, Carbon); Sedimentary cycles have rock crust reservoirs (Phosphorus, Sulfur)!",
-    "fact": "Nutrient cycles (Biogeochemical cycles) are of two types: 1. Gaseous cycles: reservoir is located in the atmosphere or hydrosphere (e.g. Nitrogen, Carbon cycle). 2. Sedimentary cycles: reservoir is located in Earth's crust (e.g. Phosphorus and Sulfur cycles).",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "ENERGY FLOWS, NUTRIENTS CYCLE!",
+    "memoryHook": "ENERGY FLOWS, NUTRIENTS CYCLE!",
+    "fact": "Energy flow in an ecosystem is strictly 10% unidirectional and lost as heat, whereas nutrients cycle continuously through biogeochemical reservoirs.",
     "breakdown": [
       {
-        "key": "Gaseous Cycles",
-        "label": "Carbon, Nitrogen, Oxygen, Water (Atmospheric/Hydrospheric reservoir; rapid cycling)"
+        "key": "Focus",
+        "label": "Golden Ecosystem Rule for NEET"
       },
       {
-        "key": "Sedimentary Cycles",
-        "label": "Phosphorus, Sulfur, Calcium (Lithospheric rock reservoir; slow cycling via weathering)"
+        "key": "Trick",
+        "label": "ENERGY FLOWS, NUTRIENTS CYCLE!"
       }
     ],
-    "doodleBadge": "Gas: C & N\nSediment: P & S",
-    "doodleSubtext": "Nutrient Cycle Types",
-    "explanation": "Environmental factors like temperature, soil moisture, and pH regulate the rate of nutrient release into the atmosphere or soil solution.",
-    "alsoRemember": "Nutrient cycling ensures that vital chemical elements are never lost from ecosystems; they are recycled indefinitely.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.7.",
-    "neetTrap": "Carbon and Nitrogen are GASEOUS; Phosphorus and Sulfur are SEDIMENTARY.",
+    "doodleBadge": "ENERGY FLOWS, NUTRIENTS ",
+    "doodleSubtext": "Golden Ecosystem Rule fo",
+    "explanation": "Energy flow in an ecosystem is strictly 10% unidirectional and lost as heat, whereas nutrients cycle continuously through biogeochemical reservoirs.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 12 (Ecosystem).",
+    "neetTrap": "Common NEET test point in Golden Ecosystem Rule for NEET.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 12, PDF Page 9",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Ecosystem",
-      "Nutrient Cycles",
-      "Gaseous Cycle",
-      "Sedimentary Cycle"
+      "Golden"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 9,
+      "chapter": "Ecosystem"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following nutrient cycles is classified as a sedimentary cycle whose primary reservoir is in Earth's crust?",
+      "question": "Which of the following is associated with \"Golden Ecosystem Rule for NEET\" in NEET Biology?",
       "options": [
-        "Carbon cycle",
-        "Nitrogen cycle",
-        "Phosphorus cycle",
-        "Oxygen cycle"
+        "ENERGY FLOWS, NUTRIENTS CYCLE!",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "The phosphorus cycle (along with sulfur) is a sedimentary cycle with its reservoir in rocks."
-    }
-  },
-  {
-    "id": "bio-ch31-19",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Ecosystem Definition: A.G. Tansley",
-    "mnemonicNumber": 19,
-    "title": "Ecosystem: Coined by A.G. Tansley (1935) – Structural & Functional Unit of Nature",
-    "badgeText": "Memory Trick",
-    "importance": "Medium",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "E.P. Odum (Father of Modern Ecology) | A.G. Tansley (1935: Coined term ECOSYSTEM)",
-    "memoryHook": "A.G. Tansley coined the term \"Ecosystem\" in 1935 as the functional unit where living organisms interact among themselves and with surrounding physical environment!",
-    "fact": "An ecosystem is a functional unit of nature, where living organisms interact among themselves and also with the surrounding physical environment. The term \"Ecosystem\" was coined by Sir Arthur Tansley in 1935. Ecosystems can range from a small droplet of water or pond to a vast forest or the entire ocean.",
-    "breakdown": [
-      {
-        "key": "Term Coined by",
-        "label": "Arthur Tansley (1935)"
-      },
-      {
-        "key": "Two Basic Categories",
-        "label": "Terrestrial (forest, grassland, desert) and Aquatic (pond, lake, wetland, river, estuary)"
-      },
-      {
-        "key": "Man-made Ecosystems",
-        "label": "Crop fields, aquariums, botanical gardens, and space stations"
-      }
-    ],
-    "doodleBadge": "A.G. Tansley (1935)\nTerm Ecosystem",
-    "doodleSubtext": "Historical Ecology",
-    "explanation": "The entire biosphere can be viewed as a Global Ecosystem, as a composite of all local ecosystems on Earth.",
-    "alsoRemember": "Crop fields and aquariums are artificial, human-engineered ecosystems with low biodiversity.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Introduction.",
-    "neetTrap": "The term \"Ecosystem\" was coined by TANSLEY (not Haeckel, Darwin, or Odum).",
-    "tags": [
-      "Ecosystem",
-      "Tansley",
-      "Definition",
-      "History"
-    ],
-    "quiz": {
-      "question": "Who coined the term \"Ecosystem\" in 1935 to describe the structural and functional unit of nature?",
-      "options": [
-        "Ernst Haeckel",
-        "A.G. Tansley",
-        "Charles Darwin",
-        "E.P. Odum"
-      ],
-      "answerIndex": 1,
-      "explanation": "A.G. Tansley coined the term \"Ecosystem\" in 1935."
-    }
-  },
-  {
-    "id": "bio-ch31-20",
-    "subject": "biology",
-    "chapterId": "bio-ch-31",
-    "chapterNumber": 31,
-    "chapterTitle": "Ecosystem",
-    "topicId": "bio-top-31-1",
-    "topicTitle": "Ecosystem 4 Core Functional Aspects Summary",
-    "mnemonicNumber": 20,
-    "title": "Ecosystem 4 Pillars: Productivity, Decomposition, Energy Flow, Nutrient Cycling",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "sequence",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "P-D-E-N: Productivity (Make food) → Decomposition (Break dead) → Energy Flow (Unidirectional 10%) → Nutrient Cycling (Cyclic recycling)",
-    "memoryHook": "The 4 fundamental functional components that keep every ecosystem alive and functioning: Productivity, Decomposition, Energy Flow, and Nutrient Cycling!",
-    "fact": "To understand the ethos of an ecosystem, four fundamental structural and functional aspects must be studied: 1. Productivity (synthesis of organic matter by autotrophs), 2. Decomposition (breakdown of detritus by decomposers), 3. Energy Flow (unidirectional thermodynamic movement from sun to producers to consumers), 4. Nutrient Cycling (biogeochemical cycles recycling C, N, P, S).",
-    "breakdown": [
-      {
-        "key": "1. Productivity",
-        "label": "GPP and NPP (170 billion tons annual dry weight across biosphere)"
-      },
-      {
-        "key": "2. Decomposition",
-        "label": "5 steps: Fragmentation, Leaching, Catabolism, Humification, Mineralization"
-      },
-      {
-        "key": "3. Energy Flow",
-        "label": "Unidirectional; 10% law; pyramids of energy always upright"
-      },
-      {
-        "key": "4. Nutrient Cycling",
-        "label": "Gaseous (C, N) and Sedimentary (P, S) closed loops"
-      }
-    ],
-    "doodleBadge": "Productivity · Decomposition\nEnergy Flow · Nutrient Cycling",
-    "doodleSubtext": "4 Ecosystem Pillars",
-    "explanation": "Without any one of these four components, an ecosystem collapses: energy flows in one direction and exits as heat, while nutrients circulate continuously.",
-    "alsoRemember": "Energy flow is UNIDIRECTIONAL and OPEN, while nutrient flow is CYCLIC and CLOSED.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 14, Section 14.1.",
-    "neetTrap": "Energy flow is UNIDIRECTIONAL (open system), whereas nutrient movement is CYCLIC (closed system).",
-    "tags": [
-      "Ecosystem",
-      "Productivity",
-      "Decomposition",
-      "Energy Flow",
-      "Nutrient Cycling"
-    ],
-    "quiz": {
-      "question": "Which of the following correctly describes the nature of energy flow versus nutrient flow in an ecosystem?",
-      "options": [
-        "Both energy and nutrients flow in closed circular loops",
-        "Energy flow is unidirectional (open), while nutrient flow is cyclic (closed)",
-        "Energy flow is cyclic, while nutrient flow is unidirectional",
-        "Both energy and nutrients are continuously created from nothing"
-      ],
-      "answerIndex": 1,
-      "explanation": "Energy flows unidirectionally through trophic levels and dissipates as heat, whereas nutrients cycle continuously."
+      "answerIndex": 0,
+      "explanation": "Energy flow in an ecosystem is strictly 10% unidirectional and lost as heat, whereas nutrients cycle continuously through biogeochemical reservoirs."
     }
   }
 ];

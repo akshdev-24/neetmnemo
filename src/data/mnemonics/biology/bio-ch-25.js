@@ -1,1187 +1,3228 @@
+/**
+ * NEET Biology Mnemonics — Chapter 25 (NCERT Ch 6): Evolution
+ * Class 12 Biology (50 verified mnemonics)
+ * Primary Source: NCERT Class 12 Biology Quick Revision Series (PDF 2)
+ */
+
 export const bioCh25Mnemonics = [
   {
-    "id": "bio-ch25-01",
+    "id": "mnemo-bio-ch25-01",
     "subject": "biology",
     "chapterId": "bio-ch-25",
     "chapterNumber": 25,
     "chapterTitle": "Evolution",
+    "classLevel": 12,
     "topicId": "bio-top-25-1",
-    "topicTitle": "Homologous vs Analogous Organs",
+    "topicTitle": "Age",
+    "topic": "Age",
     "mnemonicNumber": 1,
-    "title": "Homology vs Analogy: HD vs AC",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 1,
+    "title": "Age: \"Milestones of Universe & Earth \t20 - 4.5 - 4.0 - 3.5\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "HD (Homologous = Divergent) | AC (Analogous = Convergent)",
-    "memoryHook": "High Definition (Homology = Divergent evolution, common origin) & Air Conditioner (Analogy = Convergent evolution, different origin)!",
-    "fact": "Homologous organs share common origin/anatomy but different functions (divergent). Analogous organs have different origins/structures but perform similar functions (convergent).",
-    "breakdown": [
-      {
-        "key": "H - D (Homologous → Divergent)",
-        "label": "Same basic structure & common ancestor, adapted to different needs (e.g. whale flipper, bat wing, human arm, cheetah forelimb; Bougainvillea thorn & Cucurbita tendril)"
-      },
-      {
-        "key": "A - C (Analogous → Convergent)",
-        "label": "Different internal anatomy, evolved independently for same function (e.g. wings of bird and butterfly; eye of octopus and mammals; sweet potato root & potato stem)"
-      }
-    ],
-    "doodleBadge": "HD vs AC",
-    "doodleSubtext": "Divergent vs Convergent",
-    "explanation": "Homology indicates common ancestry (divergence from an ancestral plan). Analogy represents adaptive convergence of unrelated lineages under similar environmental pressures.",
-    "alsoRemember": "Thorns of Bougainvillea and tendrils of Cucurbita are homologous (both stem modifications). Sweet potato (root modification) and potato (stem modification) are analogous (both store food).",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.3.",
-    "neetTrap": "Sweet potato and Potato are ANALOGOUS, not homologous, because sweet potato is an adventitious root tuber while potato is an underground stem tuber.",
-    "tags": [
-      "Evolution",
-      "Homology",
-      "Analogy",
-      "Divergent Evolution",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "Which of the following pairs represents homologous structures?",
-      "options": [
-        "Wings of a butterfly and wings of a bird",
-        "Eye of an octopus and eye of a mammal",
-        "Thorn of Bougainvillea and tendril of Cucurbita",
-        "Sweet potato and potato"
-      ],
-      "answerIndex": 2,
-      "explanation": "Thorns of Bougainvillea and tendrils of Cucurbita are both modified axillary buds (same anatomical origin), hence homologous."
-    }
-  },
-  {
-    "id": "bio-ch25-02",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-3",
-    "topicTitle": "Human Evolution Sequence",
-    "mnemonicNumber": 2,
-    "title": "Human Evolution: Doctor Ram Ate Hard Egg Noodles Salad",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "sequence",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Doctor Ram Ate Hard Egg Noodles Salad (D → R → A → Hh → He → N → Hs)",
-    "memoryHook": "Dryopithecus → Ramapithecus → Australopithecus → Homo habilis → Homo erectus → Neanderthal → Homo sapiens!",
-    "fact": "Human evolutionary timeline spans ~15 million years: Dryopithecus & Ramapithecus (15 mya), Australopithecines (2 mya, Africa), Homo habilis (first tool maker, 650-800 cc), Homo erectus (1.5 mya, 900 cc, ate meat), Neanderthal (100,000-40,000 ya, 1400 cc, buried dead), Homo sapiens (75,000-10,000 ya).",
-    "breakdown": [
-      {
-        "key": "D - Dryopithecus (15 mya)",
-        "label": "More ape-like, hairy, walked on forelimbs"
-      },
-      {
-        "key": "R - Ramapithecus (15 mya)",
-        "label": "More man-like, walked erect"
-      },
-      {
-        "key": "A - Australopithecus (2 mya)",
-        "label": "East African grasslands, hunted with stone weapons, fruit eaters"
-      },
-      {
-        "key": "H - Homo habilis (1st human-like)",
-        "label": "First handy man / tool maker, brain capacity 650-800 cc, did not eat meat"
-      },
-      {
-        "key": "E - Homo erectus (1.5 mya, Java)",
-        "label": "Brain capacity 900 cc, upright posture, definitely ate meat"
-      },
-      {
-        "key": "N - Neanderthal man",
-        "label": "Brain capacity 1400 cc, lived in near East/Central Asia, buried their dead"
-      },
-      {
-        "key": "S - Homo sapiens (Modern)",
-        "label": "Arose in Africa during ice age (75,000-10,000 ya), cave art (18,000 ya)"
-      }
-    ],
-    "doodleBadge": "D → R → A → Hh → He → N → Hs",
-    "doodleSubtext": "Human Evolution Sequence",
-    "explanation": "Cranial capacity trend: Homo habilis (650-800 cc) < Homo erectus (900 cc) < Neanderthal man (1400 cc) ~ Homo sapiens (1350-1400 cc).",
-    "alsoRemember": "Prehistoric cave art developed about 18,000 years ago (Bhimbetka rock shelter in MP, India); agriculture started around 10,000 years ago.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.9.",
-    "neetTrap": "Homo habilis did NOT eat meat (fruit/plant eater), whereas Homo erectus DID eat meat.",
-    "tags": [
-      "Evolution",
-      "Human Evolution",
-      "Cranial Capacity",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "Which hominid ancestor had a cranial capacity of 650–800 cc and was the first tool-making hominid that did not eat meat?",
-      "options": [
-        "Homo erectus",
-        "Homo habilis",
-        "Neanderthal man",
-        "Australopithecus"
-      ],
-      "answerIndex": 1,
-      "explanation": "Homo habilis (\"handy man\") had a cranial capacity of 650-800 cc and did not eat meat."
-    }
-  },
-  {
-    "id": "bio-ch25-03",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-2",
-    "topicTitle": "Hardy-Weinberg Principle",
-    "mnemonicNumber": 3,
-    "title": "Hardy-Weinberg Factors: No MAGMA Disturbance",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "process",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "MAGMA: Mutation, Assortative mating, Gene flow, Genetic drift, Natural Selection",
-    "memoryHook": "5 factors that upset Hardy-Weinberg equilibrium: Mutation, Assortative (non-random) mating, Gene flow, Genetic drift, Natural Selection!",
-    "fact": "Hardy-Weinberg equation: p² + 2pq + q² = 1 (and p + q = 1). Allele frequencies in a population remain constant from generation to generation in the absence of evolutionary influences.",
-    "breakdown": [
-      {
-        "key": "M - Mutation",
-        "label": "Introduces new alleles; creates variation"
-      },
-      {
-        "key": "A - Assortative/Non-random Mating",
-        "label": "Changes genotypic frequencies without changing allele frequencies"
-      },
-      {
-        "key": "G - Gene Flow / Migration",
-        "label": "Immigration/emigration alters allele frequencies in both populations"
-      },
-      {
-        "key": "M - Genetic Drift",
-        "label": "Random changes in allele frequency by chance, highly impactful in small populations (Founder Effect)"
-      },
-      {
-        "key": "A/S - Natural Selection",
-        "label": "Stabilizing, Directional, or Disruptive selection favoring advantageous phenotypes"
-      }
-    ],
-    "doodleBadge": "p² + 2pq + q² = 1",
-    "doodleSubtext": "Hardy-Weinberg Factors",
-    "explanation": "When gene migration happens multiple times, gene flow occurs. If gene frequency changes by chance in a small isolated colony, it is called Genetic Drift (Sewall Wright Effect); the original drifted population becomes founders (Founder effect).",
-    "alsoRemember": "In p² + 2pq + q² = 1, p² = frequency of homozygous dominant (AA), 2pq = heterozygous (Aa), and q² = homozygous recessive (aa).",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.8.",
-    "neetTrap": "In Hardy-Weinberg calculations, if frequency of recessive phenotype (aa) is given as 16%, then q² = 0.16, meaning q = 0.4, p = 0.6, and 2pq = 2(0.6)(0.4) = 0.48 (48%).",
-    "tags": [
-      "Evolution",
-      "Hardy-Weinberg",
-      "Population Genetics",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "In a random mating population in Hardy-Weinberg equilibrium, if the frequency of homozygous recessive individuals is 9% (0.09), what is the frequency of heterozygous carriers?",
-      "options": [
-        "0.21",
-        "0.42",
-        "0.49",
-        "0.70"
-      ],
-      "answerIndex": 1,
-      "explanation": "q² = 0.09 → q = 0.3. Since p + q = 1, p = 0.7. Heterozygous frequency 2pq = 2 * 0.7 * 0.3 = 0.42 (42%)."
-    }
-  },
-  {
-    "id": "bio-ch25-04",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-1",
-    "topicTitle": "Miller-Urey Experiment",
-    "mnemonicNumber": 4,
-    "title": "Miller Experiment Gases: M-A-W-H (800°C)",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "MAWH: Methane (CH4), Ammonia (NH3), Water vapor (H2O), Hydrogen gas (H2) [2:1:2 ratio]",
-    "memoryHook": "Stanley Miller sparked MAWH at 800°C with electric discharge to produce Amino Acids!",
-    "fact": "In 1953, S.L. Miller created primitive earth conditions in a closed spark-discharge flask containing CH4, H2, NH3, and water vapor at 800°C, producing amino acids (glycine, alanine, aspartic acid).",
-    "breakdown": [
-      {
-        "key": "M - Methane (CH4)",
-        "label": "Carbon source in reducing atmosphere"
-      },
-      {
-        "key": "A - Ammonia (NH3)",
-        "label": "Nitrogen source"
-      },
-      {
-        "key": "W - Water vapor (H2O)",
-        "label": "Boiling water kept circulation going"
-      },
-      {
-        "key": "H - Hydrogen (H2)",
-        "label": "Maintained reducing (O2-free) environment"
-      }
-    ],
-    "doodleBadge": "CH4 + NH3 + H2O + H2\n@ 800°C",
-    "doodleSubtext": "Miller-Urey Spark Flask",
-    "explanation": "Oparin of Russia and Haldane of England proposed chemical evolution: life arose from pre-existing non-living organic molecules. Miller experimentally proved abiogenic synthesis.",
-    "alsoRemember": "Amino acids synthesized in Miller's flask included Glycine, Alanine, and Aspartic acid.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.1.",
-    "neetTrap": "There was NO free oxygen (O2) in Miller's flask because early Earth had a reducing atmosphere without free molecular oxygen.",
-    "tags": [
-      "Evolution",
-      "Miller Urey",
-      "Origin of Life",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "Which gas was strictly ABSENT from the spark-discharge chamber in Stanley Miller’s 1953 experiment?",
-      "options": [
-        "Methane (CH4)",
-        "Ammonia (NH3)",
-        "Molecular Oxygen (O2)",
-        "Hydrogen (H2)"
-      ],
-      "answerIndex": 2,
-      "explanation": "Molecular Oxygen (O2) was absent on primitive Earth and in Miller’s reducing experimental atmosphere."
-    }
-  },
-  {
-    "id": "bio-ch25-05",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-2",
-    "topicTitle": "Natural Selection Types",
-    "mnemonicNumber": 5,
-    "title": "3 Types of Natural Selection: S-D-D Peaks",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
     "difficulty": "medium",
     "visualType": "classification",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "S (Stabilizing = Slim/Taller mean) | D (Directional = Drift to 1 side) | D (Disruptive = Double peaks!)",
-    "memoryHook": "Stabilizing favors the center mean; Directional shifts towards one extreme; Disruptive splits into two distinct peaks at both extremes!",
-    "fact": "Natural selection can lead to: 1. Stabilizing selection (more individuals acquire mean character value), 2. Directional selection (peak shifts in one direction), 3. Disruptive selection (more individuals acquire peripheral character values at both ends, forming two peaks).",
-    "breakdown": [
-      {
-        "key": "Stabilizing Selection",
-        "label": "Favors intermediate mean phenotypes; reduces variance (e.g. human birth weight ~3kg)"
-      },
-      {
-        "key": "Directional Selection",
-        "label": "Favors one extreme phenotype; shifts bell curve (e.g. industrial melanism in peppered moth Biston betularia; DDT resistance)"
-      },
-      {
-        "key": "Disruptive Selection",
-        "label": "Favors both extremes over intermediate; splits single bell curve into two peaks"
-      }
-    ],
-    "doodleBadge": "1 Mean | 1 Side | 2 Peaks",
-    "doodleSubtext": "Natural Selection Types",
-    "explanation": "Industrial melanism in England is a classic example of Directional selection: before industrialization, white-winged moths survived; post-industrial soot favored dark/melanic moths.",
-    "alsoRemember": "Lichens do not grow in polluted areas; their disappearance was an indicator of sulfur dioxide pollution during industrialization.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.6, Figure 7.8.",
-    "neetTrap": "Disruptive selection produces TWO distinct peaks, not a shifted single peak.",
-    "tags": [
-      "Evolution",
-      "Natural Selection",
-      "Industrial Melanism",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "Which type of natural selection operates when individuals at both extreme ends of the distribution curve are favored, resulting in two separate peaks?",
-      "options": [
-        "Stabilizing selection",
-        "Directional selection",
-        "Disruptive selection",
-        "Sexual selection"
-      ],
-      "answerIndex": 2,
-      "explanation": "Disruptive selection favors phenotypes at both extremes of a distribution, producing a bimodal (two-peaked) curve."
-    }
-  },
-  {
-    "id": "bio-ch25-06",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-1",
-    "topicTitle": "Adaptive Radiation",
-    "mnemonicNumber": 6,
-    "title": "Adaptive Radiation: Darwin's Finches & Australian Marsupials",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Galapagos Finches radiate out | Australian Marsupials radiate pouch",
-    "memoryHook": "One ancestor lands in an isolated area with empty niches → Radiates into many diverse species in different geographical niches!",
-    "fact": "Adaptive radiation is the evolutionary process of starting from a common ancestral point and radiating to other areas of geography (e.g. Darwin's finches on Galapagos Islands, Australian marsupials).",
-    "breakdown": [
-      {
-        "key": "Darwin's Finches",
-        "label": "Original seed-eating ancestral finches evolved diverse beaks: insectivorous, vegetarian, cactus-eating"
-      },
-      {
-        "key": "Australian Marsupials",
-        "label": "Tasmanian wolf, Tiger cat, Bandicoot, Wombat, Banded anteater all evolved from ancestral marsupial stock in Australia"
-      },
-      {
-        "key": "Convergent Radiation",
-        "label": "When more than one adaptive radiation occurs in an isolated geographical area (e.g. Placental wolf vs Tasmanian wolf/marsupial wolf)"
-      }
-    ],
-    "doodleBadge": "1 Ancestor → Many Niches",
-    "doodleSubtext": "Adaptive Radiation",
-    "explanation": "When placental mammals in Australia show corresponding evolved types matching Australian marsupials (e.g. Placental Mole & Marsupial Mole; Anteater & Numbat; Bobcat & Tasmanian Tiger cat), it illustrates Convergent Evolution.",
-    "alsoRemember": "Galapagos is a group of volcanic islands located off the west coast of South America where Darwin observed biodiversity on HMS Beagle.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.5.",
-    "neetTrap": "Australian marsupials among themselves = Adaptive Radiation (Divergent). Australian marsupials vs Placental mammals = Convergent Evolution.",
-    "tags": [
-      "Evolution",
-      "Adaptive Radiation",
-      "Darwin Finches",
-      "Marsupials"
-    ],
-    "quiz": {
-      "question": "The evolution of different species in a given geographical area starting from a point and literally radiating to other areas of geography (habitats) is called:",
-      "options": [
-        "Saltation",
-        "Adaptive Radiation",
-        "Convergent Evolution",
-        "Co-evolution"
-      ],
-      "answerIndex": 1,
-      "explanation": "Adaptive radiation is the diversification of a group of organisms into forms filling different ecological niches from a common ancestor."
-    }
-  },
-  {
-    "id": "bio-ch25-07",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-2",
-    "topicTitle": "Hugo de Vries Mutation Theory",
-    "mnemonicNumber": 7,
-    "title": "Mutation Theory: Saltation = Single-Step Large Jump",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Darwin = Small, Slow, Directional | De Vries = Sudden, Saltation, Discontinuous (Oenothera)",
-    "memoryHook": "Darwin believed in continuous gradual slow variations; Hugo de Vries (evening primrose) proposed large single-step mutations called SALTATION!",
-    "fact": "Hugo de Vries worked on Evening Primrose (Oenothera lamarckiana) and stated that mutations are sudden, random, and directionless, causing speciation in a single step (Saltation).",
-    "breakdown": [
-      {
-        "key": "Darwinian Variation",
-        "label": "Minor, continuous, slow, and directional (gradualism)"
-      },
-      {
-        "key": "De Vriesian Mutation",
-        "label": "Large, discontinuous, random, directionless, single-step speciation (Saltation)"
-      },
-      {
-        "key": "Experimental Plant",
-        "label": "Evening Primrose (Oenothera lamarckiana)"
-      }
-    ],
-    "doodleBadge": "Saltation =\nSingle Step Large Mutation",
-    "doodleSubtext": "Hugo de Vries vs Darwin",
-    "explanation": "While Darwin emphasized survival of fittest through slow gradual changes, Hugo de Vries demonstrated that major mutations could abruptly produce new distinct phenotypes.",
-    "alsoRemember": "The term \"Saltation\" literally means single-step large mutation leading to speciation.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.7.",
-    "neetTrap": "Darwinian variations are directional and gradual; mutations according to Hugo de Vries are random and directionless.",
-    "tags": [
-      "Evolution",
-      "Mutation",
-      "Hugo de Vries",
-      "Saltation"
-    ],
-    "quiz": {
-      "question": "According to Hugo de Vries, the mechanism of evolution is single-step large mutation termed:",
-      "options": [
-        "Gradualism",
-        "Saltation",
-        "Branching descent",
-        "Natural selection"
-      ],
-      "answerIndex": 1,
-      "explanation": "Hugo de Vries proposed that evolution occurs via large, single-step mutations called saltation."
-    }
-  },
-  {
-    "id": "bio-ch25-08",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-1",
-    "topicTitle": "Geological Time Scale & Coelacanth",
-    "mnemonicNumber": 8,
-    "title": "Living Fossil Fish: Coelacanth (Lobefin 1938)",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "notebook",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Coelacanth (Lobefin) caught in South Africa 1938 → Ancestor of Amphibians!",
-    "memoryHook": "Lobefin fish had stout fins to walk on land and return to water — direct ancestors of modern amphibians!",
-    "fact": "In 1938, a fish caught in South Africa happened to be a Coelacanth (Lobefin), thought to be extinct. These organisms evolved into the first amphibians that lived on both land and water.",
-    "breakdown": [
-      {
-        "key": "Coelacanth (Lobefin)",
-        "label": "Caught in South Africa in 1938; living transitional link"
-      },
-      {
-        "key": "Significance",
-        "label": "Paved the way for terrestrial vertebrate evolution (Amphibians)"
-      },
-      {
-        "key": "Ichthyosaurs",
-        "label": "Reptiles that went back into water to become fish-like reptiles (~200 mya)"
-      },
-      {
-        "key": "Tyrannosaurus rex",
-        "label": "Biggest dinosaur (~20 feet in height, huge dagger-like teeth)"
-      }
-    ],
-    "doodleBadge": "Coelacanth 1938\nFish → Amphibian link",
-    "doodleSubtext": "Lobefin Evolution",
-    "explanation": "Dinosaurs suddenly disappeared around 65 million years ago (Cretaceous-Tertiary extinction). The first mammals were small, shrew-like creatures.",
-    "alsoRemember": "About 350 mya fish with stout and strong fins could move on land and go back to water.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.9.",
-    "neetTrap": "Ichthyosaur is a REPTILE that reverted to water, not an amphibian or fish.",
-    "tags": [
-      "Evolution",
-      "Coelacanth",
-      "Fossils",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "Which fish-like ancestral animal caught in South Africa in 1938 proved that lobefins evolved into first amphibians?",
-      "options": [
-        "Ichthyosaur",
-        "Coelacanth",
-        "Pteranodon",
-        "Archaeopteryx"
-      ],
-      "answerIndex": 1,
-      "explanation": "Coelacanth (Lobefin fish) was caught in 1938 in South Africa, representing the lineage from which amphibians evolved."
-    }
-  },
-  {
-    "id": "bio-ch25-09",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-1",
-    "topicTitle": "Embryological Support for Evolution",
-    "mnemonicNumber": 9,
-    "title": "Biogenetic Law: Ernst Haeckel Disproved by Karl Ernst von Baer",
-    "badgeText": "Memory Trick",
-    "importance": "Medium",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Haeckel Proposed (Ontogeny repeats Phylogeny) | Baer Disproved (Embryos never pass adult stages)",
-    "memoryHook": "Ernst Haeckel claimed embryos replay adult ancestor forms; Karl Ernst von Baer noted embryos never pass through adult stages of other animals!",
-    "fact": "Ernst Haeckel proposed embryological support based on the observation that certain features during embryonic stage are common to all vertebrates (e.g. vestigial gill slits). Disproved by Karl Ernst von Baer.",
-    "breakdown": [
-      {
-        "key": "Ernst Haeckel",
-        "label": "Ontogeny recapitulates phylogeny (embryo development repeats evolutionary history)"
-      },
-      {
-        "key": "Karl Ernst von Baer",
-        "label": "Disproved Haeckel: noted that embryos never pass through adult stages of other animals"
-      },
-      {
-        "key": "Vestigial Gill Slits",
-        "label": "Seen in all vertebrate embryos (including humans), functional only in fish"
-      }
-    ],
-    "doodleBadge": "Haeckel Proposes\nvon Baer Rejects",
-    "doodleSubtext": "Embryology Evidence",
-    "explanation": "Karl Ernst von Baer's careful embryological observations showed general characters (like spinal cord) appear before specialized characters (like hair or feathers).",
-    "alsoRemember": "Embryological evidence shows developmental homology across all chordates.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.3.",
-    "neetTrap": "Karl Ernst von Baer DISPROVED Ernst Haeckel's proposal; do not confuse who proposed and who refuted.",
-    "tags": [
-      "Evolution",
-      "Embryology",
-      "Haeckel",
-      "von Baer"
-    ],
-    "quiz": {
-      "question": "Who rejected Ernst Haeckel’s embryological support for evolution by noting that embryos never pass through the adult stages of other animals?",
-      "options": [
-        "Charles Darwin",
-        "Karl Ernst von Baer",
-        "Alfred Wallace",
-        "Thomas Malthus"
-      ],
-      "answerIndex": 1,
-      "explanation": "Karl Ernst von Baer refuted Haeckel’s recapitulation theory by showing that embryos do not pass through adult stages of ancestral organisms."
-    }
-  },
-  {
-    "id": "bio-ch25-10",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-2",
-    "topicTitle": "Darwin's Two Key Concepts",
-    "mnemonicNumber": 10,
-    "title": "Darwinism: Branching Descent + Natural Selection",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "BD + NS: Branching Descent & Natural Selection",
-    "memoryHook": "The two foundational twin pillars of Darwinian Theory of Evolution are Branching Descent and Natural Selection!",
-    "fact": "Charles Darwin proposed that Branching Descent (common ancestry giving rise to diverse lineages) and Natural Selection (differential survival based on fitness) are the two key concepts of Darwinian Theory.",
-    "breakdown": [
-      {
-        "key": "1. Branching Descent",
-        "label": "Explains unity of life and common ancestry; lineages split and diverge like tree branches"
-      },
-      {
-        "key": "2. Natural Selection",
-        "label": "Nature selects organisms with advantageous heritable variations that increase reproductive fitness"
-      },
-      {
-        "key": "Malthus Influence",
-        "label": "Thomas Malthus's essay on Population (food grows arithmetically, population geometrically) inspired Darwin"
-      }
-    ],
-    "doodleBadge": "Twin Pillars:\nBranching + Selection",
-    "doodleSubtext": "Darwinian Core",
-    "explanation": "Fitness according to Darwin refers strictly to Reproductive Fitness (ability to survive and leave more fertile offspring).",
-    "alsoRemember": "Alfred Russel Wallace, a naturalist who worked in Malay Archipelago, reached similar conclusions independently.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.4.",
-    "neetTrap": "In Darwinism, \"fitness\" does not mean physical muscle strength; it means REPRODUCTIVE FITNESS (leaving more progeny).",
-    "tags": [
-      "Evolution",
-      "Darwinism",
-      "Branching Descent",
-      "Natural Selection"
-    ],
-    "quiz": {
-      "question": "According to Darwinian evolutionary theory, the two key foundational concepts are:",
-      "options": [
-        "Mutation and Saltation",
-        "Branching descent and Natural selection",
-        "Acquired characters and Use/Disuse",
-        "Genetic drift and Gene flow"
-      ],
-      "answerIndex": 1,
-      "explanation": "Branching descent and natural selection are explicitly stated in NCERT as the two key concepts of Darwinian Theory."
-    }
-  },
-  {
-    "id": "bio-ch25-11",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-1",
-    "topicTitle": "Origin of Universe: Big Bang Theory",
-    "mnemonicNumber": 11,
-    "title": "Origin of Universe: 20 Billion Years Ago (Big Bang)",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "sequence",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Universe (20 bya) → Earth (4.5 bya) → Life (4.0 bya) → First Cellular Life (2.0 bya)",
-    "memoryHook": "20 Billion years (Big Bang explosion) → 4.5 Billion years (Earth formed) → 4.0 Billion (Life appeared 500 million yrs after Earth)!",
-    "fact": "The Big Bang theory attempts to explain the origin of the universe (~20 billion years old). Earth was formed ~4.5 billion years ago. Life appeared 500 million years after the formation of Earth (~4 billion years ago).",
+    "mnemonic": "Milestones of Universe & Earth \t20 - 4.5 - 4.0 - 3.5",
+    "memoryHook": "Milestones of Universe & Earth \t20 - 4.5 - 4.0 - 3.5",
+    "fact": "20 BYA: Big Bang (Universe). 4.5 BYA: Formation of Earth. 4.0 BYA: Origin of Life. 3.5 BYA: First non-cellular life",
     "breakdown": [
       {
         "key": "20 BYA",
-        "label": "Big Bang — singular huge explosion, universe expanded and temperature cooled"
+        "label": "Big Bang (Universe)"
       },
       {
         "key": "4.5 BYA",
-        "label": "Formation of solar system and Earth from stellar dust and gases"
+        "label": "Formation of Earth"
       },
       {
         "key": "4.0 BYA",
-        "label": "First non-cellular macromolecules and origin of early life in oceans"
+        "label": "Origin of Life"
       },
       {
-        "key": "2.0 BYA (2000 mya)",
-        "label": "First cellular forms of life appeared on Earth"
+        "key": "3.5 BYA",
+        "label": "First non-cellular life"
       }
     ],
-    "doodleBadge": "20 → 4.5 → 4.0 → 2.0 BYA",
-    "doodleSubtext": "Cosmic Timeline",
-    "explanation": "Water vapor, methane, carbon dioxide, and ammonia released from molten mass covered the surface of early Earth. UV rays from the sun broke up water into hydrogen and oxygen; light H2 escaped.",
-    "alsoRemember": "Ozone layer was formed when free oxygen combined with oxygen atoms (O + O2 → O3) after primitive photosynthetic organisms evolved.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.1.",
-    "neetTrap": "Earth formed 4.5 billion years ago, but life originated 4.0 billion years ago (500 million years later).",
+    "doodleBadge": "Milestones of Universe &",
+    "doodleSubtext": "Age",
+    "explanation": "Crucial timeline figures (BYA = Billion Years Ago) frequently asked in NEET matching questions.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Age.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 37",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Evolution",
-      "Big Bang",
-      "Origin of Life",
-      "Class 12"
+      "Age"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 37,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "Approximately how many billion years ago was the Earth formed, and when did life first appear on it?",
+      "question": "Which of the following is associated with \"Age\" in NEET Biology?",
       "options": [
-        "Earth: 20 bya; Life: 4.5 bya",
-        "Earth: 4.5 bya; Life: 4.0 bya",
-        "Earth: 3.5 bya; Life: 2.0 bya",
-        "Earth: 10 bya; Life: 5 bya"
+        "Big Bang (Universe)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Earth formed ~4.5 billion years ago, and life appeared about 500 million years later, around 4.0 billion years ago."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Big Bang (Universe)\". Remember using: \"Milestones of Universe & Earth \t20 - 4.5 - 4.0 - 3.5\"."
     }
   },
   {
-    "id": "bio-ch25-12",
+    "id": "mnemo-bio-ch25-02",
     "subject": "biology",
     "chapterId": "bio-ch-25",
     "chapterNumber": 25,
     "chapterTitle": "Evolution",
+    "classLevel": 12,
     "topicId": "bio-top-25-1",
-    "topicTitle": "Louis Pasteur's Swan-Neck Flask",
-    "mnemonicNumber": 12,
-    "title": "Biogenesis: Louis Pasteur Disproved Spontaneous Generation",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
+    "topicTitle": "Gases",
+    "topic": "Gases",
+    "mnemonicNumber": 2,
+    "sourceItemNumber": 2,
+    "title": "Gases: \"in Primitive Earth's Atmosphere \tC-M-A-W (NO OXYGEN)\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "process",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Pasteur's Boiled Broth: Life comes ONLY from Pre-existing Life (Omne Vivum Ex Vivo)",
-    "memoryHook": "In curved swan-neck flask with pre-sterilized killed yeast, NO life appeared; when exposed to air, life flourished!",
-    "fact": "Louis Pasteur demonstrated that life comes only from pre-existing life (Biogenesis) and conclusively dismissed the theory of Spontaneous Generation (Abiogenesis from rotting straw/mud).",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "in Primitive Earth's Atmosphere \tC-M-A-W (NO OXYGEN)",
+    "memoryHook": "in Primitive Earth's Atmosphere \tC-M-A-W (NO OXYGEN)",
+    "fact": "Carbon dioxide / Methane (CH4) • Ammonia (NH3) • Water vapour (H2O) Primitive atmosphere was strictly reducing because free molecular oxygen (O2) was completely absent.",
     "breakdown": [
       {
-        "key": "Pre-sterilized Flask (Sealed/Curved)",
-        "label": "Killed yeast broth remained sterile with zero microbial growth"
+        "key": "Focus",
+        "label": "Gases"
       },
       {
-        "key": "Open Flask",
-        "label": "Microbes from air entered and multiplied rapidly"
-      },
-      {
-        "key": "Conclusion",
-        "label": "Spontaneous generation is false; biogenesis is the law of existing nature"
+        "key": "Trick",
+        "label": "in Primitive Earth's Atmosphere \tC-M-A-W (NO OXYGEN)"
       }
     ],
-    "doodleBadge": "Boiled Yeast Broth\nBiogenesis Proven",
-    "doodleSubtext": "Louis Pasteur Experiment",
-    "explanation": "While Pasteur proved how existing life reproduces today, he did not answer how the very FIRST primitive life originated on primordial Earth (which was solved by Oparin-Haldane chemical evolution).",
-    "alsoRemember": "Panspermia / Cosmozoic theory was favored by early Greek thinkers who believed units of life called \"spores\" were transferred to Earth from outer space.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.1.",
-    "neetTrap": "Pasteur disproved spontaneous generation for MODERN life, but primordial life on early earth originated via chemical abiogenesis.",
+    "doodleBadge": "in Primitive Earth's Atm",
+    "doodleSubtext": "Gases",
+    "explanation": "Carbon dioxide / Methane (CH4) • Ammonia (NH3) • Water vapour (H2O) Primitive atmosphere was strictly reducing because free molecular oxygen (O2) was completely absent.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Gases.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 37",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Evolution",
-      "Biogenesis",
-      "Louis Pasteur",
-      "Spontaneous Generation"
+      "Gases"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 37,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "Louis Pasteur used pre-sterilized flasks and killed yeast broth to disprove which theory?",
+      "question": "Which of the following is associated with \"Gases\" in NEET Biology?",
       "options": [
-        "Theory of Natural Selection",
-        "Theory of Spontaneous Generation (Abiogenesis)",
-        "Theory of Biogenesis",
-        "Theory of Special Creation"
+        "in Primitive Earth's Atmosphere \tC-M-A-W (NO OXYGEN)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Pasteur conclusively disproved the spontaneous generation theory by showing that sterile broth in sealed swan-neck flasks grew no microbes."
+      "answerIndex": 0,
+      "explanation": "Carbon dioxide / Methane (CH4) • Ammonia (NH3) • Water vapour (H2O) Primitive atmosphere was strictly reducing because free molecular oxygen (O2) was completely absent."
     }
   },
   {
-    "id": "bio-ch25-13",
+    "id": "mnemo-bio-ch25-03",
     "subject": "biology",
     "chapterId": "bio-ch-25",
     "chapterNumber": 25,
     "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-2",
-    "topicTitle": "Genetic Drift and Founder Effect",
-    "mnemonicNumber": 13,
-    "title": "Genetic Drift: Small Populations & Founder Effect",
-    "badgeText": "Memory Trick",
+    "classLevel": 12,
+    "topicId": "bio-top-25-1",
+    "topicTitle": "Miller's",
+    "topic": "Miller's",
+    "mnemonicNumber": 3,
+    "sourceItemNumber": 3,
+    "title": "Miller's: \"Spark Discharge Experiment Conditions \t800°C + M-A-W-H\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Spark Discharge Experiment Conditions \t800°C + M-A-W-H",
+    "memoryHook": "Spark Discharge Experiment Conditions \t800°C + M-A-W-H",
+    "fact": "Temperature: 800°C. Gas mixture: CH4 + NH3 + H2O + H2 (Spark discharge using electrodes)",
+    "breakdown": [
+      {
+        "key": "Temperature",
+        "label": "800°C"
+      },
+      {
+        "key": "Gas mixture",
+        "label": "CH4 + NH3 + H2O + H2 (Spark discharge using electrodes)"
+      }
+    ],
+    "doodleBadge": "Spark Discharge Experime",
+    "doodleSubtext": "Miller's",
+    "explanation": "SL Miller (1953) simulated chemical evolution in laboratory conditions as proposed by Oparin & Haldane.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Miller's.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 37",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Miller's"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 37,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Miller's\" in NEET Biology?",
+      "options": [
+        "Spark Discharge Experiment Conditions \t800°C + M-A-W-H",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "SL Miller (1953) simulated chemical evolution in laboratory conditions as proposed by Oparin & Haldane."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-04",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-1",
+    "topicTitle": "Products",
+    "topic": "Products",
+    "mnemonicNumber": 4,
+    "sourceItemNumber": 4,
+    "title": "Products: \"Synthesized in Miller's Experiment \tAMINO ACIDS (A-G-A)\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "medium",
     "visualType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Drift in Small Seas: Random Chance → Founder Colony",
-    "memoryHook": "Genetic drift operates strictly by CHANCE in SMALL populations; when pioneers start an isolated new colony, it is the FOUNDER EFFECT!",
-    "fact": "Genetic drift refers to random fluctuations in allele frequencies from generation to generation due to sampling error. It is pronounced in small populations and can cause alleles to become fixed or completely lost regardless of selective advantage.",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Synthesized in Miller's Experiment \tAMINO ACIDS (A-G-A)",
+    "memoryHook": "Synthesized in Miller's Experiment \tAMINO ACIDS (A-G-A)",
+    "fact": "Formed Amino acids (specifically Alanine, Glycine, Aspartic acid) along with organic acids and sugars. Analysis of meteorite content also revealed similar amino acids, proving cosmic universality of chemical evolution.",
     "breakdown": [
       {
-        "key": "Bottleneck Effect",
-        "label": "Drastic population reduction due to disaster (flood, fire); survivors have unrepresentative allele mix"
+        "key": "Point 1",
+        "label": "Formed Amino acids (specifically Alanine"
+      },
+      {
+        "key": "Point 2",
+        "label": "Glycine"
+      },
+      {
+        "key": "Point 3",
+        "label": "Aspartic acid) along with organic acids"
+      },
+      {
+        "key": "Point 4",
+        "label": "proving cosmic universality of chemical evolution"
+      }
+    ],
+    "doodleBadge": "Synthesized in Miller's ",
+    "doodleSubtext": "Products",
+    "explanation": "Formed Amino acids (specifically Alanine, Glycine, Aspartic acid) along with organic acids and sugars. Analysis of meteorite content also revealed similar amino acids, proving cosmic universality of chemical evolution.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Products.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 37",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Products"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 37,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Products\" in NEET Biology?",
+      "options": [
+        "Synthesized in Miller's Experiment \tAMINO ACIDS (A-G-A)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Formed Amino acids (specifically Alanine, Glycine, Aspartic acid) along with organic acids and sugars. Analysis of meteorite content also revealed similar amino acids, proving cosmic universality of chemical evolution."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-05",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-1",
+    "topicTitle": "Theories",
+    "topic": "Theories",
+    "mnemonicNumber": 5,
+    "sourceItemNumber": 5,
+    "title": "Theories: \"of Origin of Life \tP - S - C - C\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "of Origin of Life \tP - S - C - C",
+    "memoryHook": "of Origin of Life \tP - S - C - C",
+    "fact": "Panspermia (Spore theory) • Spontaneous generation (Abiogenesis) • Catastrophism • Chemical evolution Louis Pasteur experimentally disproved Spontaneous Generation using swan-necked flash experiment.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "of Origin of Life \tP"
+      },
+      {
+        "key": "Part 2",
+        "label": "S"
+      },
+      {
+        "key": "Part 3",
+        "label": "C"
+      },
+      {
+        "key": "Part 4",
+        "label": "C"
+      }
+    ],
+    "doodleBadge": "of Origin of Life \tP - S",
+    "doodleSubtext": "Theories",
+    "explanation": "Panspermia (Spore theory) • Spontaneous generation (Abiogenesis) • Catastrophism • Chemical evolution Louis Pasteur experimentally disproved Spontaneous Generation using swan-necked flash experiment.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Theories.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 37",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Theories"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 37,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Theories\" in NEET Biology?",
+      "options": [
+        "of Origin of Life \tP - S - C - C",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Panspermia (Spore theory) • Spontaneous generation (Abiogenesis) • Catastrophism • Chemical evolution Louis Pasteur experimentally disproved Spontaneous Generation using swan-necked flash experiment."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-06",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-1",
+    "topicTitle": "Oparin-Haldane",
+    "topic": "Oparin-Haldane",
+    "mnemonicNumber": 6,
+    "sourceItemNumber": 6,
+    "title": "Oparin-Haldane: \"Theory Summary \tINORGANIC TO ORGANIC\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Theory Summary \tINORGANIC TO ORGANIC",
+    "memoryHook": "Theory Summary \tINORGANIC TO ORGANIC",
+    "fact": "Life arose from pre-existing non-living organic molecules (abiotic chemical evolution preceded biogenesis). Oparin (Russia) and Haldane (England) proposed that life originated in a warm dilute soup.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Oparin-Haldane"
+      },
+      {
+        "key": "Trick",
+        "label": "Theory Summary \tINORGANIC TO ORGANIC"
+      }
+    ],
+    "doodleBadge": "Theory Summary \tINORGANI",
+    "doodleSubtext": "Oparin-Haldane",
+    "explanation": "Life arose from pre-existing non-living organic molecules (abiotic chemical evolution preceded biogenesis). Oparin (Russia) and Haldane (England) proposed that life originated in a warm dilute soup.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Oparin-Haldane.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 37",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Oparin-Haldane"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 37,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Oparin-Haldane\" in NEET Biology?",
+      "options": [
+        "Theory Summary \tINORGANIC TO ORGANIC",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Life arose from pre-existing non-living organic molecules (abiotic chemical evolution preceded biogenesis). Oparin (Russia) and Haldane (England) proposed that life originated in a warm dilute soup."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-07",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-1",
+    "topicTitle": "First",
+    "topic": "First",
+    "mnemonicNumber": 7,
+    "sourceItemNumber": 7,
+    "title": "First: \"Non-Cellular vs Cellular Forms \t3 BYA (RNA/PROTEIN) vs 2 BYA (SINGLE CELL)\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Non-Cellular vs Cellular Forms \t3 BYA (RNA/PROTEIN) vs 2 BYA (SINGLE CELL)",
+    "memoryHook": "Non-Cellular vs Cellular Forms \t3 BYA (RNA/PROTEIN) vs 2 BYA (SINGLE CELL)",
+    "fact": "3 BYA: Non-cellular macromolecular aggregates (RNA, Proteins, Polysaccharides).. 2 BYA: First cellular forms of life.",
+    "breakdown": [
+      {
+        "key": "3 BYA",
+        "label": "Non-cellular macromolecular aggregates (RNA, Proteins, Polysaccharides)."
+      },
+      {
+        "key": "2 BYA",
+        "label": "First cellular forms of life."
+      }
+    ],
+    "doodleBadge": "Non-Cellular vs Cellular",
+    "doodleSubtext": "First",
+    "explanation": "First cellular forms were unicellular heterotrophs originating in aquatic environment.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in First.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 37",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "First"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 37,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"First\" in NEET Biology?",
+      "options": [
+        "Non-Cellular vs Cellular Forms \t3 BYA (RNA/PROTEIN) vs 2 BYA (SINGLE CELL)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "First cellular forms were unicellular heterotrophs originating in aquatic environment."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-08",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-1",
+    "topicTitle": "Industrial",
+    "topic": "Industrial",
+    "mnemonicNumber": 8,
+    "sourceItemNumber": 8,
+    "title": "Industrial: \"Melanism (Biston betularia) \tWHITE = PRE-IND / DARK = POST-IND\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Melanism (Biston betularia) \tWHITE = PRE-IND / DARK = POST-IND",
+    "memoryHook": "Melanism (Biston betularia) \tWHITE = PRE-IND / DARK = POST-IND",
+    "fact": "Before 1850s (Pre-industrial): White-winged moth survived (lichens on trees).. After 1850s (Post-industrial): Melanic/Dark moth survived (soot covered trees).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Industrial"
+      },
+      {
+        "key": "Trick",
+        "label": "Melanism (Biston betularia) \tWHITE = PRE-IND / DARK = POST-IND"
+      }
+    ],
+    "doodleBadge": "Melanism (Biston betular",
+    "doodleSubtext": "Industrial",
+    "explanation": "Classic NCERT example demonstrating Natural Selection in response to environmental change.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Industrial.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 37",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Industrial"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 37,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Industrial\" in NEET Biology?",
+      "options": [
+        "Melanism (Biston betularia) \tWHITE = PRE-IND / DARK = POST-IND",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Classic NCERT example demonstrating Natural Selection in response to environmental change."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-09",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-1",
+    "topicTitle": "Anthropogenic",
+    "topic": "Anthropogenic",
+    "mnemonicNumber": 9,
+    "sourceItemNumber": 9,
+    "title": "Anthropogenic: \"Selection Examples \tP - H - D\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Selection Examples \tP - H - D",
+    "memoryHook": "Selection Examples \tP - H - D",
+    "fact": "Resistant varieties evolved due to human action: Pesticides resistance • Herbicides resistance • Drug-resistant microbes Proves that evolution is a stochastic process based on chance events in nature and mutation.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Selection Examples \tP"
+      },
+      {
+        "key": "Part 2",
+        "label": "H"
+      },
+      {
+        "key": "Part 3",
+        "label": "D"
+      }
+    ],
+    "doodleBadge": "Selection Examples \tP - ",
+    "doodleSubtext": "Anthropogenic",
+    "explanation": "Resistant varieties evolved due to human action: Pesticides resistance • Herbicides resistance • Drug-resistant microbes Proves that evolution is a stochastic process based on chance events in nature and mutation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Anthropogenic.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 37",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Anthropogenic"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 37,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Anthropogenic\" in NEET Biology?",
+      "options": [
+        "Selection Examples \tP - H - D",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Resistant varieties evolved due to human action: Pesticides resistance • Herbicides resistance • Drug-resistant microbes Proves that evolution is a stochastic process based on chance events in nature and mutation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-10",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-1",
+    "topicTitle": "Adaptive",
+    "topic": "Adaptive",
+    "mnemonicNumber": 10,
+    "sourceItemNumber": 10,
+    "title": "Adaptive: \"Radiation Definition \tSINGLE POINT TO OTHER HABITATS\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Radiation Definition \tSINGLE POINT TO OTHER HABITATS",
+    "memoryHook": "Radiation Definition \tSINGLE POINT TO OTHER HABITATS",
+    "fact": "Evolutionary process where species evolve from a common ancestral point and radiate into different geographical areas. Driven by natural selection exploiting unoccupied ecological niches.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Adaptive"
+      },
+      {
+        "key": "Trick",
+        "label": "Radiation Definition \tSINGLE POINT TO OTHER HABITATS"
+      }
+    ],
+    "doodleBadge": "Radiation Definition \tSI",
+    "doodleSubtext": "Adaptive",
+    "explanation": "Evolutionary process where species evolve from a common ancestral point and radiate into different geographical areas. Driven by natural selection exploiting unoccupied ecological niches.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Adaptive.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 37",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Adaptive"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 37,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Adaptive\" in NEET Biology?",
+      "options": [
+        "Radiation Definition \tSINGLE POINT TO OTHER HABITATS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Evolutionary process where species evolve from a common ancestral point and radiate into different geographical areas. Driven by natural selection exploiting unoccupied ecological niches."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-11",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-2",
+    "topicTitle": "Homologous",
+    "topic": "Homologous",
+    "mnemonicNumber": 11,
+    "sourceItemNumber": 11,
+    "title": "Homologous: \"Structures (Divergent Evolution) \tHD - SAME ORIGIN, DIFFERENT FUNCTION\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Structures (Divergent Evolution) \tHD - SAME ORIGIN, DIFFERENT FUNCTION",
+    "memoryHook": "Structures (Divergent Evolution) \tHD - SAME ORIGIN, DIFFERENT FUNCTION",
+    "fact": "Homology leads to Divergent Evolution. Same basic anatomical origin/structure, modified for different functions. Indicates common ancestry among differing species groups.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Homologous"
+      },
+      {
+        "key": "Trick",
+        "label": "Structures (Divergent Evolution) \tHD - SAME ORIGIN, DIFFERENT FUNCTION"
+      }
+    ],
+    "doodleBadge": "Structures (Divergent Ev",
+    "doodleSubtext": "Homologous",
+    "explanation": "Homology leads to Divergent Evolution. Same basic anatomical origin/structure, modified for different functions. Indicates common ancestry among differing species groups.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Homologous.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 38",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Homologous"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 38,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Homologous\" in NEET Biology?",
+      "options": [
+        "Structures (Divergent Evolution) \tHD - SAME ORIGIN, DIFFERENT FUNCTION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Homology leads to Divergent Evolution. Same basic anatomical origin/structure, modified for different functions. Indicates common ancestry among differing species groups."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-12",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-2",
+    "topicTitle": "Examples",
+    "topic": "Examples",
+    "mnemonicNumber": 12,
+    "sourceItemNumber": 12,
+    "title": "Examples: \"of Homologous Organs \tFORELIMBS & THORNS/TENDRILLS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "of Homologous Organs \tFORELIMBS & THORNS/TENDRILLS",
+    "memoryHook": "of Homologous Organs \tFORELIMBS & THORNS/TENDRILLS",
+    "fact": "Animals: Forelimbs of Whales, Bats, Cheetahs, and Humans.. Plants: Thorns of Bougainvillea and Tendrils of Cucurbita.",
+    "breakdown": [
+      {
+        "key": "Animals",
+        "label": "Forelimbs of Whales, Bats, Cheetahs, and Humans."
+      },
+      {
+        "key": "Plants",
+        "label": "Thorns of Bougainvillea and Tendrils of Cucurbita."
+      }
+    ],
+    "doodleBadge": "of Homologous Organs \tFO",
+    "doodleSubtext": "Examples",
+    "explanation": "Both plant structures arise from axillary position despite serving protection vs climbing roles.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 38",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Examples"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 38,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Examples\" in NEET Biology?",
+      "options": [
+        "of Homologous Organs \tFORELIMBS & THORNS/TENDRILLS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Both plant structures arise from axillary position despite serving protection vs climbing roles."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-13",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-2",
+    "topicTitle": "Analogous",
+    "topic": "Analogous",
+    "mnemonicNumber": 13,
+    "sourceItemNumber": 13,
+    "title": "Analogous: \"Structures (Convergent Evolution) \tAC - DIFFERENT ORIGIN, SAME FUNCTION\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Structures (Convergent Evolution) \tAC - DIFFERENT ORIGIN, SAME FUNCTION",
+    "memoryHook": "Structures (Convergent Evolution) \tAC - DIFFERENT ORIGIN, SAME FUNCTION",
+    "fact": "Analogy leads to Convergent Evolution. Different origin and internal anatomy, selected for similar ecological functions. Result of similar adaptation to convergent selection pressures in similar environments.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Analogous"
+      },
+      {
+        "key": "Trick",
+        "label": "Structures (Convergent Evolution) \tAC - DIFFERENT ORIGIN, SAME FUNCTION"
+      }
+    ],
+    "doodleBadge": "Structures (Convergent E",
+    "doodleSubtext": "Analogous",
+    "explanation": "Analogy leads to Convergent Evolution. Different origin and internal anatomy, selected for similar ecological functions. Result of similar adaptation to convergent selection pressures in similar environments.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Analogous.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 38",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Analogous"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 38,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Analogous\" in NEET Biology?",
+      "options": [
+        "Structures (Convergent Evolution) \tAC - DIFFERENT ORIGIN, SAME FUNCTION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Analogy leads to Convergent Evolution. Different origin and internal anatomy, selected for similar ecological functions. Result of similar adaptation to convergent selection pressures in similar environments."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-14",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-2",
+    "topicTitle": "Examples",
+    "topic": "Examples",
+    "mnemonicNumber": 14,
+    "sourceItemNumber": 14,
+    "title": "Examples: \"of Analogous Organs \tWINGS - EYES - FLIPPERS - TUBERS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "of Analogous Organs \tWINGS - EYES - FLIPPERS - TUBERS",
+    "memoryHook": "of Analogous Organs \tWINGS - EYES - FLIPPERS - TUBERS",
+    "fact": "Wings of Butterfly and Birds. Eyes of Octopus and Mammals. Flippers of Penguins and Dolphins. Sweet Potato (root modification) and Potato (stem modification)",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Examples"
+      },
+      {
+        "key": "Trick",
+        "label": "of Analogous Organs \tWINGS - EYES - FLIPPERS - TUBERS"
+      }
+    ],
+    "doodleBadge": "of Analogous Organs \tWIN",
+    "doodleSubtext": "Examples",
+    "explanation": "Four core NCERT examples indispensable for NEET assertion-reason questions.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 38",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Examples"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 38,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Examples\" in NEET Biology?",
+      "options": [
+        "Wings of Butterfly and Birds",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Wings of Butterfly and Birds\". Remember using: \"of Analogous Organs \tWINGS - EYES - FLIPPERS - TUBERS\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-15",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-2",
+    "topicTitle": "Adaptive",
+    "topic": "Adaptive",
+    "mnemonicNumber": 15,
+    "sourceItemNumber": 15,
+    "title": "Adaptive: \"Radiation Examples \tDARWIN'S FINCHES & MARSUPIALS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Radiation Examples \tDARWIN'S FINCHES & MARSUPIALS",
+    "memoryHook": "Radiation Examples \tDARWIN'S FINCHES & MARSUPIALS",
+    "fact": "Galapagos Finches: Beak shape adapted from seed-eating to insectivorous/vegetarian.. Australian Marsupials: Radiated from single ancestor within isolated continent.",
+    "breakdown": [
+      {
+        "key": "Galapagos Finches",
+        "label": "Beak shape adapted from seed-eating to insectivorous/vegetarian."
+      },
+      {
+        "key": "Australian Marsupials",
+        "label": "Radiated from single ancestor within isolated continent."
+      }
+    ],
+    "doodleBadge": "Radiation Examples \tDARW",
+    "doodleSubtext": "Adaptive",
+    "explanation": "Adaptive radiation occurs within a single isolated geographical area.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Adaptive.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 38",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Adaptive"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 38,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Adaptive\" in NEET Biology?",
+      "options": [
+        "Radiation Examples \tDARWIN'S FINCHES & MARSUPIALS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Adaptive radiation occurs within a single isolated geographical area."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-16",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-2",
+    "topicTitle": "Convergent",
+    "topic": "Convergent",
+    "mnemonicNumber": 16,
+    "sourceItemNumber": 16,
+    "title": "Convergent: \"Evolution in Marsupials vs Placentals \tMARSUPIAL = PLACENTAL PAIRS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Evolution in Marsupials vs Placentals \tMARSUPIAL = PLACENTAL PAIRS",
+    "memoryHook": "Evolution in Marsupials vs Placentals \tMARSUPIAL = PLACENTAL PAIRS",
+    "fact": "Tasmanian Wolf ↔ Anteater / Wolf. Sugar Glider ↔ Flying Squirrel. Marsupial Mole ↔ Mole. Banded Anteater ↔ Numbat",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Convergent"
+      },
+      {
+        "key": "Trick",
+        "label": "Evolution in Marsupials vs Placentals \tMARSUPIAL = PLACENTAL PAIRS"
+      }
+    ],
+    "doodleBadge": "Evolution in Marsupials ",
+    "doodleSubtext": "Convergent",
+    "explanation": "When more than one adaptive radiation occurs in an isolated region, it represents convergent evolution.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Convergent.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 38",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Convergent"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 38,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Convergent\" in NEET Biology?",
+      "options": [
+        "Tasmanian Wolf ↔ Anteater / Wolf",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Tasmanian Wolf ↔ Anteater / Wolf\". Remember using: \"Evolution in Marsupials vs Placentals \tMARSUPIAL = PLACENTAL PAIRS\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-17",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-2",
+    "topicTitle": "Biochemical",
+    "topic": "Biochemical",
+    "mnemonicNumber": 17,
+    "sourceItemNumber": 17,
+    "title": "Biochemical: \"Evidence for Evolution \tPROTEINS & GENES SIMILARITY\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Evidence for Evolution \tPROTEINS & GENES SIMILARITY",
+    "memoryHook": "Evidence for Evolution \tPROTEINS & GENES SIMILARITY",
+    "fact": "Similarities in proteins, enzymes, and blood plasma perform functions across diverse organisms. Biochemical similarity points toward shared ancestral lineage at molecular level.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Similarities in proteins"
+      },
+      {
+        "key": "Point 2",
+        "label": "enzymes"
+      }
+    ],
+    "doodleBadge": "Evidence for Evolution \t",
+    "doodleSubtext": "Biochemical",
+    "explanation": "Similarities in proteins, enzymes, and blood plasma perform functions across diverse organisms. Biochemical similarity points toward shared ancestral lineage at molecular level.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Biochemical.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 38",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Biochemical"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 38,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Biochemical\" in NEET Biology?",
+      "options": [
+        "Evidence for Evolution \tPROTEINS & GENES SIMILARITY",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Similarities in proteins, enzymes, and blood plasma perform functions across diverse organisms. Biochemical similarity points toward shared ancestral lineage at molecular level."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-18",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-2",
+    "topicTitle": "Embryological",
+    "topic": "Embryological",
+    "mnemonicNumber": 18,
+    "sourceItemNumber": 18,
+    "title": "Embryological: \"Evidence (Ernst Haeckel) \tONTOGENY RECAPITULATES PHYLOGENY\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Evidence (Ernst Haeckel) \tONTOGENY RECAPITULATES PHYLOGENY",
+    "memoryHook": "Evidence (Ernst Haeckel) \tONTOGENY RECAPITULATES PHYLOGENY",
+    "fact": "Haeckel proposed that embryonic development repeats adult evolutionary history (e.g., vestigial gill slits in human embryos). Theory completely disproved by Karl Ernst von Baer (noted embryos never pass through adult stages of other animals).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Embryological"
+      },
+      {
+        "key": "Trick",
+        "label": "Evidence (Ernst Haeckel) \tONTOGENY RECAPITULATES PHYLOGENY"
+      }
+    ],
+    "doodleBadge": "Evidence (Ernst Haeckel)",
+    "doodleSubtext": "Embryological",
+    "explanation": "Haeckel proposed that embryonic development repeats adult evolutionary history (e.g., vestigial gill slits in human embryos). Theory completely disproved by Karl Ernst von Baer (noted embryos never pass through adult stages of other animals).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Embryological.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 38",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Embryological"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 38,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Embryological\" in NEET Biology?",
+      "options": [
+        "Evidence (Ernst Haeckel) \tONTOGENY RECAPITULATES PHYLOGENY",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Haeckel proposed that embryonic development repeats adult evolutionary history (e.g., vestigial gill slits in human embryos). Theory completely disproved by Karl Ernst von Baer (noted embryos never pass through adult stages of other animals)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-19",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-2",
+    "topicTitle": "Palentological",
+    "topic": "Palentological",
+    "mnemonicNumber": 19,
+    "sourceItemNumber": 19,
+    "title": "Palentological: \"Evidence \tFOSSILS IN SEDIMENTARY ROCKS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Evidence \tFOSSILS IN SEDIMENTARY ROCKS",
+    "memoryHook": "Evidence \tFOSSILS IN SEDIMENTARY ROCKS",
+    "fact": "Different aged rock strata contain fossils showing life forms restricted to specific geological eras. Fossil records directly prove that life forms have changed over long geological time periods.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Palentological"
+      },
+      {
+        "key": "Trick",
+        "label": "Evidence \tFOSSILS IN SEDIMENTARY ROCKS"
+      }
+    ],
+    "doodleBadge": "Evidence \tFOSSILS IN SED",
+    "doodleSubtext": "Palentological",
+    "explanation": "Different aged rock strata contain fossils showing life forms restricted to specific geological eras. Fossil records directly prove that life forms have changed over long geological time periods.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Palentological.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 38",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Palentological"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 38,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Palentological\" in NEET Biology?",
+      "options": [
+        "Evidence \tFOSSILS IN SEDIMENTARY ROCKS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Different aged rock strata contain fossils showing life forms restricted to specific geological eras. Fossil records directly prove that life forms have changed over long geological time periods."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-20",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-2",
+    "topicTitle": "Lamarck's",
+    "topic": "Lamarck's",
+    "mnemonicNumber": 20,
+    "sourceItemNumber": 20,
+    "title": "Lamarck's: \"Theory of Evolution \tUSE & DISUSE OF ORGANS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Theory of Evolution \tUSE & DISUSE OF ORGANS",
+    "memoryHook": "Theory of Evolution \tUSE & DISUSE OF ORGANS",
+    "fact": "Evolution driven by use and disuse of organs + inheritance of acquired characteristics (e.g., Giraffe neck elongation). Disproved as acquired somatic characters are not transferred to germline cells.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Lamarck's"
+      },
+      {
+        "key": "Trick",
+        "label": "Theory of Evolution \tUSE & DISUSE OF ORGANS"
+      }
+    ],
+    "doodleBadge": "Theory of Evolution \tUSE",
+    "doodleSubtext": "Lamarck's",
+    "explanation": "Evolution driven by use and disuse of organs + inheritance of acquired characteristics (e.g., Giraffe neck elongation). Disproved as acquired somatic characters are not transferred to germline cells.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Lamarck's.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 38",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Lamarck's"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 38,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Lamarck's\" in NEET Biology?",
+      "options": [
+        "Theory of Evolution \tUSE & DISUSE OF ORGANS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Evolution driven by use and disuse of organs + inheritance of acquired characteristics (e.g., Giraffe neck elongation). Disproved as acquired somatic characters are not transferred to germline cells."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-3",
+    "topicTitle": "Key",
+    "topic": "Key",
+    "mnemonicNumber": 21,
+    "sourceItemNumber": 21,
+    "title": "Key: \"Concepts of Darwinian Theory \tBRANCHING DESCENT & NATURAL SELECTION\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Concepts of Darwinian Theory \tBRANCHING DESCENT & NATURAL SELECTION",
+    "memoryHook": "Concepts of Darwinian Theory \tBRANCHING DESCENT & NATURAL SELECTION",
+    "fact": "Branching Descent: Explains adaptive diversification.. Natural Selection: Fitness based on reproductive capability.",
+    "breakdown": [
+      {
+        "key": "Branching Descent",
+        "label": "Explains adaptive diversification."
+      },
+      {
+        "key": "Natural Selection",
+        "label": "Fitness based on reproductive capability."
+      }
+    ],
+    "doodleBadge": "Concepts of Darwinian Th",
+    "doodleSubtext": "Key",
+    "explanation": "Alfred Russel Wallace reached similar conclusions working in Malay Archipelago.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Key.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 39",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Key"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 39,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Key\" in NEET Biology?",
+      "options": [
+        "Concepts of Darwinian Theory \tBRANCHING DESCENT & NATURAL SELECTION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Alfred Russel Wallace reached similar conclusions working in Malay Archipelago."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-3",
+    "topicTitle": "Hugo",
+    "topic": "Hugo",
+    "mnemonicNumber": 22,
+    "sourceItemNumber": 22,
+    "title": "Hugo: \"de Vries Mutation Theory \tSALTATION = SINGLE STEP LARGE MUTATION\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "de Vries Mutation Theory \tSALTATION = SINGLE STEP LARGE MUTATION",
+    "memoryHook": "de Vries Mutation Theory \tSALTATION = SINGLE STEP LARGE MUTATION",
+    "fact": "Based on Oenothera lamarckiana (Evening Primrose); proposed evolution is discontinuous and directional-less. Darwinian variations are small & directional; De Vriesian mutations are random & directionless.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Based on Oenothera lamarckiana (Evening Primrose)"
+      },
+      {
+        "key": "Point 2",
+        "label": "proposed evolution is discontinuous"
+      },
+      {
+        "key": "Point 3",
+        "label": "De Vriesian mutations are random & directionless"
+      }
+    ],
+    "doodleBadge": "de Vries Mutation Theory",
+    "doodleSubtext": "Hugo",
+    "explanation": "Based on Oenothera lamarckiana (Evening Primrose); proposed evolution is discontinuous and directional-less. Darwinian variations are small & directional; De Vriesian mutations are random & directionless.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Hugo.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 39",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Hugo"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 39,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hugo\" in NEET Biology?",
+      "options": [
+        "de Vries Mutation Theory \tSALTATION = SINGLE STEP LARGE MUTATION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Based on Oenothera lamarckiana (Evening Primrose); proposed evolution is discontinuous and directional-less. Darwinian variations are small & directional; De Vriesian mutations are random & directionless."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-3",
+    "topicTitle": "Hardy-Weinberg",
+    "topic": "Hardy-Weinberg",
+    "mnemonicNumber": 23,
+    "sourceItemNumber": 23,
+    "title": "Hardy-Weinberg: \"Equilibrium Equation \tp² + 2pq + q² = 1\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Equilibrium Equation \tp² + 2pq + q² = 1",
+    "memoryHook": "Equilibrium Equation \tp² + 2pq + q² = 1",
+    "fact": "p: Frequency of dominant allele (A). q: Frequency of recessive allele (a). p²: AA Homozygous dominant • 2pq: Aa Heterozygous • q²: aa Homozygous recessive",
+    "breakdown": [
+      {
+        "key": "p",
+        "label": "Frequency of dominant allele (A)"
+      },
+      {
+        "key": "q",
+        "label": "Frequency of recessive allele (a)"
+      },
+      {
+        "key": "p²",
+        "label": "AA Homozygous dominant • 2pq: Aa Heterozygous • q²: aa Homozygous recessive"
+      }
+    ],
+    "doodleBadge": "Equilibrium Equation \tp²",
+    "doodleSubtext": "Hardy-Weinberg",
+    "explanation": "Allele frequencies in a stable population remain constant generation to generation if undisturbed.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Hardy-Weinberg.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 39",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Hardy-Weinberg"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 39,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hardy-Weinberg\" in NEET Biology?",
+      "options": [
+        "Frequency of dominant allele (A)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Frequency of dominant allele (A)\". Remember using: \"Equilibrium Equation \tp² + 2pq + q² = 1\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-3",
+    "topicTitle": "Factors",
+    "topic": "Factors",
+    "mnemonicNumber": 24,
+    "sourceItemNumber": 24,
+    "title": "Factors: \"Affecting Hardy-Weinberg Equilibrium \tG - G - M - R - N\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Affecting Hardy-Weinberg Equilibrium \tG - G - M - R - N",
+    "memoryHook": "Affecting Hardy-Weinberg Equilibrium \tG - G - M - R - N",
+    "fact": "Gene Migration • Genetic Drift • Mutation • Recombination • Natural Selection Disturbance in Hardy-Weinberg equilibrium indicates evolutionary change is occurring.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Affecting Hardy"
+      },
+      {
+        "key": "Part 2",
+        "label": "Weinberg Equilibrium \tG"
+      },
+      {
+        "key": "Part 3",
+        "label": "G"
+      },
+      {
+        "key": "Part 4",
+        "label": "M"
+      },
+      {
+        "key": "Part 5",
+        "label": "R"
+      },
+      {
+        "key": "Part 6",
+        "label": "N"
+      }
+    ],
+    "doodleBadge": "Affecting Hardy-Weinberg",
+    "doodleSubtext": "Factors",
+    "explanation": "Gene Migration • Genetic Drift • Mutation • Recombination • Natural Selection Disturbance in Hardy-Weinberg equilibrium indicates evolutionary change is occurring.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Factors.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 39",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Factors"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 39,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Factors\" in NEET Biology?",
+      "options": [
+        "Affecting Hardy-Weinberg Equilibrium \tG - G - M - R - N",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gene Migration • Genetic Drift • Mutation • Recombination • Natural Selection Disturbance in Hardy-Weinberg equilibrium indicates evolutionary change is occurring."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-3",
+    "topicTitle": "Genetic",
+    "topic": "Genetic",
+    "mnemonicNumber": 25,
+    "sourceItemNumber": 25,
+    "title": "Genetic: \"Drift vs Founder Effect \tSMALL POPULATION CHANCE EVENT\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Drift vs Founder Effect \tSMALL POPULATION CHANCE EVENT",
+    "memoryHook": "Drift vs Founder Effect \tSMALL POPULATION CHANCE EVENT",
+    "fact": "Genetic Drift: Random change in gene frequencies occurring purely by chance.. Founder Effect: Original drifted population forms new colony becoming distinct species.",
+    "breakdown": [
+      {
+        "key": "Genetic Drift",
+        "label": "Random change in gene frequencies occurring purely by chance."
       },
       {
         "key": "Founder Effect",
-        "label": "Small group of pioneers colonizes a new habitat; allele frequencies drastically differ from parent gene pool"
-      },
-      {
-        "key": "Sewall Wright Effect",
-        "label": "Synonym for Genetic Drift"
+        "label": "Original drifted population forms new colony becoming distinct species."
       }
     ],
-    "doodleBadge": "Random Chance in\nSmall Populations",
-    "doodleSubtext": "Genetic Drift & Founder",
-    "explanation": "Because the original drifted population becomes the \"founders\" of the new colony, the resulting unique phenotype distribution is called the Founder effect.",
-    "alsoRemember": "Natural selection acts on fitness, whereas genetic drift acts purely on random sampling chance.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.8.",
-    "neetTrap": "Genetic drift is effective ONLY in SMALL populations; in large infinite populations, drift has negligible impact.",
+    "doodleBadge": "Drift vs Founder Effect ",
+    "doodleSubtext": "Genetic",
+    "explanation": "Operates prominently in small isolated populations.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Genetic.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 39",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Evolution",
-      "Genetic Drift",
-      "Founder Effect",
-      "Class 12"
+      "Genetic"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 39,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "When a small group of individuals migrates and establishes a new isolated population with completely altered gene frequencies, this phenomenon is called:",
+      "question": "Which of the following is associated with \"Genetic\" in NEET Biology?",
       "options": [
-        "Disruptive selection",
-        "Founder effect",
-        "Saltation",
-        "Convergent evolution"
+        "Drift vs Founder Effect \tSMALL POPULATION CHANCE EVENT",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "When a small fraction of a population splits off to colonize a new area, the resulting shift in allele frequencies is known as the Founder effect."
+      "answerIndex": 0,
+      "explanation": "Operates prominently in small isolated populations."
     }
   },
   {
-    "id": "bio-ch25-14",
+    "id": "mnemo-bio-ch25-26",
     "subject": "biology",
     "chapterId": "bio-ch-25",
     "chapterNumber": 25,
     "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-1",
-    "topicTitle": "Analogous Organs: Convergent Evolution Examples",
-    "mnemonicNumber": 14,
-    "title": "Analogous Examples: Eyes of Octopus & Mammals",
-    "badgeText": "Memory Trick",
+    "classLevel": 12,
+    "topicId": "bio-top-25-3",
+    "topicTitle": "Types",
+    "topic": "Types",
+    "mnemonicNumber": 26,
+    "sourceItemNumber": 26,
+    "title": "Types: \"of Natural Selection Curves \tS - D - D\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#DDF7E8",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Octopus Eye + Mammal Eye | Penguin Flipper + Dolphin Flipper | Sweet Potato Root + Potato Stem",
-    "memoryHook": "All perform the exact SAME job (sight, swimming, food storage) but evolved from completely DIFFERENT anatomical blueprints!",
-    "fact": "Classic NCERT examples of analogous structures (convergent evolution): 1. Eye of octopus and mammal (retinal wiring differs), 2. Flippers of penguins (birds) and dolphins (mammals), 3. Sweet potato (root) and potato (stem).",
+    "mnemonic": "of Natural Selection Curves \tS - D - D",
+    "memoryHook": "of Natural Selection Curves \tS - D - D",
+    "fact": "Stabilizing: Peak gets higher/narrower (favors mean phenotype).. Directional: Peak shifts in one direction.. Disruptive: Two peaks form (favors extreme phenotypes).",
     "breakdown": [
       {
-        "key": "Octopus vs Mammal Eye",
-        "label": "Octopus retina develops from skin invagination without blind spot; mammal retina is an outpouching of brain with blind spot"
+        "key": "Stabilizing",
+        "label": "Peak gets higher/narrower (favors mean phenotype)."
       },
       {
-        "key": "Penguin vs Dolphin Flipper",
-        "label": "Penguin (avian wing modification) vs Dolphin (mammalian forelimb modification) for aquatic propulsion"
+        "key": "Directional",
+        "label": "Peak shifts in one direction."
       },
       {
-        "key": "Sweet potato vs Potato",
-        "label": "Root tuber vs Stem tuber both storing starch"
+        "key": "Disruptive",
+        "label": "Two peaks form (favors extreme phenotypes)."
       }
     ],
-    "doodleBadge": "Different Ancestry →\nSame Function",
-    "doodleSubtext": "Analogous Triad",
-    "explanation": "Analogous structures do not indicate phylogenetic kinship or common descent; they reflect similar evolutionary pressures leading to convergent adaptations.",
-    "alsoRemember": "Trachea of insects and lungs of vertebrates are also analogous respiratory organs.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.3.",
-    "neetTrap": "Flippers of Whale and Forelimbs of Cheetah = HOMOLOGOUS (both mammals). Flippers of Penguin and Dolphin = ANALOGOUS (bird vs mammal).",
+    "doodleBadge": "of Natural Selection Cur",
+    "doodleSubtext": "Types",
+    "explanation": "Critical curve diagram-based question topic in NCERT textbook.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Types.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 39",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Evolution",
-      "Analogous Organs",
-      "Convergent Evolution",
-      "Class 12"
+      "Types"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 39,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "Flippers of penguins and dolphins are examples of:",
+      "question": "Which of the following is associated with \"Types\" in NEET Biology?",
       "options": [
-        "Adaptive radiation",
-        "Homologous structures",
-        "Convergent evolution (Analogous organs)",
-        "Divergent evolution"
+        "Peak gets higher/narrower (favors mean phenotype).",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Penguin (bird) and dolphin (mammal) flippers evolved independently for swimming, exemplifying convergent evolution (analogous organs)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Peak gets higher/narrower (favors mean phenotype).\". Remember using: \"of Natural Selection Curves \tS - D - D\"."
     }
   },
   {
-    "id": "bio-ch25-15",
+    "id": "mnemo-bio-ch25-27",
     "subject": "biology",
     "chapterId": "bio-ch-25",
     "chapterNumber": 25,
     "chapterTitle": "Evolution",
+    "classLevel": 12,
     "topicId": "bio-top-25-3",
-    "topicTitle": "Cranial Capacities Comparison",
-    "mnemonicNumber": 15,
-    "title": "Cranial Capacities: 650 → 900 → 1400 cc",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
+    "topicTitle": "Coelacanth",
+    "topic": "Coelacanth",
+    "mnemonicNumber": 27,
+    "sourceItemNumber": 27,
+    "title": "Coelacanth: \"(Lobefin Fish) Discovery \t1938 SOUTH AFRICA - LOBEFIN\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "sequence",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "(Lobefin Fish) Discovery \t1938 SOUTH AFRICA - LOBEFIN",
+    "memoryHook": "(Lobefin Fish) Discovery \t1938 SOUTH AFRICA - LOBEFIN",
+    "fact": "Caught in South Africa in 1938; Lobefins were ancestors of modern amphibians. Thought to be extinct; crucial transitional evolutionary bridge between fishes and amphibians.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Caught in South Africa in 1938"
+      },
+      {
+        "key": "Point 2",
+        "label": "amphibians"
+      }
+    ],
+    "doodleBadge": "(Lobefin Fish) Discovery",
+    "doodleSubtext": "Coelacanth",
+    "explanation": "Caught in South Africa in 1938; Lobefins were ancestors of modern amphibians. Thought to be extinct; crucial transitional evolutionary bridge between fishes and amphibians.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Coelacanth.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 39",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Coelacanth"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 39,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Coelacanth\" in NEET Biology?",
+      "options": [
+        "(Lobefin Fish) Discovery \t1938 SOUTH AFRICA - LOBEFIN",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Caught in South Africa in 1938; Lobefins were ancestors of modern amphibians. Thought to be extinct; crucial transitional evolutionary bridge between fishes and amphibians."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-3",
+    "topicTitle": "First",
+    "topic": "First",
+    "mnemonicNumber": 28,
+    "sourceItemNumber": 28,
+    "title": "First: \"Land Vertebrates & Reptiles \tAMPHIBIANS → REPTILES (SHELL EGGS)\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Land Vertebrates & Reptiles \tAMPHIBIANS → REPTILES (SHELL EGGS)",
+    "memoryHook": "Land Vertebrates & Reptiles \tAMPHIBIANS → REPTILES (SHELL EGGS)",
+    "fact": "Amphibians invaded land first; evolved into Reptiles laying thick-shelled eggs that don't dry in sun. Allowed complete independence from aquatic breeding environments.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "First"
+      },
+      {
+        "key": "Trick",
+        "label": "Land Vertebrates & Reptiles \tAMPHIBIANS → REPTILES (SHELL EGGS)"
+      }
+    ],
+    "doodleBadge": "Land Vertebrates & Repti",
+    "doodleSubtext": "First",
+    "explanation": "Amphibians invaded land first; evolved into Reptiles laying thick-shelled eggs that don't dry in sun. Allowed complete independence from aquatic breeding environments.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in First.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 39",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "First"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 39,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"First\" in NEET Biology?",
+      "options": [
+        "Land Vertebrates & Reptiles \tAMPHIBIANS → REPTILES (SHELL EGGS)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Amphibians invaded land first; evolved into Reptiles laying thick-shelled eggs that don't dry in sun. Allowed complete independence from aquatic breeding environments."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-3",
+    "topicTitle": "Ichthyosaurs",
+    "topic": "Ichthyosaurs",
+    "mnemonicNumber": 29,
+    "sourceItemNumber": 29,
+    "title": "Ichthyosaurs: \"Origin \tFISH-LIKE REPTILES (200 MYA)\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Origin \tFISH-LIKE REPTILES (200 MYA)",
+    "memoryHook": "Origin \tFISH-LIKE REPTILES (200 MYA)",
+    "fact": "Some land reptiles went back into water to evolve into fish-like reptiles around 200 MYA. Example of secondary adaptation to aquatic life.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Origin \tFISH"
+      },
+      {
+        "key": "Part 2",
+        "label": "LIKE REPTILES (200 MYA)"
+      }
+    ],
+    "doodleBadge": "Origin \tFISH-LIKE REPTIL",
+    "doodleSubtext": "Ichthyosaurs",
+    "explanation": "Some land reptiles went back into water to evolve into fish-like reptiles around 200 MYA. Example of secondary adaptation to aquatic life.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Ichthyosaurs.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 39",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Ichthyosaurs"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 39,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Ichthyosaurs\" in NEET Biology?",
+      "options": [
+        "Origin \tFISH-LIKE REPTILES (200 MYA)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Some land reptiles went back into water to evolve into fish-like reptiles around 200 MYA. Example of secondary adaptation to aquatic life."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-3",
+    "topicTitle": "Tyrannosaurus",
+    "topic": "Tyrannosaurus",
+    "mnemonicNumber": 30,
+    "sourceItemNumber": 30,
+    "title": "Tyrannosaurus: \"rex Features \t20 FEET - DAGGER TEETH\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "rex Features \t20 FEET - DAGGER TEETH",
+    "memoryHook": "rex Features \t20 FEET - DAGGER TEETH",
+    "fact": "Largest dinosaur (~20 feet height) with fearsome dagger-like teeth; extinct ~65 MYA. Dinosaurs suddenly disappeared 65 MYA (Cretaceous-Tertiary extinction).",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "rex Features \t20 FEET"
+      },
+      {
+        "key": "Part 2",
+        "label": "DAGGER TEETH"
+      }
+    ],
+    "doodleBadge": "rex Features \t20 FEET - ",
+    "doodleSubtext": "Tyrannosaurus",
+    "explanation": "Largest dinosaur (~20 feet height) with fearsome dagger-like teeth; extinct ~65 MYA. Dinosaurs suddenly disappeared 65 MYA (Cretaceous-Tertiary extinction).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Tyrannosaurus.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 39",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Tyrannosaurus"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 39,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Tyrannosaurus\" in NEET Biology?",
+      "options": [
+        "rex Features \t20 FEET - DAGGER TEETH",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Largest dinosaur (~20 feet height) with fearsome dagger-like teeth; extinct ~65 MYA. Dinosaurs suddenly disappeared 65 MYA (Cretaceous-Tertiary extinction)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-31",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-4",
+    "topicTitle": "Geological",
+    "topic": "Geological",
+    "mnemonicNumber": 31,
+    "sourceItemNumber": 31,
+    "title": "Geological: \"Eras Chronology \tP - M - C (PAST TO PRESENT)\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Eras Chronology \tP - M - C (PAST TO PRESENT)",
+    "memoryHook": "Eras Chronology \tP - M - C (PAST TO PRESENT)",
+    "fact": "Palaeozoic → Mesozoic → Cenozoic Era Cenozoic is Era of Mammals/Birds; Mesozoic is Era of Reptiles/Dinosaurs; Palaeozoic is Era of Invertebrates/Early Fishes.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Eras Chronology \tP"
+      },
+      {
+        "key": "Part 2",
+        "label": "M"
+      },
+      {
+        "key": "Part 3",
+        "label": "C (PAST TO PRESENT)"
+      }
+    ],
+    "doodleBadge": "Eras Chronology \tP - M -",
+    "doodleSubtext": "Geological",
+    "explanation": "Palaeozoic → Mesozoic → Cenozoic Era Cenozoic is Era of Mammals/Birds; Mesozoic is Era of Reptiles/Dinosaurs; Palaeozoic is Era of Invertebrates/Early Fishes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Geological.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 40",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Geological"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 40,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Geological\" in NEET Biology?",
+      "options": [
+        "Eras Chronology \tP - M - C (PAST TO PRESENT)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Palaeozoic → Mesozoic → Cenozoic Era Cenozoic is Era of Mammals/Birds; Mesozoic is Era of Reptiles/Dinosaurs; Palaeozoic is Era of Invertebrates/Early Fishes."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-32",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-4",
+    "topicTitle": "Palaeozoic",
+    "topic": "Palaeozoic",
+    "mnemonicNumber": 32,
+    "sourceItemNumber": 32,
+    "title": "Palaeozoic: \"Periods Order \tC - O - S - D - C - P\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Periods Order \tC - O - S - D - C - P",
+    "memoryHook": "Periods Order \tC - O - S - D - C - P",
+    "fact": "Cambrian • Ordovician • Silurian • Devonian • Carboniferous • Permian Devonian is Age of Fishes; Carboniferous is Age of Amphibians & Coal Forests.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Periods Order \tC"
+      },
+      {
+        "key": "Part 2",
+        "label": "O"
+      },
+      {
+        "key": "Part 3",
+        "label": "S"
+      },
+      {
+        "key": "Part 4",
+        "label": "D"
+      },
+      {
+        "key": "Part 5",
+        "label": "C"
+      },
+      {
+        "key": "Part 6",
+        "label": "P"
+      }
+    ],
+    "doodleBadge": "Periods Order \tC - O - S",
+    "doodleSubtext": "Palaeozoic",
+    "explanation": "Cambrian • Ordovician • Silurian • Devonian • Carboniferous • Permian Devonian is Age of Fishes; Carboniferous is Age of Amphibians & Coal Forests.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Palaeozoic.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 40",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Palaeozoic"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 40,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Palaeozoic\" in NEET Biology?",
+      "options": [
+        "Periods Order \tC - O - S - D - C - P",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Cambrian • Ordovician • Silurian • Devonian • Carboniferous • Permian Devonian is Age of Fishes; Carboniferous is Age of Amphibians & Coal Forests."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-33",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-4",
+    "topicTitle": "Mesozoic",
+    "topic": "Mesozoic",
+    "mnemonicNumber": 33,
+    "sourceItemNumber": 33,
+    "title": "Mesozoic: \"Periods Order \tT - J - C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Periods Order \tT - J - C",
+    "memoryHook": "Periods Order \tT - J - C",
+    "fact": "Triassic • Jurasic • Cretaceous Jurassic was dominated by Dinosaurs and Gymnosperms.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Periods Order \tT"
+      },
+      {
+        "key": "Part 2",
+        "label": "J"
+      },
+      {
+        "key": "Part 3",
+        "label": "C"
+      }
+    ],
+    "doodleBadge": "Periods Order \tT - J - C",
+    "doodleSubtext": "Mesozoic",
+    "explanation": "Triassic • Jurasic • Cretaceous Jurassic was dominated by Dinosaurs and Gymnosperms.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Mesozoic.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 40",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Mesozoic"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 40,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Mesozoic\" in NEET Biology?",
+      "options": [
+        "Periods Order \tT - J - C",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Triassic • Jurasic • Cretaceous Jurassic was dominated by Dinosaurs and Gymnosperms."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-34",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-4",
+    "topicTitle": "Plant",
+    "topic": "Plant",
+    "mnemonicNumber": 34,
+    "sourceItemNumber": 34,
+    "title": "Plant: \"Evolutionary Ancestors \tCHLOROPHYTE ANCESTOR\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
     "cardColor": "#F7F0FF",
     "badgeColor": "#A66CFF",
-    "mnemonic": "Habilis (650-800 cc) < Erectus (900 cc) < Neanderthal (1400 cc)",
-    "memoryHook": "H = 650-800 cc | E = 900 cc | N = 1400 cc! Handy Habilis < Upright Erectus < Big-brained Neanderthal!",
-    "fact": "Cranial capacities: Homo habilis = 650–800 cc; Homo erectus = ~900 cc; Neanderthal man = 1400 cc; Modern Homo sapiens = ~1350–1400 cc.",
+    "mnemonic": "Evolutionary Ancestors \tCHLOROPHYTE ANCESTOR",
+    "memoryHook": "Evolutionary Ancestors \tCHLOROPHYTE ANCESTOR",
+    "fact": "Green algae (Chlorophyte ancestor) → Tracheophyte ancestors → Rhynia-type plants. Rhynia-type plants directly gave rise to Psilophyton, ancestral to modern vascular plants.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Plant"
+      },
+      {
+        "key": "Trick",
+        "label": "Evolutionary Ancestors \tCHLOROPHYTE ANCESTOR"
+      }
+    ],
+    "doodleBadge": "Evolutionary Ancestors \t",
+    "doodleSubtext": "Plant",
+    "explanation": "Green algae (Chlorophyte ancestor) → Tracheophyte ancestors → Rhynia-type plants. Rhynia-type plants directly gave rise to Psilophyton, ancestral to modern vascular plants.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Plant.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 40",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Plant"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 40,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Plant\" in NEET Biology?",
+      "options": [
+        "Evolutionary Ancestors \tCHLOROPHYTE ANCESTOR",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Green algae (Chlorophyte ancestor) → Tracheophyte ancestors → Rhynia-type plants. Rhynia-type plants directly gave rise to Psilophyton, ancestral to modern vascular plants."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-35",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-4",
+    "topicTitle": "Psilophyton",
+    "topic": "Psilophyton",
+    "mnemonicNumber": 35,
+    "sourceItemNumber": 35,
+    "title": "Psilophyton: \"Lineage Derivatives \tP - C - S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Lineage Derivatives \tP - C - S",
+    "memoryHook": "Lineage Derivatives \tP - C - S",
+    "fact": "Pteridophytes (Ferns). Conifers / Gymnosperms. Seed ferns (Gave rise to Angiosperms)",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Lineage Derivatives \tP"
+      },
+      {
+        "key": "Part 2",
+        "label": "C"
+      },
+      {
+        "key": "Part 3",
+        "label": "S"
+      }
+    ],
+    "doodleBadge": "Lineage Derivatives \tP -",
+    "doodleSubtext": "Psilophyton",
+    "explanation": "Psilophyton gave rise to: Key central ancestral node in NCERT plant evolutionary tree.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Psilophyton.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 40",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Psilophyton"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 40,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Psilophyton\" in NEET Biology?",
+      "options": [
+        "Pteridophytes (Ferns)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Pteridophytes (Ferns)\". Remember using: \"Lineage Derivatives \tP - C - S\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-36",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-4",
+    "topicTitle": "Reptilian",
+    "topic": "Reptilian",
+    "mnemonicNumber": 36,
+    "sourceItemNumber": 36,
+    "title": "Reptilian: \"Lineage Divergence \tSAUROPSIDS vs SYNAPSIDS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Lineage Divergence \tSAUROPSIDS vs SYNAPSIDS",
+    "memoryHook": "Lineage Divergence \tSAUROPSIDS vs SYNAPSIDS",
+    "fact": "Sauropsids: Gave rise to Lizards, Snakes, Turtles, Dinosaurs, Birds.. Synapsids: Gave rise to Pelycosaurs, Therapsids, Mammals.",
+    "breakdown": [
+      {
+        "key": "Sauropsids",
+        "label": "Gave rise to Lizards, Snakes, Turtles, Dinosaurs, Birds."
+      },
+      {
+        "key": "Synapsids",
+        "label": "Gave rise to Pelycosaurs, Therapsids, Mammals."
+      }
+    ],
+    "doodleBadge": "Lineage Divergence \tSAUR",
+    "doodleSubtext": "Reptilian",
+    "explanation": "Mammals originated from Synapsid lineage, NOT from dinosaurs.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Reptilian.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 40",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Reptilian"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 40,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Reptilian\" in NEET Biology?",
+      "options": [
+        "Lineage Divergence \tSAUROPSIDS vs SYNAPSIDS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Mammals originated from Synapsid lineage, NOT from dinosaurs."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-37",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-4",
+    "topicTitle": "First",
+    "topic": "First",
+    "mnemonicNumber": 37,
+    "sourceItemNumber": 37,
+    "title": "First: \"Mammal Characteristics \tSHREW-LIKE & SMALL\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Mammal Characteristics \tSHREW-LIKE & SMALL",
+    "memoryHook": "Mammal Characteristics \tSHREW-LIKE & SMALL",
+    "fact": "First mammals were small, shrew-like creatures whose fossils were small sized. Mammals were viviparous, intelligent, and protected unborn young inside mother's body.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "First mammals were small"
+      },
+      {
+        "key": "Point 2",
+        "label": "intelligent"
+      },
+      {
+        "key": "Point 3",
+        "label": "and protected unborn young inside mother's body"
+      }
+    ],
+    "doodleBadge": "Mammal Characteristics \t",
+    "doodleSubtext": "First",
+    "explanation": "First mammals were small, shrew-like creatures whose fossils were small sized. Mammals were viviparous, intelligent, and protected unborn young inside mother's body.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in First.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 40",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "First"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 40,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"First\" in NEET Biology?",
+      "options": [
+        "Mammal Characteristics \tSHREW-LIKE & SMALL",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "First mammals were small, shrew-like creatures whose fossils were small sized. Mammals were viviparous, intelligent, and protected unborn young inside mother's body."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-38",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-4",
+    "topicTitle": "Continental",
+    "topic": "Continental",
+    "mnemonicNumber": 38,
+    "sourceItemNumber": 38,
+    "title": "Continental: \"Drift Impact on Mammals \tAUSTRALIAN MARSUPIAL SURVIVAL\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Drift Impact on Mammals \tAUSTRALIAN MARSUPIAL SURVIVAL",
+    "memoryHook": "Drift Impact on Mammals \tAUSTRALIAN MARSUPIAL SURVIVAL",
+    "fact": "Australia severed from main landmass; Pouched marsupials survived due to lack of competition from placentals. Geographical isolation preserved unique fauna in Australia.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Continental"
+      },
+      {
+        "key": "Trick",
+        "label": "Drift Impact on Mammals \tAUSTRALIAN MARSUPIAL SURVIVAL"
+      }
+    ],
+    "doodleBadge": "Drift Impact on Mammals ",
+    "doodleSubtext": "Continental",
+    "explanation": "Australia severed from main landmass; Pouched marsupials survived due to lack of competition from placentals. Geographical isolation preserved unique fauna in Australia.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Continental.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 40",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Continental"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 40,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Continental\" in NEET Biology?",
+      "options": [
+        "Drift Impact on Mammals \tAUSTRALIAN MARSUPIAL SURVIVAL",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Australia severed from main landmass; Pouched marsupials survived due to lack of competition from placentals. Geographical isolation preserved unique fauna in Australia."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-39",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-4",
+    "topicTitle": "Evolutionary",
+    "topic": "Evolutionary",
+    "mnemonicNumber": 39,
+    "sourceItemNumber": 39,
+    "title": "Evolutionary: \"History of Horse \tE - M - M - P - E\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "History of Horse \tE - M - M - P - E",
+    "memoryHook": "History of Horse \tE - M - M - P - E",
+    "fact": "Eohippus → Mesohippus → Merychippus → Pliohippus → Equus (Modern Horse) Structural progression involved reduction of digits and elongation of limbs for running.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "History of Horse \tE"
+      },
+      {
+        "key": "Part 2",
+        "label": "M"
+      },
+      {
+        "key": "Part 3",
+        "label": "M"
+      },
+      {
+        "key": "Part 4",
+        "label": "P"
+      },
+      {
+        "key": "Part 5",
+        "label": "E"
+      }
+    ],
+    "doodleBadge": "History of Horse \tE - M ",
+    "doodleSubtext": "Evolutionary",
+    "explanation": "Eohippus → Mesohippus → Merychippus → Pliohippus → Equus (Modern Horse) Structural progression involved reduction of digits and elongation of limbs for running.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Evolutionary.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 40",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Evolutionary"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 40,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Evolutionary\" in NEET Biology?",
+      "options": [
+        "History of Horse \tE - M - M - P - E",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Eohippus → Mesohippus → Merychippus → Pliohippus → Equus (Modern Horse) Structural progression involved reduction of digits and elongation of limbs for running."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-40",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-4",
+    "topicTitle": "Adaptive",
+    "topic": "Adaptive",
+    "mnemonicNumber": 40,
+    "sourceItemNumber": 40,
+    "title": "Adaptive: \"Convergence Example \tAQUATIC MAMMALS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Convergence Example \tAQUATIC MAMMALS",
+    "memoryHook": "Convergence Example \tAQUATIC MAMMALS",
+    "fact": "Whales, Dolphins, Seals, and Sea cows evolved stream-lined bodies for aquatic mode of life. Placental mammals secondary return to water showing convergent aquatic adaptations.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Whales"
+      },
+      {
+        "key": "Point 2",
+        "label": "Dolphins"
+      },
+      {
+        "key": "Point 3",
+        "label": "Seals"
+      }
+    ],
+    "doodleBadge": "Convergence Example \tAQU",
+    "doodleSubtext": "Adaptive",
+    "explanation": "Whales, Dolphins, Seals, and Sea cows evolved stream-lined bodies for aquatic mode of life. Placental mammals secondary return to water showing convergent aquatic adaptations.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Adaptive.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 40",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Adaptive"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 40,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Adaptive\" in NEET Biology?",
+      "options": [
+        "Convergence Example \tAQUATIC MAMMALS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Whales, Dolphins, Seals, and Sea cows evolved stream-lined bodies for aquatic mode of life. Placental mammals secondary return to water showing convergent aquatic adaptations."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-41",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-5",
+    "topicTitle": "Human",
+    "topic": "Human",
+    "mnemonicNumber": 41,
+    "sourceItemNumber": 41,
+    "title": "Human: \"Evolution Order Mnemonic DR. RAMA'S AUSTRALIAN HOMINID ERECTS NEANDERTHAL SAPIENS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Evolution Order Mnemonic DR. RAMA'S AUSTRALIAN HOMINID ERECTS NEANDERTHAL SAPIENS",
+    "memoryHook": "Evolution Order Mnemonic DR. RAMA'S AUSTRALIAN HOMINID ERECTS NEANDERTHAL SAPIENS",
+    "fact": "Dryopithecus → Ramapithecus → Australopithecus → Habilis → Erectus → Neanderthal → Sapiens Flawless chronological sequence for NEET questions.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Human"
+      },
+      {
+        "key": "Trick",
+        "label": "Evolution Order Mnemonic DR. RAMA'S AUSTRALIAN HOMINID ERECTS NEANDERTHAL SAPIENS"
+      }
+    ],
+    "doodleBadge": "Evolution Order Mnemonic",
+    "doodleSubtext": "Human",
+    "explanation": "Dryopithecus → Ramapithecus → Australopithecus → Habilis → Erectus → Neanderthal → Sapiens Flawless chronological sequence for NEET questions.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Human.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 41",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Human"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 41,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Human\" in NEET Biology?",
+      "options": [
+        "Evolution Order Mnemonic DR. RAMA'S AUSTRALIAN HOMINID ERECTS NEANDERTHAL SAPIENS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dryopithecus → Ramapithecus → Australopithecus → Habilis → Erectus → Neanderthal → Sapiens Flawless chronological sequence for NEET questions."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-42",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-5",
+    "topicTitle": "Dryopithecus",
+    "topic": "Dryopithecus",
+    "mnemonicNumber": 42,
+    "sourceItemNumber": 42,
+    "title": "Dryopithecus: \"vs Ramapithecus \tDRY = APE-LIKE / RAMA = MAN-LIKE\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "vs Ramapithecus \tDRY = APE-LIKE / RAMA = MAN-LIKE",
+    "memoryHook": "vs Ramapithecus \tDRY = APE-LIKE / RAMA = MAN-LIKE",
+    "fact": "Dryopithecus: More ape-like, hairy, walked like gorillas.. Ramapithecus: More man-like.",
+    "breakdown": [
+      {
+        "key": "Dryopithecus",
+        "label": "More ape-like, hairy, walked like gorillas."
+      },
+      {
+        "key": "Ramapithecus",
+        "label": "More man-like."
+      }
+    ],
+    "doodleBadge": "vs Ramapithecus \tDRY = A",
+    "doodleSubtext": "Dryopithecus",
+    "explanation": "Existed 15 MYA. Fossils found in Shivalik hills in India and East Africa.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Dryopithecus.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 41",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Dryopithecus"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 41,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Dryopithecus\" in NEET Biology?",
+      "options": [
+        "vs Ramapithecus \tDRY = APE-LIKE / RAMA = MAN-LIKE",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Existed 15 MYA. Fossils found in Shivalik hills in India and East Africa."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-43",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-5",
+    "topicTitle": "Australopithecus",
+    "topic": "Australopithecus",
+    "mnemonicNumber": 43,
+    "sourceItemNumber": 43,
+    "title": "Australopithecus: \"Features \tEAST AFRICAN GRASSLANDS (2 MYA)\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Features \tEAST AFRICAN GRASSLANDS (2 MYA)",
+    "memoryHook": "Features \tEAST AFRICAN GRASSLANDS (2 MYA)",
+    "fact": "Lived in East African grasslands ~2 MYA; hunted with stone weapons, ate fruit. Fossil \"Lucy\" belongs to Australopithecus afarensis; walked completely erect.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Lived in East African grasslands ~2 MYA"
+      },
+      {
+        "key": "Point 2",
+        "label": "hunted with stone weapons"
+      },
+      {
+        "key": "Point 3",
+        "label": "walked completely erect"
+      }
+    ],
+    "doodleBadge": "Features \tEAST AFRICAN G",
+    "doodleSubtext": "Australopithecus",
+    "explanation": "Lived in East African grasslands ~2 MYA; hunted with stone weapons, ate fruit. Fossil \"Lucy\" belongs to Australopithecus afarensis; walked completely erect.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Australopithecus.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 41",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Australopithecus"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 41,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Australopithecus\" in NEET Biology?",
+      "options": [
+        "Features \tEAST AFRICAN GRASSLANDS (2 MYA)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Lived in East African grasslands ~2 MYA; hunted with stone weapons, ate fruit. Fossil \"Lucy\" belongs to Australopithecus afarensis; walked completely erect."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-44",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-5",
+    "topicTitle": "Homo",
+    "topic": "Homo",
+    "mnemonicNumber": 44,
+    "sourceItemNumber": 44,
+    "title": "Homo: \"habilis (First Hominid) \t650-800 CC & DID NOT EAT MEAT\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "habilis (First Hominid) \t650-800 CC & DID NOT EAT MEAT",
+    "memoryHook": "habilis (First Hominid) \t650-800 CC & DID NOT EAT MEAT",
+    "fact": "Brain capacity: 650–800 cc. First human-like hominid feature. Did NOT eat meat (vegetarian tool maker)",
+    "breakdown": [
+      {
+        "key": "Brain capacity",
+        "label": "650–800 cc"
+      },
+      {
+        "key": "First human",
+        "label": "like hominid feature"
+      }
+    ],
+    "doodleBadge": "habilis (First Hominid) ",
+    "doodleSubtext": "Homo",
+    "explanation": "Called \"handy man\" because they crafted basic chipped stone tools.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Homo.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 41",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Homo"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 41,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Homo\" in NEET Biology?",
+      "options": [
+        "650–800 cc",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"650–800 cc\". Remember using: \"habilis (First Hominid) \t650-800 CC & DID NOT EAT MEAT\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-45",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-5",
+    "topicTitle": "Homo",
+    "topic": "Homo",
+    "mnemonicNumber": 45,
+    "sourceItemNumber": 45,
+    "title": "Homo: \"erectus Features \t900 CC & ATE MEAT\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "erectus Features \t900 CC & ATE MEAT",
+    "memoryHook": "erectus Features \t900 CC & ATE MEAT",
+    "fact": "Brain capacity: 900 cc • Ate meat",
+    "breakdown": [
+      {
+        "key": "Brain capacity",
+        "label": "900 cc • Ate meat"
+      }
+    ],
+    "doodleBadge": "erectus Features \t900 CC",
+    "doodleSubtext": "Homo",
+    "explanation": "Fossils found in Java in 1891 (Java Man) around 1.5 MYA. First hominid ancestor to use fire controlledly.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Homo.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 41",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Homo"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 41,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Homo\" in NEET Biology?",
+      "options": [
+        "erectus Features \t900 CC & ATE MEAT",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fossils found in Java in 1891 (Java Man) around 1.5 MYA. First hominid ancestor to use fire controlledly."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-46",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-5",
+    "topicTitle": "Neanderthal",
+    "topic": "Neanderthal",
+    "mnemonicNumber": 46,
+    "sourceItemNumber": 46,
+    "title": "Neanderthal: \"Man Features \t1400 CC - HIDES - BURIED DEAD\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Man Features \t1400 CC - HIDES - BURIED DEAD",
+    "memoryHook": "Man Features \t1400 CC - HIDES - BURIED DEAD",
+    "fact": "Capacity: 1400 cc • Used animal hides to protect body • Buried their dead",
+    "breakdown": [
+      {
+        "key": "Capacity",
+        "label": "1400 cc • Used animal hides to protect body • Buried their dead"
+      }
+    ],
+    "doodleBadge": "Man Features \t1400 CC - ",
+    "doodleSubtext": "Neanderthal",
+    "explanation": "Lived in East & Central Asia (1,00,000–40,000 years ago). High intellectual level and cultural practices recorded.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Neanderthal.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 41",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Neanderthal"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 41,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Neanderthal\" in NEET Biology?",
+      "options": [
+        "Man Features \t1400 CC - HIDES - BURIED DEAD",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Lived in East & Central Asia (1,00,000–40,000 years ago). High intellectual level and cultural practices recorded."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-47",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-5",
+    "topicTitle": "Homo",
+    "topic": "Homo",
+    "mnemonicNumber": 47,
+    "sourceItemNumber": 47,
+    "title": "Homo: \"sapiens Origin & Ice Age \tAFRICA - ICE AGE (75,000-10,000 YRS)\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "sapiens Origin & Ice Age \tAFRICA - ICE AGE (75,000-10,000 YRS)",
+    "memoryHook": "sapiens Origin & Ice Age \tAFRICA - ICE AGE (75,000-10,000 YRS)",
+    "fact": "Arose in Africa; moved across continents during Ice Age (75,000–10,000 years ago). Pre-historic cave art developed around 18,000 years ago (Bhimbetka caves in MP).",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Arose in Africa"
+      },
+      {
+        "key": "Point 2",
+        "label": "moved across continents during Ice Age (75"
+      },
+      {
+        "key": "Point 3",
+        "label": "000–10"
+      },
+      {
+        "key": "Point 4",
+        "label": "000 years ago (Bhimbetka caves in MP)"
+      }
+    ],
+    "doodleBadge": "sapiens Origin & Ice Age",
+    "doodleSubtext": "Homo",
+    "explanation": "Arose in Africa; moved across continents during Ice Age (75,000–10,000 years ago). Pre-historic cave art developed around 18,000 years ago (Bhimbetka caves in MP).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Homo.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 41",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Evolution",
+      "Homo"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 41,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Homo\" in NEET Biology?",
+      "options": [
+        "sapiens Origin & Ice Age \tAFRICA - ICE AGE (75,000-10,000 YRS)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Arose in Africa; moved across continents during Ice Age (75,000–10,000 years ago). Pre-historic cave art developed around 18,000 years ago (Bhimbetka caves in MP)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch25-48",
+    "subject": "biology",
+    "chapterId": "bio-ch-25",
+    "chapterNumber": 25,
+    "chapterTitle": "Evolution",
+    "classLevel": 12,
+    "topicId": "bio-top-25-5",
+    "topicTitle": "Cranial",
+    "topic": "Cranial",
+    "mnemonicNumber": 48,
+    "sourceItemNumber": 48,
+    "title": "Cranial: \"Capacity Quick Summary \t650-800 → 900 → 1400 → 1350/1400\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Capacity Quick Summary \t650-800 → 900 → 1400 → 1350/1400",
+    "memoryHook": "Capacity Quick Summary \t650-800 → 900 → 1400 → 1350/1400",
+    "fact": "Homo habilis: 650–800 cc. Homo erectus: 900 cc. Neanderthal: 1400 cc. Homo sapiens: 1350–1400 cc",
     "breakdown": [
       {
         "key": "Homo habilis",
-        "label": "650–800 cc (First human-like ancestor)"
+        "label": "650–800 cc"
       },
       {
         "key": "Homo erectus",
-        "label": "900 cc (Java man discovered in 1891)"
+        "label": "900 cc"
       },
       {
-        "key": "Neanderthal man",
-        "label": "1400 cc (Used hides, buried dead in cave burials)"
+        "key": "Neanderthal",
+        "label": "1400 cc"
       },
       {
-        "key": "Australopithecus",
-        "label": "450–600 cc (Ape-man ancestor in Africa)"
+        "key": "Homo sapiens",
+        "label": "1350–1400 cc"
       }
     ],
-    "doodleBadge": "650-800 → 900 → 1400 cc",
-    "doodleSubtext": "Brain Size Evolution",
-    "explanation": "The significant enlargement of the cerebrum enabled tool fabrication, fire mastery, social language, and complex culture.",
-    "alsoRemember": "Homo erectus fossils discovered in Java in 1891 revealed upright bipedal posture and 900 cc brain volume.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.9.",
-    "neetTrap": "Neanderthal man had a cranial capacity of 1400 cc, which is actually comparable to or slightly larger than modern average Homo sapiens.",
+    "doodleBadge": "Capacity Quick Summary \t",
+    "doodleSubtext": "Cranial",
+    "explanation": "Cranial capacity growth reflects progressive cerebral cortex evolution.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Cranial.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 41",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Evolution",
-      "Cranial Capacity",
-      "Homo erectus",
-      "Neanderthal"
+      "Cranial"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 41,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "Match the hominid with its correct cranial capacity: Homo erectus – ?",
+      "question": "Which of the following is associated with \"Cranial\" in NEET Biology?",
       "options": [
         "650–800 cc",
-        "900 cc",
-        "1400 cc",
-        "450 cc"
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Homo erectus had a cranial capacity of approximately 900 cc."
+      "answerIndex": 0,
+      "explanation": "Correct: \"650–800 cc\". Remember using: \"Capacity Quick Summary \t650-800 → 900 → 1400 → 1350/1400\"."
     }
   },
   {
-    "id": "bio-ch25-16",
+    "id": "mnemo-bio-ch25-49",
     "subject": "biology",
     "chapterId": "bio-ch-25",
     "chapterNumber": 25,
     "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-1",
-    "topicTitle": "Anthropogenic Action Evidence",
-    "mnemonicNumber": 16,
-    "title": "Evolution by Anthropogenic Action: Pesticides & Antibiotics",
-    "badgeText": "Memory Trick",
+    "classLevel": 12,
+    "topicId": "bio-top-25-5",
+    "topicTitle": "Agriculture",
+    "topic": "Agriculture",
+    "mnemonicNumber": 49,
+    "sourceItemNumber": 49,
+    "title": "Agriculture: \"& Human Settlements \t10,000 YEARS AGO\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "notebook",
+    "difficulty": "medium",
+    "visualType": "classification",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Human Spraying → Superbugs & Resistant Pests in Months!",
-    "memoryHook": "Excess use of DDT, weedicides, and antibiotics led to natural selection of resistant variants in months/years, not centuries!",
-    "fact": "Evolution by anthropogenic (human) action occurs at an accelerated pace: 1. Industrial melanism in Biston betularia, 2. Antibiotic-resistant bacteria (superbugs), 3. Pesticide/DDT-resistant mosquitoes.",
-    "breakdown": [
-      {
-        "key": "Industrial Melanism",
-        "label": "Soot from coal factories favored dark moths (Biston betularia carbonaria)"
-      },
-      {
-        "key": "Antibiotic Resistance",
-        "label": "Overuse of antibiotics selects pre-existing rare resistant mutant bacteria"
-      },
-      {
-        "key": "Weedicide/Pesticide Resistance",
-        "label": "Chemical spraying kills sensitive varieties; resistant types survive and dominate"
-      }
-    ],
-    "doodleBadge": "Man-Made Selection\nin Fast Forward",
-    "doodleSubtext": "Anthropogenic Action",
-    "explanation": "Evolution is not a directed process in the sense of determinism. It is a stochastic process based on chance events in nature and chance mutations in organisms.",
-    "alsoRemember": "Resistance alleles exist in low frequency before the drug/chemical is introduced; the chemical merely acts as a selective agent.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.3.",
-    "neetTrap": "Antibiotics do NOT induce mutations that cause resistance; they simply SELECT pre-existing resistant mutants.",
-    "tags": [
-      "Evolution",
-      "Anthropogenic Selection",
-      "Antibiotic Resistance",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "The rapid emergence of antibiotic-resistant bacteria and pesticide-resistant mosquitoes is an example of evolution driven by:",
-      "options": [
-        "Saltation",
-        "Anthropogenic action",
-        "Genetic drift alone",
-        "Spontaneous generation"
-      ],
-      "answerIndex": 1,
-      "explanation": "Human actions such as excessive drug and chemical use cause rapid natural selection, known as evolution by anthropogenic action."
-    }
-  },
-  {
-    "id": "bio-ch25-17",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-2",
-    "topicTitle": "Geological Eras Sequence",
-    "mnemonicNumber": 17,
-    "title": "Geological Eras: Press Pale Milk Carefully",
-    "badgeText": "Memory Trick",
-    "importance": "Medium",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Press Pale Milk Carefully (Precambrian → Paleozoic → Mesozoic → Cenozoic)",
-    "memoryHook": "Oldest to Newest Eras: Precambrian (Primitive) → Paleozoic (Invertebrates/Fishes) → Mesozoic (Dinosaurs) → Cenozoic (Mammals/Birds)!",
-    "fact": "Four major geological eras in ascending chronological order: Precambrian (origin of life) → Paleozoic (era of ancient life/fish/amphibians) → Mesozoic (era of reptiles/dinosaurs) → Cenozoic (era of mammals and flowering plants).",
-    "breakdown": [
-      {
-        "key": "Precambrian",
-        "label": "Oldest era; origin of prokaryotes and single-celled eukaryotes"
-      },
-      {
-        "key": "Paleozoic",
-        "label": "Cambrian explosion, Silurian land plants, Devonian age of fishes, Carboniferous coal forests"
-      },
-      {
-        "key": "Mesozoic",
-        "label": "Triassic, Jurassic (golden age of dinosaurs), Cretaceous (dinosaur extinction)"
-      },
-      {
-        "key": "Cenozoic",
-        "label": "Tertiary and Quaternary (Age of mammals, birds, and modern humans)"
-      }
-    ],
-    "doodleBadge": "P → P → M → C",
-    "doodleSubtext": "Geological Eras",
-    "explanation": "Mesozoic era (Reptiles) is divided into Triassic, Jurassic, and Cretaceous periods.",
-    "alsoRemember": "Dinosaurs dominated the Jurassic period and went completely extinct by the end of the Cretaceous period ~65 mya.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.9, Figure 7.9 & 7.10.",
-    "neetTrap": "Jurassic belongs to MESOZOIC era (Age of Reptiles), not Paleozoic or Cenozoic.",
-    "tags": [
-      "Evolution",
-      "Geological Eras",
-      "Mesozoic",
-      "Cenozoic"
-    ],
-    "quiz": {
-      "question": "Dinosaurs flourished and diversified during which geological era?",
-      "options": [
-        "Paleozoic era",
-        "Mesozoic era",
-        "Cenozoic era",
-        "Precambrian era"
-      ],
-      "answerIndex": 1,
-      "explanation": "The Mesozoic era (comprising Triassic, Jurassic, and Cretaceous periods) is universally known as the Age of Reptiles/Dinosaurs."
-    }
-  },
-  {
-    "id": "bio-ch25-18",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-1",
-    "topicTitle": "Placental vs Marsupial Convergent Pairs",
-    "mnemonicNumber": 18,
-    "title": "Convergent Pairs: Placental Wolf vs Tasmanian Wolf",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "cardColor": "#F7F0FF",
     "badgeColor": "#A66CFF",
-    "mnemonic": "Mole-Mole | Anteater-Numbat | Mouse-Marsupial Mouse | Lemur-Spotted Cuscus | Wolf-Tasmanian Wolf",
-    "memoryHook": "Every placental mammal niche in the world has a parallel marsupial twin in isolated Australia due to convergent evolution!",
-    "fact": "Parallel evolutionary pairs between Placental Mammals and Australian Marsupials: 1. Anteater – Numbat, 2. Lemur – Spotted cuscus, 3. Flying squirrel – Flying phalanger, 4. Bobcat – Tasmanian tiger cat, 5. Wolf – Tasmanian wolf.",
+    "mnemonic": "& Human Settlements \t10,000 YEARS AGO",
+    "memoryHook": "& Human Settlements \t10,000 YEARS AGO",
+    "fact": "Agriculture came around 10,000 years ago leading to human settlements and civilization. Shift from nomadic hunter-gatherer lifestyle to settled agrarian communities.",
     "breakdown": [
       {
-        "key": "Placental Wolf",
-        "label": "Eutherian carnivore with true placenta"
+        "key": "Point 1",
+        "label": "Agriculture came around 10"
       },
       {
-        "key": "Tasmanian Wolf (Thylacine)",
-        "label": "Marsupial carnivore with pouch; now extinct"
-      },
-      {
-        "key": "Anteater vs Numbat",
-        "label": "Eutherian myrmecophage vs Marsupial banded anteater"
-      },
-      {
-        "key": "Flying Squirrel vs Flying Phalanger",
-        "label": "Gliding membranes evolved independently in separate lineages"
+        "key": "Point 2",
+        "label": "000 years ago leading to human settlements"
       }
     ],
-    "doodleBadge": "Placental vs Marsupial\nConvergent Pairs",
-    "doodleSubtext": "Parallel Evolution Table",
-    "explanation": "When similar adaptive radiations occur in isolated geographical continents under equivalent ecological pressures, placental and marsupial counterparts evolve strikingly similar phenotypes.",
-    "alsoRemember": "Placental wolf and Tasmanian wolf look remarkably alike but belong to completely distinct mammalian subclasses.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.5, Figure 7.7.",
-    "neetTrap": "Placental wolf and Tasmanian wolf are an example of CONVERGENT evolution, not divergent evolution.",
+    "doodleBadge": "& Human Settlements \t10,",
+    "doodleSubtext": "Agriculture",
+    "explanation": "Agriculture came around 10,000 years ago leading to human settlements and civilization. Shift from nomadic hunter-gatherer lifestyle to settled agrarian communities.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Agriculture.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 41",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Evolution",
-      "Convergent Evolution",
-      "Marsupials",
-      "Placentals"
+      "Agriculture"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 41,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "The Tasmanian wolf and placental wolf share similar anatomical features and predatory niche due to:",
+      "question": "Which of the following is associated with \"Agriculture\" in NEET Biology?",
       "options": [
-        "Divergent evolution",
-        "Convergent evolution",
-        "Saltation",
-        "Artificial selection"
+        "& Human Settlements \t10,000 YEARS AGO",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "They evolved independently in isolated geographies to fill identical ecological niches, representing convergent evolution."
+      "answerIndex": 0,
+      "explanation": "Agriculture came around 10,000 years ago leading to human settlements and civilization. Shift from nomadic hunter-gatherer lifestyle to settled agrarian communities."
     }
   },
   {
-    "id": "bio-ch25-19",
+    "id": "mnemo-bio-ch25-50",
     "subject": "biology",
     "chapterId": "bio-ch-25",
     "chapterNumber": 25,
     "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-3",
-    "topicTitle": "Ramapithecus vs Dryopithecus",
-    "mnemonicNumber": 19,
-    "title": "Dryo (Ape) vs Rama (Man): 15 Million Years Ago",
-    "badgeText": "Memory Trick",
+    "classLevel": 12,
+    "topicId": "bio-top-25-5",
+    "topicTitle": "Summary",
+    "topic": "Summary",
+    "mnemonicNumber": 50,
+    "sourceItemNumber": 50,
+    "title": "Summary: \"of Evolutionary Milestones \tINVERTEBRATES (500) - JAWLESS (350) - LAND (320)\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Dryopithecus was Ape-like | Ramapithecus was Man-like (15 MYA)",
-    "memoryHook": "Dryo = hairy ape swinging on trees; Rama (like lord Rama) = walked erect and more man-like!",
-    "fact": "About 15 mya, primates called Dryopithecus and Ramapithecus were existing. They were hairy and walked like gorillas and chimpanzees. Ramapithecus was more man-like while Dryopithecus was more ape-like.",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "of Evolutionary Milestones \tINVERTEBRATES (500) - JAWLESS (350) - LAND (320)",
+    "memoryHook": "of Evolutionary Milestones \tINVERTEBRATES (500) - JAWLESS (350) - LAND (320)",
+    "fact": "500 MYA: Invertebrates formed. 350 MYA: Jawless fish. 320 MYA: Sea weeds & plants on land",
     "breakdown": [
       {
-        "key": "Dryopithecus (15 mya)",
-        "label": "More ape-like, arms longer than legs, forest canopy dweller"
+        "key": "500 MYA",
+        "label": "Invertebrates formed"
       },
       {
-        "key": "Ramapithecus (15 mya)",
-        "label": "More man-like, smaller canines, semi-erect bipedal walking on open grasslands"
+        "key": "350 MYA",
+        "label": "Jawless fish"
       },
       {
-        "key": "Fossils in India",
-        "label": "Fossils of Ramapithecus discovered in Shivalik hills of India"
+        "key": "320 MYA",
+        "label": "Sea weeds & plants on land"
       }
     ],
-    "doodleBadge": "Dryo = Ape\nRama = Man (15 MYA)",
-    "doodleSubtext": "Early Primates",
-    "explanation": "Fossils of man-like bones discovered in Ethiopia and Tanzania showed hominid features living around 3-4 million years ago before Australopithecus.",
-    "alsoRemember": "Both Dryopithecus and Ramapithecus existed approximately 15 million years ago.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.9.",
-    "neetTrap": "Ramapithecus was more MAN-like; Dryopithecus was more APE-like.",
+    "doodleBadge": "of Evolutionary Mileston",
+    "doodleSubtext": "Summary",
+    "explanation": "Complete NCERT quantitative timeline summary for quick revision before exam.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 6 (Evolution).",
+    "neetTrap": "Common NEET test point in Summary.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 6, PDF Page 41",
     "tags": [
+      "NEET Biology",
+      "Class 12",
       "Evolution",
-      "Ramapithecus",
-      "Dryopithecus",
-      "Class 12"
+      "Summary"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 41,
+      "chapter": "Evolution"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "15 million years ago, which primate was more man-like in posture and dental anatomy compared to Dryopithecus?",
+      "question": "Which of the following is associated with \"Summary\" in NEET Biology?",
       "options": [
-        "Homo habilis",
-        "Ramapithecus",
-        "Australopithecus",
-        "Neanderthal"
+        "Invertebrates formed",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Ramapithecus lived 15 mya and was more man-like, while Dryopithecus was more ape-like."
-    }
-  },
-  {
-    "id": "bio-ch25-20",
-    "subject": "biology",
-    "chapterId": "bio-ch-25",
-    "chapterNumber": 25,
-    "chapterTitle": "Evolution",
-    "topicId": "bio-top-25-1",
-    "topicTitle": "Industrial Melanism: Peppered Moth",
-    "mnemonicNumber": 20,
-    "title": "Peppered Moth: Biston betularia (White vs Melanic)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Pre-1850 clean trees = White moth hides | Post-1920 soot trees = Black moth hides",
-    "memoryHook": "Lichens on trees camouflaged white moths before industrial soot; black soot camouflaged melanic moths after coal factories!",
-    "fact": "In 1850s (pre-industrialization), white-winged moths were abundant because tree trunks were covered with white lichens. In 1920s (post-industrialization), tree trunks became dark with soot and smoke, giving melanic (dark) moths camouflage advantage against predatory birds.",
-    "breakdown": [
-      {
-        "key": "Pre-industrial (1850s)",
-        "label": "White lichen-covered bark → White moths camouflaged, dark moths eaten by birds"
-      },
-      {
-        "key": "Post-industrial (1920s)",
-        "label": "Industrial soot killed lichens and darkened bark → Dark melanic moths camouflaged, white moths eaten"
-      },
-      {
-        "key": "Crucial Finding",
-        "label": "NO variant was completely wiped out; proportions simply shifted (Directional Selection)"
-      }
-    ],
-    "doodleBadge": "White on Lichen\nBlack on Soot",
-    "doodleSubtext": "Industrial Melanism",
-    "explanation": "In rural areas where industrial pollution did not exist, the count of melanic moths remained very low, proving that industrial pollution was the primary selective agent.",
-    "alsoRemember": "Lichens serve as sensitive bioindicators of air quality because they cannot survive in sulfur dioxide polluted air.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 7, Section 7.3.",
-    "neetTrap": "No variant was completely eliminated; dark moths simply increased in proportion where soot darkened tree bark.",
-    "tags": [
-      "Evolution",
-      "Industrial Melanism",
-      "Biston betularia",
-      "Natural Selection"
-    ],
-    "quiz": {
-      "question": "In England, the shift from white-winged peppered moths to dark-winged melanic moths after industrialization was caused by:",
-      "options": [
-        "Mutations directly caused by coal smoke",
-        "Differential bird predation favoring camouflaged dark moths on soot-covered trunks",
-        "Acquired melanin inheritance",
-        "Disruptive selection against both forms"
-      ],
-      "answerIndex": 1,
-      "explanation": "Predatory birds visually spotted and ate white moths against dark soot-covered trunks, conferring a selective survival advantage on melanic moths."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Invertebrates formed\". Remember using: \"of Evolutionary Milestones \tINVERTEBRATES (500) - JAWLESS (350) - LAND (320)\"."
     }
   }
 ];

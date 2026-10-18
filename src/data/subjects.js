@@ -11,7 +11,7 @@ export const SUBJECTS = [
     icon: 'atom',
     totalChapters: 19,
     totalTopics: 180,
-    totalMnemonics: 85,
+    totalMnemonics: 0,
     ncertScope: 'Official NTA NEET UG Physics (Class 11 & 12 Complete)',
     highlights: ['Units & Dimensions', 'Kinematics SUVAT', 'Laws of Motion', 'Gravitation', 'Thermodynamics', 'Electrostatics', 'Current & Kirchhoff', 'Optics & Lenses', 'Modern Physics & Semiconductors']
   },
@@ -27,7 +27,7 @@ export const SUBJECTS = [
     icon: 'flask',
     totalChapters: 20,
     totalTopics: 195,
-    totalMnemonics: 95,
+    totalMnemonics: 0,
     ncertScope: 'Official NTA NEET UG Chemistry (Class 11 & 12 Complete)',
     highlights: ['Mole Concept', 'Periodic Trends', 'Chemical Bonding', 'Thermodynamics', 'Equilibrium', 'Coordination Compounds', 'Aldol & Name Reactions', 'Biomolecules']
   },
@@ -43,7 +43,7 @@ export const SUBJECTS = [
     icon: 'leaf',
     totalChapters: 32,
     totalTopics: 280,
-    totalMnemonics: 140,
+    totalMnemonics: 1187,
     ncertScope: 'Official NTA NEET UG Biology (Complete NCERT 11th & 12th)',
     highlights: ['Taxonomic Hierarchy', 'Plant Kingdom Algae', 'Plant Hormones', 'PMAT Mitosis & Meiosis', 'Heart Valves & Circulation', 'Genetics Dihybrid', 'Molecular Central Dogma', 'Ecology Evil Quartet']
   }

@@ -1,88 +1,82 @@
+/**
+ * NEET Biology Mnemonics — Chapter 1: The Living World
+ * Class 11 Biology (30 verified mnemonics)
+ * Primary Source: NEET Biology Chapter-Wise 30 Mnemonics Master (PDF 1)
+ */
+
 export const bioCh01Mnemonics = [
   {
-    "id": "mnemo-bio-01",
+    "id": "mnemo-bio-ch01-01",
     "subject": "biology",
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
+    "classLevel": 11,
     "topicId": "bio-top-1-1",
-    "topicTitle": "Taxonomic Hierarchy",
+    "topicTitle": "Essential Characteristics / Features of Living Organisms",
+    "topic": "Essential Characteristics / Features of Living Organisms",
     "mnemonicNumber": 1,
-    "title": "Taxonomic Hierarchy: King Philip",
-    "badgeText": "Memory Trick",
+    "title": "Essential Characteristics / Features of Living Organisms: \"GRCMR\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "sequence",
+    "visualType": "acronym",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "King Philip Came Over For Good Soup",
-    "memoryHook": "Kingdom → Phylum → Class → Order → Family → Genus → Species. Highest to Lowest rank!",
-    "fact": "Taxonomic ranks from broadest to most specific: Kingdom, Phylum (or Division for plants), Class, Order, Family, Genus, Species.",
+    "mnemonic": "GRCMR",
+    "memoryHook": "GRCMR",
+    "fact": "G – Growth. R – Reproduction. C – Cellular organization. M – Metabolism. R – Response to stimuli (Consciousness)",
     "breakdown": [
       {
-        "key": "King",
-        "label": "Kingdom (Highest & broadest group, e.g. Animalia)"
+        "key": "G",
+        "label": "Growth"
       },
       {
-        "key": "Philip",
-        "label": "Phylum (Animals) / Division (Plants)"
+        "key": "R",
+        "label": "Reproduction"
       },
       {
-        "key": "Came",
-        "label": "Class (e.g. Mammalia, Dicotyledonae)"
+        "key": "C",
+        "label": "Cellular organization"
       },
       {
-        "key": "Over",
-        "label": "Order (Plant orders end in -ales, e.g. Polymoniales)"
+        "key": "M",
+        "label": "Metabolism"
       },
       {
-        "key": "For",
-        "label": "Family (Plant families end in -aceae, e.g. Solanaceae)"
-      },
-      {
-        "key": "Good",
-        "label": "Genus (First word in scientific name, e.g. Homo, Solanum)"
-      },
-      {
-        "key": "Soup",
-        "label": "Species (Basic unit with maximum common features)"
+        "key": "R",
+        "label": "Response to stimuli (Consciousness)"
       }
     ],
-    "doodleBadge": "K → P → C → O → F → G → S",
-    "doodleSubtext": "Taxonomy Ladder",
-    "explanation": "As you go DOWN from Kingdom to Species, common traits INCREASE. As you go UP from Species to Kingdom, common traits DECREASE.",
-    "alsoRemember": "In plants, the rank \"Division\" is used instead of \"Phylum\".",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.3.",
-    "neetTrap": "Do common characteristics increase or decrease going down to species? They INCREASE down to species!",
+    "doodleBadge": "GRCMR",
+    "doodleSubtext": "Essential Characteristic",
+    "explanation": "The five fundamental parameters evaluated to define life and living organisms.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Essential Characteristics / Features of Living Organisms.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.98",
     "tags": [
-      "Taxonomy",
-      "Living World",
-      "Classification",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Essential"
     ],
-    "quiz": {
-      "question": "In the taxonomic hierarchy, which category comes directly between Class and Family?",
-      "options": [
-        "Phylum",
-        "Order",
-        "Genus",
-        "Kingdom"
-      ],
-      "answerIndex": 1,
-      "explanation": "Order comes directly after Class and before Family (King Philip Came Over For Good Soup)."
-    },
-    "topic": "Taxonomic Hierarchy",
-    "expandedMeaning": "Kingdom → Phylum → Class → Order → Family → Genus → Species",
-    "whyItWorks": "Every starting letter maps sequentially from broadest kingdom to narrowest species.",
-    "mnemonicType": "acronym",
-    "visualDescription": "A royal King Philip eating soup, with 7 descending stair steps.",
-    "neetRelevance": "Direct PYQ in NEET 2022, 2020, 2018 on ascending vs descending order of categories.",
-    "commonMistake": "Confusing Division (plants) with Phylum (animals), or reversing order vs family.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Chapter 1, Section 1.3"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 98,
+      "chapter": "The Living World"
     },
-    "verificationStatus": "verified"
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Essential Characteristics / Features of Living Organisms\" in NEET Biology?",
+      "options": [
+        "Growth",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Growth\". Remember using: \"GRCMR\"."
+    }
   },
   {
     "id": "mnemo-bio-ch01-02",
@@ -90,74 +84,63 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
+    "classLevel": 11,
     "topicId": "bio-top-1-1",
-    "topicTitle": "Characteristics of Living Organisms",
-    "topic": "Defining Properties of Life",
+    "topicTitle": "Defining Features of Living Organisms (No Exceptions)",
+    "topic": "Defining Features of Living Organisms (No Exceptions)",
     "mnemonicNumber": 2,
-    "title": "Defining Features of Life: \"C-M-C\" Defines Life, \"G-R\" Fails!",
-    "badgeText": "Concept Rule",
+    "title": "Defining Features of Living Organisms (No Exceptions): \"CMC\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "CMC are True (Cellular, Metabolism, Consciousness) | GR have Exceptions (Growth, Reproduction)",
-    "memoryHook": "Consciousness, Metabolism, and Cellular organisation define life WITHOUT exception. Growth and Reproduction fail!",
-    "expandedMeaning": "Cellular organization, Metabolism, Consciousness = DEFINING. Growth (mountains grow from outside) & Reproduction (mules, worker bees sterile) = NON-DEFINING.",
-    "fact": "Consciousness is the most technically complicated and defining property of all living organisms. Isolated metabolic reactions in vitro are living reactions but not living things.",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "CMC",
+    "memoryHook": "CMC",
+    "fact": "C – Cellular organization. M – Metabolism. C – Consciousness",
     "breakdown": [
       {
         "key": "C",
-        "label": "Cellular organisation (No living thing lacks cells)"
+        "label": "Cellular organization"
       },
       {
         "key": "M",
-        "label": "Metabolism (100% of living things have metabolic reactions)"
+        "label": "Metabolism"
       },
       {
         "key": "C",
-        "label": "Consciousness (Awareness of environment & self-consciousness in humans)"
-      },
-      {
-        "key": "G (Fails)",
-        "label": "Growth (Non-living mountains/sand mounds also exhibit extrinsic growth)"
-      },
-      {
-        "key": "R (Fails)",
-        "label": "Reproduction (Mules, sterile worker bees, infertile human couples live without reproducing)"
+        "label": "Consciousness"
       }
     ],
-    "doodleBadge": "CMC ✓ | GR ✗",
-    "doodleSubtext": "Defining vs Non-defining",
-    "explanation": "Growth can occur intrinsically (living) or extrinsically (non-living accumulation). Reproduction is absent in mules and sterile worker bees, yet they are living.",
-    "whyItWorks": "Contrasting the 3 defining features against the 2 non-defining ones prevents NEET confusion.",
-    "alsoRemember": "Human being is the ONLY organism with self-consciousness (awareness of self).",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.1",
-    "neetTrap": "Is metabolism seen in non-living things? NO. Metabolic reactions in cell-free system are not living things, but living reactions.",
-    "commonMistake": "Assuming growth is a defining feature because all living organisms grow.",
+    "doodleBadge": "CMC",
+    "doodleSubtext": "Defining Features of Liv",
+    "explanation": "Absolute defining properties of life that show zero non-living or sterile organism exceptions.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Defining Features of Living Organisms (No Exceptions).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.98",
     "tags": [
-      "Living World",
-      "Characteristics of Life",
-      "Metabolism",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Defining"
     ],
-    "visualDescription": "A glowing checkmark next to Cell, Enzyme, and Brain, with red X on Sand Dune and Mule.",
-    "neetRelevance": "Tested in NEET 2016, 2019 regarding defining vs non-defining properties.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.1"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 98,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is considered a strictly defining feature of all living organisms?",
+      "question": "Which of the following is associated with \"Defining Features of Living Organisms (No Exceptions)\" in NEET Biology?",
       "options": [
-        "Reproduction",
-        "Extrinsic growth",
-        "Cellular organisation",
-        "Locomotion"
+        "Cellular organization",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Cellular organisation, metabolism, and consciousness are defining properties without exception."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Cellular organization\". Remember using: \"CMC\"."
     }
   },
   {
@@ -166,74 +149,59 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
+    "classLevel": 11,
     "topicId": "bio-top-1-1",
-    "topicTitle": "Nomenclature Rules",
-    "topic": "Binomial Nomenclature",
+    "topicTitle": "Non-Defining Features of Living Organisms (Have Exceptions)",
+    "topic": "Non-Defining Features of Living Organisms (Have Exceptions)",
     "mnemonicNumber": 3,
-    "title": "Binomial Rules: \"G-Capital, S-small, Latin-Italics, Underline-Hand\"",
-    "badgeText": "Formula Trick",
+    "title": "Non-Defining Features of Living Organisms (Have Exceptions): \"GR\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "sequence",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "G-Cap, s-small | Italic in Print | Underline by Hand",
-    "memoryHook": "Genus starts with Capital, specific epithet starts with small. Latinized names are printed in italics, or separately underlined when handwritten!",
-    "expandedMeaning": "Genus = Capital letter; Specific epithet = small letter. Latin origin printed in italics. Separate underlines when written by hand.",
-    "fact": "Binomial nomenclature was introduced by Carolus Linnaeus in Systema Naturae. Mangifera indica Linn. indicates species described by Linnaeus.",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "GR",
+    "memoryHook": "GR",
+    "fact": "G – Growth. R – Reproduction",
     "breakdown": [
       {
-        "key": "G-Cap",
-        "label": "Genus is capitalized: Mangifera"
+        "key": "G",
+        "label": "Growth"
       },
       {
-        "key": "s-small",
-        "label": "species epithet is lowercase: indica"
-      },
-      {
-        "key": "Italics",
-        "label": "Printed in italics to show Latin origin"
-      },
-      {
-        "key": "Underline",
-        "label": "Separately underlined when handwritten: Mangifera indica"
-      },
-      {
-        "key": "Author",
-        "label": "Author name at the end in Roman (un-italicized): Linn."
+        "key": "R",
+        "label": "Reproduction"
       }
     ],
-    "doodleBadge": "Mangifera indica L.",
-    "doodleSubtext": "Linnaeus Nomenclature",
-    "explanation": "Biological names are generally in Latin and written in italics. The first word represents the genus and the second denotes the specific epithet.",
-    "whyItWorks": "Physical formatting rule connects directly to multiple choice typography questions.",
-    "alsoRemember": "Author citation is written in abbreviated form after specific epithet and is NEVER italicized.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.2",
-    "neetTrap": "NEET often sets traps with author name underlined or italicized. Author name is plain Roman!",
-    "commonMistake": "Capitalizing the specific epithet (e.g. writing Mangifera Indica).",
+    "doodleBadge": "GR",
+    "doodleSubtext": "Non-Defining Features of",
+    "explanation": "Features present in living beings but not exclusive/defining (e.g., mountains grow, mules are sterile).",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Non-Defining Features of Living Organisms (Have Exceptions).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.98",
     "tags": [
-      "Binomial Nomenclature",
-      "Linnaeus",
-      "Taxonomy",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Non-Defining"
     ],
-    "visualDescription": "A pen writing Mangifera with capital M and indica with small i, each separately underlined.",
-    "neetRelevance": "Direct question in NEET 2019 (Mangifera indica Car. Linn - identify correct format).",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 98,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following scientific names is formatted correctly according to ICBN rules?",
+      "question": "Which of the following is associated with \"Non-Defining Features of Living Organisms (Have Exceptions)\" in NEET Biology?",
       "options": [
-        "mangifera Indica Linn.",
-        "Mangifera indica Linn.",
-        "Mangifera Indica Linn.",
-        "Mangifera indica linn."
+        "GR",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Genus starts with a capital letter, species is lowercase, and author name (Linn.) is abbreviated in Roman script."
+      "answerIndex": 0,
+      "explanation": "Features present in living beings but not exclusive/defining (e.g., mountains grow, mules are sterile)."
     }
   },
   {
@@ -242,70 +210,63 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
+    "classLevel": 11,
     "topicId": "bio-top-1-1",
-    "topicTitle": "Taxonomic Categories",
-    "topic": "Botanical Category Suffixes",
+    "topicTitle": "Non-Living Objects Showing Extrinsic Growth",
+    "topic": "Non-Living Objects Showing Extrinsic Growth",
     "mnemonicNumber": 4,
-    "title": "Plant Rank Suffixes: \"Phyta-Division, Opsida-Class, Ales-Order, Aceae-Family\"",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "classification",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Plant Ranks: Phyta (Div) → Opsida (Class) → Ales (Order) → Aceae (Fam)",
-    "memoryHook": "Peter Often Orders Apples: Phyta is Division, Opsida is Class, -ales is Order, -aceae is Family!",
-    "expandedMeaning": "-phyta = Division (e.g. Bryophyta, Spermatophyta); -opsida = Class (e.g. Magnoliopsida); -ales = Order (e.g. Polymoniales, Sapindales); -aceae = Family (e.g. Solanaceae, Anacardiaceae).",
-    "fact": "Taxonomic codes (ICBN) define standardized suffixes for plants, but NO standardized suffixes exist for Genus and Species.",
+    "title": "Non-Living Objects Showing Extrinsic Growth: \"MSB\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "MSB",
+    "memoryHook": "MSB",
+    "fact": "M – Mountains. S – Sand mounds. B – Boulders",
     "breakdown": [
       {
-        "key": "-phyta",
-        "label": "Division (e.g., Pteridophyta, Bryophyta)"
+        "key": "M",
+        "label": "Mountains"
       },
       {
-        "key": "-opsida",
-        "label": "Class (e.g., Pteropsida, Bryopsida)"
+        "key": "S",
+        "label": "Sand mounds"
       },
       {
-        "key": "-ales",
-        "label": "Order (e.g., Polymoniales, Sapindales)"
-      },
-      {
-        "key": "-aceae",
-        "label": "Family (e.g., Solanaceae, Fabaceae, Poaceae)"
+        "key": "B",
+        "label": "Boulders"
       }
     ],
-    "doodleBadge": "-ales = Order | -aceae = Family",
-    "doodleSubtext": "Taxonomic Endings",
-    "explanation": "By looking at the ending of an unfamiliar biological name, you can immediately identify its taxonomic category.",
-    "whyItWorks": "Associates the four standard suffixes with ascending ranks.",
-    "alsoRemember": "Animal families end in -idae (e.g. Felidae, Canidae, Hominidae).",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.3",
-    "neetTrap": "Thinking -aceae is Order. Remember: Polymoni-ALES is an Order; Solan-ACEAE is a Family.",
-    "commonMistake": "Confusing Polymoniales with a plant family.",
+    "doodleBadge": "MSB",
+    "doodleSubtext": "Non-Living Objects Showi",
+    "explanation": "Non-living items that grow by accumulation of material on their outer surface.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Non-Living Objects Showing Extrinsic Growth.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.98",
     "tags": [
-      "Suffixes",
-      "ICBN",
-      "Taxonomy",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Non-Living"
     ],
-    "visualDescription": "Four staircases with signs showing -phyta (top), -opsida, -ales, and -aceae (bottom).",
-    "neetRelevance": "Frequently asked to identify which category Polymoniales or Solanaceae belongs to.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.3"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 98,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The taxonomic term Polymoniales represents which hierarchical category?",
+      "question": "Which of the following is associated with \"Non-Living Objects Showing Extrinsic Growth\" in NEET Biology?",
       "options": [
-        "Family",
-        "Class",
-        "Order",
-        "Division"
+        "Mountains",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Names ending in \"-ales\" in plant taxonomy always designate the rank of Order."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Mountains\". Remember using: \"MSB\"."
     }
   },
   {
@@ -314,78 +275,63 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
+    "classLevel": 11,
     "topicId": "bio-top-1-1",
-    "topicTitle": "Taxonomic Hierarchy Examples",
-    "topic": "NCERT Table 1.1 Organisms",
+    "topicTitle": "Organisms That Do Not Reproduce (Sterile Living Entities)",
+    "topic": "Organisms That Do Not Reproduce (Sterile Living Entities)",
     "mnemonicNumber": 5,
-    "title": "NCERT Table 1.1: Families & Orders of Housefly & Wheat",
-    "badgeText": "Must Know",
+    "title": "Organisms That Do Not Reproduce (Sterile Living Entities): \"MWS\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Housefly: Musca (Gen) → Muscidae (Fam) → Diptera (Ord) → Insecta (Cl) | Wheat: Triticum (Gen) → Poaceae (Fam) → Poales (Ord) → Monocot (Cl)",
-    "memoryHook": "Musca Dip in Insecta (Housefly has 2 wings = Diptera). Wheat has Poales & Poaceae (P-P cereals)!",
-    "expandedMeaning": "Housefly: Musca domestica, Family Muscidae, Order Diptera, Class Insecta, Phylum Arthropoda. Wheat: Triticum aestivum, Family Poaceae, Order Poales, Class Monocotyledonae, Division Angiospermae.",
-    "fact": "Table 1.1 in NCERT is one of the highest-yield sources of direct match-the-column questions in NEET history.",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "MWS",
+    "memoryHook": "MWS",
+    "fact": "M – Mules. W – Worker bees (Sterile females). S – Infertile human couples",
     "breakdown": [
       {
-        "key": "Housefly Order",
-        "label": "Diptera (Insects with one pair of wings)"
+        "key": "M",
+        "label": "Mules"
       },
       {
-        "key": "Housefly Family",
-        "label": "Muscidae"
+        "key": "W",
+        "label": "Worker bees (Sterile females)"
       },
       {
-        "key": "Wheat Order",
-        "label": "Poales"
-      },
-      {
-        "key": "Wheat Family",
-        "label": "Poaceae (Gramineae)"
-      },
-      {
-        "key": "Mango Order",
-        "label": "Sapindales (Family: Anacardiaceae)"
-      },
-      {
-        "key": "Human Order",
-        "label": "Primata (Family: Hominidae)"
+        "key": "S",
+        "label": "Infertile human couples"
       }
     ],
-    "doodleBadge": "Fly = Diptera | Mango = Sapindales",
-    "doodleSubtext": "NCERT Table 1.1 Tricks",
-    "explanation": "Diptera means two-winged (insects). Sapindales contains mango. Poales contains wheat and grasses.",
-    "whyItWorks": "Pairs the animal orders (Primata, Diptera) and plant orders (Sapindales, Poales) directly.",
-    "alsoRemember": "Housefly phylum is Arthropoda; Wheat division is Angiospermae.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Table 1.1",
-    "neetTrap": "Mixing up Mango order (Sapindales) with family (Anacardiaceae).",
-    "commonMistake": "Labeling Housefly order as Insecta (Insecta is the Class, Diptera is Order).",
+    "doodleBadge": "MWS",
+    "doodleSubtext": "Organisms That Do Not Re",
+    "explanation": "Key examples demonstrating why reproduction cannot be an all-inclusive defining property of life.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Organisms That Do Not Reproduce (Sterile Living Entities).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.98",
     "tags": [
-      "Table 1.1",
-      "Musca domestica",
-      "Triticum aestivum",
-      "Mangifera indica"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Organisms"
     ],
-    "visualDescription": "Split card showing a housefly wearing Diptera badge and a wheat stalk with Poales badge.",
-    "neetRelevance": "NEET 2021, 2019, 2016 match-the-following questions on Table 1.1.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Table 1.1"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 98,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "According to NCERT Table 1.1, what is the taxonomic order of the housefly (Musca domestica)?",
+      "question": "Which of the following is associated with \"Organisms That Do Not Reproduce (Sterile Living Entities)\" in NEET Biology?",
       "options": [
-        "Muscidae",
-        "Diptera",
-        "Insecta",
-        "Arthropoda"
+        "Mules",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Diptera is the Order of housefly, Muscidae is Family, Insecta is Class, Arthropoda is Phylum."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Mules\". Remember using: \"MWS\"."
     }
   },
   {
@@ -394,70 +340,59 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-2",
-    "topicTitle": "Taxonomical Aids",
-    "topic": "Herbarium Sheet Standards",
+    "classLevel": 11,
+    "topicId": "bio-top-1-1",
+    "topicTitle": "Organisms Reproducing by Asexual Spores",
+    "topic": "Organisms Reproducing by Asexual Spores",
     "mnemonicNumber": 6,
-    "title": "Herbarium Label: \"Date-Place, English-Local-Botanical, Fam-Collector\"",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
+    "title": "Organisms Reproducing by Asexual Spores: \"FA\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "sentence",
-    "cardColor": "#EFFBF4",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Herbarium Labels record D-P-E-L-B-F-C: Date, Place, English, Local, Botanical name, Family, Collector",
-    "memoryHook": "Dear Professor Eats Little Biscuits For Cake: Date, Place, English, Local, Botanical name, Family, Collector!",
-    "expandedMeaning": "Herbarium sheets (standard size 41 × 29 cm or 16.5 × 11.5 inches) carry a label at the lower right corner giving Date, Place of collection, English name, Local name, Botanical name, Family, and Collector name.",
-    "fact": "Herbarium sheets do NOT carry information on plant height, weight, or medicinal uses.",
+    "mnemonic": "FA",
+    "memoryHook": "FA",
+    "fact": "F – Fungi. A – Algae",
     "breakdown": [
       {
-        "key": "D & P",
-        "label": "Date and Place of collection"
+        "key": "F",
+        "label": "Fungi"
       },
       {
-        "key": "E & L & B",
-        "label": "English, Local, and Botanical names"
-      },
-      {
-        "key": "F & C",
-        "label": "Family of specimen & Name of the collector"
-      },
-      {
-        "key": "EXCLUDED",
-        "label": "Height of plant is NEVER recorded on herbarium label!"
+        "key": "A",
+        "label": "Algae"
       }
     ],
-    "doodleBadge": "41 × 29 cm | Label Bottom-Right",
-    "doodleSubtext": "Herbarium Standard",
-    "explanation": "A herbarium is a storehouse of collected plant specimens that are dried, pressed, and preserved on sheets. It serves as a quick referral system in taxonomic studies.",
-    "whyItWorks": "The excluded detail (plant height) is the classic NEET trap question.",
-    "alsoRemember": "Standard herbarium sheet dimensions are 29 cm × 41 cm.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.4.1",
-    "neetTrap": "Options will ask: \"Which is NOT included on a herbarium sheet label?\" Answer is plant height!",
-    "commonMistake": "Selecting family as the missing label (Family IS provided on the label).",
+    "doodleBadge": "FA",
+    "doodleSubtext": "Organisms Reproducing by",
+    "explanation": "Primary plant/fungal groups producing millions of asexual reproductive spores. Chapter 1: The Living World (30 Mnemonics) \tPage 1",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Organisms Reproducing by Asexual Spores.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.98",
     "tags": [
-      "Herbarium",
-      "Taxonomical Aids",
-      "Quick Referral",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Organisms"
     ],
-    "visualDescription": "A pressed green leaf mounted on a sheet with a rectangular label highlighted at the bottom right.",
-    "neetRelevance": "Direct question in NEET 2018 & 2016 regarding information NOT found on herbarium label.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.4.1"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 98,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which piece of information is NOT provided on the label of a standard herbarium sheet?",
+      "question": "Which of the following is associated with \"Organisms Reproducing by Asexual Spores\" in NEET Biology?",
       "options": [
-        "Date of collection",
-        "Name of collector",
-        "Height of the plant",
-        "Botanical name of specimen"
+        "FA",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Height of the plant is not recorded on the herbarium label. Date, place, common names, botanical name, family, and collector are included."
+      "answerIndex": 0,
+      "explanation": "Primary plant/fungal groups producing millions of asexual reproductive spores. Chapter 1: The Living World (30 Mnemonics) \tPage 1"
     }
   },
   {
@@ -466,67 +401,59 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-2",
-    "topicTitle": "Taxonomical Aids",
-    "topic": "Famous Botanical Gardens Locations",
+    "classLevel": 11,
+    "topicId": "bio-top-1-1",
+    "topicTitle": "Organisms Reproducing by Budding",
+    "topic": "Organisms Reproducing by Budding",
     "mnemonicNumber": 7,
-    "title": "Famous Botanical Gardens: \"K-E, I-H, N-L\" (Kew-Eng, Howrah-Ind, NBRI-Lucknow)",
-    "badgeText": "Classification",
-    "importance": "Medium",
+    "title": "Organisms Reproducing by Budding: \"HY\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "classification",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Royal Kew in England | Indian BG in Howrah | NBRI in Lucknow",
-    "memoryHook": "K-E, I-H, N-L: King Edward, In India Howrah, National Botanical Research in Lucknow!",
-    "expandedMeaning": "Royal Botanical Gardens at Kew (England) - largest; Indian Botanical Garden at Howrah (Kolkata, India) - famous for Great Banyan Tree; National Botanical Research Institute (NBRI) at Lucknow (India).",
-    "fact": "Botanical gardens have collections of living plants grown for identification, education, and ex-situ conservation. Each plant is labeled with its botanical/scientific name and its family.",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "HY",
+    "memoryHook": "HY",
+    "fact": "H – Hydra. Y – Yeast",
     "breakdown": [
       {
-        "key": "Kew",
-        "label": "Royal Botanical Gardens, Kew (England)"
+        "key": "H",
+        "label": "Hydra"
       },
       {
-        "key": "Howrah",
-        "label": "Indian Botanical Garden, Howrah (India) - Great Banyan Tree"
-      },
-      {
-        "key": "NBRI",
-        "label": "National Botanical Research Institute, Lucknow (India)"
+        "key": "Y",
+        "label": "Yeast"
       }
     ],
-    "doodleBadge": "Kew (Eng) | Howrah (Ind) | NBRI (Lko)",
-    "doodleSubtext": "Famous Gardens",
-    "explanation": "Living plants in botanical gardens are tagged with botanical name and family for taxonomic reference.",
-    "whyItWorks": "Pairs the 3 explicit garden locations listed in NCERT.",
-    "alsoRemember": "Botanical gardens are ex-situ (off-site) conservation methods.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.4.2",
-    "neetTrap": "Confusing CDRI (Central Drug Research Institute - Lucknow) with NBRI (both are in Lucknow!).",
-    "commonMistake": "Placing Indian Botanical Garden in New Delhi instead of Howrah (Kolkata).",
+    "doodleBadge": "HY",
+    "doodleSubtext": "Organisms Reproducing by",
+    "explanation": "Classic biological organisms exhibiting asexual reproduction via daughter bud formation.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Organisms Reproducing by Budding.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.99",
     "tags": [
-      "Botanical Garden",
-      "Kew",
-      "Howrah",
-      "NBRI",
-      "Ex-situ"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Organisms"
     ],
-    "visualDescription": "A world map pin pointing to Kew (England), Howrah (Kolkata), and Lucknow.",
-    "neetRelevance": "NCERT direct factual recall in match-the-pair questions.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.4.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 99,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Where is the National Botanical Research Institute (NBRI) located?",
+      "question": "Which of the following is associated with \"Organisms Reproducing by Budding\" in NEET Biology?",
       "options": [
-        "Kolkata",
-        "Howrah",
-        "Lucknow",
-        "Dehradun"
+        "HY",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "NBRI is located in Lucknow, Uttar Pradesh, India."
+      "answerIndex": 0,
+      "explanation": "Classic biological organisms exhibiting asexual reproduction via daughter bud formation."
     }
   },
   {
@@ -535,71 +462,63 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-2",
-    "topicTitle": "Taxonomical Aids",
-    "topic": "Taxonomic Key Terminology",
+    "classLevel": 11,
+    "topicId": "bio-top-1-1",
+    "topicTitle": "Organisms Reproducing by Fragmentation",
+    "topic": "Organisms Reproducing by Fragmentation",
     "mnemonicNumber": 8,
-    "title": "Taxonomic Key: \"Couplet is Pair, Lead is Line, Keys are Analytical\"",
-    "badgeText": "Concept Rule",
+    "title": "Organisms Reproducing by Fragmentation: \"FFP\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Couple = Pair of choices (Couplet) | Each line = Lead | Nature = Analytical",
-    "memoryHook": "A couple is a pair of contrasting characters (Couplet). Each individual statement leads you forward (Lead). Keys are always analytical!",
-    "expandedMeaning": "Keys are based on contrasting characters in a pair called a couplet. It represents choice made between two opposite options. Each statement in the key is called a lead. Separate taxonomic keys are required for each taxonomic category.",
-    "fact": "Taxonomic keys are analytical in nature and use dichotomous branching (accepting one choice and rejecting the other).",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "FFP",
+    "memoryHook": "FFP",
+    "fact": "F – Filamentous algae. F – Fungi. P – Protonema of mosses",
     "breakdown": [
       {
-        "key": "Couplet",
-        "label": "The pair of contrasting characters in a key"
+        "key": "F",
+        "label": "Filamentous algae"
       },
       {
-        "key": "Lead",
-        "label": "Each individual statement in the key"
+        "key": "F",
+        "label": "Fungi"
       },
       {
-        "key": "Analytical",
-        "label": "Nature of keys: they analyze differences step-by-step"
-      },
-      {
-        "key": "Specificity",
-        "label": "Separate keys are required for each taxonomic rank (family, genus, species)"
+        "key": "P",
+        "label": "Protonema of mosses"
       }
     ],
-    "doodleBadge": "Pair = Couplet | Statement = Lead",
-    "doodleSubtext": "Key Terminology",
-    "explanation": "Keys are used for identification of plants and animals based on similarities and dissimilarities.",
-    "whyItWorks": "Word association: \"Couple\" = two = couplet; \"Lead\" = leads to decision.",
-    "alsoRemember": "Separate taxonomic keys are required for each taxonomic category like family, genus, and species.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.4.4",
-    "neetTrap": "Questions calling a single statement a couplet. A single statement is a LEAD; the pair is a COUPLET.",
-    "commonMistake": "Describing keys as synthetic rather than analytical.",
+    "doodleBadge": "FFP",
+    "doodleSubtext": "Organisms Reproducing by",
+    "explanation": "Organisms that multiply by breaking into distinct fragments, each growing into a thallus.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Organisms Reproducing by Fragmentation.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.99",
     "tags": [
-      "Taxonomic Key",
-      "Couplet",
-      "Lead",
-      "Analytical",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Organisms"
     ],
-    "visualDescription": "A key unlocking a door with two paths labeled Choice A and Choice B.",
-    "neetRelevance": "High-frequency question in NEET regarding definitions of Couplet and Lead.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.4.4"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 99,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In a taxonomic key, each individual statement is known as a:",
+      "question": "Which of the following is associated with \"Organisms Reproducing by Fragmentation\" in NEET Biology?",
       "options": [
-        "Couplet",
-        "Lead",
-        "Monograph",
-        "Manual"
+        "Filamentous algae",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Each single statement in a taxonomic key is called a Lead; the pair of contrasting statements is a Couplet."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Filamentous algae\". Remember using: \"FFP\"."
     }
   },
   {
@@ -608,71 +527,55 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-2",
-    "topicTitle": "Taxonomical Aids",
-    "topic": "Flora vs Manual vs Monograph",
+    "classLevel": 11,
+    "topicId": "bio-top-1-1",
+    "topicTitle": "Organism Showing True Regeneration",
+    "topic": "Organism Showing True Regeneration",
     "mnemonicNumber": 9,
-    "title": "Taxonomic Literature: \"Flora = Habitat, Manual = Identification, Mono = ONE Taxon\"",
-    "badgeText": "Comparison",
-    "importance": "High Yield",
+    "title": "Organism Showing True Regeneration: \"Planaria\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "comparison",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Flora = Area plants & habitat | Manuals = Identifying species in an area | Monograph = Single taxon information",
-    "memoryHook": "Flora gives the index of plants in an area. Manual gives how-to identify them. Mono means ONE: Monograph treats exactly one taxon!",
-    "expandedMeaning": "Flora contains the actual account of habitat and distribution of plants of a given area. Manuals provide information for identification of names of species found in an area. Monographs contain information on any ONE taxon.",
-    "fact": "A monograph on Pinus contains complete taxonomic information on the genus Pinus alone, whereas a flora covers all plant species in a geographic area.",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Planaria",
+    "memoryHook": "Planaria",
+    "fact": "P – Planaria (Flatworm)",
     "breakdown": [
       {
-        "key": "Flora",
-        "label": "Actual account of habitat and distribution of plants in a given area"
-      },
-      {
-        "key": "Manual",
-        "label": "Useful in providing info for identification of names of species in an area"
-      },
-      {
-        "key": "Monograph",
-        "label": "Contains information on ANY ONE taxon (Mono = One)"
-      },
-      {
-        "key": "Catalogue",
-        "label": "Alphabetical register/listing of books and specimens"
+        "key": "P",
+        "label": "Planaria (Flatworm)"
       }
     ],
-    "doodleBadge": "Mono = 1 Taxon | Flora = Area Index",
-    "doodleSubtext": "Taxonomic Literature",
-    "explanation": "These four publications are complementary recording aids used for taxonomic reference and identification.",
-    "whyItWorks": "Directly hooks \"Mono\" to \"One taxon\", which solves 90% of NEET questions on this subtopic.",
-    "alsoRemember": "Flora gives an index to the plant species found in a particular area.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.4",
-    "neetTrap": "Questions asking for publication covering \"any one taxon\" - immediately pick Monograph!",
-    "commonMistake": "Confusing Manuals with Flora; Manuals are identification keys, Flora is an account of distribution and habitat.",
+    "doodleBadge": "Planaria",
+    "doodleSubtext": "Organism Showing True Re",
+    "explanation": "A fragmented organism that regenerates the lost body part and develops into a full entity.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Organism Showing True Regeneration.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.99",
     "tags": [
-      "Flora",
-      "Manual",
-      "Monograph",
-      "Catalogue",
-      "Taxonomy"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Organism"
     ],
-    "visualDescription": "Three book covers: Flora (map of region), Manual (ID magnifying glass), Monograph (number 1 on single taxon).",
-    "neetRelevance": "NEET 2020, 2016 asked definitions of Monograph vs Manual.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.4"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 99,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which taxonomic publication contains comprehensive information on only one taxon?",
+      "question": "Which of the following is associated with \"Organism Showing True Regeneration\" in NEET Biology?",
       "options": [
-        "Flora",
-        "Manual",
-        "Monograph",
-        "Catalogue"
+        "Planaria",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "A monograph contains comprehensive information on any one taxon."
+      "answerIndex": 0,
+      "explanation": "A fragmented organism that regenerates the lost body part and develops into a full entity."
     }
   },
   {
@@ -681,70 +584,63 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
+    "classLevel": 11,
     "topicId": "bio-top-1-1",
-    "topicTitle": "Taxonomic Categories",
-    "topic": "Common Characteristics Gradient",
+    "topicTitle": "Organisms Where Growth and Reproduction are Synonymous",
+    "topic": "Organisms Where Growth and Reproduction are Synonymous",
     "mnemonicNumber": 10,
-    "title": "Hierarchy Gradient: \"Going UP = Similarities Down | Going DOWN = Similarities UP\"",
-    "badgeText": "Concept Rule",
+    "title": "Organisms Where Growth and Reproduction are Synonymous: \"BUA\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Down to Species → Maximum Similarity | Up to Kingdom → Maximum Diversity",
-    "memoryHook": "Down the ladder brings you closer (more common traits). Up the ladder spreads you wider (more diversity, harder to determine relationships)!",
-    "expandedMeaning": "Lower the category, more are the characteristics that the members within the taxon share. Higher the category, greater is the difficulty of determining the relationship to other taxa at the same level.",
-    "fact": "Species has maximum shared traits and minimum individuals. Kingdom has maximum individuals and minimum shared traits.",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "BUA",
+    "memoryHook": "BUA",
+    "fact": "B – Bacteria. U – Unicellular algae. A – Amoeba",
     "breakdown": [
       {
-        "key": "Species (Lowest)",
-        "label": "Maximum common traits, closely related group of individuals"
+        "key": "B",
+        "label": "Bacteria"
       },
       {
-        "key": "Ascending order",
-        "label": "Number of common characteristics DECREASES"
+        "key": "U",
+        "label": "Unicellular algae"
       },
       {
-        "key": "Kingdom (Highest)",
-        "label": "Minimum common traits, maximum diversity and organisms"
-      },
-      {
-        "key": "Classification difficulty",
-        "label": "Increases as you ascend to higher categories"
+        "key": "A",
+        "label": "Amoeba"
       }
     ],
-    "doodleBadge": "Species: High Similarity | Kingdom: High Diversity",
-    "doodleSubtext": "Taxonomic Gradient",
-    "explanation": "As we go higher from species to kingdom, the number of common characteristics goes on decreasing.",
-    "whyItWorks": "Simple vertical directional arrow visualizes the inverse relationship.",
-    "alsoRemember": "Ascending means Species → Kingdom; Descending means Kingdom → Species.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.3",
-    "neetTrap": "Checking whether the question states \"ascending\" (going up) or \"descending\" (going down).",
-    "commonMistake": "Thinking kingdom has more common traits because it is larger.",
+    "doodleBadge": "BUA",
+    "doodleSubtext": "Organisms Where Growth a",
+    "explanation": "Single-celled organisms where cell division automatically results in population increase.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Organisms Where Growth and Reproduction are Synonymous.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.99",
     "tags": [
-      "Hierarchy",
-      "Species",
-      "Kingdom",
-      "Taxonomy"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Organisms"
     ],
-    "visualDescription": "An inverted triangle showing maximum shared traits at the pointy bottom (species) and broad top (kingdom).",
-    "neetRelevance": "Tested in NEET 2021 and 2013 on ascending vs descending property variation.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.3"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 99,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "As we go from species to kingdom in a taxonomic hierarchy, the number of common characteristics:",
+      "question": "Which of the following is associated with \"Organisms Where Growth and Reproduction are Synonymous\" in NEET Biology?",
       "options": [
-        "Increases",
-        "Decreases",
-        "Remains the same",
-        "First increases then decreases"
+        "Bacteria",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "As you move upwards from species to kingdom, the number of common characteristics decreases."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Bacteria\". Remember using: \"BUA\"."
     }
   },
   {
@@ -753,71 +649,83 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-1",
-    "topicTitle": "Species and Genus",
-    "topic": "Solanum Genus Polytypic Species",
+    "classLevel": 11,
+    "topicId": "bio-top-1-2",
+    "topicTitle": "Taxonomic Hierarchy Ranks in Descending Order",
+    "topic": "Taxonomic Hierarchy Ranks in Descending Order",
     "mnemonicNumber": 11,
-    "title": "Solanum Species Trio: \"T-N-M: Tuberosum, Nigrum, Melongena\"",
-    "badgeText": "Memory Trick",
+    "title": "Taxonomic Hierarchy Ranks in Descending Order: \"Dear King Philip Came Over For Good Soup\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "classification",
-    "cardColor": "#FFFDF7",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Solanum makes TNM: Tuberosum (Potato), Nigrum (Makoi), Melongena (Brinjal)",
-    "memoryHook": "The genus Solanum feeds you: Tubers of Potato (tuberosum), Night berries of Makoi (nigrum), and Meal of Brinjal (melongena)!",
-    "expandedMeaning": "Solanum is a polytypic genus containing multiple distinct species: Solanum tuberosum (potato), Solanum nigrum (makoi / black nightshade), and Solanum melongena (brinjal/eggplant).",
-    "fact": "A genus can include one (monotypic) or more than one (polytypic) specific epithets representing different organisms with shared morphological features.",
+    "mnemonic": "Dear King Philip Came Over For Good Soup",
+    "memoryHook": "Dear King Philip Came Over For Good Soup",
+    "fact": "D – Domain. K – Kingdom. P – Phylum / Division. C – Class. O – Order. F – Family. G – Genus. S – Species",
     "breakdown": [
       {
-        "key": "Solanum tuberosum",
-        "label": "Potato (stem tuber)"
+        "key": "D",
+        "label": "Domain"
       },
       {
-        "key": "Solanum nigrum",
-        "label": "Makoi (herbaceous nightshade)"
+        "key": "K",
+        "label": "Kingdom"
       },
       {
-        "key": "Solanum melongena",
-        "label": "Brinjal / Eggplant (fruit vegetable)"
+        "key": "P",
+        "label": "Phylum / Division"
       },
       {
-        "key": "Shared Genus",
-        "label": "All belong to Genus Solanum, Family Solanaceae"
+        "key": "C",
+        "label": "Class"
+      },
+      {
+        "key": "O",
+        "label": "Order"
+      },
+      {
+        "key": "F",
+        "label": "Family"
+      },
+      {
+        "key": "G",
+        "label": "Genus"
+      },
+      {
+        "key": "S",
+        "label": "Species"
       }
     ],
-    "doodleBadge": "Solanum: Potato, Makoi, Brinjal",
-    "doodleSubtext": "Polytypic Genus",
-    "explanation": "Genus comprises a group of related species which has more characters in common in comparison to species of other genera.",
-    "whyItWorks": "TNM links potato, makoi, and brinjal under one single genus.",
-    "alsoRemember": "Leo, pardus, and tigris all belong to the genus Panthera.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.3.2",
-    "neetTrap": "Brinjal and potato belong to the SAME genus (Solanum) but DIFFERENT species.",
-    "commonMistake": "Placing tomato (Lycopersicon/Solanum lycopersicum) and potato into different families (both are Solanaceae).",
+    "doodleBadge": "Dear King Philip Came Ov",
+    "doodleSubtext": "Taxonomic Hierarchy Rank",
+    "explanation": "Standard sequential arrangement of taxonomic categories from highest rank to lowest rank.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Taxonomic Hierarchy Ranks in Descending Order.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.99",
     "tags": [
-      "Solanum",
-      "Tuberosum",
-      "Melongena",
-      "Nigrum",
-      "Genus"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Taxonomic"
     ],
-    "visualDescription": "A single tree trunk labeled Solanum branching into a potato, a purple brinjal, and black makoi berries.",
-    "neetRelevance": "NCERT example of polytypic genus frequently cited in taxonomic hierarchy questions.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.3.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 99,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Potato (Solanum tuberosum) and Brinjal (Solanum melongena) belong to the same:",
+      "question": "Which of the following is associated with \"Taxonomic Hierarchy Ranks in Descending Order\" in NEET Biology?",
       "options": [
-        "Species",
-        "Genus",
-        "Order but different Family",
-        "Class but different Order"
+        "Domain",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Potato and Brinjal share the same genus (Solanum) but represent two distinct species."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Domain\". Remember using: \"Dear King Philip Came Over For Good Soup\"."
     }
   },
   {
@@ -826,75 +734,83 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-1",
-    "topicTitle": "Family Felidae",
-    "topic": "Panthera vs Felis in Felidae",
+    "classLevel": 11,
+    "topicId": "bio-top-1-2",
+    "topicTitle": "Taxonomic Hierarchy Ranks in Ascending Order",
+    "topic": "Taxonomic Hierarchy Ranks in Ascending Order",
     "mnemonicNumber": 12,
-    "title": "Cat Family: \"Panthera (Roar) + Felis (Purr) = Felidae\"",
-    "badgeText": "Comparison",
-    "importance": "Medium",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Big Roaring Cats = Panthera | Small House Cats = Felis | Both meet in Family = Felidae",
-    "memoryHook": "Lion (leo), Leopard (pardus), and Tiger (tigris) are Panthera. Domestic cats are Felis. Together they make Family Felidae!",
-    "expandedMeaning": "Genera Panthera (lion, tiger, leopard) and Felis (domestic cats) are grouped into the family Felidae based on common morphological traits like retractable claws.",
-    "fact": "Felidae (cats) and Canidae (dogs) are two different families placed together in the single mammalian order Carnivora.",
+    "title": "Taxonomic Hierarchy Ranks in Ascending Order: \"So Good Food Ordering Can Prevent Kidney Damage\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "So Good Food Ordering Can Prevent Kidney Damage",
+    "memoryHook": "So Good Food Ordering Can Prevent Kidney Damage",
+    "fact": "S – Species. G – Genus. F – Family. O – Order. C – Class. P – Phylum / Division. K – Kingdom. D – Domain",
     "breakdown": [
       {
-        "key": "Panthera leo",
-        "label": "Lion"
+        "key": "S",
+        "label": "Species"
       },
       {
-        "key": "Panthera tigris",
-        "label": "Tiger"
+        "key": "G",
+        "label": "Genus"
       },
       {
-        "key": "Panthera pardus",
-        "label": "Leopard"
+        "key": "F",
+        "label": "Family"
       },
       {
-        "key": "Felis catus",
-        "label": "Domestic cat"
+        "key": "O",
+        "label": "Order"
       },
       {
-        "key": "Family",
-        "label": "Felidae (Carnivora order)"
+        "key": "C",
+        "label": "Class"
+      },
+      {
+        "key": "P",
+        "label": "Phylum / Division"
+      },
+      {
+        "key": "K",
+        "label": "Kingdom"
+      },
+      {
+        "key": "D",
+        "label": "Domain"
       }
     ],
-    "doodleBadge": "Panthera + Felis = Felidae",
-    "doodleSubtext": "Felidae Genera",
-    "explanation": "Families have rather less number of similarities as compared to genus and species. Plant family example: Solanaceae includes Solanum, Petunia, and Datura.",
-    "whyItWorks": "Pairs the big cats and domestic cats into the family Felidae.",
-    "alsoRemember": "Dogs belong to family Canidae; cats belong to family Felidae. Both share order Carnivora.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.3.3",
-    "neetTrap": "Believing dog and cat belong to the same family. They belong to DIFFERENT families (Canidae vs Felidae) but the SAME order (Carnivora).",
-    "commonMistake": "Classifying Panthera into family Canidae.",
+    "doodleBadge": "So Good Food Ordering Ca",
+    "doodleSubtext": "Taxonomic Hierarchy Rank",
+    "explanation": "Bottom-to-top hierarchy sequence often asked in NEET ascending order questions. Chapter 1: The Living World (30 Mnemonics) \tPage 2",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Taxonomic Hierarchy Ranks in Ascending Order.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.99",
     "tags": [
-      "Felidae",
-      "Panthera",
-      "Felis",
-      "Carnivora",
-      "Family"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Taxonomic"
     ],
-    "visualDescription": "A tiger and a house cat sitting together under a banner labeled Family Felidae.",
-    "neetRelevance": "NEET questions testing hierarchy of Carnivora, Felidae, and Canidae.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.3.3"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 99,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following taxonomic groupings correctly unites cats (Felidae) and dogs (Canidae)?",
+      "question": "Which of the following is associated with \"Taxonomic Hierarchy Ranks in Ascending Order\" in NEET Biology?",
       "options": [
-        "Same genus",
-        "Same family",
-        "Same order (Carnivora)",
-        "Same species"
+        "Species",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Felidae (cats) and Canidae (dogs) are different families united under the common Order Carnivora."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Species\". Remember using: \"So Good Food Ordering Can Prevent Kidney Damage\"."
     }
   },
   {
@@ -903,66 +819,67 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-1",
-    "topicTitle": "Taxonomy vs Systematics",
-    "topic": "Systematics and Systema Naturae",
+    "classLevel": 11,
+    "topicId": "bio-top-1-2",
+    "topicTitle": "International Naming Codes in Taxonomy",
+    "topic": "International Naming Codes in Taxonomy",
     "mnemonicNumber": 13,
-    "title": "Systematics: \"Systema = Systematic Order + Evolutionary History\"",
-    "badgeText": "Concept Rule",
+    "title": "International Naming Codes in Taxonomy: \"ICBN ICZN ICNB ICNCP\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Systematics = Taxonomy + Evolutionary (Phylogenetic) Relationships",
-    "memoryHook": "Systematics comes from Latin word \"systema\" meaning systematic arrangement. Unlike basic taxonomy, systematics takes EVOLUTION into account!",
-    "expandedMeaning": "The word systematics is derived from the Latin word \"systema\" which means systematic arrangement of organisms. Linnaeus used Systema Naturae as the title of his publication. Systematics includes identification, nomenclature, classification, AND evolutionary relationships.",
-    "fact": "Taxonomy + Phylogeny = Systematics. Modern taxonomic studies must include internal structure, cell structure, developmental processes, and ecological information.",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "ICBN ICZN ICNB ICNCP",
+    "memoryHook": "ICBN ICZN ICNB ICNCP",
+    "fact": "ICBN – International Code for Botanical Nomenclature. ICZN – International Code of Zoological Nomenclature. ICNB – International Code for Nomenclature of Bacteria. ICNCP – International Code for Nomenclature of Cultivated Plants",
     "breakdown": [
       {
-        "key": "Latin \"systema\"",
-        "label": "Systematic arrangement of organisms"
+        "key": "ICBN",
+        "label": "International Code for Botanical Nomenclature"
       },
       {
-        "key": "Linnaeus book",
-        "label": "Systema Naturae"
+        "key": "ICZN",
+        "label": "International Code of Zoological Nomenclature"
       },
       {
-        "key": "Scope of systematics",
-        "label": "Identification + Nomenclature + Classification + Evolutionary relationships"
+        "key": "ICNB",
+        "label": "International Code for Nomenclature of Bacteria"
+      },
+      {
+        "key": "ICNCP",
+        "label": "International Code for Nomenclature of Cultivated Plants"
       }
     ],
-    "doodleBadge": "Systematics = Taxonomy + Phylogeny",
-    "doodleSubtext": "Systema Concept",
-    "explanation": "Early classification was based on \"uses\" of organisms (food, clothing, shelter). Modern systematics includes phylogenetic relationships.",
-    "whyItWorks": "Equations: Taxonomy + Phylogeny = Systematics.",
-    "alsoRemember": "The earliest classifications were based on the \"uses\" of various organisms for basic human needs.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.2",
-    "neetTrap": "Is evolutionary relationship part of basic alpha taxonomy? No, it was added as systematics expanded.",
-    "commonMistake": "Confusing Systema Naturae (Linnaeus) with Genera Plantarum (Bentham & Hooker).",
+    "doodleBadge": "ICBN ICZN ICNB ICNCP",
+    "doodleSubtext": "International Naming Cod",
+    "explanation": "Recognized scientific bodies establishing rules for biological naming across organisms.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in International Naming Codes in Taxonomy.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.100",
     "tags": [
-      "Systematics",
-      "Systema Naturae",
-      "Phylogeny",
-      "Linnaeus"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "International"
     ],
-    "visualDescription": "A timeline showing Linnaeus holding a book titled Systema Naturae connected to a phylogenetic evolutionary tree.",
-    "neetRelevance": "Direct question in NEET 2016 on derivation and meaning of systematics.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 100,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The word \"Systematics\" is derived from the Latin word \"systema\", which literally means:",
+      "question": "Which of the following is associated with \"International Naming Codes in Taxonomy\" in NEET Biology?",
       "options": [
-        "Evolutionary diversity",
-        "Systematic arrangement of organisms",
-        "Identification of living forms",
-        "Nomenclature of species"
+        "International Code for Botanical Nomenclature",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Systematics comes from the Latin word \"systema\", meaning systematic arrangement of organisms."
+      "answerIndex": 0,
+      "explanation": "Correct: \"International Code for Botanical Nomenclature\". Remember using: \"ICBN ICZN ICNB ICNCP\"."
     }
   },
   {
@@ -971,67 +888,67 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-1",
-    "topicTitle": "Nomenclature Codes",
-    "topic": "ICBN vs ICZN Full Forms",
+    "classLevel": 11,
+    "topicId": "bio-top-1-2",
+    "topicTitle": "Rules of Binomial Nomenclature",
+    "topic": "Rules of Binomial Nomenclature",
     "mnemonicNumber": 14,
-    "title": "Nomenclature Codes: \"Code OF Botanical, NOT Code FOR\"",
-    "badgeText": "Must Know",
-    "importance": "Must Know",
+    "title": "Rules of Binomial Nomenclature: \"LGEI\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "ICBN = International Code OF Botanical Nomenclature (NOT \"for\"!) | ICZN = International Code OF Zoological Nomenclature",
-    "memoryHook": "Remember the preposition: Code OF Botanical Nomenclature, not \"for\"! NEET options always set the trap with \"Code for Botanical Nomenclature\".",
-    "expandedMeaning": "ICBN: International Code of Botanical Nomenclature; ICZN: International Code of Zoological Nomenclature. These provide criteria to ensure each organism has only one internationally recognized name.",
-    "fact": "Tautonyms (where genus and species names are identical, e.g. Naja naja, Rattus rattus) are valid in ICZN (animals) but strictly FORBIDDEN in ICBN (plants).",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "LGEI",
+    "memoryHook": "LGEI",
+    "fact": "L – Latin language origin. G – Genus name first (Capitalized). E – Epithet (Species name second, lowercase). I – Italics when printed (Underlined when handwritten)",
     "breakdown": [
       {
-        "key": "ICBN",
-        "label": "International Code OF Botanical Nomenclature"
+        "key": "L",
+        "label": "Latin language origin"
       },
       {
-        "key": "ICZN",
-        "label": "International Code OF Zoological Nomenclature"
+        "key": "G",
+        "label": "Genus name first (Capitalized)"
       },
       {
-        "key": "Tautonym Rule",
-        "label": "Allowed in animals (Naja naja), NOT allowed in plants (no Malus malus)"
+        "key": "E",
+        "label": "Epithet (Species name second, lowercase)"
+      },
+      {
+        "key": "I",
+        "label": "Italics when printed (Underlined when handwritten)"
       }
     ],
-    "doodleBadge": "Code OF (not \"for\")",
-    "doodleSubtext": "ICBN vs ICZN",
-    "explanation": "Scientific names ensure that each organism has only one name and description of any organism enables people anywhere to arrive at the same name.",
-    "whyItWorks": "Highlighting the preposition \"OF\" vs \"FOR\" directly defuses a famous multiple-choice trick.",
-    "alsoRemember": "Tautonyms are valid only in zoological nomenclature.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.2",
-    "neetTrap": "Selecting \"International Code for Botanical Nomenclature\" instead of \"International Code of Botanical Nomenclature\".",
-    "commonMistake": "Accepting tautonyms like Malus malus in plants.",
+    "doodleBadge": "LGEI",
+    "doodleSubtext": "Rules of Binomial Nomenc",
+    "explanation": "Universal rules formulated by Carolus Linnaeus for naming all biological species.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Rules of Binomial Nomenclature.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.100",
     "tags": [
-      "ICBN",
-      "ICZN",
-      "Tautonym",
-      "Nomenclature",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Rules"
     ],
-    "visualDescription": "A gavel striking a law book labeled International Code OF Botanical Nomenclature with the word \"OF\" circled in green.",
-    "neetRelevance": "Multiple past NEET/AIPMT questions on the exact expansion of ICBN.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 100,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What is the correct full form of ICBN according to NCERT?",
+      "question": "Which of the following is associated with \"Rules of Binomial Nomenclature\" in NEET Biology?",
       "options": [
-        "International Code for Botanical Nomenclature",
-        "International Code of Botanical Nomenclature",
-        "Indian Code of Botanical Nomenclature",
-        "International Council of Botanical Nomenclature"
+        "Latin language origin",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "ICBN stands for International Code of Botanical Nomenclature (using \"of\", not \"for\")."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Latin language origin\". Remember using: \"LGEI\"."
     }
   },
   {
@@ -1040,70 +957,67 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
+    "classLevel": 11,
     "topicId": "bio-top-1-2",
-    "topicTitle": "Taxonomical Aids",
-    "topic": "Museum Preservation Techniques",
+    "topicTitle": "Taxonomic Categories of Human (Homo sapiens)",
+    "topic": "Taxonomic Categories of Human (Homo sapiens)",
     "mnemonicNumber": 15,
-    "title": "Museum Preservation: \"Pins for Insects, Jars for Small, Stuffed for Birds\"",
-    "badgeText": "Memory Trick",
-    "importance": "Medium",
-    "difficulty": "easy",
+    "title": "Taxonomic Categories of Human (Homo sapiens): \"Hominidae Primata Mammalia Chordata\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
     "visualType": "sequence",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Insects: Collect → Kill → Pin (CKP) | Large animals: Stuffed & Preserved | Jars: Formalin Preservative Solution",
-    "memoryHook": "Insects get CKP: Collected, Killed, and Pinned in insect boxes. Large animals like birds and mammals are STUFFED. Specimens in jars sit in preservative solution!",
-    "expandedMeaning": "Biological museums are generally set up in educational institutes. Specimens are preserved in containers/jars in preservative solutions (formalin). Insects are collected, killed, and pinned. Larger animals are stuffed and preserved.",
-    "fact": "Museums also maintain collections of animal skeletons (which herbariums and zoological parks do not).",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Hominidae Primata Mammalia Chordata",
+    "memoryHook": "Hominidae Primata Mammalia Chordata",
+    "fact": "H – Hominidae (Family). P – Primata (Order). M – Mammalia (Class). C – Chordata (Phylum)",
     "breakdown": [
       {
-        "key": "Insects",
-        "label": "Collected, killed, and pinned in insect boxes"
+        "key": "H",
+        "label": "Hominidae (Family)"
       },
       {
-        "key": "Jars & Containers",
-        "label": "Preserved in preservative solutions (e.g. formalin)"
+        "key": "P",
+        "label": "Primata (Order)"
       },
       {
-        "key": "Birds & Mammals",
-        "label": "Stuffed and preserved (taxidermy)"
+        "key": "M",
+        "label": "Mammalia (Class)"
       },
       {
-        "key": "Skeletons",
-        "label": "Museums preserve animal skeletons"
+        "key": "C",
+        "label": "Chordata (Phylum)"
       }
     ],
-    "doodleBadge": "CKP: Collect, Kill, Pin",
-    "doodleSubtext": "Museum Preservation",
-    "explanation": "Museums have collections of preserved plant and animal specimens for study and reference.",
-    "whyItWorks": "CKP sequence is direct NCERT wording for insect preservation.",
-    "alsoRemember": "Plants can also be preserved as dry specimens in museums.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.4.3",
-    "neetTrap": "Believing museums only preserve animals. NCERT specifies museums have collections of preserved plant AND animal specimens.",
-    "commonMistake": "Reversing the sequence of insect preservation (pinning before killing).",
+    "doodleBadge": "Hominidae Primata Mammal",
+    "doodleSubtext": "Taxonomic Categories of ",
+    "explanation": "Taxonomic classification details of human beings according to NCERT Chapter 1 table.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Taxonomic Categories of Human (Homo sapiens).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.100",
     "tags": [
-      "Museum",
-      "Taxonomical Aids",
-      "Preservation",
-      "Insect Box"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Taxonomic"
     ],
-    "visualDescription": "An insect box showing the 3 steps: net (collect), jar (kill), pin into cork board (pin).",
-    "neetRelevance": "NCERT lines on insect boxes and specimen preservation frequently appear in True/False statements.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.4.3"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 100,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In a biological museum, how are insects typically preserved?",
+      "question": "Which of the following is associated with \"Taxonomic Categories of Human (Homo sapiens)\" in NEET Biology?",
       "options": [
-        "Dried and pressed on sheets",
-        "Stuffed with cotton",
-        "Collected, killed, and pinned in insect boxes",
-        "Immersed in boiling wax"
+        "Hominidae (Family)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Insects are preserved in insect boxes after collecting, killing, and pinning."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Hominidae (Family)\". Remember using: \"Hominidae Primata Mammalia Chordata\"."
     }
   },
   {
@@ -1112,70 +1026,67 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
+    "classLevel": 11,
     "topicId": "bio-top-1-2",
-    "topicTitle": "Taxonomical Aids",
-    "topic": "Zoological Parks Purpose",
+    "topicTitle": "Taxonomic Categories of Housefly (Musca domestica)",
+    "topic": "Taxonomic Categories of Housefly (Musca domestica)",
     "mnemonicNumber": 16,
-    "title": "Zoological Parks: \"Live Animals, Protected Care, Learn Food & Behavior\"",
-    "badgeText": "Concept Rule",
-    "importance": "Medium",
+    "title": "Taxonomic Categories of Housefly (Musca domestica): \"Muscidae Diptera Insecta Arthropoda\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "cardColor": "#EFFBF4",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Zoos = Protected Wild Animals + Human Care + Study Food Habits & Behavior",
-    "memoryHook": "Zoos keep wild animals alive in protected enclosures simulating natural habitats to learn their food habits and behavior!",
-    "expandedMeaning": "Zoological parks are places where wild animals are kept in protected environments under human care, enabling us to learn about their food habits and behavior. All animals in a zoo are provided conditions as similar to their natural habitats as possible.",
-    "fact": "Zoological parks represent ex-situ conservation where threatened animals are taken out of natural habitats and placed in human care.",
+    "mnemonic": "Muscidae Diptera Insecta Arthropoda",
+    "memoryHook": "Muscidae Diptera Insecta Arthropoda",
+    "fact": "M – Muscidae (Family). D – Diptera (Order). I – Insecta (Class). A – Arthropoda (Phylum)",
     "breakdown": [
       {
-        "key": "Living status",
-        "label": "Living wild animals (unlike dead museum specimens)"
+        "key": "M",
+        "label": "Muscidae (Family)"
       },
       {
-        "key": "Human care",
-        "label": "Protected environment simulating natural habitat"
+        "key": "D",
+        "label": "Diptera (Order)"
       },
       {
-        "key": "Educational goal",
-        "label": "Learn their food habits and social behavior"
+        "key": "I",
+        "label": "Insecta (Class)"
       },
       {
-        "key": "Conservation role",
-        "label": "Ex-situ conservation for endangered species"
+        "key": "A",
+        "label": "Arthropoda (Phylum)"
       }
     ],
-    "doodleBadge": "Zoo = Live Animals + Behavior Study",
-    "doodleSubtext": "Ex-situ Learning",
-    "explanation": "Children commonly call these places zoos. They differ from museums because specimens are ALIVE and dynamic.",
-    "whyItWorks": "Direct contrast: Museum = dead preserved specimens; Zoo = live wild animals under care.",
-    "alsoRemember": "Botanical gardens and Zoos are both ex-situ conservation methods.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.4.4",
-    "neetTrap": "Confusing in-situ (National Parks, Sanctuaries) with ex-situ (Zoos, Botanical Gardens).",
-    "commonMistake": "Labeling Zoological parks as in-situ conservation.",
+    "doodleBadge": "Muscidae Diptera Insecta",
+    "doodleSubtext": "Taxonomic Categories of ",
+    "explanation": "Complete classification hierarchy for the common housefly tested in NEET.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Taxonomic Categories of Housefly (Musca domestica).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.100",
     "tags": [
-      "Zoological Parks",
-      "Zoos",
-      "Ex-situ",
-      "Animal Behavior"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Taxonomic"
     ],
-    "visualDescription": "A deer eating grass inside a fenced sanctuary replicating its wild habitat.",
-    "neetRelevance": "Questions linking taxonomical aids with ecology conservation strategies.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.4.4"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 100,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is an explicit primary purpose of zoological parks stated in NCERT?",
+      "question": "Which of the following is associated with \"Taxonomic Categories of Housefly (Musca domestica)\" in NEET Biology?",
       "options": [
-        "To taxidermy rare species",
-        "To learn about food habits and behavior of wild animals",
-        "To dry and press specimens",
-        "To clone extinct species"
+        "Muscidae (Family)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Zoos allow biologists and students to learn about the food habits and behavior of wild animals in protected settings."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Muscidae (Family)\". Remember using: \"Muscidae Diptera Insecta Arthropoda\"."
     }
   },
   {
@@ -1184,71 +1095,67 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-1",
-    "topicTitle": "Order Polymoniales",
-    "topic": "Polymoniales Families",
+    "classLevel": 11,
+    "topicId": "bio-top-1-2",
+    "topicTitle": "Taxonomic Categories of Mango (Mangifera indica)",
+    "topic": "Taxonomic Categories of Mango (Mangifera indica)",
     "mnemonicNumber": 17,
-    "title": "Order Polymoniales: \"Solanaceae & Convolvulaceae in Floral Polymoniales\"",
-    "badgeText": "Classification",
+    "title": "Taxonomic Categories of Mango (Mangifera indica): \"Anacardiaceae Sapindales Dicotyledonae Angiospermae\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "classification",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Poly has Sweet Potatoes & Nightshades: Polymoniales includes Convolvulaceae + Solanaceae",
-    "memoryHook": "Poly married Convolvulaceae (morning glory/sweet potato) and Solanaceae (potato) based on their floral characters!",
-    "expandedMeaning": "Plant families like Convolvulaceae and Solanaceae are included in the order Polymoniales mainly based on floral characters. Plant orders are identified based on the aggregate of characters.",
-    "fact": "Order is a higher category with an assemblage of families exhibiting a few similar characters (mainly floral in plants).",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Anacardiaceae Sapindales Dicotyledonae Angiospermae",
+    "memoryHook": "Anacardiaceae Sapindales Dicotyledonae Angiospermae",
+    "fact": "A – Anacardiaceae (Family). S – Sapindales (Order). D – Dicotyledonae (Class). A – Angiospermae (Division)",
     "breakdown": [
       {
-        "key": "Order",
-        "label": "Polymoniales"
+        "key": "A",
+        "label": "Anacardiaceae (Family)"
       },
       {
-        "key": "Family 1",
-        "label": "Solanaceae (Potato, Tomato, Brinjal, Belladonna)"
+        "key": "S",
+        "label": "Sapindales (Order)"
       },
       {
-        "key": "Family 2",
-        "label": "Convolvulaceae (Morning Glory, Sweet Potato)"
+        "key": "D",
+        "label": "Dicotyledonae (Class)"
       },
       {
-        "key": "Basis",
-        "label": "Floral characters (floral aggregates)"
+        "key": "A",
+        "label": "Angiospermae (Division)"
       }
     ],
-    "doodleBadge": "Convolvulaceae + Solanaceae = Polymoniales",
-    "doodleSubtext": "Order Polymoniales",
-    "explanation": "Order Polymoniales unites these two families primarily through shared floral morphology.",
-    "whyItWorks": "Directly associates the two specific families grouped under Polymoniales in NCERT.",
-    "alsoRemember": "In animals, order Carnivora unites families Felidae and Canidae.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.3.4",
-    "neetTrap": "Questions asking whether vegetative or floral characters are primarily used for plant order placement. It is FLORAL characters.",
-    "commonMistake": "Grouping Liliaceae into Polymoniales (Liliaceae is a monocot family; Polymoniales is dicot).",
+    "doodleBadge": "Anacardiaceae Sapindales",
+    "doodleSubtext": "Taxonomic Categories of ",
+    "explanation": "NCERT reference taxonomic classification for Mango tree.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Taxonomic Categories of Mango (Mangifera indica).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.100",
     "tags": [
-      "Polymoniales",
-      "Solanaceae",
-      "Convolvulaceae",
-      "Order",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Taxonomic"
     ],
-    "visualDescription": "Two plant families (Solanaceae and Convolvulaceae) holding hands inside a circle labeled Order Polymoniales.",
-    "neetRelevance": "NEET 2020 asked which families are included in the order Polymoniales.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.3.4"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 100,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Plant families Convolvulaceae and Solanaceae are included in which order mainly based on floral characters?",
+      "question": "Which of the following is associated with \"Taxonomic Categories of Mango (Mangifera indica)\" in NEET Biology?",
       "options": [
-        "Sapindales",
-        "Polymoniales",
-        "Poales",
-        "Rosales"
+        "Anacardiaceae (Family)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Families Convolvulaceae and Solanaceae are grouped under order Polymoniales based on floral characters."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Anacardiaceae (Family)\". Remember using: \"Anacardiaceae Sapindales Dicotyledonae Angiospermae\"."
     }
   },
   {
@@ -1257,70 +1164,67 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-1",
-    "topicTitle": "Biodiversity Range",
-    "topic": "Known Species Range (1.7 to 1.8 Million)",
+    "classLevel": 11,
+    "topicId": "bio-top-1-2",
+    "topicTitle": "Taxonomic Categories of Wheat (Triticum aestivum)",
+    "topic": "Taxonomic Categories of Wheat (Triticum aestivum)",
     "mnemonicNumber": 18,
-    "title": "Known Species Range: \"1.7 to 1.8 Million Species Described\"",
-    "badgeText": "Formula Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "1.7 to 1.8 Million = Currently Known & Described Species on Earth",
-    "memoryHook": "Seventeen to Eighteen: 1.7 to 1.8 million species are named and scientifically described on Earth today!",
-    "expandedMeaning": "The number of species that are known and described ranges between 1.7-1.8 million. This refers to biodiversity, or the number and types of organisms present on Earth.",
-    "fact": "Do not confuse this with Robert May global estimate (7 million total species on Earth, described in Ecology Class 12). 1.7-1.8 million is the CURRENTLY DESCRIBED count.",
+    "title": "Taxonomic Categories of Wheat (Triticum aestivum): \"Poaceae Poales Monocotyledonae Angiospermae\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Poaceae Poales Monocotyledonae Angiospermae",
+    "memoryHook": "Poaceae Poales Monocotyledonae Angiospermae",
+    "fact": "P – Poaceae (Family). P – Poales (Order). M – Monocotyledonae (Class). A – Angiospermae (Division)",
     "breakdown": [
       {
-        "key": "1.7 - 1.8 Million",
-        "label": "Species currently known, named, and described (NCERT Class 11 Ch 1)"
+        "key": "P",
+        "label": "Poaceae (Family)"
       },
       {
-        "key": "7 Million",
-        "label": "Robert May estimate of total global species richness (NCERT Class 12 Ch 15)"
+        "key": "P",
+        "label": "Poales (Order)"
       },
       {
-        "key": ">70%",
-        "label": "Of all recorded species are animals"
+        "key": "M",
+        "label": "Monocotyledonae (Class)"
       },
       {
-        "key": "22%",
-        "label": "Of all recorded species are plants (including fungi)"
+        "key": "A",
+        "label": "Angiospermae (Division)"
       }
     ],
-    "doodleBadge": "1.7 - 1.8 Million Known",
-    "doodleSubtext": "Described Biodiversity",
-    "explanation": "Every time you explore new areas (and even old ones), new organisms are continuously being identified.",
-    "whyItWorks": "Clearly separates the Class 11 known count (1.7-1.8M) from the Class 12 Robert May estimate (7M).",
-    "alsoRemember": "Robert May estimate of 7 million is global total richness; 1.7 to 1.8 million is already cataloged.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.2",
-    "neetTrap": "Confusing 1.7-1.8 million (described) with 7 million (estimated total).",
-    "commonMistake": "Selecting 17-18 million or 1.7-1.8 lakh (beware of unit scale in options).",
+    "doodleBadge": "Poaceae Poales Monocotyl",
+    "doodleSubtext": "Taxonomic Categories of ",
+    "explanation": "Scientific hierarchy of wheat crop as per NCERT Chapter 1 data. Chapter 1: The Living World (30 Mnemonics) \tPage 3",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Taxonomic Categories of Wheat (Triticum aestivum).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.100",
     "tags": [
-      "Biodiversity",
-      "1.7 to 1.8 Million",
-      "Species Count",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Taxonomic"
     ],
-    "visualDescription": "A pie chart with a slice showing 1.7-1.8 million species cataloged in a library ledger.",
-    "neetRelevance": "Direct factual recall question tested repeatedly in NEET exams.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.2"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 100,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "According to NCERT Chapter 1, the number of species known and described on Earth ranges between:",
+      "question": "Which of the following is associated with \"Taxonomic Categories of Wheat (Triticum aestivum)\" in NEET Biology?",
       "options": [
-        "1.1 to 1.2 million",
-        "1.7 to 1.8 million",
-        "2.5 to 3.0 million",
-        "7.0 to 8.0 million"
+        "Poaceae (Family)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The number of currently known and described species ranges between 1.7 to 1.8 million."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Poaceae (Family)\". Remember using: \"Poaceae Poales Monocotyledonae Angiospermae\"."
     }
   },
   {
@@ -1329,70 +1233,55 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-1",
-    "topicTitle": "Characteristics of Living Organisms",
-    "topic": "Coma Patient and Consciousness",
+    "classLevel": 11,
+    "topicId": "bio-top-1-2",
+    "topicTitle": "Suffixes Used for Plant Families",
+    "topic": "Suffixes Used for Plant Families",
     "mnemonicNumber": 19,
-    "title": "Coma Patient Status: \"Brain-Dead Has No Self-Consciousness, But Still Living Cells\"",
-    "badgeText": "Exception Alert",
+    "title": "Suffixes Used for Plant Families: \"aceae\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "exception",
-    "cardColor": "#FFFDF7",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Coma patient = Lost Self-Consciousness | Cellular life persists via life-support machine",
-    "memoryHook": "A comatose patient lying in a hospital on life support has no self-consciousness, creating a philosophical boundary between living and non-living states!",
-    "expandedMeaning": "All organisms, from prokaryotes to complex eukaryotes, can sense and respond to environmental stimuli (consciousness). Human being is the only organism with SELF-consciousness. In a coma patient supported by machines replacing heart and lungs, brain-dead status lacks self-consciousness.",
-    "fact": "Underlying interactions among components determine biological properties: properties of tissues are NOT present in constituent cells, but arise as a result of interactions among the constituent cells.",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "aceae",
+    "memoryHook": "aceae",
+    "fact": "ACEAE – Suffix added to plant family names (e.g., Solanaceae, Poaceae)",
     "breakdown": [
       {
-        "key": "Consciousness",
-        "label": "Present in ALL living organisms without exception (defining feature)"
-      },
-      {
-        "key": "Self-Consciousness",
-        "label": "Restricted ONLY to humans (awareness of self)"
-      },
-      {
-        "key": "Coma Patient",
-        "label": "Brain-dead, lacks self-consciousness, kept alive by external machines"
-      },
-      {
-        "key": "Emergent Properties",
-        "label": "Properties of tissues arise from interactions among constituent cells"
+        "key": "ACEAE",
+        "label": "Suffix added to plant family names (e.g., Solanaceae, Poaceae)"
       }
     ],
-    "doodleBadge": "Consciousness vs Self-Consciousness",
-    "doodleSubtext": "Coma Brain-Dead State",
-    "explanation": "Living organisms are self-replicating, evolving and self-regulating interactive systems capable of responding to external stimuli.",
-    "whyItWorks": "Distinguishes broad environmental consciousness from uniquely human self-consciousness.",
-    "alsoRemember": "Properties of cellular organelles are not present in molecular constituents, but arise from molecular interactions.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.1",
-    "neetTrap": "Are plants conscious? YES! Photoperiod affects reproduction in seasonal breeders (both plants and animals).",
-    "commonMistake": "Claiming plants lack consciousness (they sense light, temperature, water, pollutants).",
+    "doodleBadge": "aceae",
+    "doodleSubtext": "Suffixes Used for Plant ",
+    "explanation": "Standardization of taxonomic plant family identification in botanical nomenclature.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Suffixes Used for Plant Families.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.101",
     "tags": [
-      "Consciousness",
-      "Self-Consciousness",
-      "Coma Patient",
-      "Emergent Properties"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Suffixes"
     ],
-    "visualDescription": "A brain with an inner glowing light representing self-consciousness and outer sensor rays representing environmental consciousness.",
-    "neetRelevance": "Tested as assertion-reason questions on self-consciousness vs consciousness.",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.1"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 101,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following statements about consciousness is correct according to NCERT?",
+      "question": "Which of the following is associated with \"Suffixes Used for Plant Families\" in NEET Biology?",
       "options": [
-        "Only animals possess consciousness; plants do not",
-        "Human beings are the only organisms that possess self-consciousness",
-        "Consciousness is a non-defining property of living organisms",
-        "Photoperiod has no influence on plant reproduction"
+        "aceae",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Humans are the only organisms with self-consciousness, while all organisms (including plants) possess general environmental consciousness."
+      "answerIndex": 0,
+      "explanation": "Standardization of taxonomic plant family identification in botanical nomenclature."
     }
   },
   {
@@ -1401,70 +1290,725 @@ export const bioCh01Mnemonics = [
     "chapterId": "bio-ch-01",
     "chapterNumber": 1,
     "chapterTitle": "The Living World",
-    "topicId": "bio-top-1-1",
-    "topicTitle": "Taxonomic Categories Summary",
-    "topic": "Ascending vs Descending Sequence",
+    "classLevel": 11,
+    "topicId": "bio-top-1-2",
+    "topicTitle": "Suffixes Used for Plant Orders",
+    "topic": "Suffixes Used for Plant Orders",
     "mnemonicNumber": 20,
-    "title": "Category Sequence: \"Species to Kingdom = Ascending | Kingdom to Species = Descending\"",
-    "badgeText": "Sequence Rule",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "sequence",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Ascending: Species → Genus → Family → Order → Class → Phylum → Kingdom",
-    "memoryHook": "Step UP to the Throne: Smallest Species climbs up to King! Step DOWN from the Throne: King climbs down to Species!",
-    "expandedMeaning": "Ascending arrangement starts at the base: Species → Genus → Family → Order → Class → Division/Phylum → Kingdom. Descending begins at the apex: Kingdom → Division/Phylum → Class → Order → Family → Genus → Species.",
-    "fact": "Taxon represents a taxonomic group of ANY rank (e.g. Insecta is a taxon, Arthropoda is a taxon, Mammalia is a taxon). Category represents the rank itself (e.g., Class, Phylum).",
+    "title": "Suffixes Used for Plant Orders: \"ales\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "ales",
+    "memoryHook": "ales",
+    "fact": "ALES – Suffix added to plant order names (e.g., Sapindales, Poales)",
     "breakdown": [
       {
-        "key": "Ascending",
-        "label": "Species → Genus → Family → Order → Class → Phylum → Kingdom"
-      },
-      {
-        "key": "Descending",
-        "label": "Kingdom → Phylum → Class → Order → Family → Genus → Species"
-      },
-      {
-        "key": "Category",
-        "label": "The rank or step in the hierarchy (e.g., Order, Family)"
-      },
-      {
-        "key": "Taxon",
-        "label": "The actual biological entity at that rank (e.g., Polymoniales, Solanaceae)"
+        "key": "ALES",
+        "label": "Suffix added to plant order names (e.g., Sapindales, Poales)"
       }
     ],
-    "doodleBadge": "S → G → F → O → C → P → K",
-    "doodleSubtext": "Ascending Hierarchy",
-    "explanation": "Taxonomic category is an abstract level in classification; taxon is the concrete organism/group occupying that category.",
-    "whyItWorks": "Direct clarification of Taxon vs Category prevents frequent exam slip-ups.",
-    "alsoRemember": "Term \"Taxon\" was coined by Adolf Meyer for animal groups and adopted for plants by H.J. Lam.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 1, Section 1.3",
-    "neetTrap": "NEET questions flipping the arrow signs: Species < Genus < Family < Order < Class < Phylum < Kingdom (correct ascending).",
-    "commonMistake": "Flipping Family and Order when writing from memory.",
+    "doodleBadge": "ales",
+    "doodleSubtext": "Suffixes Used for Plant ",
+    "explanation": "Universal taxonomic ending used to identify plant orders.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Suffixes Used for Plant Orders.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.101",
     "tags": [
-      "Ascending",
-      "Descending",
-      "Taxon vs Category",
-      "Hierarchy"
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Suffixes"
     ],
-    "visualDescription": "A staircase climbing from tiny bacteria at the base (Species) up to a crown at the top (Kingdom).",
-    "neetRelevance": "Appeared in NEET 2022, 2020, 2018 in arrow-symbol format (< and >).",
     "sourceReference": {
-      "title": "NCERT Class 11 Biology",
-      "section": "Section 1.3"
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 101,
+      "chapter": "The Living World"
     },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following represents the correct ascending taxonomic hierarchy?",
+      "question": "Which of the following is associated with \"Suffixes Used for Plant Orders\" in NEET Biology?",
       "options": [
-        "Species → Genus → Order → Family → Class → Phylum → Kingdom",
-        "Species → Genus → Family → Order → Class → Phylum → Kingdom",
-        "Kingdom → Phylum → Class → Order → Family → Genus → Species",
-        "Species → Family → Genus → Order → Class → Phylum → Kingdom"
+        "ales",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "In ascending hierarchy (lowest to highest rank): Species → Genus → Family → Order → Class → Phylum → Kingdom."
+      "answerIndex": 0,
+      "explanation": "Universal taxonomic ending used to identify plant orders."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch01-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-01",
+    "chapterNumber": 1,
+    "chapterTitle": "The Living World",
+    "classLevel": 11,
+    "topicId": "bio-top-1-3",
+    "topicTitle": "Solanaceae Family Genera Examples",
+    "topic": "Solanaceae Family Genera Examples",
+    "mnemonicNumber": 21,
+    "title": "Solanaceae Family Genera Examples: \"Solanum Petunia Datura\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Solanum Petunia Datura",
+    "memoryHook": "Solanum Petunia Datura",
+    "fact": "S – Solanum. P – Petunia. D – Datura",
+    "breakdown": [
+      {
+        "key": "S",
+        "label": "Solanum"
+      },
+      {
+        "key": "P",
+        "label": "Petunia"
+      },
+      {
+        "key": "D",
+        "label": "Datura"
+      }
+    ],
+    "doodleBadge": "Solanum Petunia Datura",
+    "doodleSubtext": "Solanaceae Family Genera",
+    "explanation": "Genera included under Solanaceae based on vegetative and reproductive features.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Solanaceae Family Genera Examples.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.101",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Solanaceae"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 101,
+      "chapter": "The Living World"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Solanaceae Family Genera Examples\" in NEET Biology?",
+      "options": [
+        "Solanum",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Solanum\". Remember using: \"Solanum Petunia Datura\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch01-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-01",
+    "chapterNumber": 1,
+    "chapterTitle": "The Living World",
+    "classLevel": 11,
+    "topicId": "bio-top-1-3",
+    "topicTitle": "Felidae Family Genera Examples",
+    "topic": "Felidae Family Genera Examples",
+    "mnemonicNumber": 22,
+    "title": "Felidae Family Genera Examples: \"Panthera Felis\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Panthera Felis",
+    "memoryHook": "Panthera Felis",
+    "fact": "P – Panthera (Lions, Tigers, Leopards). F – Felis (Cats)",
+    "breakdown": [
+      {
+        "key": "P",
+        "label": "Panthera (Lions, Tigers, Leopards)"
+      },
+      {
+        "key": "F",
+        "label": "Felis (Cats)"
+      }
+    ],
+    "doodleBadge": "Panthera Felis",
+    "doodleSubtext": "Felidae Family Genera Ex",
+    "explanation": "Carnivorous cat family genera grouped under the family Felidae.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Felidae Family Genera Examples.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.101",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Felidae"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 101,
+      "chapter": "The Living World"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Felidae Family Genera Examples\" in NEET Biology?",
+      "options": [
+        "Panthera Felis",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Carnivorous cat family genera grouped under the family Felidae."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch01-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-01",
+    "chapterNumber": 1,
+    "chapterTitle": "The Living World",
+    "classLevel": 11,
+    "topicId": "bio-top-1-3",
+    "topicTitle": "Order Carnivora Families",
+    "topic": "Order Carnivora Families",
+    "mnemonicNumber": 23,
+    "title": "Order Carnivora Families: \"Felidae Canidae\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Felidae Canidae",
+    "memoryHook": "Felidae Canidae",
+    "fact": "F – Felidae (Cat family). C – Canidae (Dog family)",
+    "breakdown": [
+      {
+        "key": "F",
+        "label": "Felidae (Cat family)"
+      },
+      {
+        "key": "C",
+        "label": "Canidae (Dog family)"
+      }
+    ],
+    "doodleBadge": "Felidae Canidae",
+    "doodleSubtext": "Order Carnivora Families",
+    "explanation": "Families possessing common carnivorous traits united under order Carnivora.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Order Carnivora Families.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.101",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Order"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 101,
+      "chapter": "The Living World"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Order Carnivora Families\" in NEET Biology?",
+      "options": [
+        "Felidae Canidae",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Families possessing common carnivorous traits united under order Carnivora."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch01-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-01",
+    "chapterNumber": 1,
+    "chapterTitle": "The Living World",
+    "classLevel": 11,
+    "topicId": "bio-top-1-3",
+    "topicTitle": "Genera Under Species Solanum",
+    "topic": "Genera Under Species Solanum",
+    "mnemonicNumber": 24,
+    "title": "Genera Under Species Solanum: \"Nigrum Tuberosum Melongena\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Nigrum Tuberosum Melongena",
+    "memoryHook": "Nigrum Tuberosum Melongena",
+    "fact": "N – Nigrum (Makoi). T – Tuberosum (Potato). M – Melongena (Brinjal)",
+    "breakdown": [
+      {
+        "key": "N",
+        "label": "Nigrum (Makoi)"
+      },
+      {
+        "key": "T",
+        "label": "Tuberosum (Potato)"
+      },
+      {
+        "key": "M",
+        "label": "Melongena (Brinjal)"
+      }
+    ],
+    "doodleBadge": "Nigrum Tuberosum Melonge",
+    "doodleSubtext": "Genera Under Species Sol",
+    "explanation": "Distinct species belonging to the same genus Solanum. Chapter 1: The Living World (30 Mnemonics) \tPage 4",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Genera Under Species Solanum.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.101",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Genera"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 101,
+      "chapter": "The Living World"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Genera Under Species Solanum\" in NEET Biology?",
+      "options": [
+        "Nigrum (Makoi)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Nigrum (Makoi)\". Remember using: \"Nigrum Tuberosum Melongena\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch01-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-01",
+    "chapterNumber": 1,
+    "chapterTitle": "The Living World",
+    "classLevel": 11,
+    "topicId": "bio-top-1-3",
+    "topicTitle": "Taxonomical Aids (Traditional NCERT Aids)",
+    "topic": "Taxonomical Aids (Traditional NCERT Aids)",
+    "mnemonicNumber": 25,
+    "title": "Taxonomical Aids (Traditional NCERT Aids): \"Herbarium Botanical Garden Museum Zoological Park Key\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Herbarium Botanical Garden Museum Zoological Park Key",
+    "memoryHook": "Herbarium Botanical Garden Museum Zoological Park Key",
+    "fact": "H – Herbarium. B – Botanical Gardens. M – Museums. Z – Zoological Parks. K – Keys",
+    "breakdown": [
+      {
+        "key": "H",
+        "label": "Herbarium"
+      },
+      {
+        "key": "B",
+        "label": "Botanical Gardens"
+      },
+      {
+        "key": "M",
+        "label": "Museums"
+      },
+      {
+        "key": "Z",
+        "label": "Zoological Parks"
+      },
+      {
+        "key": "K",
+        "label": "Keys"
+      }
+    ],
+    "doodleBadge": "Herbarium Botanical Gard",
+    "doodleSubtext": "Taxonomical Aids (Tradit",
+    "explanation": "Tools and techniques used for identification, classification, and preservation of specimens.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Taxonomical Aids (Traditional NCERT Aids).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.102",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Taxonomical"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 102,
+      "chapter": "The Living World"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Taxonomical Aids (Traditional NCERT Aids)\" in NEET Biology?",
+      "options": [
+        "Herbarium",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Herbarium\". Remember using: \"Herbarium Botanical Garden Museum Zoological Park Key\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch01-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-01",
+    "chapterNumber": 1,
+    "chapterTitle": "The Living World",
+    "classLevel": 11,
+    "topicId": "bio-top-1-3",
+    "topicTitle": "Famous Botanical Gardens Mentioned in NCERT",
+    "topic": "Famous Botanical Gardens Mentioned in NCERT",
+    "mnemonicNumber": 26,
+    "title": "Famous Botanical Gardens Mentioned in NCERT: \"Kew Howrah Lucknow\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Kew Howrah Lucknow",
+    "memoryHook": "Kew Howrah Lucknow",
+    "fact": "K – Royal Botanical Garden, Kew (England). H – Indian Botanical Garden, Howrah (Kolkata, India). L – National Botanical Research Institute (NBRI), Lucknow (India)",
+    "breakdown": [
+      {
+        "key": "K",
+        "label": "Royal Botanical Garden, Kew (England)"
+      },
+      {
+        "key": "H",
+        "label": "Indian Botanical Garden, Howrah (Kolkata, India)"
+      },
+      {
+        "key": "L",
+        "label": "National Botanical Research Institute (NBRI), Lucknow (India)"
+      }
+    ],
+    "doodleBadge": "Kew Howrah Lucknow",
+    "doodleSubtext": "Famous Botanical Gardens",
+    "explanation": "Primary global and national botanical garden institutions cited in NEET questions.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Famous Botanical Gardens Mentioned in NCERT.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.102",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Famous"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 102,
+      "chapter": "The Living World"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Famous Botanical Gardens Mentioned in NCERT\" in NEET Biology?",
+      "options": [
+        "Royal Botanical Garden, Kew (England)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Royal Botanical Garden, Kew (England)\". Remember using: \"Kew Howrah Lucknow\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch01-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-01",
+    "chapterNumber": 1,
+    "chapterTitle": "The Living World",
+    "classLevel": 11,
+    "topicId": "bio-top-1-3",
+    "topicTitle": "Information Recorded on Herbarium Sheet Label",
+    "topic": "Information Recorded on Herbarium Sheet Label",
+    "mnemonicNumber": 27,
+    "title": "Information Recorded on Herbarium Sheet Label: \"Date Place Local English Botanical Family Collector\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Date Place Local English Botanical Family Collector",
+    "memoryHook": "Date Place Local English Botanical Family Collector",
+    "fact": "D – Date of collection. P – Place of collection. L – Local name. E – English name. B – Botanical / Scientific name. F – Family. C – Collector's name",
+    "breakdown": [
+      {
+        "key": "D",
+        "label": "Date of collection"
+      },
+      {
+        "key": "P",
+        "label": "Place of collection"
+      },
+      {
+        "key": "L",
+        "label": "Local name"
+      },
+      {
+        "key": "E",
+        "label": "English name"
+      },
+      {
+        "key": "B",
+        "label": "Botanical / Scientific name"
+      },
+      {
+        "key": "F",
+        "label": "Family"
+      },
+      {
+        "key": "C",
+        "label": "Collector's name"
+      }
+    ],
+    "doodleBadge": "Date Place Local English",
+    "doodleSubtext": "Information Recorded on ",
+    "explanation": "Essential information printed on the bottom right corner of a standard herbarium sheet.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Information Recorded on Herbarium Sheet Label.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.102",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Information"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 102,
+      "chapter": "The Living World"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Information Recorded on Herbarium Sheet Label\" in NEET Biology?",
+      "options": [
+        "Date of collection",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Date of collection\". Remember using: \"Date Place Local English Botanical Family Collector\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch01-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-01",
+    "chapterNumber": 1,
+    "chapterTitle": "The Living World",
+    "classLevel": 11,
+    "topicId": "bio-top-1-3",
+    "topicTitle": "Characterizing Terms Used in Taxonomic Keys",
+    "topic": "Characterizing Terms Used in Taxonomic Keys",
+    "mnemonicNumber": 28,
+    "title": "Characterizing Terms Used in Taxonomic Keys: \"Couplet Lead\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Couplet Lead",
+    "memoryHook": "Couplet Lead",
+    "fact": "C – Couplet (Pair of contrasting characters). L – Lead (Each statement in the key)",
+    "breakdown": [
+      {
+        "key": "C",
+        "label": "Couplet (Pair of contrasting characters)"
+      },
+      {
+        "key": "L",
+        "label": "Lead (Each statement in the key)"
+      }
+    ],
+    "doodleBadge": "Couplet Lead",
+    "doodleSubtext": "Characterizing Terms Use",
+    "explanation": "Analytical identification keys built on contrasting characters in pairs.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Characterizing Terms Used in Taxonomic Keys.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.102",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Characterizing"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 102,
+      "chapter": "The Living World"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Characterizing Terms Used in Taxonomic Keys\" in NEET Biology?",
+      "options": [
+        "Couplet Lead",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Analytical identification keys built on contrasting characters in pairs."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch01-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-01",
+    "chapterNumber": 1,
+    "chapterTitle": "The Living World",
+    "classLevel": 11,
+    "topicId": "bio-top-1-3",
+    "topicTitle": "Written Taxonomical Aids / Literature Aids",
+    "topic": "Written Taxonomical Aids / Literature Aids",
+    "mnemonicNumber": 29,
+    "title": "Written Taxonomical Aids / Literature Aids: \"Flora Manual Monograph Catalogue\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Flora Manual Monograph Catalogue",
+    "memoryHook": "Flora Manual Monograph Catalogue",
+    "fact": "F – Flora (Actual habitat and distribution in an area). M – Manuals (Information for identifying names of species in an area). M – Monographs (Information on any one taxon). C – Catalogues (Alphabetical register of species)",
+    "breakdown": [
+      {
+        "key": "F",
+        "label": "Flora (Actual habitat and distribution in an area)"
+      },
+      {
+        "key": "M",
+        "label": "Manuals (Information for identifying names of species in an area)"
+      },
+      {
+        "key": "M",
+        "label": "Monographs (Information on any one taxon)"
+      },
+      {
+        "key": "C",
+        "label": "Catalogues (Alphabetical register of species)"
+      }
+    ],
+    "doodleBadge": "Flora Manual Monograph C",
+    "doodleSubtext": "Written Taxonomical Aids",
+    "explanation": "Specialized taxomical publications used for recording and referencing species data.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Written Taxonomical Aids / Literature Aids.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.102",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Written"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 102,
+      "chapter": "The Living World"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Written Taxonomical Aids / Literature Aids\" in NEET Biology?",
+      "options": [
+        "Flora (Actual habitat and distribution in an area)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Flora (Actual habitat and distribution in an area)\". Remember using: \"Flora Manual Monograph Catalogue\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch01-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-01",
+    "chapterNumber": 1,
+    "chapterTitle": "The Living World",
+    "classLevel": 11,
+    "topicId": "bio-top-1-3",
+    "topicTitle": "Steps of Systematics / Taxonomy",
+    "topic": "Steps of Systematics / Taxonomy",
+    "mnemonicNumber": 30,
+    "title": "Steps of Systematics / Taxonomy: \"ICCN\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "ICCN",
+    "memoryHook": "ICCN",
+    "fact": "I – Identification. C – Characterization. C – Classification. N – Nomenclature",
+    "breakdown": [
+      {
+        "key": "I",
+        "label": "Identification"
+      },
+      {
+        "key": "C",
+        "label": "Characterization"
+      },
+      {
+        "key": "C",
+        "label": "Classification"
+      },
+      {
+        "key": "N",
+        "label": "Nomenclature"
+      }
+    ],
+    "doodleBadge": "ICCN",
+    "doodleSubtext": "Steps of Systematics / T",
+    "explanation": "Sequential procedure required for formal systematic classification of an organism. Chapter 1: The Living World (30 Mnemonics) \tPage 5",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 1 (The Living World).",
+    "neetTrap": "Pay close attention to exact terminology in Steps of Systematics / Taxonomy.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 1, Page from PDF p.102",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "The Living World",
+      "Steps"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 102,
+      "chapter": "The Living World"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Steps of Systematics / Taxonomy\" in NEET Biology?",
+      "options": [
+        "Identification",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Identification\". Remember using: \"ICCN\"."
     }
   }
 ];

@@ -1,0 +1,3455 @@
+NCERT CLASS 12 BIOLOGY • QUICK REVISION SERIES
+Chapter 13: Biodiversity & Conservation
+50 High-Yield Mnemonics & Memory Tricks for NEET & Board Examinations
+Chapter Overview & Strategic Focus
+This chapter carries 3-4 direct questions in NEET. Focus on: (1) Levels of biodiversity, (2) Species-area formula & values, (3)
+The Evil Quartet causes, (4) In-situ vs Ex-situ conservation examples, and (5) International environmental summits.
+SECTION 1: LEVELS & PATTERNS OF BIODIVERSITY (MNEMONICS 1–12)
+MNEMONIC 01
+3 Levels of Biodiversity
+G - S - E
+Genetic (Rauwolfia), Species (Amphibians in Ghats), Ecological
+(Deserts/Mangroves).
+MNEMONIC 02
+Robert May's Global Estimate
+MAY = 7 MILLION
+Robert May estimated global species diversity at scientifically
+sound 7 Million.
+MNEMONIC 03
+Animal vs Plant Share
+A70 - P22
+Animals > 70% of total recorded species; Plants (incl. Fungi) ≤
+22%.
+MNEMONIC 04
+Insect Dominance Rule
+7 OUT OF 10
+Insects form > 70% of all animals. Out of every 10 animals on
+Earth, 7 are insects.
+MNEMONIC 05
+Fungi Richness Comparison
+FUNGI > FARM
+Fungi species count is higher than total of Fishes + Amphibians
++ Reptiles + Mammals.
+MNEMONIC 06
+India's Biodiversity Share
+AREA 2.4 % → SPECIES 8.1%
+India has only 2.4% world land area but contributes 8.1% to
+global species diversity.
+MNEMONIC 07
+India's Global Standing
+17 MEGA - 12TH RANK
+India is among 17 Mega-diverse countries and ranks 12th in
+global species richness.
+MNEMONIC 08
+Recorded Species in India
+45K PLANTS → 90K ANIMALS
+Nearly 45,000 plant species and twice as many (90,000) animal
+species recorded in India.
+MNEMONIC 09
+Latitudinal Gradient Rule
+EQUATOR HIGH → POLE LOW
+Species diversity decreases from Equator to Poles (Highest in
+Tropics).
+MNEMONIC 10
+Colombia vs New York Birds
+COLOMBIA 1400 > NY 105
+Colombia (Equator): 1400 bird species; New York (41°N): 105;
+Greenland (71°N): 56.
+MNEMONIC 11
+Amazonian Rainforest Birds
+AMAZON = 1300 BIRDS
+Amazonian rainforest in South America harbors over 1,300
+species of birds.
+MNEMONIC 12
+3 Reasons for Tropical Richness
+T - S - E
+Time (Evolutionary undisturbed), Seasonal stability (Constant
+environment), Energy (Solar input).
+NCERT Class 12 Biology • Chapter 13 Study Guide 	Page 1 of 4
+
+-- 1 of 76 --
+
+SECTION 2: SPECIES-AREA RELATIONSHIP & EXTINCTION (MNEMONICS 13–26)
+MNEMONIC 13
+Species-Area Naturalist
+ALEXANDER VON HUMBOLDT
+German naturalist who studied South American jungles & gave
+Species-Area relationship.
+MNEMONIC 14
+Species-Area Curve Shape
+RECTANGULAR HYPERBOLA
+On a normal scale, S vs A relationship is a Rectangular
+Hyperbola.
+MNEMONIC 15
+Logarithmic Equation
+log S = log C + Z log A
+Linear scale equation where S=Richness, A=Area, Z=Slope, C=Y-
+intercept.
+MNEMONIC 16
+Normal Z-Value Range
+Z = 0.1 TO 0.2
+Slope Z lies strictly between 0.1 and 0.2 regardless of
+taxonomic group or region.
+MNEMONIC 17
+Continental Z-Value Range
+Z = 0.6 TO 1.2
+For large areas like entire continents, slope Z is much steeper:
+0.6 to 1.2.
+MNEMONIC 18
+Frugivorous Birds Z-Value
+FRUGIVOROUS = 1.15
+For frugivorous (fruit-eating) birds and mammals in tropical
+forests, slope Z = 1.15.
+MNEMONIC 19
+Tilman's Ecosystem Findings
+MORE SPECIES = LESS VARIATION
+David Tilman showed plots with more species showed less
+year-to-year variation in biomass.
+MNEMONIC 20
+Rivet Popper Ecologist
+PAUL EHRLICH
+Stanford ecologist who proposed the Rivet Popper Hypothesis
+using airplane analogy.
+MNEMONIC 21
+Rivet Analogy Key Elements
+RIVET = SPECIES / WING = KEYSTONE
+Airplane = Ecosystem; Rivets = Species; Rivets on wings =
+Keystone Species.
+MNEMONIC 22
+IUCN Red List Extinctions
+784 SPECIES IN 500 YEARS
+IUCN Red List (2004) documents extinction of 784 species (338
+vertebrates, 359 invertebrates, 87 plants).
+MNEMONIC 23
+Recent Extinct Animals
+D - Q - T - S - A
+Dodo (Mauritius), Quagga (Africa), Tylacine (Australia), Steller's
+Sea Cow (Russia), Amphibians.
+MNEMONIC 24
+Subspecies of Tiger Extinct
+B - J - C
+Three extinct tiger subspecies: Bali, Javan, and Caspian.
+MNEMONIC 25
+Mass Extinction Episode
+WE ARE IN 6TH MASS EXTINCTION
+Present extinction is 6th episode, proceeding 100 to 1,000 times
+faster than pre-human times.
+MNEMONIC 26
+Amphibians Threat Level
+32% AMPHIBIANS THREATENED
+32% of all amphibian species world-wide face highest risk of
+extinction.
+NCERT Class 12 Biology • Chapter 13 Study Guide 	Page 2 of 4
+
+-- 2 of 76 --
+
+SECTION 3: CAUSES OF BIODIVERSITY LOSS — THE EVIL QUARTET (MNEMONICS 27–
+38)
+MNEMONIC 27
+The Evil Quartet Master Trick
+H - O - A - C
+Habitat Loss, Over-exploitation, Alien species invasion, Co-
+extinction.
+MNEMONIC 28
+Most Important Loss Cause
+HABITAT LOSS = #1 CAUSE
+Habitat loss & fragmentation is the primary driver pushing
+animals/plants to extinction.
+MNEMONIC 29
+Rainforest Cover Decline
+14% REDUCED TO 6%
+Tropical rainforests once covered 14% of land surface, now
+reduced to no more than 6%.
+MNEMONIC 30
+Lungs of the Planet
+AMAZON = LUNGS OF PLANET
+Amazon Rainforest produced > 20% oxygen; now cut for
+soybeans & cattle grazing.
+MNEMONIC 31
+Over-Exploited Animals
+STELLER & PIGEON
+Steller's Sea Cow and Passenger Pigeon went extinct due to
+human over-exploitation.
+MNEMONIC 32
+Lake Victoria Invasive Species
+NILE PERCH vs CICHLID
+Nile Perch introduced into Lake Victoria killed > 200 endemic
+species of Cichlid fish.
+MNEMONIC 33
+3 Invasive Weed Plants
+P - L - E
+Parthenium (Carrot grass), Lantana, and Eichhornia (Water
+hyacinth / Terror of Bengal).
+MNEMONIC 34
+Invasive Catfish
+CLARIAS GARIEPINUS
+African catfish Clarias gariepinus poses threat to indigenous
+catfish species in Indian rivers.
+MNEMONIC 35
+Co-Extinction Examples
+PARASITE & POLLINATOR
+Obligate host-parasite links & plant-pollinator mutualism (fig-
+wasp) lead to co-extinction.
+MNEMONIC 36
+3 Conservation Reasons
+N - B - E
+Narrowly Utilitarian, Broadly Utilitarian, and Ethical reasons.
+MNEMONIC 37
+Narrowly Utilitarian
+DIRECT PRODUCTS
+Food, fiber, firewood, construction, tannins, dyes, and 25%
+prescription medicines from plants.
+MNEMONIC 38
+Bioprospecting Definition
+EXPLORING MOLECULAR DIVERSITY
+Exploring molecular, genetic, and species-level diversity for
+products of economic value.
+NCERT Class 12 Biology • Chapter 13 Study Guide 	Page 3 of 4
+
+-- 3 of 76 --
+
+SECTION 4: IN-SITU & EX-SITU CONSERVATION STRATEGIES (MNEMONICS 39–50)
+MNEMONIC 39
+In-Situ vs Ex-Situ Concept
+IN-SITE vs OFF-SITE
+In-situ: Protect whole ecosystem on-site. Ex-situ: Protect
+threatened organism off-site.
+MNEMONIC 40
+Global Biodiversity Hotspots
+25 → 34 HOTSPOTS
+Originally 25 hotspots identified; 9 added later, making total 34
+Biodiversity Hotspots.
+MNEMONIC 41
+Extinction Reduction by Hotspots
+30% REDUCTION IN EXTINCTION
+Hotspots cover < 2% of land, but strict protection reduces mass
+extinctions by 30%.
+MNEMONIC 42
+3 Hotspots Covering India
+W - I - H
+Western Ghats & Sri Lanka, Indo-Burma, and Himalayas.
+MNEMONIC 43
+In-Situ Network in India
+14 BR - 90 NP - 448 WLS
+14 Biosphere Reserves, 90 National Parks, and 448 Wildlife
+Sanctuaries (NCERT data).
+MNEMONIC 44
+Sacred Groves Locations
+K - A - C - S
+Khasi/Jaintia (Meghalaya), Aravalli (Rajasthan), Chanda/Bastar
+(MP), Serguja (Western Ghats).
+MNEMONIC 45
+Ex-Situ Classic Examples
+Z - B - S
+Zoological Parks, Botanical Gardens, and Safari Parks
+(organisms removed from wild).
+MNEMONIC 46
+Advanced Ex-Situ Techniques
+C - T - S
+Cryopreservation, Tissue culture propagation, and Seed banks
+for long storage.
+MNEMONIC 47
+Cryopreservation Temperature
+-196°C LIQUID NITROGEN
+Gametes of threatened species stored in liquid nitrogen at
+-196°C in viable condition.
+MNEMONIC 48
+The Earth Summit (Rio)
+RIO 1992
+Historic Earth Summit held at Rio de Janeiro in 1992 for
+Biodiversity Conservation.
+MNEMONIC 49
+World Summit (Johannesburg)
+JOHANNESBURG 2002
+World Summit on Sustainable Development held in
+Johannesburg, South Africa in 2002.
+MNEMONIC 50
+World Summit Pledge
+190 COUNTRIES BY 2010
+190 countries pledged to significantly reduce the rate of
+biodiversity loss by year 2010.
+NCERT Class 12 Biology • Chapter 13 Study Guide 	Page 4 of 4
+
+-- 4 of 76 --
+
+NCERT BIOLOGY CLASS 12 CHAPTER 12 NEET HIGH-YIELD
+Ecosystem: 50 Memory Mnemonics
+50
+Mnemonics
+100%
+NCERT Covered
+4-5
+NEET Questions
+5 Steps
+Decomposition
+SECTION 1: ECOSYSTEM STRUCTURE & DECOMPOSITION
+MMNEMONIC 01
+4 Functional Aspects of Ecosystem
+"P-D-E-N: Primary Doctors Enjoy Nutrition"
+Productivity, Decomposition, Energy flow, Nutrient cycling.
+MMNEMONIC 02
+5 Steps of Decomposition
+"F-L-C-H-M: Fresh Lemons Create Healthy
+Morning"
+Fragmentation, Leaching, Catabolism, Humification,
+Mineralisation.
+MMNEMONIC 03
+Agents of Fragmentation
+"E-A-R-T-H: Earthworms Eating Litter"
+Detritivores (e.g. Earthworms) break down detritus into
+smaller particles.
+MMNEMONIC 04
+Leaching Mechanism
+"W-S-I: Water Soluble Inorganic"
+Water-Soluble Inorganic nutrients go down soil horizon and
+precipitate as unavailable salts.
+MMNEMONIC 05
+Catabolism Enzymes
+"B-F: Bacteria & Fungi"
+Bacterial and Fungal enzymes degrade detritus into
+simpler inorganic substances.
+MMNEMONIC 06
+Properties of Humus
+"A-D-C-R: Dark Amorphous Colloidal Reservoir"
+Amorphous, Dark colored, Colloidal (reservoir of nutrients),
+Resistant to microbial action.
+MMNEMONIC 07
+Slow Decomposition Factors
+"L-C-O-D: Lignin Chitin Oxygen Down"
+Decomposition is slower if detritus is rich in Lignin & Chitin,
+or under low Oxygen (anaerobiosis).
+MMNEMONIC 08
+Fast Decomposition Factors
+"N-S-W-T: Nitrogen Sugars Warm Tropical"
+Decomposition is faster if detritus is rich in Nitrogen &
+Sugars, with Warm & Tropically moist climate.
+Master Ecosystem Structure, Decomposition, Energy Flow, Pyramids & Ecological Succession
+
+-- 5 of 76 --
+
+NCERT Class 12 Biology - Ecosystem Mnemonics 	Page 1 of 5
+SECTION 2: PRIMARY & SECONDARY PRODUCTIVITY FORMULAE
+MMNEMONIC 09
+GPP vs NPP Relation
+"NPP = GPP - R: Net Productivity Payoff"
+Net Primary Productivity = Gross Primary Productivity
+minus Respiration losses.
+MMNEMONIC 10
+Global Primary Productivity
+"170 Billion Tons Total (Dry Organic)"
+Annual net primary productivity of whole biosphere is ~170
+billion tons (dry weight).
+MMNEMONIC 11
+Oceanic Productivity Share
+"Oceans = 70% Area but ONLY 55 Billion Tons"
+Oceans occupy ~70% of earth surface but contribute only
+55 billion tons (~32% of total productivity).
+MMNEMONIC 12
+Secondary Productivity Definition
+"C-O-N: Consumers Organic New"
+Rate of formation of new organic matter by Consumers.
+MMNEMONIC 13
+Photosynthetically Active Radiation (PAR)
+"PAR < 50% Solar Radiation"
+Less than 50% of incident solar radiation is PAR.
+MMNEMONIC 14
+PAR Captured by Plants
+"Plants Capture 2 - 10% of PAR"
+Plants capture only 2-10% of PAR (which equals 1-5% of
+total incident solar radiation).
+MMNEMONIC 15
+Energy Flow Rule
+"U-N-I: Unidirectional Non-cyclic Energy"
+Energy flow in an ecosystem is strictly Unidirectional (Sun
+→ Producers → Consumers).
+MMNEMONIC 16
+10 Percent Law
+"Lindeman's 10% Transfer Limit"
+Only 10% of energy is transferred to each trophic level from
+the lower trophic level.
+MMNEMONIC 17
+Grazing Food Chain (GFC)
+"P-H-C: Producer Herbivore Carnivore"
+GFC starts with Producers (Green plants) → Primary
+consumers (Herbivores) → Secondary consumers.
+MMNEMONIC 18
+Detritus Food Chain (DFC)
+"D-D-S: Dead Organic Detritivore Saprotroph"
+DFC begins with Dead Organic Matter processed by
+decomposers/saprotrophs (fungi, bacteria).
+
+-- 6 of 76 --
+
+NCERT Class 12 Biology - Ecosystem Mnemonics 	Page 2 of 5
+SECTION 3: TROPHIC LEVELS & ECOLOGICAL PYRAMIDS
+Trophic Level 	Category 	Examples (Terrestrial) 	Examples (Aquatic)
+Fourth (T4) 	Top Carnivore 	Man, Lion, Tiger 	Large Fishes, Sharks
+Third (T3) 	Secondary Consumer 	Birds, Wolves, Frog 	Small Fishes
+Second (T2) 	Primary Consumer 	Insects, Cows, Deer 	Zooplankton, Molluscs
+First (T1) 	Primary Producer 	Trees, Grasses, Herbs 	Phytoplankton, Algae
+MMNEMONIC 19
+Pyramid of Energy Rule
+"ALWAYS Upright - NO Exception!"
+Pyramid of energy is ALWAYS upright because energy is
+lost as heat at every step.
+MMNEMONIC 20
+Inverted Biomass Pyramid Example
+"S-P-O-T: Sea Phytoplankton Zooplankton
+Turnover"
+Pyramid of biomass in Sea/Aquatic ecosystem is usually
+inverted (small biomass of phytoplankton supports large
+biomass of fishes).
+MMNEMONIC 21
+Inverted/Spindle Number Pyramid
+"T-B-P: Tree Parasite Bird"
+A single large Tree supporting many herbivorous birds and
+thousands of parasites gives an inverted or spindle
+number pyramid.
+MMNEMONIC 22
+Limitations of Pyramids
+"S-F-D: Same Species, Food Web, Decomposers
+Omitted"
+1. Doesn't account for species operating at 2+ levels.
+2. Assumes simple food chain.
+3. Excludes decomposers/saprotrophs entirely.
+MMNEMONIC 23
+Standing Crop Definition
+"M-A-S-S: Mass Alive Specific Space"
+Mass of living material (biomass) or number in a unit area
+at a given time.
+MMNEMONIC 24
+Standing State Definition
+"S-O-I-L: Soil Inorganic Nutrients"
+Amount of inorganic nutrients (N, P, Ca) present in soil at
+any given time.
+MMNEMONIC 25
+Primary Consumer vs Secondary Consumer
+"Herbivores ARE Primary Consumers"
+Herbivores eat plants → Primary consumers. Carnivores
+eating herbivores → Secondary consumers (Primary
+Carnivores).
+MMNEMONIC 26
+Main Energy Conduit in Terrestrial vs Aquatic
+"T-D / A-G: Terrestrial Detritus, Aquatic Grazing"
+In terrestrial ecosystem, major energy flows through DFC.
+In aquatic ecosystem, GFC is the major conduit.
+
+-- 7 of 76 --
+
+NCERT Class 12 Biology - Ecosystem Mnemonics 	Page 3 of 5
+SECTION 4: ECOLOGICAL SUCCESSION STAGES
+MMNEMONIC 27
+7 Stages of Primary Hydrarch Succession
+"P-S-R-M-M-S-F: Please Send Real Medicine, My
+Sick Friend"
+Phytoplankton → Submerged plant → Reed-swamp →
+Marsh-meadow → Scrub → Forest (Climax).
+MMNEMONIC 28
+Pioneer Species in Hydrarch
+"Phytoplankton Starts Pond"
+Phytoplankton (autotrophic microscopic organisms) are
+pioneers in aquatic succession.
+MMNEMONIC 29
+Pioneer Species in Xerarch
+"Lichens Dissolve Rocks"
+Lichens secrete acids to dissolve rock and help soil
+formation.
+MMNEMONIC 30
+Xerarch Stages Order
+"L-M-A-S-F: Lichens Mosses Annuals Shrubs
+Forest"
+Lichens → Bryophytes/Mosses → Annual herbs → Shrubs
+→ Climax Forest.
+MMNEMONIC 31
+Convergence of Succession
+"Both Hydrarch & Xerarch Lead to MESIC"
+Both water-based (hydrarch) and dry-based (xerarch)
+succession lead to medium water conditions: Mesic
+condition.
+MMNEMONIC 32
+Primary vs Secondary Succession Speed
+"Secondary is SWIFT because Soil Exists"
+Secondary succession is much faster than primary
+because soil or sediment is already present.
+MMNEMONIC 33
+Primary Succession Sites
+"B-N-C: Bare Rock, New Lava, Cooled Reservoir"
+Occurs in newly cooled lava, bare rocks, newly created
+ponds or reservoirs (no soil initially).
+MMNEMONIC 34
+Secondary Succession Sites
+"F-C-D: Abandoned Farm, Cut Forest, Damaged
+Land"
+Occurs where natural biotic communities were destroyed
+(burned forests, flooded land, abandoned farmland).
+MMNEMONIC 35
+Seral Community / Sere
+"Entire Sequence = SERE"
+The entire sequence of communities that successively
+change in a given area is called a Sere.
+MMNEMONIC 36
+Climax Community Features
+"E-S-M: Equilibrium Stable Environment"
+Near-equilibrium state with environment, highly stable and
+diverse community.
+
+-- 8 of 76 --
+
+NCERT Class 12 Biology - Ecosystem Mnemonics 	Page 4 of 5
+SECTION 5: NUTRIENT CYCLES & ECOSYSTEM SERVICES
+MMNEMONIC 37
+Two Types of Nutrient Cycles
+"G-S: Gaseous vs Sedimentary"
+1. Gaseous (Reservoir = Atmosphere/Hydrosphere): C, N,
+H, O.
+2. Sedimentary (Reservoir = Earth's crust): P, S, Ca.
+MMNEMONIC 38
+Carbon Reservoir Breakdown
+"71% Carbon Dissolved in Oceans"
+71% of global carbon is dissolved in oceans; atmosphere
+contains only ~1% of total global carbon.
+MMNEMONIC 39
+Carbon Fixed Annually
+"4 x 10^13 kg Carbon Fixed by Photosynthesis"
+4 × 1013 kg of carbon is fixed in biosphere through
+photosynthesis annually.
+MMNEMONIC 40
+Phosphorus Cycle Key Feature
+"NO Respiratory Release of Phosphorus"
+Unlike Carbon, phosphorus has no gaseous exchange via
+respiration and minimal rainfall inputs.
+MMNEMONIC 41
+Phosphorus Natural Reservoir
+"R-O-C-K-S: Rocks Store Phosphate"
+Natural reservoir of phosphorus is rocks, containing
+phosphorus in the form of phosphates.
+MMNEMONIC 42
+Ecosystem Services Price Tag (Constanza)
+"$33 Trillion US Dollars / Year"
+Robert Constanza estimated global ecosystem services at
+US $33 trillion/year (nearly twice global GNP).
+MMNEMONIC 43
+Soil Formation Cost Share
+"50% for Soil Formation Alone"
+Soil formation accounts for ~50% of total ecosystem
+service valuation.
+MMNEMONIC 44
+Recreation & Nutrient Cycling Share
+"10% Each for Recreation & Nutrients"
+Recreation and Nutrient cycling account for less than 10%
+each.
+MMNEMONIC 45
+Climate Regulation & Habitat Share
+"6% Each for Climate & Wildlife Habitat"
+Climate regulation and habitat for wildlife account for
+about 6% each.
+MMNEMONIC 46
+Primary vs Secondary Carnivore
+"Primary Carnivore = Secondary Consumer (T3)"
+Primary carnivores eat herbivores (Primary consumers),
+placing them at Trophic Level 3.
+MMNEMONIC 47
+Autotrophs vs Heterotrophs Roles
+"Producers Fix, Consumers Mix, Decomposers
+Solv-it"
+Producers fix solar energy, consumers transfer it,
+decomposers recycle elements back to abiotics.
+MMNEMONIC 48
+Ecological Succession Key Characteristic
+"P-O-P: Predictable Orderly Parallel"
+Changes are sequential, orderly and predictable, parallel to
+environmental changes.
+MMNEMONIC 49
+Biomass Measurement Unit
+MMNEMONIC 50
+Golden Ecosystem Rule for NEET
+
+-- 9 of 76 --
+
+"D W i ht i ALWAYS P f d 	F h" 	"E 	FLOWS N t i t CYCLE!"
+NCERT Class 12 Biology - Ecosystem Mnemonics 	Page 5 of 5
+
+-- 10 of 76 --
+
+NCERT BIOLOGY CLASS 12
+Chapter 11: Organisms and Populations — 50 High-Yield Mnemonics 	NEET / CBSE Special
+PART 1: ORGANISMS & ABIOTIC FACTORS (MNEMONICS 1 – 10)
+#01 	Levels of Biological Organization 	O - P - C - B
+O – Organism (Basic functional biological unit)
+P – Population (Group of individuals of same species)
+C – Community (Interacting populations of different species)
+B – Biome (Major regional ecological unit, e.g., Desert)
+Ecology is studied at four main levels of biological organization.
+#02 	Major Biomes of India 	T - D - R - S
+T – Tropical Rain Forest
+D – Deciduous Forest
+R – Rain-shadow Desert (Arid regions)
+S – Sea Coast / Coastal biomes
+Temperature and annual precipitation variations create India's major biomes.
+#03 	Key Abiotic Factors 	T - W - L - S
+T – Temperature (Most ecologically relevant abiotic factor)
+W – Water (Influences productivity and distribution)
+L – Light (Drives photosynthesis and photoperiodism)
+S – Soil (pH, grain size, and mineral composition)
+These four key environmental variables dictate organismal survival and habitats.
+#04 	Thermal Tolerance Ranges 	EURY (Wide) vs STENO (Narrow)
+Eurythermal: Tolerates wide temperature range (e.g., Mammals, Birds)
+Stenothermal: Restricted to narrow temperature range (e.g., Polar bears, Reptiles)
+Prefix "Eury-" = Wide; Prefix "Steno-" = Narrow.
+#05 	Salinity Tolerance in Aquatic Habitats 	Euryhaline vs Stenohaline
+Euryhaline: Tolerates wide range of salinities (e.g., Salmon, Estuarine fish)
+Stenohaline: Restricted to narrow salinity range (e.g., Goldfish, Oceanic sharks)
+Inland water <5 ppt; Sea water 30–35 ppt; Hypersaline lagoons >100 ppt.
+#06 	Responses to Abiotic Stress 	R - C - M - S
+R – Regulate (Maintain internal homeostasis via physiological means)
+C – Conform (Internal environment changes with surrounding environment)
+M – Migrate (Move temporarily to hospitable conditions)
+S – Suspend (Dormancy, Spores, Hibernation, Aestivation)
+Four evolutionary options for organisms faced with stressful environments.
+#07 	Why Conformers Dominate (Thermoregulation Cost) 	SMALL = HIGH S/V
+Small size: High Surface Area to Volume ratio
+Heat Loss: Lose body heat very fast in cold conditions
+Metabolic Cost: Thermoregulation requires huge energy expenditure
+Explains why small animals like hummingbirds and shrews are rare in polar regions.
+#08 	Suspension Strategies Across Organisms 	H - A - D - S
+NCERT Biology Class 12 — Chapter 11 Mnemonics 	Page 1 of 5
+
+-- 11 of 76 --
+
+PART 2: ADAPTATIONS & POPULATION ATTRIBUTES (MNEMONICS 11 – 20)
+#11 	Xerophytic Plant Adaptations 	C - A - M - T - S
+C – CAM photosynthetic pathway (Stomata open at night)
+A – Absence of leaves / modified into spines (Opuntia)
+M – Mucilage / fleshy stems for water storage
+T – Thick cuticle on leaf surfaces
+S – Sunken stomata to minimize transpiration loss
+Structural and physiological xerophytic adaptations to arid desert conditions.
+#12 	Allen's Rule for Cold Climate Mammals 	ALLEN = Short Extremities
+A – Cold climate Mammals
+L – Lower length of ears and limbs (Extremities)
+L – Less heat loss minimized by lower Surface Area
+E – Seals have thick fat layer (Blubber) as insulator
+Morphological rule minimizing heat loss in cold climate mammals.
+#13 	Biochemical Adaptations in Extreme Habitats 	A - F - B
+A – Archaebacteria in hot springs/hydrothermal vents (>100°C)
+F – Fishes in Antarctic waters (Antifreeze proteins prevent freezing)
+B – Benthic marine invertebrates under high hydrostatic pressure
+Biochemical variations allow survival in extreme physical conditions.
+#14 	Population Attributes vs Individual Attributes 	B - D - S - A
+B – Birth rate (Per capita births, not individual birth)
+D – Death rate (Per capita deaths, not individual death)
+S – Sex ratio (Percentage of males and females)
+A – Age distribution (Pyramid representation of age groups)
+Populations have collective attributes that individual organisms lack.
+#15 	Age Pyramid Shapes & Growth Trends 	E - S - D
+E – Expanding (Triangular pyramid: Pre-reproductive > Reproductive)
+S – Stable (Bell-shaped: Pre-reproductive = Reproductive)
+D – Declining (Urn-shaped: Pre-reproductive < Reproductive)
+Age structure diagrams predict future population growth status.
+#16 	Methods of Measuring Population Density 	P - C - T - N
+P – Percent cover or Biomass (Used for single massive Banyan tree)
+C – Count / Total Head Count (Direct census)
+T – Trapping / Pug marks & fecal pellets (Tiger census)
+N – Number per trap (Relative density for fish)
+Absolute head count is often impossible; relative density methods are used.
+#17 	Four Factors Regulating Population Density 	B - I - D - E
+B – Births / Natality (+) [Increases density]
+I – Immigration (+) [Increases density]
+D – Deaths / Mortality (-) [Decreases density]
+E – Emigration (-) [Decreases density]
+Density formula: Nt+1 = Nt + [(B + I) - (D + E)].
+#18 	Exponential Growth Equation 	dN/dt = rN
+NCERT Biology Class 12 — Chapter 11 Mnemonics 	Page 2 of 5
+
+-- 12 of 76 --
+
+PART 3: LIFE HISTORY & INTERSPECIFIC INTERACTIONS (MNEMONICS 21 – 30)
+#21 	Reproductive Strategies (Breeding Frequency) 	ONCE vs MANY
+Breed ONCE in lifetime: Pacific Salmon fish, Bamboo plant
+Breed MANY times in lifetime: Most Birds, Mammals
+Organisms evolve to maximize Darwinian fitness in their specific niche.
+#22 	Offspring Number vs Size Strategy 	MANY-SMALL vs FEW-LARGE
+Many small-sized offspring: Oysters, Pelagic fishes
+Few large-sized offspring: Birds, Mammals (Elephants, Humans)
+Trade-off between energy investment per offspring and total clutch size.
+#23 	Interspecific Interactions Sign Matrix 	+ / - / 0
+Mutualism (+/+): Both species benefit
+Competition (-/-): Both species harmed
+Predation & Parasitism (+/-): One benefits, one harmed
+Commensalism (+/0): One benefits, one unaffected
+Amensalism (-/0): One harmed, one unaffected
+Standard ecological classification of two-species interactions.
+#24 	Ecological Roles of Predators 	T - R - A - P
+T – Transfer energy across trophic levels
+R – Regulate prey population density (Prevents pest outbreaks)
+A – Maintain species Diversity (Reduces interspecific prey competition)
+P – Prudent nature (Avoids over-exploitation of prey)
+Predators act as biological control agents and community stabilizers.
+#25 	Pisaster Starfish Removal Experiment 	PISASTER = 10 Invertebrates Extinct
+Location: Rocky intertidal communities of American Pacific Coast
+Removal Effect: Over 10 species of invertebrates became extinct within a year
+Mechanism: Extinction due to unchecked interspecific competition among prey
+Classic ecological field experiment demonstrating predator-maintained diversity.
+#26 	Invasive Species Example (Prickly Pear Cactus) 	CACTUS + MOTH
+Invasion: Prickly Pear Cactus introduced into Australia (1920s) caused havoc
+Biological Control: Controlled by introducing cactus-feeding Cactoblastis moth
+Demonstrates how invasive exotic species thrive when natural predators are absent.
+#27 	Prey Defense Mechanisms (Animals) 	C - A - M - O
+C – Camouflage / Cryptic coloration (Insects, Frogs)
+A – Chemical defense (Monarch butterfly is distasteful due to toxic weed diet)
+M – Mimicry (Non-poisonous species mimicking poisonous ones)
+O – Odor / Poisonous secretions (Poison dart frog)
+Evolving defensive traits reduces probability of predation.
+#28 	Plant Defenses Against Herbivores 	T - H - O - R - N
+Morphological: Thorns (Acacia, Cactus)
+Chemical: Cardiac glycosides (Calotropis prevents cattle grazing)
+Commercial Alkaloids: Nicotine, Caffeine, Quinine, Strychnine, Opium
+Nearly 25% of all insects are phytophagous (feed on plant sap/tissue).
+NCERT Biology Class 12 — Chapter 11 Mnemonics 	Page 3 of 5
+
+-- 13 of 76 --
+
+PART 4: COMPETITION & PARASITISM (MNEMONICS 31 – 40)
+#31 	Competitive Release Experiment (Connell) 	BALANUS > CHthamalus
+Location: Rocky sea coasts of Scotland
+Superior: Larger barnacle Balanus dominates intertidal zone
+Inferior: Smaller barnacle Chthamalus excluded
+Release: When Balanus removed, Chthamalus expands territory
+Removal of a superior competitor allows geographically restricted species to expand.
+#32 	Gause's Competitive Exclusion Principle 	G - A - U - S - E
+G – Two closely related species competing for same limited resources
+A – Cannot co-exist indefinitely
+U – Competitive inferior will be eliminated eventually
+S – Valid only when resources are limiting
+Fundamental rule governing strict ecological niche overlap.
+#33 	Resource Partitioning (MacArthur's Warblers) 	WARBLERS = 5 Niches
+Experimenter: Robert MacArthur
+Subjects: 5 closely related species of Warbler birds living on same tree
+Co-existence Mechanism: Foraging behavioral differences in different tree zones
+Species avoid competitive exclusion by partitioning time/space resources.
+#34 	Parasitic Adaptations 	L - O - S - S
+L – Loss of unnecessary sense organs
+O – Development of Organs for attachment (Suckers, Hooks)
+S – Special loss of digestive system (Absorbs nutrients through skin)
+S – Superior/High reproductive capacity
+Specialized morphological and physiological adaptations for parasitic lifestyle.
+#35 	Complex Life Cycles of Parasites 	FLUKE = Snail + Fish
+Human Liver Fluke: Requires 2 intermediate hosts (Snail + Fish)
+Malarial Parasite (Plasmodium): Requires Vector host (Mosquito) + Human host
+Intermediate hosts facilitate parasitism and transfer to primary host.
+#36 	Ectoparasite Examples 	L - T - C - C
+L – Lice on Humans
+T – Ticks on Dogs
+C – Copepods on Marine Fish
+C – Cuscuta (Achlorophyllous parasitic plant) on Hedge plants
+Ectoparasites feed on the external surface of the host organism.
+#37 	Endoparasite Characteristics 	INSIDE = SIMPLIFIED
+Location: Live inside host body (Liver, Kidney, RBCs, Gut)
+Anatomy: Extreme simplification of morphological/anatomical features
+Emphasis: Enormous reproductive potential
+Endoparasitic life cycle is more complex due to internal host environment.
+#38 	Brood Parasitism in Birds 	CUCKOO + CROW
+Parasite: Cuckoo (Koel) lays eggs in Crow's nest
+Adaptation: Parasite eggs mimic host eggs in size and color
+Season: Occurs during spring to summer breeding season
+NCERT Biology Class 12 — Chapter 11 Mnemonics 	Page 4 of 5
+
+-- 14 of 76 --
+
+PART 5: MUTUALISM & AMENSALISM (MNEMONICS 41 – 50)
+#41 	Lichen Mutualism (+/+) 	ALGAE + FUNGI
+Phycobiont (Algae/Cyanobacteria): Prepares food via photosynthesis
+Mycobiont (Fungi): Provides shelter, absorbs water & mineral nutrients
+Obligate symbiotic relationship essential for mutual survival.
+#42 	Mycorrhizal Mutualism (+/+) 	FUNGI + ROOT
+Fungal Symbiont (e.g., Glomus): Absorbs Phosphorus from soil for plant
+Plant Partner: Provides energy-rich carbohydrates/food to fungus
+Enhances drought tolerance and root pathogen resistance in plants.
+#43 	Fig Tree and Wasp Mutualism 	FIG + WASP
+Wasp: Pollinates Fig inflorescence while ovipositing (laying eggs)
+Fig Tree: Offers developing seeds inside fruit as food for wasp larvae
+Strict 1-to-1 co-evolved plant-pollinator mutualism.
+#44 	Sexual Deceit in Mediterranean Orchid (Ophrys) 	O - P - H - R - Y - S
+Petal Mimicry: One petal mimics female bee (Colletes) in color/size/markings
+Pseudocopulation: Male bee attempts mating with flower, transferring pollen
+Co-evolution: If female bee evolves new markings, orchid petal must co-evolve
+Classic example of co-evolution and sexual deception for pollination.
+#45 	Cheating in Mutualism 	NECTAR ROBBERS
+Nectar / Pollen Robbers: Insects that consume nectar without aiding pollination
+Evolutionary Countermeasure: Plants evolve floral structures to prevent cheating
+Mutualistic interactions require mechanisms to safeguard against exploiters.
+#46 	Amensalism (-/0) Definition & Antibiosis 	P - E - N - I - C - I - L - L - I - U - M
+Penicillium Fungus: Secretes Penicillin antibiotic
+Bacteria: Inhibited or killed (-)
+Fungus: Unaffected (0)
+One species is harmed while the other remains entirely unaffected.
+#47 	Allelopathy as Amensalism 	BLACK WALNUT
+Black Walnut tree (Juglans nigra): Secretes chemical Juglone
+Effect: Inhibits growth of seedling plants nearby (-)
+Walnut tree: Unaffected (0)
+Chemical inhibition between plant species is a form of amensalism.
+#48 	r-Selected vs K-Selected Species Summary 	r = FAST ; K = SLOW
+r-strategists: Small size, rapid reproduction, short life, high r (e.g., Insects, Weeds)
+K-strategists: Large size, slow reproduction, long life, strong competitors (e.g., Humans, Elephants)
+Adaptations tailored for unstable (r) vs stable/saturated (K) environments.
+#49 	Verhulst-Pearl Growth Phases 	L - A - D - A
+L – Lag phase (Initial slow growth)
+A – Acceleration phase (Rapid growth)
+D – Deceleration phase (Growth slows due to resistance)
+A – Asymptote (Population stabilizes at Carrying Capacity K)
+NCERT Biology Class 12 — Chapter 11 Mnemonics 	Page 5 of 5
+
+-- 15 of 76 --
+
+NCERT CLASS 12 BIOLOGY - CHAPTER 10
+Biotechnology and Its Applications — 50 High-Yield Mnemonics Master Guide
+NEET & BOARD SPECIAL
+50 Ultra-Memory Tricks
+SECTION 1: BIOTECHNOLOGICAL APPLICATIONS IN AGRICULTURE (MNEMONICS 01
+– 08)
+NCERT SEC
+10.1
+#01 3 Options to Increase Food
+Production
+Agri
+Basics
+"Agro Organic Genetically Modified" (A-O-G)
+Agro-chemical based agriculture | Organic agriculture |
+Genetically engineered crop-based agriculture.
+NCERT Ref: Section 10.1, Page 178
+#02 5 Advantages of Genetically Modified
+(GM) Plants
+GM
+Crops
+"Tolerant Pests Post Nutritive Efficient" (T-P-P-N-E)
+1. More Tolerant to abiotic stresses | 2. Reduced reliance on
+chemical Pesticides | 3. Reduced Post-harvest losses | 4.
+Enhanced Nutritional value | 5. Increased Efficiency of mineral
+usage.
+NCERT Ref: Section 10.1, Page 179
+#03 	Source Bacteria of Bt Toxin 	Bt Cotton
+"Bt = Bacillus thuringiensis"
+Bacillus thuringiensis produces protein crystals during a
+specific phase of growth containing toxic insecticidal
+proteins.
+NCERT Ref: Section 10.1.1, Page 179
+#04 3 Insect Orders Killed by Bt Toxin Bt Specificity
+"Lepidopterans Coleopterans Dipterans" (LCD TV)
+Lepidopterans (tobacco budworm, armyworm) | Coleopterans
+(beetles) | Dipterans (flies, mosquitoes).
+NCERT Ref: Section 10.1.1, Page 179
+#05 Lepidopteran Insects Targeted by Bt Insects
+"Tobacco Army In Lepidoptera" (TAIL)
+Tobacco budworm & Armyworm belong to Lepidopterans.
+NCERT Ref: Section 10.1.1, Page 179
+#06 Inactive vs Active Bt Toxin Activation
+Mechanism
+Bt
+Mechanism
+"Protoxin in Acid, Active in Alkaline" (PA-AA)
+Bt toxin exists as inactive Protoxin in bacteria, but becomes
+Active crystalline toxin due to Alkaline pH in midgut of insect
+which solubilises crystals.
+NCERT Ref: Section 10.1.1, Page 179
+#07 	Bt Gut Action Site & Lysis 	Bt Mechanism
+"Midgut Epithelial Pores Lysis" (MEPL)
+Activated toxin binds to Midgut Epithelial cells → creates
+Pores → causes cell swelling & Lysis → insect death.
+NCERT Ref: Section 10.1.1, Page 179
+#08 cry I Ac vs cry II Ab vs cry I Ab Genes Cry Genes
+"Cotton is 1Ac-2Ab, Corn is 1Ab"
+cryIAc & cryIIAb control Cotton Bollworms.
+cryIAb controls Corn Borer. (Remember: '1Ab' = 'A borer in
+corn').
+NCERT Ref: Section 10.1.1, Page 180
+
+-- 16 of 76 --
+
+NCERT Class 12 Biology - Chapter 10 Mnemonics Guide 	Page 1 of 5
+SECTION 1 (CONTD.) & SECTION 2: RNAI & MEDICAL APPLICATIONS
+(MNEMONICS 09 – 18)
+NCERT SEC 10.1.2 -
+10.2
+#09 Nematode Parasite of Tobacco Roots RNAi
+"Meloidogyne incognita Attacks Roots" (MAR)
+Meloidogyne incognita infects roots of tobacco plants and
+causes great reduction in yield.
+NCERT Ref: Section 10.1.2, Page 180
+#10 RNA Interference (RNAi) Cellular Defense RNAi
+"All Eukaryotes Silence mRNA with dsRNA"
+RNAi takes place in All Eukaryotic organisms as cellular
+defense. Involves Silencing of specific mRNA due to
+complementary dsRNA.
+NCERT Ref: Section 10.1.2, Page 180
+#11 Source of Complementary RNA in
+RNAi
+RNAi
+Source
+"Virus or Transposon (Jumping Genes)"
+Source: Infection by viruses having RNA genomes or mobile
+genetic elements (Transposons) that replicate via RNA
+intermediate.
+NCERT Ref: Section 10.1.2, Page 180
+#12 Vector used to Introduce
+Nematode Genes Agrobacterium
+"Agrobacterium Vector Transfers Sense + Antisense"
+Agrobacterium vectors were used to introduce nematode-
+specific genes producing both sense & anti-sense RNA.
+NCERT Ref: Section 10.1.2, Page 180
+#13 Golden Rice Key Nutrient Booster GM Food
+"Golden Rice = Vitamin A (Beta-Carotene)"
+Golden Rice is enriched with Vitamin A (prevents night
+blindness), developed by introducing beta-carotene synthesis
+genes.
+NCERT Ref: Section 10.1, Page 179
+#14 Number of Approved Recombinant
+Therapeutics Worldwide & India Therapeutics
+"30 World, 12 India" (30-12 Rule)
+30 recombinant therapeutics approved for human use
+worldwide; 12 of these are currently marketed in India.
+NCERT Ref: Section 10.2, Page 181
+#15 Pro-Insulin Structure vs Mature Insulin Insulin
+"Pro-Insulin has C-peptide; Mature Cleaves C"
+Pro-insulin contains A, B, and C chains. During maturation, C-
+peptide is removed. Mature insulin contains only A and B
+chains.
+NCERT Ref: Section 10.2.1, Page 181
+#16 Disulfide Bonds in Human Insulin Insulin Structure
+"A & B Linked by Disulfide Bridges"
+Chains A and B of functional human insulin are linked
+together by inter-chain Disulfide bonds.
+NCERT Ref: Section 10.2.1, Page 181
+#17 Eli Lilly Company & Year of Humulin Eli Lilly
+"Eli Lilly 1983 - E. coli Insulin"
+In 1983, Eli Lilly (an American company) prepared two DNA
+sequences for A & B chains and introduced them into
+plasmids of E. coli.
+NCERT Ref: Section 10.2.1, Page 181
+#18 Gene Therapy First Clinical
+Application Year & Patient
+Gene
+Therapy
+"1990: 4-Year-Old Girl with ADA Deficiency"
+First clinical gene therapy given in 1990 to a 4-year-old girl
+with Adenosine Deaminase (ADA) deficiency.
+NCERT Ref: Section 10.2.2, Page 182
+
+-- 17 of 76 --
+
+NCERT Class 12 Biology - Chapter 10 Mnemonics Guide 	Page 2 of 5
+SECTION 2 (CONTD.) & SECTION 3: GENE THERAPY & DIAGNOSTICS
+(MNEMONICS 19 – 28)
+NCERT SEC 10.2.2 -
+10.2.3
+#19 Role of Adenosine Deaminase Enzyme ADA Role
+"ADA Crucial for Immune System"
+Adenosine Deaminase enzyme is essential for the proper
+functioning of the Immune System (specifically T-
+lymphocytes).
+NCERT Ref: Section 10.2.2, Page 182
+#20 Temporary Treatments for ADA
+Deficiency
+ADA
+Treatments
+"Bone Marrow or Enzyme Replacement Therapy"
+ADA deficiency can be treated by: 1. Bone marrow
+transplantation or 2. Enzyme replacement therapy (injection
+of functional ADA). Neither is fully curative.
+NCERT Ref: Section 10.2.2, Page 182
+#21 Permanent Cure for ADA
+Deficiency
+Permanent
+Cure
+"ADA Gene into Early Embryonic Cells = Permanent"
+If functional ADA gene isolated from marrow cells is
+introduced into cells at Early Embryonic Stages, it is a
+permanent cure.
+NCERT Ref: Section 10.2.2, Page 182
+#22 Vector for Gene Therapy in Human
+Lymphocytes Retrovirus
+"Retroviral Vector Delivers ADA cDNA"
+A Retroviral vector is used to introduce functional ADA cDNA
+into cultured lymphocytes of the patient.
+NCERT Ref: Section 10.2.2, Page 182
+#23 3 Early Molecular Diagnostic
+Techniques Diagnostics
+"PCR, rDNA, ELISA" (PRE Diagnostics)
+Early detection is possible by: 1. PCR | 2. Recombinant DNA
+Technology | 3. ELISA. Conventional serum/urine analysis
+fails early on.
+NCERT Ref: Section 10.2.3, Page 183
+#24 PCR Application in Pathogen
+Detection
+PCR
+Diagnostic
+"Amplifies Low Nucleic Acid Before Symptoms"
+PCR amplifies very low concentrations of viral/bacterial
+DNA/RNA, enabling detection before disease symptoms
+appear.
+NCERT Ref: Section 10.2.3, Page 183
+#25 PCR for Disease & Mutation Detection PCR Uses
+"AIDS, Cancer, Gene Mutations"
+PCR routinely detects: HIV in suspected AIDS patients,
+Mutations in cancer genes, and various genetic disorders.
+NCERT Ref: Section 10.2.3, Page 183
+#26 Molecular Probe Principle for
+Gene Mutation
+Probe
+Hybridisation
+"Radiolabeled Probe + Autoradiography = No Band
+for Mutated Gene"
+Single-stranded DNA/RNA tagged with radioactive molecule
+(probe) hybridises to complementary DNA. Mutated gene
+won't bind probe → No photographic clone band.
+NCERT Ref: Section 10.2.3, Page 183
+#27 	ELISA Full Form & Principle 	ELISA
+"Enzyme-Linked Immuno-Sorbent Assay = Antigen-
+Antibody"
+ELISA is based on Antigen-Antibody Interaction. Detects
+pathogens via antigen presence or antibodies produced
+against pathogen.
+NCERT Ref: Section 10.2.3, Page 183
+#28 Definition of Transgenic Animals Transgenics
+"Animals with Manipulated & Expressed Foreign
+Gene"
+Animals that have had their DNA manipulated to possess and
+express an extra (foreign) gene are called transgenic animals.
+NCERT Ref: Section 10.3, Page 183
+
+-- 18 of 76 --
+
+NCERT Class 12 Biology - Chapter 10 Mnemonics Guide 	Page 3 of 5
+SECTION 3 (CONTD.) & SECTION 4: TRANSGENIC ANIMALS & ETHICAL ISSUES
+(MNEMONICS 29 – 38)
+NCERT SEC 10.3 -
+10.4
+#29 % of Transgenic Animals that are
+Mice
+Transgenic
+Stat
+"Over 95% Transgenics are Mice"
+More than 95 percent of all existing transgenic animals are
+mice (used for genetic, cancer & vaccine research).
+NCERT Ref: Section 10.3, Page 183
+#30 5 Major Reasons to Produce
+Transgenic Animals
+Transgenic
+Reasons
+"Physiology, Disease, Biologicals, Vaccines, Safety"
+(P-D-B-V-S)
+1. Normal Physiology & development | 2. Study of Disease
+models | 3. Biological products | 4. Vaccine safety testing | 5.
+Chemical Safety/toxicity testing.
+NCERT Ref: Section 10.3, Page 183-184
+#31 Human Diseases Modeled in
+Transgenic Animals
+Disease
+Models
+"Cancer, Cystic Fibrosis, Rheumatoid Arthritis,
+Alzheimer's" (CCRA)
+Transgenic models exist for: Cancer, Cystic fibrosis,
+Rheumatoid arthritis, and Alzheimer’s disease.
+NCERT Ref: Section 10.3, Page 184
+#32 Alpha-1-Antitrypsin Protein
+Treatment
+Biological
+Product
+"Alpha-1-Antitrypsin treats Emphysema" (A1AT =
+Emphysema)
+Human protein α-1-antitrypsin produced by transgenics is
+used to treat Emphysema. Similar attempts made for PKU
+and Cystic Fibrosis.
+NCERT Ref: Section 10.3, Page 184
+#33 First Transgenic Cow "Rosie" Year &
+Milk Content
+Rosie
+Cow
+"Rosie 1997: 2.4 g/L Alpha-Lactalbumin"
+In 1997, Rosie produced human protein-enriched milk (2.4
+grams per litre) containing human alpha-lactalbumin
+(balanced for human infants).
+NCERT Ref: Section 10.3, Page 184
+#34 Polio Vaccine Testing Transgenic
+Animal
+Vaccine
+Safety
+"Transgenic Mice Test Polio Vaccine Before
+Monkeys"
+Transgenic mice are developed for testing safety of polio
+vaccine before batch release for use in humans.
+NCERT Ref: Section 10.3, Page 184
+#35 	GEAC Full Form & Dual Role 	GEAC
+"Genetic Engineering Approval Committee"
+GEAC makes decisions regarding: 1. Validity of GM research |
+2. Safety of introducing GM organisms for public services.
+NCERT Ref: Section 10.4, Page 184
+#36 Rice Diversity in India & Basmati
+Varieties
+Basmati
+Stats
+"200,000 Rice Varieties, 27 Basmati"
+India has ~200,000 varieties of rice. There are 27
+documented varieties of Basmati grown in India.
+NCERT Ref: Section 10.4, Page 185
+#37 Basmati Rice Patent Controversy Year Biopiracy
+"1997 US Patent on Basmati"
+In 1997, an American company got patent rights on Basmati
+rice through US Patent & Trademark Office by crossing semi-
+dwarf varieties with Indian Basmati.
+NCERT Ref: Section 10.4, Page 185
+#38 	Definition of Biopiracy 	Biopiracy
+"Use of Bio-resources Without Authorization or
+Compensation"
+Biopiracy refers to use of bio-resources by MNCs/nations
+without proper authorization from countries/people
+concerned without compensatory payment.
+NCERT Ref: Section 10.4, Page 185
+
+-- 19 of 76 --
+
+NCERT Class 12 Biology - Chapter 10 Mnemonics Guide 	Page 4 of 5
+SECTION 4 (CONTD.) & HIGH-YIELD QUICK RECALL MATRIX (MNEMONICS
+39 – 50)
+NCERT SEC 10.4 &
+SUMMARY
+#39 Traditional Indian Plants Targeted by
+Foreign Patents
+Biopiracy
+Targets
+"Basmati, Neem, Turmeric" (BNT)
+Indian traditional products targeted by foreign patent
+attempts include Basmati rice, Neem, and Turmeric.
+NCERT Ref: Section 10.4, Page 185
+#40 Indian Patent Bill Amendment
+Purpose
+Indian
+Law
+"Second Amendment: Emergency & Research
+Terms"
+The Indian Parliament cleared the 2nd Amendment of Indian
+Patents Bill to consider patent terms, emergency provisions, &
+research dev.
+NCERT Ref: Section 10.4, Page 185
+#41 Bioremediation & Energy Production
+Apps Applications
+"Waste Treatment, Bioremediation, Energy"
+Biotechnology applications extend beyond healthcare/agri to
+processed food, bioremediation, waste treatment & energy
+production.
+NCERT Ref: Section 10.1, Page 178
+#42 Protoxin Solubilisation Factor Bt Solubilisation
+"Alkaline pH Solubilises Protoxin"
+High Alkaline pH of insect gut converts inactive protoxin to
+active soluble toxin.
+NCERT Ref: Section 10.1.1, Page 179
+#43 Cotton Bollworm vs Corn Borer
+Genes
+Cry
+Distinction
+"Bollworm = c-r-y I Ac / II Ab; Borer = c-r-y I Ab"
+Remember capitalization: Protein = Cry, Gene = cry. Bollworm
+= 1Ac & 2Ab. Borer = 1Ab.
+NCERT Ref: Section 10.1.1, Page 180
+#44 Double Stranded RNA Formation
+in RNAi
+RNAi
+Mechanism
+"Sense + Antisense = dsRNA Initiator"
+Two complementary RNA strands (sense + antisense) bind to
+form dsRNA, initiating silencing of specific mRNA.
+NCERT Ref: Section 10.1.2, Page 180
+#45 	Humulin Chains Bonding 	Humulin
+"Produced Separately, Combined by Disulfide"
+A and B chains produced separately in E. coli, extracted, and
+combined by forming disulfide bonds.
+NCERT Ref: Section 10.2.1, Page 181
+#46 Immune Cell Type Affected by ADA
+Deficiency Lymphocytes
+"ADA Failure Destroys T-Lymphocytes"
+ADA deficiency causes toxic accumulation of dATP,
+destroying functional T-Lymphocytes and disabling immunity.
+NCERT Ref: Section 10.2.2, Page 182
+#47 	Probe Tagging Element 	Molecular Probe
+"Probe = ssDNA/RNA + Radioactive Molecule"
+A molecular probe is a single stranded DNA or RNA tagged
+with a radioactive molecule used to detect complementary
+target genes.
+NCERT Ref: Section 10.2.3, Page 183
+#48 Chemical Safety Testing
+Advantage
+Toxicity
+Testing
+"Transgenics More Sensitive to Toxins"
+Transgenic animals made carry genes that make them more
+sensitive to toxic substances, yielding results in less time.
+NCERT Ref: Section 10.3, Page 184
+#49 Key Years Quick Memory Bundle Years Recap
+"1983 Eli Lilly, 1990 ADA Therapy, 1997 Rosie &
+Basmati Patent"
+1983: Eli Lilly rDNA Insulin | 1990: First Gene Therapy | 1997:
+Transgenic Cow Rosie & US Basmati Patent.
+NCERT Ref: Ch 10 Timeline
+#50 3 Critical Research Areas of
+Biotechnology
+Core
+Biotech
+"Catalyst, Optimal Conditions, Downstream" (COD)
+1. Best Catalyst (microbe/enzyme) | 2. Optimal conditions via
+engineering | 3. Downstream processing technologies to
+purify proteins.
+NCERT Ref: Section 10.1, Page 178
+Topic 	Key Entity / Value 	NCERT High-Yield Fact
+Bt Genes 	cryIAc, cryIIAb vs cryIAb 	1Ac + 2Ab = Cotton Bollworm | 1Ab = Corn Borer
+Gene Therapy 	1990 / 4-yr-old girl 	ADA Deficiency treated using Retroviral cDNA vector
+Rosie Cow 	1997 / 2.4 g/L 	Human α-lactalbumin enriched milk for infants
+
+-- 20 of 76 --
+
+NCERT Class 12 Biology - Chapter 10 Mnemonics Guide 	Page 5 of 5
+
+-- 21 of 76 --
+
+NEET BIOLOGY MASTER GUIDE: CHAPTER 9
+BIOTECHNOLOGY: PRINCIPLES AND PROCESSES 	50 HIGH-YIELD MNEMONICS FOR NCERT CLASS 12
+1. CORE PRINCIPLES & HISTORICAL MILESTONES 	MNEMONICS 01 – 10
+1 EFB Definition Scope
+IN-OC-M (In-Oak-M)
+Integration of Integration, Natural science, Organisms, Cells,
+Molecular analogues for products & services.
+2 Two Core Biotech Pillars
+G - M (Genetics & Maintenance)
+Genetic engineering (alter DNA/RNA) & Maintenance of sterile
+ambience for microbe growth.
+3 First Recombinant DNA Creators
+COHEN & BOYER (1972)
+Cohen & Boyer linked antibiotic resistance gene with plasmid
+of Salmonella typhimurium.
+4 Host for 1st rDNA Experiment
+SALMONELLA TYPHI
+Original plasmid donor: Salmonella typhimurium carrying
+resistance against antibiotics.
+5 Three Steps of GMO Creation
+I - M - M
+Identification of DNA, Maintenance in host, Maintenance &
+transfer to progeny.
+6 Tools of Recombinant DNA
+E - V - H - P (Every Very Happy Person)
+Enzymes, Vectors, Host organism, Polymerase & ligase
+enzymes.
+7 First Restriction Endonuclease
+HIND II (Hind-Two)
+Hind II cuts DNA at a specific 6-base pair recognition
+sequence (isolated 5 yrs later).
+8 Nuclease Enzyme Types
+EXO vs ENDO
+Exonucleases remove nucleotides from ends; Endonucleases
+cut at specific internal sites.
+9 EcoRI Naming Scheme
+E - CO - R - I
+Escherichia (Genus), coli (Species), RY13 (Strain), I (1st
+isolated enzyme).
+10 EcoRI Palindromic Sequence
+G A A T T C
+Reads same 5'→3' on both strands: 5'-GAATTC-3' cuts
+between G and A.
+NCERT HIGH-YIELD FOCUS: ECORI ACTION
+EcoRI leaves single-stranded overhanging stretches called Sticky Ends. They form hydrogen bonds with complementary cut
+counters, facilitating the action of DNA Ligase (molecular glue).
+
+-- 22 of 76 --
+
+NCERT Class 12 Biology - Chapter 9 Mnemonics 	Page 1 of 4
+2. VECTOR CLONING & PBR322 ANATOMY 	MNEMONICS 11 – 22
+pBR322
+4361 bp
+ampR (PstI, PvuI)
+tetR (BamHI, SalI)
+ori
+rop (PvuII)
+Gene Region 	Restriction Sites 	Functional Role
+ampR (Ampicillin) 	PstI, PvuI 	Selectable marker for transformant selection
+tetR (Tetracycline) 	BamHI, SalI 	Selectable marker (Insertional Inactivation site)
+rop 	PvuII 	Codes for proteins in plasmid replication
+ori 	Sites: EcoRI, ClaI, HindIII 	Origin of replication & controls copy number
+11 tetR Sites Mnemonic
+BAM - SAL in TET
+BamHI and SalI sites are located inside the tetR resistance
+gene.
+12 ampR Sites Mnemonic
+PST - PVU-1 in AMP
+PstI and PvuI restriction enzyme sites are present inside the
+ampR gene.
+13 rop Region Site
+PVU-2 in ROP
+PvuII cuts inside rop (Replication of Plasmid protein coding
+region).
+14 Top 3 Unique Vector Sites
+E - C - H (Eco-Cla-Hind)
+EcoRI, ClaI, and HindIII cut outside antibiotic resistance genes
+in pBR322.
+15 Essential Vector Elements
+O - S - C
+Ori (Origin), Selectable Marker, Cloning / Recognition sites.
+16 Role of Ori
+START & COUNT
+Controls replication initiation and determines the copy
+number of linked DNA.
+17 Selectable Marker Role
+E - S - T
+Helps Eliminate non-transformants, Select transformants,
+Tolerate antibiotics.
+18 Insertional Inactivation
+INSERT = INACTIVATE
+Inserting foreign DNA inside a marker gene causes loss of
+function of that gene.
+19 Blue-White Screening Basis
+WHITE = RECOMBINANT
+Inactivation of β-galactosidase: Non-recombinants = Blue;
+Recombinants = White.
+20 Chromogenic Substrate
+X - GAL
+Substrate used in insertional inactivation of lacZ gene to
+produce blue color.
+21 Plant Genetic Engineer
+AGRO TUMEFACIENS
+Agrobacterium tumefaciens delivers 'T-DNA' to transform
+normal plant cells into tumors.
+22 Ti Plasmid Modification
+DISARMED VECTOR
+Tumor-inducing (Ti) plasmid is disarmed to deliver genes of
+interest without causing disease.
+
+-- 23 of 76 --
+
+NCERT Class 12 Biology - Chapter 9 Mnemonics 	Page 2 of 4
+3. COMPETENT HOST & TRANSFORMATION METHODS 	MNEMONICS 23 – 36
+23 Animal Viral Vector
+RETROVIRUS DISARMED
+Retroviruses are disarmed and used to transfer desirable
+genes into animal cells.
+24 Divalent Cation Role
+Ca2+ ENTERS PORES
+Calcium increases cell wall pore efficiency, aiding DNA entry
+into bacterial cell wall.
+25 Heat Shock Sequence
+ICE → 42°C → ICE
+Incubate cells on Ice, heat shock at 42°C, then return
+immediately to Ice.
+26 Micro-injection Target
+ANIMAL NUCLEUS
+Direct injection of rDNA into the nucleus of an animal cell
+using a micro-needle.
+27 Biolistics / Gene Gun Target
+PLANT CELLS + GOLD/TUNGSTEN
+High velocity micro-particles of Gold or Tungsten coated with
+DNA shot into plant cells.
+28 Disarmed Pathogen Method
+INFECT TO TRANSFER
+Allowed to infect host cells to transfer rDNA naturally without
+causing disease.
+29 Isolation Step 1: Bacterial Cell
+LYSOZYME
+Lysozyme breaks open bacterial cell walls to release DNA and
+cell contents.
+30 Isolation Step 1: Plant Cell
+CELLULASE
+Cellulase digests rigid cellulosic plant cell walls during DNA
+extraction.
+31 Isolation Step 1: Fungal Cell
+CHITINASE
+Chitinase breaks down chitinous cell walls of fungi during
+nuclear isolation.
+32 RNA Removal Enzyme
+RIBONUCTLEASE (RNase)
+Treating mixture with RNase removes RNA impurities without
+damaging DNA strands.
+33 Protein Removal Enzyme
+PROTEASE
+Protease degrades proteins/histones associated with DNA in
+nuclear extracts.
+34 Precipitation of Pure DNA
+CHILLED ETHANOL
+Adding Chilled Ethanol precipitates purified DNA as fine
+threads/spools.
+35 DNA Spooling Action
+SPOOLING = THREAD WINDING
+Collection of precipitated DNA threads on a glass rod is called
+Spooling.
+36 Gel Electrophoresis Medium
+AGAROSE (Seaweed)
+Natural polymer extracted from seaweeds used as matrix for
+separation.
+QUICK MEMORY CHECK: HOST TRANSFORMATION SPECIFICS
+Animals: Micro-injection. Plants: Biolistics / Gene Gun (Gold/Tungsten). Bacteria: Chemical treatment (CaCl2 + Heat Shock).
+
+-- 24 of 76 --
+
+NCERT Class 12 Biology - Chapter 9 Mnemonics 	Page 3 of 4
+4. PROCESSES OF RDNA TECHNOLOGY & BIOREACTORS 	MNEMONICS 37 – 50
+37 DNA Charge & Gel Migration
+ANODE ATTRACTS (-) DNA
+DNA is negatively charged, moves towards positive electrode
+(Anode).
+38 Gel Sieving Principle
+SMALLER = FARTHER
+Smaller DNA fragments move faster and farther through
+agarose pores.
+39 DNA Visualization Stain
+EtBr + UV = ORANGE
+Ethidium Bromide under UV radiation gives bright orange-
+colored bands.
+40 Elution Process
+CUT & EXTRACT
+Cutting out DNA bands from agarose gel and extracting them
+is Elution.
+41 PCR Three Sequential Steps
+D - A - E
+Denaturation (94°C) → Annealing (54°C) → Extension (72°C).
+42 Thermostable Polymerase Source
+TAQ = THERMUS AQUATICUS
+Taq Polymerase isolated from thermophilic bacterium
+Thermus aquaticus.
+43 PCR Amplification Yield
+1 BILLION (30 Cycles)
+30 cycles of PCR amplify a single DNA fragment approximately
+1 billion times (230).
+44 Bioreactor Volume Capacity
+100 to 1000 LITRES
+Large scale culture vessels process 100 – 1000 litres of
+biological culture medium.
+45 Sparged Stirred-Tank Feature
+BUBBLES INCREASE AREA
+Sparged tanks blow sterile air bubbles to dramatically
+increase surface area for oxygen transfer.
+46 Bioreactor Control Parameters
+T - P - O - S - V
+Controls: Temperature, pH, Oxygen, Substrate, Vitamins &
+Salts.
+47 Downstream Processing (DSP)
+S - P - F
+Separation, Purification, and Formulation with suitable
+preservatives.
+48 DSP Testing Requirement
+CLINICAL TRIALS + QC
+Drugs require strict Clinical Trials and Quality Control (QC)
+testing for each batch.
+49 Upstream vs Downstream
+MAKING vs PURIFYING
+Upstream: Gene isolation & fermentation. Downstream:
+Extraction, separation & purification.
+50 Continuous Culture Advantage
+LOG PHASE MAINTENANCE
+Draining used medium and adding fresh medium keeps cells in
+exponential/log phase for higher yield.
+MASTER EXAM STRATEGY: NEET HIGH-YIELD SUMMARY
+Always remember PCR steps (D-A-E), pBR322 antibiotic site pairs (BamHI/SalI in tetR; PstI/PvuI in ampR), and Downstream
+processing excludes gene cloning / upstream expression!
+
+-- 25 of 76 --
+
+NCERT Class 12 Biology - Chapter 9 Mnemonics 	Page 4 of 4
+
+-- 26 of 76 --
+
+NCERT CLASS 12 BIOLOGY: CHAPTER 8 	NEET & BOARD REVISION
+PART 1: MICROBES IN HOUSEHOLD PRODUCTS (MNEMONICS 01–10)
+#01 Lactic Acid Bacteria (LAB) Functions 	NCERT p.177
+Mnemonic: "C - U - R - D - S"
+C – Coagulates and partially digests milk protein (casein)
+U – Upgrades nutritional quality by increasing Vitamin B12
+R – Reduces stomach pathogens by checking microbial growth
+D – Dose of inoculum / starter added to warm milk
+S – Produces Acids (lactic acid) to curdle milk
+LAB converts lactose into lactic acid, coagulating milk casein while boosting Vitamin B12 and suppressing intestinal disease-
+causing microbes.
+#02 Dual Role of Baker's & Brewer's Yeast 	NCERT p.177, 178
+Mnemonic: "B - A - K - E - R"
+B – Bread dough puffing (Baker's Yeast)
+A – Alcohol production via malt fermentation (Brewer's Yeast)
+K – Known species: Saccharomyces cerevisiae
+E – Ethanol + CO2 generated during anaerobic respiration
+R – Rises dough due to trapped CO2 bubbles
+S. cerevisiae ferments plant sugars into ethanol for brewery beverages and CO2 gas to leaven bakery bread dough.
+#03 Toddy Fermented Beverage 	NCERT p.178
+Mnemonic: "T - O - D - D - Y"
+T – Traditional drink of parts of Southern India
+O – Obtained by fermenting sap from Toddy Palms
+D – Drinks and foods made via wild yeast fermentation
+D – Distinctive refreshing taste with low alcohol content
+Y – Yielded naturally without artificial inoculants
+Toddy is a traditional South Indian drink produced by fermenting sugary palm sap with wild environmental yeasts.
+#04 Swiss Cheese Holes & Organism 	NCERT p.178
+Mnemonic: "P - O - R - E - S"
+P – Propionibacterium shermanii (Bacterium)
+O – Opens large holes due to high gas volume
+R – Releases massive amounts of CO2 gas
+E – Extra characteristic flavor and texture
+S – Swiss Cheese identity in boards/NEET
+Swiss cheese exhibits signature large holes created by high volumes of CO2 produced by Propionibacterium shermanii.
+#05 Roquefort Cheese Ripening 	NCERT p.178
+Mnemonic: "F - U - N - G - I"
+F – Fungal species: Penicillium roqueforti
+U – Unique sharp flavor developed during aging
+N – Needed to ripen the cheese completely
+G – Grows directly within cheese matrix
+NCERT Class 12 Biology • Chapter 8 Mnemonics 	Page 1 of 5
+Microbes in Human Welfare • 50 High-Yield Mnemonics Master Guide
+
+-- 27 of 76 --
+
+PART 2: BIOACTIVE MOLECULES & SEWAGE TREATMENT (MNEMONICS 11–20)
+#11 Organic Acid: Butyric Acid 	NCERT p.178
+Mnemonic: "B - U - T - Y - R - I - C"
+B – Butyric Acid product
+U – Unique species: Clostridium butylicum
+T – Type: Anaerobic Bacterium
+Y – Yields distinct butter-like odor compounds
+Clostridium butylicum is an anaerobic bacterium responsible for the industrial fermentative production of butyric acid.
+#12 Organic Acid: Lactic Acid 	NCERT p.178
+Mnemonic: "L - A - C - T - I - C"
+L – Lactic Acid production
+A – Agent: Lactobacillus species
+C – Class: Lactic Acid Bacteria (LAB)
+Lactobacillus species ferment carbohydrates to form lactic acid, used in dairy and industrial processing.
+#13 Lipases in Detergents 	NCERT p.178
+Mnemonic: "L - I - P - A - S - E"
+L – Lipase enzyme formulation
+I – Industry: Laundry detergent additive
+P – Powerful in removing oily/greasy stains
+A – Action: Hydrolyzes lipid ester bonds
+Microbial lipases break down fat and grease, making them critical additives in commercial laundry detergent formulations.
+#14 Pectinase & Protease in Juice Clarification 	NCERT p.178
+Mnemonic: "C - L - E - A - R"
+C – Clarifies commercial bottled fruit juices
+L – Liquid becomes clear compared to cloudy home juice
+E – Enzymes used: Pectinases and Proteases
+A – Action digests fiber wall fragments and protein haze
+Commercial bottled juices are clearer than homemade juices because pectinases and proteases degrade suspended fibers and
+protein precipitates.
+#15 Streptokinase as Clot Buster 	NCERT p.178
+Mnemonic: "C - L - O - T"
+C – Clot buster enzyme for blood vessels
+L – Life saver in Myocardial Infarction (heart attack)
+O – Obtained from bacterium Streptococcus
+T – Transformative genetic engineering modifies it
+Streptokinase, produced by Streptococcus bacteria and modified genetically, dissolves blood clots in patients with heart attacks.
+#16 Cyclosporin A Immunosuppressant 	NCERT p.178
+Mnemonic: "T - R - I - C - H - O"
+T – Trichoderma polysporum is the fungal source
+R – Rejection prevention in organ transplants
+I – Immunosuppressive bioactive agent
+C – Cell-mediated immunity suppressed selectively
+NCERT Class 12 Biology • Chapter 8 Mnemonics 	Page 2 of 5
+
+-- 28 of 76 --
+
+PART 3: SEWAGE TREATMENT & BIOGAS PRODUCTION (MNEMONICS 21–30)
+#21 Activated Sludge Destination 	NCERT p.180
+Mnemonic: "S - P - L - I - T"
+S – Settling tank allows flocs to form Activated Sludge
+P – Part 1 (small inoculum) pumped back into Aeration Tank
+P – Part 2 (major volume) pumped into Anaerobic Sludge Digesters
+Settled flocs form activated sludge; a tiny fraction serves as inoculum for aeration tanks, while most goes to anaerobic sludge
+digesters.
+#22 Anaerobic Sludge Digester Gases 	NCERT p.181
+Mnemonic: "M - C - H (Biogas Trio)"
+M – Methane (CH4) – Major inflammable component
+C – Carbon dioxide (CO2)
+H – Hydrogen sulfide (H2S)
+Anaerobic bacteria digest flocs in digesters, producing a gas mixture of CH4, CO2, and H2S known as Biogas.
+#23 Ganga & Yamuna Action Plans 	NCERT p.181
+Mnemonic: "M - O - E - F"
+M – Ministry of Environment and Forests initiated plans
+O – Objective: Build major Sewage Treatment Plants (STPs)
+E – Ensure only treated effluent is discharged into major rivers
+F – Protect River Ganga and Yamuna from raw sewage pollution
+The MoEF launched GAP and YAP to construct sewage treatment plants, preventing untreated domestic sewage from flowing
+into major Indian rivers.
+#24 Methanogens Habitat & Function 	NCERT p.181
+Mnemonic: "R - U - M - E - N"
+R – Rumen of cattle contains abundant methanogens
+U – Under anaerobic conditions, they digest cellulose
+M – Methanobacterium is the prime bacterium genus
+E – Excreta of cattle (Dung / Gobar) rich in these bacteria
+N – Natural source for rural Gobar Gas plants
+Methanogens live anaerobically in cattle rumen to break down cellulose; their presence in dung powers rural biogas generators.
+#25 Biogas Plant Construction Depth 	NCERT p.181
+Mnemonic: "D - E - E - P (10-15 Feet)"
+D – Deep concrete tank built 10 to 15 feet deep
+I – Inflow pipe feeds dung slurry
+F – Floating cover rises over slurry as biogas builds up
+O – Outlet pipe connects to nearby rural households for cooking
+A biogas plant features a 10–15 ft deep concrete pit with a floating cover that collects methane gas generated by slurry
+breakdown.
+#26 Indian Biogas Organizations 	NCERT p.182
+Mnemonic: "I - A - R - I & K - V - I - C"
+IARI – Indian Agricultural Research Institute
+KVIC – Khadi and Village Industries Commission
+NCERT Class 12 Biology • Chapter 8 Mnemonics 	Page 3 of 5
+
+-- 29 of 76 --
+
+PART 4: BIOCONTROL AGENTS & BIOFERTILISERS (MNEMONICS 31–40)
+#31 Baculoviruses & Nucleopolyhedrovirus 	NCERT p.183
+Mnemonic: "S - P - E - C - I - F - I - C"
+S – Species-specific narrow spectrum insecticidal action
+P – Pathogens belonging to genus Nucleopolyhedrovirus
+E – Excellent for Integrated Pest Management (IPM)
+C – Zero negative impact on non-target plants, birds, mammals
+Baculoviruses target specific arthropod pests without causing collateral damage to beneficial insects, mammals, or birds.
+#32 Integrated Pest Management (IPM) Role 	NCERT p.183
+Mnemonic: "I - P - M"
+I – Invaluable in ecologically sensitive target areas
+P – Preserves beneficial non-target insects
+M – Maximizes biological control over chemical pesticides
+IPM incorporates narrow-spectrum agents like baculoviruses to suppress pests while conserving beneficial ecosystem
+biodiversity.
+#33 Biofertilisers Source Groups 	NCERT p.184
+Mnemonic: "B - F - C"
+B – Bacteria (Rhizobium, Azotobacter)
+F – Fungi (Glomus mycorrhiza)
+C – Cyanobacteria (Anabaena, Nostoc)
+Biofertilisers enrich soil nutrient quality through three main organismic categories: bacteria, fungi, and cyanobacteria.
+#34 Symbiotic Nitrogen Fixer: Rhizobium 	NCERT p.184
+Mnemonic: "N - O - D - U - L - E"
+N – Nitrogen atmospheric fixation into organic compounds
+O – Occurs in Leguminous plant root nodules
+D – Mutualistic symbiotic relationship
+U – Uses Leghaemoglobin to maintain anaerobic environment
+Rhizobium forms root nodules in leguminous plants, converting atmospheric gaseous nitrogen into plant-usable organic forms.
+#35 Free-Living Nitrogen Fixing Bacteria 	NCERT p.184
+Mnemonic: "A - Z - O"
+A – Azospirillum
+Z – Azotobacter
+O – Operates freely in soil without host plant obligate binding
+Azospirillum and Azotobacter fix atmospheric nitrogen while living freely in topsoil, enhancing fertility without plant symbiosis.
+#36 Mycorrhiza Genus & Phosphorus Absorption 	NCERT p.184
+Mnemonic: "G - L - O - M - U - S"
+G – Glomus genus forms fungal mycorrhizae
+L – Absorbs Phosphorus from soil for host plant
+O – Outstanding resistance to root-borne pathogens
+M – Moisture stress and drought tolerance enhancement
+U – Upgrades total plant development and yield
+Fungi of the genus Glomus form mycorrhizal associations absorbing phosphorus for plants and providing root pathogen
+NCERT Class 12 Biology • Chapter 8 Mnemonics 	Page 4 of 5
+
+-- 30 of 76 --
+
+PART 5: ADVANCED NCERT CONCEPTS & QUICK REVISION (MNEMONICS 41–50)
+#41 Organic Farming Philosophy 	NCERT p.182
+Mnemonic: "H - O - L - I - S - T - I - C"
+H – Holds pest population at manageable levels rather than complete eradication
+O – Organic biodiversity conservation
+L – Living web of predator-prey dynamics maintained
+Organic farming aims to manage pest populations through biological balances rather than eradicating soil life with chemicals.
+#42 Thermal Vents & Deep Sea Microbes 	NCERT p.177
+Mnemonic: "H - E - A - T"
+H – High temperature hydrothermal vents exceeding 100°C
+E – Extremophiles (Archaebacteria) survive harsh deep-sea conditions
+A – Adaptation via heat-stable enzymes
+Microbes exist even in extreme habitats like deep-sea thermal vents where temperatures exceed 100°C.
+#43 Major Microbe Categories in Chapter 8 	NCERT p.177
+Mnemonic: "B - F - V - P"
+B – Bacteria
+F – Fungi
+V – Viruses & Viroids
+P – Prions (Proteinaceous infectious agents)
+Microbes include microscopic bacteria, fungi, viruses, viroids, and proteinaceous infectious prions.
+#44 Biogas Energy Utility 	NCERT p.182
+Mnemonic: "C - L - E - A - N"
+C – Cooking gas supply in rural homes
+L – Lighting energy source
+E – Eco-friendly alternative to burning firewood
+Biogas serves as a clean energy source for cooking and lighting in rural Indian villages.
+#45 Spent Slurry Application 	NCERT p.182
+Mnemonic: "M - A - N - U - R - E"
+M – Material removed via outlet pit of biogas plant
+A – Applied directly to agricultural fields as nutrient-rich manure
+Spent slurry extracted from biogas plants is recycled as bio-manure for crops.
+NEET HIGH-YIELD MATCHING MATRIX (MNEMONICS 46–50)
+# 	Microbe / Agent 	Category 	Product / Key Function 	NEET Key Phrase
+#46 Aspergillus niger 	Fungus 	Citric Acid 	"Fungal acid producer"
+#47 Monascus purpureus 	Yeast (Fungus) 	Statins 	"Blood cholesterol lowering"
+#48 Trichoderma polysporum 	Fungus 	Cyclosporin A 	"Immunosuppressive agent"
+#49 Streptococcus 	Bacterium 	Streptokinase 	"Clot buster for MI"
+#50 Glomus 	Fungus 	Mycorrhiza 	"Phosphorus absorption"
+NCERT Class 12 Biology • Chapter 8 Mnemonics 	Page 5 of 5
+
+-- 31 of 76 --
+
+NCERT CLASS 12 BIOLOGY: CHAPTER 7
+50 High-Yield Mnemonics Master Guide — Human Health and Disease 	NEET / Board Exam Prep
+1. COMMON INFECTIOUS DISEASES IN HUMANS
+#01 Bacterial Diseases Spectrum 	T - T - P - S - D
+Typhoid (Salmonella typhi) • Tetanus (Clostridium tetani) • Pneumonia (Streptococcus) • Syphilis • Diphtheria
+Bacterial pathogens cause severe systemic infections; S. typhi targets small intestine, S. pneumoniae infects lung alveoli.
+#02 Typhoid Fever Symptoms & Diagnostic Test 	S - T - O - M - A - C - H
+• S: Sustained high fever (39°C–40°C)
+• T: Typhoid Mary (Mary Mallon) carrier • O: Organ perforation in severe cases
+• M: Medium: Contaminated food/water • A: Abdominal pain & constipation • C: Confirmed by Widal test • H: Headache
+Intestinal perforation occurs in severe untreated cases; Widal test is diagnostic.
+#03 Pneumonia Pathogenesis & Symptoms 	F - L - U - I - D
+• F: Fever, chills, cough, headache
+• L: Lung alveoli filled with fluid causing severe breathing problems
+• U: Upper lips & fingernails turn gray to bluish in severe cases
+• I: Infects alveoli (not nasal passage) • D: Droplet/aerosol transmission
+Caused by Streptococcus pneumoniae & Haemophilus influenzae. Fluid buildup in alveoli impairs oxygen exchange.
+#04 Common Cold vs Pneumonia Distinction 	C - O - L - D
+• C: Caused by Rhinoviruses
+• O: Organs: Nose & respiratory passage, BUT NOT lungs
+• L: Lasts 3 to 7 days
+• D: Droplet infection via contaminated pens, books, cups
+Crucial NCERT distinction: Common cold affects upper respiratory tract; pneumonia affects lung alveoli.
+#05 Amoebiasis (Amoebic Dysentery) 	H - U - S - K
+• H: Houseflies act as mechanical carriers
+• U: Ulceration & constipation with abdominal cramps
+• S: Stools with excess mucus and blood clots
+• K: Known pathogen: Entamoeba histolytica (large intestine protozoan)
+Transmitted via drinking water and food contaminated by fecal matter through houseflies.
+#06 Plasmodium Species Causing Malaria 	P - V - M - O - F
+P. vivax • P. malariae • P. ovale • P. falciparum
+Malignant malaria caused by P. falciparum is the most serious and can be fatal.
+#07 Malaria Life Cycle: Human Stage 	S - L - R - T
+• S: Sporozoites injected via female Anopheles bite
+• L: Liver cells target: Parasite multiplies asexually in liver
+• R: Red Blood Cells attack: Parasite multiplies in RBCs causing rupture
+• T: Toxic Hemozoin released causing recurring fever every 3–4 days
+Rupture of RBCs releases toxin Hemozoin, responsible for periodic chills and high fever.
+#08 Malaria Life Cycle: Mosquito Stage 	G - F - S - S
+• G: Gametocytes taken up by female Anopheles from human blood
+• F: Fertilization & development occur in mosquito gut
+• S: Sporozoites formed and escape gut to migrate
+• S: Stored in Salivary glands ready for next host bite
+Sexual stages (gametocytes) develop in human RBCs, but fertilization occurs inside mosquito gut.
+#09 Helminthic Parasites (Ascaris & Wuchereria) 	A - S - C - W - U
+NCERT Class 12 Biology • Chapter 7 Mnemonics 	Page 1 of 5
+
+-- 32 of 76 --
+
+2. FUNGAL INFECTIONS & IMMUNITY PRINCIPLES
+#11 Ringworm Fungal Genera 	M - E - T
+Microsporum • Epidermophyton • Trichophyton
+These three genera are responsible for ringworm, one of the most common infectious diseases in humans.
+#12 Ringworm Symptoms & Favorable Conditions 	D - R - Y - H
+• D: Dry, scaly lesions on skin, nails, and scalp
+• R: Redness accompanied by intense itching
+• Y: Yielded/favored by heat and moisture in skin folds (groin, toes)
+• H: Hygiene lack: Transmitted via towels, clothes, combs
+Heat and moisture help these fungi grow, making skin folds prime sites for infection.
+#13 Biological Control of Mosquito Vectors 	G - D
+• Gambusia: Fish introduced into water bodies that feeds on mosquito larvae
+• Dragonflies: Predators that feed on adult mosquitoes
+Ecological control measure introduced in ponds and tanks to eliminate mosquito breeding.
+#14 Personal & Public Hygiene Measures 	C - L - E - A - N
+• C: Clean body maintenance • L: Liquid/food hygiene (clean drinking water)
+• E: Excreta and waste proper disposal • A: Air hygiene (avoid overcrowding)
+• N: Neat surroundings: Periodic cleaning of water reservoirs and coolers
+Essential for controlling infectious diseases, especially water-borne pathogens like S. typhi and E. histolytica.
+#15 Aedes Mosquito Vector Features 	A - E - D - E - S
+• A: Aedes aegypti vector • E: Epidemic vector for Dengue & Chikungunya
+• D: Day-time biting preference • E: Elimination of stagnant water stops breeding
+• S: Symptoms: High fever, joint pain, platelet drop (Dengue)
+Controlling stagnant water in coolers and rooftops directly suppresses Aedes population.
+#16 Innate Immunity Barriers 	P - P - C - C
+• Physical: Skin, Mucus coating of respiratory, gastrointestinal & urogenital tracts
+• Physiological: Acid in stomach, Saliva in mouth, Tears from eyes (lysozyme)
+• Cellular: PMNL-neutrophils, Monocytes, Natural Killer cells, Macrophages
+• Cytokine: Interferons produced by virus-infected cells
+Innate immunity provides non-specific defense present from birth through four distinct barriers.
+#17 Cellular Barriers of Innate Immunity 	P - M - N - K - M
+• PMNL: Polymorpho-nuclear Leukocytes (Neutrophils)
+• Monocytes: Phagocytic blood cells • NK: Natural Killer lymphocytes
+• Macrophages: Phagocytic cells in tissues
+These cells phagocytose and destroy invading microbes non-specifically.
+#18 Cytokine Barrier (Interferons) 	V - I - R - U - S
+• V: Virus-infected cells produce proteins called Interferons
+• I: Interferons protect non-infected surrounding cells
+• R: Resistance to viral replication induced in healthy cells
+• U: Uninfected cell shield • S: Secreted glycoproteins
+Interferons form a chemical shield that prevents viral replication in neighboring healthy cells.
+#19 Characteristics of Acquired Immunity 	M - S - D - A
+• M: Memory: Heightened secondary response upon re-exposure
+• S: Specificity for individual antigens
+• D: Discrimination between Self and Non-self
+• A: Antigen-driven response mediated by B & T lymphocytes
+Acquired immunity is pathogen-specific and characterized by immunological memory.
+NCERT Class 12 Biology • Chapter 7 Mnemonics 	Page 2 of 5
+
+-- 33 of 76 --
+
+3. IMMUNOGLOBULINS, VACCINES & IMMUNE DISORDERS
+#21 Antibody Structure (H₂L₂) 	H₂L₂ - DISULFIDE BONDS
+• H₂: Two Heavy polypeptide chains
+• L₂: Two Light polypeptide chains held together by disulfide bonds
+Each antibody molecule has 4 peptide chains represented as H
+₂L
+₂; forms Y-shaped structure.
+#22 Five Classes of Immunoglobulins 	M - A - G - E - D
+• IgM: First responder, pentameric • IgA: Secretions (Colostrum, tears, saliva)
+• IgG: Most abundant, crosses placenta • IgE: Allergies & parasite defense
+• IgD: B-cell surface receptor
+IgG is the only antibody that crosses the placenta; IgA provides mucosal protection.
+#23 Humoral vs Cell-Mediated Immunity (CMI) 	H - B - C - T
+• H: Humoral immunity mediated by antibodies in body fluids (humors)
+• B: B-lymphocytes produce antibodies
+• C: Cell-mediated immunity (CMI) mediated by T-lymphocytes
+• T: T-cells responsible for graft rejection in organ transplants
+T-cells do not secrete antibodies themselves but help B-cells produce them and execute CMI.
+#24 Graft Rejection & Organ Transplantation 	T - M - I - S
+• T: T-lymphocytes mediate Graft Rejection via CMI
+• M: Matching required: Tissue matching & Blood group matching
+• I: Immunosuppressants (e.g., Cyclosporin A) required for life
+• S: Self vs Non-self recognition causes host defense to attack foreign organ
+The body's ability to differentiate self and non-self cells drives graft rejection.
+#25 Active vs Passive Immunity 	A - S - P - R
+• A: Active: Host produces own antibodies when exposed to antigen (slow, long-lasting)
+• S: Slow development of active immunity
+• P: Passive: Readymade antibodies directly injected/transferred (fast, short-term)
+• R: Readymade protection (e.g., ATS, Anti-venom, Colostrum IgA)
+Injections against snakebite contain preformed antibodies (passive immunization).
+#26 Colostrum & Infant Protection 	C - A - R - E
+• C: Colostrum: Yellowish fluid secreted by mother during early lactation
+• A: Abundant IgA antibodies present
+• R: Readymade passive immunity conferred to newborn
+• E: Essential protection for infant against various pathogens
+Classic example of natural passive immunity in early human development.
+#27 Vaccination & Recombinant Vaccines 	M - E - M - O - R - Y
+• M: Memory B & T cells generated upon vaccination
+• E: Epitopes/Inactivated pathogens introduced safely
+• M: Massive antibody production upon real pathogen exposure
+• O: Overwhelms invader rapidly • R: Recombinant DNA tech (e.g., Hepatitis-B vaccine produced in yeast)
+• Y: Yields long-term protection
+Recombinant DNA technology allows large-scale production of antigenic polypeptides in yeast or bacteria.
+#28 Allergies & Mast Cell Mediators 	A - L - L - E - R - G - Y
+• A: Exaggerated immune response to allergens • L: IgE antibodies produced
+• L: Release of Histamine & Serotonin from Mast cells
+• E: Examples: Pollen, mites, animal dander • R: Relieved by Anti-histamines, Adrenaline, Steroids
+• G: Granules of mast cells rupture • Y: Symptoms: Sneezing, watery eyes, running nose
+Drugs like antihistamine, adrenaline, and steroids quickly reduce allergy symptoms.
+#29 Autoimmune Disorders 	A U T O
+NCERT Class 12 Biology • Chapter 7 Mnemonics 	Page 3 of 5
+
+-- 34 of 76 --
+
+4. CANCER BIOLOGY & HIV / AIDS PATHOGENESIS
+#31 Hallmarks of Cancer Cells 	L - O - S - S
+• L: Loss of contact inhibition (normal cells stop dividing upon contact; cancer cells lose this)
+• O: On-going uncontrolled cell division forming mass tumors
+• S: Structural invasion of surrounding healthy tissues
+• S: Unchecked proliferation forming neoplastic cells
+Contact inhibition is the property of normal cells that prevents uncontrolled proliferation.
+#32 Benign vs Malignant Tumors & Metastasis 	B-C vs M-M
+• Benign (B-C): Confined to original location, causes little damage
+• Malignant (M-M): Mass of proliferating neoplastic cells
+• Metastasis: Cancer cells slough off, travel via blood, and start new tumors in distant organs
+Metastasis is the most feared property of malignant tumors.
+#33 Carcinogens: Physical, Chemical & Biological 	P - C - B
+• Physical: Ionizing (X-rays, gamma rays) & non-ionizing (UV) radiation
+• Chemical: Tobacco smoke chemicals (major cause of lung cancer)
+• Biological: Oncogenic viruses with viral oncogenes (v-onc) / cellular proto-oncogenes (c-onc)
+Proto-oncogenes in normal cells get activated under carcinogen exposure to transform into active oncogenes.
+#34 Cancer Detection & Diagnostic Techniques 	B - H - M - C - R
+• B: Biopsy & histopathological studies • H: Histological tissue staining
+• M: MRI using non-ionizing radiation & strong magnetic fields
+• C: Computed Tomography (CT) using X-rays for 3D imagery
+• R: Radiography & Antibodies against cancer-specific antigens
+MRI generates 3D images of internal soft tissues without harmful ionizing radiation.
+#35 Cancer Treatment Modalities 	S - R - I - C
+• S: Surgery: Physical removal of localized tumor
+• R: Radiotherapy: Lethal irradiation of tumor cells saving normal tissue
+• I: Immunotherapy: α-interferon biological response modifier activates immune system
+• C: Chemotherapy: Anti-cancer drugs (side effects: hair loss, anemia)
+α-interferon is given to cancer patients as it activates their immune system to destroy tumors.
+#36 HIV Structure & Genome Characteristics 	R - E - T - R - O
+• R: Retrovirus group with single-stranded RNA genome enclosed in envelope
+• E: Enveloped virus with protein coat
+• T: Reverse Transcriptase converts viral RNA to viral DNA
+• R: Reduces CD4 Helper T-lymphocyte count drastically
+• O: Opportunistic infections occur due to immunodeficiency
+HIV selectively infects and destroys Helper T-lymphocytes (TH cells).
+#37 Modes of HIV Transmission 	S - B - N - M
+• S: Sexual contact with infected person
+• B: Transfusion of contaminated Blood and blood products
+• N: Sharing infected Needles among IV drug abusers
+• M: Transplacental transfer from infected Mother to child
+HIV does NOT spread by touch, physical contact, or casual hugging; only through body fluids.
+#38 HIV Replication & Macrophage Factory 	M - R - I - H
+• M: Macrophages act as HIV factory (continuously produce viral particles)
+• R: Reverse transcriptase synthesizes viral DNA from RNA
+• I: Integration of viral DNA into host cell genome
+• H: Helper T-cells invaded and destroyed, lowering immunity
+Macrophages survive HIV infection and act as a persistent HIV factory in the host body.
+NCERT Class 12 Biology • Chapter 7 Mnemonics 	Page 4 of 5
+
+-- 35 of 76 --
+
+5. DRUG & ALCOHOL ABUSE CLASSIFICATION & IMPACTS
+#41 Opioids: Source & Action 	P - O - P - S
+• P: Papaver somniferum (Poppy plant) latex source
+• O: Opioid receptors in Central Nervous System & Gastrointestinal tract
+• P: Painkiller Morphine extracted; diacetylated to form Heroin
+• S: Slows down body functions (Depressant)
+Morphine is a highly effective sedative and painkiller given to post-surgery patients.
+#42 Heroin (Smack) Properties 	S - M - A - C - K
+• S: Smack is chemically Diacetylmorphine
+• M: Morphine acetylation yields Heroin
+• A: Absence of color/odor: White, odorless, bitter crystalline compound
+• C: Consumed by Snorting or Injection • K: Knock-down depressant
+Heroin is a potent central nervous system depressant that slows body functions.
+#43 Cannabinoids: Source & Organ System 	C - A - N - N - A
+• C: Cannabis sativa inflorescence source
+• A: Affects Cardiovascular system of the body
+• N: Natural cannabinoids interact with receptors in brain
+• N: Named products: Marijuana, Hashish, Charas, Ganja
+• A: Administered by inhalation or oral ingestion
+Cannabinoids are heavily abused by some sports personnel due to cardiovascular stimulation.
+#44 Coca Alkaloid (Cocaine) Mechanism 	C - O - C - A
+• C: Erythroxylum coca source (Native to South America)
+• O: Overdose causes severe Hallucinations
+• C: CNS stimulant interfering with transport of Dopamine
+• A: Abused as Coke or Crack; produces euphoria and high energy
+Cocaine interferes with the transport of the neurotransmitter dopamine, generating intense euphoria.
+#45 Hallucinogenic Plants Spectrum 	A - D - C
+• Atropa: Atropa belladonna
+• Datura: Datura species containing tropane alkaloids
+• Cannabis / LSD: Cannabis sativa (high dose) & LSD (from Claviceps purpurea fungus)
+These plants possess natural hallucinogenic properties that severely alter sensory perception.
+#46 Medication Abused by Addicts 	B - A - M
+Prescription drugs abused to alter mental state:
+• B: Barbiturates (Sedatives/hypnotics) • A: Amphetamines (Stimulants)
+• M: Benzodiazepines (Tranquilizers for anxiety and insomnia)
+Normally used as medicines to treat patients with mental illnesses like depression and insomnia.
+#47 Tobacco & Nicotine Health Hazards 	N - I - C - O - T
+• N: Nicotine alkaloid stimulates Adrenal gland
+• I: Increases blood pressure and heart rate via Adrenaline
+• C: CO in smoke reduces oxygen capacity by binding hemoglobin
+• O: Oncogenic: Causes lung, urinary bladder, and oral cancer
+• T: Tobacco chewing strongly linked with oral cavity cancer
+Smoking increases Carbon Monoxide (CO) in blood, leading to oxygen deficiency in body tissues.
+#48 Adolescent Vulnerability Factors 	P - E - E - R
+• P: Peer pressure and social acceptance desire
+• E: Experimentation, curiosity, and excitement seeking
+• E: Escape from academic stress, pressure, and failure
+• R: Risk-taking behavior glorified by media
+Adolescence (12–18 years) is a vulnerable developmental period requiring guidance and counseling.
+NCERT Class 12 Biology • Chapter 7 Mnemonics 	Page 5 of 5
+
+-- 36 of 76 --
+
+NCERT CLASS 12 BIOLOGY: CHAPTER 6
+50 High-Yield Mnemonics Master Guide — Evolution 	NEET / Board Exam Prep
+1. ORIGIN OF UNIVERSE & CHEMICAL EVOLUTION
+#01 Age Milestones of Universe & Earth 	20 - 4.5 - 4.0 - 3.5
+• 20 BYA: Big Bang (Universe)
+• 4.5 BYA: Formation of Earth
+• 4.0 BYA: Origin of Life
+• 3.5 BYA: First non-cellular life
+Crucial timeline figures (BYA = Billion Years Ago) frequently asked in NEET matching questions.
+#02 Gases in Primitive Earth's Atmosphere 	C-M-A-W (NO OXYGEN)
+Carbon dioxide / Methane (CH4) • Ammonia (NH3) • Water vapour (H2O)
+Primitive atmosphere was strictly reducing because free molecular oxygen (O2) was completely absent.
+#03 Miller's Spark Discharge Experiment Conditions 	800°C + M-A-W-H
+• Temperature: 800°C
+• Gas mixture: CH4 + NH3 + H2O + H2 (Spark discharge using electrodes)
+SL Miller (1953) simulated chemical evolution in laboratory conditions as proposed by Oparin & Haldane.
+#04 Products Synthesized in Miller's Experiment 	AMINO ACIDS (A-G-A)
+Formed Amino acids (specifically Alanine, Glycine, Aspartic acid) along with organic acids and sugars.
+Analysis of meteorite content also revealed similar amino acids, proving cosmic universality of chemical evolution.
+#05 Theories of Origin of Life 	P - S - C - C
+Panspermia (Spore theory) • Spontaneous generation (Abiogenesis) • Catastrophism • Chemical evolution
+Louis Pasteur experimentally disproved Spontaneous Generation using swan-necked flash experiment.
+#06 Oparin-Haldane Theory Summary 	INORGANIC TO ORGANIC
+Life arose from pre-existing non-living organic molecules (abiotic chemical evolution preceded biogenesis).
+Oparin (Russia) and Haldane (England) proposed that life originated in a warm dilute soup.
+#07 First Non-Cellular vs Cellular Forms 	3 BYA (RNA/PROTEIN) vs 2 BYA (SINGLE CELL)
+• 3 BYA: Non-cellular macromolecular aggregates (RNA, Proteins, Polysaccharides).
+• 2 BYA: First cellular forms of life.
+First cellular forms were unicellular heterotrophs originating in aquatic environment.
+#08 Industrial Melanism (Biston betularia) 	WHITE = PRE-IND / DARK = POST-IND
+• Before 1850s (Pre-industrial): White-winged moth survived (lichens on trees).
+• After 1850s (Post-industrial): Melanic/Dark moth survived (soot covered trees).
+Classic NCERT example demonstrating Natural Selection in response to environmental change.
+#09 Anthropogenic Selection Examples 	P - H - D
+Resistant varieties evolved due to human action:
+Pesticides resistance • Herbicides resistance • Drug-resistant microbes
+Proves that evolution is a stochastic process based on chance events in nature and mutation.
+#10 Adaptive Radiation Definition 	SINGLE POINT TO OTHER HABITATS
+Evolutionary process where species evolve from a common ancestral point and radiate into different geographical areas.
+Driven by natural selection exploiting unoccupied ecological niches.
+NCERT Class 12 Biology • Chapter 6 Mnemonics 	Page 1 of 5
+
+-- 37 of 76 --
+
+2. EVIDENCE FOR EVOLUTION & COMPARATIVE ANATOMY
+#11 Homologous Structures (Divergent Evolution) 	HD - SAME ORIGIN, DIFFERENT FUNCTION
+Homology leads to Divergent Evolution.
+Same basic anatomical origin/structure, modified for different functions.
+Indicates common ancestry among differing species groups.
+#12 Examples of Homologous Organs 	FORELIMBS & THORNS/TENDRILLS
+• Animals: Forelimbs of Whales, Bats, Cheetahs, and Humans.
+• Plants: Thorns of Bougainvillea and Tendrils of Cucurbita.
+Both plant structures arise from axillary position despite serving protection vs climbing roles.
+#13 Analogous Structures (Convergent Evolution) 	AC - DIFFERENT ORIGIN, SAME FUNCTION
+Analogy leads to Convergent Evolution.
+Different origin and internal anatomy, selected for similar ecological functions.
+Result of similar adaptation to convergent selection pressures in similar environments.
+#14 Examples of Analogous Organs 	WINGS - EYES - FLIPPERS - TUBERS
+• Wings of Butterfly and Birds
+• Eyes of Octopus and Mammals
+• Flippers of Penguins and Dolphins
+• Sweet Potato (root modification) and Potato (stem modification)
+Four core NCERT examples indispensable for NEET assertion-reason questions.
+#15 Adaptive Radiation Examples 	DARWIN'S FINCHES & MARSUPIALS
+• Galapagos Finches: Beak shape adapted from seed-eating to insectivorous/vegetarian.
+• Australian Marsupials: Radiated from single ancestor within isolated continent.
+Adaptive radiation occurs within a single isolated geographical area.
+#16 Convergent Evolution in Marsupials vs Placentals 	MARSUPIAL = PLACENTAL PAIRS
+• Tasmanian Wolf ↔ Anteater / Wolf
+• Sugar Glider ↔ Flying Squirrel
+• Marsupial Mole ↔ Mole
+• Banded Anteater ↔ Numbat
+When more than one adaptive radiation occurs in an isolated region, it represents convergent evolution.
+#17 Biochemical Evidence for Evolution 	PROTEINS & GENES SIMILARITY
+Similarities in proteins, enzymes, and blood plasma perform functions across diverse organisms.
+Biochemical similarity points toward shared ancestral lineage at molecular level.
+#18 Embryological Evidence (Ernst Haeckel) 	ONTOGENY RECAPITULATES PHYLOGENY
+Haeckel proposed that embryonic development repeats adult evolutionary history (e.g., vestigial gill slits in human embryos).
+Theory completely disproved by Karl Ernst von Baer (noted embryos never pass through adult stages of other animals).
+#19 Palentological Evidence 	FOSSILS IN SEDIMENTARY ROCKS
+Different aged rock strata contain fossils showing life forms restricted to specific geological eras.
+Fossil records directly prove that life forms have changed over long geological time periods.
+#20 Lamarck's Theory of Evolution 	USE & DISUSE OF ORGANS
+Evolution driven by use and disuse of organs + inheritance of acquired characteristics (e.g., Giraffe neck elongation).
+Disproved as acquired somatic characters are not transferred to germline cells.
+NCERT Class 12 Biology • Chapter 6 Mnemonics 	Page 2 of 5
+
+-- 38 of 76 --
+
+3. THEORIES OF EVOLUTION & HARDY-WEINBERG PRINCIPLE
+#21 Key Concepts of Darwinian Theory 	BRANCHING DESCENT & NATURAL SELECTION
+• Branching Descent: Explains adaptive diversification.
+• Natural Selection: Fitness based on reproductive capability.
+Alfred Russel Wallace reached similar conclusions working in Malay Archipelago.
+#22 Hugo de Vries Mutation Theory 	SALTATION = SINGLE STEP LARGE MUTATION
+Based on Oenothera lamarckiana (Evening Primrose); proposed evolution is discontinuous and directional-less.
+Darwinian variations are small & directional; De Vriesian mutations are random & directionless.
+#23 Hardy-Weinberg Equilibrium Equation 	p² + 2pq + q² = 1
+• p: Frequency of dominant allele (A)
+• q: Frequency of recessive allele (a)
+• p²: AA Homozygous dominant • 2pq: Aa Heterozygous • q²: aa Homozygous recessive
+Allele frequencies in a stable population remain constant generation to generation if undisturbed.
+#24 Factors Affecting Hardy-Weinberg Equilibrium 	G - G - M - R - N
+Gene Migration • Genetic Drift • Mutation • Recombination • Natural Selection
+Disturbance in Hardy-Weinberg equilibrium indicates evolutionary change is occurring.
+#25 Genetic Drift vs Founder Effect 	SMALL POPULATION CHANCE EVENT
+• Genetic Drift: Random change in gene frequencies occurring purely by chance.
+• Founder Effect: Original drifted population forms new colony becoming distinct species.
+Operates prominently in small isolated populations.
+#26 Types of Natural Selection Curves 	S - D - D
+• Stabilizing: Peak gets higher/narrower (favors mean phenotype).
+• Directional: Peak shifts in one direction.
+• Disruptive: Two peaks form (favors extreme phenotypes).
+Critical curve diagram-based question topic in NCERT textbook.
+#27 Coelacanth (Lobefin Fish) Discovery 	1938 SOUTH AFRICA - LOBEFIN
+Caught in South Africa in 1938; Lobefins were ancestors of modern amphibians.
+Thought to be extinct; crucial transitional evolutionary bridge between fishes and amphibians.
+#28 First Land Vertebrates & Reptiles 	AMPHIBIANS → REPTILES (SHELL EGGS)
+Amphibians invaded land first; evolved into Reptiles laying thick-shelled eggs that don't dry in sun.
+Allowed complete independence from aquatic breeding environments.
+#29 Ichthyosaurs Origin 	FISH-LIKE REPTILES (200 MYA)
+Some land reptiles went back into water to evolve into fish-like reptiles around 200 MYA.
+Example of secondary adaptation to aquatic life.
+#30 Tyrannosaurus rex Features 	20 FEET - DAGGER TEETH
+Largest dinosaur (~20 feet height) with fearsome dagger-like teeth; extinct ~65 MYA.
+Dinosaurs suddenly disappeared 65 MYA (Cretaceous-Tertiary extinction).
+NCERT Class 12 Biology • Chapter 6 Mnemonics 	Page 3 of 5
+
+-- 39 of 76 --
+
+4. GEOLOGICAL TIME SCALE & PLANT EVOLUTION
+#31 Geological Eras Chronology 	P - M - C (PAST TO PRESENT)
+Palaeozoic → Mesozoic → Cenozoic Era
+Cenozoic is Era of Mammals/Birds; Mesozoic is Era of Reptiles/Dinosaurs; Palaeozoic is Era of Invertebrates/Early Fishes.
+#32 Palaeozoic Periods Order 	C - O - S - D - C - P
+Cambrian • Ordovician • Silurian • Devonian • Carboniferous • Permian
+Devonian is Age of Fishes; Carboniferous is Age of Amphibians & Coal Forests.
+#33 Mesozoic Periods Order 	T - J - C
+Triassic • Jurasic • Cretaceous
+Jurassic was dominated by Dinosaurs and Gymnosperms.
+#34 Plant Evolutionary Ancestors 	CHLOROPHYTE ANCESTOR
+Green algae (Chlorophyte ancestor) → Tracheophyte ancestors → Rhynia-type plants.
+Rhynia-type plants directly gave rise to Psilophyton, ancestral to modern vascular plants.
+#35 Psilophyton Lineage Derivatives 	P - C - S
+Psilophyton gave rise to:
+• Pteridophytes (Ferns)
+• Conifers / Gymnosperms
+• Seed ferns (Gave rise to Angiosperms)
+Key central ancestral node in NCERT plant evolutionary tree.
+#36 Reptilian Lineage Divergence 	SAUROPSIDS vs SYNAPSIDS
+• Sauropsids: Gave rise to Lizards, Snakes, Turtles, Dinosaurs, Birds.
+• Synapsids: Gave rise to Pelycosaurs, Therapsids, Mammals.
+Mammals originated from Synapsid lineage, NOT from dinosaurs.
+#37 First Mammal Characteristics 	SHREW-LIKE & SMALL
+First mammals were small, shrew-like creatures whose fossils were small sized.
+Mammals were viviparous, intelligent, and protected unborn young inside mother's body.
+#38 Continental Drift Impact on Mammals 	AUSTRALIAN MARSUPIAL SURVIVAL
+Australia severed from main landmass; Pouched marsupials survived due to lack of competition from placentals.
+Geographical isolation preserved unique fauna in Australia.
+#39 Evolutionary History of Horse 	E - M - M - P - E
+Eohippus → Mesohippus → Merychippus → Pliohippus → Equus (Modern Horse)
+Structural progression involved reduction of digits and elongation of limbs for running.
+#40 Adaptive Convergence Example 	AQUATIC MAMMALS
+Whales, Dolphins, Seals, and Sea cows evolved stream-lined bodies for aquatic mode of life.
+Placental mammals secondary return to water showing convergent aquatic adaptations.
+NCERT Class 12 Biology • Chapter 6 Mnemonics 	Page 4 of 5
+
+-- 40 of 76 --
+
+5. HUMAN EVOLUTION SEQUENCE & CRANIAL CAPACITIES
+#41 Human Evolution Order Mnemonic DR. RAMA'S AUSTRALIAN HOMINID ERECTS NEANDERTHAL SAPIENS
+Dryopithecus → Ramapithecus → Australopithecus → Habilis → Erectus → Neanderthal → Sapiens
+Flawless chronological sequence for NEET questions.
+#42 Dryopithecus vs Ramapithecus 	DRY = APE-LIKE / RAMA = MAN-LIKE
+Existed 15 MYA.
+• Dryopithecus: More ape-like, hairy, walked like gorillas.
+• Ramapithecus: More man-like.
+Fossils found in Shivalik hills in India and East Africa.
+#43 Australopithecus Features 	EAST AFRICAN GRASSLANDS (2 MYA)
+Lived in East African grasslands ~2 MYA; hunted with stone weapons, ate fruit.
+Fossil "Lucy" belongs to Australopithecus afarensis; walked completely erect.
+#44 Homo habilis (First Hominid) 	650-800 CC & DID NOT EAT MEAT
+• Brain capacity: 650–800 cc
+• First human-like hominid feature
+• Did NOT eat meat (vegetarian tool maker)
+Called "handy man" because they crafted basic chipped stone tools.
+#45 Homo erectus Features 	900 CC & ATE MEAT
+Fossils found in Java in 1891 (Java Man) around 1.5 MYA.
+• Brain capacity: 900 cc • Ate meat
+First hominid ancestor to use fire controlledly.
+#46 Neanderthal Man Features 	1400 CC - HIDES - BURIED DEAD
+Lived in East & Central Asia (1,00,000–40,000 years ago).
+• Capacity: 1400 cc • Used animal hides to protect body • Buried their dead
+High intellectual level and cultural practices recorded.
+#47 Homo sapiens Origin & Ice Age 	AFRICA - ICE AGE (75,000-10,000 YRS)
+Arose in Africa; moved across continents during Ice Age (75,000–10,000 years ago).
+Pre-historic cave art developed around 18,000 years ago (Bhimbetka caves in MP).
+#48 Cranial Capacity Quick Summary 	650-800 → 900 → 1400 → 1350/1400
+• Homo habilis: 650–800 cc
+• Homo erectus: 900 cc
+• Neanderthal: 1400 cc
+• Homo sapiens: 1350–1400 cc
+Cranial capacity growth reflects progressive cerebral cortex evolution.
+#49 Agriculture & Human Settlements 	10,000 YEARS AGO
+Agriculture came around 10,000 years ago leading to human settlements and civilization.
+Shift from nomadic hunter-gatherer lifestyle to settled agrarian communities.
+#50 Summary of Evolutionary Milestones 	INVERTEBRATES (500) - JAWLESS (350) - LAND (320)
+• 500 MYA: Invertebrates formed
+• 350 MYA: Jawless fish
+• 320 MYA: Sea weeds & plants on land
+Complete NCERT quantitative timeline summary for quick revision before exam.
+NCERT Class 12 Biology • Chapter 6 Mnemonics 	Page 5 of 5
+
+-- 41 of 76 --
+
+NCERT CLASS 12 BIOLOGY: CHAPTER 5
+50 High-Yield Mnemonics Master Guide — Molecular Basis of Inheritance 	NEET / Board Exam Prep
+1. DNA STRUCTURE, NUCLEOTIDES & CHARGAFF RULES
+#01 Purine Nitrogenous Bases 	PURE AS GOLD
+Purines = Adenine and Guanine (9-membered double ring structures)
+Purines consist of two heterocyclic rings and form hydrogen bonds with pyrimidines.
+#02 Pyrimidine Nitrogenous Bases 	CUT THE PIE
+Cytosine • Uracil • Thymine = Pyrimidines (6-membered single ring)
+Uracil is present exclusively in RNA, while Thymine (5-methyl uracil) is present in DNA.
+#03 Nucleoside vs Nucleotide 	S = SUGAR / T = THREE PARTS
+• Nucleoside = Nitrogenous Base + Sugar
+• Nucleotide = Base + Sugar + Phosphate group
+Phosphate group attaches to 5'-OH of nucleoside via phosphoester linkage.
+#04 Hydrogen Bonds Between Bases 	A=T (2) & G≡C (3)
+Adenine pairs with Thymine via 2 Hydrogen bonds.
+Guanine pairs with Cytosine via 3 Hydrogen bonds.
+Higher GC content imparts higher thermal stability to double-stranded DNA.
+#05 Chargaff's Rules 	A + G = T + C
+Purines equal Pyrimidines; A/T = 1 and G/C = 1 (Applicable only to double-stranded DNA).
+Discovered by Erwin Chargaff; crucial premise for Watson-Crick double helix model.
+#06 Watson & Crick Helix Dimensions 	2nm - 3.4nm - 0.34nm
+• Width = 2 nm
+• Pitch per turn = 3.4 nm (10 base pairs per turn)
+• Distance between adjacent bp = 0.34 nm (3.4 Å)
+Right-handed B-DNA helical parameters based on X-ray diffraction by Wilkins and Franklin.
+#07 Bacteriophage Genome Lengths 	5386 - 48502 - 4.6M - 3.3B
+• φX174: 5386 nucleotides (ssDNA)
+• λ Phage: 48,502 bp
+• E. coli: 4.6 × 106 bp
+• Human (haploid): 3.3 × 109 bp
+Must-know NCERT exact quantitative genome sizes for direct NEET questions.
+#08 DNA Back-bone Linkage 	3' - 5' PHOSPHODIESTER
+Adjacent nucleotides linked by 3'–5' phosphodiester bonds between sugar and phosphate.
+Sugar-phosphate chains form the outer rigid backbone of the DNA helix.
+#09 Antiparallel Strand Polarity 	5' to 3' vs 3' to 5'
+One strand runs 5' → 3' (free 5' phosphate); opposite complementary strand runs 3' → 5' (free 3' OH).
+Complementary base pairing enforces antiparallel alignment of double-stranded DNA.
+#10 Central Dogma of Molecular Biology 	D - R - P
+DNA → (Transcription) → RNA → (Translation) → Protein (Proposed by Francis Crick).
+Unidirectional flow of genetic information; reverse transcription occurs in retroviruses (Teminism).
+NCERT Class 12 Biology • Chapter 5 Mnemonics 	Page 1 of 5
+
+-- 42 of 76 --
+
+2. CHROMATIN PACKAGING & SEARCH FOR GENETIC MATERIAL
+#11 Histone Octamer Proteins 	H2A - H2B - H3 - H4 (×2)
+Two copies each of H2A, H2B, H3, and H4 form the core histone octamer.
+Histones are positively charged basic proteins rich in Lysine and Arginine residues.
+#12 Nucleosome Unit & Linker Histone 	200 BP + H1 HISTONE
+Negatively charged DNA wraps around octamer (146 bp core + linker = 200 bp); sealed by H1 histone.
+Forms the repeating "beads-on-string" structural unit of chromatin inside the nucleus.
+#13 Euchromatin vs Heterochromatin 	E = ACTIVE / H = INACTIVE
+• Euchromatin: Lightly stained, loosely packed, active transcriptionally.
+• Heterochromatin: Darkly stained, densely packed, inactive.
+Chromatin density directly dictates accessibility to RNA polymerase machinery.
+#14 Griffith's Transformation Experiment 	S-STRAIN vs R-STRAIN
+• S-strain (Smooth): Mucilage coat, virulent (kills mice).
+• R-strain (Rough): No coat, non-virulent.
+Heat-killed S + Live R → Live S strain recovered from dead mice (Transforming Principle).
+#15 Avery, MacLeod, McCarty Discovery 	DNA IS TRANSFORMING AGENT
+DNase destroyed transforming activity; Proteases and RNases had NO effect on transformation.
+Proved biochemical nature of Griffith's transforming principle was DNA, not protein.
+#16 Hershey & Chase Experiment (1952) 	P32 (DNA) vs S35 (PROTEIN)
+• 32P: Labeled DNA → Radioactivity inside bacterial cell.
+• 35S: Labeled Protein coat → Radioactivity in supernatant.
+Unequivocal proof that DNA is the genetic material in T2 bacteriophage.
+#17 Essential Criteria for Genetic Material 	R - S - M - E
+Replication ability • Stability (chemically/structurally) • Mutation scope (slow) • Expression of Mendelian traits
+DNA fulfills all four criteria better than RNA or proteins due to 2'-deoxy structure.
+#18 Why DNA is More Stable Than RNA 	NO 2'-OH & HAS THYMINE
+RNA has reactive 2'-OH group making it labil/degradable; DNA lacks 2'-OH and has stable Thymine.
+Double-stranded complementary structure also allows repair mechanisms to fix DNA mutations.
+#19 RNA World Hypothesis 	RNA WAS FIRST GENETIC MATERIAL
+RNA acted as genetic material AND catalytic biocatalyst (ribozymes like 23S rRNA).
+Essential life processes (splicing, translation) evolved around RNA before DNA took over.
+#20 Meselson & Stahl Experiment 	HEAVY N15 & LIGHT N14
+Proved Semi-Conservative DNA Replication in E. coli using CsCl density gradient centrifugation.
+Gen 0 = 100% N15; Gen 1 (20 min) = 100% Hybrid (N15-N14); Gen 2 (40 min) = 50% Hybrid, 50% N14.
+NCERT Class 12 Biology • Chapter 5 Mnemonics 	Page 2 of 5
+
+-- 43 of 76 --
+
+3. DNA REPLICATION MACHINERY & TRANSCRIPTION
+#21 Taylor's Vicia Faba Experiment 	TRITIATED THYMIDINE
+Taylor and colleagues used radioactive 3H-Thymidine on Vicia faba (Faba beans) chromosomes.
+Proved semi-conservative replication occurs at the chromosomal level in eukaryotes.
+#22 DNA Polymerase Direction Constraint 	5' TO 3' ONLY
+DNA-dependent DNA Polymerase catalyzes polymerization ONLY in 5' → 3' direction.
+Requires dNTPs which act as substrates AND provide energy for polymerization via phosphate cleavage.
+#23 Leading vs Lagging Strand 	CONTINUOUS vs DISCONTINUOUS
+• Leading strand (3'→5' template): Continuous synthesis.
+• Lagging strand (5'→3' template): Discontinuous (Okazaki fragments).
+Okazaki fragments are joined together into a continuous strand by DNA Ligase.
+#24 Replication Fork Enzymes 	H - P - L - T
+Helicase (unwinds) • Primase (RNA primer) • Ligase (seals nicks) • Topoisomerase (relieves strain)
+Replication begins at specific origin points called ori sites.
+#25 Transcription Unit Components 	P - S - T
+Promoter (5'-end of coding strand) • Structural gene • Terminator (3'-end of coding strand)
+Promoter and terminator define the boundaries of the transcribed DNA locus.
+#26 Template vs Coding Strand Rule 	TEMPLATE = 3' TO 5'
+• Template Strand: Polarity 3' → 5' (read by RNA polymerase).
+• Coding Strand: Polarity 5' → 3' (matches RNA sequence except T for U).
+All reference points for promoter/terminator are given relative to the coding strand.
+#27 Cistron Definition 	MONO vs POLY
+• Monocistronic: Single polypeptide (Eukaryotes).
+• Polycistronic: Multiple polypeptides (Prokaryotes).
+Eukaryotic genes have interrupted coding sequences (exons and introns).
+#28 Exons vs Introns 	EXONS = EXPRESSED
+• Exons: Coding / expressed sequences appearing in mature RNA.
+• Introns: Intervening non-coding sequences removed during splicing.
+Split-gene arrangement is an ancient characteristic feature of eukaryotic genomes.
+#29 Prokaryotic RNA Polymerase Factors 	SIGMA & RHO
+• Sigma factor (σ): Binds promoter for Initiation.
+• Rho factor (ρ): Binds terminator for Termination.
+Single core RNA polymerase catalyzes elongation independently.
+#30 Eukaryotic RNA Polymerase Types 	1 - 2 - 3 / r - m - t
+• RNA Pol I: rRNAs (28S, 18S, 5.8S)
+• RNA Pol II: mRNA precursor (hnRNA)
+• RNA Pol III: tRNA, 5S rRNA, snRNA
+Division of labor among three distinct nuclear RNA polymerases in eukaryotes.
+NCERT Class 12 Biology • Chapter 5 Mnemonics 	Page 3 of 5
+
+-- 44 of 76 --
+
+4. POST-TRANSCRIPTIONAL PROCESSING & GENETIC CODE
+#31 hnRNA Processing Steps 	C - S - T
+Capping (5' end) • Splicing (Introns removed) • Tailing (3' poly-A tail)
+Converts precursor hnRNA into mature functional mRNA before nuclear export.
+#32 Capping Chemical Structure 	5'-METHYL GUANOSINE TRIPHOSPHATE
+Addition of unusual nucleotide m7Gppp to 5'-end of hnRNA.
+Protects mRNA from 5' exonuclease degradation and promotes ribosome binding.
+#33 Tailing Mechanism 	200-300 ADENYLATE RESIDUES
+Addition of 200–300 Adenylate residues (Poly-A tail) at 3'-end in template-independent manner.
+Confers mRNA stability and regulates translation efficiency.
+#34 Genetic Code Properties 	U - D - U - C - N
+Unambiguous • Degenerate • Universal • Comma-less • Non-overlapping
+George Gamow postulated triplet codons (43 = 64 total codons for 20 amino acids).
+#35 Initiator Codon (AUG Dual Function) 	AUG = START + MET
+Codes for Methionine (Met) AND acts as the universal Start Codon for translation.
+Every functional polypeptide chain initially starts with Methionine (or Formyl-Met in bacteria).
+#36 Stop / Nonsense Codons 	UAA - UAG - UGA
+• UAA (Ochre)
+• UAG (Amber)
+• UGA (Opal)
+Do not code for any amino acid; recognized by release factors to terminate translation.
+#37 Degeneracy of Genetic Code 	MANY CODONS = ONE AMINO ACID
+Most amino acids are coded by more than one codon (61 coding codons for 20 amino acids).
+Exceptions: AUG (Methionine) and UGG (Tryptophan) have single codons.
+#38 tRNA Structure Models 	CLOVER-LEAF vs L-SHAPE
+• 2D Secondary structure: Clover-leaf pattern.
+• 3D Tertiary structure: Compact inverted L-shape.
+tRNA acts as an adapter molecule reading mRNA codons while binding specific amino acids.
+#39 tRNA Binding Sites 	A - P - E SITES
+• A site: Aminoacyl-tRNA arrival.
+• P site: Peptidyl-tRNA chain growth.
+• E site: Exit site for deacylated tRNA.
+Ribosomal subunit sites coordinating peptide bond synthesis during elongation phase.
+#40 Aminoacylation of tRNA (Charging) 	ATP + AMINOACYL-tRNA SYNTHETASE
+Amino acid activated in presence of ATP and attached to 3'-OH end of cognate tRNA.
+Essential first step providing energetic activation for peptide bond formation.
+NCERT Class 12 Biology • Chapter 5 Mnemonics 	Page 4 of 5
+
+-- 45 of 76 --
+
+5. TRANSLATION, LAC OPERON & HUMAN GENOME PROJECT
+#41 Ribozyme Catalyst in Peptidyl Transfer 	23S rRNA
+23S rRNA in bacteria acts as enzyme (ribozyme) catalyzing peptide bond formation.
+Proves structural ribosomal RNA carries catalytic enzymatic capabilities.
+#42 Lac Operon Structural Genes 	z - y - a
+• z gene: β-galactosidase (Lactose → Glu + Gal)
+• y gene: Permease (Lactose entry)
+• a gene: Transacetylase
+Elucidated by François Jacob and Jacques Monod in E. coli.
+#43 Lac Operon Inducer 	ALLOLACTOSE / LACTOSE
+Allolactose binds repressor protein, inactivating it and switching operon ON.
+Lac operon is a classic inducible operon controlling catabolic substrate utilization.
+#44 Repressor Protein Action 	INHIBITS OPERATOR REGION
+Repressor (coded by i gene) binds operator region (o), preventing RNA Pol from transcribing.
+Negative regulation of lac operon expression in the absence of lactose.
+#45 HGP Methodologies 	ESTs vs SEQUENCE ANNOTATION
+• ESTs (Expressed Sequence Tags): Sequencing only expressed RNAs.
+• Sequence Annotation: Sequencing entire genome (coding + non-coding).
+Two major strategic approaches used during the Human Genome Project.
+#46 HGP Vectors & Sequencing Method 	BAC - YAC - SANGER METHOD
+Cloned using BAC (Bacterial Artificial Chromosome) & YAC (Yeast AC); sequenced by Sanger automated method.
+Frederick Sanger also developed methods for amino acid sequencing in proteins.
+#47 Human Genome Statistics 	3.164 BILLION BP & 30,000 GENES
+• 3.164 billion base pairs.
+• Total genes = ~30,000 (Average gene = 3,000 bases).
+• Largest gene = Dystrophin (2.4 million bases).
+Less than 2% of genome codes for proteins.
+#48 Chromosomes 1 & Y Milestones 	CHR 1 = MOST GENES (2968)
+• Chromosome 1: Most genes (2,968) (Sequenced last in May 2006).
+• Y Chromosome: Fewest genes (231).
+Chromosome 1 completion marked the final chapter of human euchromatin sequencing.
+#49 SNPs (Single Nucleotide Polymorphisms) 	1.4 MILLION LOCATIONS
+SNPs ("snips") occur at ~1.4 million locations in the human genome.
+Valuable for tracing human history, disease susceptibility, and personalized medicine.
+#50 DNA Fingerprinting (VNTRs) 	ALEC JEFFREYS & SOUTHERN BLOTTING
+Invented by Alec Jeffreys using VNTRs (Variable Number of Tandem Repeats) as radiolabeled probes.
+Steps: DNA Isolation → Restriction Digestion → Gel Electrophoresis → Southern Blotting → Hybridization with VNTR →
+Autoradiography.
+NCERT Class 12 Biology • Chapter 5 Mnemonics 	Page 5 of 5
+
+-- 46 of 76 --
+
+NCERT CLASS 12 BIOLOGY: CHAPTER 4
+50 High-Yield Mnemonics Master Guide — Principles of Inheritance & Variation 	NEET / Board Exam Prep
+1. MENDELIAN GENETICS & 7 PEA PLANT TRAITS
+#01 Mendel's 7 Pea Characters 	S - P - F - C - C - P - H
+Stem height • Pod color • Flower color • Cotyledon color (seed) • Cotyledon shape (seed) • Pod shape • Hower position
+(axial/terminal)
+Mendel selected 7 contrasting pairs of characters in the garden pea (Pisum sativum).
+#02 Dominant Traits in Pea Plant 	T - G - Y - R - I - F - A
+Tall • Green pod • Yellow seed color • Round seed • Inflated pod • Flower axial • Alpha color (Violet flower)
+These are the 7 dominant phenotypic traits expressed in the heterozygous F1 generation.
+#03 Recessive Traits in Pea Plant 	D - Y - G - W - C - T - T
+Dwarf stem • Yellow pod • Green seed color • Wrinkled seed • Constricted pod • Terminal flower • Terminal white flower
+Recessive traits only appear when homozygous (e.g., tt, yy, rr).
+#04 Why Mendel Chose Pea Plants 	E - A - S - Y
+Easily cultivated • Annual plant (short life cycle) • Self-pollinating (easily cross-pollinated) • Yields many offspring
+These biological advantages made statistical analysis of genetic crosses feasible and reliable.
+#05 Mendel's Laws of Inheritance 	D - S - I
+Dominance (Law of Dominance) • Segregation (Law of Segregation) • Independent Assortment
+The foundational three principles established by Gregor Mendel using monohybrid and dihybrid crosses.
+#06 Law of Segregation Rule 	P-U-R-E
+Purity of gametes • Unblended alleles • Random fusion • Each gamete gets only one allele
+Alleles do not show any blending; alleles segregate during gamete formation so each gamete carries only one factor.
+#07 Monohybrid Phenotypic Ratio 	3 : 1
+3 Dominant : 1 Recessive ratio observed in the F2 generation of a monohybrid cross.
+Example: Tall (TT, Tt, Tt) to Dwarf (tt) plants in a 3:1 ratio.
+#08 Monohybrid Genotypic Ratio 	1 : 2 : 1
+1 Homozygous Dominant (TT) : 2 Heterozygous (Tt) : 1 Homozygous Recessive (tt)
+Refers to the actual genetic constitution underlying the 3:1 phenotypic expression.
+#09 Test Cross Purpose 	UNKNOWN GENOTYPE
+Cross between an organism with dominant phenotype and a homozygous recessive parent to find unknown genotype.
+If offspring show 1:1 ratio, the dominant parent was heterozygous; if 100% dominant, homozygous.
+#10 Back Cross Definition 	F1 × ANY PARENT
+Crossing of an F1 hybrid with either of its two parents (dominant or recessive).
+All test crosses are back crosses, but not all back crosses are test crosses.
+NCERT Class 12 Biology • Chapter 4 Mnemonics 	Page 1 of 5
+
+-- 47 of 76 --
+
+2. DIHYBRID CROSS & POST-MENDELIAN DEVIATIONS
+#11 Dihybrid Phenotypic Ratio 	9 : 3 : 3 : 1
+9 Both dominant • 3 Dominant-Recessive • 3 Recessive-Dominant • 1 Both recessive
+Observed in F2 generation when tracking two independent pairs of contrasting traits (e.g., Round Yellow × Wrinkled Green).
+#12 Dihybrid Genotypic Varieties 	TOTAL 9 GENOTYPES
+Out of 16 boxes in Punnett square, there are 9 distinct genotypic combinations in standard dihybrid cross.
+Ratio expression formula: (1:2:1) × (1:2:1) yields 9 different genotypes.
+#13 Law of Independent Assortment Basis 	DIHYBRID CROSS
+Based on dihybrid cross results where alleles of two different genes get sorted into gametes independently of one another.
+Applies strictly to genes located on separate chromosomes or far apart on the same chromosome.
+#14 Incomplete Dominance Example 	MIRABILIS JALAPA
+Four O' Clock plant (Mirabilis jalapa) or Snapdragon (Antirrhinum majus) flower color.
+Red (RR) × White (rr) yields Pink (Rr) flowers in F1, deviating from strict Mendelian dominance.
+#15 Incomplete Dominance F2 Ratios 	1 : 2 : 1 (BOTH)
+Both phenotypic and genotypic ratios in incomplete dominance are identical: 1 Red : 2 Pink : 1 White.
+The heterozygous condition produces an intermediate blended phenotype.
+#16 Co-Dominance Definition 	BOTH EXPRESSED EQUALLY
+F1 generation resembles both parents equally without blending or dominance suppression.
+Classic example: AB blood group in humans where both IA and IB alleles express simultaneously.
+#17 Multiple Alleles Example 	ABO BLOOD GROUP
+Controlled by gene I having three alleles: IA, IB, and i.
+More than two alternative forms of a gene occupying the same locus in a population.
+#18 Human ABO Blood Group Genotypes 	6 GENOTYPES / 4 PHENOTYPES
+Genotypes: IAIA, IAi, IBIB, IBi, IAIB, ii (6 total yielding A, B, AB, O).
+Demonstrates both multiple alleles (3 alleles) and co-dominance (IAIB).
+#19 Pleiotropy Definition 	ONE GENE - MANY TRAITS
+A single gene exhibits multiple phenotypic expressions (pleiotropic gene).
+Example: Phenylketonuria (PKU) affects skin pigmentation, mental retardation, and hair color.
+#20 Starch Grain Size in Pea (Pleiotropy) 	B GENE CONTROLS 2 TRAITS
+Gene B controls starch grain size (large/small) AND seed shape (round/wrinkled) in pea plants.
+Classic NCERT example showing how a single gene locus influences multiple phenotypic characters.
+NCERT Class 12 Biology • Chapter 4 Mnemonics 	Page 2 of 5
+
+-- 48 of 76 --
+
+3. POLYGENIC INHERITANCE & CHROMOSOMAL THEORY
+#21 Polygenic Inheritance Definition 	MANY GENES - ONE TRAIT
+Traits controlled by three or more genes, producing a continuous range of expression (quantitative inheritance).
+Example: Human skin color, height, and intelligence.
+#22 Human Skin Color Inheritance 	A, B, C GENES
+Controlled by 3 genes (A, B, C) with additive effect. Dominant alleles (ABC) = dark; recessive (abc) = light.
+Produces a classic bell-shaped normal distribution curve in population phenotypes.
+#23 Chromosomal Theory of Inheritance 	SUTTON & BOVERI (1902)
+Proposed by Sutton and Boveri; paired condition of chromosomes is parallel to behavior of Mendelian factors.
+Linked Mendelian hereditary units (genes) directly to physical chromosomes in the nucleus.
+#24 Parallels Between Genes & Chromosomes 	C - O - U - P - L - E
+Chromosomes & genes occur in pairs • Occur as alleles on homologous sites • Union of gametes restores pair • Pairs segregate
+at meiosis • Linkage independent assortment • Equivalent behavior
+The striking parallels confirmed chromosomes as the carriers of hereditary genetic information.
+#25 Experimental Proof of Chromosomal Theory 	T.H. MORGAN (DROSOPHILA)
+Demonstrated by Thomas Hunt Morgan using fruit fly (Drosophila melanogaster).
+Drosophila was chosen due to short life cycle (2 weeks), cheap culture, and clear sexual dimorphism.
+#26 Linkage Definition (Morgan) 	PHYSICAL ASSOCIATION
+Tendency of genes located on the same chromosome to be inherited together during meiosis.
+Violates independent assortment; linked genes show higher parental combinations than recombinants.
+#27 Recombination Definition 	NON-PARENTAL GENE COMBINATIONS
+Generation of non-parental gene combinations due to crossing over between non-sister chromatids.
+Recombination frequency is directly proportional to the physical distance between genes.
+#28 Tight vs Loose Linkage 	DISTANCE MATTERS
+• Tightly linked genes: Low recombination, high parental progeny.
+• Loosely linked genes: High recombination frequency.
+Alfred Sturtevant used recombination frequency to construct genetic chromosome maps (centimorgans).
+#29 Sex Determination Types 	XY - XO - ZW - H
+XY (Humans/Drosophila) • XO (Grasshopper) • ZW (Birds) • Haplo-diploidy (Honeybee)
+Different biological systems employ distinct chromosomal mechanisms to determine sex.
+#30 Male Heterogamety Examples 	XX - XY & XX - XO
+Males produce two types of gametes (X and Y, or X and O). Examples: Humans, Drosophila, Grasshoppers.
+Female is homogametic (produces only X gametes).
+NCERT Class 12 Biology • Chapter 4 Mnemonics 	Page 3 of 5
+
+-- 49 of 76 --
+
+4. SEX DETERMINATION SYSTEMS & MUTATIONS
+#31 Female Heterogamety Example 	ZW - ZZ (BIRDS)
+Female is ZW (heterogametic, produces Z and W eggs); Male is ZZ (homogametic). Found in birds and reptiles.
+The exact reverse of the human XY system where males are heterogametic.
+#32 Haplo-Diploid Sex Determination 	HONEYBEE SYSTEM
+• Fertilized egg (2n = 32): Develops into female (Queen or Worker).
+• Unfertilized egg (n = 16): Develops into male (Drone) via parthenogenesis.
+Males have no fathers and cannot produce sons, but have grandfathers and can have grandsons.
+#33 Mutation Definition & Types 	ALTERATION IN DNA
+Sudden heritable change in DNA sequence. Divided into Point mutations and Frame-shift mutations.
+Mutations can result in structural or functional protein changes.
+#34 Point Mutation Classic Example 	SICKLE-CELL ANEMIA
+Substitution of single base pair (GAG to GUG) in beta-globin gene causes glutamic acid to be replaced by valine.
+A classic point mutation altering hemoglobin structure under low oxygen tension.
+#35 Pedigree Analysis Symbols 	SQUARE = MALE / CIRCLE = FEMALE
+Square = Male • Circle = Female • Filled shape = Affected individual • Double line = Consanguineous mating.
+Pedigree charts trace inheritance of specific traits through generations of a family tree.
+#36 Autosomal Dominant Pedigree Traits 	NO SKIPPING GENERATIONS
+Trait appears in every generation; both males and females affected equally. Example: Myotonic dystrophy.
+An affected individual must have at least one affected parent.
+#37 Autosomal Recessive Pedigree Traits 	SKIPS GENERATIONS
+Trait often skips generations; carriers (heterozygotes) are normal. Example: Sickle-cell anemia, Phenylketonuria.
+Affected children can be born to unaffected carrier parents (25% recurrence risk).
+#38 X-Linked Recessive Pedigree Traits 	CRISSCROSS INHERITANCE
+Affected grandfather passes trait to grandson through carrier daughter. Example: Haemophilia, Colour blindness.
+Males are affected much more frequently because they carry only one X chromosome.
+#39 Classification of Genetic Disorders 	M - C
+Mendelian disorders (single gene mutations) • Chromosomal disorders (structural/numerical aberration)
+Broad medical genetics division of inherited human abnormalities.
+#40 Mendelian Disorder Examples 	H - S - P - C - P - F
+Haemophilia • Sickle-cell anemia • Phenylketonuria • Cystic fibrosis • Pedigree traits • Fibrosis
+These disorders follow clear-cut Mendelian patterns of inheritance in families.
+NCERT Class 12 Biology • Chapter 4 Mnemonics 	Page 4 of 5
+
+-- 50 of 76 --
+
+5. MENDELIAN DISORDERS & CHROMOSOMAL ABERRATIONS
+#41 Haemophilia (Bleeder's Disease) 	X-LINKED RECESSIVE
+Failure to form normal blood clotting cascade (Factor VIII or IX deficiency). Queen Victoria was a famous carrier.
+Simple minor cuts result in non-stop bleeding in affected males.
+#42 Phenylketonuria (PKU) Enzyme Defect 	PAH ENZYME ABSENT
+Deficiency of liver enzyme phenylalanine hydroxylase; phenylalanine accumulates and converts to phenylpyruvic acid.
+Causes severe mental retardation and excretion in urine (phenylketonuria).
+#43 Thalassemia Classification 	ALPHA vs BETA
+• Alpha-thalassemia: Controlled by HBA1 and HBA2 on chromosome 16.
+• Beta-thalassemia: Controlled by HBB on chromosome 11.
+Quantitative genetic blood disorder resulting in abnormal hemoglobin chain synthesis and severe anaemia.
+#44 Aneuploidy vs Euploidy 	GAIN / LOSS OF CHROMOSOMES
+Aneuploidy: Gain or loss of individual chromosomes due to failure of segregation (non-disjunction) during cell division.
+Example: Trisomy (2n+1) or Monosomy (2n-1).
+#45 Polyploidy Definition 	WHOLE SET INCREASE (3n, 4n)
+Increase in a whole set of chromosomes due to failure of cytokinesis after telophase in cell division.
+Common in plants (e.g., wheat, banana triploids) but generally lethal in humans.
+#46 Down's Syndrome (Trisomy 21) 	TRISOMY OF CHROMOSOME 21
+Presence of an extra chromosome 21 (total 47 chromosomes). Features: Furrowed tongue, mental retardation, epicanthal fold.
+First described by Langdon Down (1866).
+#47 Klinefelter's Syndrome Karyotype 	47, XXY
+Extra X chromosome in males resulting in 47, XXY karyotype.
+Features: Overall masculine development with feminine traits (gynecomastia, sterile males).
+#48 Turner's Syndrome Karyotype 	45, XO
+Absence of one X chromosome in females resulting in 45, XO karyotype.
+Features: Sterile females, rudimentary ovaries, short stature, webbed neck.
+#49 Comparison of 3 Syndromes 	D - K - T
+• Down's: Trisomy 21 (47)
+• Klinefelter's: XXY (47, male sterile)
+• Turner's: XO (45, female sterile)
+High-yield summary table for NEET numerical chromosomal disorder questions.
+#50 Non-Disjunction Cause 	ANAPHASE FAILURE
+Failure of sister chromatids or homologous chromosomes to separate properly during anaphase of meiosis.
+Root cause of all aneuploidy conditions like Down's, Klinefelter's, and Turner's syndromes.
+NCERT Class 12 Biology • Chapter 4 Mnemonics 	Page 5 of 5
+
+-- 51 of 76 --
+
+NCERT CLASS 12 BIOLOGY: CHAPTER 3
+50 High-Yield Mnemonics Master Guide — Reproductive Health 	NEET / Board Exam Prep
+1. RCH PROGRAMS & REPRODUCTIVE HEALTH INDICATORS
+#01 Primary Goals of RCH Programs 	A - W - A - R - E
+Awareness of reproductive organs • Welfare of mother and child • Assisting infertile couples • Reducing STIs • Eradicating
+population explosion
+RCH programs create total awareness and infrastructure to build a reproductively healthy society.
+#02 Key Indicators of Improved Reproductive Health 	M - I - N - D
+MMR (Maternal Mortality Rate) decrease • IMR (Infant Mortality Rate) decrease • Number of small families increase •
+Detection & early cure of STIs
+Better healthcare and awareness lead to significant declines in both MMR and IMR.
+#03 Statutory Ban on Amniocentesis 	S - E - X
+Sex determination banned • Eradication of female foeticide • X & Y chromosome misuse prevention
+Amniocentesis tests chromosomal patterns in amniotic fluid; banned to prevent sex-selective abortions.
+#04 Features of an Ideal Contraceptive 	U - E - E - C - S
+User-friendly • Easily available • Effective with least side effects • Cheap / Economical • Sexual drive non-interfering
+An ideal contraceptive is effective, reversible, and does not hamper the user's sexual desire.
+2. NATURAL & BARRIER CONTRACEPTIVE METHODS
+#05 Natural/Traditional Methods of Contraception 	P - C - L
+Periodic abstinence • Coitus interruptus (withdrawal) • Lactational amenorrhea
+Natural methods avoid contact between ovum and sperm without external devices or chemicals.
+#06 Fertile Window in Periodic Abstinence 	DAY 10 to 17
+Day 10 to 17 of menstrual cycle = Fertile period when ovulation occurs. Avoid coitus during these days.
+Abstaining from intercourse during days 10–17 prevents fertilization during the peak ovulatory phase.
+#07 Lactational Amenorrhea Limits 	MAX 6 MONTHS
+Effective only up to a maximum period of 6 months postpartum during intense, exclusive lactation.
+High prolactin levels suppress gonadotropins (FSH/LH), temporarily halting ovulation and menstruation.
+#08 Barrier Methods for Females 	D - V - C
+Diaphragms • Vault caps • Cervical caps (Reusable rubber domes blocking cervix)
+These rubber barriers cover the uterine cervix to block sperm entry into the female reproductive tract.
+#09 Nirodh (Male Condom) Advantages 	N - I - R - O - D - H
+National brand • Inhibits insemination • Reduces STIs • One-time use • Dual action • High privacy
+Male condoms cover the penis and afford additional protection against STIs and HIV transmission.
+#10 Spermicidal Agents (Barrier Support) 	C - F - J
+Creams • Foams • Jellies (Used along with barriers to increase contraceptive efficiency)
+Chemical spermicides immobilize or kill spermatozoa in the vagina prior to cervical entry.
+NCERT Class 12 Biology • Chapter 3 Mnemonics 	Page 1 of 5
+
+-- 52 of 76 --
+
+3. INTRAUTERINE DEVICES (IUDS) & ORAL PILLS
+#11 Categories of Intrauterine Devices 	N - C - H
+Non-medicated IUDs • Copper-releasing IUDs • Hormone-releasing IUDs
+IUDs are inserted into the uterine cavity through the vagina by trained medical professionals.
+#12 Non-Medicated IUD Example 	LIPPES LOOP
+Lippes Loop → Polyethylene double-S loop that increases phagocytosis of sperms within the uterus.
+Non-medicated IUDs induce a sterile local inflammatory response in the endometrium.
+#13 Copper Releasing IUD Examples 	CuT - Cu7 - M375
+CuT (Copper T) • Cu7 (Copper 7) • Multiload 375
+Copper-releasing devices continuously leach copper ions into the uterine cavity.
+#14 Mode of Action of Copper Ions 	S - M - F
+Suppresses sperm motility • Motility rate drops • Fertilizing capacity inhibited
+Released Cu2+ ions exert a toxic effect on spermatozoa and decrease their motility.
+#15 Hormone Releasing IUD Examples 	P - L - 20
+Progestasert • LNG-20 (Levonorgestrel-releasing)
+Hormone-releasing IUDs continuously release low levels of synthetic progestogens locally.
+#16 Action of Hormone-Releasing IUDs 	U - C - H
+Uterus rendered unsuitable for implantation • Cervix made hostile to sperms • Hormones inhibit ovulation
+They thicken cervical mucus to prevent sperm entry and suppress endometrial growth.
+#17 Oral Contraceptive Pill Composition 	P - O - P
+Progestogens alone OR Oral Progestogen-Estrogen combination pills
+Small doses of progestogens or progestogen-estrogen combinations are taken in pill form.
+#18 Dosing Schedule of Daily Oral Pills 	21 - ON / 7 - OFF
+Taken daily for 21 days starting in first 5 days of cycle, followed by a 7-day gap (menstruation).
+Withdrawal bleeding occurs during the 7-day pill-free break; repeated in monthly cycles.
+#19 Saheli - Non-Steroidal Pill Features 	C - D - R - I
+Centchroman base • Developed at CDRI Lucknow • Rare side effects • Ingested once-a-week
+Saheli is a novel non-steroidal oral pill with high contraceptive value and minimal side effects.
+#20 Active Chemical in Saheli 	CENTCHROMAN
+Centchroman (Ormeloxifene) → Selective estrogen receptor modulator; prevents implantation.
+It inhibits blastocyst implantation by blocking uterine estrogen receptors without hormonal steroid effects.
+NCERT Class 12 Biology • Chapter 3 Mnemonics 	Page 2 of 5
+
+-- 53 of 76 --
+
+4. IMPLANTS, EMERGENCY CONTRACEPTION & STERILIZATION
+#21 Subcutaneous Implants & Injections 	U - N - D - E - R
+Under the skin placement • Norgestrel / Progestogens • Duration long • Effective fast • Reversible
+Implants match oral pill mechanisms but deliver progestogens steadily over longer timeframes.
+#22 Emergency Contraceptive Window 	WITHIN 72 HOURS
+Administer Progestogens / Progestogen-Estrogen combination or IUDs within 72 hours of unprotected coitus.
+Used to avoid potential pregnancy due to casual unprotected intercourse or sexual assault.
+#23 Surgical Sterilization Methods 	V - A - T
+Vasectomy (male) • Absolute permanent method • Tubectomy (female)
+Surgical interventions block gamete transport, providing irreversible permanent contraception.
+#24 Vasectomy Procedure 	V - A - S
+Vas deferens cut/tied • Abdominal scrotal incision • Sperm-free semen ejaculate
+A small part of the vas deferens is removed or tied through a minor incision on the scrotum.
+#25 Tubectomy Procedure 	T - U - B - E
+Tubes cut/tied • Uterine entrance blocked • Belly / vaginal incision • Egg transport halted
+A small section of both fallopian tubes is cut or tied through the abdomen or vagina.
+#26 Side Effects of Contraceptives 	N - A - B - I - C
+Nausea • Abdominal pain • Breast tenderness • Irregular / Breakthrough bleeding • Cancer risk (rare)
+Contraceptive selection should minimize ill-effects like irregular bleeding and severe cramps.
+5. MEDICAL TERMINATION OF PREGNANCY (MTP)
+#27 Definition & Purpose of MTP 	V - O - L - U - N - T - A - R - Y
+Voluntary or induced termination of pregnancy before full term to eliminate unwanted/unsafe pregnancies.
+Nearly 45 to 50 million MTPs are performed worldwide in a year (~1/5th of total conceived pregnancies).
+#28 MTP Legalization Year in India 	1 9 7 1
+Legalized in 1971 by Government of India with strict conditions to prevent female foeticide.
+Strict legal restrictions check indiscriminate MTPs and female-selective abortions.
+#29 MTP (Amendment) Act 2017 Rules 	1 RMP vs 2 RMPs
+• Up to 12 weeks: Opinion of 1 Registered Medical Practitioner
+• 12 to 24 weeks: Opinion of 2 Registered Medical Practitioners
+Allowed on grounds of threat to maternal life, severe fetal malformation, or rape.
+#30 Safest Period for MTP 	FIRST TRIMESTER
+First 12 weeks (1st Trimester) → Safest phase; 2nd trimester abortions are significantly riskier.
+Surgical complications and maternal mortality rise sharply for abortions performed past 12 weeks.
+NCERT Class 12 Biology • Chapter 3 Mnemonics 	Page 3 of 5
+
+-- 54 of 76 --
+
+6. SEXUALLY TRANSMITTED INFECTIONS (STIS)
+#31 Bacterial STIs (Curable) 	G - S - C
+Gonorrhoea (Neisseria) • Syphilis (Treponema) • Chlamydiasis (Chlamydia)
+Bacterial STIs can be completely cured if detected early and treated with proper antibiotics.
+#32 Incurable Viral STIs 	THE 3 H's
+Hepatitis-B • Herpes (Genital Herpes) • HIV / AIDS
+Except for these 3 infections, all other STIs are completely curable with early diagnosis.
+#33 Protozoan STI 	TRICHOMONIASIS
+Caused by flagellated protozoan Trichomonas vaginalis; produces foul vaginal discharge and itching.
+Common protozoan STI treated effectively with anti-protozoal medications like metronidazole.
+#34 Non-Sexual Transmission Routes 	N - I - S - T
+Needle sharing • Infected instruments • Serum/Blood transfusion • Transplacental (mother to fetus)
+Hepatitis-B and HIV spread through contaminated blood and maternal-fetal transfer alongside sexual contact.
+#35 Early Symptoms of STIs 	I - S - P - D
+Itching in genital area • Swelling • Pain (slight) • Discharge of fluid
+Early symptoms are often localized and mild; infected females may frequently remain asymptomatic.
+#36 Complications of Untreated STIs 	P - I - D - E - A - S
+Pelvic Inflammatory Diseases • Infertility • Distressing chronic pain • Ectopic pregnancy • Abortions • Stillbirths / Cancer
+Ignoring early symptoms leads to severe reproductive tract complications and pelvic damage.
+#37 Most Vulnerable STI Age Group 	15 to 24 YEARS
+Incidence of sexually transmitted infections is highest among young people aged 15–24 years.
+Timely sex education and health counseling target this age demographic to curb STI spread.
+#38 Prevention Rules for STIs 	A - B - C
+Avoid sex with unknown/multiple partners • Barrier usage (condoms) • Consult doctor early in doubt
+Simple precautions and safe sex practices prevent major STI transmission.
+7. INFERTILITY & ASSISTED REPRODUCTIVE TECHNOLOGIES (ART)
+#39 Clinical Definition of Infertility 	2 YEARS UNPROTECTED
+Inability to conceive or produce children despite 2 years of cohabitation and unprotected sexual intercourse.
+Infertility can stem from physical, congenital, immunological, or psychological factors in either partner.
+#40 ART Techniques Overview 	I - I - Z - G - A
+IVF (In Vitro Fertilization) • ICSI • ZIFT • GIFT • AI (Artificial Insemination)
+Assisted Reproductive Technologies offer clinical interventions when conventional treatment fails.
+NCERT Class 12 Biology • Chapter 3 Mnemonics 	Page 4 of 5
+
+-- 55 of 76 --
+
+8. ART PROCEDURES & SUMMARY
+#41 In Vitro Fertilization (IVF) Concept 	TEST-TUBE BABY
+Fertilization outside the female body in laboratory conditions simulating natural uterine environment.
+Ova from wife/donor and sperms from husband/donor are fused in vitro to form a zygote.
+#42 ZIFT (Zygote Intra Fallopian Transfer) 	UP TO 8 BLASTOMERES
+Zygote or early embryo up to 8 blastomeres transferred directly into the Fallopian Tube.
+ZIFT mimics natural embryo migration down the oviduct toward the uterus.
+#43 IUT (Intra Uterine Transfer) 	> 8 BLASTOMERES
+Embryos with more than 8 blastomeres (morula/blastocyst) transferred directly into the Uterus.
+Late-stage embryos are placed directly in the uterine lumen for immediate endometrial implantation.
+#44 In Vivo Fertilization Definition 	IN VIVO = INSIDE BODY
+Fusion of gametes takes place inside the female reproductive tract (natural fertilization context).
+Embryos formed by in vivo fertilization can also be harvested for transfer to recipient mothers.
+#45 GIFT (Gamete Intra Fallopian Transfer) 	TRANSFER UNFERTILIZED OVUM
+Transfer of an unfertilized ovum collected from a donor into the Fallopian Tube of another female.
+Indicated for females who cannot produce viable ova but can maintain fertilization and gestation.
+#46 ICSI (Intracytoplasmic Sperm Injection) 	DIRECT INJECTION
+A single sperm is directly injected into the cytoplasm of the ovum in vitro using a micro-needle.
+Specialized procedure useful in severe male factor infertility or low sperm penetration ability.
+#47 Artificial Insemination (AI) Indication 	LOW SPERM COUNT
+Indicated when the male partner cannot inseminate or has very low sperm count (oligozoospermia).
+Semen is concentrated and introduced artificially into the vagina or uterus of the female.
+#48 Intra-Uterine Insemination (IUI) 	SEMEN IN UTERUS
+Collected semen from husband or donor is introduced directly into the Uterus artificially.
+Bypasses cervical mucus barriers and shortens sperm distance to the fallopian tube.
+#49 Legal & Emotional Alternative 	LEGAL ADOPTION
+Adoption is the best legal and social option for childless couples seeking parenthood in India.
+Indian law allows legal adoption of orphaned, abandoned, or surrendered children.
+#50 Primary Limitations of ART 	H - E - L - P
+High expense • Expert precision required • Limited center availability • Psychological & moral constraints
+High cost and specialized facility requirements keep ART out of reach for many couples.
+NCERT Class 12 Biology • Chapter 3 Mnemonics 	Page 5 of 5
+
+-- 56 of 76 --
+
+Class 12 Biology Chapter 2: 50 High-Yield Mnemonics
+Master Guide
+Chapter 2: Human Reproduction (Part 1 - Male Reproductive System)
+1. Topic: Primary Events in Human Reproduction Sequence
+Mnemonic: "G-I-F-I-G-P-L"
+G – Gametogenesis (Spermatogenesis / Oogenesis)
+I – Insemination (Transfer of sperms into female genital tract)
+F – Fertilization (Fusion of male and female gametes to form zygote)
+I – Implantation (Attachment of blastocyst to uterine wall)
+G – Gestation (Embryonic development period)
+P – Parturition (Delivery of baby)
+L – Lactation (Milk production by mammary glands)
+Short Explanation: Sequential order of reproductive events in humans from gamete formation to childbirth.
+2. Topic: Male Sex Accessory Ducts Sequence
+Mnemonic: "R-V-E-V"
+R – Rete testis (Network of tubules inside testis)
+V – Vasa efferentia (Conducts sperms from rete testis to epididymis)
+E – Epididymis (Stores and matures sperm on posterior testis surface)
+V – Vas deferens (Ascends to abdomen and loops over urinary bladder)
+Short Explanation: Direct path of intratesticular and ductal transport for sperm before reaching the ejaculatory duct.
+3. Topic: Complete Pathway of Sperm Transport
+Mnemonic: "SEVEN UP"
+S – Seminiferous tubules (Sperm production site)
+E – Epididymis (Sperm maturation and storage)
+V – Vas deferens (Ascending duct)
+E – Ejaculatory duct (Formed by vas deferens + seminal vesicle duct)
+N – Nothing (structural placeholder)
+U – Urethra (Prostatic, membranous, and penile regions)
+P – Penis (Urethral meatus exit)
+Short Explanation: Full pathway traversed by sperm cells from formation to exit from the male body.
+4. Topic: Male Accessory Glands
+Mnemonic: "S-P-B"
+S – Seminal vesicles (Paired; contributes fructose and prostaglandins)
+P – Prostate gland (Single/Unpaired; secretes alkaline fluid)
+B – Bulbourethral glands (Cowper's glands; paired, provides lubrication)
+Short Explanation: Secretions of these glands form seminal plasma rich in fructose, calcium, and enzymes.
+5. Topic: Cells in Seminiferous Tubules
+Mnemonic: "S-S-L"
+S – Spermatogonia (Diploid male germ cells undergoing meiosis)
+S – Sertoli cells (Nurse cells providing nutrition to developing germ cells)
+L – Leydig cells (Interstitial cells outside tubules secreting androgens)
+Short Explanation: Germ cells and Sertoli cells lie inside seminiferous tubules, while Leydig cells occupy interstitial spaces.
+NCERT Chapter 2 Mnemonics Master Guide 	Page 1 of 10
+Human Reproduction | NCERT Line-by-Line Alignment for NEET & Board Exams
+
+-- 57 of 76 --
+
+Chapter 2: Human Reproduction (Part 2 - Female Reproductive System)
+6. Topic: Female Accessory Ducts
+Mnemonic: "O-U-V"
+O – Oviducts (Fallopian tubes; 10-12 cm long)
+U – Uterus (Womb; inverted pear shape)
+V – Vagina (Fibromuscular canal opening to exterior)
+Short Explanation: Female accessory ducts transport ova, support fertilization, and form the birth canal.
+7. Topic: Parts of Fallopian Tube (Oviduct)
+Mnemonic: "I-A-I"
+I – Infundibulum (Funnel-shaped part closer to ovary with fimbriae)
+A – Ampulla (Wider, middle part; site of fertilization)
+I – Isthmus (Narrow lumen connected directly to uterus)
+Short Explanation: Region-wise progression of fallopian tube from lateral ovary end to medial uterine attachment.
+8. Topic: Uterine Wall Layers
+Mnemonic: "P-M-E"
+P – Perimetrium (External thin membranous layer)
+M – Myometrium (Middle thick layer of smooth muscle; strong contractions during labor)
+E – Endometrium (Inner glandular layer; undergoes cyclical changes in menstrual cycle)
+Short Explanation: Structural composition of the uterine wall from outside to inside.
+9. Topic: Female External Genitalia (Vulva)
+Mnemonic: "M-L-L-H-C"
+M – Mons pubis (Cushion of fatty tissue covered by skin and pubic hair)
+L – Labia majora (Fleshy folds extending down from mons pubis)
+L – Labia minora (Paired folds of tissue under labia majora)
+H – Hymen (Membrane partially covering vaginal opening)
+C – Clitoris (Tiny erectile structure at upper junction of labia minora)
+Short Explanation: Components of female external genitalia in human anatomy.
+10. Topic: Pathway of Milk in Mammary Gland
+Mnemonic: "A-T-D-A-L"
+A – Alveoli (Milk secreting clusters of cells)
+T – Mammary Tubules (Drains alveoli)
+D – Mammary Ducts (Formed by joining of several tubules)
+A – Mammary Ampulla (Wider region connecting ducts)
+L – Lactiferous Duct (Sucked out by baby)
+Short Explanation: Directional pathway of milk transport from glandular secretion site to nipples.
+NCERT Chapter 2 Mnemonics Master Guide 	Page 2 of 10
+
+-- 58 of 76 --
+
+Chapter 2: Human Reproduction (Part 3 - Gametogenesis: Spermatogenesis)
+11. Topic: Stages of Spermatogenesis
+Mnemonic: "S-P-S-S-S"
+S – Spermatogonia (Diploid; 46 chromosomes, multiply by mitosis)
+P – Primary Spermatocytes (Diploid; 46 chromosomes, undergo Meiosis-I)
+S – Secondary Spermatocytes (Haploid; 23 chromosomes, undergo Meiosis-II)
+S – Spermatids (Haploid; 23 chromosomes, non-motile)
+S – Spermatozoa / Sperms (Haploid; transformed via spermiogenesis)
+Short Explanation: Chromosomal and developmental sequence of male gamete differentiation.
+12. Topic: Spermiogenesis vs Spermiation
+Mnemonic: "Genesis = Make, Ation = Away"
+Spermiogenesis – Conversion of non-motile Spermatids into functional Spermatozoa
+Spermiation – Release of mature sperms from Sertoli cells into lumen of seminiferous tubules
+Short Explanation: Differentiation process vs physical release process of mature sperm.
+13. Topic: Hormonal Control of Male Reproduction
+Mnemonic: "G-L-A-F-S"
+G – GnRH (Hypothalamic gonadotropin releasing hormone increases at puberty)
+L – LH acts on Leydig cells to produce Androgens (Testosterone)
+A – Androgens stimulate Spermatogenesis process
+F – FSH acts on Sertoli cells
+S – Sertoli cells secrete factors aiding Spermiogenesis
+Short Explanation: Hypothalamic-pituitary-gonadal axis governing male sperm production.
+14. Topic: Structure of Human Sperm
+Mnemonic: "H-N-M-T"
+H – Head (Contains elongated haploid nucleus & anterior Acrosome with enzymes)
+N – Neck (Short connecting segment containing centrioles)
+M – Middle Piece (Contains numerous mitochondria providing energy for motility)
+T – Tail (Lashing axial filament responsible for sperm motility)
+Short Explanation: Four anatomical divisions of a mature human sperm cell.
+15. Topic: Normal Ejaculate & Semen Parameters
+Mnemonic: "200-60-40 Rule"
+200-300 million – Total sperm count per single ejaculate
+60% – Minimum percentage of sperms that must have normal shape & size
+40% – Minimum percentage of sperms that must show vigorous motility
+Short Explanation: Standard NCERT clinical thresholds required for normal male fertility.
+NCERT Chapter 2 Mnemonics Master Guide 	Page 3 of 10
+
+-- 59 of 76 --
+
+Chapter 2: Human Reproduction (Part 4 - Oogenesis & Folliculogenesis)
+16. Topic: Developmental Stages of Oogenesis
+Mnemonic: "O-P-S-O"
+O – Oogonia (Diploid fetal germ cells; no more added after birth)
+P – Primary Oocyte (Arrested at Prophase-I of Meiosis-I until puberty)
+S – Secondary Oocyte (Haploid; retains bulk cytoplasm, arrested at Metaphase-II)
+O – Ovum (Mature haploid female gamete formed upon sperm entry)
+Short Explanation: Stages of female gamete formation starting during fetal development.
+17. Topic: Follicular Development Progression
+Mnemonic: "P-S-T-G"
+P – Primary Follicle (Primary oocyte + single layer of granulosa cells)
+S – Secondary Follicle (More granulosa layers + new theca layer)
+T – Tertiary Follicle (Fluid-filled cavity Antrum + Theca Interna/Externa)
+G – Graafian Follicle (Mature follicle with Zona Pellucida surrounding secondary oocyte)
+Short Explanation: Maturation stages of ovarian follicles inside the ovary stroma.
+18. Topic: Meiotic Arrest Points in Oogenesis
+Mnemonic: "P-1, M-2"
+P-1 – Prophase-I (First arrest in fetal stage inside Primary Oocyte)
+M-2 – Metaphase-II (Second arrest in Secondary Oocyte until fertilization)
+Short Explanation: Two distinct suspension points during meiotic division of female gametes.
+19. Topic: Follicular Atresia Count
+Mnemonic: "Millions to 60K"
+Millions – 2 million primary follicles present at birth in each ovary
+60,000 to 80,000 – Number of primary follicles remaining in each ovary at puberty
+Short Explanation: Massive degeneration of follicles (atresia) occurs between birth and puberty.
+20. Topic: Layers of Mature Graafian Follicle / Ovum
+Mnemonic: "Z-C-T-T"
+Z – Zona Pellucida (Acellular glycoprotein layer directly around secondary oocyte)
+C – Corona Radiata (Radiating granulosa cells outer to zona pellucida)
+T – Theca Interna (Inner vascular hormone-secreting layer)
+T – Theca Externa (Outer fibrous protective layer)
+Short Explanation: Protective and functional layers surrounding the secondary oocyte during ovulation.
+NCERT Chapter 2 Mnemonics Master Guide 	Page 4 of 10
+
+-- 60 of 76 --
+
+Chapter 2: Human Reproduction (Part 5 - Menstrual Cycle Phases & Hormones)
+21. Topic: Phases of Menstrual Cycle in Order
+Mnemonic: "M-F-O-L"
+M – Menstrual Phase (Days 1-5; shedding of endometrial lining)
+F – Follicular / Proliferative Phase (Days 6-13; regeneration of endometrium)
+O – Ovulatory Phase (Day 14; rupture of Graafian follicle and ovum release)
+L – Luteal / Secretory Phase (Days 15-28; corpus luteum secretes progesterone)
+Short Explanation: The 28-day primate reproductive cycle divided into four sequential phases.
+22. Topic: LH Surge Effects
+Mnemonic: "R-C-O"
+R – Rupture of Graafian follicle
+C – Conversion of remnant follicle into Corpus Luteum
+O – Ovulation (Release of secondary oocyte into abdominal cavity)
+Short Explanation: Rapid peak of LH (LH surge) mid-cycle induces ovulation and luteinization.
+23. Topic: Major Hormones in Menstrual Cycle
+Mnemonic: "F-L-E-P"
+F – FSH (Pituitary hormone; stimulates follicle growth)
+L – LH (Pituitary hormone; induces ovulation and corpus luteum)
+E – Estrogen (Ovarian hormone; promotes endometrial proliferation)
+P – Progesterone (Ovarian hormone; maintains endometrial lining for implantation)
+Short Explanation: Interplay of two gonadotropins and two steroid hormones during the female cycle.
+24. Topic: Menarche vs Menopause
+Mnemonic: "Start Arche, Pause Stop"
+Menarche – First occurrence of menstruation at puberty (~12-14 years)
+Menopause – Permanent cessation of menstruation (~50 years of age)
+Short Explanation: Onset and termination parameters of reproductive life in human females.
+25. Topic: Fate of Corpus Luteum
+Mnemonic: "Fertilizing Maintains, Absence Degenerates"
+Fertilization Present – hCG maintains Corpus Luteum to produce Progesterone
+Fertilization Absent – Corpus Luteum degenerates into Corpus Albicans, leading to menstruation
+Short Explanation: Maintenance or degeneration of corpus luteum depending on pregnancy occurrence.
+NCERT Chapter 2 Mnemonics Master Guide 	Page 5 of 10
+
+-- 61 of 76 --
+
+Chapter 2: Human Reproduction (Part 6 - Fertilization & Cortical Reaction)
+26. Topic: Precise Site of Fertilization
+Mnemonic: "A-I Junction"
+A – Ampullary region of fallopian tube
+I – Isthmic junction (Ampullary-isthmic junction)
+Short Explanation: Fertilization can only occur if ovum and sperms are transported simultaneously to the ampullary region.
+27. Topic: Prevention of Polyspermy (Fast vs Slow Block)
+Mnemonic: "Z-C-S"
+Z – Zona pellucida change (Sperm contact induces changes in membrane)
+C – Cortical granules reaction (Blocks entry of additional sperms)
+S – Monospermy ensured (Guarantees only one sperm fertilizes ovum)
+Short Explanation: Cortical reaction alters zona pellucida structure to block polyspermy permanently.
+28. Topic: Acrosomal Reaction Enzymes
+Mnemonic: "H-C-A"
+H – Hyaluronidase (Dissolves hyaluronic acid binding granulosa cells)
+C – Corona Penetrating Enzyme (Digests corona radiata)
+A – Acrosin / Zona Lysin (Digests zona pellucida layer)
+Short Explanation: Enzymatic contents of acrosome enabling sperm to penetrate ovum envelopes.
+29. Topic: Completion of Meiosis-II in Oogenesis
+Mnemonic: "Sperm Entry Trigger"
+Sperm Entry – Induces completion of second meiotic division in secondary oocyte
+Unequal Division – Produces second polar body + haploid ootid (ovum)
+Short Explanation: Fertilization is required to trigger final meiotic completion and polar body extrusion.
+30. Topic: Sex Determination Mechanism in Humans
+Mnemonic: "Father Decides"
+Mother – Homogametic (50% X + 50% X ova; all carry X chromosome)
+Father – Heterogametic (50% X + 50% Y sperms)
+XX – Female child | XY – Male child
+Short Explanation: Genetic sex of baby is determined strictly by male gamete carrying either X or Y chromosome.
+NCERT Chapter 2 Mnemonics Master Guide 	Page 6 of 10
+
+-- 62 of 76 --
+
+Chapter 2: Human Reproduction (Part 7 - Cleavage & Embryo Development)
+31. Topic: Cleavage Division Characteristics
+Mnemonic: "H-C-I-D"
+H – Holoblastic (Complete mitotic cleavage of zygote)
+C – Constant overall mass (Cell size decreases while cell number increases)
+I – Increase in DNA synthesis and nucleocytoplasmic ratio
+D – Directional migration towards uterine cavity
+Short Explanation: Specialized mitotic divisions converting single-celled zygote into multicellular structure.
+32. Topic: Early Embryonic Stages
+Mnemonic: "Z-M-B-G"
+Z – Zygote (Single-celled diploid fusion product)
+M – Morula (Solid mulberry-like ball of 8 to 16 blastomeres)
+B – Blastocyst (Fluid-filled sphere with trophoblast and inner cell mass)
+G – Gastrula (Three-layered germ embryo: Ecto, Meso, Endoderm)
+Short Explanation: Sequential morphological forms assumed by human embryo post-fertilization.
+33. Topic: Blastocyst Structure Parts
+Mnemonic: "T-I-B"
+T – Trophoblast (Outer single cell layer attaching to endometrium; forms placenta)
+I – Inner Cell Mass / Stem Cells (Group of cells attached to trophoblast forming embryo proper)
+B – Blastocoel (Fluid-filled central cavity)
+Short Explanation: Structural differentiation of blastocyst required for successful implantation.
+34. Topic: Timing of Implantation
+Mnemonic: "Day Seven Embeds"
+7th Day – Blastocyst implants into uterine endometrium approximately 7 days post-fertilization
+Mechanism – Trophoblast secretes proteolytic enzymes to embed into uterine lining
+Short Explanation: Exact timeline for attachment and embedding of blastocyst into mother's endometrium.
+35. Topic: Germ Layers Differentiation from Inner Cell Mass
+Mnemonic: "E-M-E"
+E – Ectoderm (Outer layer; gives rise to nervous system and skin)
+M – Mesoderm (Middle layer; gives rise to muscles, bones, circulatory system)
+E – Endoderm (Inner layer; gives rise to gut lining and visceral organs)
+Short Explanation: Primary germ layers formed during gastrulation that give rise to all adult tissues.
+NCERT Chapter 2 Mnemonics Master Guide 	Page 7 of 10
+
+-- 63 of 76 --
+
+Chapter 2: Human Reproduction (Part 8 - Placenta & Endocrine Functions)
+36. Topic: Structural Origin of Placenta
+Mnemonic: "C-U Joint"
+C – Chorionic villi (Finger-like projections from trophoblast)
+U – Uterine tissue (Maternal tissue interdigitating with chorionic villi)
+Short Explanation: Placenta is an intimate structural and functional unit between developing fetus and maternal body.
+37. Topic: Functions of Placenta
+Mnemonic: "O-N-E-W"
+O – Oxygen supply to developing fetus
+N – Nutrient transport (Glucose, amino acids, lipids)
+E – Excretory waste removal (CO2 and nitrogenous wastes)
+W – Withstand endocrine role (Secretion of pregnancy-maintaining hormones)
+Short Explanation: Essential physiological functions mediated by placenta during gestation.
+38. Topic: Hormones Produced Exclusively During Pregnancy
+Mnemonic: "H-H-R"
+H – hCG (Human Chorionic Gonadotropin; maintains corpus luteum)
+H – hPL (Human Placental Lactogen; regulates fetal metabolism)
+R – Relaxin (Secreted by ovary/placenta in late pregnancy phase to soften pelvic ligaments)
+Short Explanation: Hormones produced in women strictly during pregnancy and detectable in urine diagnostic tests.
+39. Topic: Hormones Increased Several Fold in Pregnancy
+Mnemonic: "P-E-C-T-O"
+P – Progestogens
+E – Estrogens
+C – Cortisol
+T – Thyroxine
+O – Prolactin
+Short Explanation: Maternal blood levels of these hormones increase multi-fold to support fetal growth and metabolic changes.
+40. Topic: Structure Connecting Placenta to Fetus
+Mnemonic: "U-C Lifeline"
+U – Umbilical Cord (Contains umbilical artery and vein)
+C – Transport channel carrying nutrients to fetus and waste away to placenta
+Short Explanation: Vascular conduit connecting the fetus to the placenta.
+NCERT Chapter 2 Mnemonics Master Guide 	Page 8 of 10
+
+-- 64 of 76 --
+
+Chapter 2: Human Reproduction (Part 9 - Gestation & Fetal Milestone Timeline)
+41. Topic: Month 1 Fetal Milestone
+Mnemonic: "One Month Heart"
+1 Month – Embryo's Heart is formed
+Sign – First sign of growing fetus is listening to heart sound via stethoscope
+Short Explanation: Early cardiac functional development occurring within 30 days of pregnancy.
+42. Topic: Month 2 Fetal Milestone
+Mnemonic: "Two Months Limbs"
+2 Months – Fetus develops Limbs and Digits
+Short Explanation: End of second month marks visible differentiation of hands, feet, and fingers.
+43. Topic: Month 3 (First Trimester - 12 Weeks) Milestone
+Mnemonic: "Twelve Weeks Organs"
+12 Weeks – Major organ systems fully formed (Limbs & External Genitalia well-developed)
+Short Explanation: End of 1st trimester completes major organogenesis in human embryo.
+44. Topic: Month 5 Fetal Milestone
+Mnemonic: "Five Months Hair & Move"
+5 Months – First Movement of fetus (Quickening) + Appearance of Hair on head
+Short Explanation: Mother perceives distinct fetal movements accompanied by cranial hair growth.
+45. Topic: Month 6 (Second Trimester - 24 Weeks) Milestone
+Mnemonic: "Twenty-Four Eyes & Body Hair"
+24 Weeks – Body covered with fine hair, Eye-lids separate, Eye-lashes formed
+Short Explanation: Facial features and integumentary maturation achieved by end of 2nd trimester.
+NCERT Chapter 2 Mnemonics Master Guide 	Page 9 of 10
+
+-- 65 of 76 --
+
+Chapter 2: Human Reproduction (Part 10 - Parturition, Lactation & Summary)
+46. Topic: Foetal Ejection Reflex Reflex Arc
+Mnemonic: "F-P-O-C"
+F – Fully developed fetus and placenta originate mild uterine contractions
+P – Posterior pituitary receives neural signal to release Oxytocin
+O – Oxytocin causes stronger uterine muscle contractions
+C – Continuous positive feedback reflex results in expulsion of baby
+Short Explanation: Neuroendocrine mechanism triggering labor contractions for child birth.
+47. Topic: Oxytocin - The Labor & Milk-Ejection Hormone
+Mnemonic: "Push and Pour"
+Push – Stimulates powerful myometrial contractions during parturition
+Pour – Stimulates myoepithelial contraction for milk ejection during lactation
+Short Explanation: Dual physiological action of oxytocin in childbirth and breastfeeding.
+48. Topic: Colostrum Composition & Significance
+Mnemonic: "C-I-A"
+C – First yellowish milk produced during initial days of lactation
+I – Immunoglobulin A (IgA antibodies present in rich quantity)
+A – Acquired passive immunity conferred to newborn baby against infections
+Short Explanation: Initial milk rich in IgA antibodies essential for establishing infant immunity.
+49. Topic: Hormones Regulating Lactation
+Mnemonic: "P-O Pair"
+Prolactin – Secreted by anterior pituitary; stimulates synthesis and secretion of milk in alveoli
+Oxytocin – Secreted by posterior pituitary; stimulates milk release / ejection reflex
+Short Explanation: Prolactin manufactures milk while oxytocin releases milk from mammary glands.
+50. Topic: Summary of Gestation Duration
+Mnemonic: "9-280-40 Rule"
+9 Months – Average human gestation period
+280 Days – Duration calculated from last menstrual period (LMP)
+40 Weeks – Full-term pregnancy timeline for normal delivery
+Short Explanation: Standard clinical duration measurements for human pregnancy.
+NCERT Chapter 2 Mnemonics Master Guide 	Page 10 of 10
+
+-- 66 of 76 --
+
+Class 12 Biology Chapter 1: 50 High-Yield Mnemonics
+Master Guide
+Chapter 1: Sexual Reproduction in Flowering Plants (Part 1 - Pre-fertilization: Structures & Events)
+1. Topic: Layers of Anther Wall
+Mnemonic: "Epi Endos Middle Tap"
+Epi – Epidermis – Outermost protective layer
+Endos – Endothecium – Fibrous thickening layer aiding dehiscence
+Middle – Middle layers – Degenerating cells providing temporary nourishment
+Tap – Tapetum – Innermost multinucleate nutritive layer
+Short Explanation: The anther wall consists of four layers where the tapetum nourishes the developing microspore mother cells.
+2. Topic: Tapetum Characteristics
+Mnemonic: "D-N-U"
+D – Dense cytoplasm – Rich in metabolic activity for secretion
+N – Numerous nuclei – Often polyploid or multinucleated condition
+U – Unicellular layer initially – Surrounds the sporogenous tissue directly
+Short Explanation: Tapetal cells possess dense cytoplasm and multiple nuclei to effectively nourish developing pollen grains.
+3. Topic: Microsporogenesis Stages
+Mnemonic: "M-T-P"
+M – MMC (Microspore Mother Cell) – Diploid cell undergoing meiosis
+T – Tetrad formation – Four haploid microspores produced
+P – Pollen grain separation – Microspores dissociate and mature into pollen grains
+Short Explanation: Microsporogenesis involves meiotic division of MMC to form a haploid microspore tetrad.
+4. Topic: Pollen Grain Wall Layers
+Mnemonic: "Ex Spp In"
+Ex – Exine – Outer hard layer made of sporopollenin
+Spp – Sporopollenin – Extremely resistant organic polymer
+In – Intine – Inner thin layer made of cellulose and pectin
+Short Explanation: The resilient exine protects pollen against harsh conditions, interrupted only by germ pores where intine emerges.
+5. Topic: Pollen Grain Two-Celled Stage
+Mnemonic: "V-G-S-C"
+V – Vegetative cell – Bigger cell with abundant food reserve and large irregular nucleus
+G – Generative cell – Small cell floating in vegetative cytoplasm
+S – Spindle shape – Shape of generative cell
+C – Cell division – Generative cell divides to form two male gametes
+Short Explanation: In over 60% of angiosperms, pollen is shed at a 2-celled stage containing a vegetative and a generative cell.
+NCERT Chapter 1 Mnemonics Master Guide 	Page 1 of 10
+Sexual Reproduction in Flowering Plants | NCERT Line-by-Line Alignment for NEET
+
+-- 67 of 76 --
+
+Chapter 1: Sexual Reproduction in Flowering Plants (Part 2 - Microgametogenesis & Pollen Viability)
+6. Topic: Pollen Shedding Stages
+Mnemonic: "Six-Three Split"
+Six – Sixty percent – Percentage of angiosperms shedding pollen at 2-celled stage
+Three – Three-celled stage – Remaining species shedding pollen with two male gametes plus vegetative cell
+Short Explanation: Pollen grains are shed either at the 2-celled or 3-celled stage depending on plant species.
+7. Topic: Pollen Viability Duration Examples
+Mnemonic: "R-L-C"
+R – Rice and Wheat – Pollen viability lasts only 30 minutes
+L – Leguminosae, Rosaceae, Solanaceae – Pollen viability lasts for months
+C – Cryopreservation – Liquid nitrogen storage at -196°C for crop breeding
+Short Explanation: Pollen viability varies greatly from 30 minutes in cereals to months in rosaceous plants.
+8. Topic: Pistil Parts (Gynoecium)
+Mnemonic: "S-S-O"
+S – Stigma – Landing platform for pollen grains
+S – Style – Elongated slender stalk beneath stigma
+O – Ovary – Basal bulged part containing ovarian cavity and placenta
+Short Explanation: The pistil or gynoecium represents the female reproductive organ comprising stigma, style, and ovary.
+9. Topic: Ovary Conditions (Syncarpous vs Apocarpous)
+Mnemonic: "Papa-M-A"
+Papa – Papaver – Classic example of syncarpous ovary (fused carpels)
+M – Michelia – Classic example of apocarpous ovary (free carpels)
+A – Appressed/Free – Carpels separate in apocarpous condition
+Short Explanation: Multicarpellary pistils can be syncarpous (fused like Papaver) or apocarpous (free like Michelia).
+10. Topic: Ovule Anatomy Structure
+Mnemonic: "F-H-I-M"
+F – Funicle – Stalk attaching ovule to placenta
+H – Hilum – Junction point between ovule and funicle
+I – Integuments – Protective envelope layers surrounding nucellus
+M – Micropyle – Small opening at apex where integuments are absent
+Short Explanation: The megasporangium (ovule) is attached to the placenta via a funicle, featuring protective integuments.
+NCERT Chapter 1 Mnemonics Master Guide 	Page 2 of 10
+
+-- 68 of 76 --
+
+Chapter 1: Sexual Reproduction in Flowering Plants (Part 3 - Megasporogenesis & Embryo Sac)
+11. Topic: Ovule Regions
+Mnemonic: "N-C-M"
+N – Nucellus – Central mass of diploid nutritive tissue
+C – Chalaza – Basal pole opposite to micropyle
+M – Micropylar end – Opening through which pollen tube enters
+Short Explanation: The nucellus provides nutrition for the developing embryo sac inside the ovule.
+12. Topic: Megasporogenesis Stages
+Mnemonic: "M-T-D"
+M – MMC differentiation – Single megaspore mother cell in micropylar region of nucellus
+T – Tetrad formation – Meiosis produces linear tetrad of four megaspores
+D – Degeneration – Three megaspores degenerate, only one functional megaspore survives
+Short Explanation: Megasporogenesis results in one functional megaspore from four meiotic products.
+13. Topic: Female Gametophyte Development (Monosporic)
+Mnemonic: "Three-Two-Eight"
+Three – Three mitotic nuclear divisions of functional megaspore
+Two – Two nucleate, four nucleate, and eight nucleate stages formed sequentially
+Eight – Eight nuclei total organized into 7 cells
+Short Explanation: Monosporic development means the embryo sac develops from a single functional megaspore.
+14. Topic: Mature Embryo Sac Cellular Arrangement
+Mnemonic: "3-1-3 Formula"
+3 – Three antipodal cells at chalazal end
+1 – One central large cell containing two polar nuclei (forming secondary nucleus)
+3 – Three cells at micropylar end (egg apparatus: 1 egg cell + 2 synergids)
+Short Explanation: A mature angiosperm embryo sac is 7-celled and 8-nucleate.
+15. Topic: Synergid Special Structure
+Mnemonic: "F-A-P"
+F – Filiform apparatus – Special cellular thickenings at micropylar tip
+A – Attraction of pollen tube – Guides pollen tube entry into synergid
+P – Penetration helper – Directs male gamete discharge
+Short Explanation: The filiform apparatus in synergids plays an important role in guiding pollen tube entry.
+NCERT Chapter 1 Mnemonics Master Guide 	Page 3 of 10
+
+-- 69 of 76 --
+
+Chapter 1: Sexual Reproduction in Flowering Plants (Part 4 - Pollination Types & Agents)
+16. Topic: Types of Pollination
+Mnemonic: "A-G-X"
+A – Autogamy – Self-pollination within same flower
+G – Geitonogamy – Pollination between different flowers of same plant (functionally cross, genetically self)
+X – Xenogamy – Cross-pollination between different plants of same species
+Short Explanation: Pollination is categorized based on pollen transfer source into autogamy, geitonogamy, and xenogamy.
+17. Topic: Cleistogamous Flower Examples
+Mnemonic: "V-O-C"
+V – Viola (Common pansy) – Produces chasmogamous and cleistogamous flowers
+O – Oxalis – Cleistogamous flowers ensuring seed set without pollinators
+C – Commelina – Underground cleistogamous flowers assuring guaranteed seed production
+Short Explanation: Cleistogamous flowers do not open at all, ensuring assured seed set via compulsory autogamy.
+18. Topic: Outbreeding Devices to Prevent Inbreeding
+Mnemonic: "P-H-S-U"
+P – Pollen release and stigma receptivity not synchronized (Dichogamy)
+H – Herkogamy – Spatial separation of anther and stigma
+S – Self-incompatibility – Genetic barrier preventing self-pollen germination
+U – Unisexual flowers – Dioecism preventing autogamy completely
+Short Explanation: Plants evolve outbreeding devices because continued self-pollination leads to inbreeding depression.
+19. Topic: Artificial Hybridization Steps
+Mnemonic: "E-B-R-R"
+E – Emasculation – Removal of anthers from bisexual flower bud before dehiscence
+B – Bagging – Covering emasculated flower with butter-paper bag to prevent contamination
+R – Re-dusting – Desired pollen dusted on receptive stigma
+R – Re-bagging – Flower re-bagged until fruit development
+Short Explanation: Artificial hybridization is essential for crop improvement programs.
+20. Topic: Agents of Pollination
+Mnemonic: "A-B-W"
+A – Abiotic agents – Wind and Water (pollinates a limited number of genera)
+B – Biotic agents – Animals, insects, birds, bats, reptiles
+W – Wind pollination (Anemophily) – Most common abiotic pollination
+Short Explanation: Plants use biotic and abiotic agents to transfer pollen grains from anther to stigma.
+NCERT Chapter 1 Mnemonics Master Guide 	Page 4 of 10
+
+-- 70 of 76 --
+
+Chapter 1: Sexual Reproduction in Flowering Plants (Part 5 - Pollination Adaptations & Biotic Agents)
+21. Topic: Wind-Pollinated (Anemophilous) Flower Features
+Mnemonic: "L-W-S-O"
+L – Light, non-sticky pollen grains – Easily carried by wind currents
+W – Well-exposed stamens – For easy pollen dispersal into wind
+S – Sticky or feathery stigma – To easily trap airborne pollen
+O – Ovule single per ovary – Packed inflorescences (e.g., corn cob tassels)
+Short Explanation: Wind-pollinated flowers are often packed into inflorescences and lack bright colors or nectar.
+22. Topic: Water-Pollinated (Hydrophilous) Examples
+Mnemonic: "V-H-Z"
+V – Vallisneria – Female flowers reach water surface via long stalk; male flowers released on surface
+H – Hydrilla – Freshwater aquatic plant pollinated underwater
+Z – Zostera – Marine sea-grasses where ribbon-like pollen is released underwater
+Short Explanation: Water pollination is rare in angiosperms, restricted to about 30 genera mostly monocotyledons.
+23. Topic: Aquatic Plants NOT Pollinated by Water
+Mnemonic: "W-L"
+W – Water hyacinth (Eichhornia) – Insect or wind pollinated despite aquatic habitat
+L – Lotus – Flowers emerge above water level, pollinated by insects or wind
+Short Explanation: Not all aquatic plants use water for pollination; many emerge above water and use insects or wind.
+24. Topic: Adaptations for Insect Pollination (Entomophily)
+Mnemonic: "C-N-F"
+C – Colorful and fragrant flowers – To attract insect visitors
+N – Nectar and pollen grains – Offered as floral rewards to pollinators
+F – Floral rewards / sticky pollen – Ensures faithful pollen transport
+Short Explanation: Insect-pollinated flowers provide floral rewards like nectar and edible pollen to entice visitors.
+25. Topic: Unusual Biotic Pollinators & Rewards
+Mnemonic: "A-M-Y"
+A – Amorphophallus – Tallest flower (6 feet) providing safe egg-laying site reward
+M – Moth and Yucca plant – Obligate mutualism where moth pollinates and lays eggs in locule
+Y – Yucca larvae feed on developing seeds while leaving enough for propagation
+Short Explanation: Some plants offer safe egg-laying sites as floral rewards, establishing obligate symbiotic relationships.
+NCERT Chapter 1 Mnemonics Master Guide 	Page 5 of 10
+
+-- 71 of 76 --
+
+Chapter 1: Sexual Reproduction in Flowering Plants (Part 6 - Pollen-Pistil Interaction & Fertilization)
+26. Topic: Pollen-Pistil Interaction
+Mnemonic: "D-R-A"
+D – Dynamic process – Involves pollen recognition and chemical dialogue
+R – Rejection or acceptance – Pistil accepts compatible pollen and rejects incompatible types
+A – Activation of germination – Pollen tube germinates through germ pore upon acceptance
+Short Explanation: Pollen-pistil interaction is a continuous dialogue mediated by chemical components of pollen and pistil.
+27. Topic: Double Fertilization Events
+Mnemonic: "S-T-S"
+S – Syngamy – Fusion of first male gamete with egg cell forming diploid zygote (2n)
+T – Triple fusion – Fusion of second male gamete with two polar nuclei forming PEN (3n)
+S – Synergistic hallmark – Exclusive feature unique to angiosperms
+Short Explanation: Double fertilization involves both syngamy and triple fusion occurring within the same embryo sac.
+28. Topic: Products of Double Fertilization
+Mnemonic: "Z-P-E"
+Z – Zygote (2n) – Develops into embryo
+P – PEN (Primary Endosperm Nucleus - 3n) – Develops into nutritive endosperm
+E – Embryo sac transformations – Ovule transforms into seed and ovary into fruit
+Short Explanation: Double fertilization produces a diploid zygote and a triploid primary endosperm nucleus.
+29. Topic: Post-Fertilization Structural Changes
+Mnemonic: "O-S-I-W"
+O – Ovary becomes Fruit
+S – Ovule becomes Seed
+I – Integuments become Seed coat (Testa and Tegmen)
+W – Zygote becomes Embryo
+Short Explanation: Following fertilization, floral whorls wither while ovary and ovules transform into fruit and seeds.
+30. Topic: Endosperm Development Types
+Mnemonic: "F-N-C"
+F – Free-nuclear endosperm – Most common type where nuclear divisions are not followed by cell wall formation
+N – Coconut water – Classic example of free-nuclear endosperm (thousands of nuclei)
+C – Cellular coconut kernel – Cellularized endosperm surrounding coconut water
+Short Explanation: Endosperm development precedes embryo development to provide nutrition, appearing in free-nuclear or cellular
+forms.
+NCERT Chapter 1 Mnemonics Master Guide 	Page 6 of 10
+
+-- 72 of 76 --
+
+Chapter 1: Sexual Reproduction in Flowering Plants (Part 7 - Endosperm & Embryogenesis)
+31. Topic: Endosperm Fate in Seeds (Albuminous vs Exalbuminous)
+Mnemonic: "E-N-W-P"
+E – Endospermic (Albuminous) seeds – Retain endosperm (e.g., Castor, Sunflower, Wheat, Maize)
+N – Non-endospermic (Exalbuminous) seeds – Endosperm fully consumed before seed maturation (e.g., Pea, Groundnut, Bean)
+W – Wheat & Maize – Albuminous storage
+P – Pea & Bean – Non-endospermic storage in cotyledons
+Short Explanation: Seeds are classified as albuminous or exalbuminous based on whether endosperm persists at maturity.
+32. Topic: Embryogeny in Dicotyledons
+Mnemonic: "P-G-H-C"
+P – Proembryo stage – Initial divisions of zygote
+G – Globular stage – Spherical embryo mass
+H – Heart-shaped stage – Emergence of cotyledon primordia
+C – Mature embryo – Fully formed hypocotyl, radicle, and cotyledons
+Short Explanation: Dicot embryo development progresses through proembryo, globular, and heart-shaped stages.
+33. Topic: Parts of Dicot Embryo
+Mnemonic: "E-C-H-R
+
+E – Embryonal axis – Central axis of embryo
+C – Cotyledons – Seed leaves (two in dicots)
+H – Hypocotyl & Epicotyl – Regions below and above cotyledon attachment
+R – Radicle & Plumule – Root tip and shoot tip covered by root cap
+Short Explanation: A typical dicot embryo consists of an embryonal axis and two cotyledons.
+34. Topic: Monocot Embryo Specific Structures
+Mnemonic: "S-S-C-E"
+S – Scutellum – Single cotyledon situated laterally in grass embryo
+S – Shoot apex / Coleoptile – Hollow foliar structure enclosing shoot apex
+C – Coleorhiza – Undifferentiated sheath covering radicle and root cap
+E – Epiblast – Rudimentary second cotyledon in grasses (e.g., Rice)
+Short Explanation: Monocot embryos (grass family) possess a single lateral cotyledon called scutellum with protective sheaths.
+35. Topic: Coleoptile vs Coleorhiza Locations
+Mnemonic: "Top-Bot"
+Top – Coleoptile encloses plumule at upper end
+Bot – Coleorhiza encloses radicle at lower root end
+Short Explanation: Coleoptile protects the shoot apex (plumule) and coleorhiza protects the root tip (radicle) in monocots.
+NCERT Chapter 1 Mnemonics Master Guide 	Page 7 of 10
+
+-- 73 of 76 --
+
+Chapter 1: Sexual Reproduction in Flowering Plants (Part 8 - Seed Anatomy & Dormancy)
+36. Topic: Seed Coat Layers and Parts
+Mnemonic: "T-T-M-H"
+T – Testa – Outer tough seed coat layer
+T – Tegmen – Inner thin seed coat layer
+M – Micropyle – Small pore on seed coat allowing water and oxygen entry during germination
+H – Hilum – Scar on seed coat where funicle was attached
+Short Explanation: The seed coat protects the delicate embryo and regulates dormancy until germination conditions arrive.
+37. Topic: Albuminous (Endospermic) Seed Examples
+Mnemonic: "C-S-W-B"
+C – Castor – Albuminous dicot seed
+S – Sunflower – Albuminous seed
+W – Wheat – Albuminous monocot grain (caryopsis)
+B – Barley & Maize – Endospermic cereal grains
+Short Explanation: Albuminous seeds retain their endosperm at maturity to supply nutrients during early seedling growth.
+38. Topic: Non-Albuminous (Exalbuminous) Seed Examples
+Mnemonic: "P-G-B"
+P – Pea – Exalbuminous dicot seed storing food in cotyledons
+G – Groundnut – Non-endospermic legume
+B – Bean – Cotyledons serve as primary food storage organs
+Short Explanation: Non-endospermic seeds consume their endosperm completely during embryogenesis, storing food in cotyledons.
+39. Topic: Non-Fused Residual Nucellus (Perisperm) Examples
+Mnemonic: "B-B-P"
+B – Beet – Perisperm present in mature seed
+B – Black pepper – Residual persistent nucellus
+P – Perisperm definition – Nutritive persistent nucellar tissue
+Short Explanation: In some seeds like black pepper and beet, remnants of nucellus persist as perisperm.
+40. Topic: Seed Dormancy Advantages
+Mnemonic: "S-S-S"
+S – Storage for agriculture – Humans can store seeds for crop cultivation across seasons
+S – Survival in unfavorable conditions – Protects embryo during harsh winters or droughts
+S – Seed germination synchronization – Ensures germination when moisture and temperature are optimal
+Short Explanation: Seed dormancy is a state of inactive metabolic arrest that aids species survival and agriculture.
+NCERT Chapter 1 Mnemonics Master Guide 	Page 8 of 10
+
+-- 74 of 76 --
+
+Chapter 1: Sexual Reproduction in Flowering Plants (Part 9 - Extreme Seed Viability & Fruit Types)
+41. Topic: Extreme Seed Viability Records
+Mnemonic: "L-A-T"
+L – Lupinus arcticus (Arctic lupine) – Viable seed excavated from tundra frozen soil after 10,000 years
+A – Archaeological excavation – Confirms extreme longevity of dormant seeds
+T – Date palm (Phoenix dactylifera) – Viable seed discovered at King Herod's palace excavated after 2,000 years
+Short Explanation: Some seeds maintain viability for thousands of years in dormant states before germinating successfully.
+42. Topic: Fruit Types (True vs False vs Parthenocarpic)
+Mnemonic: "T-F-P"
+T – True fruit – Developed exclusively from the ovary (e.g., Mango)
+F – False fruit (Pseudocarp) – Thalamus contributes to fruit formation alongside ovary (e.g., Apple, Strawberry, Cashew)
+P – Parthenocarpic fruit – Developed without fertilization, seedless (e.g., Banana induced by growth hormones)
+Short Explanation: Fruits can be true (from ovary), false (involving thalamus), or parthenocarpic (seedless without fertilization).
+43. Topic: False Fruit Examples
+Mnemonic: "A-S-C"
+A – Apple – Fleshy thalamus is main edible part
+S – Strawberry – Receptacle/thalamus bears achenes on surface
+C – Cashew – Pedicel swells into fleshy false fruit (cashew apple)
+Short Explanation: In false fruits like apple and strawberry, floral parts other than the ovary contribute to the edible fruit structure.
+44. Topic: Parthenocarpy Definition & Example
+Mnemonic: "S-B-H"
+S – Seedless condition – Fruit development without fertilization
+B – Banana – Natural parthenocarpic fruit lacking viable seeds
+H – Hormonal induction – Application of auxins and gibberellins induces commercial parthenocarpy
+Short Explanation: Parthenocarpy yields seedless fruits which are commercially valuable in crops like bananas and seedless grapes.
+45. Topic: Advantages of Seeds in Angiosperms
+Mnemonic: "R-A-D"
+R – Reproductive adaptation – Better adaptive strategies than spores, independent of water for fertilization
+A – Ample food reserves – Nourishes young seedling until photosynthesis begins
+D – Dispersal to new habitats – Seeds have specialized structures for wind, water, and animal dispersal
+Short Explanation: Seeds offer superior reproductive advantages, enabling flowering plants to colonize diverse terrestrial habitats.
+NCERT Chapter 1 Mnemonics Master Guide 	Page 9 of 10
+
+-- 75 of 76 --
+
+Chapter 1: Sexual Reproduction in Flowering Plants (Part 10 - Apomixis & Polyembryony)
+46. Topic: Apomixis Definition & Significance
+Mnemonic: "A-S-H"
+A – Asexual reproduction mimicking sexual reproduction – Formation of seeds without fertilization
+S – Segregation absence – No genetic segregation in hybrid offspring
+H – Hybrid vigor retention – Farmers do not need to buy hybrid seeds every year
+Short Explanation: Apomixis produces seed-derived clones without fertilization, saving costs for farmers cultivating hybrid crops.
+47. Topic: Mechanisms of Apomixis
+Mnemonic: "D-A-D"
+D – Diplospory – Unreduced megaspore mother cell develops directly into diploid embryo sac
+A – Adventitious embryony – Nucellar cells protrude into embryo sac and develop into embryos (common in Citrus and Mango)
+D – Direct egg development – Unfertilized egg develops parthenogenetically into embryo
+Short Explanation: Apomictic seeds can form via adventitious embryony where nucellar cells surround and form embryos directly.
+48. Topic: Polyembryony Examples
+Mnemonic: "C-M-O"
+C – Citrus – Classic example of polyembryony with multiple embryos per seed
+M – Mango – Nucellar polyembryony producing multiple seedlings
+O – Occurrence – Presence of more than one embryo in a single seed
+Short Explanation: Polyembryony is the occurrence of multiple embryos in a seed, frequently observed in Citrus and Mango due to
+nucellar budding.
+49. Topic: Hybrid Seed Production Challenge
+Mnemonic: "H-C-R"
+H – Hybrid seeds – High yielding crops produced by crossing inbred lines
+C – Cost hurdle – Farmers must purchase expensive hybrid seeds every year because characters segregate in F2 generation
+R – Resolution via apomixis – Transferring apomictic genes into hybrids solves segregation issue
+Short Explanation: Hybrid seeds lose their hybrid vigor or segregate traits in subsequent generations unless apomixis is introduced.
+50. Topic: Summary of Angiosperm Life Cycle Alternation
+Mnemonic: "S-G-D-S"
+S – Sporophyte (2n) – Dominant photosynthetic diploid plant body
+G – Gametophyte (n) – Reduced haploid pollen grain and embryo sac
+D – Double fertilization – Hallmark uniting angiosperm sexual reproduction
+S – Seed formation – Ultimate evolutionary success ensuring terrestrial dominance
+Short Explanation: Angiosperms exhibit a heteromorphic alternation of generations with a dominant diploid sporophyte and reduced
+gametophyte.
+NCERT Chapter 1 Mnemonics Master Guide 	Page 10 of 10
+
+-- 76 of 76 --
+

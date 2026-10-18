@@ -1,151 +1,134 @@
 /**
- * Biology Chapter 10: Cell Cycle and Cell Division
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 10: Cell Cycle and Cell Division
+ * Class 11 Biology (30 verified mnemonics)
+ * Primary Source: NEET Biology Chapter-Wise 30 Mnemonics Master (PDF 1)
  */
 
 export const bioCh10Mnemonics = [
   {
-    "id": "mnemo-bio-03",
+    "id": "mnemo-bio-ch10-01",
     "subject": "biology",
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-1",
-    "topicTitle": "Mitosis Stages",
-    "topic": "Mitosis 4 Stages Sequence (PMAT)",
+    "topicTitle": "Phases of Cell Cycle",
+    "topic": "Phases of Cell Cycle",
     "mnemonicNumber": 1,
-    "title": "Mitosis Stages: Pass Me A Taco (PMAT)",
-    "badgeText": "Memory Trick",
+    "title": "Phases of Cell Cycle: \"I Preferred More Pizza Today\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Pass Me A Taco! (P → M → A → T)",
-    "memoryHook": "Prophase (Pack DNA) → Metaphase (Middle equator) → Anaphase (Away to poles) → Telophase (Two new nuclei)!",
-    "fact": "The 4 stages of mitosis: 1. Prophase (condensation)  2. Metaphase (chromosomes line up at equator)  3. Anaphase (centromeres split, chromatids pull away)  4. Telophase (nuclear membrane reforms).",
+    "mnemonic": "I Preferred More Pizza Today",
+    "memoryHook": "I Preferred More Pizza Today",
+    "fact": "I: Interphase (> 95% of cell cycle duration). M: M-Phase / Mitotic Phase (< 5% duration). Phases: G1 → S → G2 → M Phase (Prophase, Metaphase, Anaphase, Telophase)",
     "breakdown": [
       {
-        "key": "P - Prophase",
-        "label": "DNA packs tightly into chromosomes, nuclear envelope fades"
+        "key": "I",
+        "label": "Interphase (> 95% of cell cycle duration)"
       },
       {
-        "key": "M - Metaphase",
-        "label": "Chromosomes line up in the Middle (equatorial plate)"
+        "key": "M",
+        "label": "M-Phase / Mitotic Phase (< 5% duration)"
       },
       {
-        "key": "A - Anaphase",
-        "label": "Sister chromatids pull Away to opposite poles (V, L, J shapes)"
-      },
-      {
-        "key": "T - Telophase",
-        "label": "Two new nuclear envelopes form around separated DNA"
+        "key": "Phases",
+        "label": "G1 → S → G2 → M Phase (Prophase, Metaphase, Anaphase, Telophase)"
       }
     ],
-    "doodleBadge": "P → M → A → T",
-    "doodleSubtext": "Mitosis Cycle",
-    "explanation": "Metaphase is the best stage to count chromosome numbers and look at their shapes under a microscope because they are most condensed and lined up neatly.",
-    "alsoRemember": "Cytokinesis (cell body splitting) follows Telophase to produce 2 identical daughter cells.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.2.",
-    "neetTrap": "Centromeres split in Mitosis Anaphase, but in Meiosis they split in Anaphase II (NOT Anaphase I).",
+    "doodleBadge": "I Preferred More Pizza T",
+    "doodleSubtext": "Phases of Cell Cycle",
+    "explanation": "The sequential progression of events dividing cell cycle into resting/prep phase and active division phase.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Phases of Cell Cycle.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.53",
     "tags": [
-      "Mitosis",
-      "PMAT",
-      "Cell Division",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Phases"
     ],
-    "expandedMeaning": "Prophase, Metaphase, Anaphase, Telophase",
-    "whyItWorks": "The classic acronym PMAT fixes the order of mitotic phases permanently.",
-    "visualDescription": "Four sequential cells showing DNA condensing, lining up in middle, splitting away, and forming two nuclei.",
-    "neetRelevance": "Sequential arrangement questions and phase event matching.",
-    "commonMistake": "Placing Anaphase before Metaphase.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 53,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "At which stage of mitosis do chromosomes align along the middle equatorial plate?",
+      "question": "Which of the following is associated with \"Phases of Cell Cycle\" in NEET Biology?",
       "options": [
-        "Prophase",
-        "Metaphase",
-        "Anaphase",
-        "Telophase"
+        "Interphase (> 95% of cell cycle duration)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Metaphase = Middle! Chromosomes line up along the metaphase plate attached to spindle fibers."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Interphase (> 95% of cell cycle duration)\". Remember using: \"I Preferred More Pizza Today\"."
     }
   },
   {
-    "id": "mnemo-bio-04",
+    "id": "mnemo-bio-ch10-02",
     "subject": "biology",
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
-    "topicId": "bio-top-10-2",
-    "topicTitle": "Meiosis I Prophase Stages",
-    "topic": "Meiosis Prophase I Sub-stages (LZPDD)",
+    "classLevel": 11,
+    "topicId": "bio-top-10-1",
+    "topicTitle": "Duration of Human vs Yeast Cell Cycle",
+    "topic": "Duration of Human vs Yeast Cell Cycle",
     "mnemonicNumber": 2,
-    "title": "Meiosis Prophase I: Lazy Zebra Plays Double Drums",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
+    "title": "Duration of Human vs Yeast Cell Cycle: \"Human 24 Hours, Yeast 90 Minutes\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
     "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Lazy Zebra Plays Double Drums (LZPDD)",
-    "memoryHook": "Leptotene (Condense) → Zygotene (Synapsis pairing) → Pachytene (Crossing over!) → Diplotene (Chiasmata X visible) → Diakinesis (Terminalization)!",
-    "fact": "Meiosis I Prophase 5 stages: 1. Leptotene (Chromatin condenses) 2. Zygotene (Synapsis & synaptonemal complex) 3. Pachytene (Crossing over by Recombinase) 4. Diplotene (Chiasmata visible) 5. Diakinesis (Spindle forms).",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Human 24 Hours, Yeast 90 Minutes",
+    "memoryHook": "Human 24 Hours, Yeast 90 Minutes",
+    "fact": "Human Cells in Culture: Divide once in approx. 24 hours. Yeast (Saccharomyces): Completes cell cycle in approx. 90 minutes",
     "breakdown": [
       {
-        "key": "Leptotene",
-        "label": "Chromosomes become visible like long slender threads"
+        "key": "Human Cells in Culture",
+        "label": "Divide once in approx. 24 hours"
       },
       {
-        "key": "Zygotene",
-        "label": "Homologous chromosomes pair up (Synapsis)"
-      },
-      {
-        "key": "Pachytene",
-        "label": "Crossing over between non-sister chromatids (Recombinase enzyme)"
-      },
-      {
-        "key": "Diplotene",
-        "label": "X-shaped Chiasmata become visible as complex dissolves"
-      },
-      {
-        "key": "Diakinesis",
-        "label": "Terminalisation of chiasmata (Ready for Metaphase I)"
+        "key": "Yeast (Saccharomyces)",
+        "label": "Completes cell cycle in approx. 90 minutes"
       }
     ],
-    "doodleBadge": "L → Z → P → D → D",
-    "doodleSubtext": "Crossing over in P",
-    "explanation": "Pachytene is where genetic variety happens through crossing over. In human females, oocytes freeze in Diplotene for years until ovulation.",
-    "alsoRemember": "Centromeres DO NOT divide in Anaphase I of Meiosis (whole homologous pairs separate). Centromeres divide only in Anaphase II.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.4.",
-    "neetTrap": "Crossing over happens in PACHYTENE, but Chiasmata become VISIBLE in DIPLOTENE.",
+    "doodleBadge": "Human 24 Hours, Yeast 90",
+    "doodleSubtext": "Duration of Human vs Yea",
+    "explanation": "Specific duration benchmarks emphasized in NCERT for eukaryote cell division rates.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Duration of Human vs Yeast Cell Cycle.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.53",
     "tags": [
-      "Meiosis",
-      "Prophase I",
-      "Crossing Over",
-      "Class 11"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Duration"
     ],
-    "expandedMeaning": "Leptotene, Zygotene, Pachytene, Diplotene, Diakinesis",
-    "whyItWorks": "LZPDD mnemonic establishes the correct chronological progression of the 5 substages of Prophase I.",
-    "visualDescription": "Five sequential microscope views showing thread-like chromatin, pairing bivalents, crossing over nodules, X-shaped chiasmata, and terminalized tips.",
-    "neetRelevance": "One of the top 3 most frequently tested topics in NEET Biology.",
-    "commonMistake": "Saying crossing over occurs in Zygotene or Diplotene.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 53,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "During which sub-stage of Prophase I does crossing over take place?",
+      "question": "Which of the following is associated with \"Duration of Human vs Yeast Cell Cycle\" in NEET Biology?",
       "options": [
-        "Zygotene",
-        "Pachytene",
-        "Diplotene",
-        "Diakinesis"
+        "Human 24 Hours, Yeast 90 Minutes",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Crossing over is an enzyme-mediated process catalyzed by Recombinase that occurs specifically in the Pachytene stage."
+      "answerIndex": 0,
+      "explanation": "Specific duration benchmarks emphasized in NCERT for eukaryote cell division rates."
     }
   },
   {
@@ -154,72 +137,63 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-1",
-    "topicTitle": "Interphase Phases",
-    "topic": "S Phase: DNA Doubles (2C to 4C), Chromosomes Stay 2n",
+    "topicTitle": "Interphase Stages Sequence",
+    "topic": "Interphase Stages Sequence",
     "mnemonicNumber": 3,
-    "title": "S Phase: DNA Doubles to 4C, But Chromosomes Stay 2n",
-    "badgeText": "Must Know",
+    "title": "Interphase Stages Sequence: \"Go Synthesis Grow” (G1 → S → G2)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "S Phase = Synthesis: DNA Amount Doubles (2C → 4C), Chromosome Count Stays 2n!",
-    "memoryHook": "In S phase, each chromosome duplicates its DNA into two sister chromatids joined at ONE centromere. Number of centromeres = Number of chromosomes, so 2n stays 2n!",
-    "fact": "During S (Synthesis) phase, the amount of DNA per cell doubles from 2C to 4C. However, there is no increase in chromosome number; if the cell has 2n chromosomes in G1, it still has 2n in S and G2.",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Go Synthesis Grow” (G1 → S → G2)",
+    "memoryHook": "Go Synthesis Grow” (G1 → S → G2)",
+    "fact": "G1 Phase (Gap 1): First growth phase, active transcription/translation, organelle duplication. S Phase (Synthesis): DNA replication in nucleus, centriole duplication in cytoplasm. G2 Phase (Gap 2): Protein synthesis (tubulin), preparation for mitosis",
     "breakdown": [
       {
-        "key": "DNA Content in G1",
-        "label": "2C (diploid complement)"
+        "key": "G1 Phase (Gap 1)",
+        "label": "First growth phase, active transcription/translation, organelle duplication"
       },
       {
-        "key": "DNA Content in S & G2",
-        "label": "4C (doubled by replication)"
+        "key": "S Phase (Synthesis)",
+        "label": "DNA replication in nucleus, centriole duplication in cytoplasm"
       },
       {
-        "key": "Chromosome Number in G1",
-        "label": "2n (e.g. 46 in humans)"
-      },
-      {
-        "key": "Chromosome Number in S & G2",
-        "label": "2n (still 46, but each has 2 chromatids)"
-      },
-      {
-        "key": "Cytoplasm Event",
-        "label": "Centriole duplicates in the cytoplasm of animal cells"
+        "key": "G2 Phase (Gap 2)",
+        "label": "Protein synthesis (tubulin), preparation for mitosis"
       }
     ],
-    "doodleBadge": "2C → 4C | 2n = 2n",
-    "doodleSubtext": "S Phase Replication",
-    "explanation": "In animal cells, while DNA replication takes place in the nucleus, the centriole duplicates in the cytoplasm during S phase.",
-    "alsoRemember": "Plant cells lack centrioles but still organize mitotic spindles.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.1.1.",
-    "neetTrap": "NEET trick question: \"If a cell has 16 chromosomes in G1, how many chromosomes in G2?\" Answer is STILL 16 (not 32)!",
+    "doodleBadge": "Go Synthesis Grow” (G1 →",
+    "doodleSubtext": "Interphase Stages Sequen",
+    "explanation": "Sub-phases of Interphase preceding nuclear division.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Interphase Stages Sequence.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.53",
     "tags": [
-      "S Phase",
-      "DNA Replication",
-      "Centriole Duplication",
-      "Cell Cycle"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Interphase"
     ],
-    "expandedMeaning": "DNA doubles from 2C to 4C while chromosome number remains 2n because sister chromatids share one centromere.",
-    "whyItWorks": "Count centromeres, not chromatids, to determine chromosome number.",
-    "visualDescription": "A single chromatid duplicated into an X-shaped pair sharing one centromere, labeled 2C -> 4C with 2n = 2n.",
-    "neetRelevance": "Extremely high frequency calculation question in NEET.",
-    "commonMistake": "Doubling the chromosome number to 4n after S phase.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.1.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 53,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "If a diploid cell has 24 chromosomes with 2C DNA content in G1 phase, what will be its chromosome number and DNA content after S phase?",
+      "question": "Which of the following is associated with \"Interphase Stages Sequence\" in NEET Biology?",
       "options": [
-        "48 chromosomes and 4C DNA",
-        "24 chromosomes and 4C DNA",
-        "24 chromosomes and 2C DNA",
-        "12 chromosomes and 4C DNA"
+        "G1 Phase (Gap 1): First growth phase, active transcription/translation, organell",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "In S phase, DNA content doubles (2C to 4C) but chromosome number remains unchanged at 2n = 24."
+      "answerIndex": 0,
+      "explanation": "Correct: \"G1 Phase (Gap 1): First growth phase, active transcription/translation, organelle duplication\". Remember using: \"Go Synthesis Grow” (G1 → S → G2)\"."
     }
   },
   {
@@ -228,68 +202,59 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-1",
-    "topicTitle": "Interphase Phases",
-    "topic": "G0 Phase (Quiescent Stage)",
+    "topicTitle": "DNA Amount vs Chromosome Number in S Phase",
+    "topic": "DNA Amount vs Chromosome Number in S Phase",
     "mnemonicNumber": 4,
-    "title": "G0 Phase: Quiet but Metabolically Active",
+    "title": "DNA Amount vs Chromosome Number in S Phase: \"DNA Doubles (2C → 4C), Chromosomes Constant (2N → 2N)\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "G0 = Grounded & Resting: Metabolically ACTIVE, But Suspends Division!",
-    "memoryHook": "Cells in G0 do NOT divide unless called upon (e.g. injury repair). They exit G1 to enter G0. They are fully alive and metabolically ACTIVE, never dormant!",
-    "fact": "Cells that do not divide further exit G1 phase to enter an inactive stage called quiescent stage (G0) of the cell cycle. Cells in this stage remain metabolically active but do not proliferate.",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "DNA Doubles (2C → 4C), Chromosomes Constant (2N → 2N)",
+    "memoryHook": "DNA Doubles (2C → 4C), Chromosomes Constant (2N → 2N)",
+    "fact": "DNA Content: Doubles from 2C to 4C during S phase. Chromosome Number: Remains unchanged at 2N (diploid)",
     "breakdown": [
       {
-        "key": "Exit point",
-        "label": "Cells exit G1 phase to enter G0 phase"
+        "key": "DNA Content",
+        "label": "Doubles from 2C to 4C during S phase"
       },
       {
-        "key": "Metabolic state",
-        "label": "Metabolically ACTIVE and functioning normally"
-      },
-      {
-        "key": "Proliferation state",
-        "label": "Do not proliferate unless stimulated by tissue injury or growth signals"
-      },
-      {
-        "key": "Permanent examples",
-        "label": "Heart muscle cells and mature neurons"
+        "key": "Chromosome Number",
+        "label": "Remains unchanged at 2N (diploid)"
       }
     ],
-    "doodleBadge": "G0 = Active Non-Divider",
-    "doodleSubtext": "Quiescent State",
-    "explanation": "Many cells in adult animals, like heart muscle cells, do not exhibit division and remain suspended in G0.",
-    "alsoRemember": "Fibroblasts can re-enter G1 from G0 upon wound injury.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.1.1.",
-    "neetTrap": "Cells in G0 are NOT metabolically inactive! They are metabolically ACTIVE.",
+    "doodleBadge": "DNA Doubles (2C → 4C), C",
+    "doodleSubtext": "DNA Amount vs Chromosome",
+    "explanation": "Crucial numerical concept: S phase replicates DNA content without increasing the total chromosome count.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in DNA Amount vs Chromosome Number in S Phase.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.53",
     "tags": [
-      "G0 Phase",
-      "Quiescent Stage",
-      "Heart Cells",
-      "Interphase"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "DNA"
     ],
-    "expandedMeaning": "G0 quiescent state where cells suspend division while remaining metabolically active.",
-    "whyItWorks": "Directly busts the common myth that \"quiescent\" means dead or metabolically dormant.",
-    "visualDescription": "A cell sitting at an office desk working actively (metabolism) while ignoring the exit door to division.",
-    "neetRelevance": "Assertion-Reason favorite regarding metabolic activity in G0.",
-    "commonMistake": "Selecting \"metabolically inactive\" for G0 cells.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.1.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 53,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following statements about cells in the G0 (quiescent) phase is CORRECT?",
+      "question": "Which of the following is associated with \"DNA Amount vs Chromosome Number in S Phase\" in NEET Biology?",
       "options": [
-        "They are metabolically inactive and dead",
-        "They exit the cell cycle and remain metabolically active",
-        "They replicate their DNA continuously",
-        "They enter directly into M phase"
+        "DNA Doubles (2C → 4C), Chromosomes Constant (2N → 2N)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Cells in G0 exit G1 phase; they do not divide but remain fully metabolically active."
+      "answerIndex": 0,
+      "explanation": "Crucial numerical concept: S phase replicates DNA content without increasing the total chromosome count."
     }
   },
   {
@@ -298,68 +263,59 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-1",
-    "topicTitle": "Cell Cycle Duration",
-    "topic": "Interphase Duration: 95% of Cell Cycle",
+    "topicTitle": "Centriole Duplication Site & Timing",
+    "topic": "Centriole Duplication Site & Timing",
     "mnemonicNumber": 5,
-    "title": "Cell Cycle Duration: 95% Interphase, 5% Mitosis",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Human Cell = 24 Hours (23 hrs Prep + 1 hr Split) | Yeast = 90 Minutes!",
-    "memoryHook": "In a 24-hour human cell cycle, Interphase takes more than 95% of duration (~23 hours). The actual M-phase drama lasts only ~1 hour! Yeast takes just 90 minutes.",
-    "fact": "A typical human cell in culture divides once in approximately 24 hours. Of this, the M phase lasts only about an hour, while interphase accounts for more than 95% of the cycle.",
+    "title": "Centriole Duplication Site & Timing: \"Centriole Cytoplasm S-Phase\"",
+    "badgeText": "High Yield",
+    "importance": "Must Know",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Centriole Cytoplasm S-Phase",
+    "memoryHook": "Centriole Cytoplasm S-Phase",
+    "fact": "DNA Replication: Occurs inside the Nucleus during S phase. Centriole Duplication: Occurs in the Cytoplasm during S phase in animal cells",
     "breakdown": [
       {
-        "key": "Human cell cycle",
-        "label": "24 hours total duration"
+        "key": "DNA Replication",
+        "label": "Occurs inside the Nucleus during S phase"
       },
       {
-        "key": "Interphase share",
-        "label": "> 95% of total time (~23 hours) consisting of G1, S, and G2"
-      },
-      {
-        "key": "M Phase share",
-        "label": "< 5% of total time (~1 hour) consisting of karyokinesis and cytokinesis"
-      },
-      {
-        "key": "Yeast cycle",
-        "label": "Only about 90 minutes to complete division"
+        "key": "Centriole Duplication",
+        "label": "Occurs in the Cytoplasm during S phase in animal cells"
       }
     ],
-    "doodleBadge": "23 hrs Prep : 1 hr M",
-    "doodleSubtext": "24-Hour Cycle",
-    "explanation": "Interphase was historically called the \"resting phase\", but it is actually the period of intense metabolic preparation.",
-    "alsoRemember": "Yeast can progress through the entire cell cycle in only 90 minutes.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.1.",
-    "neetTrap": "Interphase is NOT a resting phase in terms of metabolism; it is the most metabolically active phase.",
+    "doodleBadge": "Centriole Cytoplasm S-Ph",
+    "doodleSubtext": "Centriole Duplication Si",
+    "explanation": "Spatial localization of duplication events during S phase.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Centriole Duplication Site & Timing.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.53",
     "tags": [
-      "Cell Cycle Duration",
-      "24 Hours",
-      "Yeast 90 Min",
-      "Interphase"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Centriole"
     ],
-    "expandedMeaning": "Interphase occupies >95% (23 hr) and M phase occupies <5% (1 hr) in humans; Yeast takes 90 min.",
-    "whyItWorks": "The 23:1 ratio and 90-minute yeast comparison are direct numerical facts tested in NEET.",
-    "visualDescription": "A 24-hour clock face where 23 hours are colored blue for Interphase and only 1 hour is red for M-phase.",
-    "neetRelevance": "Direct numerical and percentage questions.",
-    "commonMistake": "Assuming M phase takes up most of the cell cycle.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 53,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In a typical 24-hour human cell cycle, approximately what percentage of time is spent in Interphase?",
+      "question": "Which of the following is associated with \"Centriole Duplication Site & Timing\" in NEET Biology?",
       "options": [
-        "50%",
-        "75%",
-        "More than 95%",
-        "Less than 10%"
+        "Centriole Cytoplasm S-Phase",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Interphase lasts more than 95% of the total duration of the cell cycle (about 23 hours out of 24 hours)."
+      "answerIndex": 0,
+      "explanation": "Spatial localization of duplication events during S phase."
     }
   },
   {
@@ -368,68 +324,59 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-1",
-    "topicTitle": "Mitosis Stages",
-    "topic": "Prophase Diagnostic Hallmarks",
+    "topicTitle": "Quiescent Stage (G0 Phase)",
+    "topic": "Quiescent Stage (G0 Phase)",
     "mnemonicNumber": 6,
-    "title": "Prophase Hallmarks: Condensation & Disappearing Organelles",
+    "title": "Quiescent Stage (G0 Phase): \"G0 Exit G1, Metabolically Active\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Prophase: Chromosomes Condense, Poles Apart, Organelles Vanish!",
-    "memoryHook": "First stage of karyokinesis. Centrosomes move to opposite poles, radiating asters. By end of prophase, the nucleolus, Golgi complex, and ER completely disappear!",
-    "fact": "Cells at the end of prophase, when viewed under the microscope, do not show Golgi complexes, endoplasmic reticulum, nucleolus, or the nuclear envelope.",
+    "mnemonic": "G0 Exit G1, Metabolically Active",
+    "memoryHook": "G0 Exit G1, Metabolically Active",
+    "fact": "G0 State: Cells exit G1 phase to enter an inactive stage. Characteristics: Metabolically active, no longer proliferate unless requested (e.g., heart cells, neurons)",
     "breakdown": [
       {
-        "key": "Chromatin condensation",
-        "label": "Untangled chromatin condenses into compact mitotic chromosomes"
+        "key": "G0 State",
+        "label": "Cells exit G1 phase to enter an inactive stage"
       },
       {
-        "key": "Centrosome migration",
-        "label": "Centrosomes move to opposite poles and radiate micro-tubular asters"
-      },
-      {
-        "key": "Mitotic apparatus",
-        "label": "Two asters together with spindle fibers form the mitotic apparatus"
-      },
-      {
-        "key": "Organelle disappearance",
-        "label": "Golgi, ER, nucleolus, and nuclear envelope break down and disappear"
+        "key": "Characteristics",
+        "label": "Metabolically active, no longer proliferate unless requested (e.g., heart cells, neurons)"
       }
     ],
-    "doodleBadge": "Disappearing Organelles",
-    "doodleSubtext": "End of Prophase",
-    "explanation": "The disappearance of the nuclear envelope marks the formal transition from Prophase into Metaphase.",
-    "alsoRemember": "Centrosome duplication occurred earlier during S phase of interphase.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.2.1.",
-    "neetTrap": "Golgi and ER disappear at the end of PROPHASE, not metaphase.",
+    "doodleBadge": "G0 Exit G1, Metabolicall",
+    "doodleSubtext": "Quiescent Stage (G0 Phas",
+    "explanation": "Non-dividing resting state entered by specialized mature cells. Chapter 10: Cell Cycle and Cell Division (30 Mnemonics) \tPage 1",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Quiescent Stage (G0 Phase).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.53",
     "tags": [
-      "Prophase",
-      "Mitotic Apparatus",
-      "Golgi Breakdown",
-      "Karyokinesis"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Quiescent"
     ],
-    "expandedMeaning": "Condensation, centrosome poleward migration, and disappearance of Golgi, ER, and nucleolus.",
-    "whyItWorks": "Highlighting which organelles vanish creates an instant mental checklist for microscope questions.",
-    "visualDescription": "A cell showing fading ghost outlines of ER, Golgi, and nucleolus as chromosomes condense into dark threads.",
-    "neetRelevance": "Common question asks which cell organelles are NOT visible at the end of prophase.",
-    "commonMistake": "Thinking mitochondria and ribosomes disintegrate (only ER, Golgi, and nucleolus are mentioned).",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.2.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 53,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following organelles are NOT visible in a cell viewed under the microscope at the end of prophase?",
+      "question": "Which of the following is associated with \"Quiescent Stage (G0 Phase)\" in NEET Biology?",
       "options": [
-        "Mitochondria and Peroxisomes",
-        "Golgi complex, Endoplasmic Reticulum, and Nucleolus",
-        "Ribosomes and Centrosomes",
-        "Plasma membrane and Cytoplasm"
+        "G0 Exit G1, Metabolically Active",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Under the microscope, cells at the end of prophase do not show Golgi complex, endoplasmic reticulum, nucleolus, and nuclear envelope."
+      "answerIndex": 0,
+      "explanation": "Non-dividing resting state entered by specialized mature cells. Chapter 10: Cell Cycle and Cell Division (30 Mnemonics) \tPage 1"
     }
   },
   {
@@ -438,68 +385,67 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-1",
-    "topicTitle": "Mitosis Stages",
-    "topic": "Metaphase: Equatorial Plate & Karyotyping Champion",
+    "topicTitle": "Stages of Mitosis (M Phase)",
+    "topic": "Stages of Mitosis (M Phase)",
     "mnemonicNumber": 7,
-    "title": "Metaphase: Best for Morphology, Plate at the Middle",
-    "badgeText": "Must Know",
+    "title": "Stages of Mitosis (M Phase): \"PMAT” (Prophase, Metaphase, Anaphase, Telophase)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
+    "visualType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "M = Metaphase = Middle Equator = Morphology Best Studied!",
-    "memoryHook": "Complete breakdown of nuclear envelope marks start of metaphase. Chromosomes are thickest and shortest. All chromosomes align at the equatorial Metaphase Plate!",
-    "fact": "Chromosome morphology (size, shape, banding) is best studied at metaphase because chromosomes are maximally condensed and lie aligned in one plane.",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "PMAT” (Prophase, Metaphase, Anaphase, Telophase)",
+    "memoryHook": "PMAT” (Prophase, Metaphase, Anaphase, Telophase)",
+    "fact": "P: Prophase (Chromatin condensation starts). M: Metaphase (Equatorial alignment). A: Anaphase (Sister chromatids separate). T: Telophase (Nuclear membrane reappears)",
     "breakdown": [
       {
-        "key": "Onset of Metaphase",
-        "label": "Marked by complete disintegration of the nuclear envelope"
+        "key": "P",
+        "label": "Prophase (Chromatin condensation starts)"
       },
       {
-        "key": "Kinetochores",
-        "label": "Disc-shaped protein structures on centromeres where spindle fibers attach"
+        "key": "M",
+        "label": "Metaphase (Equatorial alignment)"
       },
       {
-        "key": "Metaphase Plate",
-        "label": "Plane of alignment of chromosomes at the cell equator"
+        "key": "A",
+        "label": "Anaphase (Sister chromatids separate)"
       },
       {
-        "key": "Morphology Study",
-        "label": "Best stage to observe chromosome number, size, and structure"
+        "key": "T",
+        "label": "Telophase (Nuclear membrane reappears)"
       }
     ],
-    "doodleBadge": "Metaphase = Middle",
-    "doodleSubtext": "Karyotyping Stage",
-    "explanation": "Spindle fibers from one pole attach to the kinetochore of one sister chromatid, and fibers from the opposite pole attach to the sister chromatid.",
-    "alsoRemember": "Colchicine arrests cells at metaphase by preventing spindle assembly, used for karyotyping.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.2.2.",
-    "neetTrap": "Chromosome MORPHOLOGY is studied at Metaphase, but chromosome SHAPE (V, L, J, I) is studied at Anaphase.",
+    "doodleBadge": "PMAT” (Prophase, Metapha",
+    "doodleSubtext": "Stages of Mitosis (M Pha",
+    "explanation": "The sequential order of nuclear division (karyokinesis) steps in mitosis.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Stages of Mitosis (M Phase).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.54",
     "tags": [
-      "Metaphase",
-      "Karyotyping",
-      "Kinetochore",
-      "Metaphase Plate"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Stages"
     ],
-    "expandedMeaning": "Disintegration of nuclear envelope, alignment at equator, kinetochore spindle attachment, best for morphology.",
-    "whyItWorks": "Triple M: Metaphase = Middle = Morphology.",
-    "visualDescription": "Chromosomes lined up along a dashed equator with spindle fibers hooked into kinetochore discs on centromeres.",
-    "neetRelevance": "One of the most repeated questions in NEET: \"Which stage is best to study morphology of chromosomes?\"",
-    "commonMistake": "Selecting Anaphase for chromosome morphology (Anaphase is for shape: V, L, J, I).",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.2.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 54,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which stage of mitosis is the best stage to study the morphology of chromosomes?",
+      "question": "Which of the following is associated with \"Stages of Mitosis (M Phase)\" in NEET Biology?",
       "options": [
-        "Prophase",
-        "Metaphase",
-        "Anaphase",
-        "Telophase"
+        "Prophase (Chromatin condensation starts)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "At metaphase, chromosomes are maximally condensed and aligned at the equatorial plate, making it the ideal stage to study morphology."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Prophase (Chromatin condensation starts)\". Remember using: \"PMAT” (Prophase, Metaphase, Anaphase, Telophase)\"."
     }
   },
   {
@@ -508,68 +454,63 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-1",
-    "topicTitle": "Mitosis Stages",
-    "topic": "Anaphase: Centromere Splits, Chromosome Shapes (V, L, J, I)",
+    "topicTitle": "Events of Prophase",
+    "topic": "Events of Prophase",
     "mnemonicNumber": 8,
-    "title": "Anaphase: Centromere Splits, Chromosomes Pull Away",
+    "title": "Events of Prophase: \"Condense, Asters Form, Envelope Disappears\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "A = Anaphase = Away to Poles = Centromere Splits First!",
-    "memoryHook": "Centromeres split simultaneously. Chromatids become daughter chromosomes. Centromere leads towards the pole, arms trail behind forming V, L, J, or I shapes!",
-    "fact": "In anaphase, centromeres split and sister chromatids separate. As they are pulled by spindle fibers toward opposite poles, the centromere leads while chromosome arms trail behind.",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Condense, Asters Form, Envelope Disappears",
+    "memoryHook": "Condense, Asters Form, Envelope Disappears",
+    "fact": "Chromatin: Condenses into compact mitotic chromosomes. Centrosomes: Move to opposite poles and radiate asters (spindle fibers). Organelles: Nucleolus, Golgi, ER, and nuclear envelope disappear by late prophase",
     "breakdown": [
       {
-        "key": "Centromere splitting",
-        "label": "Centromere of each chromosome splits simultaneously"
+        "key": "Chromatin",
+        "label": "Condenses into compact mitotic chromosomes"
       },
       {
-        "key": "Poleward movement",
-        "label": "Sister chromatids (now individual daughter chromosomes) move to opposite poles"
+        "key": "Centrosomes",
+        "label": "Move to opposite poles and radiate asters (spindle fibers)"
       },
       {
-        "key": "Centromere position",
-        "label": "Centromere is directed toward the pole with arms trailing behind"
-      },
-      {
-        "key": "Shapes revealed",
-        "label": "Metacentric = V, Sub-metacentric = L, Acrocentric = J, Telocentric = I"
+        "key": "Organelles",
+        "label": "Nucleolus, Golgi, ER, and nuclear envelope disappear by late prophase"
       }
     ],
-    "doodleBadge": "V, L, J, I Shapes",
-    "doodleSubtext": "Anaphase Migration",
-    "explanation": "Centromeres split in mitotic Anaphase and in Meiosis Anaphase II, but NEVER in Meiosis Anaphase I.",
-    "alsoRemember": "Chromosome shape depends on the position of the centromere.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.2.3.",
-    "neetTrap": "Centromeres split during mitotic Anaphase, but DO NOT split during Anaphase I of meiosis.",
+    "doodleBadge": "Condense, Asters Form, E",
+    "doodleSubtext": "Events of Prophase",
+    "explanation": "Key morphological transformations occurring in the first stage of karyokinesis.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Events of Prophase.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.54",
     "tags": [
-      "Anaphase",
-      "Centromere Split",
-      "Chromosome Shapes",
-      "V-L-J-I"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Events"
     ],
-    "expandedMeaning": "Simultaneous centromere splitting, chromatid poleward migration, centromere leading, V/L/J/I shapes.",
-    "whyItWorks": "A = Anaphase = Away = Centromere splits away.",
-    "visualDescription": "Chromosomes being dragged toward opposite poles like parachutes, with the centromere knot in front and V-shaped arms trailing behind.",
-    "neetRelevance": "Classic question on which stage displays V, L, J, I chromosome shapes.",
-    "commonMistake": "Thinking centromeres split in Metaphase.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.2.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 54,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Chromosome shapes (V, L, J, I) are best observed during which stage of cell division?",
+      "question": "Which of the following is associated with \"Events of Prophase\" in NEET Biology?",
       "options": [
-        "Prophase",
-        "Metaphase",
-        "Anaphase",
-        "Telophase"
+        "Condenses into compact mitotic chromosomes",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "During anaphase, chromosomes are pulled toward poles with centromeres leading and arms trailing, revealing their characteristic V, L, J, or I shapes."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Condenses into compact mitotic chromosomes\". Remember using: \"Condense, Asters Form, Envelope Disappears\"."
     }
   },
   {
@@ -578,68 +519,63 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-1",
-    "topicTitle": "Mitosis Stages",
-    "topic": "Telophase: The Reverse of Prophase",
+    "topicTitle": "Key Feature of Metaphase",
+    "topic": "Key Feature of Metaphase",
     "mnemonicNumber": 9,
-    "title": "Telophase: Reversal of Prophase, Two New Nuclei",
-    "badgeText": "Memory Trick",
+    "title": "Key Feature of Metaphase: \"Metaphase = Morphology & Middle (Equator)\"",
+    "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Telophase Reverses Prophase: Chromatin Uncoils, Envelopes & Organelles Return!",
-    "memoryHook": "Chromosomes reach opposite poles and lose their individuality by decondensing. Nuclear envelopes assemble around each cluster, and nucleolus, Golgi, and ER reform!",
-    "fact": "Telophase is essentially the reverse of prophase: chromosomes decondense into a chromatin mass, nuclear envelope reforms, and nucleolus, Golgi complex, and ER reappear.",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Metaphase = Morphology & Middle (Equator)",
+    "memoryHook": "Metaphase = Morphology & Middle (Equator)",
+    "fact": "Alignment: Chromosomes line up at the metaphase plate (equatorial plate). Attachment: Kinetochores attach to spindle fibers from opposite poles. Study: Best stage to study chromosome morphology/structure under microscope",
     "breakdown": [
       {
-        "key": "Decondensation",
-        "label": "Chromosomes lose their individual discrete identity and form chromatin diffuse clusters"
+        "key": "Alignment",
+        "label": "Chromosomes line up at the metaphase plate (equatorial plate)"
       },
       {
-        "key": "Nuclear envelope",
-        "label": "Reassembles around the chromosome clusters at each pole"
+        "key": "Attachment",
+        "label": "Kinetochores attach to spindle fibers from opposite poles"
       },
       {
-        "key": "Organelle return",
-        "label": "Nucleolus, Golgi complex, and ER reform"
-      },
-      {
-        "key": "End product",
-        "label": "Two genetically identical daughter nuclei inside one common cytoplasm"
+        "key": "Study",
+        "label": "Best stage to study chromosome morphology/structure under microscope"
       }
     ],
-    "doodleBadge": "Telophase = Reverse Prophase",
-    "doodleSubtext": "Reforming Organelles",
-    "explanation": "Once telophase completes karyokinesis, cytokinesis divides the cytoplasm into two daughter cells.",
-    "alsoRemember": "If karyokinesis occurs without cytokinesis, a multinucleated condition (syncytium) arises.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.2.4.",
-    "neetTrap": "Individual chromosomes CANNOT be seen in Telophase because they decondense back into chromatin.",
+    "doodleBadge": "Metaphase = Morphology &",
+    "doodleSubtext": "Key Feature of Metaphase",
+    "explanation": "Maximum condensation of chromosomes occurs at metaphase, making shape analysis optimal.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Key Feature of Metaphase.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.54",
     "tags": [
-      "Telophase",
-      "Karyokinesis",
-      "Reverse Prophase",
-      "Organelles Reappear"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Key"
     ],
-    "expandedMeaning": "Decondensation, nuclear envelope reformation, organelle reappearance, end of karyokinesis.",
-    "whyItWorks": "Framing Telophase as \"Undo Prophase\" makes all its characteristics effortless to remember.",
-    "visualDescription": "A dumbbell-shaped cell with two reforming round nuclei, reappearing blue ER and pink Golgi clusters.",
-    "neetRelevance": "Matching stage with characteristic events.",
-    "commonMistake": "Forgetting that organelles reappear in Telophase.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.2.4",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 54,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "During which stage of mitosis do the nucleolus, Golgi complex, and ER reform?",
+      "question": "Which of the following is associated with \"Key Feature of Metaphase\" in NEET Biology?",
       "options": [
-        "Prophase",
-        "Metaphase",
-        "Anaphase",
-        "Telophase"
+        "Chromosomes line up at the metaphase plate (equatorial plate)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 3,
-      "explanation": "In telophase, the nuclear envelope reforms around chromosome clusters and the nucleolus, Golgi complex, and ER reappear."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Chromosomes line up at the metaphase plate (equatorial plate)\". Remember using: \"Metaphase = Morphology & Middle (Equator)\"."
     }
   },
   {
@@ -648,69 +584,59 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-1",
-    "topicTitle": "Cytokinesis",
-    "topic": "Cytokinesis: Plant Cell Plate (Outward) vs Animal Furrow (Inward)",
+    "topicTitle": "Key Feature of Anaphase",
+    "topic": "Key Feature of Anaphase",
     "mnemonicNumber": 10,
-    "title": "Cytokinesis: Animal Pinch In, Plant Plate Out",
+    "title": "Key Feature of Anaphase: \"Anaphase = Away (Splitting Centromeres)\"",
     "badgeText": "High Yield",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Animal = Centripetal Furrow (Pinch Inward) | Plant = Centrifugal Plate (Grow Outward)",
-    "memoryHook": "Animals lack walls, so actin-myosin pinches the furrow INWARD (centripetal). Plants have rigid walls, so Golgi vesicles build a cell plate from CENTER OUTWARD (centrifugal)!",
-    "fact": "In animal cells, cytokinesis occurs by furrowing of the plasma membrane from periphery to center (centripetal). In plant cells, wall formation starts in the center and grows outward to meet lateral walls (centrifugal).",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Anaphase = Away (Splitting Centromeres)",
+    "memoryHook": "Anaphase = Away (Splitting Centromeres)",
+    "fact": "Centromere Split: Centromeres divide, splitting sister chromatids into daughter chromosomes. Migration: Daughter chromosomes move to opposite poles led by centromeres (arms trail behind)",
     "breakdown": [
       {
-        "key": "Animal Cytokinesis",
-        "label": "Cleavage furrow deepens centripetally (outside-in) driven by contractile ring"
+        "key": "Centromere Split",
+        "label": "Centromeres divide, splitting sister chromatids into daughter chromosomes"
       },
       {
-        "key": "Plant Cytokinesis",
-        "label": "Cell plate (phragmoplast) grows centrifugally (inside-out) derived from Golgi vesicles"
-      },
-      {
-        "key": "Middle Lamella Origin",
-        "label": "The cell plate represents the precursor of the middle lamella (calcium pectate)"
-      },
-      {
-        "key": "Syncytium Example",
-        "label": "Liquid endosperm in coconut results from free nuclear division without cytokinesis"
+        "key": "Migration",
+        "label": "Daughter chromosomes move to opposite poles led by centromeres (arms trail behind)"
       }
     ],
-    "doodleBadge": "Inward vs Outward",
-    "doodleSubtext": "Centripetal vs Centrifugal",
-    "explanation": "The cell plate lays down the calcium and magnesium pectate middle lamella that cements adjacent plant cells together.",
-    "alsoRemember": "Coconut water is free-nuclear endosperm resulting from karyokinesis without cytokinesis.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.2.5.",
-    "neetTrap": "Plant cell plate formation is CENTRIFUGAL (center-to-periphery), NOT centripetal.",
+    "doodleBadge": "Anaphase = Away (Splitti",
+    "doodleSubtext": "Key Feature of Anaphase",
+    "explanation": "Shortest stage of mitosis where genetic material is physically separated.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Key Feature of Anaphase.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.54",
     "tags": [
-      "Cytokinesis",
-      "Cell Plate",
-      "Cleavage Furrow",
-      "Phragmoplast",
-      "Syncytium"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Key"
     ],
-    "expandedMeaning": "Animal furrowing is centripetal; plant cell plate is centrifugal; cell plate forms middle lamella.",
-    "whyItWorks": "Plant Plate Out vs Animal Pinch In gives an immediate directional visual hook.",
-    "visualDescription": "Two cells side-by-side: an animal cell pinched at waist with arrows pointing inward; a plant cell with a dotted center plate growing outward toward rigid box walls.",
-    "neetRelevance": "Repeatedly tested in plant vs animal cell comparison questions.",
-    "commonMistake": "Describing plant cytokinesis as centripetal.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.2.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 54,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In plant cell cytokinesis, cell plate formation proceeds in which direction?",
+      "question": "Which of the following is associated with \"Key Feature of Anaphase\" in NEET Biology?",
       "options": [
-        "Centripetally (from periphery toward center)",
-        "Centrifugally (from center toward lateral walls)",
-        "From top to bottom along the spindle axis",
-        "Randomly throughout the cytoplasm"
+        "Anaphase = Away (Splitting Centromeres)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "In plant cells, cytokinesis proceeds centrifugally, starting in the center and growing outward toward the preexisting lateral walls."
+      "answerIndex": 0,
+      "explanation": "Shortest stage of mitosis where genetic material is physically separated."
     }
   },
   {
@@ -719,68 +645,59 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-2",
-    "topicTitle": "Meiosis I Prophase Stages",
-    "topic": "Zygotene: Synapsis & Synaptonemal Complex (Bivalents)",
+    "topicTitle": "Key Feature of Telophase",
+    "topic": "Key Feature of Telophase",
     "mnemonicNumber": 11,
-    "title": "Zygotene: Zipper Synapsis Makes Bivalents",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
+    "title": "Key Feature of Telophase: \"Telophase = Two Nuclei Reappear (Reverse Prophase)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Z = Zygotene = Zipper Synapsis = Synaptonemal Complex!",
-    "memoryHook": "Homologous chromosomes pair together like a zipper. This pairing is called SYNAPSIS. Electron micrographs reveal the protein zipper structure: the SYNAPTONEMAL COMPLEX!",
-    "fact": "During zygotene, chromosomes begin pairing together (synapsis) to form a complex structure called the synaptonemal complex. The paired homologous chromosomes are termed a bivalent or tetrad.",
+    "mnemonic": "Telophase = Two Nuclei Reappear (Reverse Prophase)",
+    "memoryHook": "Telophase = Two Nuclei Reappear (Reverse Prophase)",
+    "fact": "Decondensation: Chromosomes cluster at poles and lose identity. Reformation: Nuclear envelope, nucleolus, Golgi complex, and ER reform",
     "breakdown": [
       {
-        "key": "Synapsis",
-        "label": "Process of pairing of homologous maternal and paternal chromosomes"
+        "key": "Decondensation",
+        "label": "Chromosomes cluster at poles and lose identity"
       },
       {
-        "key": "Synaptonemal Complex",
-        "label": "Tripartite protein ladder-like structure stabilizing homologous pairs"
-      },
-      {
-        "key": "Bivalent",
-        "label": "Pair of homologous chromosomes (2 chromosomes)"
-      },
-      {
-        "key": "Tetrad",
-        "label": "Four chromatids visible in each paired bivalent (more clearly in pachytene)"
+        "key": "Reformation",
+        "label": "Nuclear envelope, nucleolus, Golgi complex, and ER reform"
       }
     ],
-    "doodleBadge": "Z = Zipper Synapsis",
-    "doodleSubtext": "Bivalents Form",
-    "explanation": "A bivalent consists of 2 homologous chromosomes and 4 chromatids. Hence a bivalent is also called a tetrad.",
-    "alsoRemember": "Bivalents are formed in Zygotene but become more clearly visible as tetrads in Pachytene.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.4.1.",
-    "neetTrap": "Synapsis happens in ZYGOTENE, NOT pachytene.",
+    "doodleBadge": "Telophase = Two Nuclei R",
+    "doodleSubtext": "Key Feature of Telophase",
+    "explanation": "The final phase of karyokinesis where two distinct daughter nuclei are reconstructed.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Key Feature of Telophase.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.54",
     "tags": [
-      "Zygotene",
-      "Synapsis",
-      "Synaptonemal Complex",
-      "Bivalent"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Key"
     ],
-    "expandedMeaning": "Zygotene synapsis zipper creates synaptonemal complex and bivalents.",
-    "whyItWorks": "Z for Zygotene = Z for Zipper Synapsis.",
-    "visualDescription": "Two homologous chromosome ribbons being zipped together by a central protein zipper (synaptonemal complex).",
-    "neetRelevance": "Definition of synapsis and bivalent formation.",
-    "commonMistake": "Selecting Pachytene for the formation of the synaptonemal complex.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.4.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 54,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The synaptonemal complex develops during which sub-stage of Prophase I?",
+      "question": "Which of the following is associated with \"Key Feature of Telophase\" in NEET Biology?",
       "options": [
-        "Leptotene",
-        "Zygotene",
-        "Pachytene",
-        "Diplotene"
+        "Telophase = Two Nuclei Reappear (Reverse Prophase)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "The synaptonemal complex is formed during Zygotene as homologous chromosomes undergo synapsis."
+      "answerIndex": 0,
+      "explanation": "The final phase of karyokinesis where two distinct daughter nuclei are reconstructed."
     }
   },
   {
@@ -789,68 +706,59 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-2",
-    "topicTitle": "Meiosis I Prophase Stages",
-    "topic": "Pachytene: Crossing Over by Recombinase Enzyme",
+    "topicTitle": "Cytokinesis: Animal vs Plant Cells",
+    "topic": "Cytokinesis: Animal vs Plant Cells",
     "mnemonicNumber": 12,
-    "title": "Pachytene: Recombinase Swaps Non-Sister Chromatids",
-    "badgeText": "Must Know",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Pachytene = Recombination Nodules = Crossing Over by RECOMBINASE!",
-    "memoryHook": "Crossing over is an ENZYME-MEDIATED process catalyzed by RECOMBINASE. It occurs between NON-SISTER chromatids of homologous chromosomes!",
-    "fact": "Crossing over is the exchange of genetic material between non-sister chromatids of homologous chromosomes. It leads to recombination of genetic material on both chromosomes.",
+    "title": "Cytokinesis: Animal vs Plant Cells: \"Animal Furrow Centripetal, Plant Cell-Plate Centrifugal\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Animal Furrow Centripetal, Plant Cell-Plate Centrifugal",
+    "memoryHook": "Animal Furrow Centripetal, Plant Cell-Plate Centrifugal",
+    "fact": "Animal Cells: Plasma membrane cleavage furrow deepens centripetally (outside to inside). Plant Cells: Rigid wall requires cell-plate (phragmoplast precursor) growing centrifugally (center to outside)",
     "breakdown": [
       {
-        "key": "Stage",
-        "label": "Pachytene stage of Meiosis Prophase I"
+        "key": "Animal Cells",
+        "label": "Plasma membrane cleavage furrow deepens centripetally (outside to inside)"
       },
       {
-        "key": "Enzyme involved",
-        "label": "Recombinase (complex of endonuclease, exonuclease, ligase)"
-      },
-      {
-        "key": "Participants",
-        "label": "NON-SISTER chromatids of homologous chromosomes"
-      },
-      {
-        "key": "Physical site",
-        "label": "Recombination nodules appear along synaptonemal complex"
+        "key": "Plant Cells",
+        "label": "Rigid wall requires cell-plate (phragmoplast precursor) growing centrifugally (center to outside)"
       }
     ],
-    "doodleBadge": "Pachytene = Recombinase",
-    "doodleSubtext": "Non-Sister Exchange",
-    "explanation": "By the end of pachytene, recombination between homologous chromosomes is completed, leaving them linked at the crossing over sites.",
-    "alsoRemember": "Recombination generates new gene combinations, providing the raw material for natural selection.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.4.1.",
-    "neetTrap": "Crossing over occurs between NON-SISTER chromatids of homologous chromosomes, NEVER between sister chromatids.",
+    "doodleBadge": "Animal Furrow Centripeta",
+    "doodleSubtext": "Cytokinesis: Animal vs P",
+    "explanation": "Cytoplasmic division mechanism divergence due to plant cell wall constraints. Chapter 10: Cell Cycle and Cell Division (30 Mnemonics) \tPage 2",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Cytokinesis: Animal vs Plant Cells.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.54",
     "tags": [
-      "Pachytene",
-      "Recombinase",
-      "Crossing Over",
-      "Recombination Nodules"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Cytokinesis:"
     ],
-    "expandedMeaning": "Recombination nodules, exchange between non-sister chromatids, catalyzed by recombinase in pachytene.",
-    "whyItWorks": "Pairs Pachytene directly with its signature enzyme: Recombinase.",
-    "visualDescription": "Two non-sister chromatid arms crossing over at a glowing green recombination nodule labeled Recombinase.",
-    "neetRelevance": "One of the top recurring single-mark questions in NEET.",
-    "commonMistake": "Stating crossing over occurs between sister chromatids.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.4.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 54,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Crossing over takes place between:",
+      "question": "Which of the following is associated with \"Cytokinesis: Animal vs Plant Cells\" in NEET Biology?",
       "options": [
-        "Sister chromatids of homologous chromosomes",
-        "Non-sister chromatids of homologous chromosomes",
-        "Sister chromatids of non-homologous chromosomes",
-        "Non-homologous chromosomes randomly"
+        "Animal Furrow Centripetal, Plant Cell-Plate Centrifugal",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Crossing over occurs specifically between non-sister chromatids of homologous chromosomes in the Pachytene stage."
+      "answerIndex": 0,
+      "explanation": "Cytoplasmic division mechanism divergence due to plant cell wall constraints. Chapter 10: Cell Cycle and Cell Division (30 Mnemonics) \tPage 2"
     }
   },
   {
@@ -859,68 +767,59 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-2",
-    "topicTitle": "Meiosis I Prophase Stages",
-    "topic": "Diplotene: X-Shaped Chiasmata & Dictyotene Oocyte Arrest",
+    "topicTitle": "Syncytium Formation",
+    "topic": "Syncytium Formation",
     "mnemonicNumber": 13,
-    "title": "Diplotene: X-Shaped Chiasmata & Female Oocyte Arrest",
-    "badgeText": "High Yield",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "D = Diplotene = Dissolution of Complex = X-shaped Chiasmata Visible!",
-    "memoryHook": "The synaptonemal complex DISSOLVES. Homologous chromosomes peel apart EXCEPT at the crossover points, revealing X-shaped CHIASMATA. In human female oocytes, diplotene lasts for months or YEARS (Dictyotene)!",
-    "fact": "Diplotene is recognized by the dissolution of the synaptonemal complex and the tendency of homologous chromosomes to separate, except at the sites of crossovers (chiasmata). In oocytes of some vertebrates, diplotene can last for months or years.",
+    "title": "Syncytium Formation: \"Karyokinesis without Cytokinesis = Syncytium\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Karyokinesis without Cytokinesis = Syncytium",
+    "memoryHook": "Karyokinesis without Cytokinesis = Syncytium",
+    "fact": "Definition: Liquid endosperm of coconut is a classic example of multinucleate condition. Cause: Repeated nuclear divisions (karyokinesis) not followed by cell division (cytokinesis)",
     "breakdown": [
       {
-        "key": "Complex dissolution",
-        "label": "Synaptonemal complex breaks down and dissolves"
+        "key": "Definition",
+        "label": "Liquid endosperm of coconut is a classic example of multinucleate condition"
       },
       {
-        "key": "Chiasmata",
-        "label": "X-shaped structures representing points of prior crossing over become visible"
-      },
-      {
-        "key": "Oocyte arrest",
-        "label": "Vertebrate primary oocytes freeze in prolonged diplotene (dictyotene) from fetus to puberty"
-      },
-      {
-        "key": "Lampbrush chromosomes",
-        "label": "Formed during prolonged diplotene in amphibian oocytes"
+        "key": "Cause",
+        "label": "Repeated nuclear divisions (karyokinesis) not followed by cell division (cytokinesis)"
       }
     ],
-    "doodleBadge": "X-Shaped Chiasmata",
-    "doodleSubtext": "Diplotene Freeze",
-    "explanation": "Crossing over occurred in Pachytene, but the physical X-shaped chiasmata only become VISIBLE in Diplotene when the rest of the chromosomes push apart.",
-    "alsoRemember": "Human primary oocytes remain arrested in diplotene from fetal life until each follicle matures during menstrual cycles.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.4.1.",
-    "neetTrap": "Chiasmata become visible in DIPLOTENE, but crossing over occurred earlier in PACHYTENE.",
+    "doodleBadge": "Karyokinesis without Cyt",
+    "doodleSubtext": "Syncytium Formation",
+    "explanation": "Formation of multinucleated cells due to incomplete cell division cycles.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Syncytium Formation.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.55",
     "tags": [
-      "Diplotene",
-      "Chiasmata",
-      "Oocyte Arrest",
-      "Dictyotene"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Syncytium"
     ],
-    "expandedMeaning": "Dissolution of synaptonemal complex, X-shaped chiasmata visibility, years-long oocyte arrest.",
-    "whyItWorks": "D for Diplotene = D for Dissolution of complex = D for Dictyotene arrest.",
-    "visualDescription": "Homologous chromosomes repelling apart with only an X-shaped crossover touchpoint (chiasma) holding them together.",
-    "neetRelevance": "Questions asking where chiasmata become visible or where oocyte arrest occurs.",
-    "commonMistake": "Selecting Pachytene when asked where chiasmata are visible.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.4.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 55,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "X-shaped structures called chiasmata first become visible during which stage of Prophase I?",
+      "question": "Which of the following is associated with \"Syncytium Formation\" in NEET Biology?",
       "options": [
-        "Zygotene",
-        "Pachytene",
-        "Diplotene",
-        "Diakinesis"
+        "Karyokinesis without Cytokinesis = Syncytium",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Chiasmata become visible during Diplotene upon the dissolution of the synaptonemal complex."
+      "answerIndex": 0,
+      "explanation": "Formation of multinucleated cells due to incomplete cell division cycles."
     }
   },
   {
@@ -929,68 +828,63 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-2",
-    "topicTitle": "Meiosis I Prophase Stages",
-    "topic": "Diakinesis: Terminalisation of Chiasmata",
+    "topicTitle": "Significance of Mitosis",
+    "topic": "Significance of Mitosis",
     "mnemonicNumber": 14,
-    "title": "Diakinesis: Terminalisation of Chiasmata, Ready to Split",
-    "badgeText": "Memory Trick",
+    "title": "Significance of Mitosis: \"G R R E” (Growth, Repair, Replacement, Equational)\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Diakinesis = Departure: Chiasmata Slide to the Tips (Terminalisation)!",
-    "memoryHook": "Final stage of Prophase I. Chiasmata slip all the way to chromosome ends like rings slipping off fingers (Terminalisation). Meiotic spindle is assembled, nucleolus disappears, and nuclear envelope breaks down!",
-    "fact": "Diakinesis is marked by terminalisation of chiasmata. By the end of diakinesis, the nucleolus disappears, the nuclear envelope breaks down, and the transition to metaphase I is complete.",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "G R R E” (Growth, Repair, Replacement, Equational)",
+    "memoryHook": "G R R E” (Growth, Repair, Replacement, Equational)",
+    "fact": "G: Growth of multicellular organisms. R: Repair and cell replacement (epidermis, lining of gut, blood cells). E: Equational division preserving genetic identity (2n → 2n)",
     "breakdown": [
       {
-        "key": "Terminalisation",
-        "label": "Chiasmata shift towards the ends (telomeres) of chromosomes"
+        "key": "G",
+        "label": "Growth of multicellular organisms"
       },
       {
-        "key": "Condensation",
-        "label": "Chromosomes are fully condensed"
+        "key": "R",
+        "label": "Repair and cell replacement (epidermis, lining of gut, blood cells)"
       },
       {
-        "key": "Spindle assembly",
-        "label": "Meiotic spindle is assembled to prepare homologous chromosomes for separation"
-      },
-      {
-        "key": "Nuclear breakdown",
-        "label": "Nucleolus vanishes and nuclear envelope breaks down completely"
+        "key": "E",
+        "label": "Equational division preserving genetic identity (2n → 2n)"
       }
     ],
-    "doodleBadge": "Terminalisation",
-    "doodleSubtext": "End of Prophase I",
-    "explanation": "Diakinesis represents the transition into Metaphase I.",
-    "alsoRemember": "Terminalisation is the diagnostic keyword for Diakinesis in NEET.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.4.1.",
-    "neetTrap": "Terminalisation happens in DIAKINESIS, NOT in Diplotene.",
+    "doodleBadge": "G R R E” (Growth, Repair",
+    "doodleSubtext": "Significance of Mitosis",
+    "explanation": "Biological purpose of mitotic division in somatic tissues.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Significance of Mitosis.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.55",
     "tags": [
-      "Diakinesis",
-      "Terminalisation",
-      "Prophase I",
-      "Meiosis"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Significance"
     ],
-    "expandedMeaning": "Terminalisation of chiasmata, spindle assembly, nucleolus disappearance, transition to metaphase I.",
-    "whyItWorks": "Diakinesis = Departure of chiasmata to the terminal ends.",
-    "visualDescription": "Chromosomes with chiasmata slipping to the very tips like a ring sliding off a finger.",
-    "neetRelevance": "Direct keyword matching question: \"Terminalisation of chiasmata occurs in...\"",
-    "commonMistake": "Selecting Diplotene for terminalisation.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.4.1",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 55,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Terminalisation of chiasmata is the definitive characteristic of which meiotic stage?",
+      "question": "Which of the following is associated with \"Significance of Mitosis\" in NEET Biology?",
       "options": [
-        "Zygotene",
-        "Pachytene",
-        "Diplotene",
-        "Diakinesis"
+        "Growth of multicellular organisms",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 3,
-      "explanation": "Terminalisation of chiasmata (shifting to the chromosome tips) occurs during Diakinesis, the final stage of Prophase I."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Growth of multicellular organisms\". Remember using: \"G R R E” (Growth, Repair, Replacement, Equational)\"."
     }
   },
   {
@@ -999,68 +893,59 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-2",
-    "topicTitle": "Meiosis Comparisons",
-    "topic": "Metaphase I (Double Plate) vs Metaphase II (Single Plate)",
+    "topicTitle": "Meiosis Stages Overview",
+    "topic": "Meiosis Stages Overview",
     "mnemonicNumber": 15,
-    "title": "Metaphase I vs II: Double Plate vs Single Plate",
-    "badgeText": "Comparison",
+    "title": "Meiosis Stages Overview: \"Meiosis I Reductional, Meiosis II Equational\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Metaphase I = Bivalents in Pairs (Double Plate) | Metaphase II = Single Chromosomes (Single Plate)",
-    "memoryHook": "In Metaphase I, bivalents arrange as homologous PAIRS forming a double equatorial plate. In Metaphase II, single chromosomes align individually, just like in standard mitosis!",
-    "fact": "In Metaphase I, bivalent chromosomes align on the equatorial plate with spindle fibers from opposite poles attached to homologous kinetochores. In Metaphase II, individual chromosomes align on a single plate.",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Meiosis I Reductional, Meiosis II Equational",
+    "memoryHook": "Meiosis I Reductional, Meiosis II Equational",
+    "fact": "Meiosis I: Heterotypic / Reductional division (2n → 1n), homologous pairs separate. Meiosis II: Homotypic / Equational division (1n → 1n), sister chromatids separate",
     "breakdown": [
       {
-        "key": "Metaphase I",
-        "label": "Bivalents (paired homologues) align on the equator; double plate arrangement"
+        "key": "Meiosis I",
+        "label": "Heterotypic / Reductional division (2n → 1n), homologous pairs separate"
       },
       {
-        "key": "Metaphase II",
-        "label": "Individual univalent chromosomes align on equatorial plate; single plate arrangement"
-      },
-      {
-        "key": "Spindle Attachment I",
-        "label": "Fibers from one pole attach to one whole homologue (co-orientation)"
-      },
-      {
-        "key": "Spindle Attachment II",
-        "label": "Fibers from opposite poles attach to sister kinetochores of same chromosome (auto-orientation)"
+        "key": "Meiosis II",
+        "label": "Homotypic / Equational division (1n → 1n), sister chromatids separate"
       }
     ],
-    "doodleBadge": "Double vs Single Plate",
-    "doodleSubtext": "Metaphase I vs II",
-    "explanation": "Because homologous pairs align in Metaphase I, maternal and paternal chromosomes orient independently, driving Mendel's law of independent assortment.",
-    "alsoRemember": "Independent assortment occurs during Metaphase I and Anaphase I.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.4.2 & 10.4.4.",
-    "neetTrap": "Bivalents align only in Metaphase I; they NEVER exist in Metaphase II.",
+    "doodleBadge": "Meiosis I Reductional, M",
+    "doodleSubtext": "Meiosis Stages Overview",
+    "explanation": "Fundamental distinction between the two consecutive divisions of meiosis.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Meiosis Stages Overview.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.55",
     "tags": [
-      "Metaphase I",
-      "Metaphase II",
-      "Bivalents",
-      "Independent Assortment"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Meiosis"
     ],
-    "expandedMeaning": "Metaphase I has double plate of bivalents; Metaphase II has single plate of individual chromosomes.",
-    "whyItWorks": "Roman numeral I = paired bivalents; II = single chromosomes.",
-    "visualDescription": "Two cells: Cell I shows paired bivalents side-by-side at equator; Cell II shows single chromosomes in a line.",
-    "neetRelevance": "Diagram and mechanism-based questions in NEET.",
-    "commonMistake": "Thinking bivalents align at the plate in Metaphase II.",
-    "sourceReference": "NCERT Class 11 Chapter 10",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 55,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In which stage do bivalent chromosomes align along the equatorial plate?",
+      "question": "Which of the following is associated with \"Meiosis Stages Overview\" in NEET Biology?",
       "options": [
-        "Mitotic Metaphase",
-        "Metaphase I",
-        "Metaphase II",
-        "Anaphase I"
+        "Meiosis I Reductional, Meiosis II Equational",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Bivalents (paired homologous chromosomes) align on the equatorial plate during Metaphase I of meiosis."
+      "answerIndex": 0,
+      "explanation": "Fundamental distinction between the two consecutive divisions of meiosis."
     }
   },
   {
@@ -1069,68 +954,59 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-2",
-    "topicTitle": "Meiosis Comparisons",
-    "topic": "Anaphase I (Disjunction, NO Centromere Split) vs Anaphase II (Centromere Splits)",
+    "topicTitle": "Prophase I Sub-stages Sequence",
+    "topic": "Prophase I Sub-stages Sequence",
     "mnemonicNumber": 16,
-    "title": "Anaphase I vs II: Centromeres DO NOT Split in Anaphase I!",
-    "badgeText": "Must Know",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
+    "title": "Prophase I Sub-stages Sequence: \"Lazy Zebra Lay Down Daily\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Anaphase I = Homologues Separate (Centromere INTACT) | Anaphase II = Centromeres SPLIT!",
-    "memoryHook": "In Anaphase I, whole double-armed chromosomes move to poles (DISJUNCTION). Centromeres DO NOT divide! In Anaphase II (and mitosis), centromeres finally SPLIT to separate sister chromatids.",
-    "fact": "In Anaphase I, homologous chromosomes separate, while sister chromatids remain associated at their centromeres. In Anaphase II, the centromere divides and sister chromatids move to opposite poles.",
+    "mnemonic": "Lazy Zebra Lay Down Daily",
+    "memoryHook": "Lazy Zebra Lay Down Daily",
+    "fact": "L: Leptotene | Z: Zygotene | P: Pachytene. D: Diplotene | D: Diakinesis",
     "breakdown": [
       {
-        "key": "Anaphase I",
-        "label": "Homologous chromosomes separate (reduction from 2n to n); centromeres do NOT split"
+        "key": "L",
+        "label": "Leptotene | Z: Zygotene | P: Pachytene"
       },
       {
-        "key": "Anaphase II",
-        "label": "Centromeres split simultaneously; sister chromatids separate into daughter chromosomes"
-      },
-      {
-        "key": "Chromatid association",
-        "label": "Sister chromatids stay joined at centromere throughout Anaphase I"
-      },
-      {
-        "key": "Non-disjunction",
-        "label": "Failure of homologues to separate in Anaphase I causes aneuploidies like Down syndrome"
+        "key": "D",
+        "label": "Diplotene | D: Diakinesis"
       }
     ],
-    "doodleBadge": "Ana I: No Split | Ana II: Split",
-    "doodleSubtext": "Centromere Rule",
-    "explanation": "The lack of centromere splitting in Anaphase I is the exact reason why Meiosis I is a REDUCTIONAL division (chromosome number is halved from 2n to n).",
-    "alsoRemember": "Anaphase II is equational, exactly like mitotic anaphase.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.4.2 & 10.4.4.",
-    "neetTrap": "Centromeres DO NOT divide in Anaphase I! Any question claiming centromere division in Anaphase I is false.",
+    "doodleBadge": "Lazy Zebra Lay Down Dail",
+    "doodleSubtext": "Prophase I Sub-stages Se",
+    "explanation": "Chronological order of the 5 detailed stages of Prophase I in Meiosis I.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Prophase I Sub-stages Sequence.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.55",
     "tags": [
-      "Anaphase I",
-      "Anaphase II",
-      "Centromere Division",
-      "Disjunction"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Prophase"
     ],
-    "expandedMeaning": "Anaphase I separates homologues without centromere splitting; Anaphase II splits centromeres.",
-    "whyItWorks": "The golden rule of meiosis: No centromere division in Meiosis I.",
-    "visualDescription": "Anaphase I showing whole X-shaped chromosomes being pulled to poles; Anaphase II showing single V-shaped chromatids pulled away with split centromeres.",
-    "neetRelevance": "One of the top 5 most tested concepts in cell division.",
-    "commonMistake": "Selecting Anaphase I as the stage where centromeres divide.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.4.2",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 55,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "During Anaphase I of meiosis:",
+      "question": "Which of the following is associated with \"Prophase I Sub-stages Sequence\" in NEET Biology?",
       "options": [
-        "Centromeres divide and sister chromatids separate",
-        "Homologous chromosomes separate while sister chromatids remain associated at their centromeres",
-        "Nuclear envelope reforms around bivalents",
-        "Recombinase catalyzes crossing over"
+        "Lazy Zebra Lay Down Daily",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "In Anaphase I, homologous chromosomes separate to opposite poles while sister chromatids remain linked at their undivided centromeres."
+      "answerIndex": 0,
+      "explanation": "Chronological order of the 5 detailed stages of Prophase I in Meiosis I."
     }
   },
   {
@@ -1139,68 +1015,59 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
     "topicId": "bio-top-10-2",
-    "topicTitle": "Interkinesis",
-    "topic": "Interkinesis: Short Gap Between Meiosis I & II (NO DNA Replication)",
+    "topicTitle": "Leptotene Events",
+    "topic": "Leptotene Events",
     "mnemonicNumber": 17,
-    "title": "Interkinesis: Short Rest, NO DNA Replication",
-    "badgeText": "Memory Trick",
+    "title": "Leptotene Events: \"Leptotene = Light Bouquet Condensation\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Interkinesis = Interval Without S Phase (NO DNA Replication)!",
-    "memoryHook": "The stage between Meiosis I and Meiosis II is called Interkinesis. It is short-lived. RNA and proteins may be synthesized, but there is strictly NO replication of DNA!",
-    "fact": "The stage between the two meiotic divisions is called interkinesis. It is generally short-lived. There is no replication of DNA during interkinesis. Interkinesis is followed by Prophase II.",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Leptotene = Light Bouquet Condensation",
+    "memoryHook": "Leptotene = Light Bouquet Condensation",
+    "fact": "Visual: Chromosomes become gradually visible under light microscope. Process: Compaction of chromosomes continues throughout Leptotene",
     "breakdown": [
       {
-        "key": "Definition",
-        "label": "Gap period between Telophase I and Prophase II"
+        "key": "Visual",
+        "label": "Chromosomes become gradually visible under light microscope"
       },
       {
-        "key": "Duration",
-        "label": "Generally very short-lived"
-      },
-      {
-        "key": "DNA Replication",
-        "label": "STRICTLY ABSENT (no S phase occurs)"
-      },
-      {
-        "key": "Centriole duplication",
-        "label": "Centrosomes/centrioles duplicate in animal cells to prepare for Meiosis II"
+        "key": "Process",
+        "label": "Compaction of chromosomes continues throughout Leptotene"
       }
     ],
-    "doodleBadge": "NO S Phase",
-    "doodleSubtext": "Interkinesis Interval",
-    "explanation": "If DNA replicated during interkinesis, meiosis would fail to reduce chromosome number by half.",
-    "alsoRemember": "Prophase II is much simpler and shorter than Prophase I.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.4.3.",
-    "neetTrap": "DNA does NOT replicate during interkinesis.",
+    "doodleBadge": "Leptotene = Light Bouque",
+    "doodleSubtext": "Leptotene Events",
+    "explanation": "Initial stage where chromatin fibers condense into visible thin threads.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Leptotene Events.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.55",
     "tags": [
-      "Interkinesis",
-      "Meiosis I",
-      "Meiosis II",
-      "No DNA Replication"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Leptotene"
     ],
-    "expandedMeaning": "Interkinesis is a brief interval between meiotic divisions with zero DNA synthesis.",
-    "whyItWorks": "Interkinesis = Interval without S-phase.",
-    "visualDescription": "A pause icon between Meiosis I and Meiosis II stamped with a red \"NO DNA SYNTHESIS\" prohibition sign.",
-    "neetRelevance": "True/False and statement evaluation questions.",
-    "commonMistake": "Assuming DNA replicates between Meiosis I and II.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.4.3",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 55,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following events does NOT occur during interkinesis?",
+      "question": "Which of the following is associated with \"Leptotene Events\" in NEET Biology?",
       "options": [
-        "Protein synthesis",
-        "RNA synthesis",
-        "DNA replication",
-        "Centriole duplication in animal cells"
+        "Leptotene = Light Bouquet Condensation",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "There is strictly no replication of DNA during interkinesis between Meiosis I and Meiosis II."
+      "answerIndex": 0,
+      "explanation": "Initial stage where chromatin fibers condense into visible thin threads."
     }
   },
   {
@@ -1209,68 +1076,63 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
-    "topicId": "bio-top-10-3",
-    "topicTitle": "Mitotic Inhibitors",
-    "topic": "Colchicine: Spindle Poison Inducing Polyploidy",
+    "classLevel": 11,
+    "topicId": "bio-top-10-2",
+    "topicTitle": "Zygotene Events",
+    "topic": "Zygotene Events",
     "mnemonicNumber": 18,
-    "title": "Colchicine: Breaks Spindle, Arrests at Metaphase, Doubles Ploidy",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
+    "title": "Zygotene Events: \"Zygotene = Zipping Synapsis Synaptonemal Complex\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Colchicine = Crushes Centriolar Spindle → Metaphase Arrest → Polyploidy!",
-    "memoryHook": "Extracted from autumn crocus (Colchicum autumnale). It binds tubulin and prevents spindle microtubule assembly. Chromatids cannot separate, creating a cell with double chromosome sets (Polyploidy)!",
-    "fact": "Colchicine inhibits microtubule polymerization and spindle assembly, thereby arresting dividing cells at metaphase. Because chromatids duplicate but cannot separate, it induces polyploidy.",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Zygotene = Zipping Synapsis Synaptonemal Complex",
+    "memoryHook": "Zygotene = Zipping Synapsis Synaptonemal Complex",
+    "fact": "Synapsis: Pairing of homologous chromosomes. Structure: Formation of Synaptonemal Complex. Result: Bivalent or Tetrad complex becomes visible",
     "breakdown": [
       {
-        "key": "Source",
-        "label": "Corm of Colchicum autumnale (Family Liliaceae)"
+        "key": "Synapsis",
+        "label": "Pairing of homologous chromosomes"
       },
       {
-        "key": "Molecular Target",
-        "label": "Binds tubulin dimers, preventing microtubule spindle polymerization"
+        "key": "Structure",
+        "label": "Formation of Synaptonemal Complex"
       },
       {
-        "key": "Stage of Arrest",
-        "label": "Arrests cells at METAPHASE"
-      },
-      {
-        "key": "Application",
-        "label": "Induces artificial polyploidy (e.g. tetraploid crops) and aids karyotyping chromosome counts"
+        "key": "Result",
+        "label": "Bivalent or Tetrad complex becomes visible"
       }
     ],
-    "doodleBadge": "Colchicine = Metaphase Arrest",
-    "doodleSubtext": "Spindle Poison",
-    "explanation": "Because chromosomes remain arrested at their most condensed stage (metaphase), colchicine is universally used in cytogenetic laboratories for chromosome karyotyping.",
-    "alsoRemember": "Colchicum autumnale belongs to family Liliaceae.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10 & Chapter 5 (Liliaceae).",
-    "neetTrap": "Colchicine arrests cells at METAPHASE, NOT anaphase.",
+    "doodleBadge": "Zygotene = Zipping Synap",
+    "doodleSubtext": "Zygotene Events",
+    "explanation": "Homologous chromosome pairing mediated by proteinaceous synaptonemal structures. Chapter 10: Cell Cycle and Cell Division (30 Mnemonics) \tPage 3",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Zygotene Events.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.55",
     "tags": [
-      "Colchicine",
-      "Mitotic Poison",
-      "Polyploidy",
-      "Metaphase Arrest"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Zygotene"
     ],
-    "expandedMeaning": "Colchicine binds tubulin, halts spindle formation, arrests cells at metaphase, and induces polyploidy.",
-    "whyItWorks": "Links source (Colchicum) to mechanism (anti-tubulin), stage (metaphase), and outcome (polyploidy).",
-    "visualDescription": "Colchicine molecules snapping spindle threads like scissors, leaving chromosomes frozen at the metaphase plate.",
-    "neetRelevance": "Cross-chapter link between Cell Division and Morphology (Liliaceae).",
-    "commonMistake": "Stating colchicine arrests cells at anaphase.",
-    "sourceReference": "NCERT Class 11 Chapter 10 & Chapter 5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 55,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "At which stage of cell division does the chemical colchicine arrest mitotic division?",
+      "question": "Which of the following is associated with \"Zygotene Events\" in NEET Biology?",
       "options": [
-        "Prophase",
-        "Metaphase",
-        "Anaphase",
-        "Telophase"
+        "Pairing of homologous chromosomes",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Colchicine inhibits spindle formation and arrests cells at metaphase, preventing them from progressing to anaphase."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Pairing of homologous chromosomes\". Remember using: \"Zygotene = Zipping Synapsis Synaptonemal Complex\"."
     }
   },
   {
@@ -1279,65 +1141,63 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
-    "topicId": "bio-top-10-3",
-    "topicTitle": "Cell Cycle Regulation",
-    "topic": "Cell Cycle Checkpoints (G1/S and G2/M)",
+    "classLevel": 11,
+    "topicId": "bio-top-10-2",
+    "topicTitle": "Pachytene Events",
+    "topic": "Pachytene Events",
     "mnemonicNumber": 19,
-    "title": "Checkpoints: G1/S Major Gatekeeper, G2/M MPF Switch",
-    "badgeText": "Concept",
+    "title": "Pachytene Events: \"Pachytene = Recombination Nodules & Crossing Over\"",
+    "badgeText": "NCERT Direct",
     "importance": "High Yield",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "visualType": "sequence",
-    "mnemonicType": "sequence",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "G1/S = Point of No Return (p53) | G2/M = MPF Mitosis Green Light | M = Spindle Check",
-    "memoryHook": "G1/S is the major restriction checkpoint: once a cell passes G1/S, it is COMMITTED to divide. G2/M checks for completed DNA replication before entering mitosis (driven by MPF / Cyclin B-CDK1)!",
-    "fact": "Cyclin-Dependent Kinases (CDKs) partnered with cyclins regulate cell cycle transitions. G1/S checkpoint confirms cell size and DNA integrity; G2/M confirms complete DNA replication; M checkpoint confirms all kinetochores are attached to spindle fibers.",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Pachytene = Recombination Nodules & Crossing Over",
+    "memoryHook": "Pachytene = Recombination Nodules & Crossing Over",
+    "fact": "Crossing Over: Exchange of genetic material between non-sister chromatids. Enzyme: Mediated by Recombinase enzyme complex. Structure: Recombination nodules clearly visible on bivalents",
     "breakdown": [
       {
-        "key": "G1/S Checkpoint (Restriction point)",
-        "label": "Major commitment point; checks DNA damage and cell size; regulated by Rb and p53"
+        "key": "Crossing Over",
+        "label": "Exchange of genetic material between non-sister chromatids"
       },
       {
-        "key": "G2/M Checkpoint",
-        "label": "Ensures all DNA is completely replicated and undamaged before karyokinesis; regulated by MPF (Cyclin B + CDK1)"
+        "key": "Enzyme",
+        "label": "Mediated by Recombinase enzyme complex"
       },
       {
-        "key": "Spindle Assembly Checkpoint (SAC)",
-        "label": "Occurs in M-phase; checks that every single kinetochore is anchored to spindle microtubules"
+        "key": "Structure",
+        "label": "Recombination nodules clearly visible on bivalents"
       }
     ],
-    "doodleBadge": "G1/S → G2/M → SAC",
-    "doodleSubtext": "Cell Cycle Police",
-    "explanation": "p53 is known as the \"guardian of the genome\". If DNA is damaged at G1/S, p53 halts the cycle to repair DNA, or triggers apoptosis if unrepairable.",
-    "alsoRemember": "Failure of checkpoints leads to uncontrolled division, resulting in cancer.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10 & Class 12 Chapter 8 (Cancer).",
-    "neetTrap": "The major point of commitment where a cell commits to complete division is the G1/S checkpoint, NOT G2/M.",
+    "doodleBadge": "Pachytene = Recombinatio",
+    "doodleSubtext": "Pachytene Events",
+    "explanation": "The key stage responsible for genetic variation through non-sister chromatid exchange.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Pachytene Events.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.56",
     "tags": [
-      "Checkpoints",
-      "CDKs",
-      "p53",
-      "Cyclins",
-      "G1/S"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Pachytene"
     ],
-    "expandedMeaning": "G1/S is restriction point; G2/M controls entry into mitosis; SAC checks spindle tension.",
-    "whyItWorks": "Three-tiered security gate model: Entry gate (G1/S), Quality control (G2/M), and Final launch pad (SAC).",
-    "visualDescription": "A cell passing through three security toll booths labeled G1/S, G2/M, and M-Spindle.",
-    "neetRelevance": "Conceptual regulation and cancer link questions.",
-    "commonMistake": "Placing the major commitment point at G2 instead of G1/S.",
-    "sourceReference": "NCERT Class 11 Chapter 10",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 56,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which checkpoint in the cell cycle represents the major \"point of no return\" committing the cell to complete division?",
+      "question": "Which of the following is associated with \"Pachytene Events\" in NEET Biology?",
       "options": [
-        "G0/G1 transition",
-        "G1/S checkpoint",
-        "G2/M checkpoint",
-        "Metaphase/Anaphase transition"
+        "Exchange of genetic material between non-sister chromatids",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The G1/S checkpoint (restriction point) is the primary commitment point where the cell commits to replicating its DNA and dividing."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Exchange of genetic material between non-sister chromatids\". Remember using: \"Pachytene = Recombination Nodules & Crossing Over\"."
     }
   },
   {
@@ -1346,68 +1206,681 @@ export const bioCh10Mnemonics = [
     "chapterId": "bio-ch-10",
     "chapterNumber": 10,
     "chapterTitle": "Cell Cycle and Cell Division",
-    "topicId": "bio-top-10-3",
-    "topicTitle": "Significance of Division",
-    "topic": "Significance of Mitosis vs Meiosis",
+    "classLevel": 11,
+    "topicId": "bio-top-10-2",
+    "topicTitle": "Diplotene Events",
+    "topic": "Diplotene Events",
     "mnemonicNumber": 20,
-    "title": "Division Purpose: Mitosis Repairs, Meiosis Diversifies",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Mitosis = 2 Identical Clones (Growth & Repair) | Meiosis = 4 Diverse Gametes (Halving & Variation)",
-    "memoryHook": "Mitosis is Equational (2n → 2n): repairs upper skin layer, gut lining, restores nucleo-cytoplasmic ratio. Meiosis is Reductional (2n → n): halves chromosome number to maintain species ploidy across generations and produces VARIATIONS!",
-    "fact": "Mitosis results in two diploid daughter cells identical to parent; essential for growth, cell repair (gut lining, epidermis, blood cells). Meiosis results in four haploid genetically distinct daughter cells; maintains species chromosome number and introduces variation.",
+    "title": "Diplotene Events: \"Diplotene = Dissolution & X-shaped Chiasmata\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Diplotene = Dissolution & X-shaped Chiasmata",
+    "memoryHook": "Diplotene = Dissolution & X-shaped Chiasmata",
+    "fact": "Dissolution: Synaptonemal complex dissolves. Separation: Homologues separate except at sites of crossovers. Chiasmata: X-shaped structures visible (can last months/years in oocytes of vertebrates)",
     "breakdown": [
       {
-        "key": "Mitosis Daughter Cells",
-        "label": "2 diploid (2n) daughter cells, genetically identical clones"
+        "key": "Dissolution",
+        "label": "Synaptonemal complex dissolves"
       },
       {
-        "key": "Meiosis Daughter Cells",
-        "label": "4 haploid (n) daughter cells, genetically unique due to crossing over"
+        "key": "Separation",
+        "label": "Homologues separate except at sites of crossovers"
       },
       {
-        "key": "Mitosis Roles",
-        "label": "Growth of multicellular organisms, cell repair (skin, gut lining), nucleo-cytoplasmic ratio"
-      },
-      {
-        "key": "Meiosis Roles",
-        "label": "Formation of haploid gametes/spores, conservation of species chromosome number, genetic variation"
+        "key": "Chiasmata",
+        "label": "X-shaped structures visible (can last months/years in oocytes of vertebrates)"
       }
     ],
-    "doodleBadge": "Equational vs Reductional",
-    "doodleSubtext": "Mitosis vs Meiosis",
-    "explanation": "Without meiosis, chromosome number would double every generation upon fertilization (2n -> 4n -> 8n).",
-    "alsoRemember": "A significant contribution of mitosis is cell repair: continuously replacing upper skin layer and gut epithelium.",
-    "ncertConnection": "NCERT Class 11 Biology Chapter 10, Section 10.3 & 10.5.",
-    "neetTrap": "Mitosis produces TWO daughter cells, while Meiosis produces FOUR daughter cells.",
+    "doodleBadge": "Diplotene = Dissolution ",
+    "doodleSubtext": "Diplotene Events",
+    "explanation": "Unpairing stage revealing X-shaped crossover points called chiasmata.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Diplotene Events.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.56",
     "tags": [
-      "Significance",
-      "Equational Division",
-      "Reductional Division",
-      "Cell Repair"
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Diplotene"
     ],
-    "expandedMeaning": "Mitosis: 2 identical cells, growth and tissue repair; Meiosis: 4 haploid cells, variation and chromosome conservation.",
-    "whyItWorks": "Direct contrast of inputs, outputs, and biological purposes.",
-    "visualDescription": "Left: 1 cell splitting into 2 identical green clones. Right: 1 cell splitting into 4 multi-colored unique haploid gametes.",
-    "neetRelevance": "NCERT statement questions on tissue repair and evolutionary variation.",
-    "commonMistake": "Thinking Meiosis produces 2 haploid cells instead of 4.",
-    "sourceReference": "NCERT Class 11 Chapter 10 Section 10.3 & 10.5",
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 56,
+      "chapter": "Cell Cycle and Cell Division"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following tissues continuously undergoes mitotic division for cell replacement in the human body?",
+      "question": "Which of the following is associated with \"Diplotene Events\" in NEET Biology?",
       "options": [
-        "Epithelium lining the gut and upper layer of epidermis",
-        "Mature neurons in the brain",
-        "Skeletal muscle fibers",
-        "Mature red blood cells"
+        "Synaptonemal complex dissolves",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
       "answerIndex": 0,
-      "explanation": "Cells of the upper layer of epidermis, cells of the lining of the gut, and blood cells are constantly replaced by mitotic cell division."
+      "explanation": "Correct: \"Synaptonemal complex dissolves\". Remember using: \"Diplotene = Dissolution & X-shaped Chiasmata\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch10-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-10",
+    "chapterNumber": 10,
+    "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
+    "topicId": "bio-top-10-3",
+    "topicTitle": "Diakinesis Events",
+    "topic": "Diakinesis Events",
+    "mnemonicNumber": 21,
+    "title": "Diakinesis Events: \"Diakinesis = Terminalization of Chiasmata\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Diakinesis = Terminalization of Chiasmata",
+    "memoryHook": "Diakinesis = Terminalization of Chiasmata",
+    "fact": "Terminalization: Chiasmata shift towards ends of chromosomes. Transition: Nucleolus disappears, nuclear envelope breaks down. Mark: Represents transition to Metaphase I",
+    "breakdown": [
+      {
+        "key": "Terminalization",
+        "label": "Chiasmata shift towards ends of chromosomes"
+      },
+      {
+        "key": "Transition",
+        "label": "Nucleolus disappears, nuclear envelope breaks down"
+      },
+      {
+        "key": "Mark",
+        "label": "Represents transition to Metaphase I"
+      }
+    ],
+    "doodleBadge": "Diakinesis = Terminaliza",
+    "doodleSubtext": "Diakinesis Events",
+    "explanation": "Final stage of Prophase I preparing chromosomes for spindle alignment.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Diakinesis Events.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.56",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Diakinesis"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 56,
+      "chapter": "Cell Cycle and Cell Division"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Diakinesis Events\" in NEET Biology?",
+      "options": [
+        "Chiasmata shift towards ends of chromosomes",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Chiasmata shift towards ends of chromosomes\". Remember using: \"Diakinesis = Terminalization of Chiasmata\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch10-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-10",
+    "chapterNumber": 10,
+    "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
+    "topicId": "bio-top-10-3",
+    "topicTitle": "Metaphase I vs Metaphase II",
+    "topic": "Metaphase I vs Metaphase II",
+    "mnemonicNumber": 22,
+    "title": "Metaphase I vs Metaphase II: \"Metaphase I = Double Plate (Bivalents) | Metaphase II = Single Plate\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Metaphase I = Double Plate (Bivalents) | Metaphase II = Single Plate",
+    "memoryHook": "Metaphase I = Double Plate (Bivalents) | Metaphase II = Single Plate",
+    "fact": "Metaphase I: Bivalent homologous pairs align on double equatorial plate. Metaphase II: Individual chromosomes align on single equatorial plate (like Mitosis)",
+    "breakdown": [
+      {
+        "key": "Metaphase I",
+        "label": "Bivalent homologous pairs align on double equatorial plate"
+      },
+      {
+        "key": "Metaphase II",
+        "label": "Individual chromosomes align on single equatorial plate (like Mitosis)"
+      }
+    ],
+    "doodleBadge": "Metaphase I = Double Pla",
+    "doodleSubtext": "Metaphase I vs Metaphase",
+    "explanation": "Key structural difference in equatorial alignment between Meiosis I and II.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Metaphase I vs Metaphase II.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.56",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Metaphase"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 56,
+      "chapter": "Cell Cycle and Cell Division"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Metaphase I vs Metaphase II\" in NEET Biology?",
+      "options": [
+        "Metaphase I = Double Plate (Bivalents) | Metaphase II = Single Plate",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Key structural difference in equatorial alignment between Meiosis I and II."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch10-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-10",
+    "chapterNumber": 10,
+    "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
+    "topicId": "bio-top-10-3",
+    "topicTitle": "Anaphase I vs Anaphase II",
+    "topic": "Anaphase I vs Anaphase II",
+    "mnemonicNumber": 23,
+    "title": "Anaphase I vs Anaphase II: \"Anaphase I = Homologues Separate (No Centromere Split) | Anaphase II = Centromeres Split\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Anaphase I = Homologues Separate (No Centromere Split) | Anaphase II = Centromeres Split",
+    "memoryHook": "Anaphase I = Homologues Separate (No Centromere Split) | Anaphase II = Centromeres Split",
+    "fact": "Anaphase I: Homologous chromosomes move to opposite poles; centromeres DO NOT divide. Anaphase II: Sister chromatids separate due to centromere splitting",
+    "breakdown": [
+      {
+        "key": "Anaphase I",
+        "label": "Homologous chromosomes move to opposite poles; centromeres DO NOT divide"
+      },
+      {
+        "key": "Anaphase II",
+        "label": "Sister chromatids separate due to centromere splitting"
+      }
+    ],
+    "doodleBadge": "Anaphase I = Homologues ",
+    "doodleSubtext": "Anaphase I vs Anaphase I",
+    "explanation": "Critical mechanical distinction explaining why Meiosis I reduces ploidy while Meiosis II preserves it.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Anaphase I vs Anaphase II.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.56",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Anaphase"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 56,
+      "chapter": "Cell Cycle and Cell Division"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Anaphase I vs Anaphase II\" in NEET Biology?",
+      "options": [
+        "Anaphase I = Homologues Separate (No Centromere Split) | Anaphase II = Centromeres Split",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Critical mechanical distinction explaining why Meiosis I reduces ploidy while Meiosis II preserves it."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch10-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-10",
+    "chapterNumber": 10,
+    "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
+    "topicId": "bio-top-10-3",
+    "topicTitle": "Interkinesis",
+    "topic": "Interkinesis",
+    "mnemonicNumber": 24,
+    "title": "Interkinesis: \"Interkinesis = Short Pause, NO DNA Replication\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Interkinesis = Short Pause, NO DNA Replication",
+    "memoryHook": "Interkinesis = Short Pause, NO DNA Replication",
+    "fact": "Definition: Stage between Meiosis I and Meiosis II. Feature: Generally short-lived; NO replication of DNA takes place during interkinesis",
+    "breakdown": [
+      {
+        "key": "Definition",
+        "label": "Stage between Meiosis I and Meiosis II"
+      },
+      {
+        "key": "Feature",
+        "label": "Generally short-lived; NO replication of DNA takes place during interkinesis"
+      }
+    ],
+    "doodleBadge": "Interkinesis = Short Pau",
+    "doodleSubtext": "Interkinesis",
+    "explanation": "Intervening period between meiotic divisions without S-phase replication. Chapter 10: Cell Cycle and Cell Division (30 Mnemonics) \tPage 4",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Interkinesis.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.56",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Interkinesis"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 56,
+      "chapter": "Cell Cycle and Cell Division"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Interkinesis\" in NEET Biology?",
+      "options": [
+        "Interkinesis = Short Pause, NO DNA Replication",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Intervening period between meiotic divisions without S-phase replication. Chapter 10: Cell Cycle and Cell Division (30 Mnemonics) \tPage 4"
+    }
+  },
+  {
+    "id": "mnemo-bio-ch10-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-10",
+    "chapterNumber": 10,
+    "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
+    "topicId": "bio-top-10-3",
+    "topicTitle": "Significance of Meiosis",
+    "topic": "Significance of Meiosis",
+    "mnemonicNumber": 25,
+    "title": "Significance of Meiosis: \"Conservation & Variation\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "sequence",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Conservation & Variation",
+    "memoryHook": "Conservation & Variation",
+    "fact": "Chromosome Number: Specific chromosome number conserved across generations in sexually reproducing species. Genetic Variability: Increases variations in populations from generation to generation",
+    "breakdown": [
+      {
+        "key": "Chromosome Number",
+        "label": "Specific chromosome number conserved across generations in sexually reproducing species"
+      },
+      {
+        "key": "Genetic Variability",
+        "label": "Increases variations in populations from generation to generation"
+      }
+    ],
+    "doodleBadge": "Conservation & Variation",
+    "doodleSubtext": "Significance of Meiosis",
+    "explanation": "Evolutionary importance of meiotic division in sexually reproducing organisms.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Significance of Meiosis.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.57",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Significance"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 57,
+      "chapter": "Cell Cycle and Cell Division"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Significance of Meiosis\" in NEET Biology?",
+      "options": [
+        "Conservation & Variation",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Evolutionary importance of meiotic division in sexually reproducing organisms."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch10-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-10",
+    "chapterNumber": 10,
+    "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
+    "topicId": "bio-top-10-3",
+    "topicTitle": "Cell Cycle Checkpoints",
+    "topic": "Cell Cycle Checkpoints",
+    "mnemonicNumber": 26,
+    "title": "Cell Cycle Checkpoints: \"G1/S (Restriction), G2/M (Execution), Metaphase (Spindle)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "G1/S (Restriction), G2/M (Execution), Metaphase (Spindle)",
+    "memoryHook": "G1/S (Restriction), G2/M (Execution), Metaphase (Spindle)",
+    "fact": "G1/S Checkpoint: Main decision point (restriction point) for cell division commitment. G2/M Checkpoint: Checks DNA replication completeness and damage. Spindle Assembly Checkpoint (SAC): Ensures all kinetochores are attached to spindle fibers in metaphase",
+    "breakdown": [
+      {
+        "key": "G1/S Checkpoint",
+        "label": "Main decision point (restriction point) for cell division commitment"
+      },
+      {
+        "key": "G2/M Checkpoint",
+        "label": "Checks DNA replication completeness and damage"
+      }
+    ],
+    "doodleBadge": "G1/S (Restriction), G2/M",
+    "doodleSubtext": "Cell Cycle Checkpoints",
+    "explanation": "Quality control mechanisms ensuring accurate transmission of genetic material.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Cell Cycle Checkpoints.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.57",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Cell"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 57,
+      "chapter": "Cell Cycle and Cell Division"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Cell Cycle Checkpoints\" in NEET Biology?",
+      "options": [
+        "Main decision point (restriction point) for cell division commitment",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Main decision point (restriction point) for cell division commitment\". Remember using: \"G1/S (Restriction), G2/M (Execution), Metaphase (Spindle)\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch10-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-10",
+    "chapterNumber": 10,
+    "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
+    "topicId": "bio-top-10-3",
+    "topicTitle": "Cyclins and CDKs Regulation",
+    "topic": "Cyclins and CDKs Regulation",
+    "mnemonicNumber": 27,
+    "title": "Cyclins and CDKs Regulation: \"Cyclin B + CDK1 = MPF (Maturation Promoting Factor)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Cyclin B + CDK1 = MPF (Maturation Promoting Factor)",
+    "memoryHook": "Cyclin B + CDK1 = MPF (Maturation Promoting Factor)",
+    "fact": "CDKs (Cyclin Dependent Kinases): Catalytic subunits requiring binding to cyclins for activity. MPF: Complex of Cyclin B and CDK1 driving transition from G2 phase into M phase",
+    "breakdown": [
+      {
+        "key": "MPF",
+        "label": "Complex of Cyclin B and CDK1 driving transition from G2 phase into M phase"
+      }
+    ],
+    "doodleBadge": "Cyclin B + CDK1 = MPF (M",
+    "doodleSubtext": "Cyclins and CDKs Regulat",
+    "explanation": "Biochemical engine controlling phase transitions in eukaryotic cell cycles.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Cyclins and CDKs Regulation.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.57",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Cyclins"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 57,
+      "chapter": "Cell Cycle and Cell Division"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Cyclins and CDKs Regulation\" in NEET Biology?",
+      "options": [
+        "Cyclin B + CDK1 = MPF (Maturation Promoting Factor)",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Biochemical engine controlling phase transitions in eukaryotic cell cycles."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch10-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-10",
+    "chapterNumber": 10,
+    "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
+    "topicId": "bio-top-10-3",
+    "topicTitle": "Mitotic Poisons (Colchicine Action)",
+    "topic": "Mitotic Poisons (Colchicine Action)",
+    "mnemonicNumber": 28,
+    "title": "Mitotic Poisons (Colchicine Action): \"Colchicine Inhibits Tubulin (Arrests Metaphase)\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Colchicine Inhibits Tubulin (Arrests Metaphase)",
+    "memoryHook": "Colchicine Inhibits Tubulin (Arrests Metaphase)",
+    "fact": "Mechanism: Inhibits microtubule polymerization by binding tubulin protein. Effect: Prevents spindle fiber formation, arresting cells at Metaphase. Application: Induces polyploidy in plant breeding",
+    "breakdown": [
+      {
+        "key": "Mechanism",
+        "label": "Inhibits microtubule polymerization by binding tubulin protein"
+      },
+      {
+        "key": "Effect",
+        "label": "Prevents spindle fiber formation, arresting cells at Metaphase"
+      },
+      {
+        "key": "Application",
+        "label": "Induces polyploidy in plant breeding"
+      }
+    ],
+    "doodleBadge": "Colchicine Inhibits Tubu",
+    "doodleSubtext": "Mitotic Poisons (Colchic",
+    "explanation": "Chemical agent commonly tested in NEET for metaphase arrest and chromosome doubling.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Mitotic Poisons (Colchicine Action).",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.57",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Mitotic"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 57,
+      "chapter": "Cell Cycle and Cell Division"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Mitotic Poisons (Colchicine Action)\" in NEET Biology?",
+      "options": [
+        "Inhibits microtubule polymerization by binding tubulin protein",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Inhibits microtubule polymerization by binding tubulin protein\". Remember using: \"Colchicine Inhibits Tubulin (Arrests Metaphase)\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch10-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-10",
+    "chapterNumber": 10,
+    "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
+    "topicId": "bio-top-10-3",
+    "topicTitle": "Amitosis",
+    "topic": "Amitosis",
+    "mnemonicNumber": 29,
+    "title": "Amitosis: \"Direct Division Without Spindle\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "sequence",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Direct Division Without Spindle",
+    "memoryHook": "Direct Division Without Spindle",
+    "fact": "Process: Direct nuclear constriction without spindle formation or chromosome condensation. Occurrence: Prokaryotes (binary fission), unicellular eukaryotes (e.g., Amoeba), and fetal membranes",
+    "breakdown": [
+      {
+        "key": "Process",
+        "label": "Direct nuclear constriction without spindle formation or chromosome condensation"
+      },
+      {
+        "key": "Occurrence",
+        "label": "Prokaryotes (binary fission), unicellular eukaryotes (e.g., Amoeba), and fetal membranes"
+      }
+    ],
+    "doodleBadge": "Direct Division Without ",
+    "doodleSubtext": "Amitosis",
+    "explanation": "Primitive or specialized division method lacking structured mitotic apparatus.",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Amitosis.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.57",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Amitosis"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 57,
+      "chapter": "Cell Cycle and Cell Division"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Amitosis\" in NEET Biology?",
+      "options": [
+        "Direct Division Without Spindle",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Primitive or specialized division method lacking structured mitotic apparatus."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch10-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-10",
+    "chapterNumber": 10,
+    "chapterTitle": "Cell Cycle and Cell Division",
+    "classLevel": 11,
+    "topicId": "bio-top-10-3",
+    "topicTitle": "Bivalent vs Tetrad Formula",
+    "topic": "Bivalent vs Tetrad Formula",
+    "mnemonicNumber": 30,
+    "title": "Bivalent vs Tetrad Formula: \"1 Bivalent = 2 Chromosomes = 4 Chromatids = 1 Homologous Pair\"",
+    "badgeText": "NCERT Direct",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "sequence",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "1 Bivalent = 2 Chromosomes = 4 Chromatids = 1 Homologous Pair",
+    "memoryHook": "1 Bivalent = 2 Chromosomes = 4 Chromatids = 1 Homologous Pair",
+    "fact": "1 Bivalent: Pair of synapsed homologous chromosomes. Chromatid Count: Consists of 4 chromatids (hence called a Tetrad). Centromere Count: 2 centromeres present per bivalent",
+    "breakdown": [
+      {
+        "key": "1 Bivalent",
+        "label": "Pair of synapsed homologous chromosomes"
+      },
+      {
+        "key": "Chromatid Count",
+        "label": "Consists of 4 chromatids (hence called a Tetrad)"
+      },
+      {
+        "key": "Centromere Count",
+        "label": "2 centromeres present per bivalent"
+      }
+    ],
+    "doodleBadge": "1 Bivalent = 2 Chromosom",
+    "doodleSubtext": "Bivalent vs Tetrad Formu",
+    "explanation": "Quantitative conversion relationships frequently tested in numerical NEET questions. Chapter 10: Cell Cycle and Cell Division (30 Mnemonics) \tPage 5",
+    "alsoRemember": "NCERT Class 11 Biology, Chapter 10 (Cell Cycle and Cell Division).",
+    "neetTrap": "Pay close attention to exact terminology in Bivalent vs Tetrad Formula.",
+    "ncertConnection": "NCERT Class 11 Biology, Chapter 10, Page from PDF p.57",
+    "tags": [
+      "NEET Biology",
+      "Class 11",
+      "Cell Cycle and Cell Division",
+      "Bivalent"
+    ],
+    "sourceReference": {
+      "pdf": "NEET Biology Chapter-Wise 30 Mnemonics Master (Class 11)",
+      "page": 57,
+      "chapter": "Cell Cycle and Cell Division"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Bivalent vs Tetrad Formula\" in NEET Biology?",
+      "options": [
+        "Pair of synapsed homologous chromosomes",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Pair of synapsed homologous chromosomes\". Remember using: \"1 Bivalent = 2 Chromosomes = 4 Chromatids = 1 Homologous Pair\"."
     }
   }
 ];

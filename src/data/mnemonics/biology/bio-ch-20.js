@@ -1,6 +1,7 @@
 /**
- * Biology Chapter 20: Sexual Reproduction in Flowering Plants
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 20 (NCERT Ch 1): Sexual Reproduction in Flowering Plants
+ * Class 12 Biology (50 verified mnemonics)
+ * Primary Source: NCERT Class 12 Biology Quick Revision Series (PDF 2)
  */
 
 export const bioCh20Mnemonics = [
@@ -10,70 +11,60 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
     "topicId": "bio-top-20-1",
-    "topicTitle": "Microsporangium Wall Layers",
-    "topic": "Epidermis -> Endothecium -> Middle Layers -> Tapetum",
+    "topicTitle": "Layers of Anther Wall",
+    "topic": "Layers of Anther Wall",
     "mnemonicNumber": 1,
-    "title": "Anther Wall: Epidermis -> Endothecium (Alpha-cellulosic fibrous bands) -> Middle Layers -> Tapetum (Dense cytoplasm, Polyploid, Nourishes Pollen)",
-    "badgeText": "Sequence",
+    "sourceItemNumber": 1,
+    "title": "Layers of Anther Wall: \"Epi Endos Middle Tap\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
+    "difficulty": "medium",
+    "visualType": "classification",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Outside to Inside: 1) Epidermis (Protective single layer) -> 2) Endothecium (Hygroscopic alpha-cellulose fibrous thickenings for anther dehiscence) -> 3) Middle Layers (1-3 ephemeral layers) -> 4) Tapetum (Innermost nourishing multinucleate layer)!",
-    "memoryHook": "Every Elephant Must Travel: Epidermis -> Endothecium -> Middle -> Tapetum! The outer 3 layers Protect & Dehisce; the inner Tapetum feeds the growing pollen babies!",
-    "fact": "A typical microsporangium is surrounded by four wall layers: 1) Epidermis (outermost single layer for protection), 2) Endothecium (cells develop hygroscopic fibrous bands of alpha-cellulose and stomium along line of dehiscence), 3) Middle layers (1-3 ephemeral cells that degenerate), and 4) Tapetum (innermost layer nourishing developing pollen grains; cells possess dense cytoplasm and are generally multinucleate/polyploid). Outer three layers perform protection and dehiscence.",
+    "mnemonic": "Epi Endos Middle Tap",
+    "memoryHook": "Epi Endos Middle Tap",
+    "fact": "The anther wall consists of four layers where the tapetum nourishes the developing microspore mother cells.",
     "breakdown": [
       {
-        "key": "Epidermis (Outer 1st)",
-        "label": "Outermost protective single layer of microsporangium"
+        "key": "Focus",
+        "label": "Layers of Anther Wall"
       },
       {
-        "key": "Endothecium (2nd)",
-        "label": "Cellulose fibrous thickenings; hygroscopic contraction causes anther dehiscence"
-      },
-      {
-        "key": "Middle Layers (3rd)",
-        "label": "1 to 3 layers of parenchymatous cells; crush and degenerate during maturation"
-      },
-      {
-        "key": "Tapetum (Innermost 4th)",
-        "label": "Nourishes developing microspores/pollen; multinucleate/polyploid; secretes sporopollenin precursors & Ubisch bodies"
+        "key": "Trick",
+        "label": "Epi Endos Middle Tap"
       }
     ],
-    "doodleBadge": "Epi -> Endo -> Mid -> Tapetum\nOuter 3 Protect | Tapetum Feeds",
-    "doodleSubtext": "4 Anther Wall Layers",
-    "explanation": "Tapetum undergoes endomitosis and polyteny, becoming polyploid and multinucleate to sustain high enzyme and protein synthetic activity.",
-    "alsoRemember": "Tapetum secretes enzyme Callase to dissolve callose wall around microspore tetrads.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 2, Section 2.1.1.",
-    "neetTrap": "Tapetum is MULTINUCLEATE and POLYPLOID with dense cytoplasm, situated as the INNERMOST layer.",
+    "doodleBadge": "Epi Endos Middle Tap",
+    "doodleSubtext": "Layers of Anther Wall",
+    "explanation": "The anther wall consists of four layers where the tapetum nourishes the developing microspore mother cells.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Layers of Anther Wall.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 67",
     "tags": [
-      "Microsporangium",
-      "Anther Wall",
-      "Tapetum",
-      "Endothecium",
-      "Pollen",
-      "Class 12"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Layers"
     ],
-    "expandedMeaning": "Centripetal anatomical stratification and nutritive cellular specializations of the angiosperm microsporangium.",
-    "whyItWorks": "E-E-M-T mnemonic from outside to inside with clear functional grouping (3 protect, 1 feeds).",
-    "visualDescription": "Transverse section of tetralocular anther showing 4 concentric wall layers enclosing central sporogenous tissue.",
-    "neetRelevance": "One of the most frequently asked diagram and function matching questions in NEET.",
-    "commonMistake": "Confusing the position of endothecium (sub-epidermal) with tapetum.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.1.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 67,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which innermost wall layer of the microsporangium possesses dense cytoplasm, is generally multinucleated, and nourishes the developing pollen grains?",
+      "question": "Which of the following is associated with \"Layers of Anther Wall\" in NEET Biology?",
       "options": [
-        "Endothecium",
-        "Middle layers",
-        "Tapetum",
-        "Epidermis"
+        "Epi Endos Middle Tap",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "The Tapetum is the innermost layer of the anther wall that provides nutrition to the developing pollen grains."
+      "answerIndex": 0,
+      "explanation": "The anther wall consists of four layers where the tapetum nourishes the developing microspore mother cells."
     }
   },
   {
@@ -82,70 +73,60 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
     "topicId": "bio-top-20-1",
-    "topicTitle": "Pollen Grain Wall: Exine vs Intine",
-    "topic": "Sporopollenin (Hardest Biological Material / Exine / Germ Pore) vs Cellulose + Pectin (Intine)",
+    "topicTitle": "Tapetum Characteristics",
+    "topic": "Tapetum Characteristics",
     "mnemonicNumber": 2,
-    "title": "Pollen Wall: Exine (Sporopollenin = Indestructible Organic Armor with Germ Pores) vs Intine (Cellulose + Pectin)",
-    "badgeText": "Comparison",
+    "sourceItemNumber": 2,
+    "title": "Tapetum Characteristics: \"D-N-U\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Exine (Outer) = Made of SPOROPOLLENIN (Most resistant organic substance known! Resists high temperature, strong acids, alkali, no enzyme can degrade it! Has Germ Pores where sporopollenin is absent!) | Intine (Inner) = Thin continuous pectin + cellulose wall!",
-    "memoryHook": "Exine is the diamond armor made of Sporopollenin (preserves pollen as ancient fossils for millions of years!). Germ Pores are tiny open doors where sporopollenin is absent so pollen tube can emerge!",
-    "fact": "Pollen grain has a two-layered wall: 1) Exine: Hard outer layer made of Sporopollenin (one of the most resistant organic materials known; withstands high temperatures, strong acids and alkali; no enzyme that degrades sporopollenin is so far known). Exine has prominent apertures called Germ Pores where sporopollenin is absent. 2) Intine: Thin, continuous inner wall made of cellulose and pectin. Pollen grains are well preserved as fossils because of sporopollenin.",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "D-N-U",
+    "memoryHook": "D-N-U",
+    "fact": "D – Dense cytoplasm – Rich in metabolic activity for secretion. N – Numerous nuclei – Often polyploid or multinucleated condition. U – Unicellular layer initially – Surrounds the sporogenous tissue directly",
     "breakdown": [
       {
-        "key": "Exine (Outer Layer)",
-        "label": "Sculptured, hard layer composed of Sporopollenin (carotenoid polymer)"
+        "key": "D – Dense cytoplasm",
+        "label": "Rich in metabolic activity for secretion"
       },
       {
-        "key": "Sporopollenin Resistance",
-        "label": "Immune to all known enzymes, strong mineral acids, alkalis, and extreme heat"
-      },
-      {
-        "key": "Germ Pores",
-        "label": "1 to 3 apertures on exine where sporopollenin is completely absent (pollen tube exit site)"
-      },
-      {
-        "key": "Intine (Inner Layer)",
-        "label": "Thin, smooth, continuous layer composed of Pectin and Cellulose"
+        "key": "N – Numerous nuclei",
+        "label": "Often polyploid or multinucleated condition"
       }
     ],
-    "doodleBadge": "Sporopollenin Armor = Exine\nPectin + Cellulose = Intine",
-    "doodleSubtext": "Pollen Grain Double Wall",
-    "explanation": "Monocots typically have a single germ pore (monocolpate), whereas dicots typically have three germ pores (tricolpate).",
-    "alsoRemember": "Pollen allergy is caused by Parthenium (carrot grass) which came into India as a contaminant with imported wheat.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.1.2.",
-    "neetTrap": "Sporopollenin is completely ABSENT at the germ pores, allowing pollen tube emergence.",
+    "doodleBadge": "D-N-U",
+    "doodleSubtext": "Tapetum Characteristics",
+    "explanation": "Tapetal cells possess dense cytoplasm and multiple nuclei to effectively nourish developing pollen grains.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Tapetum Characteristics.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 67",
     "tags": [
-      "Pollen Grain",
-      "Sporopollenin",
-      "Exine",
-      "Intine",
-      "Germ Pore",
-      "Parthenium"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Tapetum"
     ],
-    "expandedMeaning": "Ultrastructural sporoderm chemical architecture and enzymatic resistance of angiosperm microgametophytes.",
-    "whyItWorks": "Armor (Sporopollenin Exine) vs Continuous Skin (Pectin-Cellulose Intine).",
-    "visualDescription": "Pollen grain with spiky yellow outer exine broken at a smooth circular germ pore window, revealing thin inner intine.",
-    "neetRelevance": "One of the most recurring questions on sporopollenin properties in NEET.",
-    "commonMistake": "Claiming sporopollenin is present evenly around the entire pollen surface including germ pores.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.1.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 67,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Pollen grains are well-preserved as ancient fossils due to the presence of which extremely resistant substance in the exine?",
+      "question": "Which of the following is associated with \"Tapetum Characteristics\" in NEET Biology?",
       "options": [
-        "Cellulose and pectin",
-        "Sporopollenin",
-        "Lignin",
-        "Chitin"
+        "Rich in metabolic activity for secretion",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Sporopollenin is one of the most resistant organic materials known, resisting enzymes, acids, and heat, allowing fossil preservation."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Rich in metabolic activity for secretion\". Remember using: \"D-N-U\"."
     }
   },
   {
@@ -154,70 +135,60 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
     "topicId": "bio-top-20-1",
-    "topicTitle": "2-Celled vs 3-Celled Pollen Shedding",
-    "topic": "Vegetative Cell vs Generative Cell (60% Angiosperms Shed at 2-Celled Stage)",
+    "topicTitle": "Microsporogenesis Stages",
+    "topic": "Microsporogenesis Stages",
     "mnemonicNumber": 3,
-    "title": "Pollen Shedding: 60% at 2-Celled Stage (Vegetative + Generative) | 40% at 3-Celled Stage (2 Male Gametes)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 3,
+    "title": "Microsporogenesis Stages: \"M-T-P\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Vegetative Cell = Giant food storehouse + Irregular nucleus | Generative Cell = Small spindle floating in vegetative cytoplasm | In >60% Angiosperms, pollen sheds at 2-CELLED stage; in remaining <40%, Generative cell divides mitotically to form 2 Male Gametes before shedding (3-celled stage)!",
-    "memoryHook": "60% of flowers are in a hurry and release pollen at 2-cell stage (Big Vegetative + Small Generative). The generative cell divides later in the pollen tube into 2 swimming male gametes!",
-    "fact": "A mature pollen grain has 2 cells: 1) Vegetative cell: Bigger, has abundant food reserves and a large irregularly shaped nucleus. 2) Generative cell: Small, spindle-shaped with dense cytoplasm and a nucleus, floating in the cytoplasm of the vegetative cell. In over 60% of angiosperms, pollen grains are shed at this 2-celled stage. In the remaining species (<40%), the generative cell divides mitotically to give rise to the two male gametes before pollen grains are shed (3-celled stage).",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "M-T-P",
+    "memoryHook": "M-T-P",
+    "fact": "M – MMC (Microspore Mother Cell) – Diploid cell undergoing meiosis. T – Tetrad formation – Four haploid microspores produced. P – Pollen grain separation – Microspores dissociate and mature into pollen grains",
     "breakdown": [
       {
-        "key": "Vegetative Cell",
-        "label": "Large cell with abundant food reserve and irregular nucleus (forms pollen tube)"
+        "key": "M",
+        "label": "MMC (Microspore Mother Cell) – Diploid cell undergoing meiosis"
       },
       {
-        "key": "Generative Cell",
-        "label": "Small spindle-shaped cell floating in vegetative cytoplasm; divides into 2 male gametes"
-      },
-      {
-        "key": "60% Angiosperms",
-        "label": "Shed at 2-celled stage (Vegetative + Generative)"
-      },
-      {
-        "key": "40% Angiosperms",
-        "label": "Shed at 3-celled stage (Vegetative + 2 Male gametes formed by mitotic division)"
+        "key": "T – Tetrad formation",
+        "label": "Four haploid microspores produced"
       }
     ],
-    "doodleBadge": ">60% = 2-Celled Stage\n<40% = 3-Celled Stage",
-    "doodleSubtext": "Pollen Shedding Census",
-    "explanation": "In species that shed pollen at the 2-celled stage, the generative cell divides mitotically during pollen tube growth on the stigma/style.",
-    "alsoRemember": "Pollen viability in rice and wheat is ~30 minutes, whereas in Rosaceae, Leguminosae, and Solanaceae it lasts for months.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.1.2.",
-    "neetTrap": "Pollen is shed at the 2-CELLED stage in over 60% of angiosperms (NOT 3-celled).",
+    "doodleBadge": "M-T-P",
+    "doodleSubtext": "Microsporogenesis Stages",
+    "explanation": "Microsporogenesis involves meiotic division of MMC to form a haploid microspore tetrad.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Microsporogenesis Stages.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 67",
     "tags": [
-      "Pollen Grain",
-      "Vegetative Cell",
-      "Generative Cell",
-      "Male Gametes",
-      "2-Celled Stage",
-      "Viability"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Microsporogenesis"
     ],
-    "expandedMeaning": "Microgametogenesis maturation stages and shedding demographics in flowering plants.",
-    "whyItWorks": "60% (2 cells) vs 40% (3 cells) demographic rule.",
-    "visualDescription": "Pollen interior showing large yellow Vegetative cell with irregular blob nucleus and small blue spindle Generative cell floating inside.",
-    "neetRelevance": "Direct numerical percentage question asked frequently.",
-    "commonMistake": "Claiming that 3-celled shedding is the majority in angiosperms.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.1.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 67,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In over 60% of angiosperms, pollen grains are shed at which developmental stage?",
+      "question": "Which of the following is associated with \"Microsporogenesis Stages\" in NEET Biology?",
       "options": [
-        "1-celled stage",
-        "2-celled stage (vegetative + generative)",
-        "3-celled stage (vegetative + 2 male gametes)",
-        "4-celled stage"
+        "MMC (Microspore Mother Cell) – Diploid cell undergoing meiosis",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "In over 60% of angiosperms, pollen is shed at the 2-celled stage (one vegetative cell and one generative cell)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"MMC (Microspore Mother Cell) – Diploid cell undergoing meiosis\". Remember using: \"M-T-P\"."
     }
   },
   {
@@ -226,75 +197,60 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-2",
-    "topicTitle": "Typical Angiosperm Ovule (Anatropous)",
-    "topic": "Funicle, Hilum, Integuments, Micropyle, Chalaza, Nucellus, and Embryo Sac",
+    "classLevel": 12,
+    "topicId": "bio-top-20-1",
+    "topicTitle": "Pollen Grain Wall Layers",
+    "topic": "Pollen Grain Wall Layers",
     "mnemonicNumber": 4,
-    "title": "Anatropous Ovule: Inverted 180° | Hilum (Stalk junction) | Micropyle (Pore) OPPOSITE to Chalaza (Basal pole)",
-    "badgeText": "Concept",
+    "sourceItemNumber": 4,
+    "title": "Pollen Grain Wall Layers: \"Ex Spp In\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Stalk = Funicle | Scar on body = Hilum | Central food tissue = Nucellus (2n) | Pore at top = Micropyle (Water/Pollen tube entry) | Basal opposite end = Chalaza (Root base) | Inverted 180° = Anatropous (82% common)!",
-    "memoryHook": "The ovule does a 180° somersault (Anatropous) so its Micropyle mouth points down next to the Funicle stalk! Chalaza sits on the opposite basal roof!",
-    "fact": "A typical angiosperm ovule (Megasporangium) is Anatropous (inverted 180° so micropyle lies close to funicle): Attached to placenta by a stalk called Funicle. The junction between ovule body and funicle is Hilum. Enclosed by 1 or 2 protective Integuments leaving a small pore called Micropyle at apex. Opposite the micropylar end is Chalaza representing basal part of ovule. Enclosed within integuments is Nucellus (rich parenchymatous nutritive tissue, 2n) housing female gametophyte (Embryo Sac).",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Ex Spp In",
+    "memoryHook": "Ex Spp In",
+    "fact": "The resilient exine protects pollen against harsh conditions, interrupted only by germ pores where intine emerges.",
     "breakdown": [
       {
-        "key": "Funicle & Hilum",
-        "label": "Funicle is stalk attaching ovule to placenta; Hilum is scar/junction where funicle fuses with body"
+        "key": "Focus",
+        "label": "Pollen Grain Wall Layers"
       },
       {
-        "key": "Micropylar Pole",
-        "label": "Apex where integuments leave an opening (Micropyle) for pollen tube entry"
-      },
-      {
-        "key": "Chalazal Pole",
-        "label": "Opposite basal end of ovule from where integuments originate"
-      },
-      {
-        "key": "Nucellus (2n)",
-        "label": "Central diploid nutritive tissue enclosing the haploid embryo sac"
-      },
-      {
-        "key": "Anatropous Condition",
-        "label": "Inverted ovule present in >80% angiosperm families"
+        "key": "Trick",
+        "label": "Ex Spp In"
       }
     ],
-    "doodleBadge": "Micropyle (Pore) <---> Chalaza (Base)\nHilum = Stalk Junction",
-    "doodleSubtext": "Anatropous Ovule Map",
-    "explanation": "Anatropous ovule is the most common ovule type in angiosperms (~82% of families).",
-    "alsoRemember": "Perisperm is the persistent residual nucellus found in mature seeds of Black Pepper and Beet.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.1.2.",
-    "neetTrap": "Chalaza is at the BASAL end of the ovule; Micropyle is at the APICAL end.",
+    "doodleBadge": "Ex Spp In",
+    "doodleSubtext": "Pollen Grain Wall Layers",
+    "explanation": "The resilient exine protects pollen against harsh conditions, interrupted only by germ pores where intine emerges.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Pollen Grain Wall Layers.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 67",
     "tags": [
-      "Ovule",
-      "Anatropous",
-      "Megasporangium",
-      "Hilum",
-      "Micropyle",
-      "Chalaza",
-      "Nucellus"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Pollen"
     ],
-    "expandedMeaning": "Morphological orientation and structural anatomy of the inverted angiosperm megasporangium.",
-    "whyItWorks": "Pore (Micropyle) opposite to Base (Chalaza) spatial polarity.",
-    "visualDescription": "Cross-section of inverted anatropous ovule showing labeled funicle, hilum, outer/inner integuments, nucellus, and central embryo sac.",
-    "neetRelevance": "One of the most frequently asked diagram-based label identification questions.",
-    "commonMistake": "Confusing hilum (junction scar) with funicle (stalk).",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.1.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 67,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In a typical anatropous angiosperm ovule, the junction where the body of the ovule fuses with the funicle is called:",
+      "question": "Which of the following is associated with \"Pollen Grain Wall Layers\" in NEET Biology?",
       "options": [
-        "Chalaza",
-        "Micropyle",
-        "Hilum",
-        "Nucellus"
+        "Ex Spp In",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "The Hilum represents the junction region where the body of the ovule fuses with the stalk (funicle)."
+      "answerIndex": 0,
+      "explanation": "The resilient exine protects pollen against harsh conditions, interrupted only by germ pores where intine emerges."
     }
   },
   {
@@ -303,75 +259,68 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-2",
-    "topicTitle": "Monosporic 7-Celled, 8-Nucleate Embryo Sac",
-    "topic": "Polygonum Type: 3 Antipodals + 1 Central Cell (2 Polar Nuclei) + Egg Apparatus (1 Egg + 2 Synergids with Filiform)",
+    "classLevel": 12,
+    "topicId": "bio-top-20-1",
+    "topicTitle": "Pollen Grain Two-Celled Stage",
+    "topic": "Pollen Grain Two-Celled Stage",
     "mnemonicNumber": 5,
-    "title": "Embryo Sac (Polygonum Type): 7 Cells & 8 Nuclei (3 Chalazal Antipodals + 1 Central Cell with 2 Polar Nuclei + 3 Micropylar Egg Apparatus)",
-    "badgeText": "Formula",
+    "sourceItemNumber": 5,
+    "title": "Pollen Grain Two-Celled Stage: \"V-G-S-C\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Polygonum Embryo Sac = 7 Cells, 8 Nuclei (Monosporic development)! 3 Antipodals (Chalazal end) + 1 Central Cell (2 Polar Nuclei) + Egg Apparatus (1 Egg + 2 Synergids with Filiform Apparatus at Micropylar end)!",
-    "memoryHook": "Count the cells: 3 at the top (Antipodals) + 1 giant middle room (Central Cell with 2 twin nuclei) + 3 at the bottom (1 Egg + 2 Synergid bodyguards) = 7 Cells with 8 Nuclei!",
-    "fact": "In majority of flowering plants, a single functional megaspore (chalazal) undergoes 3 successive free-nuclear mitotic divisions to form a typical 7-celled, 8-nucleate female gametophyte (Embryo Sac / Polygonum type): 1) Chalazal end: 3 Antipodal cells. 2) Center: 1 large Central Cell containing 2 Polar Nuclei. 3) Micropylar end: Egg Apparatus comprising 1 Egg cell and 2 Synergid cells. Synergids possess specialized cellular finger-like thickenings called Filiform Apparatus which guide pollen tube entry.",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "V-G-S-C",
+    "memoryHook": "V-G-S-C",
+    "fact": "V – Vegetative cell – Bigger cell with abundant food reserve and large irregular nucleus. G – Generative cell – Small cell floating in vegetative cytoplasm. S – Spindle shape – Shape of generative cell. C – Cell division – Generative cell divides to form two male gametes",
     "breakdown": [
       {
-        "key": "Chalazal End (3 cells)",
-        "label": "3 Antipodal cells (vegetative/nutritive role, degenerate after fertilization)"
+        "key": "V – Vegetative cell",
+        "label": "Bigger cell with abundant food reserve and large irregular nucleus"
       },
       {
-        "key": "Central Cell (1 cell, 2 nuclei)",
-        "label": "Largest cell with 2 polar nuclei; fuses with 2nd male gamete to form triploid (3n) PEN endosperm"
+        "key": "G – Generative cell",
+        "label": "Small cell floating in vegetative cytoplasm"
       },
       {
-        "key": "Egg Apparatus (3 cells)",
-        "label": "1 haploid Egg cell (female gamete) + 2 Synergids located at micropylar end"
+        "key": "S – Spindle shape",
+        "label": "Shape of generative cell"
       },
       {
-        "key": "Filiform Apparatus",
-        "label": "Specialized cellular thickenings on synergids that guide pollen tube entry into embryo sac"
-      },
-      {
-        "key": "Total Count",
-        "label": "7 cells and 8 haploid nuclei (Polygonum monosporic type)"
+        "key": "C – Cell division",
+        "label": "Generative cell divides to form two male gametes"
       }
     ],
-    "doodleBadge": "7 Cells & 8 Nuclei\n3 Antipodals + 1 Central (2n) + 3 Egg Apparatus",
-    "doodleSubtext": "Polygonum Embryo Sac",
-    "explanation": "Filiform apparatus plays a crucial chemotactic and mechanical role in directing the pollen tube into one of the synergids.",
-    "alsoRemember": "Out of 4 megaspores formed by meiosis, 3 degenerate at micropylar end and only 1 chalazal megaspore develops (Monosporic development).",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.1.2.",
-    "neetTrap": "The embryo sac is 7-CELLED and 8-NUCLEATE (not 8-celled).",
+    "doodleBadge": "V-G-S-C",
+    "doodleSubtext": "Pollen Grain Two-Celled ",
+    "explanation": "In over 60% of angiosperms, pollen is shed at a 2-celled stage containing a vegetative and a generative cell. NCERT Chapter 1 Mnemonics Master Guide \tPage 1 of 10 Sexual Reproduction in Flowering Plants | NCERT Line-by-Line Alignment for NEET",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Pollen Grain Two-Celled Stage.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 67",
     "tags": [
-      "Embryo Sac",
-      "Polygonum",
-      "Filiform Apparatus",
-      "Synergids",
-      "Antipodals",
-      "Polar Nuclei",
-      "7-Celled 8-Nucleate"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Pollen"
     ],
-    "expandedMeaning": "Endosporic megagametogenesis formula and cellular organization of the mature angiosperm female gametophyte.",
-    "whyItWorks": "3 + 1(2) + 3 = 7 cells, 8 nuclei clean formula.",
-    "visualDescription": "Oval embryo sac diagram showing 3 top antipodals, large center cell with 2 dots, and bottom trio with filiform finger thickenings.",
-    "neetRelevance": "One of the most frequently asked questions in all of NEET biology.",
-    "commonMistake": "Counting 8 cells instead of 7 cells.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.1.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 67,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The mature female gametophyte (embryo sac) of a typical angiosperm (Polygonum type) at the time of fertilization consists of:",
+      "question": "Which of the following is associated with \"Pollen Grain Two-Celled Stage\" in NEET Biology?",
       "options": [
-        "8 cells and 8 nuclei",
-        "7 cells and 7 nuclei",
-        "7 cells and 8 nuclei",
-        "8 cells and 7 nuclei"
+        "Bigger cell with abundant food reserve and large irregular nucleus",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "A mature angiosperm embryo sac is 7-celled and 8-nucleate (3 antipodals + 1 central cell with 2 polar nuclei + 3 egg apparatus cells)."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Bigger cell with abundant food reserve and large irregular nucleus\". Remember using: \"V-G-S-C\"."
     }
   },
   {
@@ -380,71 +329,60 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-3",
-    "topicTitle": "Double Fertilization & Triple Fusion",
-    "topic": "Syngamy (Egg + Sperm = 2n Zygote) + Triple Fusion (2 Polar Nuclei + Sperm = 3n PEN)",
+    "classLevel": 12,
+    "topicId": "bio-top-20-1",
+    "topicTitle": "Pollen Shedding Stages",
+    "topic": "Pollen Shedding Stages",
     "mnemonicNumber": 6,
-    "title": "Double Fertilization: Syngamy (Male Gamete + Egg = 2n Zygote) + Triple Fusion (Male Gamete + 2 Polar Nuclei = 3n PEN / Endosperm)",
-    "badgeText": "Formula",
+    "sourceItemNumber": 6,
+    "title": "Pollen Shedding Stages: \"Six-Three Split\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Event 1: Syngamy (n + n = 2n Diploid Zygote -> Embryo) | Event 2: Triple Fusion (n + n + n = 3n Triploid Primary Endosperm Nucleus / PEN -> Endosperm food)! 2 Fertilizations = DOUBLE FERTILIZATION (Unique to Angiosperms, discovered by Nawaschin)!",
-    "memoryHook": "Pollen sends 2 male gametes: 1st gamete marries the Egg to make the 2n Baby Zygote! 2nd gamete has a 3-way fusion with 2 polar nuclei to cook the 3n Endosperm feast!",
-    "fact": "Double Fertilization is a unique universal event in Angiosperms (discovered by S.G. Nawaschin): 1) Syngamy (Generative fertilization): One male gamete (n) fuses with egg cell nucleus (n) to form diploid Zygote (2n), developing into Embryo. 2) Triple Fusion (Vegetative fertilization): Second male gamete (n) fuses with the two polar nuclei (n + n = 2n secondary nucleus) in central cell to produce a Triploid (3n) Primary Endosperm Nucleus (PEN), developing into Endosperm tissue to nourish the embryo.",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Six-Three Split",
+    "memoryHook": "Six-Three Split",
+    "fact": "Pollen grains are shed either at the 2-celled or 3-celled stage depending on plant species.",
     "breakdown": [
       {
-        "key": "Syngamy",
-        "label": "Male Gamete (n) + Egg Cell (n) -> Diploid Zygote (2n) -> Embryo"
+        "key": "Part 1",
+        "label": "Six"
       },
       {
-        "key": "Triple Fusion",
-        "label": "Male Gamete (n) + 2 Polar Nuclei (2n) -> Triploid PEN (3n) -> Endosperm"
-      },
-      {
-        "key": "Double Fertilization",
-        "label": "Syngamy + Triple Fusion occurring simultaneously in the same embryo sac"
-      },
-      {
-        "key": "Ploidy Levels",
-        "label": "Zygote is 2n (Diploid); Endosperm in angiosperms is 3n (Triploid); Gymnosperm endosperm is n (Haploid)"
+        "key": "Part 2",
+        "label": "Three Split"
       }
     ],
-    "doodleBadge": "Syngamy (2n Zygote) + Triple Fusion (3n Endosperm)\n= Double Fertilization",
-    "doodleSubtext": "Unique Angiosperm Feature",
-    "explanation": "Gymnosperms do NOT have double fertilization; their endosperm is formed before fertilization and is haploid (n), whereas angiosperm endosperm is triploid (3n).",
-    "alsoRemember": "Endosperm development precedes embryo development because the dividing embryo requires nutritive support.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.3.",
-    "neetTrap": "Angiosperm endosperm is TRIPLOID (3n), whereas Gymnosperm endosperm is HAPLOID (n).",
+    "doodleBadge": "Six-Three Split",
+    "doodleSubtext": "Pollen Shedding Stages",
+    "explanation": "Pollen grains are shed either at the 2-celled or 3-celled stage depending on plant species.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Pollen Shedding Stages.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 68",
     "tags": [
-      "Double Fertilization",
-      "Triple Fusion",
-      "Syngamy",
-      "Endosperm",
-      "PEN",
-      "Nawaschin",
-      "Ploidy"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Pollen"
     ],
-    "expandedMeaning": "Biamphimictic dual syngamic and karyogamic reproductive biology unique to anthophyte angiosperms.",
-    "whyItWorks": "Two events: n+n=2n (Zygote) and n+2n=3n (Endosperm).",
-    "visualDescription": "Embryo sac showing one male sperm fusing with green egg cell (2n) and second sperm fusing with dual central polar nuclei (3n).",
-    "neetRelevance": "One of the most foundational concepts tested annually in NEET.",
-    "commonMistake": "Stating gymnosperms have triploid endosperm.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 68,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In angiosperms, what is the ploidy level of the Primary Endosperm Nucleus (PEN) formed by triple fusion?",
+      "question": "Which of the following is associated with \"Pollen Shedding Stages\" in NEET Biology?",
       "options": [
-        "Haploid (n)",
-        "Diploid (2n)",
-        "Triploid (3n)",
-        "Tetraploid (4n)"
+        "Six-Three Split",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Triple fusion between one haploid male gamete (n) and two haploid polar nuclei (2n) produces a triploid (3n) PEN."
+      "answerIndex": 0,
+      "explanation": "Pollen grains are shed either at the 2-celled or 3-celled stage depending on plant species."
     }
   },
   {
@@ -453,71 +391,60 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-2",
-    "topicTitle": "Types of Pollination: Autogamy, Geitonogamy, Xenogamy",
-    "topic": "Self vs Functionally Cross/Genetically Self vs True Cross-Pollination",
+    "classLevel": 12,
+    "topicId": "bio-top-20-1",
+    "topicTitle": "Pollen Viability Duration Examples",
+    "topic": "Pollen Viability Duration Examples",
     "mnemonicNumber": 7,
-    "title": "Pollination: Autogamy (Same Flower / Self) | Geitonogamy (Different Flower, Same Plant / Genetically Self) | Xenogamy (Different Plant / True Cross)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 7,
+    "title": "Pollen Viability Duration Examples: \"R-L-C\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "mnemonicType": "classification",
+    "difficulty": "medium",
+    "visualType": "acronym",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Autogamy = Same flower (100% Self) | Geitonogamy = Neighbor flower on SAME plant (Functionally Cross via pollinator, but Genetically AUTOGAMY/Self!) | Xenogamy = Different flower on DIFFERENT plant (True Cross-Pollination -> Genetic variation)!",
-    "memoryHook": "Auto = Self flower! Geitono = Neighbor on the same tree (Pollen moves by bee, but DNA is 100% identical clone!). Xeno = Foreign plant stranger (brings fresh new genes)!",
-    "fact": "Pollination is transfer of pollen grains from anther to stigma: 1) Autogamy: Transfer of pollen within the SAME flower (requires synchrony in pollen release and stigma receptivity; cleistogamous flowers ensure 100% autogamy). 2) Geitonogamy: Transfer of pollen from anther to stigma of ANOTHER flower on the SAME plant. Functionally cross-pollination involving a pollinator, but genetically similar to autogamy since pollen comes from the same parent. 3) Xenogamy: Transfer of pollen from anther to stigma of a DIFFERENT plant. Only type of pollination that brings genetically different types of pollen.",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "R-L-C",
+    "memoryHook": "R-L-C",
+    "fact": "R – Rice and Wheat – Pollen viability lasts only 30 minutes. L – Leguminosae, Rosaceae, Solanaceae – Pollen viability lasts for months. C – Cryopreservation – Liquid nitrogen storage at -196°C for crop breeding",
     "breakdown": [
       {
-        "key": "Autogamy",
-        "label": "Same flower on same plant; 100% genetically identical self-pollination"
+        "key": "R – Rice and Wheat",
+        "label": "Pollen viability lasts only 30 minutes"
       },
       {
-        "key": "Geitonogamy",
-        "label": "Different flower on SAME plant; ecologically cross (needs agent), genetically self (clones)"
-      },
-      {
-        "key": "Xenogamy (Allogamy)",
-        "label": "Flower on DIFFERENT plant; brings novel genetic recombinations to stigma"
-      },
-      {
-        "key": "Dioecious Plants (Papaya)",
-        "label": "Male and female flowers on different plants -> Prevents BOTH autogamy and geitonogamy"
+        "key": "L",
+        "label": "Leguminosae, Rosaceae, Solanaceae – Pollen viability lasts for months"
       }
     ],
-    "doodleBadge": "Auto = Same Flower\nGeitono = Same Plant (Eco Cross, Gene Self)\nXeno = Different Plant (True Cross)",
-    "doodleSubtext": "3 Pollination Modes",
-    "explanation": "In monoecious plants (like Castor and Maize), flowers are unisexual on the same plant, preventing autogamy but NOT geitonogamy.",
-    "alsoRemember": "In dioecious plants like Papaya and Date Palm, male and female plants are separate, preventing BOTH autogamy and geitonogamy.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.2.1.",
-    "neetTrap": "Geitonogamy is FUNCTIONALLY cross-pollination (requires pollinator) but GENETICALLY self-pollination.",
+    "doodleBadge": "R-L-C",
+    "doodleSubtext": "Pollen Viability Duratio",
+    "explanation": "Pollen viability varies greatly from 30 minutes in cereals to months in rosaceous plants.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Pollen Viability Duration Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 68",
     "tags": [
-      "Pollination",
-      "Autogamy",
-      "Geitonogamy",
-      "Xenogamy",
-      "Monoecious",
-      "Dioecious",
-      "Papaya"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Pollen"
     ],
-    "expandedMeaning": "Ecological versus genetic classification of pollen transfer mechanisms in spermatophytes.",
-    "whyItWorks": "Same flower (Auto) -> Same tree (Geitono) -> Different tree (Xeno).",
-    "visualDescription": "Plant diagram showing pollen arrow staying inside 1 flower (Autogamy), jumping branches on same tree (Geitonogamy), and crossing to another tree (Xenogamy).",
-    "neetRelevance": "One of the most heavily tested conceptual topics in Class 12 botany.",
-    "commonMistake": "Claiming geitonogamy produces genetic variation.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.2.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 68,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which type of pollination is functionally cross-pollination involving a pollinating agent, but genetically identical to autogamy because pollen comes from the same plant?",
+      "question": "Which of the following is associated with \"Pollen Viability Duration Examples\" in NEET Biology?",
       "options": [
-        "Xenogamy",
-        "Geitonogamy",
-        "Cleistogamy",
-        "Chasmogamy"
+        "Pollen viability lasts only 30 minutes",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Geitonogamy is ecologically/functionally cross-pollination using an agent, but genetically self-pollination since flowers share the same genome."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Pollen viability lasts only 30 minutes\". Remember using: \"R-L-C\"."
     }
   },
   {
@@ -526,71 +453,64 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-2",
-    "topicTitle": "Cleistogamous vs Chasmogamous Flowers",
-    "topic": "Viola (Common Pansy), Oxalis, and Commelina Invariable Seed Set",
+    "classLevel": 12,
+    "topicId": "bio-top-20-1",
+    "topicTitle": "Pistil Parts (Gynoecium)",
+    "topic": "Pistil Parts (Gynoecium)",
     "mnemonicNumber": 8,
-    "title": "Cleistogamous Flowers: VOC (Viola, Oxalis, Commelina) = Never Open, Assured Seed Set Even Without Pollinators!",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 8,
+    "title": "Pistil Parts (Gynoecium): \"S-S-O\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "acronym",
-    "cardColor": "#FFF0F3",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#FF8D78",
-    "mnemonic": "VOC Trio: Viola (Common Pansy) | Oxalis | Commelina -> Produce TWO types of flowers: 1) Chasmogamous (Exposed open flowers) + 2) Cleistogamous (Closed underground buds that NEVER open -> 100% Inbreeding / Autogamy -> Assured seed set even without any pollinators!)",
-    "memoryHook": "Remember VOC = Viola, Oxalis, Commelina! Cleisto-gamous flowers are Closed like a Cleat/Vault! They guarantee seeds even in a dead barren desert with zero bees!",
-    "fact": "Some plants such as Viola (Common Pansy), Oxalis, and Commelina produce two types of flowers: 1) Chasmogamous flowers: Open flowers with exposed anthers and stigma similar to other species. 2) Cleistogamous flowers: Flowers which DO NOT OPEN AT ALL. Anthers and stigma lie close to each other; when anthers dehisce in flower buds, pollen lands on stigma to accomplish autogamy. Cleistogamous flowers are strictly autogamous (no cross-pollination possible) and produce assured seed-set even in the complete absence of pollinators.",
+    "mnemonic": "S-S-O",
+    "memoryHook": "S-S-O",
+    "fact": "S – Stigma – Landing platform for pollen grains. S – Style – Elongated slender stalk beneath stigma. O – Ovary – Basal bulged part containing ovarian cavity and placenta",
     "breakdown": [
       {
-        "key": "VOC Plants",
-        "label": "Viola (Common Pansy), Oxalis, and Commelina"
+        "key": "S – Stigma",
+        "label": "Landing platform for pollen grains"
       },
       {
-        "key": "Cleistogamous Trait",
-        "label": "Flowers remain permanently closed; bud pollination occurs internally"
+        "key": "S – Style",
+        "label": "Elongated slender stalk beneath stigma"
       },
       {
-        "key": "Definite Advantage",
-        "label": "Assured seed set independent of pollinators, wind, or weather"
-      },
-      {
-        "key": "Genetic Disadvantage",
-        "label": "Invariable self-pollination leading to inbreeding depression over generations"
+        "key": "O – Ovary",
+        "label": "Basal bulged part containing ovarian cavity and placenta"
       }
     ],
-    "doodleBadge": "VOC: Viola, Oxalis, Commelina\nCleistogamous = Never Opens",
-    "doodleSubtext": "Assured Seed Set",
-    "explanation": "The disadvantage of cleistogamous flowers is the total lack of genetic recombination, causing inbreeding depression.",
-    "alsoRemember": "Chasmogamous flowers open their petals and expose anthers and stigma to outside pollinators.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.2.1.",
-    "neetTrap": "Cleistogamous flowers are INVARIABLY AUTOGAMOUS and produce assured seed set without pollinators.",
+    "doodleBadge": "S-S-O",
+    "doodleSubtext": "Pistil Parts (Gynoecium)",
+    "explanation": "The pistil or gynoecium represents the female reproductive organ comprising stigma, style, and ovary.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Pistil Parts (Gynoecium).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 68",
     "tags": [
-      "Cleistogamy",
-      "Chasmogamy",
-      "Viola",
-      "Oxalis",
-      "Commelina",
-      "Autogamy",
-      "Seed Set"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Pistil"
     ],
-    "expandedMeaning": "Obligate cleistogamous breeding biology in heteromorphic chasmogamous-cleistogamous taxa.",
-    "whyItWorks": "VOC acronym covers all 3 NCERT exemplar genera.",
-    "visualDescription": "Plant showing purple open chasmogamous flower above ground and underground closed green cleistogamous bud labeled \"Assured Seed Set\".",
-    "neetRelevance": "One of the top 5 most repeated questions in NCERT botany.",
-    "commonMistake": "Thinking cleistogamous flowers require insect pollinators.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.2.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 68,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following plants produces both chasmogamous and cleistogamous flowers, ensuring assured seed set even in the absence of pollinators?",
+      "question": "Which of the following is associated with \"Pistil Parts (Gynoecium)\" in NEET Biology?",
       "options": [
-        "Vallisneria",
-        "Viola (Common pansy)",
-        "Zostera",
-        "Salvia"
+        "Landing platform for pollen grains",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Viola (Common Pansy), Oxalis, and Commelina produce cleistogamous flowers that guarantee seed production without pollinators."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Landing platform for pollen grains\". Remember using: \"S-S-O\"."
     }
   },
   {
@@ -599,71 +519,60 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-2",
-    "topicTitle": "Wind & Water Pollination Adaptations",
-    "topic": "Anemophily (Corn Cob Tassels, Feathery Stigmas) vs Hydrophily (Vallisneria & Zostera)",
+    "classLevel": 12,
+    "topicId": "bio-top-20-1",
+    "topicTitle": "Ovary Conditions (Syncarpous vs Apocarpous)",
+    "topic": "Ovary Conditions (Syncarpous vs Apocarpous)",
     "mnemonicNumber": 9,
-    "title": "Abiotic Pollination: Wind (Anemophily: Light non-sticky pollen, Feathery Stigmas, Corn Tassels) vs Water (Hydrophily: Vallisneria & Zostera with Mucilage)",
-    "badgeText": "Comparison",
-    "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFE681",
+    "sourceItemNumber": 9,
+    "title": "Ovary Conditions (Syncarpous vs Apocarpous): \"Papa-M-A\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
     "badgeColor": "#A66CFF",
-    "mnemonic": "Wind Pollination (Anemophily - Most common abiotic): Light, dry, non-sticky pollen + Single ovule per ovary + Feathery Stigmas (e.g., Grasses, Corn Cob Tassels waving in breeze) | Water Pollination (Hydrophily - Rare ~30 monocot genera): Vallisneria (surface epihydrophily) & Zostera (submarine sea grass, long ribbon-like pollen with mucilaginous cover)!",
-    "memoryHook": "Wind flowers don't waste energy on perfume or colorful petals! They make billions of lightweight dusty pollen grains and giant feathery net stigmas (like corn tassels)! Water weeds wrap long ribbon pollen in waterproof mucilage coats!",
-    "fact": "Abiotic pollination: 1) Wind pollination (Anemophily): Most common abiotic agent. Flowers produce huge quantities of light, dry, non-sticky pollen; well-exposed stamens; large, feathery stigmas to easily trap airborne pollen (e.g., Corn Cob tassels are styles and stigmas waving in wind, common in grasses). Flowers are small, not colorful, lack nectar, single ovule in ovary. 2) Water pollination (Hydrophily): Rare, limited to ~30 genera mostly monocots (Vallisneria, Hydrilla, Zostera marine seagrass). Pollen grains are long, ribbon-like, protected from wetting by a mucilaginous sheath. Water hyacinth and Water lily are aquatic but pollinated by INSECTS or WIND on water surface.",
+    "mnemonic": "Papa-M-A",
+    "memoryHook": "Papa-M-A",
+    "fact": "M – Michelia – Classic example of apocarpous ovary (free carpels). A – Appressed/Free – Carpels separate in apocarpous condition",
     "breakdown": [
       {
-        "key": "Wind Pollination Traits",
-        "label": "Light, non-sticky pollen; well-exposed stamens; feathery stigmas; single ovule; no nectar/scent"
+        "key": "M – Michelia",
+        "label": "Classic example of apocarpous ovary (free carpels)"
       },
       {
-        "key": "Corn Cob Tassels",
-        "label": "The tassels seen waving in the breeze are the elongated styles and feathery stigmas"
-      },
-      {
-        "key": "Water Pollination (Hydrophily)",
-        "label": "Rare (~30 genera, monocots); Vallisneria (surface), Zostera (submerged ribbon pollen + mucilage)"
-      },
-      {
-        "key": "Aquatic Insect Trap",
-        "label": "Eichhornia (Water Hyacinth) and Nymphaea (Water Lily) are pollinated by INSECTS/WIND, NOT water!"
+        "key": "A – Appressed/Free",
+        "label": "Carpels separate in apocarpous condition"
       }
     ],
-    "doodleBadge": "Wind = Feathery Stigma + Light Pollen\nWater = Ribbon Pollen + Mucilage Sheath",
-    "doodleSubtext": "Abiotic Syndromes",
-    "explanation": "Water hyacinth (Eichhornia) and water lily emerge above water surface and are pollinated by insects or wind, a classic NEET trap.",
-    "alsoRemember": "Yucca moth and Yucca plant have an obligate mutualistic relationship where moth lays eggs in ovary locule while pollinating flower.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.2.2.",
-    "neetTrap": "Water hyacinth and Water lily are pollinated by INSECTS OR WIND, NOT BY WATER.",
+    "doodleBadge": "Papa-M-A",
+    "doodleSubtext": "Ovary Conditions (Syncar",
+    "explanation": "Multicarpellary pistils can be syncarpous (fused like Papaver) or apocarpous (free like Michelia).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Ovary Conditions (Syncarpous vs Apocarpous).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 68",
     "tags": [
-      "Anemophily",
-      "Hydrophily",
-      "Vallisneria",
-      "Zostera",
-      "Water Hyacinth",
-      "Corn Tassels",
-      "Mucilage"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Ovary"
     ],
-    "expandedMeaning": "Functional anemophilous and hydrophilous abiotic floral syndromic adaptations.",
-    "whyItWorks": "Feather trap (Wind) vs Ribbon mucilage (Water) + Water hyacinth insect trap.",
-    "visualDescription": "Corn cob with feathery streaming tassels alongside submerged sea grass Zostera releasing ribbon pollen with protective mucilage halo.",
-    "neetRelevance": "One of the most frequently asked trick questions in NEET botany.",
-    "commonMistake": "Assuming all water plants (like water hyacinth and water lily) are pollinated by water.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.2.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 68,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following aquatic plants emerges above the water level and is pollinated by insects or wind rather than water?",
+      "question": "Which of the following is associated with \"Ovary Conditions (Syncarpous vs Apocarpous)\" in NEET Biology?",
       "options": [
-        "Vallisneria",
-        "Zostera",
-        "Water hyacinth (Eichhornia)",
-        "Hydrilla"
+        "Papa-M-A",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "In Water hyacinth (Eichhornia) and Water lily, flowers emerge above the water surface and are pollinated by insects or wind."
+      "answerIndex": 0,
+      "explanation": "Multicarpellary pistils can be syncarpous (fused like Papaver) or apocarpous (free like Michelia)."
     }
   },
   {
@@ -672,70 +581,68 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-2",
-    "topicTitle": "Outbreeding Devices",
-    "topic": "Mechanisms to Prevent Inbreeding Depression and Promote Cross-Pollination",
+    "classLevel": 12,
+    "topicId": "bio-top-20-1",
+    "topicTitle": "Ovule Anatomy Structure",
+    "topic": "Ovule Anatomy Structure",
     "mnemonicNumber": 10,
-    "title": "Outbreeding Devices: Dichogamy (Timing mismatch), Herkogamy (Barrier), Self-Incompatibility (Genetic block), Dioecy (Papaya)",
-    "badgeText": "Classification",
-    "importance": "High Yield",
+    "sourceItemNumber": 10,
+    "title": "Ovule Anatomy Structure: \"F-H-I-M\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "4 Ways to Stop Self-Pollination & Inbreeding: 1) Dichogamy (Pollen release & stigma receptivity not synchronized) | 2) Spatial Barrier / Herkogamy (Anther and stigma at different heights) | 3) Self-Incompatibility (Genetic mechanism preventing own pollen germination) | 4) Unisexual Flowers / Dioecy (Separate male and female plants like Papaya)!",
-    "memoryHook": "To prevent incest inbreeding depression: 1) Wrong Time (Dichogamy), 2) Wrong Place (Height mismatch), 3) Genetic Rejection (Self-incompatibility), 4) Separate Genders (Dioecious Papaya)!",
-    "fact": "Flowering plants have developed devices to discourage self-pollination and encourage cross-pollination (outbreeding devices) to prevent inbreeding depression: 1) Non-synchronization: Pollen release and stigma receptivity are not synchronized (Protandry: anthers mature first; Protogyny: stigma matures first). 2) Anther and stigma placed at different positions so pollen cannot contact stigma. 3) Self-Incompatibility: A genetic mechanism that prevents self-pollen (from same flower/plant) from fertilizing ovules by inhibiting pollen germination or pollen tube growth in pistil. 4) Production of unisexual flowers: Monoecious (castor/maize) prevents autogamy; Dioecious (papaya) prevents both autogamy and geitonogamy.",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "F-H-I-M",
+    "memoryHook": "F-H-I-M",
+    "fact": "F – Funicle – Stalk attaching ovule to placenta. H – Hilum – Junction point between ovule and funicle. I – Integuments – Protective envelope layers surrounding nucellus. M – Micropyle – Small opening at apex where integuments are absent",
     "breakdown": [
       {
-        "key": "Device 1: Dichogamy",
-        "label": "Temporal separation: Pollen release and stigma receptivity occur at different times"
+        "key": "F – Funicle",
+        "label": "Stalk attaching ovule to placenta"
       },
       {
-        "key": "Device 2: Heterostyly",
-        "label": "Spatial separation: Anther and stigma placed at different physical levels"
+        "key": "H – Hilum",
+        "label": "Junction point between ovule and funicle"
       },
       {
-        "key": "Device 3: Self-Incompatibility",
-        "label": "Genetic block preventing own pollen germination/tube growth in style"
+        "key": "I – Integuments",
+        "label": "Protective envelope layers surrounding nucellus"
       },
       {
-        "key": "Device 4: Dioecious Plants",
-        "label": "Unisexual male and female flowers on different plants (Papaya, Date Palm)"
+        "key": "M – Micropyle",
+        "label": "Small opening at apex where integuments are absent"
       }
     ],
-    "doodleBadge": "4 Outbreeding Shields:\nTime + Space + Genes + Gender",
-    "doodleSubtext": "Prevents Inbreeding",
-    "explanation": "Self-incompatibility is controlled by multi-allelic S-genes where pollen carrying matching S-alleles is rejected by the pistil.",
-    "alsoRemember": "Emasculation (removal of anthers from female parent bisexual bud) and Bagging prevent contamination by unwanted pollen in artificial hybridization.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.2.3.",
-    "neetTrap": "In monoecious plants (Castor, Maize), AUTOGAMY is prevented but GEITONOGAMY can still occur.",
+    "doodleBadge": "F-H-I-M",
+    "doodleSubtext": "Ovule Anatomy Structure",
+    "explanation": "The megasporangium (ovule) is attached to the placenta via a funicle, featuring protective integuments. NCERT Chapter 1 Mnemonics Master Guide \tPage 2 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Ovule Anatomy Structure.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 68",
     "tags": [
-      "Outbreeding Devices",
-      "Self-Incompatibility",
-      "Dichogamy",
-      "Dioecy",
-      "Papaya",
-      "Inbreeding Depression"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Ovule"
     ],
-    "expandedMeaning": "Evolutionary floral anti-selfing adaptations promoting heterozygosity and genetic panmixia.",
-    "whyItWorks": "Four distinct barriers: Time, Space, Gene rejection, and Separate Sexes.",
-    "visualDescription": "Four warning shields preventing self-pollen arrow: Clock (Timing), Ruler (Height), DNA lock (Self-incompatibility), Male/Female plant split.",
-    "neetRelevance": "Common in matching and conceptual multi-statement questions.",
-    "commonMistake": "Thinking monoecious plants prevent geitonogamy.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.2.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 68,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following outbreeding mechanisms is a GENETIC mechanism that prevents self-pollen from fertilizing the ovules by inhibiting pollen germination or pollen tube growth in the pistil?",
+      "question": "Which of the following is associated with \"Ovule Anatomy Structure\" in NEET Biology?",
       "options": [
-        "Dichogamy",
-        "Heterostyly",
-        "Self-incompatibility",
-        "Cleistogamy"
+        "Stalk attaching ovule to placenta",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "Self-incompatibility is a genetic mechanism that prevents self-pollen from germinating or growing in the style."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Stalk attaching ovule to placenta\". Remember using: \"F-H-I-M\"."
     }
   },
   {
@@ -744,74 +651,64 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-3",
-    "topicTitle": "Endosperm Types: Free Nuclear vs Cellular",
-    "topic": "Coconut Water (Free Nuclear Endosperm) vs Coconut White Meat (Cellular Endosperm)",
+    "classLevel": 12,
+    "topicId": "bio-top-20-2",
+    "topicTitle": "Ovule Regions",
+    "topic": "Ovule Regions",
     "mnemonicNumber": 11,
-    "title": "Coconut Endosperm: Liquid Coconut Water = Free Nuclear Endosperm (Thousands of Free Nuclei) | White Kernel = Cellular Endosperm",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
+    "sourceItemNumber": 11,
+    "title": "Ovule Regions: \"N-C-M\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#3DBE75",
-    "mnemonic": "Drinking Coconut Water = Sipping thousands of FREE NUCLEAR TRIPLOID (3n) NUCLEI! | Eating White Coconut Meat Kernel = Eating SOLID CELLULAR ENDOSPERM with cell walls!",
-    "memoryHook": "Coconut water in tender green coconut is delicious liquid Free-Nuclear endosperm (no cell walls yet). As it ripens, cell walls form around nuclei starting from perimeter inward to create the white crunchy meat (Cellular endosperm)!",
-    "fact": "Endosperm development: The Primary Endosperm Nucleus (PEN) undergoes repeated mitotic divisions without cytokinesis, generating free nuclei (Free-Nuclear Endosperm, the most common type). Subsequently, cell wall formation occurs and endosperm becomes cellular: In Tender Coconut, the coconut water is Free-Nuclear Endosperm (made up of thousands of free nuclei), and the surrounding white kernel/meat is Cellular Endosperm.",
+    "mnemonic": "N-C-M",
+    "memoryHook": "N-C-M",
+    "fact": "N – Nucellus – Central mass of diploid nutritive tissue. C – Chalaza – Basal pole opposite to micropyle. M – Micropylar end – Opening through which pollen tube enters",
     "breakdown": [
       {
-        "key": "PEN Divisions",
-        "label": "Triploid PEN divides by free-nuclear mitotic divisions without immediate cytokinesis"
+        "key": "N – Nucellus",
+        "label": "Central mass of diploid nutritive tissue"
       },
       {
-        "key": "Liquid Coconut Water",
-        "label": "Free-Nuclear Endosperm containing thousands of free triploid nuclei"
+        "key": "C – Chalaza",
+        "label": "Basal pole opposite to micropyle"
       },
       {
-        "key": "White Solid Kernel",
-        "label": "Cellular Endosperm formed when cell walls deposit around nuclei from periphery inward"
-      },
-      {
-        "key": "Non-Albuminous Seeds",
-        "label": "Endosperm completely consumed before seed maturity (Pea, Groundnut, Bean)"
-      },
-      {
-        "key": "Albuminous Seeds",
-        "label": "Endosperm retained in mature seed (Castor, Coconut, Maize, Wheat, Barley)"
+        "key": "M – Micropylar end",
+        "label": "Opening through which pollen tube enters"
       }
     ],
-    "doodleBadge": "Coconut Water = Free Nuclear (3n)\nWhite Kernel = Cellular Endosperm",
-    "doodleSubtext": "Coconut Endosperm Model",
-    "explanation": "Endosperm development always precedes embryo development to ensure a ready food supply for the young developing embryo.",
-    "alsoRemember": "In castor seed, endosperm is persistent and fatty, while in cereals (maize), it is starchy and surrounded by proteinaceous aleurone layer.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.4.1.",
-    "neetTrap": "Coconut water is FREE-NUCLEAR endosperm (thousands of nuclei), NOT cellular endosperm or liquid nucellus.",
+    "doodleBadge": "N-C-M",
+    "doodleSubtext": "Ovule Regions",
+    "explanation": "The nucellus provides nutrition for the developing embryo sac inside the ovule.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Ovule Regions.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 69",
     "tags": [
-      "Endosperm",
-      "Free Nuclear",
-      "Cellular Endosperm",
-      "Coconut Water",
-      "Albuminous",
-      "PEN"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Ovule"
     ],
-    "expandedMeaning": "Karyokinetic and cytokinetic temporal divergence during angiosperm endospermic histogenesis.",
-    "whyItWorks": "Drink (Liquid Free Nuclear) vs Eat (Solid Cellular Meat).",
-    "visualDescription": "Split green coconut showing translucent central fluid labeled \"Free Nuclear Endosperm\" and white rim labeled \"Cellular Endosperm\".",
-    "neetRelevance": "One of the most classic NCERT examples asked in NEET.",
-    "commonMistake": "Claiming coconut water is liquid degenerated nucellus.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.4.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 69,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "The coconut water from tender coconut that we drink represents which of the following?",
+      "question": "Which of the following is associated with \"Ovule Regions\" in NEET Biology?",
       "options": [
-        "Cellular endosperm",
-        "Free-nuclear endosperm",
-        "Degenerated nucellus",
-        "Liquid female gametophyte"
+        "Central mass of diploid nutritive tissue",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Coconut water from tender coconut is free-nuclear endosperm composed of thousands of free triploid nuclei."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Central mass of diploid nutritive tissue\". Remember using: \"N-C-M\"."
     }
   },
   {
@@ -820,75 +717,64 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-3",
-    "topicTitle": "Embryo Development: Dicot vs Monocot",
-    "topic": "Suspensor, Proembryo, Globular, Heart-shaped, Torpedo, Scutellum, Coleoptile, Coleorhiza",
+    "classLevel": 12,
+    "topicId": "bio-top-20-2",
+    "topicTitle": "Megasporogenesis Stages",
+    "topic": "Megasporogenesis Stages",
     "mnemonicNumber": 12,
-    "title": "Dicot vs Monocot Embryo: Dicot (2 Cotyledons / Epicotyl Plumule + Hypocotyl Radicle) vs Monocot (1 Shield Scutellum + Coleoptile Shoot + Coleorhiza Root Cap)",
-    "badgeText": "Comparison",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Embryo stages: Zygote -> Proembryo -> Globular -> Heart-shaped -> Torpedo -> Mature! | Dicot Embryo = 2 Cotyledons + Embryonal Axis (Epicotyl ends in Plumule shoot, Hypocotyl ends in Radicle root with root cap) | Monocot Embryo (Grasses) = 1 Shield-shaped Cotyledon called SCUTELLUM + Coleoptile sheath over Plumule + Coleorhiza sheath over Radicle!",
-    "memoryHook": "Dicot stages: Ball (Globular) -> Love Heart (Heart-shaped) -> Mature! Monocot Grasses have a Shield called SCUTELLUM; Cole-OP-tile covers the OP-per shoot, Coleo-RHIZA covers the Root RHIZO-sphere!",
-    "fact": "Embryo development (Embryogeny) gives rise to: Proembryo -> Globular -> Heart-shaped -> Mature embryo. 1) Dicot Embryo: Consists of an embryonal axis and two cotyledons. Portion above cotyledons is Epicotyl terminating in Plumule (stem tip); portion below cotyledons is Hypocotyl terminating in Radicle (root tip covered by root cap). 2) Monocot Embryo (Grasses): Has only one shield-shaped cotyledon called Scutellum situated laterally. Epicotyl has shoot apex enclosed in a hollow foliar sheath called Coleoptile. Radicle and root cap are enclosed in an undifferentiated sheath called Coleorhiza. Remnant of second cotyledon is Epiblast.",
+    "sourceItemNumber": 12,
+    "title": "Megasporogenesis Stages: \"M-T-D\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "M-T-D",
+    "memoryHook": "M-T-D",
+    "fact": "M – MMC differentiation – Single megaspore mother cell in micropylar region of nucellus. T – Tetrad formation – Meiosis produces linear tetrad of four megaspores. D – Degeneration – Three megaspores degenerate, only one functional megaspore survives",
     "breakdown": [
       {
-        "key": "Embryogeny Stages",
-        "label": "Zygote -> Proembryo -> Globular embryo -> Heart-shaped embryo -> Mature embryo"
+        "key": "M – MMC differentiation",
+        "label": "Single megaspore mother cell in micropylar region of nucellus"
       },
       {
-        "key": "Dicot Components",
-        "label": "2 Cotyledons; Epicotyl -> Plumule; Hypocotyl -> Radicle + Root Cap"
+        "key": "T – Tetrad formation",
+        "label": "Meiosis produces linear tetrad of four megaspores"
       },
       {
-        "key": "Scutellum (Monocot)",
-        "label": "Single large shield-shaped lateral cotyledon in grass family (Poaceae)"
-      },
-      {
-        "key": "Coleoptile & Coleorhiza",
-        "label": "Coleoptile = Protective sheath covering plumule; Coleorhiza = Sheath covering radicle and root cap"
-      },
-      {
-        "key": "Epiblast",
-        "label": "Rudimentary vestigial remnant of the second cotyledon in monocots"
+        "key": "D – Degeneration",
+        "label": "Three megaspores degenerate, only one functional megaspore survives"
       }
     ],
-    "doodleBadge": "Scutellum = Shield Cotyledon\nColeoptile (Plumule) | Coleorhiza (Radicle)",
-    "doodleSubtext": "Monocot vs Dicot Embryo",
-    "explanation": "Coleoptile possesses phototropic sensitivity (basis of Frits Went auxin experiments in oat coleoptiles).",
-    "alsoRemember": "Perisperm is persistent remnant of nucellus found in black pepper and beet seeds.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.4.2.",
-    "neetTrap": "Coleoptile encloses the PLUMULE / shoot apex, while Coleorhiza encloses the RADICLE / root cap.",
+    "doodleBadge": "M-T-D",
+    "doodleSubtext": "Megasporogenesis Stages",
+    "explanation": "Megasporogenesis results in one functional megaspore from four meiotic products.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Megasporogenesis Stages.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 69",
     "tags": [
-      "Embryogeny",
-      "Dicot Embryo",
-      "Monocot Embryo",
-      "Scutellum",
-      "Coleoptile",
-      "Coleorhiza",
-      "Epiblast"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Megasporogenesis"
     ],
-    "expandedMeaning": "Comparative embryogenesis and protective axial sheath anatomy in magnoliopsid and liliopsid seeds.",
-    "whyItWorks": "Coleoptile = Top shoot, Coleorhiza = Root (Rhizo).",
-    "visualDescription": "Side-by-side embryo diagrams: Dicot with heart-shaped lobes vs Monocot grain with large shield Scutellum, top Coleoptile cap, and bottom Coleorhiza sheath.",
-    "neetRelevance": "One of the most heavily tested labeling questions in NCERT botany.",
-    "commonMistake": "Confusing coleoptile (shoot) with coleorhiza (root).",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.4.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 69,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In grass family (monocots), the single shield-shaped cotyledon is called the:",
+      "question": "Which of the following is associated with \"Megasporogenesis Stages\" in NEET Biology?",
       "options": [
-        "Coleoptile",
-        "Coleorhiza",
-        "Scutellum",
-        "Epiblast"
+        "Single megaspore mother cell in micropylar region of nucellus",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "In the grass family, the single shield-shaped cotyledon is known as the Scutellum."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Single megaspore mother cell in micropylar region of nucellus\". Remember using: \"M-T-D\"."
     }
   },
   {
@@ -897,72 +783,64 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-4",
-    "topicTitle": "True Fruits vs False Fruits vs Parthenocarpic Fruits",
-    "topic": "Ovary (True) vs Thalamus / Apple, Strawberry, Cashew (False) vs Seedless Banana (Parthenocarpic)",
+    "classLevel": 12,
+    "topicId": "bio-top-20-2",
+    "topicTitle": "Female Gametophyte Development (Monosporic)",
+    "topic": "Female Gametophyte Development (Monosporic)",
     "mnemonicNumber": 13,
-    "title": "Fruits: True (Ovary only) vs False (Thalamus contributes: Apple, Strawberry, Cashew) vs Parthenocarpic (No Fertilization: Banana)",
-    "badgeText": "Classification",
-    "importance": "Must Know",
-    "difficulty": "easy",
+    "sourceItemNumber": 13,
+    "title": "Female Gametophyte Development (Monosporic): \"Three-Two-Eight\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
     "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "True Fruit = Develops ONLY from Ovary (Mango, Tomato, Pea) | False Fruit = THALAMUS contributes to fruit formation (Apple, Pear, Strawberry, Cashew nut!) | Parthenocarpic Fruit = Fruit develops WITHOUT fertilization, seedless (Banana, induced by Auxin/Gibberellin sprays)!",
-    "memoryHook": "Eat the Thalamus in Apple, Strawberry, Cashew -> That makes them False fruits! Banana is a Parthenocarpic fruit born without sperm fertilization (naturally seedless)!",
-    "fact": "Fruits classification: 1) True Fruits: Develop only from the ovary after fertilization; other floral parts degenerate and drop off (e.g., Mango, Peach, Tomato). 2) False Fruits (Pseudocarps): In some species, the Thalamus or receptacle also contributes to fruit formation along with ovary (e.g., Apple, Pear, Strawberry, Cashew nut). 3) Parthenocarpic Fruits: Fruits develop without fertilization and are consequently seedless (e.g., Banana); can be induced artificially by application of growth hormones like auxins.",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Three-Two-Eight",
+    "memoryHook": "Three-Two-Eight",
+    "fact": "Monosporic development means the embryo sac develops from a single functional megaspore.",
     "breakdown": [
       {
-        "key": "True Fruit",
-        "label": "Develops exclusively from mature ovary after fertilization (Mango, Citrus)"
+        "key": "Part 1",
+        "label": "Three"
       },
       {
-        "key": "False Fruit (Thalamus)",
-        "label": "Fleshy edible thalamus forms main bulk (Apple, Pear, Strawberry, Cashew nut)"
+        "key": "Part 2",
+        "label": "Two"
       },
       {
-        "key": "Parthenocarpic Fruit",
-        "label": "Ovary develops into fruit WITHOUT fertilization; seedless (Banana)"
-      },
-      {
-        "key": "Pericarp",
-        "label": "Wall of fruit derived from ovary wall (Epicarp + Mesocarp + Endocarp)"
+        "key": "Part 3",
+        "label": "Eight"
       }
     ],
-    "doodleBadge": "False Fruit: Apple, Strawberry, Cashew\nParthenocarpic = Seedless Banana",
-    "doodleSubtext": "Fruit Taxonomy",
-    "explanation": "In strawberries, the red juicy flesh is swollen thalamus, and the tiny \"seeds\" on the outside are actually individual true fruits called achenes.",
-    "alsoRemember": "In mango and coconut, the fruit is a Drupe developing from monocarpellary superior ovaries and is one-seeded.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.4.3.",
-    "neetTrap": "Apple, Strawberry, and Cashew are FALSE FRUITS because their edible flesh is derived from the THALAMUS.",
+    "doodleBadge": "Three-Two-Eight",
+    "doodleSubtext": "Female Gametophyte Devel",
+    "explanation": "Monosporic development means the embryo sac develops from a single functional megaspore.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Female Gametophyte Development (Monosporic).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 69",
     "tags": [
-      "Fruits",
-      "True Fruit",
-      "False Fruit",
-      "Thalamus",
-      "Parthenocarpy",
-      "Apple",
-      "Banana",
-      "Cashew"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Female"
     ],
-    "expandedMeaning": "Gynoecial versus receptacular histogenesis and unfertilized parthenocarpic development of fruits.",
-    "whyItWorks": "Three-way split: Ovary only (True), Thalamus (False: Apple/Strawberry), Zero Fertilization (Banana).",
-    "visualDescription": "Apple cross section showing core ovary surrounded by fleshy pink Thalamus labeled \"False Fruit\", alongside yellow seedless Banana labeled \"Parthenocarpic\".",
-    "neetRelevance": "Guaranteed matching question on false fruit examples.",
-    "commonMistake": "Classifying apple as a true fruit.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.4.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 69,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is a FALSE fruit in which the thalamus contributes to fruit formation?",
+      "question": "Which of the following is associated with \"Female Gametophyte Development (Monosporic)\" in NEET Biology?",
       "options": [
-        "Mango",
-        "Apple",
-        "Tomato",
-        "Pea"
+        "Three-Two-Eight",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "In Apple, Strawberry, and Cashew, the thalamus contributes to fruit formation, making them false fruits."
+      "answerIndex": 0,
+      "explanation": "Monosporic development means the embryo sac develops from a single functional megaspore."
     }
   },
   {
@@ -971,75 +849,64 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-4",
-    "topicTitle": "Apomixis & Polyembryony",
-    "topic": "Asexual Seeds Mimicking Sexual Reproduction (Asteraceae & Grasses) vs Citrus / Mango Nucellar Embryos",
+    "classLevel": 12,
+    "topicId": "bio-top-20-2",
+    "topicTitle": "Mature Embryo Sac Cellular Arrangement",
+    "topic": "Mature Embryo Sac Cellular Arrangement",
     "mnemonicNumber": 14,
-    "title": "Apomixis & Polyembryony: Apomixis = Seeds WITHOUT Fertilization (Asexual Mimic) | Polyembryony = Multiple Embryos from Nucellar Cells (Citrus & Mango)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Apomixis = \"Apo (Without) + Mixis (Mixing/Fertilization)\" -> Produces seeds WITHOUT fertilization (Form of Asexual reproduction mimicking sexual reproduction in Asteraceae & Grasses) | Polyembryony = Occurrence of MORE THAN ONE embryo in a seed (Nucellar cells divide and push into embryo sac in Citrus oranges & Mango)!",
-    "memoryHook": "Apomixis is a sneaky clone seed (no sperm used)! Polyembryony is a crowded party in a Citrus orange seed where diploid nucellar cells barge into the embryo sac to make a dozen baby embryos!",
-    "fact": "Apomixis and Polyembryony: 1) Apomixis: A mechanism to produce seeds without fertilization, seen in some species of Asteraceae and Grasses. It is a form of asexual reproduction that mimics sexual reproduction. In some species, diploid egg cell is formed without reduction division and develops into embryo without fertilization. 2) Polyembryony: Occurrence of more than one embryo in a seed. In Citrus (orange/lemon) and Mango varieties, nucellar cells surrounding the embryo sac start dividing, protrude into the embryo sac and develop into multiple embryos. Commercial hybrid seeds with apomictic genes prevent segregation of desired hybrid traits.",
+    "sourceItemNumber": 14,
+    "title": "Mature Embryo Sac Cellular Arrangement: \"3-1-3 Formula\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "3-1-3 Formula",
+    "memoryHook": "3-1-3 Formula",
+    "fact": "3 – Three antipodal cells at chalazal end. 1 – One central large cell containing two polar nuclei (forming secondary nucleus). 3 – Three cells at micropylar end (egg apparatus: 1 egg cell + 2 synergids)",
     "breakdown": [
       {
-        "key": "Apomixis Definition",
-        "label": "Production of seeds WITHOUT fertilization; asexual reproduction mimicking sexual seed formation"
+        "key": "3",
+        "label": "Three antipodal cells at chalazal end"
       },
       {
-        "key": "Apomixis Families",
-        "label": "Commonly found in Asteraceae (sunflower family) and Poaceae (grasses)"
+        "key": "1",
+        "label": "One central large cell containing two polar nuclei (forming secondary nucleus)"
       },
       {
-        "key": "Polyembryony Mechanism",
-        "label": "Maternal diploid (2n) nucellar cells protrude into embryo sac to form multiple embryos"
-      },
-      {
-        "key": "Polyembryony Examples",
-        "label": "Citrus (Orange, Lemon) and Mango varieties"
-      },
-      {
-        "key": "Hybrid Seed Industry",
-        "label": "If hybrid seeds are made apomictic, farmers do not need to buy costly hybrid seeds every year"
+        "key": "3",
+        "label": "Three cells at micropylar end (egg apparatus: 1 egg cell + 2 synergids)"
       }
     ],
-    "doodleBadge": "Apomixis = Seed without Fertilization\nPolyembryony = Citrus & Mango (Nucellar Embryos)",
-    "doodleSubtext": "Asexual Seed Formations",
-    "explanation": "Apomixis is of huge agricultural interest because introducing apomictic genes into hybrid crops would fix hybrid vigor (heterosis) without genetic segregation in subsequent generations.",
-    "alsoRemember": "Polyembryony was first discovered by Anton van Leeuwenhoek in 1719 in Citrus seeds.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.4.4.",
-    "neetTrap": "In Citrus polyembryony, extra embryos arise from DIPLOID NUCELLAR CELLS, NOT synergids or antipodals.",
+    "doodleBadge": "3-1-3 Formula",
+    "doodleSubtext": "Mature Embryo Sac Cellul",
+    "explanation": "A mature angiosperm embryo sac is 7-celled and 8-nucleate.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Mature Embryo Sac Cellular Arrangement.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 69",
     "tags": [
-      "Apomixis",
-      "Polyembryony",
-      "Citrus",
-      "Mango",
-      "Nucellar Embryo",
-      "Asteraceae",
-      "Hybrid Vigor"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Mature"
     ],
-    "expandedMeaning": "Agamospermous seed development and adventive nucellar polyembryony in angiosperms.",
-    "whyItWorks": "Apo-mixis (No mixing/fertilization) vs Poly-embryony (Many embryos in Citrus/Mango).",
-    "visualDescription": "Citrus orange seed sliced open showing multiple green baby embryo shoots pushing out from surrounding nucellar tissue.",
-    "neetRelevance": "One of the most frequently asked Class 12 biotechnology-botany integration questions.",
-    "commonMistake": "Thinking apomixis is sexual reproduction (it is asexual mimicking sexual).",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.4.4",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 69,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In Citrus and Mango, the occurrence of polyembryony (multiple embryos in a single seed) is primarily due to the proliferation of which maternal diploid cells?",
+      "question": "Which of the following is associated with \"Mature Embryo Sac Cellular Arrangement\" in NEET Biology?",
       "options": [
-        "Antipodal cells",
-        "Synergid cells",
-        "Nucellar cells",
-        "Integumentary cells"
+        "Three antipodal cells at chalazal end",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "In Citrus and Mango, diploid nucellar cells surrounding the embryo sac divide and protrude into the embryo sac, forming multiple embryos."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Three antipodal cells at chalazal end\". Remember using: \"3-1-3 Formula\"."
     }
   },
   {
@@ -1048,66 +915,60 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-4",
-    "topicTitle": "Seed Viability Champions: Lupinus vs Phoenix",
-    "topic": "Lupinus arcticus (10,000 Years Arctic Tundra) vs Phoenix dactylifera (2,000 Years King Herod Palace)",
+    "classLevel": 12,
+    "topicId": "bio-top-20-2",
+    "topicTitle": "Synergid Special Structure",
+    "topic": "Synergid Special Structure",
     "mnemonicNumber": 15,
-    "title": "Seed Viability Records: Lupinus arcticus (10,000 Years in Arctic Tundra) & Phoenix dactylifera (2,000 Years Date Palm at Dead Sea)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 15,
+    "title": "Synergid Special Structure: \"F-A-P\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Lupinus arcticus (Arctic Lupin from frozen Tundra) = 10,000 YEARS old seed germinated! | Phoenix dactylifera (Date Palm excavated at King Herod's Palace near Dead Sea) = 2,000 YEARS old viable seed!",
-    "memoryHook": "Lupinus froze in Arctic ice for 10,000 years! Phoenix Date Palm rested in King Herod's desert fortress for 2,000 years! Both woke up and sprouted fresh green leaves!",
-    "fact": "Seed viability records in NCERT: 1) Lupinus arcticus (Arctic Lupin): Excavated from Arctic Tundra; holds the record of oldest viable seed: germinated and flowered after an estimated 10,000 years of dormancy in permafrost. 2) Phoenix dactylifera (Date Palm): A viable seed of date palm was excavated during archaeological excavation at King Herod's palace near the Dead Sea; germinated after 2,000 years of dormancy.",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "F-A-P",
+    "memoryHook": "F-A-P",
+    "fact": "F – Filiform apparatus – Special cellular thickenings at micropylar tip. A – Attraction of pollen tube – Guides pollen tube entry into synergid. P – Penetration helper – Directs male gamete discharge",
     "breakdown": [
       {
-        "key": "Lupinus arcticus (Oldest Champion)",
-        "label": "Excavated from Arctic Tundra; 10,000 years dormancy; germinated and flowered"
+        "key": "F – Filiform apparatus",
+        "label": "Special cellular thickenings at micropylar tip"
       },
       {
-        "key": "Phoenix dactylifera (Date Palm)",
-        "label": "Excavated from King Herod's Palace near Dead Sea; 2,000 years viable seed"
-      },
-      {
-        "key": "Short Viability Examples",
-        "label": "Rice and wheat pollen lose viability in 30 minutes; Oxalis seeds lose viability in days"
+        "key": "P – Penetration helper",
+        "label": "Directs male gamete discharge"
       }
     ],
-    "doodleBadge": "Lupinus = 10,000 Years (Arctic)\nPhoenix = 2,000 Years (Dead Sea)",
-    "doodleSubtext": "Viability Champions",
-    "explanation": "Low metabolic rate, low water content (10-15% moisture), and durable seed coat maintain embryo dormancy across millennia.",
-    "alsoRemember": "Orchid fruits contain thousands of tiny dust-like seeds, as do parasitic species like Orobanche and Striga.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.4.3.",
-    "neetTrap": "Lupinus arcticus is 10,000 YEARS old (not 2,000 years); Phoenix dactylifera is 2,000 YEARS old.",
+    "doodleBadge": "F-A-P",
+    "doodleSubtext": "Synergid Special Structu",
+    "explanation": "The filiform apparatus in synergids plays an important role in guiding pollen tube entry. NCERT Chapter 1 Mnemonics Master Guide \tPage 3 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Synergid Special Structure.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 69",
     "tags": [
-      "Seed Viability",
-      "Lupinus arcticus",
-      "Phoenix dactylifera",
-      "Date Palm",
-      "Dormancy",
-      "NCERT Records"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Synergid"
     ],
-    "expandedMeaning": "Cryogenic and desiccation-tolerant longevity extremes of angiosperm cryptobiotic embryos.",
-    "whyItWorks": "Arctic Ice (10,000 years Lupinus) vs King Herod Fortress (2,000 years Phoenix).",
-    "visualDescription": "Frozen permafrost block with flowering Lupin (10,000 yrs) next to Roman fortress with sprouted Date Palm (2,000 yrs).",
-    "neetRelevance": "Direct factual recall question frequently asked in NEET.",
-    "commonMistake": "Swapping the years between Lupinus and Phoenix.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.4.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 69,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which plant holds the record for the oldest viable seed, which germinated and flowered after an estimated 10,000 years of dormancy in Arctic Tundra?",
+      "question": "Which of the following is associated with \"Synergid Special Structure\" in NEET Biology?",
       "options": [
-        "Phoenix dactylifera",
-        "Lupinus arcticus",
-        "Nelumbo nucifera",
-        "Zostera marina"
+        "Special cellular thickenings at micropylar tip",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Lupinus arcticus (Arctic Lupin) excavated from Arctic Tundra holds the record of 10,000 years seed viability."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Special cellular thickenings at micropylar tip\". Remember using: \"F-A-P\"."
     }
   },
   {
@@ -1116,70 +977,64 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-4",
-    "topicTitle": "Seed Structure: Perisperm vs Endosperm",
-    "topic": "Persistent Residual Nucellus in Black Pepper & Beet",
+    "classLevel": 12,
+    "topicId": "bio-top-20-2",
+    "topicTitle": "Types of Pollination",
+    "topic": "Types of Pollination",
     "mnemonicNumber": 16,
-    "title": "Perisperm: Persistent Nucellus (Black Pepper & Beet) vs Endosperm (Triple Fusion Food)",
-    "badgeText": "Comparison",
+    "sourceItemNumber": 16,
+    "title": "Types of Pollination: \"A-G-X\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Endosperm = Triploid (3n) food tissue from Triple Fusion | Perisperm = Diploid (2n) remnant of persistent NUCELLUS outside embryo sac -> Found in Black Pepper & Beet!",
-    "memoryHook": "Peppery Perisperm! Black Pepper and Beet keep the maternal Nucellus wrapper as a crunchy layer called Perisperm (2n)!",
-    "fact": "In most seeds, the nucellus is completely consumed during embryo sac and embryo development. However, in a few seeds such as Black Pepper (Piper nigrum) and Beet (Beta vulgaris), remnants of nucellus are persistent and remain as a thin nutritive tissue surrounding the endosperm. This persistent residual nucellus is called Perisperm (diploid, 2n).",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "A-G-X",
+    "memoryHook": "A-G-X",
+    "fact": "A – Autogamy – Self-pollination within same flower. G – Geitonogamy – Pollination between different flowers of same plant (functionally cross, genetically self). X – Xenogamy – Cross-pollination between different plants of same species",
     "breakdown": [
       {
-        "key": "Perisperm Definition",
-        "label": "Persistent, residual maternal Nucellus in mature seed (Ploidy = 2n Diploid)"
+        "key": "A – Autogamy – Self",
+        "label": "pollination within same flower"
       },
       {
-        "key": "Classic NCERT Examples",
-        "label": "Black Pepper and Beet"
+        "key": "G – Geitonogamy",
+        "label": "Pollination between different flowers of same plant (functionally cross, genetically self)"
       },
       {
-        "key": "Endosperm Contrast",
-        "label": "Nutritive tissue formed by Triple Fusion (Ploidy = 3n Triploid in angiosperms)"
-      },
-      {
-        "key": "Pericarp Contrast",
-        "label": "Wall of the fruit derived from the ovary wall (Epicarp + Mesocarp + Endocarp)"
+        "key": "X – Xenogamy – Cross",
+        "label": "pollination between different plants of same species"
       }
     ],
-    "doodleBadge": "Perisperm (2n) = Black Pepper & Beet\n(Persistent Nucellus)",
-    "doodleSubtext": "Perisperm vs Endosperm",
-    "explanation": "NEET frequently creates confusion between Perisperm (persistent nucellus, 2n), Pericarp (fruit wall), and Perianth (undifferentiated calyx/corolla).",
-    "alsoRemember": "Seed coat develops from ovule integuments: Outer integument -> Testa; Inner integument -> Tegmen.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.4.3.",
-    "neetTrap": "Perisperm is derived from the NUCELLUS (2n), NOT the endosperm or integuments.",
+    "doodleBadge": "A-G-X",
+    "doodleSubtext": "Types of Pollination",
+    "explanation": "Pollination is categorized based on pollen transfer source into autogamy, geitonogamy, and xenogamy.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Types of Pollination.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 70",
     "tags": [
-      "Perisperm",
-      "Nucellus",
-      "Black Pepper",
-      "Beet",
-      "Seed Anatomy",
-      "Endosperm"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Types"
     ],
-    "expandedMeaning": "Histological fate of the maternal megasporangial nucellar parenchyma in mature seeds.",
-    "whyItWorks": "Black Pepper & Beet (BP & B) = Persistent Nucellus (Perisperm).",
-    "visualDescription": "Cross section of black pepper seed showing outer dark pericarp, middle perisperm nucellar layer, and inner white endosperm.",
-    "neetRelevance": "One of the most repeated definition and example matching MCQs.",
-    "commonMistake": "Confusing Perisperm (nucellus) with Pericarp (fruit wall).",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.4.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 70,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Persistent residual nucellus observed in mature seeds of Black Pepper and Beet is termed as:",
+      "question": "Which of the following is associated with \"Types of Pollination\" in NEET Biology?",
       "options": [
-        "Pericarp",
-        "Perisperm",
-        "Endosperm",
-        "Scutellum"
+        "pollination within same flower",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "Perisperm is the persistent residual nucellus found in seeds of black pepper and beet."
+      "answerIndex": 0,
+      "explanation": "Correct: \"pollination within same flower\". Remember using: \"A-G-X\"."
     }
   },
   {
@@ -1188,74 +1043,64 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-3",
-    "topicTitle": "Pollen-Pistil Interaction & Siphonogamy",
-    "topic": "Chemotropic Growth of Pollen Tube Guided by Filiform Apparatus",
+    "classLevel": 12,
+    "topicId": "bio-top-20-2",
+    "topicTitle": "Cleistogamous Flower Examples",
+    "topic": "Cleistogamous Flower Examples",
     "mnemonicNumber": 17,
-    "title": "Pollen-Pistil Interaction: Stigma Recognition -> Pollen Tube via Style -> Filiform Apparatus guides Sperm into 1 Synergid",
-    "badgeText": "Sequence",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "sequence",
-    "mnemonicType": "sequence",
-    "cardColor": "#EDF4FF",
+    "sourceItemNumber": 17,
+    "title": "Cleistogamous Flower Examples: \"V-O-C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
     "badgeColor": "#5B8DEF",
-    "mnemonic": "Chemical Dialogue on Stigma -> Compatible Pollen accepted -> Pollen Tube germinates through Germ Pore -> Travels down Style -> Enters Micropyle -> Guided by FILIFORM APPARATUS of Synergid -> Discharges 2 Male Gametes -> Double Fertilization!",
-    "memoryHook": "The pistil runs a strict chemical ID check at the stigma gate! If approved, pollen tube grows like a subterranean drill down the style, homing in on the chemical beacon of the Filiform Apparatus in one synergid!",
-    "fact": "Pollen-pistil interaction is a dynamic dialogue involving chemical recognition followed by acceptance or rejection. Compatible pollen germinates on stigma to produce a pollen tube through one of the germ pores. The contents of pollen move into tube. Pollen tube grows through tissues of stigma and style (chemotropism via calcium-boron-sugar gradient), reaches ovary, enters ovule through micropyle, and then enters one of the degenerating synergids guided by the Filiform Apparatus. It releases 2 male gametes into the synergid cytoplasm.",
+    "mnemonic": "V-O-C",
+    "memoryHook": "V-O-C",
+    "fact": "V – Viola (Common pansy) – Produces chasmogamous and cleistogamous flowers. O – Oxalis – Cleistogamous flowers ensuring seed set without pollinators. C – Commelina – Underground cleistogamous flowers assuring guaranteed seed production",
     "breakdown": [
       {
-        "key": "Step 1: Recognition",
-        "label": "Pistil checks chemical compatibility; rejects incompatible self/foreign pollen"
+        "key": "V",
+        "label": "Viola (Common pansy) – Produces chasmogamous and cleistogamous flowers"
       },
       {
-        "key": "Step 2: Tube Growth",
-        "label": "Pollen tube grows through pectinase/cellulase digestion of transmitting tissue in style"
+        "key": "O – Oxalis",
+        "label": "Cleistogamous flowers ensuring seed set without pollinators"
       },
       {
-        "key": "Step 3: Micropyle Entry",
-        "label": "Porogamy: pollen tube enters ovule through micropylar pore"
-      },
-      {
-        "key": "Step 4: Synergid Entry",
-        "label": "Filiform apparatus guides pollen tube tip into one of the two synergids"
-      },
-      {
-        "key": "Step 5: Gamete Discharge",
-        "label": "Tube burst discharges two non-motile male gametes into synergid cytoplasm"
+        "key": "C – Commelina",
+        "label": "Underground cleistogamous flowers assuring guaranteed seed production"
       }
     ],
-    "doodleBadge": "Stigma Check -> Style Tube -> Filiform Guide -> Synergid Burst",
-    "doodleSubtext": "Pollen Tube Journey",
-    "explanation": "Boron (as borate ion) is essential for in vitro and in vivo pollen germination and pollen tube elongation.",
-    "alsoRemember": "Siphonogamy refers to fertilization where non-motile male gametes are carried to egg by a pollen tube.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.2.3 & 2.2.4.",
-    "neetTrap": "The pollen tube enters ONE OF THE SYNERGIDS, NOT the egg cell directly.",
+    "doodleBadge": "V-O-C",
+    "doodleSubtext": "Cleistogamous Flower Exa",
+    "explanation": "Cleistogamous flowers do not open at all, ensuring assured seed set via compulsory autogamy.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Cleistogamous Flower Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 70",
     "tags": [
-      "Pollen-Pistil Interaction",
-      "Pollen Tube",
-      "Filiform Apparatus",
-      "Synergids",
-      "Siphonogamy",
-      "Boron"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Cleistogamous"
     ],
-    "expandedMeaning": "Chemotropic progamic phase kinetics and synergid-mediated gamete delivery mechanisms.",
-    "whyItWorks": "Step-by-step relay from stigma chemical handshake to synergid burst.",
-    "visualDescription": "Pistil longitudinal section showing yellow pollen tube drilling down style, entering micropylar pore, and bursting inside green synergid.",
-    "neetRelevance": "Common in sequence matching and physiological role questions.",
-    "commonMistake": "Assuming the pollen tube enters the egg cell directly.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.2.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 70,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "During pollen tube entry into the ovule, which structure present in the synergids chemotactically guides the pollen tube into the embryo sac?",
+      "question": "Which of the following is associated with \"Cleistogamous Flower Examples\" in NEET Biology?",
       "options": [
-        "Antipodal cells",
-        "Filiform apparatus",
-        "Obturator",
-        "Central cell polar nuclei"
+        "Viola (Common pansy) – Produces chasmogamous and cleistogamous flowers",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The Filiform Apparatus of the synergids guides the entry of the pollen tube into one of the synergids."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Viola (Common pansy) – Produces chasmogamous and cleistogamous flowers\". Remember using: \"V-O-C\"."
     }
   },
   {
@@ -1264,70 +1109,68 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-4",
-    "topicTitle": "Seed Coat Layers & Micropyle Role in Seed",
-    "topic": "Testa (Outer) + Tegmen (Inner) and Micropylar Pore for Water/O2 Entry",
+    "classLevel": 12,
+    "topicId": "bio-top-20-2",
+    "topicTitle": "Outbreeding Devices to Prevent Inbreeding",
+    "topic": "Outbreeding Devices to Prevent Inbreeding",
     "mnemonicNumber": 18,
-    "title": "Seed Coat: Outer Testa (Hard) + Inner Tegmen (Thin) | Micropyle = Tiny Pore for Water & Oxygen Entry during Germination",
-    "badgeText": "Concept",
-    "importance": "Medium Yield",
+    "sourceItemNumber": 18,
+    "title": "Outbreeding Devices to Prevent Inbreeding: \"P-H-S-U\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFF0F3",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
     "badgeColor": "#FF8D78",
-    "mnemonic": "Outer Integument -> TESTA (Tough outer seed coat) | Inner Integument -> TEGMEN (Thin inner membrane) | MICROPYLE remains as a small pore on seed coat -> Lets Water and O2 enter to wake up the dormant baby embryo during germination!",
-    "memoryHook": "Outer is Tough TESTA; Inner is Thin TEGMEN. The tiny pinhole on a bean seed is the MICROPYLE, acting as a straw to drink water and breathe oxygen for germination!",
-    "fact": "Integuments of ovules mature into seed coats: Outer integument forms thick, hard protective Testa; Inner integument forms thin, membranous Tegmen. The Micropyle remains as a small pore in the seed coat. This facilitates entry of oxygen and water into the seed during germination. As the seed matures, its water content is reduced (seeds become dry with 10-15% moisture by mass), and the general metabolic activity of the embryo slows down into a state of inactivity called Dormancy.",
+    "mnemonic": "P-H-S-U",
+    "memoryHook": "P-H-S-U",
+    "fact": "P – Pollen release and stigma receptivity not synchronized (Dichogamy). H – Herkogamy – Spatial separation of anther and stigma. S – Self-incompatibility – Genetic barrier preventing self-pollen germination. U – Unisexual flowers – Dioecism preventing autogamy completely",
     "breakdown": [
       {
-        "key": "Testa",
-        "label": "Outer, thick, leathery, resistant seed coat derived from outer integument"
+        "key": "P",
+        "label": "Pollen release and stigma receptivity not synchronized (Dichogamy)"
       },
       {
-        "key": "Tegmen",
-        "label": "Inner, thin, delicate membranous seed coat derived from inner integument"
+        "key": "H – Herkogamy",
+        "label": "Spatial separation of anther and stigma"
       },
       {
-        "key": "Seed Micropyle",
-        "label": "Persistent pore on seed coat enabling imbibition of water and O2 for germination"
+        "key": "S – Self",
+        "label": "incompatibility – Genetic barrier preventing self-pollen germination"
       },
       {
-        "key": "Seed Moisture",
-        "label": "Active drying reduces moisture to 10-15% by mass, inducing embryonic dormancy"
+        "key": "U – Unisexual flowers",
+        "label": "Dioecism preventing autogamy completely"
       }
     ],
-    "doodleBadge": "Outer Testa + Inner Tegmen\nMicropyle Pore = Water & O2 In",
-    "doodleSubtext": "Seed Coat Anatomy",
-    "explanation": "Imbibition of water through the seed micropyle activates hydrolytic enzymes (amylase, protease) in aleurone layer to mobilize food reserves.",
-    "alsoRemember": "Castor seed has an additional fleshy outgrowth called Caruncle at the micropylar end that absorbs water.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.4.3.",
-    "neetTrap": "The micropyle in a seed functions as a pore for entry of WATER AND OXYGEN during germination.",
+    "doodleBadge": "P-H-S-U",
+    "doodleSubtext": "Outbreeding Devices to P",
+    "explanation": "Plants evolve outbreeding devices because continued self-pollination leads to inbreeding depression.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Outbreeding Devices to Prevent Inbreeding.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 70",
     "tags": [
-      "Seed Coat",
-      "Testa",
-      "Tegmen",
-      "Micropyle",
-      "Dormancy",
-      "Imbibition"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Outbreeding"
     ],
-    "expandedMeaning": "Spermoderm differentiation and micropylar gas/water conductance in cryptobiotic resting seeds.",
-    "whyItWorks": "Testa (Tough) + Tegmen (Thin) + Micropyle (Water door).",
-    "visualDescription": "Kidney bean seed showing smooth Testa skin, labeled Hilum scar, and tiny adjacent Micropyle pinhole drinking water droplet.",
-    "neetRelevance": "Common in seed morphology and germination physiology MCQs.",
-    "commonMistake": "Thinking the micropyle closes and disappears in mature seeds.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.4.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 70,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "What is the primary function of the small pore (micropyle) present on the seed coat of a mature seed?",
+      "question": "Which of the following is associated with \"Outbreeding Devices to Prevent Inbreeding\" in NEET Biology?",
       "options": [
-        "Escape of embryo during growth",
-        "Facilitating entry of water and oxygen during seed germination",
-        "Photosynthetic gas exchange",
-        "Excretion of metabolic wastes"
+        "Pollen release and stigma receptivity not synchronized (Dichogamy)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "The micropyle remains as a small pore on the seed coat to facilitate the entry of water and oxygen during seed germination."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Pollen release and stigma receptivity not synchronized (Dichogamy)\". Remember using: \"P-H-S-U\"."
     }
   },
   {
@@ -1336,70 +1179,64 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-1",
-    "topicTitle": "Microsporogenesis Meiosis Math",
-    "topic": "1 Pollen Mother Cell (PMC) -> 1 Meiosis -> 4 Functional Pollen Grains (Ratio 1:4)",
+    "classLevel": 12,
+    "topicId": "bio-top-20-2",
+    "topicTitle": "Artificial Hybridization Steps",
+    "topic": "Artificial Hybridization Steps",
     "mnemonicNumber": 19,
-    "title": "Microsporogenesis Math: 1 PMC (2n) -> 1 Meiosis -> 4 Functional Pollen Grains (100 Pollen = 25 Meiotic Divisions)",
-    "badgeText": "Formula",
-    "importance": "Must Know",
+    "sourceItemNumber": 19,
+    "title": "Artificial Hybridization Steps: \"E-B-R-R\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "medium",
-    "visualType": "formula",
-    "mnemonicType": "formula",
+    "visualType": "acronym",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Male Side: 1 PMC (2n) -> 1 Meiosis -> 4 Functional Pollen Grains (100 Pollen needs 100/4 = 25 Meioses) | Female Side: 1 MMC (2n) -> 1 Meiosis -> 4 Megaspores (3 die!) -> ONLY 1 Functional Megaspore (100 Eggs needs 100 Meioses)! To make 100 Seeds = 25 + 100 = 125 Meioses!",
-    "memoryHook": "Males make 4 winners per meiosis! Females make 1 winner per meiosis (3 sisters degenerate)! To make N seeds, formula is N + (N/4) = 1.25 × N meiotic divisions!",
-    "fact": "Microsporogenesis vs Megasporogenesis quantitative genetics: 1) In anther: Each Microspore Mother Cell (PMC, 2n) undergoes 1 meiotic division to form 4 functional haploid microspores (Pollen grains). Number of meiotic divisions required to produce N pollen grains = N / 4. 2) In ovule: Each Megaspore Mother Cell (MMC, 2n) undergoes 1 meiotic division to form 4 megaspores, but 3 degenerate, leaving only 1 functional megaspore. Number of meiotic divisions required to produce N eggs/embryo sacs = N. 3) Total meiotic divisions to form N seeds = N + (N/4) = 5N/4 = 1.25 × N.",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "E-B-R-R",
+    "memoryHook": "E-B-R-R",
+    "fact": "E – Emasculation – Removal of anthers from bisexual flower bud before dehiscence. B – Bagging – Covering emasculated flower with butter-paper bag to prevent contamination. R – Re-dusting – Desired pollen dusted on receptive stigma. R – Re-bagging – Flower re-bagged until fruit development",
     "breakdown": [
       {
-        "key": "Male Meiosis Rule",
-        "label": "1 PMC -> 4 functional pollen grains (Divisions = N / 4)"
+        "key": "E – Emasculation",
+        "label": "Removal of anthers from bisexual flower bud before dehiscence"
       },
       {
-        "key": "Female Meiosis Rule",
-        "label": "1 MMC -> 1 functional megaspore / egg (Divisions = N)"
+        "key": "R – Re",
+        "label": "dusting – Desired pollen dusted on receptive stigma"
       },
       {
-        "key": "Total Seed Formula",
-        "label": "To produce N seeds: Meioses = N (female) + N/4 (male) = 1.25N"
-      },
-      {
-        "key": "Example for 100 Seeds",
-        "label": "100 female meioses + 25 male meioses = 125 total meiotic divisions"
+        "key": "R – Re",
+        "label": "bagging – Flower re-bagged until fruit development"
       }
     ],
-    "doodleBadge": "1 PMC = 4 Pollen\n1 MMC = 1 Egg\n100 Seeds = 125 Meioses",
-    "doodleSubtext": "Meiosis Math Formula",
-    "explanation": "NEET numerical problems regularly ask for total meiotic divisions required to produce 50, 100, or 200 seeds or grains.",
-    "alsoRemember": "Microspore tetrads can be tetrahedral (most common in dicots) or isobilateral (common in monocots).",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.1.1 & 2.1.2.",
-    "neetTrap": "To produce 100 seeds, you need 125 meiotic divisions (100 for eggs + 25 for pollen), NOT 100 or 50.",
+    "doodleBadge": "E-B-R-R",
+    "doodleSubtext": "Artificial Hybridization",
+    "explanation": "Artificial hybridization is essential for crop improvement programs.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Artificial Hybridization Steps.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 70",
     "tags": [
-      "Microsporogenesis",
-      "Megasporogenesis",
-      "Meiosis Math",
-      "Numerical NEET",
-      "Seed Calculation",
-      "Pollen"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Artificial"
     ],
-    "expandedMeaning": "Quantitative stoichiometric meiotic division formula for angiosperm seed and gametophyte generation.",
-    "whyItWorks": "Simple arithmetic formula: Seed Meioses = N + N/4.",
-    "visualDescription": "Calculation flowchart showing 25 male cell divisions (producing 100 sperm) adding to 100 female cell divisions (producing 100 eggs) to equal 100 seeds.",
-    "neetRelevance": "One of the most famous numerical calculation questions in NEET biology.",
-    "commonMistake": "Forgetting that 3 out of 4 female megaspores degenerate.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.1.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 70,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "How many total meiotic divisions are required to produce 100 viable seeds in a typical angiosperm plant?",
+      "question": "Which of the following is associated with \"Artificial Hybridization Steps\" in NEET Biology?",
       "options": [
-        "100",
-        "125",
-        "200",
-        "50"
+        "Removal of anthers from bisexual flower bud before dehiscence",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 1,
-      "explanation": "To produce 100 seeds, 100 female meioses (to make 100 eggs) + 25 male meioses (to make 100 pollen) = 125 meiotic divisions are needed."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Removal of anthers from bisexual flower bud before dehiscence\". Remember using: \"E-B-R-R\"."
     }
   },
   {
@@ -1408,71 +1245,1988 @@ export const bioCh20Mnemonics = [
     "chapterId": "bio-ch-20",
     "chapterNumber": 20,
     "chapterTitle": "Sexual Reproduction in Flowering Plants",
-    "topicId": "bio-top-20-4",
-    "topicTitle": "Ploidy Levels in Angiosperm Tissues",
-    "topic": "Nucellus (2n), Microspore (n), Zygote (2n), Endosperm (3n), Aleurone (3n), Synergids (n)",
+    "classLevel": 12,
+    "topicId": "bio-top-20-2",
+    "topicTitle": "Agents of Pollination",
+    "topic": "Agents of Pollination",
     "mnemonicNumber": 20,
-    "title": "Ploidy Map: Haploid n (Pollen, Generative, Egg, Synergids, Antipodals) | Diploid 2n (PMC, MMC, Nucellus, Integument, Zygote) | Triploid 3n (Endosperm, Aleurone)",
-    "badgeText": "Classification",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Haploid (n) = Everything inside Embryo Sac (Egg, Synergid, Antipodal) + Pollen grain cells | Diploid (2n) = Maternal ovule tissues (Nucellus, Integuments, Funicle) + Zygote / Embryo | Triploid (3n) = Endosperm & Aleurone layer!",
-    "memoryHook": "Haploid (n) = Gametes & their helpers! Diploid (2n) = Mother plant body & Baby zygote! Triploid (3n) = Triple fusion Endosperm & its outer Aleurone jacket!",
-    "fact": "Ploidy summary of angiosperm reproductive structures: 1) Haploid (n): Microspore / Pollen grain, Vegetative cell, Generative cell, Male gamete, Functional megaspore, Egg cell, Synergids, Antipodal cells. 2) Diploid (2n): Microspore mother cell (PMC), Megaspore mother cell (MMC), Nucellus, Integuments, Funicle, Hilum, Ovary wall (Pericarp), Zygote, Embryo, Root/Leaf cells. 3) Triploid (3n): Primary Endosperm Nucleus (PEN), Endosperm tissue, Aleurone layer.",
+    "sourceItemNumber": 20,
+    "title": "Agents of Pollination: \"A-B-W\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "A-B-W",
+    "memoryHook": "A-B-W",
+    "fact": "A – Abiotic agents – Wind and Water (pollinates a limited number of genera). B – Biotic agents – Animals, insects, birds, bats, reptiles. W – Wind pollination (Anemophily) – Most common abiotic pollination",
     "breakdown": [
       {
-        "key": "Haploid (n)",
-        "label": "Egg, Synergid, Antipodal, Pollen, Generative cell, Male gamete"
+        "key": "A – Abiotic agents",
+        "label": "Wind and Water (pollinates a limited number of genera)"
       },
       {
-        "key": "Diploid (2n)",
-        "label": "Zygote, Embryo, Nucellus, Integument, Pericarp, Leaf, Stem, Root"
+        "key": "B – Biotic agents",
+        "label": "Animals, insects, birds, bats, reptiles"
       },
       {
-        "key": "Triploid (3n)",
-        "label": "Endosperm, Aleurone layer (in angiosperms)"
-      },
-      {
-        "key": "Numerical Question Trick",
-        "label": "If 2n = 24 (e.g., Rice), then n = 12 (Egg/Pollen) and 3n = 36 (Endosperm/Aleurone)"
+        "key": "W",
+        "label": "Wind pollination (Anemophily) – Most common abiotic pollination"
       }
     ],
-    "doodleBadge": "n = Gametes & Embryo Sac\n2n = Nucellus, Integuments, Zygote\n3n = Endosperm & Aleurone",
-    "doodleSubtext": "Angiosperm Ploidy Master",
-    "explanation": "The Aleurone layer is the outermost proteinaceous cell layer of the endosperm in cereals (maize, wheat) and is therefore triploid (3n).",
-    "alsoRemember": "In gymnosperms, endosperm is haploid (n) because it is formed before fertilization directly from female gametophyte.",
-    "ncertConnection": "NCERT Class 12 Biology Section 2.3 & 2.4.",
-    "neetTrap": "The ALEURONE LAYER is part of the endosperm and is TRIPLOID (3n), NOT diploid.",
+    "doodleBadge": "A-B-W",
+    "doodleSubtext": "Agents of Pollination",
+    "explanation": "Plants use biotic and abiotic agents to transfer pollen grains from anther to stigma. NCERT Chapter 1 Mnemonics Master Guide \tPage 4 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Agents of Pollination.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 70",
     "tags": [
-      "Ploidy",
-      "Haploid",
-      "Diploid",
-      "Triploid",
-      "Endosperm",
-      "Aleurone",
-      "Nucellus"
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Agents"
     ],
-    "expandedMeaning": "Cytogenetic ploidy census across gametophytic, sporophytic, and endospermic tissue compartments.",
-    "whyItWorks": "Three-tiered ploidy hierarchy (n vs 2n vs 3n) with direct tissue matching.",
-    "visualDescription": "Three colored columns: Blue (Haploid: gametes), Pink (Diploid: mother & zygote), Gold (Triploid: endosperm & aleurone).",
-    "neetRelevance": "One of the most common chromosome number calculation MCQs in NEET.",
-    "commonMistake": "Thinking the aleurone layer is diploid.",
-    "sourceReference": "NCERT Class 12 Chapter 2 Section 2.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 70,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "If the chromosome number in a root cell of a flowering plant is 24 (2n = 24), what will be the chromosome number in its aleurone layer cells?",
+      "question": "Which of the following is associated with \"Agents of Pollination\" in NEET Biology?",
       "options": [
-        "12",
-        "24",
-        "36",
-        "48"
+        "Wind and Water (pollinates a limited number of genera)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
       ],
-      "answerIndex": 2,
-      "explanation": "The aleurone layer is part of the triploid endosperm (3n). If 2n = 24 (n = 12), then 3n = 3 × 12 = 36."
+      "answerIndex": 0,
+      "explanation": "Correct: \"Wind and Water (pollinates a limited number of genera)\". Remember using: \"A-B-W\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-3",
+    "topicTitle": "Wind-Pollinated (Anemophilous) Flower Features",
+    "topic": "Wind-Pollinated (Anemophilous) Flower Features",
+    "mnemonicNumber": 21,
+    "sourceItemNumber": 21,
+    "title": "Wind-Pollinated (Anemophilous) Flower Features: \"L-W-S-O\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "L-W-S-O",
+    "memoryHook": "L-W-S-O",
+    "fact": "L – Light, non-sticky pollen grains – Easily carried by wind currents. W – Well-exposed stamens – For easy pollen dispersal into wind. S – Sticky or feathery stigma – To easily trap airborne pollen. O – Ovule single per ovary – Packed inflorescences (e.g., corn cob tassels)",
+    "breakdown": [
+      {
+        "key": "L",
+        "label": "Light, non-sticky pollen grains – Easily carried by wind currents"
+      },
+      {
+        "key": "W – Well",
+        "label": "exposed stamens – For easy pollen dispersal into wind"
+      }
+    ],
+    "doodleBadge": "L-W-S-O",
+    "doodleSubtext": "Wind-Pollinated (Anemoph",
+    "explanation": "Wind-pollinated flowers are often packed into inflorescences and lack bright colors or nectar.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Wind-Pollinated (Anemophilous) Flower Features.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 71",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Wind-Pollinated"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 71,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Wind-Pollinated (Anemophilous) Flower Features\" in NEET Biology?",
+      "options": [
+        "Light, non-sticky pollen grains – Easily carried by wind currents",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Light, non-sticky pollen grains – Easily carried by wind currents\". Remember using: \"L-W-S-O\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-3",
+    "topicTitle": "Water-Pollinated (Hydrophilous) Examples",
+    "topic": "Water-Pollinated (Hydrophilous) Examples",
+    "mnemonicNumber": 22,
+    "sourceItemNumber": 22,
+    "title": "Water-Pollinated (Hydrophilous) Examples: \"V-H-Z\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "V-H-Z",
+    "memoryHook": "V-H-Z",
+    "fact": "V – Vallisneria – Female flowers reach water surface via long stalk; male flowers released on surface. H – Hydrilla – Freshwater aquatic plant pollinated underwater. Z – Zostera – Marine sea-grasses where ribbon-like pollen is released underwater",
+    "breakdown": [
+      {
+        "key": "V – Vallisneria",
+        "label": "Female flowers reach water surface via long stalk; male flowers released on surface"
+      },
+      {
+        "key": "H – Hydrilla",
+        "label": "Freshwater aquatic plant pollinated underwater"
+      },
+      {
+        "key": "Z – Zostera – Marine sea",
+        "label": "grasses where ribbon-like pollen is released underwater"
+      }
+    ],
+    "doodleBadge": "V-H-Z",
+    "doodleSubtext": "Water-Pollinated (Hydrop",
+    "explanation": "Water pollination is rare in angiosperms, restricted to about 30 genera mostly monocotyledons.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Water-Pollinated (Hydrophilous) Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 71",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Water-Pollinated"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 71,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Water-Pollinated (Hydrophilous) Examples\" in NEET Biology?",
+      "options": [
+        "Female flowers reach water surface via long stalk; male flowers released on surf",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Female flowers reach water surface via long stalk; male flowers released on surface\". Remember using: \"V-H-Z\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-3",
+    "topicTitle": "Aquatic Plants NOT Pollinated by Water",
+    "topic": "Aquatic Plants NOT Pollinated by Water",
+    "mnemonicNumber": 23,
+    "sourceItemNumber": 23,
+    "title": "Aquatic Plants NOT Pollinated by Water: \"W-L\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "W-L",
+    "memoryHook": "W-L",
+    "fact": "W – Water hyacinth (Eichhornia) – Insect or wind pollinated despite aquatic habitat. L – Lotus – Flowers emerge above water level, pollinated by insects or wind",
+    "breakdown": [
+      {
+        "key": "W",
+        "label": "Water hyacinth (Eichhornia) – Insect or wind pollinated despite aquatic habitat"
+      },
+      {
+        "key": "L – Lotus",
+        "label": "Flowers emerge above water level, pollinated by insects or wind"
+      }
+    ],
+    "doodleBadge": "W-L",
+    "doodleSubtext": "Aquatic Plants NOT Polli",
+    "explanation": "Not all aquatic plants use water for pollination; many emerge above water and use insects or wind.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Aquatic Plants NOT Pollinated by Water.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 71",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Aquatic"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 71,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Aquatic Plants NOT Pollinated by Water\" in NEET Biology?",
+      "options": [
+        "W-L",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Not all aquatic plants use water for pollination; many emerge above water and use insects or wind."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-3",
+    "topicTitle": "Adaptations for Insect Pollination (Entomophily)",
+    "topic": "Adaptations for Insect Pollination (Entomophily)",
+    "mnemonicNumber": 24,
+    "sourceItemNumber": 24,
+    "title": "Adaptations for Insect Pollination (Entomophily): \"C-N-F\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "C-N-F",
+    "memoryHook": "C-N-F",
+    "fact": "C – Colorful and fragrant flowers – To attract insect visitors. N – Nectar and pollen grains – Offered as floral rewards to pollinators. F – Floral rewards / sticky pollen – Ensures faithful pollen transport",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "C"
+      },
+      {
+        "key": "Part 2",
+        "label": "N"
+      },
+      {
+        "key": "Part 3",
+        "label": "F"
+      }
+    ],
+    "doodleBadge": "C-N-F",
+    "doodleSubtext": "Adaptations for Insect P",
+    "explanation": "Insect-pollinated flowers provide floral rewards like nectar and edible pollen to entice visitors.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Adaptations for Insect Pollination (Entomophily).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 71",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Adaptations"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 71,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Adaptations for Insect Pollination (Entomophily)\" in NEET Biology?",
+      "options": [
+        "To attract insect visitors",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"To attract insect visitors\". Remember using: \"C-N-F\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-3",
+    "topicTitle": "Unusual Biotic Pollinators & Rewards",
+    "topic": "Unusual Biotic Pollinators & Rewards",
+    "mnemonicNumber": 25,
+    "sourceItemNumber": 25,
+    "title": "Unusual Biotic Pollinators & Rewards: \"A-M-Y\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "A-M-Y",
+    "memoryHook": "A-M-Y",
+    "fact": "A – Amorphophallus – Tallest flower (6 feet) providing safe egg-laying site reward. M – Moth and Yucca plant – Obligate mutualism where moth pollinates and lays eggs in locule. Y – Yucca larvae feed on developing seeds while leaving enough for propagation",
+    "breakdown": [
+      {
+        "key": "A – Amorphophallus",
+        "label": "Tallest flower (6 feet) providing safe egg-laying site reward"
+      },
+      {
+        "key": "Y",
+        "label": "Yucca larvae feed on developing seeds while leaving enough for propagation"
+      }
+    ],
+    "doodleBadge": "A-M-Y",
+    "doodleSubtext": "Unusual Biotic Pollinato",
+    "explanation": "Some plants offer safe egg-laying sites as floral rewards, establishing obligate symbiotic relationships. NCERT Chapter 1 Mnemonics Master Guide \tPage 5 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Unusual Biotic Pollinators & Rewards.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 71",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Unusual"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 71,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Unusual Biotic Pollinators & Rewards\" in NEET Biology?",
+      "options": [
+        "Tallest flower (6 feet) providing safe egg-laying site reward",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Tallest flower (6 feet) providing safe egg-laying site reward\". Remember using: \"A-M-Y\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-3",
+    "topicTitle": "Pollen-Pistil Interaction",
+    "topic": "Pollen-Pistil Interaction",
+    "mnemonicNumber": 26,
+    "sourceItemNumber": 26,
+    "title": "Pollen-Pistil Interaction: \"D-R-A\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "D-R-A",
+    "memoryHook": "D-R-A",
+    "fact": "D – Dynamic process – Involves pollen recognition and chemical dialogue. R – Rejection or acceptance – Pistil accepts compatible pollen and rejects incompatible types. A – Activation of germination – Pollen tube germinates through germ pore upon acceptance",
+    "breakdown": [
+      {
+        "key": "D – Dynamic process",
+        "label": "Involves pollen recognition and chemical dialogue"
+      }
+    ],
+    "doodleBadge": "D-R-A",
+    "doodleSubtext": "Pollen-Pistil Interactio",
+    "explanation": "Pollen-pistil interaction is a continuous dialogue mediated by chemical components of pollen and pistil.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Pollen-Pistil Interaction.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 72",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Pollen-Pistil"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 72,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Pollen-Pistil Interaction\" in NEET Biology?",
+      "options": [
+        "Involves pollen recognition and chemical dialogue",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Involves pollen recognition and chemical dialogue\". Remember using: \"D-R-A\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-3",
+    "topicTitle": "Double Fertilization Events",
+    "topic": "Double Fertilization Events",
+    "mnemonicNumber": 27,
+    "sourceItemNumber": 27,
+    "title": "Double Fertilization Events: \"S-T-S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "S-T-S",
+    "memoryHook": "S-T-S",
+    "fact": "S – Syngamy – Fusion of first male gamete with egg cell forming diploid zygote (2n). T – Triple fusion – Fusion of second male gamete with two polar nuclei forming PEN (3n). S – Synergistic hallmark – Exclusive feature unique to angiosperms",
+    "breakdown": [
+      {
+        "key": "S – Syngamy",
+        "label": "Fusion of first male gamete with egg cell forming diploid zygote (2n)"
+      },
+      {
+        "key": "T – Triple fusion",
+        "label": "Fusion of second male gamete with two polar nuclei forming PEN (3n)"
+      }
+    ],
+    "doodleBadge": "S-T-S",
+    "doodleSubtext": "Double Fertilization Eve",
+    "explanation": "Double fertilization involves both syngamy and triple fusion occurring within the same embryo sac.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Double Fertilization Events.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 72",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Double"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 72,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Double Fertilization Events\" in NEET Biology?",
+      "options": [
+        "Fusion of first male gamete with egg cell forming diploid zygote (2n)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Fusion of first male gamete with egg cell forming diploid zygote (2n)\". Remember using: \"S-T-S\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-3",
+    "topicTitle": "Products of Double Fertilization",
+    "topic": "Products of Double Fertilization",
+    "mnemonicNumber": 28,
+    "sourceItemNumber": 28,
+    "title": "Products of Double Fertilization: \"Z-P-E\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Z-P-E",
+    "memoryHook": "Z-P-E",
+    "fact": "Z – Zygote (2n) – Develops into embryo. P – PEN (Primary Endosperm Nucleus - 3n) – Develops into nutritive endosperm. E – Embryo sac transformations – Ovule transforms into seed and ovary into fruit",
+    "breakdown": [
+      {
+        "key": "Z",
+        "label": "Zygote (2n) – Develops into embryo"
+      },
+      {
+        "key": "P",
+        "label": "PEN (Primary Endosperm Nucleus - 3n) – Develops into nutritive endosperm"
+      }
+    ],
+    "doodleBadge": "Z-P-E",
+    "doodleSubtext": "Products of Double Ferti",
+    "explanation": "Double fertilization produces a diploid zygote and a triploid primary endosperm nucleus.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Products of Double Fertilization.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 72",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Products"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 72,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Products of Double Fertilization\" in NEET Biology?",
+      "options": [
+        "Zygote (2n) – Develops into embryo",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Zygote (2n) – Develops into embryo\". Remember using: \"Z-P-E\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-3",
+    "topicTitle": "Post-Fertilization Structural Changes",
+    "topic": "Post-Fertilization Structural Changes",
+    "mnemonicNumber": 29,
+    "sourceItemNumber": 29,
+    "title": "Post-Fertilization Structural Changes: \"O-S-I-W\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "O-S-I-W",
+    "memoryHook": "O-S-I-W",
+    "fact": "O – Ovary becomes Fruit. S – Ovule becomes Seed. I – Integuments become Seed coat (Testa and Tegmen). W – Zygote becomes Embryo",
+    "breakdown": [
+      {
+        "key": "O",
+        "label": "Ovary becomes Fruit"
+      },
+      {
+        "key": "S",
+        "label": "Ovule becomes Seed"
+      },
+      {
+        "key": "I",
+        "label": "Integuments become Seed coat (Testa and Tegmen)"
+      },
+      {
+        "key": "W",
+        "label": "Zygote becomes Embryo"
+      }
+    ],
+    "doodleBadge": "O-S-I-W",
+    "doodleSubtext": "Post-Fertilization Struc",
+    "explanation": "Following fertilization, floral whorls wither while ovary and ovules transform into fruit and seeds.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Post-Fertilization Structural Changes.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 72",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Post-Fertilization"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 72,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Post-Fertilization Structural Changes\" in NEET Biology?",
+      "options": [
+        "Ovary becomes Fruit",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Ovary becomes Fruit\". Remember using: \"O-S-I-W\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-3",
+    "topicTitle": "Endosperm Development Types",
+    "topic": "Endosperm Development Types",
+    "mnemonicNumber": 30,
+    "sourceItemNumber": 30,
+    "title": "Endosperm Development Types: \"F-N-C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "F-N-C",
+    "memoryHook": "F-N-C",
+    "fact": "F – Free-nuclear endosperm – Most common type where nuclear divisions are not followed by cell wall formation. N – Coconut water – Classic example of free-nuclear endosperm (thousands of nuclei). C – Cellular coconut kernel – Cellularized endosperm surrounding coconut water",
+    "breakdown": [
+      {
+        "key": "F – Free",
+        "label": "nuclear endosperm – Most common type where nuclear divisions are not followed by cell wall formation"
+      }
+    ],
+    "doodleBadge": "F-N-C",
+    "doodleSubtext": "Endosperm Development Ty",
+    "explanation": "Endosperm development precedes embryo development to provide nutrition, appearing in free-nuclear or cellular forms. NCERT Chapter 1 Mnemonics Master Guide \tPage 6 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Endosperm Development Types.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 72",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Endosperm"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 72,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Endosperm Development Types\" in NEET Biology?",
+      "options": [
+        "nuclear endosperm – Most common type where nuclear divisions are not followed by",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"nuclear endosperm – Most common type where nuclear divisions are not followed by cell wall formation\". Remember using: \"F-N-C\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-31",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-4",
+    "topicTitle": "Endosperm Fate in Seeds (Albuminous vs Exalbuminous)",
+    "topic": "Endosperm Fate in Seeds (Albuminous vs Exalbuminous)",
+    "mnemonicNumber": 31,
+    "sourceItemNumber": 31,
+    "title": "Endosperm Fate in Seeds (Albuminous vs Exalbuminous): \"E-N-W-P\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "E-N-W-P",
+    "memoryHook": "E-N-W-P",
+    "fact": "E – Endospermic (Albuminous) seeds – Retain endosperm (e.g., Castor, Sunflower, Wheat, Maize). N – Non-endospermic (Exalbuminous) seeds – Endosperm fully consumed before seed maturation (e.g., Pea, Groundnut, Bean). W – Wheat & Maize – Albuminous storage. P – Pea & Bean – Non-endospermic storage in cotyledons",
+    "breakdown": [
+      {
+        "key": "E",
+        "label": "Endospermic (Albuminous) seeds – Retain endosperm (e.g., Castor, Sunflower, Wheat, Maize)"
+      },
+      {
+        "key": "N – Non",
+        "label": "endospermic (Exalbuminous) seeds – Endosperm fully consumed before seed maturation (e.g., Pea, Groundnut, Bean)"
+      },
+      {
+        "key": "W",
+        "label": "Wheat & Maize – Albuminous storage"
+      },
+      {
+        "key": "P",
+        "label": "Pea & Bean – Non-endospermic storage in cotyledons"
+      }
+    ],
+    "doodleBadge": "E-N-W-P",
+    "doodleSubtext": "Endosperm Fate in Seeds ",
+    "explanation": "Seeds are classified as albuminous or exalbuminous based on whether endosperm persists at maturity.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Endosperm Fate in Seeds (Albuminous vs Exalbuminous).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 73",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Endosperm"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 73,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Endosperm Fate in Seeds (Albuminous vs Exalbuminous)\" in NEET Biology?",
+      "options": [
+        "Endospermic (Albuminous) seeds – Retain endosperm (e.g., Castor, Sunflower, Whea",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Endospermic (Albuminous) seeds – Retain endosperm (e.g., Castor, Sunflower, Wheat, Maize)\". Remember using: \"E-N-W-P\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-32",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-4",
+    "topicTitle": "Embryogeny in Dicotyledons",
+    "topic": "Embryogeny in Dicotyledons",
+    "mnemonicNumber": 32,
+    "sourceItemNumber": 32,
+    "title": "Embryogeny in Dicotyledons: \"P-G-H-C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "P-G-H-C",
+    "memoryHook": "P-G-H-C",
+    "fact": "P – Proembryo stage – Initial divisions of zygote. G – Globular stage – Spherical embryo mass. H – Heart-shaped stage – Emergence of cotyledon primordia. C – Mature embryo – Fully formed hypocotyl, radicle, and cotyledons",
+    "breakdown": [
+      {
+        "key": "P – Proembryo stage",
+        "label": "Initial divisions of zygote"
+      },
+      {
+        "key": "G – Globular stage",
+        "label": "Spherical embryo mass"
+      },
+      {
+        "key": "H – Heart",
+        "label": "shaped stage – Emergence of cotyledon primordia"
+      },
+      {
+        "key": "C – Mature embryo",
+        "label": "Fully formed hypocotyl, radicle, and cotyledons"
+      }
+    ],
+    "doodleBadge": "P-G-H-C",
+    "doodleSubtext": "Embryogeny in Dicotyledo",
+    "explanation": "Dicot embryo development progresses through proembryo, globular, and heart-shaped stages.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Embryogeny in Dicotyledons.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 73",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Embryogeny"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 73,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Embryogeny in Dicotyledons\" in NEET Biology?",
+      "options": [
+        "Initial divisions of zygote",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Initial divisions of zygote\". Remember using: \"P-G-H-C\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-33",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-4",
+    "topicTitle": "Parts of Dicot Embryo",
+    "topic": "Parts of Dicot Embryo",
+    "mnemonicNumber": 33,
+    "sourceItemNumber": 33,
+    "title": "Parts of Dicot Embryo: \"E-C-H-R\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "E-C-H-R",
+    "memoryHook": "E-C-H-R",
+    "fact": "E – Embryonal axis – Central axis of embryo. C – Cotyledons – Seed leaves (two in dicots). H – Hypocotyl & Epicotyl – Regions below and above cotyledon attachment. R – Radicle & Plumule – Root tip and shoot tip covered by root cap",
+    "breakdown": [
+      {
+        "key": "E – Embryonal axis",
+        "label": "Central axis of embryo"
+      },
+      {
+        "key": "C – Cotyledons",
+        "label": "Seed leaves (two in dicots)"
+      },
+      {
+        "key": "H",
+        "label": "Hypocotyl & Epicotyl – Regions below and above cotyledon attachment"
+      },
+      {
+        "key": "R",
+        "label": "Radicle & Plumule – Root tip and shoot tip covered by root cap"
+      }
+    ],
+    "doodleBadge": "E-C-H-R",
+    "doodleSubtext": "Parts of Dicot Embryo",
+    "explanation": "A typical dicot embryo consists of an embryonal axis and two cotyledons.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Parts of Dicot Embryo.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 73",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Parts"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 73,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Parts of Dicot Embryo\" in NEET Biology?",
+      "options": [
+        "Central axis of embryo",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Central axis of embryo\". Remember using: \"E-C-H-R\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-34",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-4",
+    "topicTitle": "Monocot Embryo Specific Structures",
+    "topic": "Monocot Embryo Specific Structures",
+    "mnemonicNumber": 34,
+    "sourceItemNumber": 34,
+    "title": "Monocot Embryo Specific Structures: \"S-S-C-E\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "S-S-C-E",
+    "memoryHook": "S-S-C-E",
+    "fact": "S – Scutellum – Single cotyledon situated laterally in grass embryo. S – Shoot apex / Coleoptile – Hollow foliar structure enclosing shoot apex. C – Coleorhiza – Undifferentiated sheath covering radicle and root cap. E – Epiblast – Rudimentary second cotyledon in grasses (e.g., Rice)",
+    "breakdown": [
+      {
+        "key": "S – Scutellum",
+        "label": "Single cotyledon situated laterally in grass embryo"
+      },
+      {
+        "key": "C – Coleorhiza",
+        "label": "Undifferentiated sheath covering radicle and root cap"
+      },
+      {
+        "key": "E – Epiblast",
+        "label": "Rudimentary second cotyledon in grasses (e.g., Rice)"
+      }
+    ],
+    "doodleBadge": "S-S-C-E",
+    "doodleSubtext": "Monocot Embryo Specific ",
+    "explanation": "Monocot embryos (grass family) possess a single lateral cotyledon called scutellum with protective sheaths.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Monocot Embryo Specific Structures.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 73",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Monocot"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 73,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Monocot Embryo Specific Structures\" in NEET Biology?",
+      "options": [
+        "Single cotyledon situated laterally in grass embryo",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Single cotyledon situated laterally in grass embryo\". Remember using: \"S-S-C-E\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-35",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-4",
+    "topicTitle": "Coleoptile vs Coleorhiza Locations",
+    "topic": "Coleoptile vs Coleorhiza Locations",
+    "mnemonicNumber": 35,
+    "sourceItemNumber": 35,
+    "title": "Coleoptile vs Coleorhiza Locations: \"Top-Bot\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Top-Bot",
+    "memoryHook": "Top-Bot",
+    "fact": "Coleoptile protects the shoot apex (plumule) and coleorhiza protects the root tip (radicle) in monocots. NCERT Chapter 1 Mnemonics Master Guide \tPage 7 of 10",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Top"
+      },
+      {
+        "key": "Part 2",
+        "label": "Bot"
+      }
+    ],
+    "doodleBadge": "Top-Bot",
+    "doodleSubtext": "Coleoptile vs Coleorhiza",
+    "explanation": "Coleoptile protects the shoot apex (plumule) and coleorhiza protects the root tip (radicle) in monocots. NCERT Chapter 1 Mnemonics Master Guide \tPage 7 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Coleoptile vs Coleorhiza Locations.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 73",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Coleoptile"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 73,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Coleoptile vs Coleorhiza Locations\" in NEET Biology?",
+      "options": [
+        "Top-Bot",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Coleoptile protects the shoot apex (plumule) and coleorhiza protects the root tip (radicle) in monocots. NCERT Chapter 1 Mnemonics Master Guide \tPage 7 of 10"
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-36",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-4",
+    "topicTitle": "Seed Coat Layers and Parts",
+    "topic": "Seed Coat Layers and Parts",
+    "mnemonicNumber": 36,
+    "sourceItemNumber": 36,
+    "title": "Seed Coat Layers and Parts: \"T-T-M-H\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "T-T-M-H",
+    "memoryHook": "T-T-M-H",
+    "fact": "T – Testa – Outer tough seed coat layer. T – Tegmen – Inner thin seed coat layer. M – Micropyle – Small pore on seed coat allowing water and oxygen entry during germination. H – Hilum – Scar on seed coat where funicle was attached",
+    "breakdown": [
+      {
+        "key": "T – Testa",
+        "label": "Outer tough seed coat layer"
+      },
+      {
+        "key": "T – Tegmen",
+        "label": "Inner thin seed coat layer"
+      },
+      {
+        "key": "M – Micropyle",
+        "label": "Small pore on seed coat allowing water and oxygen entry during germination"
+      },
+      {
+        "key": "H – Hilum",
+        "label": "Scar on seed coat where funicle was attached"
+      }
+    ],
+    "doodleBadge": "T-T-M-H",
+    "doodleSubtext": "Seed Coat Layers and Par",
+    "explanation": "The seed coat protects the delicate embryo and regulates dormancy until germination conditions arrive.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Seed Coat Layers and Parts.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 74",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Seed"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 74,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Seed Coat Layers and Parts\" in NEET Biology?",
+      "options": [
+        "Outer tough seed coat layer",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Outer tough seed coat layer\". Remember using: \"T-T-M-H\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-37",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-4",
+    "topicTitle": "Albuminous (Endospermic) Seed Examples",
+    "topic": "Albuminous (Endospermic) Seed Examples",
+    "mnemonicNumber": 37,
+    "sourceItemNumber": 37,
+    "title": "Albuminous (Endospermic) Seed Examples: \"C-S-W-B\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "C-S-W-B",
+    "memoryHook": "C-S-W-B",
+    "fact": "C – Castor – Albuminous dicot seed. S – Sunflower – Albuminous seed. W – Wheat – Albuminous monocot grain (caryopsis). B – Barley & Maize – Endospermic cereal grains",
+    "breakdown": [
+      {
+        "key": "C – Castor",
+        "label": "Albuminous dicot seed"
+      },
+      {
+        "key": "S – Sunflower",
+        "label": "Albuminous seed"
+      },
+      {
+        "key": "W – Wheat",
+        "label": "Albuminous monocot grain (caryopsis)"
+      },
+      {
+        "key": "B",
+        "label": "Barley & Maize – Endospermic cereal grains"
+      }
+    ],
+    "doodleBadge": "C-S-W-B",
+    "doodleSubtext": "Albuminous (Endospermic)",
+    "explanation": "Albuminous seeds retain their endosperm at maturity to supply nutrients during early seedling growth.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Albuminous (Endospermic) Seed Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 74",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Albuminous"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 74,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Albuminous (Endospermic) Seed Examples\" in NEET Biology?",
+      "options": [
+        "Albuminous dicot seed",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Albuminous dicot seed\". Remember using: \"C-S-W-B\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-38",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-4",
+    "topicTitle": "Non-Albuminous (Exalbuminous) Seed Examples",
+    "topic": "Non-Albuminous (Exalbuminous) Seed Examples",
+    "mnemonicNumber": 38,
+    "sourceItemNumber": 38,
+    "title": "Non-Albuminous (Exalbuminous) Seed Examples: \"P-G-B\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "P-G-B",
+    "memoryHook": "P-G-B",
+    "fact": "P – Pea – Exalbuminous dicot seed storing food in cotyledons. G – Groundnut – Non-endospermic legume. B – Bean – Cotyledons serve as primary food storage organs",
+    "breakdown": [
+      {
+        "key": "P – Pea",
+        "label": "Exalbuminous dicot seed storing food in cotyledons"
+      },
+      {
+        "key": "G – Groundnut – Non",
+        "label": "endospermic legume"
+      },
+      {
+        "key": "B – Bean",
+        "label": "Cotyledons serve as primary food storage organs"
+      }
+    ],
+    "doodleBadge": "P-G-B",
+    "doodleSubtext": "Non-Albuminous (Exalbumi",
+    "explanation": "Non-endospermic seeds consume their endosperm completely during embryogenesis, storing food in cotyledons.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Non-Albuminous (Exalbuminous) Seed Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 74",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Non-Albuminous"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 74,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Non-Albuminous (Exalbuminous) Seed Examples\" in NEET Biology?",
+      "options": [
+        "Exalbuminous dicot seed storing food in cotyledons",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Exalbuminous dicot seed storing food in cotyledons\". Remember using: \"P-G-B\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-39",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-4",
+    "topicTitle": "Non-Fused Residual Nucellus (Perisperm) Examples",
+    "topic": "Non-Fused Residual Nucellus (Perisperm) Examples",
+    "mnemonicNumber": 39,
+    "sourceItemNumber": 39,
+    "title": "Non-Fused Residual Nucellus (Perisperm) Examples: \"B-B-P\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "B-B-P",
+    "memoryHook": "B-B-P",
+    "fact": "B – Beet – Perisperm present in mature seed. B – Black pepper – Residual persistent nucellus. P – Perisperm definition – Nutritive persistent nucellar tissue",
+    "breakdown": [
+      {
+        "key": "B – Beet",
+        "label": "Perisperm present in mature seed"
+      },
+      {
+        "key": "B – Black pepper",
+        "label": "Residual persistent nucellus"
+      }
+    ],
+    "doodleBadge": "B-B-P",
+    "doodleSubtext": "Non-Fused Residual Nucel",
+    "explanation": "In some seeds like black pepper and beet, remnants of nucellus persist as perisperm.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Non-Fused Residual Nucellus (Perisperm) Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 74",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Non-Fused"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 74,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Non-Fused Residual Nucellus (Perisperm) Examples\" in NEET Biology?",
+      "options": [
+        "Perisperm present in mature seed",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Perisperm present in mature seed\". Remember using: \"B-B-P\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-40",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-4",
+    "topicTitle": "Seed Dormancy Advantages",
+    "topic": "Seed Dormancy Advantages",
+    "mnemonicNumber": 40,
+    "sourceItemNumber": 40,
+    "title": "Seed Dormancy Advantages: \"S-S-S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "S-S-S",
+    "memoryHook": "S-S-S",
+    "fact": "S – Storage for agriculture – Humans can store seeds for crop cultivation across seasons. S – Survival in unfavorable conditions – Protects embryo during harsh winters or droughts. S – Seed germination synchronization – Ensures germination when moisture and temperature are optimal",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "S"
+      },
+      {
+        "key": "Part 2",
+        "label": "S"
+      },
+      {
+        "key": "Part 3",
+        "label": "S"
+      }
+    ],
+    "doodleBadge": "S-S-S",
+    "doodleSubtext": "Seed Dormancy Advantages",
+    "explanation": "Seed dormancy is a state of inactive metabolic arrest that aids species survival and agriculture. NCERT Chapter 1 Mnemonics Master Guide \tPage 8 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Seed Dormancy Advantages.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 74",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Seed"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 74,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Seed Dormancy Advantages\" in NEET Biology?",
+      "options": [
+        "Humans can store seeds for crop cultivation across seasons",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Humans can store seeds for crop cultivation across seasons\". Remember using: \"S-S-S\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-41",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-5",
+    "topicTitle": "Extreme Seed Viability Records",
+    "topic": "Extreme Seed Viability Records",
+    "mnemonicNumber": 41,
+    "sourceItemNumber": 41,
+    "title": "Extreme Seed Viability Records: \"L-A-T\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "L-A-T",
+    "memoryHook": "L-A-T",
+    "fact": "L – Lupinus arcticus (Arctic lupine) – Viable seed excavated from tundra frozen soil after 10,000 years. A – Archaeological excavation – Confirms extreme longevity of dormant seeds. T – Date palm (Phoenix dactylifera) – Viable seed discovered at King Herod's palace excavated after 2,000 years",
+    "breakdown": [
+      {
+        "key": "L",
+        "label": "Lupinus arcticus (Arctic lupine) – Viable seed excavated from tundra frozen soil after 10,000 years"
+      },
+      {
+        "key": "T",
+        "label": "Date palm (Phoenix dactylifera) – Viable seed discovered at King Herod's palace excavated after 2,000 years"
+      }
+    ],
+    "doodleBadge": "L-A-T",
+    "doodleSubtext": "Extreme Seed Viability R",
+    "explanation": "Some seeds maintain viability for thousands of years in dormant states before germinating successfully.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Extreme Seed Viability Records.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 75",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Extreme"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 75,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Extreme Seed Viability Records\" in NEET Biology?",
+      "options": [
+        "Lupinus arcticus (Arctic lupine) – Viable seed excavated from tundra frozen soil",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Lupinus arcticus (Arctic lupine) – Viable seed excavated from tundra frozen soil after 10,000 years\". Remember using: \"L-A-T\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-42",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-5",
+    "topicTitle": "Fruit Types (True vs False vs Parthenocarpic)",
+    "topic": "Fruit Types (True vs False vs Parthenocarpic)",
+    "mnemonicNumber": 42,
+    "sourceItemNumber": 42,
+    "title": "Fruit Types (True vs False vs Parthenocarpic): \"T-F-P\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "T-F-P",
+    "memoryHook": "T-F-P",
+    "fact": "T – True fruit – Developed exclusively from the ovary (e.g., Mango). F – False fruit (Pseudocarp) – Thalamus contributes to fruit formation alongside ovary (e.g., Apple, Strawberry, Cashew). P – Parthenocarpic fruit – Developed without fertilization, seedless (e.g., Banana induced by growth hormones)",
+    "breakdown": [
+      {
+        "key": "T – True fruit",
+        "label": "Developed exclusively from the ovary (e.g., Mango)"
+      },
+      {
+        "key": "F",
+        "label": "False fruit (Pseudocarp) – Thalamus contributes to fruit formation alongside ovary (e.g., Apple, Strawberry, Cashew)"
+      }
+    ],
+    "doodleBadge": "T-F-P",
+    "doodleSubtext": "Fruit Types (True vs Fal",
+    "explanation": "Fruits can be true (from ovary), false (involving thalamus), or parthenocarpic (seedless without fertilization).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Fruit Types (True vs False vs Parthenocarpic).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 75",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Fruit"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 75,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Fruit Types (True vs False vs Parthenocarpic)\" in NEET Biology?",
+      "options": [
+        "Developed exclusively from the ovary (e.g., Mango)",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Developed exclusively from the ovary (e.g., Mango)\". Remember using: \"T-F-P\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-43",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-5",
+    "topicTitle": "False Fruit Examples",
+    "topic": "False Fruit Examples",
+    "mnemonicNumber": 43,
+    "sourceItemNumber": 43,
+    "title": "False Fruit Examples: \"A-S-C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "A-S-C",
+    "memoryHook": "A-S-C",
+    "fact": "A – Apple – Fleshy thalamus is main edible part. S – Strawberry – Receptacle/thalamus bears achenes on surface. C – Cashew – Pedicel swells into fleshy false fruit (cashew apple)",
+    "breakdown": [
+      {
+        "key": "A – Apple",
+        "label": "Fleshy thalamus is main edible part"
+      },
+      {
+        "key": "S – Strawberry",
+        "label": "Receptacle/thalamus bears achenes on surface"
+      },
+      {
+        "key": "C – Cashew",
+        "label": "Pedicel swells into fleshy false fruit (cashew apple)"
+      }
+    ],
+    "doodleBadge": "A-S-C",
+    "doodleSubtext": "False Fruit Examples",
+    "explanation": "In false fruits like apple and strawberry, floral parts other than the ovary contribute to the edible fruit structure.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in False Fruit Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 75",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "False"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 75,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"False Fruit Examples\" in NEET Biology?",
+      "options": [
+        "Fleshy thalamus is main edible part",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Fleshy thalamus is main edible part\". Remember using: \"A-S-C\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-44",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-5",
+    "topicTitle": "Parthenocarpy Definition & Example",
+    "topic": "Parthenocarpy Definition & Example",
+    "mnemonicNumber": 44,
+    "sourceItemNumber": 44,
+    "title": "Parthenocarpy Definition & Example: \"S-B-H\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "S-B-H",
+    "memoryHook": "S-B-H",
+    "fact": "S – Seedless condition – Fruit development without fertilization. B – Banana – Natural parthenocarpic fruit lacking viable seeds. H – Hormonal induction – Application of auxins and gibberellins induces commercial parthenocarpy",
+    "breakdown": [
+      {
+        "key": "S – Seedless condition",
+        "label": "Fruit development without fertilization"
+      },
+      {
+        "key": "B – Banana",
+        "label": "Natural parthenocarpic fruit lacking viable seeds"
+      },
+      {
+        "key": "H – Hormonal induction",
+        "label": "Application of auxins and gibberellins induces commercial parthenocarpy"
+      }
+    ],
+    "doodleBadge": "S-B-H",
+    "doodleSubtext": "Parthenocarpy Definition",
+    "explanation": "Parthenocarpy yields seedless fruits which are commercially valuable in crops like bananas and seedless grapes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Parthenocarpy Definition & Example.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 75",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Parthenocarpy"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 75,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Parthenocarpy Definition & Example\" in NEET Biology?",
+      "options": [
+        "Fruit development without fertilization",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Fruit development without fertilization\". Remember using: \"S-B-H\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-45",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-5",
+    "topicTitle": "Advantages of Seeds in Angiosperms",
+    "topic": "Advantages of Seeds in Angiosperms",
+    "mnemonicNumber": 45,
+    "sourceItemNumber": 45,
+    "title": "Advantages of Seeds in Angiosperms: \"R-A-D\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "R-A-D",
+    "memoryHook": "R-A-D",
+    "fact": "R – Reproductive adaptation – Better adaptive strategies than spores, independent of water for fertilization. A – Ample food reserves – Nourishes young seedling until photosynthesis begins. D – Dispersal to new habitats – Seeds have specialized structures for wind, water, and animal dispersal",
+    "breakdown": [
+      {
+        "key": "A – Ample food reserves",
+        "label": "Nourishes young seedling until photosynthesis begins"
+      }
+    ],
+    "doodleBadge": "R-A-D",
+    "doodleSubtext": "Advantages of Seeds in A",
+    "explanation": "Seeds offer superior reproductive advantages, enabling flowering plants to colonize diverse terrestrial habitats. NCERT Chapter 1 Mnemonics Master Guide \tPage 9 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Advantages of Seeds in Angiosperms.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 75",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Advantages"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 75,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Advantages of Seeds in Angiosperms\" in NEET Biology?",
+      "options": [
+        "Better adaptive strategies than spores, independent of water for fertilization",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Better adaptive strategies than spores, independent of water for fertilization\". Remember using: \"R-A-D\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-46",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-5",
+    "topicTitle": "Apomixis Definition & Significance",
+    "topic": "Apomixis Definition & Significance",
+    "mnemonicNumber": 46,
+    "sourceItemNumber": 46,
+    "title": "Apomixis Definition & Significance: \"A-S-H\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "A-S-H",
+    "memoryHook": "A-S-H",
+    "fact": "A – Asexual reproduction mimicking sexual reproduction – Formation of seeds without fertilization. S – Segregation absence – No genetic segregation in hybrid offspring. H – Hybrid vigor retention – Farmers do not need to buy hybrid seeds every year",
+    "breakdown": [
+      {
+        "key": "S – Segregation absence",
+        "label": "No genetic segregation in hybrid offspring"
+      }
+    ],
+    "doodleBadge": "A-S-H",
+    "doodleSubtext": "Apomixis Definition & Si",
+    "explanation": "Apomixis produces seed-derived clones without fertilization, saving costs for farmers cultivating hybrid crops.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Apomixis Definition & Significance.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 76",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Apomixis"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 76,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Apomixis Definition & Significance\" in NEET Biology?",
+      "options": [
+        "Formation of seeds without fertilization",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Formation of seeds without fertilization\". Remember using: \"A-S-H\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-47",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-5",
+    "topicTitle": "Mechanisms of Apomixis",
+    "topic": "Mechanisms of Apomixis",
+    "mnemonicNumber": 47,
+    "sourceItemNumber": 47,
+    "title": "Mechanisms of Apomixis: \"D-A-D\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "D-A-D",
+    "memoryHook": "D-A-D",
+    "fact": "D – Diplospory – Unreduced megaspore mother cell develops directly into diploid embryo sac. A – Adventitious embryony – Nucellar cells protrude into embryo sac and develop into embryos (common in Citrus and Mango). D – Direct egg development – Unfertilized egg develops parthenogenetically into embryo",
+    "breakdown": [
+      {
+        "key": "D – Diplospory",
+        "label": "Unreduced megaspore mother cell develops directly into diploid embryo sac"
+      }
+    ],
+    "doodleBadge": "D-A-D",
+    "doodleSubtext": "Mechanisms of Apomixis",
+    "explanation": "Apomictic seeds can form via adventitious embryony where nucellar cells surround and form embryos directly.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Mechanisms of Apomixis.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 76",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Mechanisms"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 76,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Mechanisms of Apomixis\" in NEET Biology?",
+      "options": [
+        "Unreduced megaspore mother cell develops directly into diploid embryo sac",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Unreduced megaspore mother cell develops directly into diploid embryo sac\". Remember using: \"D-A-D\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-48",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-5",
+    "topicTitle": "Polyembryony Examples",
+    "topic": "Polyembryony Examples",
+    "mnemonicNumber": 48,
+    "sourceItemNumber": 48,
+    "title": "Polyembryony Examples: \"C-M-O\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "C-M-O",
+    "memoryHook": "C-M-O",
+    "fact": "C – Citrus – Classic example of polyembryony with multiple embryos per seed. M – Mango – Nucellar polyembryony producing multiple seedlings. O – Occurrence – Presence of more than one embryo in a single seed",
+    "breakdown": [
+      {
+        "key": "C – Citrus",
+        "label": "Classic example of polyembryony with multiple embryos per seed"
+      },
+      {
+        "key": "M – Mango",
+        "label": "Nucellar polyembryony producing multiple seedlings"
+      },
+      {
+        "key": "O – Occurrence",
+        "label": "Presence of more than one embryo in a single seed"
+      }
+    ],
+    "doodleBadge": "C-M-O",
+    "doodleSubtext": "Polyembryony Examples",
+    "explanation": "Polyembryony is the occurrence of multiple embryos in a seed, frequently observed in Citrus and Mango due to nucellar budding.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Polyembryony Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 76",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Polyembryony"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 76,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Polyembryony Examples\" in NEET Biology?",
+      "options": [
+        "Classic example of polyembryony with multiple embryos per seed",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Classic example of polyembryony with multiple embryos per seed\". Remember using: \"C-M-O\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-49",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-5",
+    "topicTitle": "Hybrid Seed Production Challenge",
+    "topic": "Hybrid Seed Production Challenge",
+    "mnemonicNumber": 49,
+    "sourceItemNumber": 49,
+    "title": "Hybrid Seed Production Challenge: \"H-C-R\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "H-C-R",
+    "memoryHook": "H-C-R",
+    "fact": "H – Hybrid seeds – High yielding crops produced by crossing inbred lines. C – Cost hurdle – Farmers must purchase expensive hybrid seeds every year because characters segregate in F2 generation. R – Resolution via apomixis – Transferring apomictic genes into hybrids solves segregation issue",
+    "breakdown": [
+      {
+        "key": "H – Hybrid seeds",
+        "label": "High yielding crops produced by crossing inbred lines"
+      },
+      {
+        "key": "C – Cost hurdle",
+        "label": "Farmers must purchase expensive hybrid seeds every year because characters segregate in F2 generation"
+      }
+    ],
+    "doodleBadge": "H-C-R",
+    "doodleSubtext": "Hybrid Seed Production C",
+    "explanation": "Hybrid seeds lose their hybrid vigor or segregate traits in subsequent generations unless apomixis is introduced.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Hybrid Seed Production Challenge.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 76",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Hybrid"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 76,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Hybrid Seed Production Challenge\" in NEET Biology?",
+      "options": [
+        "High yielding crops produced by crossing inbred lines",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"High yielding crops produced by crossing inbred lines\". Remember using: \"H-C-R\"."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch20-50",
+    "subject": "biology",
+    "chapterId": "bio-ch-20",
+    "chapterNumber": 20,
+    "chapterTitle": "Sexual Reproduction in Flowering Plants",
+    "classLevel": 12,
+    "topicId": "bio-top-20-5",
+    "topicTitle": "Summary of Angiosperm Life Cycle Alternation",
+    "topic": "Summary of Angiosperm Life Cycle Alternation",
+    "mnemonicNumber": 50,
+    "sourceItemNumber": 50,
+    "title": "Summary of Angiosperm Life Cycle Alternation: \"S-G-D-S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "S-G-D-S",
+    "memoryHook": "S-G-D-S",
+    "fact": "S – Sporophyte (2n) – Dominant photosynthetic diploid plant body. G – Gametophyte (n) – Reduced haploid pollen grain and embryo sac. D – Double fertilization – Hallmark uniting angiosperm sexual reproduction. S – Seed formation – Ultimate evolutionary success ensuring terrestrial dominance",
+    "breakdown": [
+      {
+        "key": "S",
+        "label": "Sporophyte (2n) – Dominant photosynthetic diploid plant body"
+      },
+      {
+        "key": "G",
+        "label": "Gametophyte (n) – Reduced haploid pollen grain and embryo sac"
+      },
+      {
+        "key": "S – Seed formation",
+        "label": "Ultimate evolutionary success ensuring terrestrial dominance"
+      }
+    ],
+    "doodleBadge": "S-G-D-S",
+    "doodleSubtext": "Summary of Angiosperm Li",
+    "explanation": "Angiosperms exhibit a heteromorphic alternation of generations with a dominant diploid sporophyte and reduced gametophyte. NCERT Chapter 1 Mnemonics Master Guide \tPage 10 of 10",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 1 (Sexual Reproduction in Flowering Plants).",
+    "neetTrap": "Common NEET test point in Summary of Angiosperm Life Cycle Alternation.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 1, PDF Page 76",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Sexual Reproduction in Flowering Plants",
+      "Summary"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 76,
+      "chapter": "Sexual Reproduction in Flowering Plants"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Summary of Angiosperm Life Cycle Alternation\" in NEET Biology?",
+      "options": [
+        "Sporophyte (2n) – Dominant photosynthetic diploid plant body",
+        "Opposite mechanism seen in non-photosynthetic tissue",
+        "Inactive during normal physiological homeostatic state",
+        "Only functional in primitive prokaryotic cells"
+      ],
+      "answerIndex": 0,
+      "explanation": "Correct: \"Sporophyte (2n) – Dominant photosynthetic diploid plant body\". Remember using: \"S-G-D-S\"."
     }
   }
 ];

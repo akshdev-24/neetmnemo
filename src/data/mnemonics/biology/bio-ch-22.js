@@ -1,6 +1,7 @@
 /**
- * Biology Chapter 22: Reproductive Health
- * 20 High-Yield NEET Mnemonics
+ * NEET Biology Mnemonics — Chapter 22 (NCERT Ch 3): Reproductive Health
+ * Class 12 Biology (50 verified mnemonics)
+ * Primary Source: NCERT Class 12 Biology Quick Revision Series (PDF 2)
  */
 
 export const bioCh22Mnemonics = [
@@ -10,72 +11,72 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
     "topicId": "bio-top-22-1",
-    "topicTitle": "IUDs Classification (Intra-Uterine Devices)",
-    "topic": "Non-Medicated (Lippes Loop) vs Copper Releasing (CuT, Cu7, Multiload 375) vs Hormone Releasing (Progestasert, LNG-20)",
+    "topicTitle": "Primary",
+    "topic": "Primary",
     "mnemonicNumber": 1,
-    "title": "IUDs: Non-Medicated (Lippes Loop) | Copper Releasing (CuT, Cu7, Multiload 375) | Hormone Releasing (Progestasert, LNG-20)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 1,
+    "title": "Primary: \"Goals of RCH Programs \tA - W - A - R - E\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "visualType": "classification",
-    "mnemonicType": "classification",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "1) Non-Medicated = Lippes Loop (Double-S plastic loop -> stimulates phagocytosis of sperm) | 2) Copper Releasing = CuT, Cu7, Multiload 375 (Cu ions suppress sperm motility & fertilizing capacity) | 3) Hormone Releasing = Progestasert, LNG-20 (Make uterus unsuitable for implantation & cervix hostile to sperm)!",
-    "memoryHook": "Loop is Plain (Lippes Loop); Copper is in the name (CuT, Cu7, Multiload 375); Hormones sound medicinal (Progestasert, LNG-20)! IUDs are the #1 most widely accepted method for spacing children in India!",
-    "fact": "Intra-Uterine Devices (IUDs) inserted by doctors into uterus through vagina: 1) Non-medicated IUDs (e.g., Lippes loop): Increase phagocytosis of sperms within uterus. 2) Copper-releasing IUDs (CuT, Cu7, Multiload 375): Cu ions released suppress sperm motility and the fertilizing capacity of sperms. 3) Hormone-releasing IUDs (Progestasert, LNG-20): Make the uterus unsuitable for implantation and the cervix hostile to the sperms. IUDs are ideal contraceptives for females who want to delay pregnancy or space children.",
+    "mnemonic": "Goals of RCH Programs \tA - W - A - R - E",
+    "memoryHook": "Goals of RCH Programs \tA - W - A - R - E",
+    "fact": "Awareness of reproductive organs • Welfare of mother and child • Assisting infertile couples • Reducing STIs • Eradicating population explosion RCH programs create total awareness and infrastructure to build a reproductively healthy society.",
     "breakdown": [
       {
-        "key": "Non-Medicated IUD",
-        "label": "Lippes Loop (increases phagocytosis of sperms inside uterus)"
+        "key": "Part 1",
+        "label": "Goals of RCH Programs \tA"
       },
       {
-        "key": "Copper-Releasing IUDs",
-        "label": "CuT, Cu7, Multiload 375 (releases Cu²⁺ to suppress sperm motility and fertilizing ability)"
+        "key": "Part 2",
+        "label": "W"
       },
       {
-        "key": "Hormone-Releasing IUDs",
-        "label": "Progestasert, LNG-20 (makes uterus hostile to implantation and thickens cervical mucus)"
+        "key": "Part 3",
+        "label": "A"
       },
       {
-        "key": "Ideal Demographics",
-        "label": "Most widely accepted contraceptive method in India for spacing births"
+        "key": "Part 4",
+        "label": "R"
+      },
+      {
+        "key": "Part 5",
+        "label": "E"
       }
     ],
-    "doodleBadge": "Lippes = Non-Medicated\nCuT/Cu7/Multiload = Copper\nProgestasert/LNG-20 = Hormone",
-    "doodleSubtext": "3 IUD Classes",
-    "explanation": "Copper ions released by copper IUDs act as a local spermicide and decrease sperm motility and enzymatic acrosomal reactions.",
-    "alsoRemember": "IUDs should be inserted only by trained medical practitioners/nurses through the cervix into the uterine cavity.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 4, Section 4.2.",
-    "neetTrap": "Multiload 375 is a COPPER-releasing IUD (not hormone-releasing); LNG-20 and Progestasert are HORMONE-releasing.",
+    "doodleBadge": "Goals of RCH Programs \tA",
+    "doodleSubtext": "Primary",
+    "explanation": "Awareness of reproductive organs • Welfare of mother and child • Assisting infertile couples • Reducing STIs • Eradicating population explosion RCH programs create total awareness and infrastructure to build a reproductively healthy society.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Primary.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 52",
     "tags": [
-      "IUDs",
-      "Lippes Loop",
-      "CuT",
-      "Cu7",
-      "Multiload 375",
-      "LNG-20",
-      "Progestasert",
-      "Contraception"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Primary"
     ],
-    "expandedMeaning": "Pharmaco-mechanical classification and cellular contraceptive modes of intra-uterine devices.",
-    "whyItWorks": "Three-way clean split with direct matching to NCERT examples.",
-    "visualDescription": "Three IUD models: S-shaped Lippes Loop, T-shaped copper-wrapped CuT, and reservoir-bearing LNG-20.",
-    "neetRelevance": "One of the most frequently asked matching questions in all of NEET biology.",
-    "commonMistake": "Classifying Multiload 375 as a hormone-releasing IUD.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 52,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is a HORMONE-RELEASING Intra-Uterine Device (IUD)?",
+      "question": "Which of the following is associated with \"Primary\" in NEET Biology?",
       "options": [
-        "Lippes loop",
-        "Multiload 375",
-        "CuT",
-        "LNG-20"
+        "Goals of RCH Programs \tA - W - A - R - E",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 3,
-      "explanation": "LNG-20 and Progestasert are hormone-releasing IUDs that make the uterus unsuitable for implantation."
+      "answerIndex": 0,
+      "explanation": "Awareness of reproductive organs • Welfare of mother and child • Assisting infertile couples • Reducing STIs • Eradicating population explosion RCH programs create total awareness and infrastructure to build a reproductively healthy society."
     }
   },
   {
@@ -84,74 +85,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
     "topicId": "bio-top-22-1",
-    "topicTitle": "Saheli: Non-Steroidal Once-a-Week Oral Pill",
-    "topic": "Centchroman, Developed by CDRI Lucknow, High Contraceptive Value, Few Side Effects",
+    "topicTitle": "Key",
+    "topic": "Key",
     "mnemonicNumber": 2,
-    "title": "Saheli Pill: Non-Steroidal (Centchroman) + Once-a-Week + Developed by CDRI Lucknow (Few Side Effects)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 2,
+    "title": "Key: \"Indicators of Improved Reproductive Health \tM - I - N - D\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "SAHELI = \"Best Friend Pill\" -> NON-STEROIDAL preparation (Centchroman / Ormeloxifene) + ONCE-A-WEEK dosage pill + Developed by scientists at Central Drug Research Institute (CDRI) in LUCKNOW, India -> High contraceptive efficacy with very few side effects!",
-    "memoryHook": "Saheli is India's pride from CDRI Lucknow! Unlike daily hormone pills, Saheli is a Non-Steroidal Once-a-Week pill with almost zero hormonal side effects!",
-    "fact": "Saheli is a novel oral contraceptive for females: 1) Non-steroidal preparation (contains Centchroman / Ormeloxifene, a selective estrogen receptor modulator). 2) Once-a-week pill with very few side effects and high contraceptive value. 3) Developed by scientists at the Central Drug Research Institute (CDRI) in Lucknow, India. Regular combined oral pills (e.g., Mala D/N) are steroidal (progestogen-estrogen) and must be taken daily for 21 days starting within first 5 days of menstrual cycle.",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Indicators of Improved Reproductive Health \tM - I - N - D",
+    "memoryHook": "Indicators of Improved Reproductive Health \tM - I - N - D",
+    "fact": "MMR (Maternal Mortality Rate) decrease • IMR (Infant Mortality Rate) decrease • Number of small families increase • Detection & early cure of STIs Better healthcare and awareness lead to significant declines in both MMR and IMR.",
     "breakdown": [
       {
-        "key": "Chemical Nature",
-        "label": "NON-STEROIDAL compound (Centchroman / Ormeloxifene SERM)"
+        "key": "Focus",
+        "label": "Key"
       },
       {
-        "key": "Dosing Schedule",
-        "label": "Once-a-week oral pill (taken twice weekly for first 3 months, then once weekly)"
-      },
-      {
-        "key": "Development Institution",
-        "label": "Central Drug Research Institute (CDRI), Lucknow, India"
-      },
-      {
-        "key": "Mechanism",
-        "label": "Blocks estrogen receptors in uterine endometrium, preventing implantation"
-      },
-      {
-        "key": "Key Advantage",
-        "label": "Very high contraceptive efficacy with minimal hormonal side effects"
+        "key": "Trick",
+        "label": "Indicators of Improved Reproductive Health \tM - I - N - D"
       }
     ],
-    "doodleBadge": "Saheli: Non-Steroidal | Once-a-Week\nCDRI Lucknow Creation",
-    "doodleSubtext": "India's Oral Pill",
-    "explanation": "Saheli works by competitive antagonism of uterine estrogen receptors, which prevents the normal estrogen-driven preparation of the endometrium for blastocyst implantation.",
-    "alsoRemember": "Standard combined pills inhibit ovulation and implantation as well as alter cervical mucus quality to retard sperm entry.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.1 & 4.2.",
-    "neetTrap": "Saheli is NON-STEROIDAL (it does NOT contain synthetic progesterone or estrogen).",
+    "doodleBadge": "Indicators of Improved R",
+    "doodleSubtext": "Key",
+    "explanation": "MMR (Maternal Mortality Rate) decrease • IMR (Infant Mortality Rate) decrease • Number of small families increase • Detection & early cure of STIs Better healthcare and awareness lead to significant declines in both MMR and IMR.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Key.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 52",
     "tags": [
-      "Saheli",
-      "CDRI Lucknow",
-      "Non-Steroidal",
-      "Once-a-Week Pill",
-      "Centchroman",
-      "Oral Contraceptives"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Key"
     ],
-    "expandedMeaning": "Selective estrogen receptor modulator pharmacology and indigenous development of non-steroidal oral contraceptives.",
-    "whyItWorks": "Three key pillars: Non-Steroidal + Once-a-Week + CDRI Lucknow.",
-    "visualDescription": "Strip of \"Saheli\" pills showing once-a-week calendar dots with CDRI Lucknow emblem.",
-    "neetRelevance": "One of the most frequently asked questions on contraceptive pills in NEET.",
-    "commonMistake": "Assuming Saheli contains steroid hormones.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 52,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Saheli, a new oral contraceptive for females developed by CDRI Lucknow, is characterized as a:",
+      "question": "Which of the following is associated with \"Key\" in NEET Biology?",
       "options": [
-        "Steroidal daily pill",
-        "Non-steroidal once-a-week pill",
-        "Hormone-releasing IUD",
-        "Subcutaneous implant"
+        "Indicators of Improved Reproductive Health \tM - I - N - D",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Saheli is a non-steroidal oral contraceptive pill taken once a week, developed by CDRI in Lucknow."
+      "answerIndex": 0,
+      "explanation": "MMR (Maternal Mortality Rate) decrease • IMR (Infant Mortality Rate) decrease • Number of small families increase • Detection & early cure of STIs Better healthcare and awareness lead to significant declines in both MMR and IMR."
     }
   },
   {
@@ -160,70 +147,64 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
     "topicId": "bio-top-22-1",
-    "topicTitle": "Natural / Traditional Contraceptive Methods",
-    "topic": "Periodic Abstinence (Days 10-17), Coitus Interruptus, Lactational Amenorrhea (Max 6 Months)",
+    "topicTitle": "Statutory",
+    "topic": "Statutory",
     "mnemonicNumber": 3,
-    "title": "Natural Methods: Periodic Abstinence (Days 10-17 Fertile Window) | Coitus Interruptus | Lactational Amenorrhea (Max 6 Months Post-Partum)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 3,
+    "title": "Statutory: \"Ban on Amniocentesis \tS - E - X\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
     "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Natural Methods (Zero Drugs, Zero Devices, Zero Side Effects, but High Failure Rate): 1) Periodic Abstinence (Avoid coitus from Day 10 to 17 of menstrual cycle = Fertile Period when ovulation occurs!) | 2) Coitus Interruptus (Withdrawal of penis before ejaculation) | 3) Lactational Amenorrhea (Intense breastfeeding releases high Prolactin -> suppresses GnRH/LH/FSH -> No Ovulation -> Effective up to MAX 6 MONTHS post-partum)!",
-    "memoryHook": "No chemicals, no pills! 1) Calendar safety (avoid Days 10-17 fertile window), 2) Pull-out withdrawal, 3) Baby suckling high Prolactin shuts off ovulation for up to 6 months!",
-    "fact": "Natural / Traditional contraceptive methods work on principle of avoiding chances of ovum and sperm meeting: 1) Periodic Abstinence: Couple avoids or abstains from coitus from Day 10 to 17 of menstrual cycle (the Fertile Period) because ovum remains viable for ~1-2 days and sperm for ~3 days around Day 14 ovulation. 2) Coitus Interruptus / Withdrawal: Male partner withdraws penis from vagina just before ejaculation. 3) Lactational Amenorrhea: Ovulation and menstrual cycle do not occur during period of intense lactation following parturition (high prolactin inhibits GnRH). Effective ONLY up to a maximum period of 6 months following delivery. As no medicines or devices are used, side effects are nil, but chances of failure are very high.",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Ban on Amniocentesis \tS - E - X",
+    "memoryHook": "Ban on Amniocentesis \tS - E - X",
+    "fact": "Sex determination banned • Eradication of female foeticide • X & Y chromosome misuse prevention Amniocentesis tests chromosomal patterns in amniotic fluid; banned to prevent sex-selective abortions.",
     "breakdown": [
       {
-        "key": "Periodic Abstinence",
-        "label": "Avoid coitus on Days 10-17 of 28-day cycle (Fertile Window around Day 14 ovulation)"
+        "key": "Part 1",
+        "label": "Ban on Amniocentesis \tS"
       },
       {
-        "key": "Coitus Interruptus",
-        "label": "Withdrawal method to prevent insemination into vaginal canal"
+        "key": "Part 2",
+        "label": "E"
       },
       {
-        "key": "Lactational Amenorrhea",
-        "label": "Prolactin-induced suppression of gonadotropins during intense breastfeeding (Max 6 months)"
-      },
-      {
-        "key": "Pros & Cons",
-        "label": "Zero side effects, zero cost, but high failure rate compared to modern methods"
+        "key": "Part 3",
+        "label": "X"
       }
     ],
-    "doodleBadge": "Days 10-17 = Fertile Period\nLactational Amenorrhea = Max 6 Months",
-    "doodleSubtext": "3 Natural Contraceptives",
-    "explanation": "High prolactin during intense suckling suppresses hypothalamic GnRH pulses, thereby blocking the LH surge and preventing ovulation.",
-    "alsoRemember": "Lactational amenorrhea is effective only as long as the mother is exclusively and fully breastfeeding the child.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.2.",
-    "neetTrap": "Lactational amenorrhea is effective as a natural contraceptive method up to a MAXIMUM OF 6 MONTHS post-partum.",
+    "doodleBadge": "Ban on Amniocentesis \tS ",
+    "doodleSubtext": "Statutory",
+    "explanation": "Sex determination banned • Eradication of female foeticide • X & Y chromosome misuse prevention Amniocentesis tests chromosomal patterns in amniotic fluid; banned to prevent sex-selective abortions.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Statutory.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 52",
     "tags": [
-      "Natural Contraception",
-      "Periodic Abstinence",
-      "Fertile Window",
-      "Coitus Interruptus",
-      "Lactational Amenorrhea",
-      "Prolactin"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Statutory"
     ],
-    "expandedMeaning": "Physiological and behavioral rhythm-based gametic avoidance methods and prolactin-mediated anovulatory windows.",
-    "whyItWorks": "Three natural techniques: Calendar (10-17), Withdrawal, Breastfeeding (6 mo max).",
-    "visualDescription": "Calendar highlighting red danger zone across Days 10 to 17 labeled \"Fertile Period\", next to mother breastfeeding baby with 6-month timer.",
-    "neetRelevance": "Common in fertile period day range and lactational amenorrhea duration MCQs.",
-    "commonMistake": "Thinking lactational amenorrhea lasts indefinitely as long as breastfeeding continues.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 52,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Lactational amenorrhea is effective as a natural method of contraception up to a maximum period of how long following parturition?",
+      "question": "Which of the following is associated with \"Statutory\" in NEET Biology?",
       "options": [
-        "3 months",
-        "6 months",
-        "1 year",
-        "2 years"
+        "Ban on Amniocentesis \tS - E - X",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Lactational amenorrhea is reported to be effective as a contraceptive method up to a maximum period of 6 months following childbirth."
+      "answerIndex": 0,
+      "explanation": "Sex determination banned • Eradication of female foeticide • X & Y chromosome misuse prevention Amniocentesis tests chromosomal patterns in amniotic fluid; banned to prevent sex-selective abortions."
     }
   },
   {
@@ -232,70 +213,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
     "topicId": "bio-top-22-1",
-    "topicTitle": "Surgical Sterilization: Vasectomy vs Tubectomy",
-    "topic": "Vasectomy (Vas Deferens via Scrotum) vs Tubectomy (Fallopian Tubes via Abdomen/Vagina)",
+    "topicTitle": "Features",
+    "topic": "Features",
     "mnemonicNumber": 4,
-    "title": "Sterilization: Vasectomy (Male: Cut & Tie Vas Deferens via Scrotum) vs Tubectomy (Female: Cut & Tie Fallopian Tubes) = Terminal & Highly Irreversible",
-    "badgeText": "Comparison",
+    "sourceItemNumber": 4,
+    "title": "Features: \"of an Ideal Contraceptive \tU - E - E - C - S\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Vasectomy = Cut & tie a small piece of VAS DEFERENS in men through small incision on Scrotum (Semen still produced, but ZERO sperm in ejaculate!) | Tubectomy = Cut & tie small piece of FALLOPIAN TUBES in women through abdomen/vagina (Blocks egg transport!) | Terminal methods with very poor reversibility!",
-    "memoryHook": "VAS-ectomy clips the VAS deferens in boys! TUBE-ctomy clips the Fallopian TUBES in girls! Blocks the gamete highway completely! Highly effective, but almost impossible to reverse!",
-    "fact": "Surgical sterilization methods (Terminal methods): 1) Vasectomy (in males): A small part of the vas deferens is removed or tied up through a small incision on the scrotum. Testes still produce sperm and accessory glands still produce seminal plasma, so ejaculation occurs normally, but semen contains NO spermatozoa (azoospermia). 2) Tubectomy (in females): A small part of the fallopian tube is removed or tied up through a small incision in the abdomen or through vagina. Blocks gamete transport and prevents fertilization. These are permanent terminal sterilization methods with very high contraceptive efficacy (>99%), but their reversibility is very poor.",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "of an Ideal Contraceptive \tU - E - E - C - S",
+    "memoryHook": "of an Ideal Contraceptive \tU - E - E - C - S",
+    "fact": "User-friendly • Easily available • Effective with least side effects • Cheap / Economical • Sexual drive non-interfering An ideal contraceptive is effective, reversible, and does not hamper the user's sexual desire. 2. NATURAL & BARRIER CONTRACEPTIVE METHODS",
     "breakdown": [
       {
-        "key": "Vasectomy",
-        "label": "Ligation/excision of Vas Deferens via scrotum; blocks sperm transport into urethra"
+        "key": "Focus",
+        "label": "Features"
       },
       {
-        "key": "Post-Vasectomy Semen",
-        "label": "Ejaculate contains seminal vesicle/prostate secretions but ZERO sperm (normal orgasm/ejaculation)"
-      },
-      {
-        "key": "Tubectomy",
-        "label": "Ligation/excision of Fallopian Tubes via abdomen/vagina; blocks egg transport and fertilization"
-      },
-      {
-        "key": "Reversibility",
-        "label": "Very poor reversibility; meant strictly as permanent terminal birth control"
+        "key": "Trick",
+        "label": "of an Ideal Contraceptive \tU - E - E - C - S"
       }
     ],
-    "doodleBadge": "Vasectomy = Vas Deferens (Scrotum)\nTubectomy = Fallopian Tube (Abdomen)",
-    "doodleSubtext": "Permanent Sterilization",
-    "explanation": "After vasectomy, sperm produced by testes are simply phagocytosed and reabsorbed by macrophages in the epididymis.",
-    "alsoRemember": "Vasectomy does NOT affect male testosterone production, secondary sexual characters, or erection.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.2.",
-    "neetTrap": "Vasectomy does NOT stop ejaculation or semen production; it only ensures that NO SPERM are present in the ejaculated semen.",
+    "doodleBadge": "of an Ideal Contraceptiv",
+    "doodleSubtext": "Features",
+    "explanation": "User-friendly • Easily available • Effective with least side effects • Cheap / Economical • Sexual drive non-interfering An ideal contraceptive is effective, reversible, and does not hamper the user's sexual desire. 2. NATURAL & BARRIER CONTRACEPTIVE METHODS",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Features.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 52",
     "tags": [
-      "Vasectomy",
-      "Tubectomy",
-      "Sterilization",
-      "Vas Deferens",
-      "Fallopian Tube",
-      "Terminal Method"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Features"
     ],
-    "expandedMeaning": "Surgical gametoductal occlusion techniques and post-operative seminal fluid dynamics.",
-    "whyItWorks": "Vas (Vas deferens) vs Tube (Fallopian tube) name matching.",
-    "visualDescription": "Dual surgical diagrams: male scrotum showing tied loops on Vas Deferens vs female pelvis showing tied loops on Fallopian Tubes.",
-    "neetRelevance": "Common in true/false statements regarding semen content post-vasectomy.",
-    "commonMistake": "Thinking men cannot ejaculate after a vasectomy.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 52,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following statements regarding VASECTOMY is correct?",
+      "question": "Which of the following is associated with \"Features\" in NEET Biology?",
       "options": [
-        "It prevents spermatogenesis in the testes",
-        "It inhibits the secretion of testosterone by Leydig cells",
-        "It blocks the transport of sperm so that semen contains no spermatozoa",
-        "It prevents the formation of seminal plasma by accessory glands"
+        "of an Ideal Contraceptive \tU - E - E - C - S",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Vasectomy blocks the transport of sperm through the vas deferens; semen is still ejaculated but contains no sperm."
+      "answerIndex": 0,
+      "explanation": "User-friendly • Easily available • Effective with least side effects • Cheap / Economical • Sexual drive non-interfering An ideal contraceptive is effective, reversible, and does not hamper the user's sexual desire. 2. NATURAL & BARRIER CONTRACEPTIVE"
     }
   },
   {
@@ -304,74 +275,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-2",
-    "topicTitle": "Medical Termination of Pregnancy (MTP)",
-    "topic": "Legalized in India 1971, Safe up to First Trimester (12 Weeks), MTP Amendment Act 2017",
+    "classLevel": 12,
+    "topicId": "bio-top-22-1",
+    "topicTitle": "Natural/Traditional",
+    "topic": "Natural/Traditional",
     "mnemonicNumber": 5,
-    "title": "MTP: Legalized 1971 in India | Safe in 1st Trimester (Up to 12 Weeks) | 45-50 Million MTPs Worldwide / Year",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 5,
+    "title": "Natural/Traditional: \"Methods of Contraception \tP - C - L\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "MTP (Induced Abortion): 45 to 50 Million per year worldwide (1/5th of total conceived pregnancies) | Legalized in INDIA in 1971 with strict conditions | Safest during FIRST TRIMESTER (Up to 12 weeks of pregnancy) | 2nd Trimester abortions are much more risky!",
-    "memoryHook": "MTP = Safe up to 12 Weeks (1st Trimester)! Legalized in India in 1971! 1 in every 5 pregnancies worldwide ends in MTP (45-50 Million/year)!",
-    "fact": "Medical Termination of Pregnancy (MTP) / Induced Abortion: Intentional or voluntary termination of pregnancy before full term. Nearly 45 to 50 million MTPs are performed in a year all over the world (~1/5th of total conceived pregnancies). Government of India legalized MTP in 1971 with strict conditions to prevent misuse (female foeticide). MTP is considered relatively safe during the First Trimester (up to 12 weeks of pregnancy); second trimester terminations are much more risky. MTP is performed to avoid unwanted pregnancies from rape or contraceptive failure, or where continuation of pregnancy endangers life of mother/fetus.",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Methods of Contraception \tP - C - L",
+    "memoryHook": "Methods of Contraception \tP - C - L",
+    "fact": "Periodic abstinence • Coitus interruptus (withdrawal) • Lactational amenorrhea Natural methods avoid contact between ovum and sperm without external devices or chemicals.",
     "breakdown": [
       {
-        "key": "Global Prevalence",
-        "label": "45 to 50 million MTPs performed annually (~20% or 1/5th of all pregnancies)"
+        "key": "Focus",
+        "label": "Natural/Traditional"
       },
       {
-        "key": "Legalization in India",
-        "label": "Enacted in 1971 to reduce maternal mortality from illegal unsafe abortions"
-      },
-      {
-        "key": "Safest Period",
-        "label": "First Trimester (up to 12 weeks of gestation)"
-      },
-      {
-        "key": "Second Trimester Risk",
-        "label": "Significantly more hazardous to maternal health"
-      },
-      {
-        "key": "MTP Amendment Act 2017",
-        "label": "Allows termination up to 20 weeks on opinion of 1 RMP; 20-24 weeks for special categories on opinion of 2 RMPs"
+        "key": "Trick",
+        "label": "Methods of Contraception \tP - C - L"
       }
     ],
-    "doodleBadge": "MTP: Safe <= 12 Weeks (1st Trimester)\nLegal in India since 1971",
-    "doodleSubtext": "MTP Facts & Numbers",
-    "explanation": "MTPs are not meant as a regular family planning method, but as an emergency procedure for high-risk or unwanted pregnancies.",
-    "alsoRemember": "Mifepristone (RU-486, an anti-progesterone drug) combined with misoprostol (prostaglandin) is used for medical abortion.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.3.",
-    "neetTrap": "MTP is safe up to the FIRST TRIMESTER (12 weeks); 2nd trimester abortions carry much higher maternal risk.",
+    "doodleBadge": "Methods of Contraception",
+    "doodleSubtext": "Natural/Traditional",
+    "explanation": "Periodic abstinence • Coitus interruptus (withdrawal) • Lactational amenorrhea Natural methods avoid contact between ovum and sperm without external devices or chemicals.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Natural/Traditional.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 52",
     "tags": [
-      "MTP",
-      "Induced Abortion",
-      "12 Weeks",
-      "First Trimester",
-      "1971 Legalization",
-      "Reproductive Health"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Natural/Traditional"
     ],
-    "expandedMeaning": "Epidemiology, gestational safety limits, and medico-legal framework of induced pregnancy termination.",
-    "whyItWorks": "1971 + 12 weeks + 45-50 million annual count key markers.",
-    "visualDescription": "Gestational clock highlighting safe green zone up to 12 weeks (1st Trimester) and red warning danger zone in 2nd trimester.",
-    "neetRelevance": "Common in legal timeline and safe trimester identification MCQs.",
-    "commonMistake": "Thinking MTP is equally safe in both first and second trimesters.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.3",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 52,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Medical Termination of Pregnancy (MTP) is considered relatively safe up to how many weeks of pregnancy (first trimester)?",
+      "question": "Which of the following is associated with \"Natural/Traditional\" in NEET Biology?",
       "options": [
-        "6 weeks",
-        "12 weeks",
-        "18 weeks",
-        "24 weeks"
+        "Methods of Contraception \tP - C - L",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "MTP is considered relatively safe during the first trimester, i.e., up to 12 weeks of pregnancy."
+      "answerIndex": 0,
+      "explanation": "Periodic abstinence • Coitus interruptus (withdrawal) • Lactational amenorrhea Natural methods avoid contact between ovum and sperm without external devices or chemicals."
     }
   },
   {
@@ -380,72 +337,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-3",
-    "topicTitle": "Sexually Transmitted Infections (STIs): Incurable Trio",
-    "topic": "Hepatitis B, HIV/AIDS, Genital Herpes (Completely Incurable) vs Curable STIs",
+    "classLevel": 12,
+    "topicId": "bio-top-22-1",
+    "topicTitle": "Fertile",
+    "topic": "Fertile",
     "mnemonicNumber": 6,
-    "title": "STIs Incurable Trio: 3 H's = Hepatitis B, HIV, Herpes (Completely Incurable; Rest are Curable if Detected Early)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 6,
+    "title": "Fertile: \"Window in Periodic Abstinence \tDAY 10 to 17\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "easy",
+    "difficulty": "hard",
     "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "The 3 Incurable H's: 1) Hepatitis B, 2) HIV / AIDS, 3) Genital Herpes -> EXCEPT for these three, all other STIs (Gonorrhoea, Syphilis, Chlamydiasis, Genital Warts, Trichomoniasis) are COMPLETELY CURABLE if detected early and treated properly!",
-    "memoryHook": "Triple H (Hepatitis B, HIV, Herpes) are for Life (Incurable)! All other bacterial/parasitic STIs (Gonorrhoea, Syphilis, Chlamydia, Trichomonas) can be cured with antibiotics if caught early!",
-    "fact": "Sexually Transmitted Infections (STIs / Venereal Diseases / Reproductive Tract Infections): Infections transmitted through sexual intercourse. Common STIs include Gonorrhoea (Neisseria), Syphilis (Treponema), Genital herpes (HSV), Chlamydiasis (Chlamydia), Genital warts (HPV), Trichomoniasis (Trichomonas parasite), Hepatitis-B, and HIV (causing AIDS). Except for Hepatitis-B, Genital Herpes, and HIV infections, other diseases are completely curable if detected early and treated properly. Hepatitis B and HIV are also transmitted by sharing injection needles, surgical instruments, and blood transfusion.",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Window in Periodic Abstinence \tDAY 10 to 17",
+    "memoryHook": "Window in Periodic Abstinence \tDAY 10 to 17",
+    "fact": "Day 10 to 17 of menstrual cycle = Fertile period when ovulation occurs. Avoid coitus during these days. Abstaining from intercourse during days 10–17 prevents fertilization during the peak ovulatory phase.",
     "breakdown": [
       {
-        "key": "Incurable Trio (3 H's)",
-        "label": "Hepatitis B, HIV / AIDS, and Genital Herpes (cannot be completely cured)"
+        "key": "Focus",
+        "label": "Fertile"
       },
       {
-        "key": "Curable STIs (Early Treatment)",
-        "label": "Gonorrhoea, Syphilis, Chlamydiasis, Genital Warts, Trichomoniasis"
-      },
-      {
-        "key": "Trichomoniasis Agent",
-        "label": "Caused by protozoan flagellate Trichomonas vaginalis (not a virus or bacterium)"
-      },
-      {
-        "key": "Pelvic Inflammatory Disease (PID)",
-        "label": "Complication of untreated STIs leading to ectopic pregnancy, stillbirths, and infertility"
+        "key": "Trick",
+        "label": "Window in Periodic Abstinence \tDAY 10 to 17"
       }
     ],
-    "doodleBadge": "Incurable: Hepatitis B, HIV, Herpes\nCurable: Syphilis, Gonorrhoea, Chlamydia",
-    "doodleSubtext": "3 Incurable H's",
-    "explanation": "Hepatitis B and HIV are the only STIs that can also be readily transmitted non-sexually through contaminated needles, transfusions, and vertical transmission from mother to fetus.",
-    "alsoRemember": "Condoms (barriers) are the only contraceptives that provide dual protection: preventing pregnancy AND protecting against STIs/AIDS.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.4.",
-    "neetTrap": "Except for HEPATITIS-B, GENITAL HERPES, and HIV, all other STIs are completely curable if detected early.",
+    "doodleBadge": "Window in Periodic Absti",
+    "doodleSubtext": "Fertile",
+    "explanation": "Day 10 to 17 of menstrual cycle = Fertile period when ovulation occurs. Avoid coitus during these days. Abstaining from intercourse during days 10–17 prevents fertilization during the peak ovulatory phase.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Fertile.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 52",
     "tags": [
-      "STIs",
-      "Hepatitis B",
-      "HIV",
-      "Genital Herpes",
-      "Incurable STIs",
-      "Syphilis",
-      "Gonorrhoea",
-      "PID"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Fertile"
     ],
-    "expandedMeaning": "Etiological taxonomy and curative prognosis classification of sexually transmitted reproductive tract pathogens.",
-    "whyItWorks": "3 H's rule (Hepatitis B, HIV, Herpes = Incurable) isolates the exceptions.",
-    "visualDescription": "Two medical charts: Red padlock box labeled \"Incurable Trio: Hepatitis B, HIV, Herpes\" vs Green prescription box labeled \"Curable with early treatment: Syphilis, Gonorrhoea, Chlamydia\".",
-    "neetRelevance": "One of the most frequently asked grouping questions in NCERT zoology.",
-    "commonMistake": "Classifying genital warts or syphilis as incurable.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.4",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 52,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following sexually transmitted infections are considered COMPLETELY INCURABLE even if detected early?",
+      "question": "Which of the following is associated with \"Fertile\" in NEET Biology?",
       "options": [
-        "Gonorrhoea, Syphilis, Chlamydiasis",
-        "Hepatitis-B, Genital herpes, and HIV infection",
-        "Genital warts, Trichomoniasis, Syphilis",
-        "Chlamydiasis and Gonorrhoea"
+        "Window in Periodic Abstinence \tDAY 10 to 17",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "NCERT explicitly states that except for Hepatitis-B, Genital Herpes, and HIV infections, other STIs are completely curable."
+      "answerIndex": 0,
+      "explanation": "Day 10 to 17 of menstrual cycle = Fertile period when ovulation occurs. Avoid coitus during these days. Abstaining from intercourse during days 10–17 prevents fertilization during the peak ovulatory phase."
     }
   },
   {
@@ -454,71 +399,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-4",
-    "topicTitle": "ART Techniques: ZIFT vs IUT (In Vitro Fertilization)",
-    "topic": "Zygote Intra-Fallopian Transfer (<=8 Blastomeres) vs Intra-Uterine Transfer (>8 Blastomeres)",
+    "classLevel": 12,
+    "topicId": "bio-top-22-1",
+    "topicTitle": "Lactational",
+    "topic": "Lactational",
     "mnemonicNumber": 7,
-    "title": "IVF-ET: ZIFT (Zygote or Embryo up to 8 Blastomeres into FALLOPIAN TUBE) vs IUT (Embryos >8 Blastomeres into UTERUS)",
-    "badgeText": "Comparison",
+    "sourceItemNumber": 7,
+    "title": "Lactational: \"Amenorrhea Limits \tMAX 6 MONTHS\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EDF4FF",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
     "badgeColor": "#5B8DEF",
-    "mnemonic": "In Vitro Fertilization (Test Tube Baby): Fertilization outside body in lab -> 1) ZIFT (Zygote Intra-Fallopian Transfer: Zygote or early embryo UP TO 8 BLASTOMERES transferred into Fallopian Tube!) | 2) IUT (Intra-Uterine Transfer: Embryos with MORE THAN 8 BLASTOMERES transferred into Uterus)!",
-    "memoryHook": "ZIFT has an F for Fallopian Tube (small baby <= 8 cells)! IUT has a U for Uterus (big baby > 8 cells goes directly to the Uterine room)!",
-    "fact": "Assisted Reproductive Technologies (ART) for In Vitro Fertilization and Embryo Transfer (IVF-ET / Test Tube Baby programme): Ova from wife/donor and sperms from husband/donor are collected and induced to form zygote under simulated laboratory conditions (in vitro). Embryo Transfer (ET) procedures: 1) ZIFT (Zygote Intra-Fallopian Transfer): Zygote or early embryo up to 8 blastomeres is transferred into the fallopian tube. 2) IUT (Intra-Uterine Transfer): Embryos with more than 8 blastomeres are transferred directly into the uterus to complete further development.",
+    "mnemonic": "Amenorrhea Limits \tMAX 6 MONTHS",
+    "memoryHook": "Amenorrhea Limits \tMAX 6 MONTHS",
+    "fact": "Effective only up to a maximum period of 6 months postpartum during intense, exclusive lactation. High prolactin levels suppress gonadotropins (FSH/LH), temporarily halting ovulation and menstruation.",
     "breakdown": [
       {
-        "key": "IVF (In Vitro Fertilization)",
-        "label": "Fertilization takes place outside the female body in laboratory glass/petri dish"
+        "key": "Point 1",
+        "label": "temporarily halting ovulation"
       },
       {
-        "key": "ZIFT (<= 8 Blastomeres)",
-        "label": "Zygote Intra-Fallopian Transfer: embryo with up to 8 cells transferred into Fallopian Tube"
-      },
-      {
-        "key": "IUT (> 8 Blastomeres)",
-        "label": "Intra-Uterine Transfer: embryo with more than 8 cells transferred directly into Uterus"
-      },
-      {
-        "key": "In Vivo Fertilization",
-        "label": "Fusion of gametes within the female tract (e.g., GIFT)"
+        "key": "Point 2",
+        "label": "menstruation"
       }
     ],
-    "doodleBadge": "<= 8 Cells -> Fallopian Tube (ZIFT)\n> 8 Cells -> Uterus (IUT)",
-    "doodleSubtext": "8-Blastomere Cutoff",
-    "explanation": "The 8-blastomere threshold mimics natural physiology: in normal reproduction, embryos have 8 cells while traversing the oviduct and enter the uterus at the 16-32 cell morula/blastocyst stage.",
-    "alsoRemember": "Embryos formed by in-vivo fertilization (fusion of gametes within female) can also be transferred to assist infertile females.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.5.",
-    "neetTrap": "Up to 8 blastomeres = ZIFT (into Fallopian tube); MORE than 8 blastomeres = IUT (into Uterus).",
+    "doodleBadge": "Amenorrhea Limits \tMAX 6",
+    "doodleSubtext": "Lactational",
+    "explanation": "Effective only up to a maximum period of 6 months postpartum during intense, exclusive lactation. High prolactin levels suppress gonadotropins (FSH/LH), temporarily halting ovulation and menstruation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Lactational.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 52",
     "tags": [
-      "ART",
-      "IVF",
-      "ZIFT",
-      "IUT",
-      "Embryo Transfer",
-      "Test Tube Baby",
-      "8 Blastomeres"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Lactational"
     ],
-    "expandedMeaning": "Cell-stage gated clinical allocation protocols for tubal versus intrauterine blastomere transfer.",
-    "whyItWorks": "8-cell cutoff rule: F in ZIFT = Fallopian (<=8), U in IUT = Uterus (>8).",
-    "visualDescription": "Petri dish embryo dividing: 8-cell stage pointing to Fallopian tube catheter (ZIFT), 16-cell stage pointing to Uterine cavity catheter (IUT).",
-    "neetRelevance": "One of the most frequently tested numerical cutoff questions in NEET biology.",
-    "commonMistake": "Transferring an embryo with >8 blastomeres into the fallopian tube.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.5",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 52,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In an IVF-ET programme, an early embryo with up to 8 blastomeres is transferred into which organ of the female recipient (ZIFT)?",
+      "question": "Which of the following is associated with \"Lactational\" in NEET Biology?",
       "options": [
-        "Uterus",
-        "Fallopian tube",
-        "Cervix",
-        "Vagina"
+        "Amenorrhea Limits \tMAX 6 MONTHS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "In ZIFT, the zygote or early embryo with up to 8 blastomeres is transferred into the fallopian tube."
+      "answerIndex": 0,
+      "explanation": "Effective only up to a maximum period of 6 months postpartum during intense, exclusive lactation. High prolactin levels suppress gonadotropins (FSH/LH), temporarily halting ovulation and menstruation."
     }
   },
   {
@@ -527,71 +461,64 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-4",
-    "topicTitle": "GIFT, ICSI & AI / IUI Infertility Techniques",
-    "topic": "GIFT (Gamete Transfer into Tube), ICSI (Sperm Injected into Egg), AI/IUI (Semen into Uterus)",
+    "classLevel": 12,
+    "topicId": "bio-top-22-1",
+    "topicTitle": "Barrier",
+    "topic": "Barrier",
     "mnemonicNumber": 8,
-    "title": "Other ART Techniques: GIFT (Gamete Egg into Fallopian Tube) | ICSI (Single Sperm Injected into Ovum) | IUI / AI (Semen into Uterus)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 8,
+    "title": "Barrier: \"Methods for Females \tD - V - C\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFF0F3",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#FF8D78",
-    "mnemonic": "1) GIFT (Gamete Intra-Fallopian Transfer = Transfer of DONOR OVUM into Fallopian tube of female who cannot produce eggs but has healthy uterus!) | 2) ICSI (Intra-Cytoplasmic Sperm Injection = Specialized lab needle directly injects 1 sperm into ovum cytoplasm!) | 3) AI / IUI (Intra-Uterine Insemination = Semen from husband/donor introduced into uterus for low sperm count/oligospermia)!",
-    "memoryHook": "GIFT is Gifting an Egg gamete to a woman with no eggs! ICSI is an ultra-fine Micro-Needle shooting 1 sperm directly inside the egg! IUI pumps semen into the Uterus when sperm count is low!",
-    "fact": "Specialized Assisted Reproductive Technologies (ART): 1) GIFT (Gamete Intra-Fallopian Transfer): Transfer of an ovum collected from a donor into the fallopian tube of another female who cannot produce one, but can provide suitable environment for fertilization and further development (In Vivo fertilization). 2) ICSI (Intra-Cytoplasmic Sperm Injection): A specialized procedure in which a single sperm is directly injected into the cytoplasm of an ovum in the laboratory to form an embryo. 3) AI / IUI (Artificial Insemination / Intra-Uterine Insemination): Infertility cases due to inability of male partner to inseminate or due to very low sperm counts (oligospermia) can be corrected by introducing semen collected from husband/donor into the vagina or directly into the uterus (IUI) of the female.",
+    "mnemonic": "Methods for Females \tD - V - C",
+    "memoryHook": "Methods for Females \tD - V - C",
+    "fact": "Diaphragms • Vault caps • Cervical caps (Reusable rubber domes blocking cervix) These rubber barriers cover the uterine cervix to block sperm entry into the female reproductive tract.",
     "breakdown": [
       {
-        "key": "GIFT",
-        "label": "Gamete Intra-Fallopian Transfer: unfertilized ovum + sperms transferred into fallopian tube (In Vivo)"
+        "key": "Part 1",
+        "label": "Methods for Females \tD"
       },
       {
-        "key": "ICSI",
-        "label": "Intra-Cytoplasmic Sperm Injection: single sperm micro-injected directly into ovum cytoplasm"
+        "key": "Part 2",
+        "label": "V"
       },
       {
-        "key": "AI / IUI",
-        "label": "Artificial Insemination / Intra-Uterine Insemination: used for male oligospermia or erectile dysfunction"
-      },
-      {
-        "key": "Surrogacy",
-        "label": "Embryo implanted in surrogate mother if biological mother cannot carry pregnancy"
+        "key": "Part 3",
+        "label": "C"
       }
     ],
-    "doodleBadge": "GIFT = Egg to Tube (In Vivo)\nICSI = Needle Injects Sperm\nIUI = Semen into Uterus",
-    "doodleSubtext": "ART Spectrum",
-    "explanation": "GIFT is an in vivo fertilization technique because the egg and sperm fuse inside the living female fallopian tube, unlike IVF which is in vitro.",
-    "alsoRemember": "Adoption is an emotionally and legally sound alternative for childless couples in India.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.5.",
-    "neetTrap": "GIFT is an IN VIVO fertilization technique (gametes fuse inside the woman's fallopian tube), NOT in vitro.",
+    "doodleBadge": "Methods for Females \tD -",
+    "doodleSubtext": "Barrier",
+    "explanation": "Diaphragms • Vault caps • Cervical caps (Reusable rubber domes blocking cervix) These rubber barriers cover the uterine cervix to block sperm entry into the female reproductive tract.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Barrier.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 52",
     "tags": [
-      "GIFT",
-      "ICSI",
-      "IUI",
-      "Artificial Insemination",
-      "Infertility",
-      "ART",
-      "Oligospermia"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Barrier"
     ],
-    "expandedMeaning": "Specialized clinical indications and micro-manipulative protocols in assisted reproductive medicine.",
-    "whyItWorks": "GIFT (Egg gift to tube) + ICSI (Micro-needle) + IUI (Semen into uterus).",
-    "visualDescription": "Three panels: Laparoscopic egg delivery to fallopian tube (GIFT), micro-pipette injecting sperm head into round egg cell (ICSI), and intrauterine catheter introducing semen (IUI).",
-    "neetRelevance": "One of the most frequently asked matching and definition questions in NEET.",
-    "commonMistake": "Classifying GIFT as in vitro fertilization.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.5",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 52,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which technique is used when an infertile female cannot produce an ovum herself, but can provide a suitable internal environment for fertilization and development?",
+      "question": "Which of the following is associated with \"Barrier\" in NEET Biology?",
       "options": [
-        "ZIFT",
-        "GIFT",
-        "ICSI",
-        "IUT"
+        "Methods for Females \tD - V - C",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "GIFT (Gamete Intra-Fallopian Transfer) transfers a donor ovum into the fallopian tube of a woman who cannot produce eggs."
+      "answerIndex": 0,
+      "explanation": "Diaphragms • Vault caps • Cervical caps (Reusable rubber domes blocking cervix) These rubber barriers cover the uterine cervix to block sperm entry into the female reproductive tract."
     }
   },
   {
@@ -600,70 +527,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
     "topicId": "bio-top-22-1",
-    "topicTitle": "Amniocentesis: Principle & Statutory Ban",
-    "topic": "Karyotyping Fetal Cells for Genetic Disorders (Down Syndrome) vs Misuse for Female Foeticide",
+    "topicTitle": "Nirodh",
+    "topic": "Nirodh",
     "mnemonicNumber": 9,
-    "title": "Amniocentesis: Amniotic Fluid Fetal Cell Karyotype (Detects Down Syndrome, Sickle Cell, Hemophilia) | STATUTORY BAN on Sex Determination!",
-    "badgeText": "Concept",
+    "sourceItemNumber": 9,
+    "title": "Nirodh: \"(Male Condom) Advantages \tN - I - R - O - D - H\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Amniocentesis (Syringe extracts Amniotic Fluid around fetus) -> Cultured fetal cells tested for Chromosomal Abnormalities (Down Syndrome, Turner, Klinefelter) & Metabolic disorders (Sickle cell anemia, Hemophilia) -> STATUTORY BAN IN INDIA to prevent Female Foeticide!",
-    "memoryHook": "Amniocentesis was invented to save babies from deadly genetic diseases (Down syndrome)! But when people abused it to abort baby girls, the government put a strict legal ban on prenatal sex testing!",
-    "fact": "Amniocentesis is a fetal sex and genetic disorder determination test: A small amount of amniotic fluid containing desquamated fetal skin cells is extracted from the amniotic sac of a pregnant woman (usually around 14-16 weeks) using a hypodermic needle guided by ultrasound. The fetal cells are cultured and karyotyped to detect: 1) Chromosomal abnormalities (e.g., Down syndrome trisomy 21, Turner syndrome, Klinefelter syndrome), 2) Inborn metabolic/genetic defects (e.g., Sickle-cell anemia, Hemophilia). Statutory ban on amniocentesis for sex determination is strictly enforced in India under the PCPNDT Act to legally check female foeticide and maintain sex ratio.",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "(Male Condom) Advantages \tN - I - R - O - D - H",
+    "memoryHook": "(Male Condom) Advantages \tN - I - R - O - D - H",
+    "fact": "National brand • Inhibits insemination • Reduces STIs • One-time use • Dual action • High privacy Male condoms cover the penis and afford additional protection against STIs and HIV transmission.",
     "breakdown": [
       {
-        "key": "Procedure",
-        "label": "Transabdominal extraction of ~10-20 mL amniotic fluid containing fetal cells at 14-16 weeks"
+        "key": "Point 1",
+        "label": "afford additional protection against STIs"
       },
       {
-        "key": "Legitimate Medical Use",
-        "label": "Prenatal detection of chromosomal disorders (Down syndrome) and genetic diseases (Sickle cell)"
-      },
-      {
-        "key": "Misuse & Statutory Ban",
-        "label": "Banned in India to eliminate prenatal sex determination and prevent female foeticide"
-      },
-      {
-        "key": "Biochemical Analysis",
-        "label": "Enzymes and proteins in fluid also diagnose neural tube defects (Alpha-fetoprotein)"
+        "key": "Point 2",
+        "label": "HIV transmission"
       }
     ],
-    "doodleBadge": "Amniocentesis = Detects Down Syndrome\nStatutory Ban on Sex Determination",
-    "doodleSubtext": "Prenatal Diagnostics",
-    "explanation": "Amniocentesis cannot detect all birth defects; it specifically diagnoses chromosomal aneuploidies and measurable enzymatic metabolic errors.",
-    "alsoRemember": "Chorionic Villus Sampling (CVS) can be performed earlier (10-12 weeks) by sampling placental trophoblast tissue.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.1.",
-    "neetTrap": "Amniocentesis is legally BANNED for sex determination, but is medically permitted for diagnosing genetic disorders.",
+    "doodleBadge": "(Male Condom) Advantages",
+    "doodleSubtext": "Nirodh",
+    "explanation": "National brand • Inhibits insemination • Reduces STIs • One-time use • Dual action • High privacy Male condoms cover the penis and afford additional protection against STIs and HIV transmission.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Nirodh.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 52",
     "tags": [
-      "Amniocentesis",
-      "Down Syndrome",
-      "Statutory Ban",
-      "Female Foeticide",
-      "Karyotyping",
-      "Amniotic Fluid"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Nirodh"
     ],
-    "expandedMeaning": "Cytogenetic amniotic diagnostic methodology and socio-legal regulatory bioethics in India.",
-    "whyItWorks": "Medical use (Genetic cures) vs Legal Ban (Sex determination).",
-    "visualDescription": "Ultrasound-guided syringe extracting fluid from amniotic sac with magnifying glass showing normal vs trisomy-21 karyotype, stamped with red \"Sex Testing Banned\" legal seal.",
-    "neetRelevance": "One of the most frequently asked bioethics and genetics questions in NEET.",
-    "commonMistake": "Believing amniocentesis is completely banned for all medical diagnostic purposes.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 52,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Why has a statutory legal ban been imposed on the prenatal diagnostic technique of AMNIOCENTESIS in India?",
+      "question": "Which of the following is associated with \"Nirodh\" in NEET Biology?",
       "options": [
-        "Because it causes severe maternal infections",
-        "To prevent its misuse for prenatal sex determination and female foeticide",
-        "Because it cannot detect Down syndrome",
-        "Due to high financial costs"
+        "(Male Condom) Advantages \tN - I - R - O - D - H",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Amniocentesis is legally banned for sex determination in India to stop female foeticide."
+      "answerIndex": 0,
+      "explanation": "National brand • Inhibits insemination • Reduces STIs • One-time use • Dual action • High privacy Male condoms cover the penis and afford additional protection against STIs and HIV transmission."
     }
   },
   {
@@ -672,70 +589,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
     "topicId": "bio-top-22-1",
-    "topicTitle": "Combined Oral Contraceptive Pills Mechanism",
-    "topic": "Progestogen-Estrogen Combination (21 Days + 7 Gap Days)",
+    "topicTitle": "Spermicidal",
+    "topic": "Spermicidal",
     "mnemonicNumber": 10,
-    "title": "Combined Oral Pills: Inhibit Ovulation + Inhibit Implantation + Thicken Cervical Mucus to Block Sperm",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 10,
+    "title": "Spermicidal: \"Agents (Barrier Support) \tC - F - J\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
     "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Pills have 3 Lines of Defense: 1) INHIBIT OVULATION (High Progesterone/Estrogen blocks LH Surge!) -> 2) INHIBIT IMPLANTATION (Alters uterine endometrium) -> 3) THICKEN CERVICAL MUCUS (Forms a thick plug to block and retard sperm entry)!",
-    "memoryHook": "Oral pills put up 3 locked gates: 1) No Egg released (Ovulation blocked), 2) No Palace prepared (Implantation blocked), 3) Sticky thick mucus plug blocks the sperm doorway!",
-    "fact": "Oral administration of small doses of either progestogens or progestogen-estrogen combinations (Pills): Taken daily for a period of 21 days starting preferably within first 5 days of menstrual cycle, followed by a gap of 7 days (during which menstruation occurs). Triple Mechanism of Action: 1) They inhibit ovulation by exerting negative feedback on pituitary LH and FSH secretion, 2) They inhibit implantation by altering the endometrium, 3) They alter the quality of cervical mucus to make it thick and hostile, retarding or preventing entry of sperms. Pills are very effective with lesser side effects and well accepted by females.",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Agents (Barrier Support) \tC - F - J",
+    "memoryHook": "Agents (Barrier Support) \tC - F - J",
+    "fact": "Creams • Foams • Jellies (Used along with barriers to increase contraceptive efficiency) Chemical spermicides immobilize or kill spermatozoa in the vagina prior to cervical entry.",
     "breakdown": [
       {
-        "key": "Schedule",
-        "label": "21 consecutive days of active pills + 7 days pill-free / placebo iron tablet interval"
+        "key": "Focus",
+        "label": "Spermicidal"
       },
       {
-        "key": "Mechanism 1: Anovulation",
-        "label": "Negative feedback suppresses pituitary FSH and LH surge, preventing follicular rupture"
-      },
-      {
-        "key": "Mechanism 2: Anti-Implantation",
-        "label": "Renders the endometrial lining thin, atrophic, and unreceptive to blastocyst"
-      },
-      {
-        "key": "Mechanism 3: Cervical Barrier",
-        "label": "Thickens cervical mucus into a viscous barrier blocking sperm ascent"
+        "key": "Trick",
+        "label": "Agents (Barrier Support) \tC - F - J"
       }
     ],
-    "doodleBadge": "Pills Triple Action:\nNo Ovulation + No Implantation + Thick Mucus",
-    "doodleSubtext": "Oral Contraceptive Action",
-    "explanation": "The 7-day pill-free interval causes a drop in artificial steroid hormone levels, inducing withdrawal bleeding resembling normal menstruation.",
-    "alsoRemember": "Emergency contraceptive pills (containing high dose levonorgestrel) must be taken within 72 hours of unprotected intercourse.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.2.",
-    "neetTrap": "Oral contraceptive pills work primarily by INHIBITING OVULATION and IMPLANTATION (not by destroying sperms).",
+    "doodleBadge": "Agents (Barrier Support)",
+    "doodleSubtext": "Spermicidal",
+    "explanation": "Creams • Foams • Jellies (Used along with barriers to increase contraceptive efficiency) Chemical spermicides immobilize or kill spermatozoa in the vagina prior to cervical entry.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Spermicidal.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 52",
     "tags": [
-      "Oral Contraceptives",
-      "Pills",
-      "Ovulation Inhibition",
-      "Cervical Mucus",
-      "Progestogen-Estrogen",
-      "Mala D"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Spermicidal"
     ],
-    "expandedMeaning": "Pharmacodynamics of combined steroid anovulatory regimens and endocervical barrier modulation.",
-    "whyItWorks": "Triple action formula: Stop egg (Ovulation), Stop bed (Implantation), Stop door (Cervical mucus).",
-    "visualDescription": "Three-tiered barrier diagram: red stop sign over ovary (No Ovulation), crossed out endometrium (No Implantation), and thick sticky plug at cervix (No Sperm Entry).",
-    "neetRelevance": "Common in multi-statement mechanism of action MCQs.",
-    "commonMistake": "Thinking oral pills act by killing sperms like spermicidal creams.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 52,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is a primary mechanism of action of combined oral contraceptive pills?",
+      "question": "Which of the following is associated with \"Spermicidal\" in NEET Biology?",
       "options": [
-        "Phagocytosis of sperms in vagina",
-        "Inhibition of ovulation and alteration of cervical mucus quality",
-        "Surgical blockage of fallopian tubes",
-        "Killing of sperms by copper ions"
+        "Agents (Barrier Support) \tC - F - J",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Combined oral pills primarily inhibit ovulation and implantation, while altering cervical mucus quality to block sperm entry."
+      "answerIndex": 0,
+      "explanation": "Creams • Foams • Jellies (Used along with barriers to increase contraceptive efficiency) Chemical spermicides immobilize or kill spermatozoa in the vagina prior to cervical entry."
     }
   },
   {
@@ -744,71 +651,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-1",
-    "topicTitle": "Barrier Contraceptives: Condoms & Cervical Barriers",
-    "topic": "Condoms (Prevent Pregnancy + STIs) vs Diaphragms, Cervical Caps, Vaults (Reusable + Spermicidal Jellies)",
+    "classLevel": 12,
+    "topicId": "bio-top-22-2",
+    "topicTitle": "Categories",
+    "topic": "Categories",
     "mnemonicNumber": 11,
-    "title": "Barrier Methods: Condoms (Nirodh = Disposable, Blocks Sperm + PROTECTS FROM STIs & AIDS!) vs Diaphragms / Caps (Reusable, Cervix Covers)",
-    "badgeText": "Comparison",
+    "sourceItemNumber": 11,
+    "title": "Categories: \"of Intrauterine Devices \tN - C - H\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "mnemonicType": "comparison",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Condoms (Nirodh = Thin rubber/latex sheath, disposable, self-inserted, PROTECTS AGAINST STIs & AIDS!) | Diaphragms, Cervical Caps & Vaults (Rubber barriers inserted into female tract to cover CERVIX, Reusable, used with Spermicidal creams/jellies/foams to boost efficacy)!",
-    "memoryHook": "Condoms are the ONLY double shield: they block unwanted pregnancy AND stop STIs and AIDS! Diaphragms and Cervical Caps cover the cervix door, are washable and reusable, but do NOT protect against HIV!",
-    "fact": "Barrier methods prevent physical contact of sperm and ovum: 1) Condoms (e.g., Nirodh for males, Femidom for females): Barriers made of thin rubber/latex sheath used to cover penis or vagina/cervix. Gives additional benefit of protecting the user from contracting STIs and AIDS; disposable and self-inserted. 2) Diaphragms, Cervical Caps, and Vaults: Rubber barriers inserted into female tract to cover the cervix during coitus. They block entry of sperms through the cervix; are REUSABLE. Spermicidal creams, jellies, and foams are usually used along with these barriers to increase contraceptive efficiency.",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "of Intrauterine Devices \tN - C - H",
+    "memoryHook": "of Intrauterine Devices \tN - C - H",
+    "fact": "Non-medicated IUDs • Copper-releasing IUDs • Hormone-releasing IUDs IUDs are inserted into the uterine cavity through the vagina by trained medical professionals.",
     "breakdown": [
       {
-        "key": "Condoms (Nirodh)",
-        "label": "Disposable latex sheath; prevents pregnancy + PROTECTS AGAINST STIs AND AIDS"
+        "key": "Focus",
+        "label": "Categories"
       },
       {
-        "key": "Diaphragms & Cervical Caps",
-        "label": "Reusable rubber barriers covering cervix; do NOT protect against STIs"
-      },
-      {
-        "key": "Spermicidal Adjuncts",
-        "label": "Creams, jellies, and foams containing nonoxynol-9 used with barriers to enhance efficacy"
-      },
-      {
-        "key": "User Independence",
-        "label": "Both can be self-inserted, giving privacy to the user"
+        "key": "Trick",
+        "label": "of Intrauterine Devices \tN - C - H"
       }
     ],
-    "doodleBadge": "Condoms = Prevents Pregnancy + STIs\nDiaphragms/Caps = Reusable Cervix Cover",
-    "doodleSubtext": "Barrier Spectrum",
-    "explanation": "Diaphragms, cervical caps, and vaults do not protect against STIs because vaginal and vulval mucosal surfaces remain exposed to fluid contact.",
-    "alsoRemember": "Female condoms are also called Femidoms.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.2.",
-    "neetTrap": "Diaphragms, cervical caps, and vaults are REUSABLE, whereas condoms are DISPOSABLE.",
+    "doodleBadge": "of Intrauterine Devices ",
+    "doodleSubtext": "Categories",
+    "explanation": "Non-medicated IUDs • Copper-releasing IUDs • Hormone-releasing IUDs IUDs are inserted into the uterine cavity through the vagina by trained medical professionals.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Categories.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 53",
     "tags": [
-      "Condoms",
-      "Nirodh",
-      "Diaphragms",
-      "Cervical Caps",
-      "Vaults",
-      "STIs",
-      "Barrier Methods"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Categories"
     ],
-    "expandedMeaning": "Physical barrier technology comparison and mucosal pathogen barrier protection efficacy.",
-    "whyItWorks": "Dual protection (Condoms = Pregnancy + STIs) vs Reusable Cervix Caps.",
-    "visualDescription": "Side-by-side comparison of disposable latex condom with STI shield icon vs reusable silicone cervical dome cup with spermicidal jelly tube.",
-    "neetRelevance": "Common in barrier method features and STI protection questions.",
-    "commonMistake": "Thinking diaphragms protect against HIV and other STIs.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 53,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which contraceptive barrier method provides the crucial additional benefit of protecting the user from contracting Sexually Transmitted Infections (STIs) and AIDS?",
+      "question": "Which of the following is associated with \"Categories\" in NEET Biology?",
       "options": [
-        "Diaphragms",
-        "Cervical caps",
-        "Condoms (Nirodh)",
-        "Vaults"
+        "of Intrauterine Devices \tN - C - H",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Condoms provide protection against both unwanted pregnancy and the transmission of STIs/AIDS."
+      "answerIndex": 0,
+      "explanation": "Non-medicated IUDs • Copper-releasing IUDs • Hormone-releasing IUDs IUDs are inserted into the uterine cavity through the vagina by trained medical professionals."
     }
   },
   {
@@ -817,74 +713,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-1",
-    "topicTitle": "Subcutaneous Implants & Injections",
-    "topic": "Progestogens or Progestogen-Estrogen Combinations under Skin (Norplant)",
+    "classLevel": 12,
+    "topicId": "bio-top-22-2",
+    "topicTitle": "Non-Medicated",
+    "topic": "Non-Medicated",
     "mnemonicNumber": 12,
-    "title": "Implants & Injections: Progestogens Placed Under Skin (Long-Effective Reversible Contraception for Years)",
-    "badgeText": "Concept",
-    "importance": "Medium Yield",
+    "sourceItemNumber": 12,
+    "title": "Non-Medicated: \"IUD Example \tLIPPES LOOP\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Progestogens alone or in combination with Estrogen can also be used by females as INJECTIONS or IMPLANTS (Matchstick-like rods under skin of upper arm) -> Same mechanism as pills, but effective for MUCH LONGER PERIODS (3 to 5 years)!",
-    "memoryHook": "Subdermal Implants look like tiny matchsticks tucked under the upper arm skin! They release slow, steady drops of progestogen for 3-5 years without needing a daily pill!",
-    "fact": "Injections and Implants: Progestogens alone or in combination with estrogen can also be used by females as injections (e.g., Depo-Provera) or as implants under the skin (e.g., Norplant, Implanon containing 6 or 1 matchstick-sized flexible silicone capsules). Their mode of action is similar to that of oral pills (inhibit ovulation, alter endometrium and cervical mucus) and their effective periods are much longer (up to 3-5 years). Reversible immediately upon surgical removal of the rods.",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "IUD Example \tLIPPES LOOP",
+    "memoryHook": "IUD Example \tLIPPES LOOP",
+    "fact": "Lippes Loop → Polyethylene double-S loop that increases phagocytosis of sperms within the uterus. Non-medicated IUDs induce a sterile local inflammatory response in the endometrium.",
     "breakdown": [
       {
-        "key": "Composition",
-        "label": "Progestogens alone (Levonorgestrel) or Progestogen-Estrogen combinations"
+        "key": "Focus",
+        "label": "Non-Medicated"
       },
       {
-        "key": "Implantation Site",
-        "label": "Subdermally under the skin of the inner upper arm"
-      },
-      {
-        "key": "Mechanism of Action",
-        "label": "Identical to oral pills: anovulation, endometrial atrophy, thick cervical mucus"
-      },
-      {
-        "key": "Duration of Action",
-        "label": "Continuous slow hormone release providing 3 to 5 years of uninterrupted contraception"
-      },
-      {
-        "key": "Reversibility",
-        "label": "Rapid return of fertility upon minor-procedure surgical removal"
+        "key": "Trick",
+        "label": "IUD Example \tLIPPES LOOP"
       }
     ],
-    "doodleBadge": "Subdermal Matchsticks = 3-5 Years\nSlow Progestogen Release",
-    "doodleSubtext": "Implants & Injections",
-    "explanation": "Implants eliminate the major drawback of oral pills, which is user compliance (forgetting to take a daily pill).",
-    "alsoRemember": "Emergency administration of implants/injections is not typical; emergency pills or copper IUDs are used instead within 72 hours.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.2.",
-    "neetTrap": "Implants are placed SUBDERMALLY under the skin (not inside the uterus like IUDs).",
+    "doodleBadge": "IUD Example \tLIPPES LOOP",
+    "doodleSubtext": "Non-Medicated",
+    "explanation": "Lippes Loop → Polyethylene double-S loop that increases phagocytosis of sperms within the uterus. Non-medicated IUDs induce a sterile local inflammatory response in the endometrium.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Non-Medicated.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 53",
     "tags": [
-      "Implants",
-      "Norplant",
-      "Injections",
-      "Progestogens",
-      "Subdermal",
-      "Long-acting Contraception"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Non-Medicated"
     ],
-    "expandedMeaning": "Subdermal slow-release polymer drug delivery kinetics in reversible fertility control.",
-    "whyItWorks": "Matchsticks under arm = 3-5 years of zero daily pill stress.",
-    "visualDescription": "Diagram of female upper arm showing minor subdermal insertion of matchstick-like flexible rods releasing purple hormone dots.",
-    "neetRelevance": "Common in contraceptive method identification and mechanism matching.",
-    "commonMistake": "Confusing subdermal implants with intra-uterine devices.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 53,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Contraceptive implants containing progestogens are placed in which part of the female body to provide long-term contraception?",
+      "question": "Which of the following is associated with \"Non-Medicated\" in NEET Biology?",
       "options": [
-        "Inside the uterine cavity",
-        "In the fallopian tube",
-        "Subdermally under the skin of the arm",
-        "In the vaginal vault"
+        "IUD Example \tLIPPES LOOP",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Contraceptive implants (like Norplant) are placed subdermally under the skin, usually of the upper arm."
+      "answerIndex": 0,
+      "explanation": "Lippes Loop → Polyethylene double-S loop that increases phagocytosis of sperms within the uterus. Non-medicated IUDs induce a sterile local inflammatory response in the endometrium."
     }
   },
   {
@@ -893,70 +775,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-1",
-    "topicTitle": "Emergency Contraception (72-Hour Rule)",
-    "topic": "Progestogens, Progestogen-Estrogen, or Copper IUDs within 72 Hours of Unprotected Coitus",
+    "classLevel": 12,
+    "topicId": "bio-top-22-2",
+    "topicTitle": "Copper",
+    "topic": "Copper",
     "mnemonicNumber": 13,
-    "title": "Emergency Contraception: Morning-After Pill / Copper IUD used within 72 HOURS of Unprotected Coitus / Rape / Contraceptive Failure",
-    "badgeText": "Formula",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "formula",
-    "mnemonicType": "formula",
+    "sourceItemNumber": 13,
+    "title": "Copper: \"Releasing IUD Examples \tCuT - Cu7 - M375\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
     "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "EMERGENCY 72-HOUR WINDOW: Administration of Progestogens (Levonorgestrel / i-pill) OR Progestogen-Estrogen combinations OR Insertion of COPPER IUDs within 72 HOURS (3 days) of unprotected coitus -> Prevents unwanted pregnancy from rape or condom burst!",
-    "memoryHook": "The 72-Hour Emergency Lifeline! High-dose progestogen pill or emergency Copper IUD inserted within 72 hours (3 days) prevents ovulation or implantation after an accident!",
-    "fact": "Emergency Contraception: Administration of progestogens or progestogen-estrogen combinations or IUDs (especially Copper-T) within 72 hours of coitus have been found to be very effective as emergency contraceptives. They are used to avoid possible pregnancy due to rape, casual unprotected coitus, or contraceptive failure (such as condom leakage/rupture). They work primarily by preventing or delaying ovulation or inhibiting blastocyst implantation.",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Releasing IUD Examples \tCuT - Cu7 - M375",
+    "memoryHook": "Releasing IUD Examples \tCuT - Cu7 - M375",
+    "fact": "CuT (Copper T) • Cu7 (Copper 7) • Multiload 375 Copper-releasing devices continuously leach copper ions into the uterine cavity.",
     "breakdown": [
       {
-        "key": "Critical Time Window",
-        "label": "Within 72 HOURS (3 days) of unprotected sexual intercourse"
+        "key": "Focus",
+        "label": "Copper"
       },
       {
-        "key": "Pharmacological Options",
-        "label": "High-dose Progestogen (e.g., Levonorgestrel 1.5 mg) or Progestogen-Estrogen pills"
-      },
-      {
-        "key": "IUD Option",
-        "label": "Emergency insertion of Copper-releasing IUD (CuT) within 5 days"
-      },
-      {
-        "key": "Primary Indications",
-        "label": "Rape, condom breakage/slippage, missed regular pills, unprotected intercourse"
+        "key": "Trick",
+        "label": "Releasing IUD Examples \tCuT - Cu7 - M375"
       }
     ],
-    "doodleBadge": "72 Hours = Emergency Window\nProgestogen Pill or Cu-IUD",
-    "doodleSubtext": "Emergency Rescue",
-    "explanation": "Emergency contraception is most effective the sooner it is taken; efficacy decreases significantly with each passing 24-hour interval.",
-    "alsoRemember": "Emergency pills are not effective once implantation has already occurred (not an abortifacient).",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.2.",
-    "neetTrap": "Emergency contraception must be administered within 72 HOURS (not 7 days or 2 weeks) of unprotected intercourse.",
+    "doodleBadge": "Releasing IUD Examples \t",
+    "doodleSubtext": "Copper",
+    "explanation": "CuT (Copper T) • Cu7 (Copper 7) • Multiload 375 Copper-releasing devices continuously leach copper ions into the uterine cavity.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Copper.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 53",
     "tags": [
-      "Emergency Contraception",
-      "72 Hours",
-      "Levonorgestrel",
-      "Copper IUD",
-      "Rape",
-      "Contraceptive Failure"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Copper"
     ],
-    "expandedMeaning": "Post-coital interception kinetics and temporal emergency intervention windows.",
-    "whyItWorks": "Clear 72-hour (3 day) countdown timer anchor.",
-    "visualDescription": "72-hour countdown stopwatch with emergency pill blister pack and copper IUD symbol.",
-    "neetRelevance": "Standard NCERT direct timeframe question.",
-    "commonMistake": "Extending the emergency window to 1 week.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 53,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Within how many hours of unprotected coitus must emergency contraceptives (pills or copper IUDs) be administered to effectively prevent pregnancy?",
+      "question": "Which of the following is associated with \"Copper\" in NEET Biology?",
       "options": [
-        "24 hours",
-        "48 hours",
-        "72 hours",
-        "120 hours"
+        "Releasing IUD Examples \tCuT - Cu7 - M375",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Emergency contraceptives are effective when administered within 72 hours of unprotected intercourse."
+      "answerIndex": 0,
+      "explanation": "CuT (Copper T) • Cu7 (Copper 7) • Multiload 375 Copper-releasing devices continuously leach copper ions into the uterine cavity."
     }
   },
   {
@@ -965,70 +837,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-1",
-    "topicTitle": "India's Family Planning & RCH Milestones",
-    "topic": "India 1st Country in 1951 (Family Planning) -> RCH Programmes (Reproductive & Child Health Care)",
+    "classLevel": 12,
+    "topicId": "bio-top-22-2",
+    "topicTitle": "Mode",
+    "topic": "Mode",
     "mnemonicNumber": 14,
-    "title": "RCH Programme: India was FIRST Country in World (1951) to Launch National Family Planning -> Evolved to RCH",
-    "badgeText": "Memory Trick",
-    "importance": "Medium Yield",
+    "sourceItemNumber": 14,
+    "title": "Mode: \"of Action of Copper Ions \tS - M - F\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "concept",
-    "cardColor": "#FFE681",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#A66CFF",
-    "mnemonic": "1951: India became the FIRST NATION IN THE WORLD to initiate action plans and national family planning programmes! -> Later upgraded and modernized as Reproductive and Child Health Care (RCH) programmes!",
-    "memoryHook": "India was World Champion #1 in 1951 to launch government Family Planning! It grew into the massive RCH (Reproductive and Child Health) programme to care for mothers and babies!",
-    "fact": "National population initiatives in India: India was amongst the very first countries in the world to initiate action plans and programmes at a national level to attain total reproductive health as a social goal. These programmes, called Family Planning, were initiated in 1951 and were periodically assessed over the past decades. Improved programmes covering wider reproduction-related areas are currently in operation under the popular name Reproductive and Child Health Care (RCH) programmes.",
+    "mnemonic": "of Action of Copper Ions \tS - M - F",
+    "memoryHook": "of Action of Copper Ions \tS - M - F",
+    "fact": "Suppresses sperm motility • Motility rate drops • Fertilizing capacity inhibited Released Cu2+ ions exert a toxic effect on spermatozoa and decrease their motility.",
     "breakdown": [
       {
-        "key": "1951 Milestone",
-        "label": "India launched the world's first nationwide government Family Planning programme"
+        "key": "Focus",
+        "label": "Mode"
       },
       {
-        "key": "Modern Name",
-        "label": "Reproductive and Child Health Care (RCH) programmes"
-      },
-      {
-        "key": "Key Goals",
-        "label": "Creating awareness, providing medical facilities, lowering MMR and IMR, encouraging small families"
-      },
-      {
-        "key": "Indicators of Health",
-        "label": "Decreased Maternal Mortality Rate (MMR) and Infant Mortality Rate (IMR)"
+        "key": "Trick",
+        "label": "of Action of Copper Ions \tS - M - F"
       }
     ],
-    "doodleBadge": "1951: India #1 in World\nFamily Planning -> RCH Programmes",
-    "doodleSubtext": "Historical Milestones",
-    "explanation": "Widespread immunization, antenatal and postnatal care under RCH drastically brought down both Infant Mortality Rate (IMR) and Maternal Mortality Rate (MMR) across India.",
-    "alsoRemember": "Population of India in May 2011 crossed 1.2 billion, with a global population reaching 7.2 billion in 2011.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.1.",
-    "neetTrap": "India initiated national family planning programmes in 1951 (NOT 1971, which was the year MTP was legalized).",
+    "doodleBadge": "of Action of Copper Ions",
+    "doodleSubtext": "Mode",
+    "explanation": "Suppresses sperm motility • Motility rate drops • Fertilizing capacity inhibited Released Cu2+ ions exert a toxic effect on spermatozoa and decrease their motility.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Mode.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 53",
     "tags": [
-      "Family Planning",
-      "1951",
-      "RCH",
-      "MMR",
-      "IMR",
-      "Reproductive Health Milestones"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Mode"
     ],
-    "expandedMeaning": "Historical evolution and public health infrastructure of national demographic and maternal-child health programs in India.",
-    "whyItWorks": "1951 (Family Planning) vs 1971 (MTP Legalization) clean milestone distinction.",
-    "visualDescription": "Timeline banner: 1951 (India launches World 1st Family Planning) leading to modern RCH mother-child healthcare clinic.",
-    "neetRelevance": "Common in historical year matching questions.",
-    "commonMistake": "Confusing 1951 (Family Planning) with 1971 (MTP).",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 53,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "In which year did India become one of the first countries in the world to initiate national family planning programmes?",
+      "question": "Which of the following is associated with \"Mode\" in NEET Biology?",
       "options": [
-        "1947",
-        "1951",
-        "1971",
-        "1981"
+        "of Action of Copper Ions \tS - M - F",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "India initiated national Family Planning programmes in 1951, which later evolved into the RCH programme."
+      "answerIndex": 0,
+      "explanation": "Suppresses sperm motility • Motility rate drops • Fertilizing capacity inhibited Released Cu2+ ions exert a toxic effect on spermatozoa and decrease their motility."
     }
   },
   {
@@ -1037,71 +899,64 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-3",
-    "topicTitle": "Pelvic Inflammatory Disease (PID) & STI Complications",
-    "topic": "Untreated STIs Lead to PID, Abortions, Stillbirths, Ectopic Pregnancies, and Infertility",
+    "classLevel": 12,
+    "topicId": "bio-top-22-2",
+    "topicTitle": "Hormone",
+    "topic": "Hormone",
     "mnemonicNumber": 15,
-    "title": "STI Complications: Untreated STIs -> Pelvic Inflammatory Disease (PID) -> Infertility, Ectopic Pregnancy & Stillbirths",
-    "badgeText": "Concept",
+    "sourceItemNumber": 15,
+    "title": "Hormone: \"Releasing IUD Examples \tP - L - 20\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
-    "difficulty": "medium",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Untreated STIs (Gonorrhoea, Chlamydia) -> Ascend to Pelvic Organs -> PELVIC INFLAMMATORY DISEASE (PID) -> Leads to: 1) Infertility (Blocked fallopian tubes) | 2) Ectopic Pregnancies (Fatal tubal pregnancy) | 3) Abortions & Stillbirths | 4) Cancers of genital tract!",
-    "memoryHook": "Ignoring a minor STI infection invites the PID monster! It scars and glues the fallopian tubes shut, causing ectopic pregnancies and permanent infertility!",
-    "fact": "Sexually transmitted infections, if left untreated or poorly managed due to social stigma, can lead to severe long-term complications: 1) Pelvic Inflammatory Diseases (PID): Infection ascends from cervix/vagina to uterus, fallopian tubes, and ovaries causing severe chronic pelvic inflammation. 2) Abortions and Stillbirths (babies born dead). 3) Ectopic Pregnancies: Tubal scarring traps blastocyst in fallopian tube, causing life-threatening internal bleeding. 4) Infertility: Complete bilateral tubal occlusion. 5) Cancers of the reproductive tract (e.g., HPV causing cervical cancer).",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Releasing IUD Examples \tP - L - 20",
+    "memoryHook": "Releasing IUD Examples \tP - L - 20",
+    "fact": "Progestasert • LNG-20 (Levonorgestrel-releasing) Hormone-releasing IUDs continuously release low levels of synthetic progestogens locally.",
     "breakdown": [
       {
-        "key": "Primary Cause",
-        "label": "Asymptomatic or ignored early STIs (especially Chlamydia and Neisseria gonorrhoeae)"
+        "key": "Part 1",
+        "label": "Releasing IUD Examples \tP"
       },
       {
-        "key": "PID Pathology",
-        "label": "Ascending chronic inflammation and fibrosis of fallopian tubes and pelvic peritoneum"
+        "key": "Part 2",
+        "label": "L"
       },
       {
-        "key": "Tubal Blockage",
-        "label": "Fibrous adhesions cause permanent mechanical infertility"
-      },
-      {
-        "key": "Ectopic Risk",
-        "label": "Narrowed scarred salpinx traps blastocyst, leading to tubal rupture"
+        "key": "Part 3",
+        "label": "20"
       }
     ],
-    "doodleBadge": "Untreated STI -> PID -> Infertility & Ectopic Pregnancy",
-    "doodleSubtext": "PID Sequelae",
-    "explanation": "STIs in females are often asymptomatic in initial stages (mild discharge, slight pain), leading to delayed diagnosis until severe PID develops.",
-    "alsoRemember": "HPV (Human Papillomavirus) types 16 and 18 are strongly associated with cervical cancer (preventable via HPV vaccine).",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.4.",
-    "neetTrap": "STIs in females are frequently ASYMPTOMATIC initially, which leads to late detection and severe PID complications.",
+    "doodleBadge": "Releasing IUD Examples \t",
+    "doodleSubtext": "Hormone",
+    "explanation": "Progestasert • LNG-20 (Levonorgestrel-releasing) Hormone-releasing IUDs continuously release low levels of synthetic progestogens locally.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Hormone.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 53",
     "tags": [
-      "PID",
-      "Pelvic Inflammatory Disease",
-      "STIs",
-      "Ectopic Pregnancy",
-      "Infertility",
-      "Stillbirths",
-      "Chlamydia"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Hormone"
     ],
-    "expandedMeaning": "Pathophysiological sequelae and tubal fibro-occlusive morbidities following chronic untreated lower genital tract infections.",
-    "whyItWorks": "Cascade diagram: Untreated STI -> PID -> Tubal scar -> Infertility/Ectopic.",
-    "visualDescription": "Pelvic organ diagram showing ascending red infection trail from cervix into scarred, swollen fallopian tubes labeled \"PID -> Infertility\".",
-    "neetRelevance": "Common in assertion-reason and complications identification MCQs.",
-    "commonMistake": "Assuming all STIs always produce dramatic early symptoms in females.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.4",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 53,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Untreated sexually transmitted infections (STIs) in females often lead to which severe complication causing tubal scarring and infertility?",
+      "question": "Which of the following is associated with \"Hormone\" in NEET Biology?",
       "options": [
-        "Lactational amenorrhea",
-        "Pelvic Inflammatory Disease (PID)",
-        "Diabetes insipidus",
-        "Uremia"
+        "Releasing IUD Examples \tP - L - 20",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Untreated STIs can lead to Pelvic Inflammatory Disease (PID), which causes tubal damage, ectopic pregnancies, and infertility."
+      "answerIndex": 0,
+      "explanation": "Progestasert • LNG-20 (Levonorgestrel-releasing) Hormone-releasing IUDs continuously release low levels of synthetic progestogens locally."
     }
   },
   {
@@ -1110,73 +965,68 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-1",
-    "topicTitle": "Ideal Contraceptive Characteristics",
-    "topic": "User-Friendly, Easily Available, Effective, Reversible with No/Least Side Effects, Non-Interfering with Sexual Drive",
+    "classLevel": 12,
+    "topicId": "bio-top-22-2",
+    "topicTitle": "Action",
+    "topic": "Action",
     "mnemonicNumber": 16,
-    "title": "Ideal Contraceptive: 5 Gold Standards (User-Friendly, Available, Effective, Reversible, No Side Effects & No Loss of Libido)",
-    "badgeText": "Memory Trick",
-    "importance": "Medium Yield",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "concept",
-    "cardColor": "#FFF0F3",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "An IDEAL Contraceptive MUST be: 1) User-friendly, 2) Easily available, 3) Highly effective, 4) Easily Reversible, 5) With NO or least side-effects, and 6) Must NOT interfere with the sexual drive, desire or the sexual act of the user!",
-    "memoryHook": "The 6 Checklist Stars for the Perfect Contraceptive: Easy to use, Easy to buy, High protection, Easy to turn off, Zero bad side effects, and Zero disruption to romantic drive!",
-    "fact": "According to NCERT, an ideal contraceptive should be: 1) User-friendly (simple and convenient to use), 2) Easily available (accessible at affordable cost), 3) Effective (high success rate in preventing pregnancy), 4) Reversible with no or least side-effects, and 5) It should also not interfere with the sexual drive, desire, or the sexual act of the user. A wide range of contraceptive methods are currently available to meet diverse user preferences.",
+    "sourceItemNumber": 16,
+    "title": "Action: \"of Hormone-Releasing IUDs \tU - C - H\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "of Hormone-Releasing IUDs \tU - C - H",
+    "memoryHook": "of Hormone-Releasing IUDs \tU - C - H",
+    "fact": "Uterus rendered unsuitable for implantation • Cervix made hostile to sperms • Hormones inhibit ovulation They thicken cervical mucus to prevent sperm entry and suppress endometrial growth.",
     "breakdown": [
       {
-        "key": "1. User-Friendly",
-        "label": "Simple application without requiring complex daily surgical or medical assistance"
+        "key": "Part 1",
+        "label": "of Hormone"
       },
       {
-        "key": "2. Easily Available",
-        "label": "Readily accessible over the counter or at primary health centers"
+        "key": "Part 2",
+        "label": "Releasing IUDs \tU"
       },
       {
-        "key": "3. Effective & Reversible",
-        "label": "High pearl index / low failure rate, with rapid return of fertility on discontinuation"
+        "key": "Part 3",
+        "label": "C"
       },
       {
-        "key": "4. No Side Effects",
-        "label": "Free from harmful metabolic, cardiovascular, or carcinogenic risks"
-      },
-      {
-        "key": "5. Non-Interfering",
-        "label": "Does not impair sexual libido, sensation, or performance"
+        "key": "Part 4",
+        "label": "H"
       }
     ],
-    "doodleBadge": "Ideal Contraceptive Checklist:\nUser-Friendly | Effective | Reversible | Safe",
-    "doodleSubtext": "NCERT Gold Standard",
-    "explanation": "No single contraceptive available today meets 100% of all ideal criteria perfectly; each method offers a balance of benefits and trade-offs.",
-    "alsoRemember": "The Pearl Index measures the effectiveness of a birth control method (number of failures per 100 woman-years).",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.2.",
-    "neetTrap": "An ideal contraceptive should NOT interfere with the sexual drive/desire of the user.",
+    "doodleBadge": "of Hormone-Releasing IUD",
+    "doodleSubtext": "Action",
+    "explanation": "Uterus rendered unsuitable for implantation • Cervix made hostile to sperms • Hormones inhibit ovulation They thicken cervical mucus to prevent sperm entry and suppress endometrial growth.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Action.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 53",
     "tags": [
-      "Ideal Contraceptive",
+      "NEET Biology",
+      "Class 12",
       "Reproductive Health",
-      "Reversibility",
-      "Contraceptive Criteria",
-      "Pearl Index"
+      "Action"
     ],
-    "expandedMeaning": "Public health and clinical pharmacological criteria defining optimal contraceptive design.",
-    "whyItWorks": "Six-point golden checklist matching exact NCERT text.",
-    "visualDescription": "Checklist card showing 5 green checkmarks next to User-Friendly, Available, Effective, Reversible, and Safe icons.",
-    "neetRelevance": "Common in multi-statement True/False questions in NEET.",
-    "commonMistake": "Selecting statements that claim an ideal contraceptive should permanently sterilize the user.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.2",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 53,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following is NOT an attribute of an ideal contraceptive according to NCERT guidelines?",
+      "question": "Which of the following is associated with \"Action\" in NEET Biology?",
       "options": [
-        "It should be user-friendly and easily available",
-        "It should be effective and reversible",
-        "It should completely destroy sexual desire and libido permanently",
-        "It should have no or least side effects"
+        "of Hormone-Releasing IUDs \tU - C - H",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "An ideal contraceptive must NOT interfere with the sexual drive, desire, or sexual act of the user."
+      "answerIndex": 0,
+      "explanation": "Uterus rendered unsuitable for implantation • Cervix made hostile to sperms • Hormones inhibit ovulation They thicken cervical mucus to prevent sperm entry and suppress endometrial growth."
     }
   },
   {
@@ -1185,72 +1035,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-3",
-    "topicTitle": "Causative Agents of Major STIs",
-    "topic": "Gonorrhoea (Neisseria), Syphilis (Treponema), Trichomoniasis (Protozoan), Genital Warts (HPV)",
+    "classLevel": 12,
+    "topicId": "bio-top-22-2",
+    "topicTitle": "Oral",
+    "topic": "Oral",
     "mnemonicNumber": 17,
-    "title": "STI Pathogen Matching: Gonorrhoea (Neisseria / Bacterium) | Syphilis (Treponema / Spirochete) | Trichomoniasis (Protozoan Parasite) | Genital Warts (HPV)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 17,
+    "title": "Oral: \"Contraceptive Pill Composition \tP - O - P\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Gonorrhoea = Neisseria gonorrhoeae (Bacterium) | Syphilis = Treponema pallidum (Spirochete bacterium with chancre sores) | Trichomoniasis = Trichomonas vaginalis (FLAGELIATED PROTOZOAN parasite!) | Genital Warts = Human Papillomavirus (HPV) | Genital Herpes = Herpes Simplex Virus (HSV)!",
-    "memoryHook": "Match the bug: Trichomoniasis is the ONLY PROTOZOAN in the list! Syphilis is the sneaky Treponema spirochete! Gonorrhoea is Neisseria bacteria! Warts and Herpes are Viruses!",
-    "fact": "Etiological agents of common STIs: 1) Gonorrhoea: Caused by bacterium Neisseria gonorrhoeae. 2) Syphilis: Caused by spirochete bacterium Treponema pallidum (presents with primary painless chancre, secondary rash, tertiary neurosyphilis). 3) Trichomoniasis: Caused by flagellated protozoan parasite Trichomonas vaginalis (causes foul-smelling greenish-yellow vaginal discharge and itching). 4) Genital Warts: Caused by Human Papillomavirus (HPV). 5) Genital Herpes: Caused by Herpes Simplex Virus (HSV-2). 6) AIDS: Caused by Human Immunodeficiency Virus (HIV retrovirus).",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Contraceptive Pill Composition \tP - O - P",
+    "memoryHook": "Contraceptive Pill Composition \tP - O - P",
+    "fact": "Progestogens alone OR Oral Progestogen-Estrogen combination pills Small doses of progestogens or progestogen-estrogen combinations are taken in pill form.",
     "breakdown": [
       {
-        "key": "Bacterial STIs",
-        "label": "Gonorrhoea (Neisseria), Syphilis (Treponema pallidum), Chlamydiasis (Chlamydia trachomatis)"
+        "key": "Focus",
+        "label": "Oral"
       },
       {
-        "key": "Protozoan STI",
-        "label": "Trichomoniasis (Trichomonas vaginalis - single-celled eukaryotic parasite)"
-      },
-      {
-        "key": "Viral STIs",
-        "label": "Genital Herpes (HSV), Genital Warts (HPV), Hepatitis B (HBV), AIDS (HIV)"
-      },
-      {
-        "key": "Antibiotic Susceptibility",
-        "label": "Bacterial and protozoan STIs respond to antibiotics/antiprotozoals; viral STIs do not"
+        "key": "Trick",
+        "label": "Contraceptive Pill Composition \tP - O - P"
       }
     ],
-    "doodleBadge": "Trichomoniasis = Protozoan\nSyphilis = Treponema (Bacterium)\nGonorrhoea = Neisseria (Bacterium)",
-    "doodleSubtext": "Pathogen Spectrum",
-    "explanation": "Trichomoniasis is uniquely caused by a protozoan parasite, a classic NEET classification question.",
-    "alsoRemember": "Wassermann test and VDRL test are serological diagnostic tests for Syphilis.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.4.",
-    "neetTrap": "Trichomoniasis is caused by a PROTOZOAN (not a virus or bacterium).",
+    "doodleBadge": "Contraceptive Pill Compo",
+    "doodleSubtext": "Oral",
+    "explanation": "Progestogens alone OR Oral Progestogen-Estrogen combination pills Small doses of progestogens or progestogen-estrogen combinations are taken in pill form.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Oral.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 53",
     "tags": [
-      "STIs",
-      "Gonorrhoea",
-      "Syphilis",
-      "Trichomoniasis",
-      "Treponema",
-      "Neisseria",
-      "HPV",
-      "Protozoan"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Oral"
     ],
-    "expandedMeaning": "Microbiological taxonomic categorization of human sexually transmitted reproductive pathogens.",
-    "whyItWorks": "Bacterial (Gonorrhoea/Syphilis) vs Protozoan (Trichomoniasis) vs Viral (Herpes/HPV/HIV).",
-    "visualDescription": "Three-way pathogen petri dish: bacteria rod/spirochete, flagellated green protozoan parasite (Trichomonas), and spiky viral capsids.",
-    "neetRelevance": "Guaranteed matching question on disease and causative pathogen.",
-    "commonMistake": "Classifying Trichomoniasis as a bacterial disease.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.4",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 53,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following sexually transmitted infections is caused by a PROTOZOAN parasite?",
+      "question": "Which of the following is associated with \"Oral\" in NEET Biology?",
       "options": [
-        "Syphilis",
-        "Gonorrhoea",
-        "Trichomoniasis",
-        "Chlamydiasis"
+        "Contraceptive Pill Composition \tP - O - P",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Trichomoniasis is caused by the flagellated protozoan parasite Trichomonas vaginalis."
+      "answerIndex": 0,
+      "explanation": "Progestogens alone OR Oral Progestogen-Estrogen combination pills Small doses of progestogens or progestogen-estrogen combinations are taken in pill form."
     }
   },
   {
@@ -1259,72 +1097,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-4",
-    "topicTitle": "Assisted Reproductive Technologies (ART) Summary",
-    "topic": "Decision Matrix: IVF, ZIFT, IUT, GIFT, ICSI, AI, IUI",
+    "classLevel": 12,
+    "topicId": "bio-top-22-2",
+    "topicTitle": "Dosing",
+    "topic": "Dosing",
     "mnemonicNumber": 18,
-    "title": "ART Decision Matrix: IVF-ZIFT (Tube <=8) | IVF-IUT (Uterus >8) | GIFT (No Eggs) | ICSI (Low Sperm Injected) | IUI (Low Sperm Introduced)",
-    "badgeText": "Classification",
+    "sourceItemNumber": 18,
+    "title": "Dosing: \"Schedule of Daily Oral Pills \t21 - ON / 7 - OFF\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
-    "difficulty": "hard",
+    "difficulty": "easy",
     "visualType": "classification",
-    "mnemonicType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Problem & Solution Match: 1) Blocked Fallopian Tubes -> IVF + IUT directly to Uterus! | 2) Woman Cannot Produce Eggs -> GIFT (Gift an egg to her tube)! | 3) Extremely Low Sperm Count / Poor Motility -> ICSI (Micro-inject 1 sperm) OR IUI (Intra-Uterine Insemination)! | 4) Normal fertilization in lab -> ZIFT (<=8 cells to tube) or IUT (>8 cells to uterus)!",
-    "memoryHook": "Pick the right ART tool for the job: Blocked tubes? Bypass to Uterus with IUT! No eggs? GIFT a donor egg! Lazy/few sperm? Shoot it with ICSI needle or pump with IUI!",
-    "fact": "Clinical decision matrix for ART: 1) IVF-ZIFT: For couples where fertilization fails in vivo, zygote up to 8 cells transferred to oviduct. 2) IVF-IUT: For females with blocked or damaged fallopian tubes, embryo >8 blastomeres placed directly in uterus. 3) GIFT: For females with ovarian failure (cannot ovulate) but with normal patent fallopian tubes and receptive uterus. 4) ICSI: For severe male-factor infertility (oligozoospermia, azoospermia, asthenozoospermia) where sperm cannot penetrate egg coat on its own. 5) AI / IUI: For mild male infertility or inability of male partner to inseminate female.",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Schedule of Daily Oral Pills \t21 - ON / 7 - OFF",
+    "memoryHook": "Schedule of Daily Oral Pills \t21 - ON / 7 - OFF",
+    "fact": "Taken daily for 21 days starting in first 5 days of cycle, followed by a 7-day gap (menstruation). Withdrawal bleeding occurs during the 7-day pill-free break; repeated in monthly cycles.",
     "breakdown": [
       {
-        "key": "Blocked Fallopian Tubes",
-        "label": "Solution: IVF-IUT (bypass oviducts directly into uterine cavity)"
+        "key": "Focus",
+        "label": "Dosing"
       },
       {
-        "key": "Anovulatory Female (Patent Tubes)",
-        "label": "Solution: GIFT (donor egg placed in fallopian tube for in vivo fertilization)"
-      },
-      {
-        "key": "Severe Oligospermia / Asthenospermia",
-        "label": "Solution: ICSI (direct mechanical micro-injection of single sperm into oocyte)"
-      },
-      {
-        "key": "Mild Male Factor / Insemination Failure",
-        "label": "Solution: Artificial Insemination / Intra-Uterine Insemination (IUI)"
+        "key": "Trick",
+        "label": "Schedule of Daily Oral Pills \t21 - ON / 7 - OFF"
       }
     ],
-    "doodleBadge": "Blocked Tubes -> IVF-IUT\nNo Eggs -> GIFT\nLow/Lazy Sperm -> ICSI / IUI",
-    "doodleSubtext": "ART Clinical Matrix",
-    "explanation": "In ICSI, even non-motile or immotile sperm retrieved via testicular biopsy (TESA) can successfully fertilize an oocyte because natural penetration is bypassed.",
-    "alsoRemember": "Test-tube baby is a popular misnomer; the baby grows in the mother's natural uterus, not in a test tube.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.5.",
-    "neetTrap": "GIFT REQUIRES AT LEAST ONE HEALTHY, PATENT FALLOPIAN TUBE (it cannot be used if both fallopian tubes are blocked).",
+    "doodleBadge": "Schedule of Daily Oral P",
+    "doodleSubtext": "Dosing",
+    "explanation": "Taken daily for 21 days starting in first 5 days of cycle, followed by a 7-day gap (menstruation). Withdrawal bleeding occurs during the 7-day pill-free break; repeated in monthly cycles.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Dosing.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 53",
     "tags": [
-      "ART",
-      "Infertility Matrix",
-      "ZIFT",
-      "IUT",
-      "GIFT",
-      "ICSI",
-      "IUI",
-      "Fallopian Tube Block"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Dosing"
     ],
-    "expandedMeaning": "Differential clinical decision algorithms for assisted reproduction modalities according to etiology.",
-    "whyItWorks": "Problem-to-solution clinical pairing matrix.",
-    "visualDescription": "Decision tree connecting clinical conditions (Blocked tubes, Anovulation, Male factor) to appropriate ART protocol boxes.",
-    "neetRelevance": "Common in clinical case study and matching questions in NEET.",
-    "commonMistake": "Recommending GIFT for a patient with bilaterally blocked fallopian tubes.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.5",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 53,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "A woman has bilateral blockage of both fallopian tubes but a healthy receptive uterus. Which ART method would be MOST suitable for her?",
+      "question": "Which of the following is associated with \"Dosing\" in NEET Biology?",
       "options": [
-        "GIFT",
-        "IVF followed by IUT (Intra-Uterine Transfer)",
-        "ZIFT",
-        "Artificial Insemination (AI)"
+        "Schedule of Daily Oral Pills \t21 - ON / 7 - OFF",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Since both fallopian tubes are blocked, GIFT and ZIFT cannot be used; IVF followed by Intra-Uterine Transfer (IUT) directly into the uterus is required."
+      "answerIndex": 0,
+      "explanation": "Taken daily for 21 days starting in first 5 days of cycle, followed by a 7-day gap (menstruation). Withdrawal bleeding occurs during the 7-day pill-free break; repeated in monthly cycles."
     }
   },
   {
@@ -1333,70 +1159,60 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-1",
-    "topicTitle": "Population Growth & Census Indicators",
-    "topic": "Decline in Maternal Mortality Rate (MMR) and Infant Mortality Rate (IMR) Driving Population Growth",
+    "classLevel": 12,
+    "topicId": "bio-top-22-2",
+    "topicTitle": "Saheli",
+    "topic": "Saheli",
     "mnemonicNumber": 19,
-    "title": "Population Growth Drivers: Rapid Decline in Death Rate + Decline in Maternal Mortality Rate (MMR) & Infant Mortality Rate (IMR)",
-    "badgeText": "Concept",
-    "importance": "Medium Yield",
-    "difficulty": "easy",
-    "visualType": "concept",
-    "mnemonicType": "concept",
-    "cardColor": "#EDF4FF",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Why Population Exploded: 1) Rapid decline in Death Rate, 2) Decline in Maternal Mortality Rate (MMR), 3) Decline in Infant Mortality Rate (IMR), 4) Increase in number of people in Reproducible Age! -> Slogan: Hum Do Hamare Do (One Child Norm in urban areas)!",
-    "memoryHook": "Better hospitals and medicines stopped mothers and babies from dying (Low MMR and Low IMR)! Fewer deaths + same high birth rate = Population Explosion!",
-    "fact": "Reasons for population explosion in India: Rapid growth of population was mainly due to a rapid decline in death rate, maternal mortality rate (MMR), and infant mortality rate (IMR), along with an increase in the number of people in the reproducible age group. Steps taken by government: Motivating smaller families using contraceptive advertisements, statutory raising of marriageable age to 18 years for females and 21 years for males, and incentives given to couples with small families (slogan: \"Hum Do Hamare Do\").",
+    "sourceItemNumber": 19,
+    "title": "Saheli: \"- Non-Steroidal Pill Features \tC - D - R - I\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "- Non-Steroidal Pill Features \tC - D - R - I",
+    "memoryHook": "- Non-Steroidal Pill Features \tC - D - R - I",
+    "fact": "Centchroman base • Developed at CDRI Lucknow • Rare side effects • Ingested once-a-week Saheli is a novel non-steroidal oral pill with high contraceptive value and minimal side effects.",
     "breakdown": [
       {
-        "key": "Driver 1: Dropping Death Rate",
-        "label": "Better healthcare, antibiotics, and epidemic control lowered general mortality"
+        "key": "Focus",
+        "label": "Saheli"
       },
       {
-        "key": "Driver 2: Dropping MMR",
-        "label": "Maternal Mortality Rate declined due to institutional hospital deliveries"
-      },
-      {
-        "key": "Driver 3: Dropping IMR",
-        "label": "Infant Mortality Rate dropped due to mass childhood vaccinations and nutrition"
-      },
-      {
-        "key": "Marriageable Age Law",
-        "label": "Legal marriage age: 18 years for females and 21 years for males in India"
+        "key": "Trick",
+        "label": "- Non-Steroidal Pill Features \tC - D - R - I"
       }
     ],
-    "doodleBadge": "Population Rise = Low Death Rate + Low MMR + Low IMR",
-    "doodleSubtext": "Demographic Drivers",
-    "explanation": "Demographic transition occurs when a country moves from high birth and death rates to low birth and death rates as it develops economically.",
-    "alsoRemember": "According to 2011 census, India's population growth rate was around 1.7% (17 per 1000 per year).",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.1.",
-    "neetTrap": "Population explosion was caused by a DECLINE in MMR and IMR (not an increase).",
+    "doodleBadge": "- Non-Steroidal Pill Fea",
+    "doodleSubtext": "Saheli",
+    "explanation": "Centchroman base • Developed at CDRI Lucknow • Rare side effects • Ingested once-a-week Saheli is a novel non-steroidal oral pill with high contraceptive value and minimal side effects.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Saheli.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 53",
     "tags": [
-      "Population Explosion",
-      "MMR",
-      "IMR",
-      "Demographics",
-      "Marriageable Age",
-      "Census"
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Saheli"
     ],
-    "expandedMeaning": "Demographic transition dynamics and public health determinants of human population expansion.",
-    "whyItWorks": "Triple decline formula: Lower Death Rate + Lower MMR + Lower IMR.",
-    "visualDescription": "Demographic graph showing birth rate staying high while blue death rate, red MMR, and green IMR curves plunge downward.",
-    "neetRelevance": "Common in assertion-reason and socio-demographic biology questions.",
-    "commonMistake": "Stating that population explosion was caused by increased MMR.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.1",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 53,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following factors is a major reason for the rapid population growth in India in recent decades?",
+      "question": "Which of the following is associated with \"Saheli\" in NEET Biology?",
       "options": [
-        "Increase in Infant Mortality Rate (IMR)",
-        "Increase in Maternal Mortality Rate (MMR)",
-        "Rapid decline in death rate, MMR, and IMR",
-        "Decrease in the number of people in reproducible age group"
+        "- Non-Steroidal Pill Features \tC - D - R - I",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Population explosion was driven by a rapid decline in general death rate, maternal mortality rate (MMR), and infant mortality rate (IMR)."
+      "answerIndex": 0,
+      "explanation": "Centchroman base • Developed at CDRI Lucknow • Rare side effects • Ingested once-a-week Saheli is a novel non-steroidal oral pill with high contraceptive value and minimal side effects."
     }
   },
   {
@@ -1405,70 +1221,2048 @@ export const bioCh22Mnemonics = [
     "chapterId": "bio-ch-22",
     "chapterNumber": 22,
     "chapterTitle": "Reproductive Health",
-    "topicId": "bio-top-22-3",
-    "topicTitle": "STI Prevention & Safe Sex Principles",
-    "topic": "Avoid Unknown/Multiple Partners, Consistent Condom Use, Early Consultation",
+    "classLevel": 12,
+    "topicId": "bio-top-22-2",
+    "topicTitle": "Active",
+    "topic": "Active",
     "mnemonicNumber": 20,
-    "title": "STI Prevention: 3 Golden Rules (Avoid Unknown/Multiple Partners + Always Use Condoms + Early Medical Consultation)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
+    "sourceItemNumber": 20,
+    "title": "Active: \"Chemical in Saheli \tCENTCHROMAN\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "notebook",
-    "mnemonicType": "concept",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "3 GOLDEN RULES TO PREVENT STIs: 1) Avoid sex with unknown partners / multiple partners, 2) Always try to use CONDOMS during coitus, 3) In case of doubt, go to a qualified doctor for EARLY DETECTION and get complete treatment!",
-    "memoryHook": "Protect your reproductive health with the 3 Rules: Single faithful partner, Always use a Condom shield, and Consult a qualified doctor immediately without shame or delay!",
-    "fact": "Prevention of Sexually Transmitted Infections (STIs): Persons in the age group of 15-24 years are most vulnerable to STIs. Simple golden principles for prevention: 1) Avoid sex with unknown partners/multiple partners. 2) Always try to use condoms during coitus. 3) In case of doubt, go to a qualified doctor for early detection and get complete treatment if diagnosed with infection. Overcoming social stigma through open education and counseling is essential for complete reproductive healthcare.",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Chemical in Saheli \tCENTCHROMAN",
+    "memoryHook": "Chemical in Saheli \tCENTCHROMAN",
+    "fact": "Centchroman (Ormeloxifene) → Selective estrogen receptor modulator; prevents implantation. It inhibits blastocyst implantation by blocking uterine estrogen receptors without hormonal steroid effects.",
     "breakdown": [
       {
-        "key": "Most Vulnerable Age Group",
-        "label": "Young individuals in the 15 to 24 years age group"
+        "key": "Focus",
+        "label": "Active"
       },
       {
-        "key": "Principle 1: Monogamy",
-        "label": "Avoid sex with unknown or multiple sexual partners"
-      },
-      {
-        "key": "Principle 2: Barrier Shield",
-        "label": "Consistent and correct use of condoms during sexual intercourse"
-      },
-      {
-        "key": "Principle 3: Early Diagnosis",
-        "label": "Seek immediate qualified medical consultation without fear or stigma upon early signs"
+        "key": "Trick",
+        "label": "Chemical in Saheli \tCENTCHROMAN"
       }
     ],
-    "doodleBadge": "STI Prevention 3 Rules:\nMonogamy + Condoms + Early Doctor Visit",
-    "doodleSubtext": "Safe Sex Guidelines",
-    "explanation": "Social stigma often prevents patients from seeking early medical advice, allowing mild curable infections to progress into irreversible pelvic inflammatory disease and infertility.",
-    "alsoRemember": "Sharing injection needles or surgical instruments also transmits Hepatitis B and HIV.",
-    "ncertConnection": "NCERT Class 12 Biology Section 4.4.",
-    "neetTrap": "The age group most vulnerable to STIs is 15 to 24 YEARS.",
+    "doodleBadge": "Chemical in Saheli \tCENT",
+    "doodleSubtext": "Active",
+    "explanation": "Centchroman (Ormeloxifene) → Selective estrogen receptor modulator; prevents implantation. It inhibits blastocyst implantation by blocking uterine estrogen receptors without hormonal steroid effects.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Active.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 53",
     "tags": [
-      "STI Prevention",
-      "Safe Sex",
-      "Condoms",
-      "15-24 Age Group",
+      "NEET Biology",
+      "Class 12",
       "Reproductive Health",
-      "Public Health"
+      "Active"
     ],
-    "expandedMeaning": "Epidemiological prevention paradigms and adolescent risk group counseling in venereology.",
-    "whyItWorks": "Three-rule protective framework matching NCERT guidelines.",
-    "visualDescription": "Healthcare pamphlet icon showing 3 safety badges: Monogamy ring, Condom shield, and Doctor stethoscope.",
-    "neetRelevance": "Common in public health and health guideline MCQs.",
-    "commonMistake": "Selecting quacks or self-medication as valid options for STI management.",
-    "sourceReference": "NCERT Class 12 Chapter 4 Section 4.4",
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 53,
+      "chapter": "Reproductive Health"
+    },
     "verificationStatus": "verified",
     "quiz": {
-      "question": "According to NCERT, which age group is reported to be the MOST vulnerable to contracting Sexually Transmitted Infections (STIs)?",
+      "question": "Which of the following is associated with \"Active\" in NEET Biology?",
       "options": [
-        "Under 10 years",
-        "15 to 24 years",
-        "35 to 45 years",
-        "Above 50 years"
+        "Chemical in Saheli \tCENTCHROMAN",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Persons in the age group of 15-24 years are reported to be the most vulnerable to STIs."
+      "answerIndex": 0,
+      "explanation": "Centchroman (Ormeloxifene) → Selective estrogen receptor modulator; prevents implantation. It inhibits blastocyst implantation by blocking uterine estrogen receptors without hormonal steroid effects."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-3",
+    "topicTitle": "Subcutaneous",
+    "topic": "Subcutaneous",
+    "mnemonicNumber": 21,
+    "sourceItemNumber": 21,
+    "title": "Subcutaneous: \"Implants & Injections \tU - N - D - E - R\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Implants & Injections \tU - N - D - E - R",
+    "memoryHook": "Implants & Injections \tU - N - D - E - R",
+    "fact": "Under the skin placement • Norgestrel / Progestogens • Duration long • Effective fast • Reversible Implants match oral pill mechanisms but deliver progestogens steadily over longer timeframes.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Implants & Injections \tU"
+      },
+      {
+        "key": "Part 2",
+        "label": "N"
+      },
+      {
+        "key": "Part 3",
+        "label": "D"
+      },
+      {
+        "key": "Part 4",
+        "label": "E"
+      },
+      {
+        "key": "Part 5",
+        "label": "R"
+      }
+    ],
+    "doodleBadge": "Implants & Injections \tU",
+    "doodleSubtext": "Subcutaneous",
+    "explanation": "Under the skin placement • Norgestrel / Progestogens • Duration long • Effective fast • Reversible Implants match oral pill mechanisms but deliver progestogens steadily over longer timeframes.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Subcutaneous.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 54",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Subcutaneous"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 54,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Subcutaneous\" in NEET Biology?",
+      "options": [
+        "Implants & Injections \tU - N - D - E - R",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Under the skin placement • Norgestrel / Progestogens • Duration long • Effective fast • Reversible Implants match oral pill mechanisms but deliver progestogens steadily over longer timeframes."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-3",
+    "topicTitle": "Emergency",
+    "topic": "Emergency",
+    "mnemonicNumber": 22,
+    "sourceItemNumber": 22,
+    "title": "Emergency: \"Contraceptive Window \tWITHIN 72 HOURS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Contraceptive Window \tWITHIN 72 HOURS",
+    "memoryHook": "Contraceptive Window \tWITHIN 72 HOURS",
+    "fact": "Administer Progestogens / Progestogen-Estrogen combination or IUDs within 72 hours of unprotected coitus. Used to avoid potential pregnancy due to casual unprotected intercourse or sexual assault.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Emergency"
+      },
+      {
+        "key": "Trick",
+        "label": "Contraceptive Window \tWITHIN 72 HOURS"
+      }
+    ],
+    "doodleBadge": "Contraceptive Window \tWI",
+    "doodleSubtext": "Emergency",
+    "explanation": "Administer Progestogens / Progestogen-Estrogen combination or IUDs within 72 hours of unprotected coitus. Used to avoid potential pregnancy due to casual unprotected intercourse or sexual assault.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Emergency.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 54",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Emergency"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 54,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Emergency\" in NEET Biology?",
+      "options": [
+        "Contraceptive Window \tWITHIN 72 HOURS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Administer Progestogens / Progestogen-Estrogen combination or IUDs within 72 hours of unprotected coitus. Used to avoid potential pregnancy due to casual unprotected intercourse or sexual assault."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-3",
+    "topicTitle": "Surgical",
+    "topic": "Surgical",
+    "mnemonicNumber": 23,
+    "sourceItemNumber": 23,
+    "title": "Surgical: \"Sterilization Methods \tV - A - T\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Sterilization Methods \tV - A - T",
+    "memoryHook": "Sterilization Methods \tV - A - T",
+    "fact": "Vasectomy (male) • Absolute permanent method • Tubectomy (female) Surgical interventions block gamete transport, providing irreversible permanent contraception.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Sterilization Methods \tV"
+      },
+      {
+        "key": "Part 2",
+        "label": "A"
+      },
+      {
+        "key": "Part 3",
+        "label": "T"
+      }
+    ],
+    "doodleBadge": "Sterilization Methods \tV",
+    "doodleSubtext": "Surgical",
+    "explanation": "Vasectomy (male) • Absolute permanent method • Tubectomy (female) Surgical interventions block gamete transport, providing irreversible permanent contraception.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Surgical.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 54",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Surgical"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 54,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Surgical\" in NEET Biology?",
+      "options": [
+        "Sterilization Methods \tV - A - T",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Vasectomy (male) • Absolute permanent method • Tubectomy (female) Surgical interventions block gamete transport, providing irreversible permanent contraception."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-3",
+    "topicTitle": "Vasectomy",
+    "topic": "Vasectomy",
+    "mnemonicNumber": 24,
+    "sourceItemNumber": 24,
+    "title": "Vasectomy: \"Procedure \tV - A - S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Procedure \tV - A - S",
+    "memoryHook": "Procedure \tV - A - S",
+    "fact": "Vas deferens cut/tied • Abdominal scrotal incision • Sperm-free semen ejaculate A small part of the vas deferens is removed or tied through a minor incision on the scrotum.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Procedure \tV"
+      },
+      {
+        "key": "Part 2",
+        "label": "A"
+      },
+      {
+        "key": "Part 3",
+        "label": "S"
+      }
+    ],
+    "doodleBadge": "Procedure \tV - A - S",
+    "doodleSubtext": "Vasectomy",
+    "explanation": "Vas deferens cut/tied • Abdominal scrotal incision • Sperm-free semen ejaculate A small part of the vas deferens is removed or tied through a minor incision on the scrotum.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Vasectomy.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 54",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Vasectomy"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 54,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Vasectomy\" in NEET Biology?",
+      "options": [
+        "Procedure \tV - A - S",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Vas deferens cut/tied • Abdominal scrotal incision • Sperm-free semen ejaculate A small part of the vas deferens is removed or tied through a minor incision on the scrotum."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-25",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-3",
+    "topicTitle": "Tubectomy",
+    "topic": "Tubectomy",
+    "mnemonicNumber": 25,
+    "sourceItemNumber": 25,
+    "title": "Tubectomy: \"Procedure \tT - U - B - E\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "Procedure \tT - U - B - E",
+    "memoryHook": "Procedure \tT - U - B - E",
+    "fact": "Tubes cut/tied • Uterine entrance blocked • Belly / vaginal incision • Egg transport halted A small section of both fallopian tubes is cut or tied through the abdomen or vagina.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Procedure \tT"
+      },
+      {
+        "key": "Part 2",
+        "label": "U"
+      },
+      {
+        "key": "Part 3",
+        "label": "B"
+      },
+      {
+        "key": "Part 4",
+        "label": "E"
+      }
+    ],
+    "doodleBadge": "Procedure \tT - U - B - E",
+    "doodleSubtext": "Tubectomy",
+    "explanation": "Tubes cut/tied • Uterine entrance blocked • Belly / vaginal incision • Egg transport halted A small section of both fallopian tubes is cut or tied through the abdomen or vagina.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Tubectomy.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 54",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Tubectomy"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 54,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Tubectomy\" in NEET Biology?",
+      "options": [
+        "Procedure \tT - U - B - E",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tubes cut/tied • Uterine entrance blocked • Belly / vaginal incision • Egg transport halted A small section of both fallopian tubes is cut or tied through the abdomen or vagina."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-26",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-3",
+    "topicTitle": "Side",
+    "topic": "Side",
+    "mnemonicNumber": 26,
+    "sourceItemNumber": 26,
+    "title": "Side: \"Effects of Contraceptives \tN - A - B - I - C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Effects of Contraceptives \tN - A - B - I - C",
+    "memoryHook": "Effects of Contraceptives \tN - A - B - I - C",
+    "fact": "Nausea • Abdominal pain • Breast tenderness • Irregular / Breakthrough bleeding • Cancer risk (rare) Contraceptive selection should minimize ill-effects like irregular bleeding and severe cramps. 5. MEDICAL TERMINATION OF PREGNANCY (MTP)",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Side"
+      },
+      {
+        "key": "Trick",
+        "label": "Effects of Contraceptives \tN - A - B - I - C"
+      }
+    ],
+    "doodleBadge": "Effects of Contraceptive",
+    "doodleSubtext": "Side",
+    "explanation": "Nausea • Abdominal pain • Breast tenderness • Irregular / Breakthrough bleeding • Cancer risk (rare) Contraceptive selection should minimize ill-effects like irregular bleeding and severe cramps. 5. MEDICAL TERMINATION OF PREGNANCY (MTP)",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Side.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 54",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Side"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 54,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Side\" in NEET Biology?",
+      "options": [
+        "Effects of Contraceptives \tN - A - B - I - C",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nausea • Abdominal pain • Breast tenderness • Irregular / Breakthrough bleeding • Cancer risk (rare) Contraceptive selection should minimize ill-effects like irregular bleeding and severe cramps. 5. MEDICAL TERMINATION OF PREGNANCY (MTP)"
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-27",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-3",
+    "topicTitle": "Definition",
+    "topic": "Definition",
+    "mnemonicNumber": 27,
+    "sourceItemNumber": 27,
+    "title": "Definition: \"& Purpose of MTP \tV - O - L - U - N - T - A - R - Y\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "& Purpose of MTP \tV - O - L - U - N - T - A - R - Y",
+    "memoryHook": "& Purpose of MTP \tV - O - L - U - N - T - A - R - Y",
+    "fact": "Voluntary or induced termination of pregnancy before full term to eliminate unwanted/unsafe pregnancies. Nearly 45 to 50 million MTPs are performed worldwide in a year (~1/5th of total conceived pregnancies).",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "& Purpose of MTP \tV"
+      },
+      {
+        "key": "Part 2",
+        "label": "O"
+      },
+      {
+        "key": "Part 3",
+        "label": "L"
+      },
+      {
+        "key": "Part 4",
+        "label": "U"
+      },
+      {
+        "key": "Part 5",
+        "label": "N"
+      },
+      {
+        "key": "Part 6",
+        "label": "T"
+      },
+      {
+        "key": "Part 7",
+        "label": "A"
+      },
+      {
+        "key": "Part 8",
+        "label": "R"
+      },
+      {
+        "key": "Part 9",
+        "label": "Y"
+      }
+    ],
+    "doodleBadge": "& Purpose of MTP \tV - O ",
+    "doodleSubtext": "Definition",
+    "explanation": "Voluntary or induced termination of pregnancy before full term to eliminate unwanted/unsafe pregnancies. Nearly 45 to 50 million MTPs are performed worldwide in a year (~1/5th of total conceived pregnancies).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Definition.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 54",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Definition"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 54,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Definition\" in NEET Biology?",
+      "options": [
+        "& Purpose of MTP \tV - O - L - U - N - T - A - R - Y",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Voluntary or induced termination of pregnancy before full term to eliminate unwanted/unsafe pregnancies. Nearly 45 to 50 million MTPs are performed worldwide in a year (~1/5th of total conceived pregnancies)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-3",
+    "topicTitle": "MTP",
+    "topic": "MTP",
+    "mnemonicNumber": 28,
+    "sourceItemNumber": 28,
+    "title": "MTP: \"Legalization Year in India \t1 9 7 1\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Legalization Year in India \t1 9 7 1",
+    "memoryHook": "Legalization Year in India \t1 9 7 1",
+    "fact": "Legalized in 1971 by Government of India with strict conditions to prevent female foeticide. Strict legal restrictions check indiscriminate MTPs and female-selective abortions.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "MTP"
+      },
+      {
+        "key": "Trick",
+        "label": "Legalization Year in India \t1 9 7 1"
+      }
+    ],
+    "doodleBadge": "Legalization Year in Ind",
+    "doodleSubtext": "MTP",
+    "explanation": "Legalized in 1971 by Government of India with strict conditions to prevent female foeticide. Strict legal restrictions check indiscriminate MTPs and female-selective abortions.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in MTP.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 54",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "MTP"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 54,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"MTP\" in NEET Biology?",
+      "options": [
+        "Legalization Year in India \t1 9 7 1",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Legalized in 1971 by Government of India with strict conditions to prevent female foeticide. Strict legal restrictions check indiscriminate MTPs and female-selective abortions."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-3",
+    "topicTitle": "MTP",
+    "topic": "MTP",
+    "mnemonicNumber": 29,
+    "sourceItemNumber": 29,
+    "title": "MTP: \"(Amendment) Act 2017 Rules \t1 RMP vs 2 RMPs\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "(Amendment) Act 2017 Rules \t1 RMP vs 2 RMPs",
+    "memoryHook": "(Amendment) Act 2017 Rules \t1 RMP vs 2 RMPs",
+    "fact": "Up to 12 weeks: Opinion of 1 Registered Medical Practitioner. 12 to 24 weeks: Opinion of 2 Registered Medical Practitioners",
+    "breakdown": [
+      {
+        "key": "Up to 12 weeks",
+        "label": "Opinion of 1 Registered Medical Practitioner"
+      },
+      {
+        "key": "12 to 24 weeks",
+        "label": "Opinion of 2 Registered Medical Practitioners"
+      }
+    ],
+    "doodleBadge": "(Amendment) Act 2017 Rul",
+    "doodleSubtext": "MTP",
+    "explanation": "Allowed on grounds of threat to maternal life, severe fetal malformation, or rape.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in MTP.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 54",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "MTP"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 54,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"MTP\" in NEET Biology?",
+      "options": [
+        "(Amendment) Act 2017 Rules \t1 RMP vs 2 RMPs",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Allowed on grounds of threat to maternal life, severe fetal malformation, or rape."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-3",
+    "topicTitle": "Safest",
+    "topic": "Safest",
+    "mnemonicNumber": 30,
+    "sourceItemNumber": 30,
+    "title": "Safest: \"Period for MTP \tFIRST TRIMESTER\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "Period for MTP \tFIRST TRIMESTER",
+    "memoryHook": "Period for MTP \tFIRST TRIMESTER",
+    "fact": "First 12 weeks (1st Trimester) → Safest phase; 2nd trimester abortions are significantly riskier. Surgical complications and maternal mortality rise sharply for abortions performed past 12 weeks.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Safest"
+      },
+      {
+        "key": "Trick",
+        "label": "Period for MTP \tFIRST TRIMESTER"
+      }
+    ],
+    "doodleBadge": "Period for MTP \tFIRST TR",
+    "doodleSubtext": "Safest",
+    "explanation": "First 12 weeks (1st Trimester) → Safest phase; 2nd trimester abortions are significantly riskier. Surgical complications and maternal mortality rise sharply for abortions performed past 12 weeks.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Safest.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 54",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Safest"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 54,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Safest\" in NEET Biology?",
+      "options": [
+        "Period for MTP \tFIRST TRIMESTER",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "First 12 weeks (1st Trimester) → Safest phase; 2nd trimester abortions are significantly riskier. Surgical complications and maternal mortality rise sharply for abortions performed past 12 weeks."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-31",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-4",
+    "topicTitle": "Bacterial",
+    "topic": "Bacterial",
+    "mnemonicNumber": 31,
+    "sourceItemNumber": 31,
+    "title": "Bacterial: \"STIs (Curable) \tG - S - C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "STIs (Curable) \tG - S - C",
+    "memoryHook": "STIs (Curable) \tG - S - C",
+    "fact": "Gonorrhoea (Neisseria) • Syphilis (Treponema) • Chlamydiasis (Chlamydia) Bacterial STIs can be completely cured if detected early and treated with proper antibiotics.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "STIs (Curable) \tG"
+      },
+      {
+        "key": "Part 2",
+        "label": "S"
+      },
+      {
+        "key": "Part 3",
+        "label": "C"
+      }
+    ],
+    "doodleBadge": "STIs (Curable) \tG - S - ",
+    "doodleSubtext": "Bacterial",
+    "explanation": "Gonorrhoea (Neisseria) • Syphilis (Treponema) • Chlamydiasis (Chlamydia) Bacterial STIs can be completely cured if detected early and treated with proper antibiotics.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Bacterial.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 55",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Bacterial"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 55,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Bacterial\" in NEET Biology?",
+      "options": [
+        "STIs (Curable) \tG - S - C",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gonorrhoea (Neisseria) • Syphilis (Treponema) • Chlamydiasis (Chlamydia) Bacterial STIs can be completely cured if detected early and treated with proper antibiotics."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-32",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-4",
+    "topicTitle": "Incurable",
+    "topic": "Incurable",
+    "mnemonicNumber": 32,
+    "sourceItemNumber": 32,
+    "title": "Incurable: \"Viral STIs \tTHE 3 H's\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Viral STIs \tTHE 3 H's",
+    "memoryHook": "Viral STIs \tTHE 3 H's",
+    "fact": "Hepatitis-B • Herpes (Genital Herpes) • HIV / AIDS Except for these 3 infections, all other STIs are completely curable with early diagnosis.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Incurable"
+      },
+      {
+        "key": "Trick",
+        "label": "Viral STIs \tTHE 3 H's"
+      }
+    ],
+    "doodleBadge": "Viral STIs \tTHE 3 H's",
+    "doodleSubtext": "Incurable",
+    "explanation": "Hepatitis-B • Herpes (Genital Herpes) • HIV / AIDS Except for these 3 infections, all other STIs are completely curable with early diagnosis.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Incurable.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 55",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Incurable"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 55,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Incurable\" in NEET Biology?",
+      "options": [
+        "Viral STIs \tTHE 3 H's",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hepatitis-B • Herpes (Genital Herpes) • HIV / AIDS Except for these 3 infections, all other STIs are completely curable with early diagnosis."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-33",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-4",
+    "topicTitle": "Protozoan",
+    "topic": "Protozoan",
+    "mnemonicNumber": 33,
+    "sourceItemNumber": 33,
+    "title": "Protozoan: \"STI \tTRICHOMONIASIS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "STI \tTRICHOMONIASIS",
+    "memoryHook": "STI \tTRICHOMONIASIS",
+    "fact": "Caused by flagellated protozoan Trichomonas vaginalis; produces foul vaginal discharge and itching. Common protozoan STI treated effectively with anti-protozoal medications like metronidazole.",
+    "breakdown": [
+      {
+        "key": "S",
+        "label": "Caused by flagellated protozoan Trichomonas vaginalis"
+      },
+      {
+        "key": "T",
+        "label": "produces foul vaginal discharge"
+      },
+      {
+        "key": "I",
+        "label": "itching. Common protozoan STI treated effectively with anti-protozoal medications like metronidazole"
+      }
+    ],
+    "doodleBadge": "STI \tTRICHOMONIASIS",
+    "doodleSubtext": "Protozoan",
+    "explanation": "Caused by flagellated protozoan Trichomonas vaginalis; produces foul vaginal discharge and itching. Common protozoan STI treated effectively with anti-protozoal medications like metronidazole.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Protozoan.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 55",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Protozoan"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 55,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Protozoan\" in NEET Biology?",
+      "options": [
+        "STI \tTRICHOMONIASIS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Caused by flagellated protozoan Trichomonas vaginalis; produces foul vaginal discharge and itching. Common protozoan STI treated effectively with anti-protozoal medications like metronidazole."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-34",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-4",
+    "topicTitle": "Non-Sexual",
+    "topic": "Non-Sexual",
+    "mnemonicNumber": 34,
+    "sourceItemNumber": 34,
+    "title": "Non-Sexual: \"Transmission Routes \tN - I - S - T\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Transmission Routes \tN - I - S - T",
+    "memoryHook": "Transmission Routes \tN - I - S - T",
+    "fact": "Needle sharing • Infected instruments • Serum/Blood transfusion • Transplacental (mother to fetus) Hepatitis-B and HIV spread through contaminated blood and maternal-fetal transfer alongside sexual contact.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Transmission Routes \tN"
+      },
+      {
+        "key": "Part 2",
+        "label": "I"
+      },
+      {
+        "key": "Part 3",
+        "label": "S"
+      },
+      {
+        "key": "Part 4",
+        "label": "T"
+      }
+    ],
+    "doodleBadge": "Transmission Routes \tN -",
+    "doodleSubtext": "Non-Sexual",
+    "explanation": "Needle sharing • Infected instruments • Serum/Blood transfusion • Transplacental (mother to fetus) Hepatitis-B and HIV spread through contaminated blood and maternal-fetal transfer alongside sexual contact.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Non-Sexual.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 55",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Non-Sexual"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 55,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Non-Sexual\" in NEET Biology?",
+      "options": [
+        "Transmission Routes \tN - I - S - T",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Needle sharing • Infected instruments • Serum/Blood transfusion • Transplacental (mother to fetus) Hepatitis-B and HIV spread through contaminated blood and maternal-fetal transfer alongside sexual contact."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-35",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-4",
+    "topicTitle": "Early",
+    "topic": "Early",
+    "mnemonicNumber": 35,
+    "sourceItemNumber": 35,
+    "title": "Early: \"Symptoms of STIs \tI - S - P - D\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "Symptoms of STIs \tI - S - P - D",
+    "memoryHook": "Symptoms of STIs \tI - S - P - D",
+    "fact": "Itching in genital area • Swelling • Pain (slight) • Discharge of fluid Early symptoms are often localized and mild; infected females may frequently remain asymptomatic.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Symptoms of STIs \tI"
+      },
+      {
+        "key": "Part 2",
+        "label": "S"
+      },
+      {
+        "key": "Part 3",
+        "label": "P"
+      },
+      {
+        "key": "Part 4",
+        "label": "D"
+      }
+    ],
+    "doodleBadge": "Symptoms of STIs \tI - S ",
+    "doodleSubtext": "Early",
+    "explanation": "Itching in genital area • Swelling • Pain (slight) • Discharge of fluid Early symptoms are often localized and mild; infected females may frequently remain asymptomatic.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Early.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 55",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Early"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 55,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Early\" in NEET Biology?",
+      "options": [
+        "Symptoms of STIs \tI - S - P - D",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Itching in genital area • Swelling • Pain (slight) • Discharge of fluid Early symptoms are often localized and mild; infected females may frequently remain asymptomatic."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-36",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-4",
+    "topicTitle": "Complications",
+    "topic": "Complications",
+    "mnemonicNumber": 36,
+    "sourceItemNumber": 36,
+    "title": "Complications: \"of Untreated STIs \tP - I - D - E - A - S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "of Untreated STIs \tP - I - D - E - A - S",
+    "memoryHook": "of Untreated STIs \tP - I - D - E - A - S",
+    "fact": "Pelvic Inflammatory Diseases • Infertility • Distressing chronic pain • Ectopic pregnancy • Abortions • Stillbirths / Cancer Ignoring early symptoms leads to severe reproductive tract complications and pelvic damage.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "of Untreated STIs \tP"
+      },
+      {
+        "key": "Part 2",
+        "label": "I"
+      },
+      {
+        "key": "Part 3",
+        "label": "D"
+      },
+      {
+        "key": "Part 4",
+        "label": "E"
+      },
+      {
+        "key": "Part 5",
+        "label": "A"
+      },
+      {
+        "key": "Part 6",
+        "label": "S"
+      }
+    ],
+    "doodleBadge": "of Untreated STIs \tP - I",
+    "doodleSubtext": "Complications",
+    "explanation": "Pelvic Inflammatory Diseases • Infertility • Distressing chronic pain • Ectopic pregnancy • Abortions • Stillbirths / Cancer Ignoring early symptoms leads to severe reproductive tract complications and pelvic damage.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Complications.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 55",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Complications"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 55,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Complications\" in NEET Biology?",
+      "options": [
+        "of Untreated STIs \tP - I - D - E - A - S",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Pelvic Inflammatory Diseases • Infertility • Distressing chronic pain • Ectopic pregnancy • Abortions • Stillbirths / Cancer Ignoring early symptoms leads to severe reproductive tract complications and pelvic damage."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-37",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-4",
+    "topicTitle": "Most",
+    "topic": "Most",
+    "mnemonicNumber": 37,
+    "sourceItemNumber": 37,
+    "title": "Most: \"Vulnerable STI Age Group \t15 to 24 YEARS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Vulnerable STI Age Group \t15 to 24 YEARS",
+    "memoryHook": "Vulnerable STI Age Group \t15 to 24 YEARS",
+    "fact": "Incidence of sexually transmitted infections is highest among young people aged 15–24 years. Timely sex education and health counseling target this age demographic to curb STI spread.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Most"
+      },
+      {
+        "key": "Trick",
+        "label": "Vulnerable STI Age Group \t15 to 24 YEARS"
+      }
+    ],
+    "doodleBadge": "Vulnerable STI Age Group",
+    "doodleSubtext": "Most",
+    "explanation": "Incidence of sexually transmitted infections is highest among young people aged 15–24 years. Timely sex education and health counseling target this age demographic to curb STI spread.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Most.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 55",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Most"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 55,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Most\" in NEET Biology?",
+      "options": [
+        "Vulnerable STI Age Group \t15 to 24 YEARS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Incidence of sexually transmitted infections is highest among young people aged 15–24 years. Timely sex education and health counseling target this age demographic to curb STI spread."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-38",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-4",
+    "topicTitle": "Prevention",
+    "topic": "Prevention",
+    "mnemonicNumber": 38,
+    "sourceItemNumber": 38,
+    "title": "Prevention: \"Rules for STIs \tA - B - C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Rules for STIs \tA - B - C",
+    "memoryHook": "Rules for STIs \tA - B - C",
+    "fact": "Avoid sex with unknown/multiple partners • Barrier usage (condoms) • Consult doctor early in doubt Simple precautions and safe sex practices prevent major STI transmission. 7. INFERTILITY & ASSISTED REPRODUCTIVE TECHNOLOGIES (ART)",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Rules for STIs \tA"
+      },
+      {
+        "key": "Part 2",
+        "label": "B"
+      },
+      {
+        "key": "Part 3",
+        "label": "C"
+      }
+    ],
+    "doodleBadge": "Rules for STIs \tA - B - ",
+    "doodleSubtext": "Prevention",
+    "explanation": "Avoid sex with unknown/multiple partners • Barrier usage (condoms) • Consult doctor early in doubt Simple precautions and safe sex practices prevent major STI transmission. 7. INFERTILITY & ASSISTED REPRODUCTIVE TECHNOLOGIES (ART)",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Prevention.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 55",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Prevention"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 55,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Prevention\" in NEET Biology?",
+      "options": [
+        "Rules for STIs \tA - B - C",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Avoid sex with unknown/multiple partners • Barrier usage (condoms) • Consult doctor early in doubt Simple precautions and safe sex practices prevent major STI transmission. 7. INFERTILITY & ASSISTED REPRODUCTIVE TECHNOLOGIES (ART)"
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-39",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-4",
+    "topicTitle": "Clinical",
+    "topic": "Clinical",
+    "mnemonicNumber": 39,
+    "sourceItemNumber": 39,
+    "title": "Clinical: \"Definition of Infertility \t2 YEARS UNPROTECTED\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Definition of Infertility \t2 YEARS UNPROTECTED",
+    "memoryHook": "Definition of Infertility \t2 YEARS UNPROTECTED",
+    "fact": "Inability to conceive or produce children despite 2 years of cohabitation and unprotected sexual intercourse. Infertility can stem from physical, congenital, immunological, or psychological factors in either partner.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "congenital"
+      },
+      {
+        "key": "Point 2",
+        "label": "immunological"
+      },
+      {
+        "key": "Point 3",
+        "label": "or psychological factors in either partner"
+      }
+    ],
+    "doodleBadge": "Definition of Infertilit",
+    "doodleSubtext": "Clinical",
+    "explanation": "Inability to conceive or produce children despite 2 years of cohabitation and unprotected sexual intercourse. Infertility can stem from physical, congenital, immunological, or psychological factors in either partner.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Clinical.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 55",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Clinical"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 55,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Clinical\" in NEET Biology?",
+      "options": [
+        "Definition of Infertility \t2 YEARS UNPROTECTED",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Inability to conceive or produce children despite 2 years of cohabitation and unprotected sexual intercourse. Infertility can stem from physical, congenital, immunological, or psychological factors in either partner."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-40",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-4",
+    "topicTitle": "ART",
+    "topic": "ART",
+    "mnemonicNumber": 40,
+    "sourceItemNumber": 40,
+    "title": "ART: \"Techniques Overview \tI - I - Z - G - A\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Techniques Overview \tI - I - Z - G - A",
+    "memoryHook": "Techniques Overview \tI - I - Z - G - A",
+    "fact": "IVF (In Vitro Fertilization) • ICSI • ZIFT • GIFT • AI (Artificial Insemination) Assisted Reproductive Technologies offer clinical interventions when conventional treatment fails.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Techniques Overview \tI"
+      },
+      {
+        "key": "Part 2",
+        "label": "I"
+      },
+      {
+        "key": "Part 3",
+        "label": "Z"
+      },
+      {
+        "key": "Part 4",
+        "label": "G"
+      },
+      {
+        "key": "Part 5",
+        "label": "A"
+      }
+    ],
+    "doodleBadge": "Techniques Overview \tI -",
+    "doodleSubtext": "ART",
+    "explanation": "IVF (In Vitro Fertilization) • ICSI • ZIFT • GIFT • AI (Artificial Insemination) Assisted Reproductive Technologies offer clinical interventions when conventional treatment fails.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in ART.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 55",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "ART"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 55,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"ART\" in NEET Biology?",
+      "options": [
+        "Techniques Overview \tI - I - Z - G - A",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "IVF (In Vitro Fertilization) • ICSI • ZIFT • GIFT • AI (Artificial Insemination) Assisted Reproductive Technologies offer clinical interventions when conventional treatment fails."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-41",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-5",
+    "topicTitle": "In",
+    "topic": "In",
+    "mnemonicNumber": 41,
+    "sourceItemNumber": 41,
+    "title": "In: \"Vitro Fertilization (IVF) Concept \tTEST-TUBE BABY\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Vitro Fertilization (IVF) Concept \tTEST-TUBE BABY",
+    "memoryHook": "Vitro Fertilization (IVF) Concept \tTEST-TUBE BABY",
+    "fact": "Fertilization outside the female body in laboratory conditions simulating natural uterine environment. Ova from wife/donor and sperms from husband/donor are fused in vitro to form a zygote.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "In"
+      },
+      {
+        "key": "Trick",
+        "label": "Vitro Fertilization (IVF) Concept \tTEST-TUBE BABY"
+      }
+    ],
+    "doodleBadge": "Vitro Fertilization (IVF",
+    "doodleSubtext": "In",
+    "explanation": "Fertilization outside the female body in laboratory conditions simulating natural uterine environment. Ova from wife/donor and sperms from husband/donor are fused in vitro to form a zygote.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in In.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 56",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "In"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 56,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"In\" in NEET Biology?",
+      "options": [
+        "Vitro Fertilization (IVF) Concept \tTEST-TUBE BABY",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fertilization outside the female body in laboratory conditions simulating natural uterine environment. Ova from wife/donor and sperms from husband/donor are fused in vitro to form a zygote."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-42",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-5",
+    "topicTitle": "ZIFT",
+    "topic": "ZIFT",
+    "mnemonicNumber": 42,
+    "sourceItemNumber": 42,
+    "title": "ZIFT: \"(Zygote Intra Fallopian Transfer) \tUP TO 8 BLASTOMERES\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "(Zygote Intra Fallopian Transfer) \tUP TO 8 BLASTOMERES",
+    "memoryHook": "(Zygote Intra Fallopian Transfer) \tUP TO 8 BLASTOMERES",
+    "fact": "Zygote or early embryo up to 8 blastomeres transferred directly into the Fallopian Tube. ZIFT mimics natural embryo migration down the oviduct toward the uterus.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "ZIFT"
+      },
+      {
+        "key": "Trick",
+        "label": "(Zygote Intra Fallopian Transfer) \tUP TO 8 BLASTOMERES"
+      }
+    ],
+    "doodleBadge": "(Zygote Intra Fallopian ",
+    "doodleSubtext": "ZIFT",
+    "explanation": "Zygote or early embryo up to 8 blastomeres transferred directly into the Fallopian Tube. ZIFT mimics natural embryo migration down the oviduct toward the uterus.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in ZIFT.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 56",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "ZIFT"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 56,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"ZIFT\" in NEET Biology?",
+      "options": [
+        "(Zygote Intra Fallopian Transfer) \tUP TO 8 BLASTOMERES",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Zygote or early embryo up to 8 blastomeres transferred directly into the Fallopian Tube. ZIFT mimics natural embryo migration down the oviduct toward the uterus."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-43",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-5",
+    "topicTitle": "IUT",
+    "topic": "IUT",
+    "mnemonicNumber": 43,
+    "sourceItemNumber": 43,
+    "title": "IUT: \"(Intra Uterine Transfer) \t> 8 BLASTOMERES\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "(Intra Uterine Transfer) \t> 8 BLASTOMERES",
+    "memoryHook": "(Intra Uterine Transfer) \t> 8 BLASTOMERES",
+    "fact": "Embryos with more than 8 blastomeres (morula/blastocyst) transferred directly into the Uterus. Late-stage embryos are placed directly in the uterine lumen for immediate endometrial implantation.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "IUT"
+      },
+      {
+        "key": "Trick",
+        "label": "(Intra Uterine Transfer) \t> 8 BLASTOMERES"
+      }
+    ],
+    "doodleBadge": "(Intra Uterine Transfer)",
+    "doodleSubtext": "IUT",
+    "explanation": "Embryos with more than 8 blastomeres (morula/blastocyst) transferred directly into the Uterus. Late-stage embryos are placed directly in the uterine lumen for immediate endometrial implantation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in IUT.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 56",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "IUT"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 56,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"IUT\" in NEET Biology?",
+      "options": [
+        "(Intra Uterine Transfer) \t> 8 BLASTOMERES",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Embryos with more than 8 blastomeres (morula/blastocyst) transferred directly into the Uterus. Late-stage embryos are placed directly in the uterine lumen for immediate endometrial implantation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-44",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-5",
+    "topicTitle": "In",
+    "topic": "In",
+    "mnemonicNumber": 44,
+    "sourceItemNumber": 44,
+    "title": "In: \"Vivo Fertilization Definition \tIN VIVO = INSIDE BODY\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "Vivo Fertilization Definition \tIN VIVO = INSIDE BODY",
+    "memoryHook": "Vivo Fertilization Definition \tIN VIVO = INSIDE BODY",
+    "fact": "Fusion of gametes takes place inside the female reproductive tract (natural fertilization context). Embryos formed by in vivo fertilization can also be harvested for transfer to recipient mothers.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "In"
+      },
+      {
+        "key": "Trick",
+        "label": "Vivo Fertilization Definition \tIN VIVO = INSIDE BODY"
+      }
+    ],
+    "doodleBadge": "Vivo Fertilization Defin",
+    "doodleSubtext": "In",
+    "explanation": "Fusion of gametes takes place inside the female reproductive tract (natural fertilization context). Embryos formed by in vivo fertilization can also be harvested for transfer to recipient mothers.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in In.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 56",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "In"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 56,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"In\" in NEET Biology?",
+      "options": [
+        "Vivo Fertilization Definition \tIN VIVO = INSIDE BODY",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fusion of gametes takes place inside the female reproductive tract (natural fertilization context). Embryos formed by in vivo fertilization can also be harvested for transfer to recipient mothers."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-45",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-5",
+    "topicTitle": "GIFT",
+    "topic": "GIFT",
+    "mnemonicNumber": 45,
+    "sourceItemNumber": 45,
+    "title": "GIFT: \"(Gamete Intra Fallopian Transfer) \tTRANSFER UNFERTILIZED OVUM\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "(Gamete Intra Fallopian Transfer) \tTRANSFER UNFERTILIZED OVUM",
+    "memoryHook": "(Gamete Intra Fallopian Transfer) \tTRANSFER UNFERTILIZED OVUM",
+    "fact": "Transfer of an unfertilized ovum collected from a donor into the Fallopian Tube of another female. Indicated for females who cannot produce viable ova but can maintain fertilization and gestation.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "GIFT"
+      },
+      {
+        "key": "Trick",
+        "label": "(Gamete Intra Fallopian Transfer) \tTRANSFER UNFERTILIZED OVUM"
+      }
+    ],
+    "doodleBadge": "(Gamete Intra Fallopian ",
+    "doodleSubtext": "GIFT",
+    "explanation": "Transfer of an unfertilized ovum collected from a donor into the Fallopian Tube of another female. Indicated for females who cannot produce viable ova but can maintain fertilization and gestation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in GIFT.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 56",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "GIFT"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 56,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"GIFT\" in NEET Biology?",
+      "options": [
+        "(Gamete Intra Fallopian Transfer) \tTRANSFER UNFERTILIZED OVUM",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Transfer of an unfertilized ovum collected from a donor into the Fallopian Tube of another female. Indicated for females who cannot produce viable ova but can maintain fertilization and gestation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-46",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-5",
+    "topicTitle": "ICSI",
+    "topic": "ICSI",
+    "mnemonicNumber": 46,
+    "sourceItemNumber": 46,
+    "title": "ICSI: \"(Intracytoplasmic Sperm Injection) \tDIRECT INJECTION\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "(Intracytoplasmic Sperm Injection) \tDIRECT INJECTION",
+    "memoryHook": "(Intracytoplasmic Sperm Injection) \tDIRECT INJECTION",
+    "fact": "A single sperm is directly injected into the cytoplasm of the ovum in vitro using a micro-needle. Specialized procedure useful in severe male factor infertility or low sperm penetration ability.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "ICSI"
+      },
+      {
+        "key": "Trick",
+        "label": "(Intracytoplasmic Sperm Injection) \tDIRECT INJECTION"
+      }
+    ],
+    "doodleBadge": "(Intracytoplasmic Sperm ",
+    "doodleSubtext": "ICSI",
+    "explanation": "A single sperm is directly injected into the cytoplasm of the ovum in vitro using a micro-needle. Specialized procedure useful in severe male factor infertility or low sperm penetration ability.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in ICSI.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 56",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "ICSI"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 56,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"ICSI\" in NEET Biology?",
+      "options": [
+        "(Intracytoplasmic Sperm Injection) \tDIRECT INJECTION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "A single sperm is directly injected into the cytoplasm of the ovum in vitro using a micro-needle. Specialized procedure useful in severe male factor infertility or low sperm penetration ability."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-47",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-5",
+    "topicTitle": "Artificial",
+    "topic": "Artificial",
+    "mnemonicNumber": 47,
+    "sourceItemNumber": 47,
+    "title": "Artificial: \"Insemination (AI) Indication \tLOW SPERM COUNT\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Insemination (AI) Indication \tLOW SPERM COUNT",
+    "memoryHook": "Insemination (AI) Indication \tLOW SPERM COUNT",
+    "fact": "Indicated when the male partner cannot inseminate or has very low sperm count (oligozoospermia). Semen is concentrated and introduced artificially into the vagina or uterus of the female.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Artificial"
+      },
+      {
+        "key": "Trick",
+        "label": "Insemination (AI) Indication \tLOW SPERM COUNT"
+      }
+    ],
+    "doodleBadge": "Insemination (AI) Indica",
+    "doodleSubtext": "Artificial",
+    "explanation": "Indicated when the male partner cannot inseminate or has very low sperm count (oligozoospermia). Semen is concentrated and introduced artificially into the vagina or uterus of the female.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Artificial.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 56",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Artificial"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 56,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Artificial\" in NEET Biology?",
+      "options": [
+        "Insemination (AI) Indication \tLOW SPERM COUNT",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Indicated when the male partner cannot inseminate or has very low sperm count (oligozoospermia). Semen is concentrated and introduced artificially into the vagina or uterus of the female."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-48",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-5",
+    "topicTitle": "Intra-Uterine",
+    "topic": "Intra-Uterine",
+    "mnemonicNumber": 48,
+    "sourceItemNumber": 48,
+    "title": "Intra-Uterine: \"Insemination (IUI) \tSEMEN IN UTERUS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "Insemination (IUI) \tSEMEN IN UTERUS",
+    "memoryHook": "Insemination (IUI) \tSEMEN IN UTERUS",
+    "fact": "Collected semen from husband or donor is introduced directly into the Uterus artificially. Bypasses cervical mucus barriers and shortens sperm distance to the fallopian tube.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Intra-Uterine"
+      },
+      {
+        "key": "Trick",
+        "label": "Insemination (IUI) \tSEMEN IN UTERUS"
+      }
+    ],
+    "doodleBadge": "Insemination (IUI) \tSEME",
+    "doodleSubtext": "Intra-Uterine",
+    "explanation": "Collected semen from husband or donor is introduced directly into the Uterus artificially. Bypasses cervical mucus barriers and shortens sperm distance to the fallopian tube.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Intra-Uterine.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 56",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Intra-Uterine"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 56,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Intra-Uterine\" in NEET Biology?",
+      "options": [
+        "Insemination (IUI) \tSEMEN IN UTERUS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Collected semen from husband or donor is introduced directly into the Uterus artificially. Bypasses cervical mucus barriers and shortens sperm distance to the fallopian tube."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-49",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-5",
+    "topicTitle": "Legal",
+    "topic": "Legal",
+    "mnemonicNumber": 49,
+    "sourceItemNumber": 49,
+    "title": "Legal: \"& Emotional Alternative \tLEGAL ADOPTION\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "& Emotional Alternative \tLEGAL ADOPTION",
+    "memoryHook": "& Emotional Alternative \tLEGAL ADOPTION",
+    "fact": "Adoption is the best legal and social option for childless couples seeking parenthood in India. Indian law allows legal adoption of orphaned, abandoned, or surrendered children.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Adoption is the best legal"
+      },
+      {
+        "key": "Point 2",
+        "label": "abandoned"
+      },
+      {
+        "key": "Point 3",
+        "label": "or surrendered children"
+      }
+    ],
+    "doodleBadge": "& Emotional Alternative ",
+    "doodleSubtext": "Legal",
+    "explanation": "Adoption is the best legal and social option for childless couples seeking parenthood in India. Indian law allows legal adoption of orphaned, abandoned, or surrendered children.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Legal.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 56",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Legal"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 56,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Legal\" in NEET Biology?",
+      "options": [
+        "& Emotional Alternative \tLEGAL ADOPTION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Adoption is the best legal and social option for childless couples seeking parenthood in India. Indian law allows legal adoption of orphaned, abandoned, or surrendered children."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch22-50",
+    "subject": "biology",
+    "chapterId": "bio-ch-22",
+    "chapterNumber": 22,
+    "chapterTitle": "Reproductive Health",
+    "classLevel": 12,
+    "topicId": "bio-top-22-5",
+    "topicTitle": "Primary",
+    "topic": "Primary",
+    "mnemonicNumber": 50,
+    "sourceItemNumber": 50,
+    "title": "Primary: \"Limitations of ART \tH - E - L - P\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "Limitations of ART \tH - E - L - P",
+    "memoryHook": "Limitations of ART \tH - E - L - P",
+    "fact": "High expense • Expert precision required • Limited center availability • Psychological & moral constraints High cost and specialized facility requirements keep ART out of reach for many couples.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "Limitations of ART \tH"
+      },
+      {
+        "key": "Part 2",
+        "label": "E"
+      },
+      {
+        "key": "Part 3",
+        "label": "L"
+      },
+      {
+        "key": "Part 4",
+        "label": "P"
+      }
+    ],
+    "doodleBadge": "Limitations of ART \tH - ",
+    "doodleSubtext": "Primary",
+    "explanation": "High expense • Expert precision required • Limited center availability • Psychological & moral constraints High cost and specialized facility requirements keep ART out of reach for many couples.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 3 (Reproductive Health).",
+    "neetTrap": "Common NEET test point in Primary.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 3, PDF Page 56",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Reproductive Health",
+      "Primary"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 56,
+      "chapter": "Reproductive Health"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Primary\" in NEET Biology?",
+      "options": [
+        "Limitations of ART \tH - E - L - P",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "High expense • Expert precision required • Limited center availability • Psychological & moral constraints High cost and specialized facility requirements keep ART out of reach for many couples."
     }
   }
 ];

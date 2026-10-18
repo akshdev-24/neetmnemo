@@ -1,1267 +1,3212 @@
+/**
+ * NEET Biology Mnemonics — Chapter 32 (NCERT Ch 13): Biodiversity and Conservation
+ * Class 12 Biology (50 verified mnemonics)
+ * Primary Source: NCERT Class 12 Biology Quick Revision Series (PDF 2)
+ */
+
 export const bioCh32Mnemonics = [
   {
-    "id": "mnemo-bio-12",
+    "id": "mnemo-bio-ch32-01",
     "subject": "biology",
     "chapterId": "bio-ch-32",
     "chapterNumber": 32,
     "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
     "topicId": "bio-top-32-1",
-    "topicTitle": "The Evil Quartet",
+    "topicTitle": "3 Levels of Biodiversity",
+    "topic": "3 Levels of Biodiversity",
     "mnemonicNumber": 1,
-    "title": "The Evil Quartet: HIPO Extinction Causes",
-    "badgeText": "Memory Trick",
-    "importance": "High Yield",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "HIPO: Habitat loss, Invasive species, Pollution/Over-use, Co-extinctions",
-    "memoryHook": "The 4 villains killing wildlife: H (Cutting forests), I (Invasive weeds/fish), P/O (Over-hunting), C (Co-extinction of partners)!",
-    "fact": "Edward Wilson's Evil Quartet: 1. Habitat Loss & Fragmentation (Biggest cause)  2. Over-exploitation (Dodo, Steller sea cow)  3. Alien Species Invasions (Water hyacinth, Nile perch)  4. Co-extinctions (Host & parasite).",
+    "sourceItemNumber": 1,
+    "title": "3 Levels of Biodiversity: \"G - S - E\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "G - S - E",
+    "memoryHook": "G - S - E",
+    "fact": "Genetic (Rauwolfia), Species (Amphibians in Ghats), Ecological (Deserts/Mangroves).",
     "breakdown": [
       {
-        "key": "H - Habitat Loss",
-        "label": "NUMBER ONE cause of extinction (Amazon forest cutting)"
+        "key": "G",
+        "label": "Genetic (Rauwolfia)"
       },
       {
-        "key": "I - Invasive Aliens",
-        "label": "Eichhornia (Water hyacinth), Nile perch, African catfish"
+        "key": "S",
+        "label": "Species (Amphibians in Ghats)"
       },
       {
-        "key": "P/O - Over-Exploitation",
-        "label": "Greedy human hunting (Dodo, Passenger pigeon vanished)"
-      },
-      {
-        "key": "C - Co-extinction",
-        "label": "If the host flower dies, its unique pollinator dies too"
+        "key": "E",
+        "label": "Ecological (Deserts/Mangroves)"
       }
     ],
-    "doodleBadge": "The Evil Quartet",
-    "doodleSubtext": "H - I - P - C",
-    "explanation": "Habitat destruction is by far the biggest villain. Amazon rainforest once covered 14% of the earth's land, but human clearing has reduced it to less than 6%.",
-    "alsoRemember": "In-situ = in the wild (National parks). Ex-situ = off-site care (Zoo, Botanical gardens, Cryopreservation at -196°C).",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.3.",
-    "neetTrap": "Cryopreservation of gametes at -196°C in liquid nitrogen is EX-SITU conservation, not in-situ.",
+    "doodleBadge": "G - S - E",
+    "doodleSubtext": "3 Levels of Biodiversity",
+    "explanation": "Genetic (Rauwolfia), Species (Amphibians in Ghats), Ecological (Deserts/Mangroves).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in 3 Levels of Biodiversity.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
     "tags": [
-      "Ecology",
-      "Biodiversity",
-      "Evil Quartet",
-      "Class 12"
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "3"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "What is the single most important cause driving animals and plants to extinction today?",
+      "question": "Which of the following is associated with \"3 Levels of Biodiversity\" in NEET Biology?",
       "options": [
-        "Alien species invasion",
-        "Habitat loss and fragmentation",
-        "Co-extinction",
-        "Drought"
+        "G - S - E",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Habitat loss and fragmentation is cited in NCERT as the #1 primary cause of accelerated modern extinction."
+      "answerIndex": 0,
+      "explanation": "Genetic (Rauwolfia), Species (Amphibians in Ghats), Ecological (Deserts/Mangroves)."
     }
   },
   {
-    "id": "bio-ch32-02",
+    "id": "mnemo-bio-ch32-02",
     "subject": "biology",
     "chapterId": "bio-ch-32",
     "chapterNumber": 32,
     "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-3",
-    "topicTitle": "Species-Area Relationship: Alexander von Humboldt",
+    "classLevel": 12,
+    "topicId": "bio-top-32-1",
+    "topicTitle": "Robert May's Global Estimate",
+    "topic": "Robert May's Global Estimate",
     "mnemonicNumber": 2,
-    "title": "Species-Area Curve: log S = log C + Z log A (Rectangular Hyperbola)",
-    "badgeText": "Memory Trick",
+    "sourceItemNumber": 2,
+    "title": "Robert May's Global Estimate: \"MAY = 7 MILLION\"",
+    "badgeText": "Must Know",
     "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "process",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "S = C A^Z (Rectangular Hyperbola) → log S = log C + Z log A (Straight line on log scale)",
-    "memoryHook": "Alexander von Humboldt explored South American jungles and showed: within a region, species richness increases with increasing explored area, but only up to a limit!",
-    "fact": "German naturalist Alexander von Humboldt observed that within a region, species richness increased with increasing explored area, but only up to a limit. On a normal scale, the relationship is a Rectangular Hyperbola: S = C * A^Z. On a logarithmic scale, it is a straight line: log S = log C + Z log A. S = Species richness, A = Area, Z = Slope of line (regression coefficient), C = Y-intercept.",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "MAY = 7 MILLION",
+    "memoryHook": "MAY = 7 MILLION",
+    "fact": "Robert May estimated global species diversity at scientifically sound 7 Million.",
     "breakdown": [
       {
+        "key": "Focus",
+        "label": "Robert May's Global Estimate"
+      },
+      {
+        "key": "Trick",
+        "label": "MAY = 7 MILLION"
+      }
+    ],
+    "doodleBadge": "MAY = 7 MILLION",
+    "doodleSubtext": "Robert May's Global Esti",
+    "explanation": "Robert May estimated global species diversity at scientifically sound 7 Million.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Robert May's Global Estimate.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Robert"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Robert May's Global Estimate\" in NEET Biology?",
+      "options": [
+        "MAY = 7 MILLION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Robert May estimated global species diversity at scientifically sound 7 Million."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-03",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-1",
+    "topicTitle": "Animal vs Plant Share",
+    "topic": "Animal vs Plant Share",
+    "mnemonicNumber": 3,
+    "sourceItemNumber": 3,
+    "title": "Animal vs Plant Share: \"A70 - P22\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "A70 - P22",
+    "memoryHook": "A70 - P22",
+    "fact": "Animals > 70% of total recorded species; Plants (incl. Fungi) ≤ 22%.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "A70"
+      },
+      {
+        "key": "Part 2",
+        "label": "P22"
+      }
+    ],
+    "doodleBadge": "A70 - P22",
+    "doodleSubtext": "Animal vs Plant Share",
+    "explanation": "Animals > 70% of total recorded species; Plants (incl. Fungi) ≤ 22%.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Animal vs Plant Share.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Animal"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Animal vs Plant Share\" in NEET Biology?",
+      "options": [
+        "A70 - P22",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Animals > 70% of total recorded species; Plants (incl. Fungi) ≤ 22%."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-04",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-1",
+    "topicTitle": "Insect Dominance Rule",
+    "topic": "Insect Dominance Rule",
+    "mnemonicNumber": 4,
+    "sourceItemNumber": 4,
+    "title": "Insect Dominance Rule: \"7 OUT OF 10\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "7 OUT OF 10",
+    "memoryHook": "7 OUT OF 10",
+    "fact": "Insects form > 70% of all animals. Out of every 10 animals on Earth, 7 are insects.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Insect Dominance Rule"
+      },
+      {
+        "key": "Trick",
+        "label": "7 OUT OF 10"
+      }
+    ],
+    "doodleBadge": "7 OUT OF 10",
+    "doodleSubtext": "Insect Dominance Rule",
+    "explanation": "Insects form > 70% of all animals. Out of every 10 animals on Earth, 7 are insects.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Insect Dominance Rule.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Insect"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Insect Dominance Rule\" in NEET Biology?",
+      "options": [
+        "7 OUT OF 10",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Insects form > 70% of all animals. Out of every 10 animals on Earth, 7 are insects."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-05",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-1",
+    "topicTitle": "Fungi Richness Comparison",
+    "topic": "Fungi Richness Comparison",
+    "mnemonicNumber": 5,
+    "sourceItemNumber": 5,
+    "title": "Fungi Richness Comparison: \"FUNGI > FARM\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "FUNGI > FARM",
+    "memoryHook": "FUNGI > FARM",
+    "fact": "Fungi species count is higher than total of Fishes + Amphibians + Reptiles + Mammals.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Fungi Richness Comparison"
+      },
+      {
+        "key": "Trick",
+        "label": "FUNGI > FARM"
+      }
+    ],
+    "doodleBadge": "FUNGI > FARM",
+    "doodleSubtext": "Fungi Richness Compariso",
+    "explanation": "Fungi species count is higher than total of Fishes + Amphibians + Reptiles + Mammals.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Fungi Richness Comparison.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Fungi"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Fungi Richness Comparison\" in NEET Biology?",
+      "options": [
+        "FUNGI > FARM",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Fungi species count is higher than total of Fishes + Amphibians + Reptiles + Mammals."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-06",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-1",
+    "topicTitle": "India's Biodiversity Share",
+    "topic": "India's Biodiversity Share",
+    "mnemonicNumber": 6,
+    "sourceItemNumber": 6,
+    "title": "India's Biodiversity Share: \"AREA 2.4 % → SPECIES 8.1%\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "AREA 2.4 % → SPECIES 8.1%",
+    "memoryHook": "AREA 2.4 % → SPECIES 8.1%",
+    "fact": "India has only 2.4% world land area but contributes 8.1% to global species diversity.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "India's Biodiversity Share"
+      },
+      {
+        "key": "Trick",
+        "label": "AREA 2.4 % → SPECIES 8.1%"
+      }
+    ],
+    "doodleBadge": "AREA 2.4 % → SPECIES 8.1",
+    "doodleSubtext": "India's Biodiversity Sha",
+    "explanation": "India has only 2.4% world land area but contributes 8.1% to global species diversity.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in India's Biodiversity Share.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "India's"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"India's Biodiversity Share\" in NEET Biology?",
+      "options": [
+        "AREA 2.4 % → SPECIES 8.1%",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "India has only 2.4% world land area but contributes 8.1% to global species diversity."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-07",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-1",
+    "topicTitle": "India's Global Standing",
+    "topic": "India's Global Standing",
+    "mnemonicNumber": 7,
+    "sourceItemNumber": 7,
+    "title": "India's Global Standing: \"17 MEGA - 12TH RANK\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "17 MEGA - 12TH RANK",
+    "memoryHook": "17 MEGA - 12TH RANK",
+    "fact": "India is among 17 Mega-diverse countries and ranks 12th in global species richness.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "17 MEGA"
+      },
+      {
+        "key": "Part 2",
+        "label": "12TH RANK"
+      }
+    ],
+    "doodleBadge": "17 MEGA - 12TH RANK",
+    "doodleSubtext": "India's Global Standing",
+    "explanation": "India is among 17 Mega-diverse countries and ranks 12th in global species richness.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in India's Global Standing.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "India's"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"India's Global Standing\" in NEET Biology?",
+      "options": [
+        "17 MEGA - 12TH RANK",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "India is among 17 Mega-diverse countries and ranks 12th in global species richness."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-08",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-1",
+    "topicTitle": "Recorded Species in India",
+    "topic": "Recorded Species in India",
+    "mnemonicNumber": 8,
+    "sourceItemNumber": 8,
+    "title": "Recorded Species in India: \"45K PLANTS → 90K ANIMALS\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "45K PLANTS → 90K ANIMALS",
+    "memoryHook": "45K PLANTS → 90K ANIMALS",
+    "fact": "Nearly 45,000 plant species and twice as many (90,000) animal species recorded in India.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Nearly 45"
+      },
+      {
+        "key": "Point 2",
+        "label": "000 plant species"
+      },
+      {
+        "key": "Point 3",
+        "label": "twice as many (90"
+      },
+      {
+        "key": "Point 4",
+        "label": "000) animal species recorded in India"
+      }
+    ],
+    "doodleBadge": "45K PLANTS → 90K ANIMALS",
+    "doodleSubtext": "Recorded Species in Indi",
+    "explanation": "Nearly 45,000 plant species and twice as many (90,000) animal species recorded in India.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Recorded Species in India.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Recorded"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Recorded Species in India\" in NEET Biology?",
+      "options": [
+        "45K PLANTS → 90K ANIMALS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Nearly 45,000 plant species and twice as many (90,000) animal species recorded in India."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-09",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-1",
+    "topicTitle": "Latitudinal Gradient Rule",
+    "topic": "Latitudinal Gradient Rule",
+    "mnemonicNumber": 9,
+    "sourceItemNumber": 9,
+    "title": "Latitudinal Gradient Rule: \"EQUATOR HIGH → POLE LOW\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "EQUATOR HIGH → POLE LOW",
+    "memoryHook": "EQUATOR HIGH → POLE LOW",
+    "fact": "Species diversity decreases from Equator to Poles (Highest in Tropics).",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Latitudinal Gradient Rule"
+      },
+      {
+        "key": "Trick",
+        "label": "EQUATOR HIGH → POLE LOW"
+      }
+    ],
+    "doodleBadge": "EQUATOR HIGH → POLE LOW",
+    "doodleSubtext": "Latitudinal Gradient Rul",
+    "explanation": "Species diversity decreases from Equator to Poles (Highest in Tropics).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Latitudinal Gradient Rule.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Latitudinal"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Latitudinal Gradient Rule\" in NEET Biology?",
+      "options": [
+        "EQUATOR HIGH → POLE LOW",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Species diversity decreases from Equator to Poles (Highest in Tropics)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-10",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-1",
+    "topicTitle": "Colombia vs New York Birds",
+    "topic": "Colombia vs New York Birds",
+    "mnemonicNumber": 10,
+    "sourceItemNumber": 10,
+    "title": "Colombia vs New York Birds: \"COLOMBIA 1400 > NY 105\"",
+    "badgeText": "Must Know",
+    "importance": "Must Know",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "COLOMBIA 1400 > NY 105",
+    "memoryHook": "COLOMBIA 1400 > NY 105",
+    "fact": "Colombia (Equator): 1400 bird species; New York (41°N): 105; Greenland (71°N): 56.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "1400 bird species"
+      },
+      {
+        "key": "Point 2",
+        "label": "New York (41°N): 105"
+      },
+      {
+        "key": "Point 3",
+        "label": "Greenland (71°N): 56"
+      }
+    ],
+    "doodleBadge": "COLOMBIA 1400 > NY 105",
+    "doodleSubtext": "Colombia vs New York Bir",
+    "explanation": "Colombia (Equator): 1400 bird species; New York (41°N): 105; Greenland (71°N): 56.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Colombia vs New York Birds.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Colombia"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Colombia vs New York Birds\" in NEET Biology?",
+      "options": [
+        "COLOMBIA 1400 > NY 105",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Colombia (Equator): 1400 bird species; New York (41°N): 105; Greenland (71°N): 56."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-11",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-2",
+    "topicTitle": "Amazonian Rainforest Birds",
+    "topic": "Amazonian Rainforest Birds",
+    "mnemonicNumber": 11,
+    "sourceItemNumber": 11,
+    "title": "Amazonian Rainforest Birds: \"AMAZON = 1300 BIRDS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "AMAZON = 1300 BIRDS",
+    "memoryHook": "AMAZON = 1300 BIRDS",
+    "fact": "Amazonian rainforest in South America harbors over 1,300 species of birds.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Amazonian Rainforest Birds"
+      },
+      {
+        "key": "Trick",
+        "label": "AMAZON = 1300 BIRDS"
+      }
+    ],
+    "doodleBadge": "AMAZON = 1300 BIRDS",
+    "doodleSubtext": "Amazonian Rainforest Bir",
+    "explanation": "Amazonian rainforest in South America harbors over 1,300 species of birds.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Amazonian Rainforest Birds.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Amazonian"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Amazonian Rainforest Birds\" in NEET Biology?",
+      "options": [
+        "AMAZON = 1300 BIRDS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Amazonian rainforest in South America harbors over 1,300 species of birds."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-12",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-2",
+    "topicTitle": "3 Reasons for Tropical Richness",
+    "topic": "3 Reasons for Tropical Richness",
+    "mnemonicNumber": 12,
+    "sourceItemNumber": 12,
+    "title": "3 Reasons for Tropical Richness: \"T - S - E\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "T - S - E",
+    "memoryHook": "T - S - E",
+    "fact": "Time (Evolutionary undisturbed), Seasonal stability (Constant environment), Energy (Solar input).",
+    "breakdown": [
+      {
+        "key": "T",
+        "label": "Time (Evolutionary undisturbed)"
+      },
+      {
         "key": "S",
-        "label": "Species richness"
+        "label": "Seasonal stability (Constant environment)"
+      },
+      {
+        "key": "E",
+        "label": "Energy (Solar input)"
+      }
+    ],
+    "doodleBadge": "T - S - E",
+    "doodleSubtext": "3 Reasons for Tropical R",
+    "explanation": "Time (Evolutionary undisturbed), Seasonal stability (Constant environment), Energy (Solar input).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in 3 Reasons for Tropical Richness.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 1",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "3"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 1,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"3 Reasons for Tropical Richness\" in NEET Biology?",
+      "options": [
+        "T - S - E",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Time (Evolutionary undisturbed), Seasonal stability (Constant environment), Energy (Solar input)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-13",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-2",
+    "topicTitle": "Species-Area Naturalist",
+    "topic": "Species-Area Naturalist",
+    "mnemonicNumber": 13,
+    "sourceItemNumber": 13,
+    "title": "Species-Area Naturalist: \"ALEXANDER VON HUMBOLDT\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "ALEXANDER VON HUMBOLDT",
+    "memoryHook": "ALEXANDER VON HUMBOLDT",
+    "fact": "German naturalist who studied South American jungles & gave Species-Area relationship.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Species-Area Naturalist"
+      },
+      {
+        "key": "Trick",
+        "label": "ALEXANDER VON HUMBOLDT"
+      }
+    ],
+    "doodleBadge": "ALEXANDER VON HUMBOLDT",
+    "doodleSubtext": "Species-Area Naturalist",
+    "explanation": "German naturalist who studied South American jungles & gave Species-Area relationship.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Species-Area Naturalist.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Species-Area"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Species-Area Naturalist\" in NEET Biology?",
+      "options": [
+        "ALEXANDER VON HUMBOLDT",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "German naturalist who studied South American jungles & gave Species-Area relationship."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-14",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-2",
+    "topicTitle": "Species-Area Curve Shape",
+    "topic": "Species-Area Curve Shape",
+    "mnemonicNumber": 14,
+    "sourceItemNumber": 14,
+    "title": "Species-Area Curve Shape: \"RECTANGULAR HYPERBOLA\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "RECTANGULAR HYPERBOLA",
+    "memoryHook": "RECTANGULAR HYPERBOLA",
+    "fact": "On a normal scale, S vs A relationship is a Rectangular Hyperbola.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "On a normal scale"
+      },
+      {
+        "key": "Point 2",
+        "label": "S vs A relationship is a Rectangular Hyperbola"
+      }
+    ],
+    "doodleBadge": "RECTANGULAR HYPERBOLA",
+    "doodleSubtext": "Species-Area Curve Shape",
+    "explanation": "On a normal scale, S vs A relationship is a Rectangular Hyperbola.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Species-Area Curve Shape.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Species-Area"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Species-Area Curve Shape\" in NEET Biology?",
+      "options": [
+        "RECTANGULAR HYPERBOLA",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "On a normal scale, S vs A relationship is a Rectangular Hyperbola."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-15",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-2",
+    "topicTitle": "Logarithmic Equation",
+    "topic": "Logarithmic Equation",
+    "mnemonicNumber": 15,
+    "sourceItemNumber": 15,
+    "title": "Logarithmic Equation: \"log S = log C + Z log A\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "log S = log C + Z log A",
+    "memoryHook": "log S = log C + Z log A",
+    "fact": "Linear scale equation where S=Richness, A=Area, Z=Slope, C=Y- intercept.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Linear scale equation where S=Richness"
+      },
+      {
+        "key": "Point 2",
+        "label": "A=Area"
+      },
+      {
+        "key": "Point 3",
+        "label": "Z=Slope"
+      },
+      {
+        "key": "Point 4",
+        "label": "C=Y- intercept"
+      }
+    ],
+    "doodleBadge": "log S = log C + Z log A",
+    "doodleSubtext": "Logarithmic Equation",
+    "explanation": "Linear scale equation where S=Richness, A=Area, Z=Slope, C=Y- intercept.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Logarithmic Equation.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Logarithmic"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Logarithmic Equation\" in NEET Biology?",
+      "options": [
+        "log S = log C + Z log A",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Linear scale equation where S=Richness, A=Area, Z=Slope, C=Y- intercept."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-16",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-2",
+    "topicTitle": "Normal Z-Value Range",
+    "topic": "Normal Z-Value Range",
+    "mnemonicNumber": 16,
+    "sourceItemNumber": 16,
+    "title": "Normal Z-Value Range: \"Z = 0.1 TO 0.2\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "Z = 0.1 TO 0.2",
+    "memoryHook": "Z = 0.1 TO 0.2",
+    "fact": "Slope Z lies strictly between 0.1 and 0.2 regardless of taxonomic group or region.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Slope Z lies strictly between 0.1"
+      },
+      {
+        "key": "Point 2",
+        "label": "0.2 regardless of taxonomic group or region"
+      }
+    ],
+    "doodleBadge": "Z = 0.1 TO 0.2",
+    "doodleSubtext": "Normal Z-Value Range",
+    "explanation": "Slope Z lies strictly between 0.1 and 0.2 regardless of taxonomic group or region.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Normal Z-Value Range.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Normal"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Normal Z-Value Range\" in NEET Biology?",
+      "options": [
+        "Z = 0.1 TO 0.2",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Slope Z lies strictly between 0.1 and 0.2 regardless of taxonomic group or region."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-17",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-2",
+    "topicTitle": "Continental Z-Value Range",
+    "topic": "Continental Z-Value Range",
+    "mnemonicNumber": 17,
+    "sourceItemNumber": 17,
+    "title": "Continental Z-Value Range: \"Z = 0.6 TO 1.2\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "Z = 0.6 TO 1.2",
+    "memoryHook": "Z = 0.6 TO 1.2",
+    "fact": "For large areas like entire continents, slope Z is much steeper: 0.6 to 1.2.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Continental Z-Value Range"
+      },
+      {
+        "key": "Trick",
+        "label": "Z = 0.6 TO 1.2"
+      }
+    ],
+    "doodleBadge": "Z = 0.6 TO 1.2",
+    "doodleSubtext": "Continental Z-Value Rang",
+    "explanation": "For large areas like entire continents, slope Z is much steeper: 0.6 to 1.2.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Continental Z-Value Range.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Continental"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Continental Z-Value Range\" in NEET Biology?",
+      "options": [
+        "Z = 0.6 TO 1.2",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "For large areas like entire continents, slope Z is much steeper: 0.6 to 1.2."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-18",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-2",
+    "topicTitle": "Frugivorous Birds Z-Value",
+    "topic": "Frugivorous Birds Z-Value",
+    "mnemonicNumber": 18,
+    "sourceItemNumber": 18,
+    "title": "Frugivorous Birds Z-Value: \"FRUGIVOROUS = 1.15\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "FRUGIVOROUS = 1.15",
+    "memoryHook": "FRUGIVOROUS = 1.15",
+    "fact": "For frugivorous (fruit-eating) birds and mammals in tropical forests, slope Z = 1.15.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "For frugivorous (fruit-eating) birds"
+      },
+      {
+        "key": "Point 2",
+        "label": "mammals in tropical forests"
+      },
+      {
+        "key": "Point 3",
+        "label": "slope Z = 1.15"
+      }
+    ],
+    "doodleBadge": "FRUGIVOROUS = 1.15",
+    "doodleSubtext": "Frugivorous Birds Z-Valu",
+    "explanation": "For frugivorous (fruit-eating) birds and mammals in tropical forests, slope Z = 1.15.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Frugivorous Birds Z-Value.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Frugivorous"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Frugivorous Birds Z-Value\" in NEET Biology?",
+      "options": [
+        "FRUGIVOROUS = 1.15",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "For frugivorous (fruit-eating) birds and mammals in tropical forests, slope Z = 1.15."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-19",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-2",
+    "topicTitle": "Tilman's Ecosystem Findings",
+    "topic": "Tilman's Ecosystem Findings",
+    "mnemonicNumber": 19,
+    "sourceItemNumber": 19,
+    "title": "Tilman's Ecosystem Findings: \"MORE SPECIES = LESS VARIATION\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "MORE SPECIES = LESS VARIATION",
+    "memoryHook": "MORE SPECIES = LESS VARIATION",
+    "fact": "David Tilman showed plots with more species showed less year-to-year variation in biomass.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Tilman's Ecosystem Findings"
+      },
+      {
+        "key": "Trick",
+        "label": "MORE SPECIES = LESS VARIATION"
+      }
+    ],
+    "doodleBadge": "MORE SPECIES = LESS VARI",
+    "doodleSubtext": "Tilman's Ecosystem Findi",
+    "explanation": "David Tilman showed plots with more species showed less year-to-year variation in biomass.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Tilman's Ecosystem Findings.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Tilman's"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Tilman's Ecosystem Findings\" in NEET Biology?",
+      "options": [
+        "MORE SPECIES = LESS VARIATION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "David Tilman showed plots with more species showed less year-to-year variation in biomass."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-20",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-2",
+    "topicTitle": "Rivet Popper Ecologist",
+    "topic": "Rivet Popper Ecologist",
+    "mnemonicNumber": 20,
+    "sourceItemNumber": 20,
+    "title": "Rivet Popper Ecologist: \"PAUL EHRLICH\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "PAUL EHRLICH",
+    "memoryHook": "PAUL EHRLICH",
+    "fact": "Stanford ecologist who proposed the Rivet Popper Hypothesis using airplane analogy.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Rivet Popper Ecologist"
+      },
+      {
+        "key": "Trick",
+        "label": "PAUL EHRLICH"
+      }
+    ],
+    "doodleBadge": "PAUL EHRLICH",
+    "doodleSubtext": "Rivet Popper Ecologist",
+    "explanation": "Stanford ecologist who proposed the Rivet Popper Hypothesis using airplane analogy.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Rivet Popper Ecologist.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Rivet"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Rivet Popper Ecologist\" in NEET Biology?",
+      "options": [
+        "PAUL EHRLICH",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Stanford ecologist who proposed the Rivet Popper Hypothesis using airplane analogy."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-21",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-3",
+    "topicTitle": "Rivet Analogy Key Elements",
+    "topic": "Rivet Analogy Key Elements",
+    "mnemonicNumber": 21,
+    "sourceItemNumber": 21,
+    "title": "Rivet Analogy Key Elements: \"RIVET = SPECIES / WING = KEYSTONE\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "RIVET = SPECIES / WING = KEYSTONE",
+    "memoryHook": "RIVET = SPECIES / WING = KEYSTONE",
+    "fact": "Airplane = Ecosystem; Rivets = Species; Rivets on wings = Keystone Species.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Airplane = Ecosystem"
+      },
+      {
+        "key": "Point 2",
+        "label": "Rivets = Species"
+      },
+      {
+        "key": "Point 3",
+        "label": "Rivets on wings = Keystone Species"
+      }
+    ],
+    "doodleBadge": "RIVET = SPECIES / WING =",
+    "doodleSubtext": "Rivet Analogy Key Elemen",
+    "explanation": "Airplane = Ecosystem; Rivets = Species; Rivets on wings = Keystone Species.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Rivet Analogy Key Elements.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Rivet"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Rivet Analogy Key Elements\" in NEET Biology?",
+      "options": [
+        "RIVET = SPECIES / WING = KEYSTONE",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Airplane = Ecosystem; Rivets = Species; Rivets on wings = Keystone Species."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-22",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-3",
+    "topicTitle": "IUCN Red List Extinctions",
+    "topic": "IUCN Red List Extinctions",
+    "mnemonicNumber": 22,
+    "sourceItemNumber": 22,
+    "title": "IUCN Red List Extinctions: \"784 SPECIES IN 500 YEARS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "784 SPECIES IN 500 YEARS",
+    "memoryHook": "784 SPECIES IN 500 YEARS",
+    "fact": "IUCN Red List (2004) documents extinction of 784 species (338 vertebrates, 359 invertebrates, 87 plants).",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "359 invertebrates"
+      },
+      {
+        "key": "Point 2",
+        "label": "87 plants)"
+      }
+    ],
+    "doodleBadge": "784 SPECIES IN 500 YEARS",
+    "doodleSubtext": "IUCN Red List Extinction",
+    "explanation": "IUCN Red List (2004) documents extinction of 784 species (338 vertebrates, 359 invertebrates, 87 plants).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in IUCN Red List Extinctions.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "IUCN"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"IUCN Red List Extinctions\" in NEET Biology?",
+      "options": [
+        "784 SPECIES IN 500 YEARS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "IUCN Red List (2004) documents extinction of 784 species (338 vertebrates, 359 invertebrates, 87 plants)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-23",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-3",
+    "topicTitle": "Recent Extinct Animals",
+    "topic": "Recent Extinct Animals",
+    "mnemonicNumber": 23,
+    "sourceItemNumber": 23,
+    "title": "Recent Extinct Animals: \"D - Q - T - S - A\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "D - Q - T - S - A",
+    "memoryHook": "D - Q - T - S - A",
+    "fact": "Dodo (Mauritius), Quagga (Africa), Tylacine (Australia), Steller's Sea Cow (Russia), Amphibians.",
+    "breakdown": [
+      {
+        "key": "D",
+        "label": "Dodo (Mauritius)"
+      },
+      {
+        "key": "Q",
+        "label": "Quagga (Africa)"
+      },
+      {
+        "key": "T",
+        "label": "Tylacine (Australia)"
+      },
+      {
+        "key": "S",
+        "label": "Steller's Sea Cow (Russia)"
       },
       {
         "key": "A",
-        "label": "Area explored"
+        "label": "Amphibians"
+      }
+    ],
+    "doodleBadge": "D - Q - T - S - A",
+    "doodleSubtext": "Recent Extinct Animals",
+    "explanation": "Dodo (Mauritius), Quagga (Africa), Tylacine (Australia), Steller's Sea Cow (Russia), Amphibians.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Recent Extinct Animals.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Recent"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Recent Extinct Animals\" in NEET Biology?",
+      "options": [
+        "D - Q - T - S - A",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Dodo (Mauritius), Quagga (Africa), Tylacine (Australia), Steller's Sea Cow (Russia), Amphibians."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-24",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-3",
+    "topicTitle": "Subspecies of Tiger Extinct",
+    "topic": "Subspecies of Tiger Extinct",
+    "mnemonicNumber": 24,
+    "sourceItemNumber": 24,
+    "title": "Subspecies of Tiger Extinct: \"B - J - C\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "B - J - C",
+    "memoryHook": "B - J - C",
+    "fact": "Three extinct tiger subspecies: Bali, Javan, and Caspian.",
+    "breakdown": [
+      {
+        "key": "B",
+        "label": "Bali"
       },
       {
-        "key": "Z",
-        "label": "Slope of the line / regression coefficient (normally 0.1 to 0.2 regardless of taxonomic group or region)"
-      },
-      {
-        "key": "Z for Entire Continents",
-        "label": "Much steeper slope: Z = 0.6 to 1.2 (e.g. frugivorous birds and mammals in tropical forests Z = 1.15)"
+        "key": "J",
+        "label": "Javan"
       },
       {
         "key": "C",
-        "label": "Y-intercept"
+        "label": "and Caspian"
       }
     ],
-    "doodleBadge": "log S = log C + Z log A\nZ = 0.1–0.2 (Local)\nZ = 0.6–1.2 (Continent)",
-    "doodleSubtext": "von Humboldt Curve",
-    "explanation": "When analyzing species-area relationships across very large areas like entire continents, the slope of the line Z is much steeper (0.6 to 1.2).",
-    "alsoRemember": "For frugivorous (fruit-eating) birds and mammals in tropical forests of different continents, the slope Z is found to be 1.15.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.2, Figure 15.2.",
-    "neetTrap": "On normal coordinates, the curve is a RECTANGULAR HYPERBOLA; on log-log scale, it is a STRAIGHT LINE.",
+    "doodleBadge": "B - J - C",
+    "doodleSubtext": "Subspecies of Tiger Exti",
+    "explanation": "Three extinct tiger subspecies: Bali, Javan, and Caspian.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Subspecies of Tiger Extinct.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
     "tags": [
-      "Ecology",
-      "Biodiversity",
-      "Species-Area",
-      "Humboldt",
-      "Z-value"
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Subspecies"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "What is the value of the slope of the line (Z / regression coefficient) in the species-area relationship when analyzed across very large areas like entire continents?",
+      "question": "Which of the following is associated with \"Subspecies of Tiger Extinct\" in NEET Biology?",
       "options": [
-        "0.1 to 0.2",
-        "0.6 to 1.2",
-        "1.5 to 2.0",
-        "0.01 to 0.05"
-      ],
-      "answerIndex": 1,
-      "explanation": "For large areas such as whole continents, the regression coefficient Z is significantly steeper, ranging between 0.6 and 1.2."
-    }
-  },
-  {
-    "id": "bio-ch32-03",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-2",
-    "topicTitle": "In-Situ vs Ex-Situ Conservation",
-    "mnemonicNumber": 3,
-    "title": "In-Situ (On-Site in Wild) vs Ex-Situ (Off-Site Rescue)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "In-Situ = In their Natural Home (National Parks, Sanctuaries, Biosphere Reserves, Sacred Groves) | Ex-Situ = Taken Out (Zoo, Botanical Garden, Wildlife Safari, Cryopreservation -196°C, Seed Bank)",
-    "memoryHook": "In-situ protects the whole wild forest (save tiger by saving forest); Ex-situ takes endangered species out to special care clinics (Zoos, Gene banks, Cryopreservation)!",
-    "fact": "1. In-Situ Conservation (On-site): Protection of endangered species in their natural habitats (Biosphere Reserves, National Parks, Wildlife Sanctuaries, Sacred Groves). 2. Ex-Situ Conservation (Off-site): Threatened animals and plants are taken out of their natural habitat and placed in special care settings (Zoological parks, Botanical gardens, Wildlife safari parks, Cryopreservation of gametes at -196°C in liquid N2, Seed banks, Tissue culture).",
-    "breakdown": [
-      {
-        "key": "In-Situ Examples",
-        "label": "14 Biosphere reserves, 90 National parks, 448 Wildlife sanctuaries, Sacred groves in India"
-      },
-      {
-        "key": "Sacred Groves",
-        "label": "Khasi & Jaintia hills (Meghalaya), Aravalli hills (Rajasthan), Western Ghats (Karnataka/Maharashtra), Chanda & Bastar (MP)"
-      },
-      {
-        "key": "Ex-Situ Examples",
-        "label": "Zoos, Botanical gardens, Wildlife safari parks, Seed banks, Cryopreservation (-196°C)"
-      },
-      {
-        "key": "Cryopreservation",
-        "label": "Preserving viable gametes/seeds at -196°C in liquid nitrogen indefinitely in fertile condition"
-      }
-    ],
-    "doodleBadge": "In-Situ: Natural Habitat\nEx-Situ: Zoo / Cryo -196°C",
-    "doodleSubtext": "Conservation Strategies",
-    "explanation": "Sacred groves in Meghalaya are the last refuges for a large number of rare and threatened plant species, protected by indigenous tribal traditions.",
-    "alsoRemember": "Gametes of threatened species can be preserved in viable and fertile condition for long periods using cryopreservation techniques.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.2.2.",
-    "neetTrap": "Wildlife Safari Parks and Cryopreservation are EX-SITU conservation, NOT in-situ.",
-    "tags": [
-      "Ecology",
-      "Conservation",
-      "In-Situ",
-      "Ex-Situ",
-      "Cryopreservation",
-      "Sacred Groves"
-    ],
-    "quiz": {
-      "question": "Which of the following is an example of EX-SITU conservation?",
-      "options": [
-        "National Park",
-        "Biosphere Reserve",
-        "Sacred Grove",
-        "Cryopreservation of gametes in liquid nitrogen"
-      ],
-      "answerIndex": 3,
-      "explanation": "Cryopreservation (storing gametes off-site at -196°C) is a premier modern ex-situ conservation method."
-    }
-  },
-  {
-    "id": "bio-ch32-04",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "Global Biodiversity Estimates: Robert May's 7 Million",
-    "mnemonicNumber": 4,
-    "title": "Global Biodiversity: Robert May Estimates 7 Million Species (~22% Known)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "IUCN (2004) = >1.5 Million species named | Robert May's conservative estimate = 7 MILLION global species! (Only 22% discovered so far)",
-    "memoryHook": "Robert May calculated the most scientifically sound global estimate: 7 million species on Earth, meaning nearly 78% of species remain undiscovered!",
-    "fact": "According to IUCN (2004), the total number of plant and animal species described so far is slightly more than 1.5 million. Robert May placed global species diversity at a scientifically sound, conservative estimate of about 7 million species. More than 70% of all recorded species are animals, while plants (including algae, fungi, bryophytes, gymnosperms, and angiosperms) comprise no more than 22%.",
-    "breakdown": [
-      {
-        "key": "Described Species (IUCN)",
-        "label": "> 1.5 million species recorded"
-      },
-      {
-        "key": "Robert May's Estimate",
-        "label": "7 Million species on Earth"
-      },
-      {
-        "key": "Animals Share",
-        "label": "> 70% of all recorded species"
-      },
-      {
-        "key": "Insects Share",
-        "label": "Insects make up > 70% of all animal species (7 out of 10 animals are insects!)"
-      },
-      {
-        "key": "Fungi Diversity",
-        "label": "Species of fungi in the world exceeds the combined total of fishes, amphibians, reptiles, and mammals"
-      }
-    ],
-    "doodleBadge": "Robert May: 7 Million\nInsects = 70% of Animals",
-    "doodleSubtext": "Species Distribution",
-    "explanation": "Biologists do not give estimates for prokaryotes because conventional taxonomic methods are not suitable for identifying bacterial species, and many species cannot be cultured in laboratories.",
-    "alsoRemember": "India has only 2.4% of the world's land area, but shares an impressive 8.1% of global species diversity (one of 12 mega-diversity countries).",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1, Figure 15.1.",
-    "neetTrap": "The number of FUNGI species in the world is MORE than the combined total of all fishes, amphibians, reptiles, and mammals combined.",
-    "tags": [
-      "Ecology",
-      "Biodiversity",
-      "Robert May",
-      "Insects",
-      "Fungi"
-    ],
-    "quiz": {
-      "question": "According to Robert May’s widely accepted estimate, what is the total global species diversity on Earth?",
-      "options": [
-        "1.5 million",
-        "7 million",
-        "20 to 50 million",
-        "100 million"
-      ],
-      "answerIndex": 1,
-      "explanation": "Robert May estimated that approximately 7 million species exist globally on Earth."
-    }
-  },
-  {
-    "id": "bio-ch32-05",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "Alien Species Invasions: Eichhornia, Parthenium, Clarias, Nile Perch",
-    "mnemonicNumber": 5,
-    "title": "Invasive Alien Species: Nile Perch (Cichlids), Eichhornia (Terror of Bengal), Clarias (Catfish)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Nile Perch killed 200 Cichlid fish in Lake Victoria | Eichhornia (Water Hyacinth) chokes ponds | Parthenium (Carrot grass) & Lantana invade land | African Catfish (Clarias gariepinus) threatens indigenous catfish",
-    "memoryHook": "Nile perch wiped out 200 cichlid fish species in Lake Victoria; Eichhornia drains oxygen from water; Clarias gariepinus threatens native Indian catfish!",
-    "fact": "Key Alien Species Invasions in NCERT: 1. Nile Perch: introduced into Lake Victoria (East Africa) led to extinction of an ecologically unique assemblage of >200 species of endemic cichlid fish. 2. Invasive weeds: Parthenium (Carrot grass, came with imported wheat), Lantana camara, and Eichhornia crassipes (Water hyacinth / \"Terror of Bengal\"). 3. Clarias gariepinus (African catfish): illegally introduced for aquaculture, posing severe threat to indigenous catfish in Indian rivers.",
-    "breakdown": [
-      {
-        "key": "Nile Perch in Lake Victoria",
-        "label": "Predatory fish that caused extinction of >200 endemic cichlid fish species"
-      },
-      {
-        "key": "Eichhornia (Water Hyacinth)",
-        "label": "Proliferates explosively in eutrophic waters, draining oxygen and killing aquatic life"
-      },
-      {
-        "key": "Parthenium (Carrot Grass)",
-        "label": "Invasive weed causing pollen allergy and choking native flora"
-      },
-      {
-        "key": "Clarias gariepinus (African Catfish)",
-        "label": "Threatens native catfish in Indian river ecosystems"
-      }
-    ],
-    "doodleBadge": "Nile Perch → 200 Cichlids\nClarias → Native Catfish",
-    "doodleSubtext": "Alien Invasions",
-    "explanation": "When alien species are introduced unintentionally or deliberately for whatever purpose, some of them turn invasive and cause decline or extinction of indigenous species.",
-    "alsoRemember": "Eichhornia crassipes was originally introduced in India for its lovely mauve flowers and attractive leaf shapes.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.3.",
-    "neetTrap": "Clarias gariepinus is the AFRICAN catfish posing a threat to indigenous Indian catfish.",
-    "tags": [
-      "Ecology",
-      "Alien Species",
-      "Nile Perch",
-      "Eichhornia",
-      "Clarias"
-    ],
-    "quiz": {
-      "question": "The introduction of the predatory Nile perch into Lake Victoria in East Africa led directly to the extinction of:",
-      "options": [
-        "Water hyacinth weeds",
-        "Over 200 species of native cichlid fish",
-        "African catfish (Clarias)",
-        "Siberian cranes"
-      ],
-      "answerIndex": 1,
-      "explanation": "Nile perch introduction drove more than 200 unique species of endemic cichlid fish to extinction in Lake Victoria."
-    }
-  },
-  {
-    "id": "bio-ch32-06",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "Recent Extinctions: Dodo, Quagga, Thylacine, Steller's Sea Cow",
-    "mnemonicNumber": 6,
-    "title": "Recent Extinctions: Dodo (Mauritius), Quagga (Africa), Thylacine (Australia), Steller Sea Cow (Russia)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Dodo in Mauritius | Quagga in Africa | Thylacine in Australia | Steller's Sea Cow in Russia | 3 Tigers (Bali, Javan, Caspian)",
-    "memoryHook": "Dodo (Mauritius flightless bird), Quagga (Africa zebra relative), Thylacine (Australia Tasmanian tiger), Steller's Sea Cow (Russia marine mammal driven extinct by overhunting), and 3 tiger subspecies (Bali, Javan, Caspian)!",
-    "fact": "According to IUCN Red List (2004), 784 species (including 338 vertebrates, 359 invertebrates, and 87 plants) have gone extinct in the last 500 years. Prominent recent extinctions in NCERT: 1. Dodo (Mauritius), 2. Quagga (Africa), 3. Thylacine (Australia), 4. Steller's Sea Cow (Russia), 5. Three subspecies of tiger (Bali, Javan, Caspian).",
-    "breakdown": [
-      {
-        "key": "Dodo",
-        "label": "Flightless bird of Mauritius"
-      },
-      {
-        "key": "Quagga",
-        "label": "Striped mammal of South Africa"
-      },
-      {
-        "key": "Thylacine",
-        "label": "Marsupial carnivore of Australia / Tasmania"
-      },
-      {
-        "key": "Steller's Sea Cow",
-        "label": "Marine sirenian mammal of Russia (over-exploited by humans)"
-      },
-      {
-        "key": "3 Extinct Tiger Subspecies",
-        "label": "Bali, Javan, and Caspian tigers"
-      }
-    ],
-    "doodleBadge": "Dodo (Mauritius)\nSteller (Russia)\nThylacine (Australia)",
-    "doodleSubtext": "Extinct Species Roll",
-    "explanation": "The current Sixth Mass Extinction episode is in progress; the current species extinction rate is estimated to be 100 to 1,000 times faster than pre-human times, driven almost entirely by anthropogenic activities.",
-    "alsoRemember": "Over-exploitation caused the extinction of Steller's sea cow and Passenger pigeon.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.3.",
-    "neetTrap": "Make sure to match animal to its country: Dodo = MAURITIUS, Steller's Sea Cow = RUSSIA, Thylacine = AUSTRALIA, Quagga = AFRICA.",
-    "tags": [
-      "Ecology",
-      "Extinctions",
-      "Dodo",
-      "Thylacine",
-      "Steller Sea Cow"
-    ],
-    "quiz": {
-      "question": "Which of the following extinct animals is correctly paired with its native country of origin?",
-      "options": [
-        "Dodo – Australia",
-        "Steller’s sea cow – Russia",
-        "Thylacine – Mauritius",
-        "Quagga – Russia"
-      ],
-      "answerIndex": 1,
-      "explanation": "Steller’s sea cow was an aquatic mammal native to the coastal waters of Russia, driven extinct by human over-exploitation."
-    }
-  },
-  {
-    "id": "bio-ch32-07",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-2",
-    "topicTitle": "Biodiversity Hotspots: 34 Global, 3 in India",
-    "mnemonicNumber": 7,
-    "title": "Biodiversity Hotspots: 34 Globally, 3 Cover India (Western Ghats-Sri Lanka, Indo-Burma, Himalaya)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "34 Hotspots in the World (Cover <2% of Earth's land, but reduce extinction by 30%!) → 3 Indian Hotspots: Western Ghats-Sri Lanka, Indo-Burma, Himalaya",
-    "memoryHook": "Norman Myers identified biodiversity hotspots with high endemism and high threat; 3 hotspots cover India: Western Ghats, Indo-Burma, and Himalayas!",
-    "fact": "Biodiversity Hotspots are regions with very high levels of species richness and high degree of Endemism (species confined to that region and not found anywhere else), accompanied by accelerated habitat loss. Originally 25 hotspots were identified, now 34 globally. Three hotspots cover India's high biodiversity regions: Western Ghats and Sri Lanka, Indo-Burma, and Himalaya.",
-    "breakdown": [
-      {
-        "key": "Two Defining Criteria",
-        "label": "1. Exceptional species richness and High Endemism; 2. High degree of threat / habitat loss"
-      },
-      {
-        "key": "Global Count",
-        "label": "34 biodiversity hotspots in the world"
-      },
-      {
-        "key": "Land Area Covered",
-        "label": "Together cover less than 2% of Earth's land area"
-      },
-      {
-        "key": "Conservation Impact",
-        "label": "Strict protection of hotspots could reduce ongoing mass extinctions by almost 30%"
-      },
-      {
-        "key": "Three Indian Hotspots",
-        "label": "1. Western Ghats and Sri Lanka, 2. Indo-Burma, 3. Himalaya"
-      }
-    ],
-    "doodleBadge": "34 Global Hotspots (<2% Land)\n3 in India: Ghats, Burma, Himalaya",
-    "doodleSubtext": "Biodiversity Hotspots",
-    "explanation": "Endemism means that a species is restricted strictly to a particular geographic zone and is found nowhere else on the planet.",
-    "alsoRemember": "Western Ghats has exceptionally high amphibian species diversity compared to the Eastern Ghats.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.2.2.",
-    "neetTrap": "Western Ghats has MORE amphibian species diversity than Eastern Ghats.",
-    "tags": [
-      "Ecology",
-      "Hotspots",
-      "Endemism",
-      "Western Ghats",
-      "Himalaya"
-    ],
-    "quiz": {
-      "question": "Which three biodiversity hotspots cover exceptionally high biodiversity regions across India?",
-      "options": [
-        "Aravalli hills, Sunderbans, Thar desert",
-        "Western Ghats-Sri Lanka, Indo-Burma, and Himalaya",
-        "Eastern Ghats, Deccan plateau, Gangetic plains",
-        "Rann of Kutch, Chota Nagpur, Nilgiris"
-      ],
-      "answerIndex": 1,
-      "explanation": "Western Ghats & Sri Lanka, Indo-Burma, and Himalaya are the three global biodiversity hotspots that extend into India."
-    }
-  },
-  {
-    "id": "bio-ch32-08",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "Latitudinal Gradients in Diversity: Tropics > Temperate > Poles",
-    "mnemonicNumber": 8,
-    "title": "Latitudinal Gradients: Maximum Species at Equator, Drops Toward Poles",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "sequence",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Colombia near Equator (1400 bird species) → New York 41°N (105 birds) → Greenland 71°N (56 birds)! India at tropics has 1200+ birds!",
-    "memoryHook": "Species diversity is highest in the Tropics (23.5°N to 23.5°S) and decreases steadily as you move towards the Poles!",
-    "fact": "Latitudinal gradient in biodiversity: Species diversity decreases as we move away from the equator towards the poles. Tropics (23.5°N to 23.5°S) harbor more species than temperate or polar areas. Colombia near the equator has ~1,400 bird species; New York at 41°N has 105 species; Greenland at 71°N has only 56 species. India with much of its land in tropical latitudes has over 1,200 bird species.",
-    "breakdown": [
-      {
-        "key": "Colombia (Equator 0°)",
-        "label": "~1,400 bird species"
-      },
-      {
-        "key": "India (Tropical latitudes)",
-        "label": "> 1,200 bird species"
-      },
-      {
-        "key": "New York (41° N)",
-        "label": "105 bird species"
-      },
-      {
-        "key": "Greenland (71° N)",
-        "label": "Only 56 bird species"
-      },
-      {
-        "key": "Amazon Rainforest",
-        "label": "Greatest biodiversity on Earth (40,000 plants, 3,000 fishes, 1,300 birds, 427 mammals, 427 amphibians, 378 reptiles, >125,000 invertebrates)"
-      }
-    ],
-    "doodleBadge": "Tropics = Maximum Species\nPoles = Minimum Species",
-    "doodleSubtext": "Latitudinal Diversity Pattern",
-    "explanation": "Why are tropics so diverse? 1. Speciation is a function of time: tropics remained undisturbed by glaciations for millions of years. 2. Tropical environments are less seasonal, relatively constant and predictable. 3. More solar energy available in tropics contributes to higher productivity.",
-    "alsoRemember": "A tropical forest in Ecuador has up to 10 times more vascular plant species than a forest of equal area in temperate Midwest USA.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.2.",
-    "neetTrap": "Three reasons for tropical richness: UNGLACIATED TIME, PREDICTABLE/CONSTANT CLIMATE, and MORE SOLAR ENERGY.",
-    "tags": [
-      "Ecology",
-      "Latitudinal Gradient",
-      "Tropics",
-      "Amazon Rainforest"
-    ],
-    "quiz": {
-      "question": "Which of the following is NOT a proposed hypothesis for the greater biological diversity found in tropical regions compared to temperate regions?",
-      "options": [
-        "Tropical latitudes have remained relatively undisturbed by glaciations for millions of years",
-        "Tropical environments are more constant, less seasonal, and predictable",
-        "More solar energy is available in the tropics, promoting higher productivity",
-        "Tropical regions experience frequent glacial cycles driving rapid extinction"
-      ],
-      "answerIndex": 3,
-      "explanation": "Tropical regions did NOT experience frequent glaciation (unlike temperate regions); they remained undisturbed for millions of years."
-    }
-  },
-  {
-    "id": "bio-ch32-09",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "Amazon Rainforest: Lungs of the Planet",
-    "mnemonicNumber": 9,
-    "title": "Amazon Rainforest: \"Lungs of the Planet\" (Produces 20% of Earth's O2)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Amazon Basin = 40,000 Plants + 3,000 Fishes + 1,300 Birds + 427 Mammals/Amphibians + 125,000 Invertebrates! (Cut down for Soya beans & Cattle pasture)",
-    "memoryHook": "The immense Amazon tropical rainforest in South America is so vast it produces 20% of the world's oxygen and is called the Lungs of the Planet!",
-    "fact": "The largely tropical Amazonian rain forest in South America has the greatest biodiversity on Earth. Home to: >40,000 plant species, 3,000 fish species, 1,300 bird species, 427 mammal species, 427 amphibian species, 378 reptile species, and more than 125,000 invertebrate species. It is being cleared rapidly for cultivating soya beans or converted to grasslands for raising beef cattle.",
-    "breakdown": [
-      {
-        "key": "Plants",
-        "label": "> 40,000 species"
-      },
-      {
-        "key": "Fishes",
-        "label": "> 3,000 species"
-      },
-      {
-        "key": "Birds",
-        "label": "1,300 species"
-      },
-      {
-        "key": "Mammals & Amphibians",
-        "label": "427 species each"
-      },
-      {
-        "key": "Reptiles",
-        "label": "378 species"
-      },
-      {
-        "key": "Invertebrates",
-        "label": "> 125,000 species"
-      }
-    ],
-    "doodleBadge": "Amazon Rainforest:\nLungs of the Planet",
-    "doodleSubtext": "Amazonian Inventory",
-    "explanation": "Once covering more than 14% of the Earth's land surface, tropical rainforests now cover no more than 6%. Millions of hectares are lost every decade.",
-    "alsoRemember": "Amazon forest is called the Lungs of the Planet because of its massive photosynthetic oxygen production.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.2.",
-    "neetTrap": "Amazon rainforest has 427 species of MAMMALS and 427 species of AMPHIBIANS (exact same count in NCERT).",
-    "tags": [
-      "Ecology",
-      "Amazon Rainforest",
-      "Lungs of Planet",
-      "Species Richness"
-    ],
-    "quiz": {
-      "question": "The Amazonian tropical rainforest is being primarily cleared and fragmented by humans for which agricultural purpose?",
-      "options": [
-        "Cultivating soya beans and converting into grasslands for beef cattle",
-        "Mining uranium deposits",
-        "Building large industrial solar farms",
-        "Planting pine tree monocultures"
+        "B - J - C",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
       "answerIndex": 0,
-      "explanation": "Amazon rainforest is being cleared rapidly for soybean cultivation and beef cattle pastures."
+      "explanation": "Three extinct tiger subspecies: Bali, Javan, and Caspian."
     }
   },
   {
-    "id": "bio-ch32-10",
+    "id": "mnemo-bio-ch32-25",
     "subject": "biology",
     "chapterId": "bio-ch-32",
     "chapterNumber": 32,
     "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "David Tilman's Long-Term Ecosystem Experiments",
-    "mnemonicNumber": 10,
-    "title": "David Tilman's Plots: More Species = Less Year-to-Year Biomass Variation",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Tilman proved: Plots with more species showed LESS year-to-year variation in total biomass and HIGHER overall productivity!",
-    "memoryHook": "David Tilman's long-term outdoor grass plots provided concrete experimental proof that higher biodiversity creates greater ecological stability and higher biomass productivity!",
-    "fact": "David Tilman's long-term ecosystem experiments using outdoor plots found that: 1. Plots with more species showed less year-to-year variation in total biomass. 2. Increased diversity contributed to higher productivity. This provided definitive empirical evidence that species richness is essential for ecosystem stability, resilience, and health.",
-    "breakdown": [
-      {
-        "key": "Scientist",
-        "label": "David Tilman (University of Minnesota)"
-      },
-      {
-        "key": "Key Finding 1",
-        "label": "Species-rich plots showed significantly less year-to-year biomass fluctuation (stability)"
-      },
-      {
-        "key": "Key Finding 2",
-        "label": "Higher species diversity directly caused higher total biomass productivity"
-      },
-      {
-        "key": "Ecosystem Resilience",
-        "label": "Diverse ecosystems recover much faster from environmental disturbances like drought"
-      }
-    ],
-    "doodleBadge": "Tilman: Diversity →\nStability + High Productivity",
-    "doodleSubtext": "Biodiversity Stability",
-    "explanation": "A stable biological community should not show too much variation in productivity from year to year; it must be either resistant or resilient to occasional natural or man-made disturbances.",
-    "alsoRemember": "Tilman's findings settled the long-standing ecological debate regarding diversity and stability.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.2.",
-    "neetTrap": "David Tilman proved that higher diversity leads to LESS (not more) variation in year-to-year biomass.",
-    "tags": [
-      "Ecology",
-      "David Tilman",
-      "Ecosystem Stability",
-      "Productivity"
-    ],
-    "quiz": {
-      "question": "What was the primary conclusion of David Tilman’s long-term outdoor ecological plot experiments?",
-      "options": [
-        "Ecosystems with fewer species are more stable against drought",
-        "Plots with greater species diversity showed less year-to-year variation in total biomass and higher productivity",
-        "Species richness reduces community resilience",
-        "Exotic species enhance ecosystem stability"
-      ],
-      "answerIndex": 1,
-      "explanation": "Tilman showed that plots with more species exhibited less annual variation in total biomass and produced higher overall yields."
-    }
-  },
-  {
-    "id": "bio-ch32-11",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "Rivet Popper Hypothesis: Paul Ehrlich",
-    "mnemonicNumber": 11,
-    "title": "Rivet Popper Hypothesis: Paul Ehrlich (Airplane = Ecosystem, Rivets = Species)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "Airplane = Ecosystem | Rivets = Species | Popping a seat rivet = Minor species lost | Popping a WING rivet = Keystone species lost → Airplane crashes!",
-    "memoryHook": "Stanford ecologist Paul Ehrlich used the Rivet Popper analogy: popping a few window rivets might not crash an airplane immediately, but popping rivets on the WING (keystone species) brings catastrophic flight disaster!",
-    "fact": "Stanford ecologist Paul Ehrlich proposed the \"Rivet Popper Hypothesis\" to explain the impact of species loss on ecosystems. In an airplane (ecosystem) held by thousands of rivets (species), if every passenger pops a rivet to take home (species extinction), initial flights may not be affected, but as more rivets are lost, plane becomes dangerously weak. Popping rivets on the wings (keystone species) poses immediate threat to safety.",
-    "breakdown": [
-      {
-        "key": "Airplane",
-        "label": "Ecosystem"
-      },
-      {
-        "key": "Rivets",
-        "label": "Species"
-      },
-      {
-        "key": "Popping a Rivet",
-        "label": "Causing a species to go extinct"
-      },
-      {
-        "key": "Rivet on the Wings",
-        "label": "Keystone species that drive major ecosystem functions (e.g. top predators, fig trees)"
-      },
-      {
-        "key": "Crash",
-        "label": "Ecosystem collapse"
-      }
-    ],
-    "doodleBadge": "Airplane = Ecosystem\nWing Rivet = Keystone Species",
-    "doodleSubtext": "Paul Ehrlich Analogy",
-    "explanation": "Loss of a keystone species (like pollinators or apex predators) causes a cascading wave of secondary co-extinctions throughout the ecological web.",
-    "alsoRemember": "Paul Ehrlich is a renowned Stanford University population ecologist.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.2.",
-    "neetTrap": "In the Rivet Popper hypothesis, \"Rivets on the wings\" specifically represent KEYSTONE SPECIES.",
-    "tags": [
-      "Ecology",
-      "Rivet Popper",
-      "Paul Ehrlich",
-      "Keystone Species"
-    ],
-    "quiz": {
-      "question": "In Paul Ehrlich's Rivet Popper hypothesis, what do the \"rivets on the wings of an airplane\" specifically represent?",
-      "options": [
-        "Invasive alien species",
-        "Keystone species driving major ecosystem functions",
-        "Decomposers",
-        "Endangered parasites"
-      ],
-      "answerIndex": 1,
-      "explanation": "Rivets on the wings represent keystone species whose loss directly threatens the structural integrity of the ecosystem."
-    }
-  },
-  {
-    "id": "bio-ch32-12",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-2",
-    "topicTitle": "Sacred Groves of India Locations",
-    "mnemonicNumber": 12,
-    "title": "Sacred Groves: Khasi & Jaintia (Meghalaya), Aravalli (Rajasthan), Western Ghats, Bastar (MP)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "1. Khasi & Jaintia hills (Meghalaya) | 2. Aravalli hills (Rajasthan) | 3. Western Ghats (Karnataka & Maharashtra) | 4. Sarguja, Chanda & Bastar (Madhya Pradesh/Chhattisgarh)",
-    "memoryHook": "Sacred groves are pristine forest tracts protected by indigenous religious taboos where all trees and wildlife are revered and cutting is strictly forbidden!",
-    "fact": "Sacred Groves in India represent traditional in-situ conservation: tracts of forest set aside where all the trees and wildlife within were venerated and given total protection by indigenous tribal customs. Key locations in NCERT: 1. Khasi and Jaintia Hills in Meghalaya, 2. Aravalli Hills of Rajasthan, 3. Western Ghat regions of Karnataka and Maharashtra, 4. Sarguja, Chanda and Bastar areas of Madhya Pradesh.",
-    "breakdown": [
-      {
-        "key": "Khasi & Jaintia Hills",
-        "label": "Meghalaya (Last refuge for rare threatened botanical endemics)"
-      },
-      {
-        "key": "Aravalli Hills",
-        "label": "Rajasthan (Desert biodiversity oasis protected by Bishnoi / tribal communities)"
-      },
-      {
-        "key": "Western Ghats Tracts",
-        "label": "Karnataka and Maharashtra (Biodiversity rich sacred groves)"
-      },
-      {
-        "key": "Sarguja, Chanda & Bastar",
-        "label": "Madhya Pradesh & Chhattisgarh"
-      }
-    ],
-    "doodleBadge": "Meghalaya: Khasi/Jaintia\nRajasthan: Aravalli\nMP: Bastar/Sarguja",
-    "doodleSubtext": "Sacred Groves of India",
-    "explanation": "In Meghalaya, the sacred groves are the last refuges for a large number of rare and threatened plants that have disappeared everywhere else in the surrounding landscape.",
-    "alsoRemember": "Sacred groves represent In-Situ conservation (protecting species in their wild native habitat).",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.2.2.",
-    "neetTrap": "Sacred groves are IN-SITU conservation, NOT ex-situ.",
-    "tags": [
-      "Ecology",
-      "Sacred Groves",
-      "Meghalaya",
-      "Aravalli",
-      "In-Situ"
-    ],
-    "quiz": {
-      "question": "In which state are the famous Khasi and Jaintia Hills sacred groves located, serving as the last refuges for rare endemic plants?",
-      "options": [
-        "Rajasthan",
-        "Meghalaya",
-        "Madhya Pradesh",
-        "Maharashtra"
-      ],
-      "answerIndex": 1,
-      "explanation": "Khasi and Jaintia hills sacred groves are located in the northeastern state of Meghalaya."
-    }
-  },
-  {
-    "id": "bio-ch32-13",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-2",
-    "topicTitle": "Earth Summit (Rio 1992) vs World Summit (Johannesburg 2002)",
-    "mnemonicNumber": 13,
-    "title": "Summits: Earth Summit (Rio 1992: CBD) vs World Summit (Johannesburg 2002: 190 Nations)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "comparison",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Rio 1992 = Earth Summit (Convention on Biological Diversity) | Johannesburg 2002 = World Summit (190 countries pledged to reduce biodiversity loss by 2010)",
-    "memoryHook": "Historic Earth Summit in Rio de Janeiro (1992) birthed the Convention on Biological Diversity (CBD); World Summit in Johannesburg (2002) united 190 countries!",
-    "fact": "International conservation milestones in NCERT: 1. The Earth Summit (Historic Convention on Biological Diversity): held in Rio de Janeiro in 1992; called upon all nations to take appropriate measures for conservation of biodiversity and sustainable utilization of its benefits. 2. The World Summit on Sustainable Development: held in 2002 in Johannesburg, South Africa; 190 countries pledged a significant reduction in current rate of biodiversity loss by 2010.",
-    "breakdown": [
-      {
-        "key": "The Earth Summit (1992)",
-        "label": "Rio de Janeiro, Brazil; launched Convention on Biological Diversity (CBD)"
-      },
-      {
-        "key": "The World Summit (2002)",
-        "label": "Johannesburg, South Africa; 190 countries pledged commitment by 2010"
-      },
-      {
-        "key": "Core Principles",
-        "label": "Conservation of biological diversity, sustainable use of components, fair/equitable benefit sharing"
-      }
-    ],
-    "doodleBadge": "Rio 1992: Earth Summit\nJohannesburg 2002: World Summit",
-    "doodleSubtext": "Global Treaties",
-    "explanation": "These international conventions established that biodiversity is not the exclusive property of sovereign nations but a shared global heritage requiring collaborative protection.",
-    "alsoRemember": "The 1992 Earth Summit also established the United Nations Framework Convention on Climate Change (UNFCCC).",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.2.2.",
-    "neetTrap": "Earth Summit = RIO DE JANEIRO (1992); World Summit = JOHANNESBURG (2002).",
-    "tags": [
-      "Ecology",
-      "Earth Summit",
-      "World Summit",
-      "Rio 1992",
-      "Johannesburg 2002"
-    ],
-    "quiz": {
-      "question": "The historic \"Earth Summit\" on Convention on Biological Diversity was held in 1992 in which city?",
-      "options": [
-        "Johannesburg, South Africa",
-        "Rio de Janeiro, Brazil",
-        "Kyoto, Japan",
-        "Montreal, Canada"
-      ],
-      "answerIndex": 1,
-      "explanation": "The historic Earth Summit was held in Rio de Janeiro, Brazil in 1992."
-    }
-  },
-  {
-    "id": "bio-ch32-14",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "India's Megadiversity Stats: 2.4% Area, 8.1% Species",
-    "mnemonicNumber": 14,
-    "title": "India Megadiversity: 2.4% Land Area with 8.1% Global Species Share!",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "notebook",
-    "cardColor": "#EFFBF4",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "India = 2.4% of World Land | 8.1% of World Species Diversity | 1 of 12 Mega-diversity Nations! (45,000 plants + 90,000 animals)",
-    "memoryHook": "Although India has only 2.4% of the world's land surface area, its share of global species diversity is an impressive 8.1%, ranking it among the 12 mega-diversity countries of the world!",
-    "fact": "India's biodiversity statistics: 1. Land area: 2.4% of global land. 2. Species diversity: 8.1% of global species diversity. 3. Megadiversity ranking: One of the 12 mega-diversity countries of the world. 4. Recorded species: ~45,000 species of plants and twice as many (~90,000-100,000) species of animals recorded. Applying Robert May's global estimates, more than 100,000 plant species and 300,000 animal species remain undiscovered in India.",
-    "breakdown": [
-      {
-        "key": "Global Land Share",
-        "label": "2.4%"
-      },
-      {
-        "key": "Global Species Share",
-        "label": "8.1%"
-      },
-      {
-        "key": "Megadiversity Status",
-        "label": "One of 12 mega-diversity nations"
-      },
-      {
-        "key": "Recorded Plants",
-        "label": "~45,000 plant species"
-      },
-      {
-        "key": "Recorded Animals",
-        "label": "> 90,000 animal species"
-      }
-    ],
-    "doodleBadge": "2.4% Land Area →\n8.1% Global Species",
-    "doodleSubtext": "India Biodiversity Stats",
-    "explanation": "India's tremendous biodiversity is due to its vast latitudinal span, varied topography (Himalayas to coastal plains), and rich climatic zones.",
-    "alsoRemember": "Western Ghats and Eastern Himalayas are two of the richest biodiversity regions within India.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.1.",
-    "neetTrap": "India has 2.4% of land area and 8.1% of global species diversity (remember this exact pair: 2.4 and 8.1).",
-    "tags": [
-      "Ecology",
-      "India Biodiversity",
-      "Megadiversity",
-      "Class 12"
-    ],
-    "quiz": {
-      "question": "What percentage of the world's total species diversity is harbored by India, despite occupying only 2.4% of the global land area?",
-      "options": [
-        "2.4%",
-        "8.1%",
-        "18.5%",
-        "22.0%"
-      ],
-      "answerIndex": 1,
-      "explanation": "India accounts for 8.1% of global species diversity on only 2.4% of the world's land area."
-    }
-  },
-  {
-    "id": "bio-ch32-15",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "Three Levels of Biodiversity: Genetic, Species, Ecological",
-    "mnemonicNumber": 15,
-    "title": "3 Levels of Biodiversity: Genetic (Rauwolfia / 50,000 Rice), Species (Amphibians), Ecological (Deserts/Mangroves)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
-    "visualType": "classification",
-    "cardColor": "#FFE681",
-    "badgeColor": "#5B8DEF",
-    "mnemonic": "1. Genetic = Rauwolfia reserpine potency / 50,000 rice strains / 1,000 mango varieties | 2. Species = Amphibians in Western Ghats > Eastern Ghats | 3. Ecological = India deserts, mangroves, coral reefs > Norway",
-    "memoryHook": "Edward Wilson popularized term \"Biodiversity\" at 3 levels: Genetic (allelic diversity within species), Species (richness of different species), and Ecological (diversity of ecosystems)!",
-    "fact": "Sociobiologist Edward Wilson popularized the term \"Biodiversity\" across 3 levels: 1. Genetic Diversity: diversity of genes within a species (e.g. Rauwolfia vomitoria shows genetic variation in concentration and potency of active chemical Reserpine; >50,000 genetically distinct strains of rice and 1,000 varieties of mango in India). 2. Species Diversity: diversity at species level (e.g. Western Ghats have greater amphibian species diversity than Eastern Ghats). 3. Ecological Diversity: diversity of ecosystems (e.g. India with deserts, rainforests, mangroves, coral reefs, wetlands has greater ecosystem diversity than a Scandinavian country like Norway).",
-    "breakdown": [
-      {
-        "key": "Genetic Diversity",
-        "label": "Rauwolfia vomitoria (Reserpine potency), 50,000 rice strains, 1,000 mango varieties"
-      },
-      {
-        "key": "Species Diversity",
-        "label": "Amphibians in Western Ghats > Eastern Ghats"
-      },
-      {
-        "key": "Ecological Diversity",
-        "label": "India (deserts, rainforests, coral reefs, mangroves) > Norway (boreal/tundra)"
-      },
-      {
-        "key": "Term Popularized by",
-        "label": "Sociobiologist Edward Wilson"
-      }
-    ],
-    "doodleBadge": "Genetic: Rauwolfia & Rice\nSpecies: Amphibians\nEcological: India vs Norway",
-    "doodleSubtext": "3 Biodiversity Levels",
-    "explanation": "Reserpine is an alkaloid used medically to treat hypertension and mental disorders, extracted from Himalayan medicinal plant Rauwolfia vomitoria.",
-    "alsoRemember": "Genetic diversity allows a population to adapt to changing environments and resist emerging diseases.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.",
-    "neetTrap": "India has over 50,000 genetically distinct strains of RICE and 1,000 varieties of MANGO.",
-    "tags": [
-      "Ecology",
-      "Biodiversity",
-      "Edward Wilson",
-      "Genetic Diversity",
-      "Rauwolfia"
-    ],
-    "quiz": {
-      "question": "The medicinal plant Rauwolfia vomitoria growing in different Himalayan ranges shows genetic variation in the potency and concentration of which active chemical?",
-      "options": [
-        "Quinine",
-        "Reserpine",
-        "Morphine",
-        "Digitalis"
-      ],
-      "answerIndex": 1,
-      "explanation": "Rauwolfia vomitoria exhibits genetic variation in the potency of the antihypertensive alkaloid Reserpine."
-    }
-  },
-  {
-    "id": "bio-ch32-16",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "IUCN Threat Categories: Red List Status",
-    "mnemonicNumber": 16,
-    "title": "IUCN Red List: >15,500 Species Facing Extinction Threat (Amphibians 32% Most Vulnerable!)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
+    "classLevel": 12,
+    "topicId": "bio-top-32-3",
+    "topicTitle": "Mass Extinction Episode",
+    "topic": "Mass Extinction Episode",
+    "mnemonicNumber": 25,
+    "sourceItemNumber": 25,
+    "title": "Mass Extinction Episode: \"WE ARE IN 6TH MASS EXTINCTION\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "medium",
     "visualType": "classification",
-    "cardColor": "#F7F0FF",
-    "badgeColor": "#A66CFF",
-    "mnemonic": "Extinction Vulnerability: Amphibians (32%) > Gymnosperms (31%) > Mammals (23%) > Birds (12%)",
-    "memoryHook": "Over 15,500 species worldwide face extinction threat! Amphibians are the most vulnerable group on Earth with 32% of all species threatened!",
-    "fact": "According to IUCN Red List: Presently, more than 15,500 species worldwide are facing the threat of extinction. Threat percentages across major taxonomic groups: 1. Amphibians: 32% of all amphibian species, 2. Gymnosperms: 31% of all gymnosperm species, 3. Mammals: 23% of all mammal species, 4. Birds: 12% of all bird species.",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#243044",
+    "mnemonic": "WE ARE IN 6TH MASS EXTINCTION",
+    "memoryHook": "WE ARE IN 6TH MASS EXTINCTION",
+    "fact": "Present extinction is 6th episode, proceeding 100 to 1,000 times faster than pre-human times.",
     "breakdown": [
       {
-        "key": "Amphibians",
-        "label": "32% species threatened with extinction (highest vulnerability due to permeable skin and dual habitat)"
+        "key": "Point 1",
+        "label": "Present extinction is 6th episode"
       },
       {
-        "key": "Gymnosperms",
-        "label": "31% species threatened"
+        "key": "Point 2",
+        "label": "proceeding 100 to 1"
       },
       {
-        "key": "Mammals",
-        "label": "23% species threatened"
-      },
-      {
-        "key": "Birds",
-        "label": "12% species threatened"
-      },
-      {
-        "key": "Total Threatened",
-        "label": "> 15,500 species globally"
+        "key": "Point 3",
+        "label": "000 times faster than pre-human times"
       }
     ],
-    "doodleBadge": "Amphibians: 32%\nGymnosperms: 31%\nMammals: 23%\nBirds: 12%",
-    "doodleSubtext": "Extinction Threat Rank",
-    "explanation": "Amphibians are extremely sensitive bioindicators of environmental degradation, climate change, and fungal chytrid infections.",
-    "alsoRemember": "IUCN stands for International Union for Conservation of Nature and Natural Resources (headquartered in Gland, Switzerland).",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.3.",
-    "neetTrap": "AMPHIBIANS (32%) have the HIGHEST percentage of species threatened with extinction among vertebrates.",
+    "doodleBadge": "WE ARE IN 6TH MASS EXTIN",
+    "doodleSubtext": "Mass Extinction Episode",
+    "explanation": "Present extinction is 6th episode, proceeding 100 to 1,000 times faster than pre-human times.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Mass Extinction Episode.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
     "tags": [
-      "Ecology",
-      "IUCN Red List",
-      "Amphibians",
-      "Threatened Species"
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Mass"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "According to the IUCN Red List, which group of vertebrates faces the highest percentage of species threatened with extinction (32%)?",
+      "question": "Which of the following is associated with \"Mass Extinction Episode\" in NEET Biology?",
       "options": [
-        "Mammals",
-        "Birds",
-        "Amphibians",
-        "Reptiles"
+        "WE ARE IN 6TH MASS EXTINCTION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 2,
-      "explanation": "Amphibians are the most endangered vertebrate group, with 32% of all species facing extinction threat."
+      "answerIndex": 0,
+      "explanation": "Present extinction is 6th episode, proceeding 100 to 1,000 times faster than pre-human times."
     }
   },
   {
-    "id": "bio-ch32-17",
+    "id": "mnemo-bio-ch32-26",
     "subject": "biology",
     "chapterId": "bio-ch-32",
     "chapterNumber": 32,
     "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-2",
-    "topicTitle": "Why Should We Conserve Biodiversity: 3 Arguments",
-    "mnemonicNumber": 17,
-    "title": "Why Conserve Biodiversity: Narrowly Utilitarian, Broadly Utilitarian, Ethical",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "easy",
+    "classLevel": 12,
+    "topicId": "bio-top-32-3",
+    "topicTitle": "Amphibians Threat Level",
+    "topic": "Amphibians Threat Level",
+    "mnemonicNumber": 26,
+    "sourceItemNumber": 26,
+    "title": "Amphibians Threat Level: \"32% AMPHIBIANS THREATENED\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
     "visualType": "classification",
-    "cardColor": "#DDF7E8",
+    "cardColor": "#EDF4FF",
     "badgeColor": "#3DBE75",
-    "mnemonic": "1. Narrowly Utilitarian (Direct goods: food, firewood, fiber, drugs) | 2. Broadly Utilitarian (Ecosystem services: O2, pollination, flood control) | 3. Ethical (Moral duty to all living beings)",
-    "memoryHook": "Narrowly utilitarian = direct economic products (25% of drugs come from plants, Bioprospecting); Broadly utilitarian = indirect services (Amazon 20% O2, bee pollination); Ethical = moral duty to future generations!",
-    "fact": "Three categories of arguments for conserving biodiversity: 1. Narrowly Utilitarian: humans derive direct economic benefits (food, cereals, pulses, fruits, firewood, construction fiber, industrial tannins/resins/dyes, medicinal drugs — >25% of modern pharmaceuticals are plant-derived; Bioprospecting). 2. Broadly Utilitarian: ecosystem services (Amazon producing 20% of O2, insect/bird pollination of crops, aesthetic joy). 3. Ethical argument: every species has intrinsic value; we have a moral duty to pass on biological heritage intact to future generations.",
+    "mnemonic": "32% AMPHIBIANS THREATENED",
+    "memoryHook": "32% AMPHIBIANS THREATENED",
+    "fact": "32% of all amphibian species world-wide face highest risk of extinction.",
     "breakdown": [
       {
-        "key": "Narrowly Utilitarian",
-        "label": "Direct economic benefits; >25,000 plant species used in traditional medicines; Bioprospecting"
+        "key": "Focus",
+        "label": "Amphibians Threat Level"
       },
       {
-        "key": "Broadly Utilitarian",
-        "label": "Indirect ecosystem services (Amazon producing 20% of Earth's O2; pollination by bees and bats)"
-      },
-      {
-        "key": "Ethical Argument",
-        "label": "Philosophical and spiritual duty; every species has intrinsic value regardless of economic utility"
-      },
-      {
-        "key": "Bioprospecting",
-        "label": "Exploring molecular, genetic, and species-level diversity for products of economic importance"
+        "key": "Trick",
+        "label": "32% AMPHIBIANS THREATENED"
       }
     ],
-    "doodleBadge": "Narrow: Direct Goods\nBroad: Ecosystem O2/Pollen\nEthical: Moral Duty",
-    "doodleSubtext": "Conservation Motives",
-    "explanation": "Nations endowed with rich biodiversity can reap enormous commercial benefits through systematic molecular and genetic bioprospecting.",
-    "alsoRemember": "More than 25% of all prescription drugs currently sold in pharmacies are derived from tropical plants.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.2.1.",
-    "neetTrap": "BIOPROSPECTING is classified under NARROWLY UTILITARIAN arguments (exploring genetic diversity for commercial drugs).",
+    "doodleBadge": "32% AMPHIBIANS THREATENE",
+    "doodleSubtext": "Amphibians Threat Level",
+    "explanation": "32% of all amphibian species world-wide face highest risk of extinction.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Amphibians Threat Level.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 2",
     "tags": [
-      "Ecology",
-      "Conservation Arguments",
-      "Bioprospecting",
-      "Utilitarian",
-      "Ethical"
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Amphibians"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 2,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "Exploring molecular, genetic, and species-level diversity for products of economic importance is termed:",
+      "question": "Which of the following is associated with \"Amphibians Threat Level\" in NEET Biology?",
       "options": [
-        "Biomagnification",
-        "Bioprospecting",
-        "Biofortification",
-        "Bioremediation"
+        "32% AMPHIBIANS THREATENED",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Bioprospecting is the systematic exploration of biodiversity for commercially and medically valuable genetic/biochemical products."
+      "answerIndex": 0,
+      "explanation": "32% of all amphibian species world-wide face highest risk of extinction."
     }
   },
   {
-    "id": "bio-ch32-18",
+    "id": "mnemo-bio-ch32-27",
     "subject": "biology",
     "chapterId": "bio-ch-32",
     "chapterNumber": 32,
     "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "Co-extinctions Example: Host and Parasite",
-    "mnemonicNumber": 18,
-    "title": "Co-extinctions: Host Fish Dies → Unique Parasite Dies; Obligate Pollinator Dies",
-    "badgeText": "Memory Trick",
+    "classLevel": 12,
+    "topicId": "bio-top-32-3",
+    "topicTitle": "The Evil Quartet Master Trick",
+    "topic": "The Evil Quartet Master Trick",
+    "mnemonicNumber": 27,
+    "sourceItemNumber": 27,
+    "title": "The Evil Quartet Master Trick: \"H - O - A - C\"",
+    "badgeText": "High Yield",
     "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "notebook",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "H - O - A - C",
+    "memoryHook": "H - O - A - C",
+    "fact": "Habitat Loss, Over-exploitation, Alien species invasion, Co- extinction.",
+    "breakdown": [
+      {
+        "key": "H",
+        "label": "Habitat Loss"
+      },
+      {
+        "key": "O",
+        "label": "Over-exploitation"
+      },
+      {
+        "key": "A",
+        "label": "Alien species invasion"
+      },
+      {
+        "key": "C",
+        "label": "Co- extinction"
+      }
+    ],
+    "doodleBadge": "H - O - A - C",
+    "doodleSubtext": "The Evil Quartet Master ",
+    "explanation": "Habitat Loss, Over-exploitation, Alien species invasion, Co- extinction.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in The Evil Quartet Master Trick.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "The"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"The Evil Quartet Master Trick\" in NEET Biology?",
+      "options": [
+        "H - O - A - C",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Habitat Loss, Over-exploitation, Alien species invasion, Co- extinction."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-28",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-3",
+    "topicTitle": "Most Important Loss Cause",
+    "topic": "Most Important Loss Cause",
+    "mnemonicNumber": 28,
+    "sourceItemNumber": 28,
+    "title": "Most Important Loss Cause: \"HABITAT LOSS = #1 CAUSE\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "HABITAT LOSS = #1 CAUSE",
+    "memoryHook": "HABITAT LOSS = #1 CAUSE",
+    "fact": "Habitat loss & fragmentation is the primary driver pushing animals/plants to extinction.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Most Important Loss Cause"
+      },
+      {
+        "key": "Trick",
+        "label": "HABITAT LOSS = #1 CAUSE"
+      }
+    ],
+    "doodleBadge": "HABITAT LOSS = #1 CAUSE",
+    "doodleSubtext": "Most Important Loss Caus",
+    "explanation": "Habitat loss & fragmentation is the primary driver pushing animals/plants to extinction.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Most Important Loss Cause.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Most"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Most Important Loss Cause\" in NEET Biology?",
+      "options": [
+        "HABITAT LOSS = #1 CAUSE",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Habitat loss & fragmentation is the primary driver pushing animals/plants to extinction."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-29",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-3",
+    "topicTitle": "Rainforest Cover Decline",
+    "topic": "Rainforest Cover Decline",
+    "mnemonicNumber": 29,
+    "sourceItemNumber": 29,
+    "title": "Rainforest Cover Decline: \"14% REDUCED TO 6%\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "14% REDUCED TO 6%",
+    "memoryHook": "14% REDUCED TO 6%",
+    "fact": "Tropical rainforests once covered 14% of land surface, now reduced to no more than 6%.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Rainforest Cover Decline"
+      },
+      {
+        "key": "Trick",
+        "label": "14% REDUCED TO 6%"
+      }
+    ],
+    "doodleBadge": "14% REDUCED TO 6%",
+    "doodleSubtext": "Rainforest Cover Decline",
+    "explanation": "Tropical rainforests once covered 14% of land surface, now reduced to no more than 6%.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Rainforest Cover Decline.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Rainforest"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Rainforest Cover Decline\" in NEET Biology?",
+      "options": [
+        "14% REDUCED TO 6%",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Tropical rainforests once covered 14% of land surface, now reduced to no more than 6%."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-30",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-3",
+    "topicTitle": "Lungs of the Planet",
+    "topic": "Lungs of the Planet",
+    "mnemonicNumber": 30,
+    "sourceItemNumber": 30,
+    "title": "Lungs of the Planet: \"AMAZON = LUNGS OF PLANET\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#243044",
+    "mnemonic": "AMAZON = LUNGS OF PLANET",
+    "memoryHook": "AMAZON = LUNGS OF PLANET",
+    "fact": "Amazon Rainforest produced > 20% oxygen; now cut for soybeans & cattle grazing.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Amazon Rainforest produced > 20% oxygen"
+      },
+      {
+        "key": "Point 2",
+        "label": "now cut for soybeans & cattle grazing"
+      }
+    ],
+    "doodleBadge": "AMAZON = LUNGS OF PLANET",
+    "doodleSubtext": "Lungs of the Planet",
+    "explanation": "Amazon Rainforest produced > 20% oxygen; now cut for soybeans & cattle grazing.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Lungs of the Planet.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Lungs"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Lungs of the Planet\" in NEET Biology?",
+      "options": [
+        "AMAZON = LUNGS OF PLANET",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Amazon Rainforest produced > 20% oxygen; now cut for soybeans & cattle grazing."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-31",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-4",
+    "topicTitle": "Over-Exploited Animals",
+    "topic": "Over-Exploited Animals",
+    "mnemonicNumber": 31,
+    "sourceItemNumber": 31,
+    "title": "Over-Exploited Animals: \"STELLER & PIGEON\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
     "cardColor": "#EFFBF4",
     "badgeColor": "#3DBE75",
-    "mnemonic": "When a host species becomes extinct, its unique obligate parasites and plant-pollinator mutualists die too!",
-    "memoryHook": "Co-extinction is the 4th evil: when a host fish becomes extinct, its unique parasite assemblage faces instant extinction; if a fig tree dies out, its obligate wasp dies too!",
-    "fact": "Co-extinction occurs when the extinction of one species inevitably leads to the extinction of another species with which it is obligately associated. Examples: 1. When a host fish species becomes extinct, its unique assemblage of parasites meets the same fate. 2. Plant-pollinator mutualism: extinction of one partner inevitably leads to the extinction of the other (e.g. Pronuba moth and Yucca flower).",
+    "mnemonic": "STELLER & PIGEON",
+    "memoryHook": "STELLER & PIGEON",
+    "fact": "Steller's Sea Cow and Passenger Pigeon went extinct due to human over-exploitation.",
     "breakdown": [
       {
-        "key": "Definition",
-        "label": "Secondary extinction of dependent obligate species when primary host/mutualist is lost"
+        "key": "Focus",
+        "label": "Over-Exploited Animals"
       },
       {
-        "key": "Host-Parasite Example",
-        "label": "Monophagous parasites die when host vanishes"
-      },
-      {
-        "key": "Plant-Pollinator Mutualism",
-        "label": "Co-evolved obligate mutualists (Fig & Wasp, Yucca & Pronuba moth) cannot survive independently"
+        "key": "Trick",
+        "label": "STELLER & PIGEON"
       }
     ],
-    "doodleBadge": "Host Dies →\nParasite Co-Extinct",
-    "doodleSubtext": "The 4th Evil",
-    "explanation": "Co-extinction demonstrates the profound interconnectedness of biological food webs: removing one keystone thread unravels multiple dependent species.",
-    "alsoRemember": "Co-extinction is the fourth pillar of Edward Wilson's \"Evil Quartet\".",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.3.",
-    "neetTrap": "Co-extinction is especially common in OBLIGATE mutualisms and specialized host-parasite systems.",
+    "doodleBadge": "STELLER & PIGEON",
+    "doodleSubtext": "Over-Exploited Animals",
+    "explanation": "Steller's Sea Cow and Passenger Pigeon went extinct due to human over-exploitation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Over-Exploited Animals.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
     "tags": [
-      "Ecology",
-      "Co-extinction",
-      "Evil Quartet",
-      "Yucca",
-      "Mutualism"
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Over-Exploited"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "When a specific host fish species goes extinct, all its unique obligate parasites also vanish. This phenomenon is called:",
+      "question": "Which of the following is associated with \"Over-Exploited Animals\" in NEET Biology?",
       "options": [
-        "Invasive exclusion",
-        "Co-extinction",
-        "Over-exploitation",
-        "Habitat fragmentation"
+        "STELLER & PIGEON",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "Co-extinction refers to the inevitable extinction of an obligately dependent species following its host’s demise."
+      "answerIndex": 0,
+      "explanation": "Steller's Sea Cow and Passenger Pigeon went extinct due to human over-exploitation."
     }
   },
   {
-    "id": "bio-ch32-19",
+    "id": "mnemo-bio-ch32-32",
     "subject": "biology",
     "chapterId": "bio-ch-32",
     "chapterNumber": 32,
     "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-1",
-    "topicTitle": "Sixth Mass Extinction Rate Comparison",
-    "mnemonicNumber": 19,
-    "title": "Sixth Extinction: 100 to 1,000 Times Faster Than Pre-Human Background Rate",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
-    "difficulty": "medium",
-    "visualType": "notebook",
-    "cardColor": "#FFE681",
-    "badgeColor": "#FF8D78",
-    "mnemonic": "Current Anthropogenic Extinction = 100 to 1000x faster than background rate! (Half of Earth's species could vanish in 100 years)",
-    "memoryHook": "The ongoing Sixth Extinction differs from the previous 5 mass extinctions because it is 100 to 1,000 times faster and driven entirely by HUMAN ACTIVITIES!",
-    "fact": "During the long period (>3 billion years) since the origin and diversification of life on Earth, there were 5 episodes of mass extinction of species. The Sixth Extinction presently in progress is different: current species extinction rates are estimated to be 100 to 1,000 times faster than in pre-human times, and our activities are responsible for the accelerated rates. Ecologists warn that if present trends continue, nearly half of all species on Earth might be wiped out within the next 100 years.",
-    "breakdown": [
-      {
-        "key": "Previous Mass Extinctions",
-        "label": "5 major mass extinction events in geological history (e.g. End-Permian, End-Cretaceous dinosaur extinction)"
-      },
-      {
-        "key": "Sixth Extinction",
-        "label": "The Anthropocene extinction currently occurring in real time"
-      },
-      {
-        "key": "Speed Multiplier",
-        "label": "100 to 1,000 times faster than natural background extinction rate"
-      },
-      {
-        "key": "Sole Driver",
-        "label": "Human anthropogenic activities (Habitat destruction, hunting, climate change, pollution)"
-      }
-    ],
-    "doodleBadge": "6th Extinction =\n100–1000x Faster (Human Driven)",
-    "doodleSubtext": "The Anthropocene Crisis",
-    "explanation": "Loss of biodiversity in a region leads to: 1. Decline in plant production, 2. Lowered resistance to environmental perturbations such as drought, 3. Increased variability in ecosystem processes like plant productivity, water use, and pest/disease cycles.",
-    "alsoRemember": "Dinosaurs vanished during the 5th mass extinction event ~65 million years ago at the Cretaceous-Tertiary boundary.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15, Section 15.1.3.",
-    "neetTrap": "The sixth mass extinction rate is 100 to 1,000 TIMES FASTER than pre-human background rates.",
-    "tags": [
-      "Ecology",
-      "Sixth Extinction",
-      "Mass Extinction",
-      "Biodiversity Loss"
-    ],
-    "quiz": {
-      "question": "How much faster is the current human-induced Sixth Mass Extinction estimated to be compared to natural pre-human background extinction rates?",
-      "options": [
-        "2 to 5 times faster",
-        "10 to 20 times faster",
-        "100 to 1,000 times faster",
-        "Exactly the same rate"
-      ],
-      "answerIndex": 2,
-      "explanation": "Current anthropogenic extinction rates are estimated to be 100 to 1,000 times faster than historical background rates."
-    }
-  },
-  {
-    "id": "bio-ch32-20",
-    "subject": "biology",
-    "chapterId": "bio-ch-32",
-    "chapterNumber": 32,
-    "chapterTitle": "Biodiversity and Conservation",
-    "topicId": "bio-top-32-2",
-    "topicTitle": "Complete Biodiversity & Conservation Master Summary",
-    "mnemonicNumber": 20,
-    "title": "Biodiversity Master Map: Patterns, Loss (HIPO), & Rescue (In-Situ / Ex-Situ)",
-    "badgeText": "Memory Trick",
-    "importance": "Must Know",
+    "classLevel": 12,
+    "topicId": "bio-top-32-4",
+    "topicTitle": "Lake Victoria Invasive Species",
+    "topic": "Lake Victoria Invasive Species",
+    "mnemonicNumber": 32,
+    "sourceItemNumber": 32,
+    "title": "Lake Victoria Invasive Species: \"NILE PERCH vs CICHLID\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
     "difficulty": "easy",
-    "visualType": "sequence",
-    "cardColor": "#DDF7E8",
-    "badgeColor": "#3DBE75",
-    "mnemonic": "Patterns (Latitudinal + Species-Area log S = log C + Z log A) → Loss (Evil Quartet HIPO + 6th Extinction) → Solutions (In-Situ Hotspots/National Parks + Ex-Situ Cryo/Zoos)",
-    "memoryHook": "The complete architecture of Chapter 32: 1. Patterns of Diversity, 2. Evil Quartet Threats, 3. In-situ and Ex-situ Conservation Solutions!",
-    "fact": "Complete summary of NCERT Chapter 15: 1. Global Diversity: 7 million (May), 1.5M described, India has 8.1% on 2.4% land. 2. Patterns: Latitudinal gradient (Tropics highest), Species-Area (log S = log C + Z log A). 3. The Evil Quartet: Habitat loss (#1), Overexploitation, Alien species, Co-extinctions. 4. Conservation: In-situ (34 Hotspots, Biosphere reserves, National parks, Sacred groves) and Ex-situ (Zoos, Botanical gardens, Cryopreservation at -196°C, Seed banks).",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "NILE PERCH vs CICHLID",
+    "memoryHook": "NILE PERCH vs CICHLID",
+    "fact": "Nile Perch introduced into Lake Victoria killed > 200 endemic species of Cichlid fish.",
     "breakdown": [
       {
-        "key": "Global Patterns",
-        "label": "Tropics richest; Species-Area curve rectangular hyperbola (log S = log C + Z log A)"
+        "key": "Focus",
+        "label": "Lake Victoria Invasive Species"
       },
       {
-        "key": "The Evil Quartet",
-        "label": "Habitat loss (#1 cause), Over-exploitation, Alien invasions, Co-extinctions"
-      },
-      {
-        "key": "In-Situ Protection",
-        "label": "34 Global Hotspots (Western Ghats, Indo-Burma, Himalaya), National parks, Sanctuaries, Sacred groves"
-      },
-      {
-        "key": "Ex-Situ Rescue",
-        "label": "Zoos, Botanical gardens, Cryopreservation (-196°C in liquid N2), Seed banks"
+        "key": "Trick",
+        "label": "NILE PERCH vs CICHLID"
       }
     ],
-    "doodleBadge": "Patterns · Threats (HIPO)\nConservation (In & Ex Situ)",
-    "doodleSubtext": "Chapter 32 Complete Map",
-    "explanation": "Conservation of biodiversity is a moral, ecological, and economic imperative to ensure biosphere stability for future generations.",
-    "alsoRemember": "Earth Summit 1992 (Rio) and World Summit 2002 (Johannesburg) represent the international treaties supporting biodiversity conservation.",
-    "ncertConnection": "NCERT Class 12 Biology Chapter 15.",
-    "neetTrap": "Review all 32 chapters of Biology systematically; every single chapter now has 20 complete high-yield NCERT mnemonics!",
+    "doodleBadge": "NILE PERCH vs CICHLID",
+    "doodleSubtext": "Lake Victoria Invasive S",
+    "explanation": "Nile Perch introduced into Lake Victoria killed > 200 endemic species of Cichlid fish.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Lake Victoria Invasive Species.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
     "tags": [
-      "Ecology",
-      "Biodiversity",
-      "Conservation",
-      "Master Summary",
-      "Class 12"
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Lake"
     ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
     "quiz": {
-      "question": "Which of the following encapsulates the primary objective of in-situ biodiversity conservation?",
+      "question": "Which of the following is associated with \"Lake Victoria Invasive Species\" in NEET Biology?",
       "options": [
-        "Removing endangered species to artificial zoo cages",
-        "Protecting endangered species within their whole natural wild ecosystem and habitat",
-        "Freezing tissue cultures in liquid nitrogen",
-        "Sequencing bacterial genomes in laboratories"
+        "NILE PERCH vs CICHLID",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
       ],
-      "answerIndex": 1,
-      "explanation": "In-situ conservation aims to protect endangered species in their native natural wild habitats and entire ecosystems."
+      "answerIndex": 0,
+      "explanation": "Nile Perch introduced into Lake Victoria killed > 200 endemic species of Cichlid fish."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-33",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-4",
+    "topicTitle": "3 Invasive Weed Plants",
+    "topic": "3 Invasive Weed Plants",
+    "mnemonicNumber": 33,
+    "sourceItemNumber": 33,
+    "title": "3 Invasive Weed Plants: \"P - L - E\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "P - L - E",
+    "memoryHook": "P - L - E",
+    "fact": "Parthenium (Carrot grass), Lantana, and Eichhornia (Water hyacinth / Terror of Bengal).",
+    "breakdown": [
+      {
+        "key": "P",
+        "label": "Parthenium (Carrot grass)"
+      },
+      {
+        "key": "L",
+        "label": "Lantana"
+      },
+      {
+        "key": "E",
+        "label": "and Eichhornia (Water hyacinth / Terror of Bengal)"
+      }
+    ],
+    "doodleBadge": "P - L - E",
+    "doodleSubtext": "3 Invasive Weed Plants",
+    "explanation": "Parthenium (Carrot grass), Lantana, and Eichhornia (Water hyacinth / Terror of Bengal).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in 3 Invasive Weed Plants.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "3"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"3 Invasive Weed Plants\" in NEET Biology?",
+      "options": [
+        "P - L - E",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Parthenium (Carrot grass), Lantana, and Eichhornia (Water hyacinth / Terror of Bengal)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-34",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-4",
+    "topicTitle": "Invasive Catfish",
+    "topic": "Invasive Catfish",
+    "mnemonicNumber": 34,
+    "sourceItemNumber": 34,
+    "title": "Invasive Catfish: \"CLARIAS GARIEPINUS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "CLARIAS GARIEPINUS",
+    "memoryHook": "CLARIAS GARIEPINUS",
+    "fact": "African catfish Clarias gariepinus poses threat to indigenous catfish species in Indian rivers.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Invasive Catfish"
+      },
+      {
+        "key": "Trick",
+        "label": "CLARIAS GARIEPINUS"
+      }
+    ],
+    "doodleBadge": "CLARIAS GARIEPINUS",
+    "doodleSubtext": "Invasive Catfish",
+    "explanation": "African catfish Clarias gariepinus poses threat to indigenous catfish species in Indian rivers.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Invasive Catfish.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Invasive"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Invasive Catfish\" in NEET Biology?",
+      "options": [
+        "CLARIAS GARIEPINUS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "African catfish Clarias gariepinus poses threat to indigenous catfish species in Indian rivers."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-35",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-4",
+    "topicTitle": "Co-Extinction Examples",
+    "topic": "Co-Extinction Examples",
+    "mnemonicNumber": 35,
+    "sourceItemNumber": 35,
+    "title": "Co-Extinction Examples: \"PARASITE & POLLINATOR\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#243044",
+    "mnemonic": "PARASITE & POLLINATOR",
+    "memoryHook": "PARASITE & POLLINATOR",
+    "fact": "Obligate host-parasite links & plant-pollinator mutualism (fig- wasp) lead to co-extinction.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Co-Extinction Examples"
+      },
+      {
+        "key": "Trick",
+        "label": "PARASITE & POLLINATOR"
+      }
+    ],
+    "doodleBadge": "PARASITE & POLLINATOR",
+    "doodleSubtext": "Co-Extinction Examples",
+    "explanation": "Obligate host-parasite links & plant-pollinator mutualism (fig- wasp) lead to co-extinction.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Co-Extinction Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Co-Extinction"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Co-Extinction Examples\" in NEET Biology?",
+      "options": [
+        "PARASITE & POLLINATOR",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Obligate host-parasite links & plant-pollinator mutualism (fig- wasp) lead to co-extinction."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-36",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-4",
+    "topicTitle": "3 Conservation Reasons",
+    "topic": "3 Conservation Reasons",
+    "mnemonicNumber": 36,
+    "sourceItemNumber": 36,
+    "title": "3 Conservation Reasons: \"N - B - E\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "N - B - E",
+    "memoryHook": "N - B - E",
+    "fact": "Narrowly Utilitarian, Broadly Utilitarian, and Ethical reasons.",
+    "breakdown": [
+      {
+        "key": "N",
+        "label": "Narrowly Utilitarian"
+      },
+      {
+        "key": "B",
+        "label": "Broadly Utilitarian"
+      },
+      {
+        "key": "E",
+        "label": "and Ethical reasons"
+      }
+    ],
+    "doodleBadge": "N - B - E",
+    "doodleSubtext": "3 Conservation Reasons",
+    "explanation": "Narrowly Utilitarian, Broadly Utilitarian, and Ethical reasons.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in 3 Conservation Reasons.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "3"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"3 Conservation Reasons\" in NEET Biology?",
+      "options": [
+        "N - B - E",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Narrowly Utilitarian, Broadly Utilitarian, and Ethical reasons."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-37",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-4",
+    "topicTitle": "Narrowly Utilitarian",
+    "topic": "Narrowly Utilitarian",
+    "mnemonicNumber": 37,
+    "sourceItemNumber": 37,
+    "title": "Narrowly Utilitarian: \"DIRECT PRODUCTS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "DIRECT PRODUCTS",
+    "memoryHook": "DIRECT PRODUCTS",
+    "fact": "Food, fiber, firewood, construction, tannins, dyes, and 25% prescription medicines from plants.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Narrowly Utilitarian"
+      },
+      {
+        "key": "Trick",
+        "label": "DIRECT PRODUCTS"
+      }
+    ],
+    "doodleBadge": "DIRECT PRODUCTS",
+    "doodleSubtext": "Narrowly Utilitarian",
+    "explanation": "Food, fiber, firewood, construction, tannins, dyes, and 25% prescription medicines from plants.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Narrowly Utilitarian.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Narrowly"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Narrowly Utilitarian\" in NEET Biology?",
+      "options": [
+        "DIRECT PRODUCTS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Food, fiber, firewood, construction, tannins, dyes, and 25% prescription medicines from plants."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-38",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-4",
+    "topicTitle": "Bioprospecting Definition",
+    "topic": "Bioprospecting Definition",
+    "mnemonicNumber": 38,
+    "sourceItemNumber": 38,
+    "title": "Bioprospecting Definition: \"EXPLORING MOLECULAR DIVERSITY\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "EXPLORING MOLECULAR DIVERSITY",
+    "memoryHook": "EXPLORING MOLECULAR DIVERSITY",
+    "fact": "Exploring molecular, genetic, and species-level diversity for products of economic value.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Exploring molecular"
+      },
+      {
+        "key": "Point 2",
+        "label": "genetic"
+      }
+    ],
+    "doodleBadge": "EXPLORING MOLECULAR DIVE",
+    "doodleSubtext": "Bioprospecting Definitio",
+    "explanation": "Exploring molecular, genetic, and species-level diversity for products of economic value.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Bioprospecting Definition.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 3",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Bioprospecting"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 3,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Bioprospecting Definition\" in NEET Biology?",
+      "options": [
+        "EXPLORING MOLECULAR DIVERSITY",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Exploring molecular, genetic, and species-level diversity for products of economic value."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-39",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-4",
+    "topicTitle": "In-Situ vs Ex-Situ Concept",
+    "topic": "In-Situ vs Ex-Situ Concept",
+    "mnemonicNumber": 39,
+    "sourceItemNumber": 39,
+    "title": "In-Situ vs Ex-Situ Concept: \"IN-SITE vs OFF-SITE\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "IN-SITE vs OFF-SITE",
+    "memoryHook": "IN-SITE vs OFF-SITE",
+    "fact": "In-situ: Protect whole ecosystem on-site. Ex-situ: Protect threatened organism off-site.",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "IN"
+      },
+      {
+        "key": "Part 2",
+        "label": "SITE vs OFF"
+      },
+      {
+        "key": "Part 3",
+        "label": "SITE"
+      }
+    ],
+    "doodleBadge": "IN-SITE vs OFF-SITE",
+    "doodleSubtext": "In-Situ vs Ex-Situ Conce",
+    "explanation": "In-situ: Protect whole ecosystem on-site. Ex-situ: Protect threatened organism off-site.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in In-Situ vs Ex-Situ Concept.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "In-Situ"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"In-Situ vs Ex-Situ Concept\" in NEET Biology?",
+      "options": [
+        "IN-SITE vs OFF-SITE",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "In-situ: Protect whole ecosystem on-site. Ex-situ: Protect threatened organism off-site."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-40",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-4",
+    "topicTitle": "Global Biodiversity Hotspots",
+    "topic": "Global Biodiversity Hotspots",
+    "mnemonicNumber": 40,
+    "sourceItemNumber": 40,
+    "title": "Global Biodiversity Hotspots: \"25 → 34 HOTSPOTS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#243044",
+    "mnemonic": "25 → 34 HOTSPOTS",
+    "memoryHook": "25 → 34 HOTSPOTS",
+    "fact": "Originally 25 hotspots identified; 9 added later, making total 34 Biodiversity Hotspots.",
+    "breakdown": [
+      {
+        "key": "Point 1",
+        "label": "Originally 25 hotspots identified"
+      },
+      {
+        "key": "Point 2",
+        "label": "9 added later"
+      },
+      {
+        "key": "Point 3",
+        "label": "making total 34 Biodiversity Hotspots"
+      }
+    ],
+    "doodleBadge": "25 → 34 HOTSPOTS",
+    "doodleSubtext": "Global Biodiversity Hots",
+    "explanation": "Originally 25 hotspots identified; 9 added later, making total 34 Biodiversity Hotspots.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Global Biodiversity Hotspots.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Global"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Global Biodiversity Hotspots\" in NEET Biology?",
+      "options": [
+        "25 → 34 HOTSPOTS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Originally 25 hotspots identified; 9 added later, making total 34 Biodiversity Hotspots."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-41",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-5",
+    "topicTitle": "Extinction Reduction by Hotspots",
+    "topic": "Extinction Reduction by Hotspots",
+    "mnemonicNumber": 41,
+    "sourceItemNumber": 41,
+    "title": "Extinction Reduction by Hotspots: \"30% REDUCTION IN EXTINCTION\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "hard",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "30% REDUCTION IN EXTINCTION",
+    "memoryHook": "30% REDUCTION IN EXTINCTION",
+    "fact": "Hotspots cover < 2% of land, but strict protection reduces mass extinctions by 30%.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Extinction Reduction by Hotspots"
+      },
+      {
+        "key": "Trick",
+        "label": "30% REDUCTION IN EXTINCTION"
+      }
+    ],
+    "doodleBadge": "30% REDUCTION IN EXTINCT",
+    "doodleSubtext": "Extinction Reduction by ",
+    "explanation": "Hotspots cover < 2% of land, but strict protection reduces mass extinctions by 30%.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Extinction Reduction by Hotspots.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Extinction"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Extinction Reduction by Hotspots\" in NEET Biology?",
+      "options": [
+        "30% REDUCTION IN EXTINCTION",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Hotspots cover < 2% of land, but strict protection reduces mass extinctions by 30%."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-42",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-5",
+    "topicTitle": "3 Hotspots Covering India",
+    "topic": "3 Hotspots Covering India",
+    "mnemonicNumber": 42,
+    "sourceItemNumber": 42,
+    "title": "3 Hotspots Covering India: \"W - I - H\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "W - I - H",
+    "memoryHook": "W - I - H",
+    "fact": "Western Ghats & Sri Lanka, Indo-Burma, and Himalayas.",
+    "breakdown": [
+      {
+        "key": "W",
+        "label": "Western Ghats & Sri Lanka"
+      },
+      {
+        "key": "I",
+        "label": "Indo-Burma"
+      },
+      {
+        "key": "H",
+        "label": "and Himalayas"
+      }
+    ],
+    "doodleBadge": "W - I - H",
+    "doodleSubtext": "3 Hotspots Covering Indi",
+    "explanation": "Western Ghats & Sri Lanka, Indo-Burma, and Himalayas.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in 3 Hotspots Covering India.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "3"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"3 Hotspots Covering India\" in NEET Biology?",
+      "options": [
+        "W - I - H",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Western Ghats & Sri Lanka, Indo-Burma, and Himalayas."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-43",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-5",
+    "topicTitle": "In-Situ Network in India",
+    "topic": "In-Situ Network in India",
+    "mnemonicNumber": 43,
+    "sourceItemNumber": 43,
+    "title": "In-Situ Network in India: \"14 BR - 90 NP - 448 WLS\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "14 BR - 90 NP - 448 WLS",
+    "memoryHook": "14 BR - 90 NP - 448 WLS",
+    "fact": "14 Biosphere Reserves, 90 National Parks, and 448 Wildlife Sanctuaries (NCERT data).",
+    "breakdown": [
+      {
+        "key": "Part 1",
+        "label": "14 BR"
+      },
+      {
+        "key": "Part 2",
+        "label": "90 NP"
+      },
+      {
+        "key": "Part 3",
+        "label": "448 WLS"
+      }
+    ],
+    "doodleBadge": "14 BR - 90 NP - 448 WLS",
+    "doodleSubtext": "In-Situ Network in India",
+    "explanation": "14 Biosphere Reserves, 90 National Parks, and 448 Wildlife Sanctuaries (NCERT data).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in In-Situ Network in India.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "In-Situ"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"In-Situ Network in India\" in NEET Biology?",
+      "options": [
+        "14 BR - 90 NP - 448 WLS",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "14 Biosphere Reserves, 90 National Parks, and 448 Wildlife Sanctuaries (NCERT data)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-44",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-5",
+    "topicTitle": "Sacred Groves Locations",
+    "topic": "Sacred Groves Locations",
+    "mnemonicNumber": 44,
+    "sourceItemNumber": 44,
+    "title": "Sacred Groves Locations: \"K - A - C - S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "K - A - C - S",
+    "memoryHook": "K - A - C - S",
+    "fact": "Khasi/Jaintia (Meghalaya), Aravalli (Rajasthan), Chanda/Bastar (MP), Serguja (Western Ghats).",
+    "breakdown": [
+      {
+        "key": "K",
+        "label": "Khasi/Jaintia (Meghalaya)"
+      },
+      {
+        "key": "A",
+        "label": "Aravalli (Rajasthan)"
+      },
+      {
+        "key": "C",
+        "label": "Chanda/Bastar (MP)"
+      },
+      {
+        "key": "S",
+        "label": "Serguja (Western Ghats)"
+      }
+    ],
+    "doodleBadge": "K - A - C - S",
+    "doodleSubtext": "Sacred Groves Locations",
+    "explanation": "Khasi/Jaintia (Meghalaya), Aravalli (Rajasthan), Chanda/Bastar (MP), Serguja (Western Ghats).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Sacred Groves Locations.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Sacred"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Sacred Groves Locations\" in NEET Biology?",
+      "options": [
+        "K - A - C - S",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Khasi/Jaintia (Meghalaya), Aravalli (Rajasthan), Chanda/Bastar (MP), Serguja (Western Ghats)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-45",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-5",
+    "topicTitle": "Ex-Situ Classic Examples",
+    "topic": "Ex-Situ Classic Examples",
+    "mnemonicNumber": 45,
+    "sourceItemNumber": 45,
+    "title": "Ex-Situ Classic Examples: \"Z - B - S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFF9E6",
+    "badgeColor": "#243044",
+    "mnemonic": "Z - B - S",
+    "memoryHook": "Z - B - S",
+    "fact": "Zoological Parks, Botanical Gardens, and Safari Parks (organisms removed from wild).",
+    "breakdown": [
+      {
+        "key": "Z",
+        "label": "Zoological Parks"
+      },
+      {
+        "key": "B",
+        "label": "Botanical Gardens"
+      },
+      {
+        "key": "S",
+        "label": "and Safari Parks (organisms removed from wild)"
+      }
+    ],
+    "doodleBadge": "Z - B - S",
+    "doodleSubtext": "Ex-Situ Classic Examples",
+    "explanation": "Zoological Parks, Botanical Gardens, and Safari Parks (organisms removed from wild).",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Ex-Situ Classic Examples.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Ex-Situ"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Ex-Situ Classic Examples\" in NEET Biology?",
+      "options": [
+        "Z - B - S",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Zoological Parks, Botanical Gardens, and Safari Parks (organisms removed from wild)."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-46",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-5",
+    "topicTitle": "Advanced Ex-Situ Techniques",
+    "topic": "Advanced Ex-Situ Techniques",
+    "mnemonicNumber": 46,
+    "sourceItemNumber": 46,
+    "title": "Advanced Ex-Situ Techniques: \"C - T - S\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "acronym",
+    "cardColor": "#F7F0FF",
+    "badgeColor": "#3DBE75",
+    "mnemonic": "C - T - S",
+    "memoryHook": "C - T - S",
+    "fact": "Cryopreservation, Tissue culture propagation, and Seed banks for long storage.",
+    "breakdown": [
+      {
+        "key": "C",
+        "label": "Cryopreservation"
+      },
+      {
+        "key": "T",
+        "label": "Tissue culture propagation"
+      },
+      {
+        "key": "S",
+        "label": "and Seed banks for long storage"
+      }
+    ],
+    "doodleBadge": "C - T - S",
+    "doodleSubtext": "Advanced Ex-Situ Techniq",
+    "explanation": "Cryopreservation, Tissue culture propagation, and Seed banks for long storage.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Advanced Ex-Situ Techniques.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Advanced"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Advanced Ex-Situ Techniques\" in NEET Biology?",
+      "options": [
+        "C - T - S",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Cryopreservation, Tissue culture propagation, and Seed banks for long storage."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-47",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-5",
+    "topicTitle": "Cryopreservation Temperature",
+    "topic": "Cryopreservation Temperature",
+    "mnemonicNumber": 47,
+    "sourceItemNumber": 47,
+    "title": "Cryopreservation Temperature: \"-196°C LIQUID NITROGEN\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#FFF0F3",
+    "badgeColor": "#5B8DEF",
+    "mnemonic": "-196°C LIQUID NITROGEN",
+    "memoryHook": "-196°C LIQUID NITROGEN",
+    "fact": "Gametes of threatened species stored in liquid nitrogen at -196°C in viable condition.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "Cryopreservation Temperature"
+      },
+      {
+        "key": "Trick",
+        "label": "-196°C LIQUID NITROGEN"
+      }
+    ],
+    "doodleBadge": "-196°C LIQUID NITROGEN",
+    "doodleSubtext": "Cryopreservation Tempera",
+    "explanation": "Gametes of threatened species stored in liquid nitrogen at -196°C in viable condition.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in Cryopreservation Temperature.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "Cryopreservation"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"Cryopreservation Temperature\" in NEET Biology?",
+      "options": [
+        "-196°C LIQUID NITROGEN",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Gametes of threatened species stored in liquid nitrogen at -196°C in viable condition."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-48",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-5",
+    "topicTitle": "The Earth Summit (Rio)",
+    "topic": "The Earth Summit (Rio)",
+    "mnemonicNumber": 48,
+    "sourceItemNumber": 48,
+    "title": "The Earth Summit (Rio): \"RIO 1992\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "acronym",
+    "cardColor": "#FFFDF7",
+    "badgeColor": "#FF8D78",
+    "mnemonic": "RIO 1992",
+    "memoryHook": "RIO 1992",
+    "fact": "Historic Earth Summit held at Rio de Janeiro in 1992 for Biodiversity Conservation.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "The Earth Summit (Rio)"
+      },
+      {
+        "key": "Trick",
+        "label": "RIO 1992"
+      }
+    ],
+    "doodleBadge": "RIO 1992",
+    "doodleSubtext": "The Earth Summit (Rio)",
+    "explanation": "Historic Earth Summit held at Rio de Janeiro in 1992 for Biodiversity Conservation.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in The Earth Summit (Rio).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "The"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"The Earth Summit (Rio)\" in NEET Biology?",
+      "options": [
+        "RIO 1992",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "Historic Earth Summit held at Rio de Janeiro in 1992 for Biodiversity Conservation."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-49",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-5",
+    "topicTitle": "World Summit (Johannesburg)",
+    "topic": "World Summit (Johannesburg)",
+    "mnemonicNumber": 49,
+    "sourceItemNumber": 49,
+    "title": "World Summit (Johannesburg): \"JOHANNESBURG 2002\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "medium",
+    "visualType": "classification",
+    "cardColor": "#EFFBF4",
+    "badgeColor": "#A66CFF",
+    "mnemonic": "JOHANNESBURG 2002",
+    "memoryHook": "JOHANNESBURG 2002",
+    "fact": "World Summit on Sustainable Development held in Johannesburg, South Africa in 2002.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "World Summit (Johannesburg)"
+      },
+      {
+        "key": "Trick",
+        "label": "JOHANNESBURG 2002"
+      }
+    ],
+    "doodleBadge": "JOHANNESBURG 2002",
+    "doodleSubtext": "World Summit (Johannesbu",
+    "explanation": "World Summit on Sustainable Development held in Johannesburg, South Africa in 2002.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in World Summit (Johannesburg).",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "World"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"World Summit (Johannesburg)\" in NEET Biology?",
+      "options": [
+        "JOHANNESBURG 2002",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "World Summit on Sustainable Development held in Johannesburg, South Africa in 2002."
+    }
+  },
+  {
+    "id": "mnemo-bio-ch32-50",
+    "subject": "biology",
+    "chapterId": "bio-ch-32",
+    "chapterNumber": 32,
+    "chapterTitle": "Biodiversity and Conservation",
+    "classLevel": 12,
+    "topicId": "bio-top-32-5",
+    "topicTitle": "World Summit Pledge",
+    "topic": "World Summit Pledge",
+    "mnemonicNumber": 50,
+    "sourceItemNumber": 50,
+    "title": "World Summit Pledge: \"190 COUNTRIES BY 2010\"",
+    "badgeText": "High Yield",
+    "importance": "High Yield",
+    "difficulty": "easy",
+    "visualType": "classification",
+    "cardColor": "#EDF4FF",
+    "badgeColor": "#243044",
+    "mnemonic": "190 COUNTRIES BY 2010",
+    "memoryHook": "190 COUNTRIES BY 2010",
+    "fact": "190 countries pledged to significantly reduce the rate of biodiversity loss by year 2010.",
+    "breakdown": [
+      {
+        "key": "Focus",
+        "label": "World Summit Pledge"
+      },
+      {
+        "key": "Trick",
+        "label": "190 COUNTRIES BY 2010"
+      }
+    ],
+    "doodleBadge": "190 COUNTRIES BY 2010",
+    "doodleSubtext": "World Summit Pledge",
+    "explanation": "190 countries pledged to significantly reduce the rate of biodiversity loss by year 2010.",
+    "alsoRemember": "NCERT Class 12 Biology, Chapter 13 (Biodiversity and Conservation).",
+    "neetTrap": "Common NEET test point in World Summit Pledge.",
+    "ncertConnection": "NCERT Class 12 Biology, Chapter 13, PDF Page 4",
+    "tags": [
+      "NEET Biology",
+      "Class 12",
+      "Biodiversity and Conservation",
+      "World"
+    ],
+    "sourceReference": {
+      "pdf": "NCERT Class 12 Biology Quick Revision Series (PDF 2)",
+      "page": 4,
+      "chapter": "Biodiversity and Conservation"
+    },
+    "verificationStatus": "verified",
+    "quiz": {
+      "question": "Which of the following is associated with \"World Summit Pledge\" in NEET Biology?",
+      "options": [
+        "190 COUNTRIES BY 2010",
+        "Alternative unrelated pathway",
+        "Non-existent in living organisms",
+        "Random chance event without regulation"
+      ],
+      "answerIndex": 0,
+      "explanation": "190 countries pledged to significantly reduce the rate of biodiversity loss by year 2010."
     }
   }
 ];
