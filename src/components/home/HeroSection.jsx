@@ -2,7 +2,7 @@ import React from 'react';
 import { ArrowRight, Lightbulb, Brain, Clock, Target, BarChart2 } from 'lucide-react';
 import { DoodleBrainMascot, DoodleBooksStack, DoodleSparkle, DoodleStar, DoodleArrow } from '../illustrations/DoodleIllustrations';
 
-export function HeroSection({ onExploreSubjects, onStartRevision }) {
+export function HeroSection({ onExploreSubjects, onStartRevision, onNavigateClass11, onNavigateClass12 }) {
   const featureStrip = [
     { label: 'Visual Mnemonics', icon: Lightbulb, bg: '#FFE681', color: '#243044' },
     { label: 'Botany & Zoology', icon: Brain, bg: '#FF9FB2', color: '#243044' },
@@ -25,30 +25,38 @@ export function HeroSection({ onExploreSubjects, onStartRevision }) {
         {/* Left Column: Heading & CTAs */}
         <div className="lg:col-span-7 space-y-4 text-left z-10">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#FFE681]/40 border border-[#FFE681] text-[#243044] text-xs font-title font-bold">
-            <span>✨ 100% NCERT NEET Biology Revision</span>
+            <span>✨ 100% NCERT NEET Biology Revision Platform</span>
           </div>
 
-          <h1 className="font-title text-3xl sm:text-5xl font-extrabold text-[#243044] leading-[1.15]">
-            Turn Hard Biology Facts <br />
-            into <span className="hl-yellow text-[#243044]">Easy Memories</span>
+          <h1 className="font-title text-3xl sm:text-4xl md:text-5xl font-extrabold text-[#243044] leading-[1.18]">
+            NEET Biology Mnemonics <br />
+            to <span className="hl-yellow text-[#243044]">Remember More</span> and Revise Smarter
           </h1>
 
           <p className="text-sm sm:text-base text-[#667085] max-w-lg leading-relaxed font-sans">
-            1,180+ visual mnemonics, NCERT memory tricks and chapter-wise study tools for NEET Biology (Botany & Zoology). Study smarter, not harder!
+            Learn NEET Biology with 1,180+ easy mnemonics, NCERT-based memory tricks, chapter-wise revision guides, and simple ways to remember important Biology facts for NEET UG.
           </p>
 
           <div className="flex flex-wrap items-center gap-3 pt-2">
             <button
-              onClick={onExploreSubjects}
-              className="px-6 py-3 rounded-2xl bg-[#FF8D78] hover:bg-[#ff7b63] text-white font-title text-sm sm:text-base font-bold flex items-center gap-2 shadow-sketch transition-all hover:scale-105 active:scale-95"
+              onClick={onNavigateClass11 || onExploreSubjects}
+              className="px-5 py-2.5 rounded-2xl bg-[#FFE681] hover:bg-[#fed94f] text-[#243044] font-title text-xs sm:text-sm font-bold flex items-center gap-2 border-2 border-[#243044] shadow-sketch transition-all hover:scale-105 active:scale-95"
             >
-              <span>Explore Biology Units</span>
-              <ArrowRight className="w-4 h-4" />
+              <span>Class 11 Mnemonics</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </button>
+
+            <button
+              onClick={onNavigateClass12 || onExploreSubjects}
+              className="px-5 py-2.5 rounded-2xl bg-[#EFFBF4] hover:bg-[#d8f5e5] text-[#243044] font-title text-xs sm:text-sm font-bold flex items-center gap-2 border-2 border-[#3DBE75] shadow-sketch transition-all hover:scale-105 active:scale-95"
+            >
+              <span>Class 12 Mnemonics</span>
+              <ArrowRight className="w-3.5 h-3.5 text-[#3DBE75]" />
             </button>
 
             <button
               onClick={onStartRevision}
-              className="px-5 py-3 rounded-2xl bg-white hover:bg-[#EFFBF4] border-2 border-[#243044] text-[#243044] font-title text-sm sm:text-base font-bold transition-all shadow-sketch active:scale-95"
+              className="px-5 py-2.5 rounded-2xl bg-white hover:bg-[#EFFBF4] border-2 border-[#243044] text-[#243044] font-title text-xs sm:text-sm font-bold transition-all shadow-sketch active:scale-95"
             >
               Start Revising ⚡
             </button>

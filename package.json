@@ -5,8 +5,10 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/generate-seo-assets.js && vite build",
+    "build": "node scripts/generate-seo-assets.js && node scripts/generate-keyword-map.js && vite build",
     "generate:seo": "node scripts/generate-seo-assets.js",
+    "generate:keyword-map": "node scripts/generate-keyword-map.js",
+    "audit:seo": "node scripts/seo-audit.js",
     "lint": "oxlint",
     "preview": "vite preview"
   },

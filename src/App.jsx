@@ -14,6 +14,8 @@ import { RevisionModeView } from './components/revision/RevisionModeView';
 import { QuizView } from './components/quiz/QuizView';
 import { ProgressView } from './components/progress/ProgressView';
 import { AboutView } from './components/about/AboutView';
+import { Class11LandingView } from './components/classes/Class11LandingView';
+import { Class12LandingView } from './components/classes/Class12LandingView';
 import { SEOHead } from './components/seo/SEOHead';
 
 import { SUBJECTS, BIOLOGY_UNITS } from './data/subjects';
@@ -85,10 +87,10 @@ export default function App() {
     return () => window.removeEventListener('popstate', handlePopState);
   }, []);
 
-  // LocalStorage Persistence State
+  // LocalStorage Persistence State (NEETMONIC with backward compatibility)
   const [favorites, setFavorites] = useState(() => {
     try {
-      const saved = localStorage.getItem('neet_mnemo_favorites');
+      const saved = localStorage.getItem('neetmonic_favorites') || localStorage.getItem('neet_mnemo_favorites');
       return saved ? JSON.parse(saved) : [];
     } catch {
       return [];
@@ -97,7 +99,7 @@ export default function App() {
 
   const [learnedIds, setLearnedIds] = useState(() => {
     try {
-      const saved = localStorage.getItem('neet_mnemo_learned');
+      const saved = localStorage.getItem('neetmonic_learned') || localStorage.getItem('neet_mnemo_learned');
       return saved ? JSON.parse(saved) : [];
     } catch {
       return [];
@@ -106,7 +108,7 @@ export default function App() {
 
   const [streak, setStreak] = useState(() => {
     try {
-      const saved = localStorage.getItem('neet_mnemo_streak');
+      const saved = localStorage.getItem('neetmonic_streak') || localStorage.getItem('neet_mnemo_streak');
       return saved ? parseInt(saved, 10) : 4;
     } catch {
       return 4;
@@ -115,7 +117,7 @@ export default function App() {
 
   const [xp, setXp] = useState(() => {
     try {
-      const saved = localStorage.getItem('neet_mnemo_xp');
+      const saved = localStorage.getItem('neetmonic_xp') || localStorage.getItem('neet_mnemo_xp');
       return saved ? parseInt(saved, 10) : 280;
     } catch {
       return 280;
@@ -125,6 +127,7 @@ export default function App() {
   // Save to LocalStorage
   useEffect(() => {
     try {
+      localStorage.setItem('neetmonic_favorites', JSON.stringify(favorites));
       localStorage.setItem('neet_mnemo_favorites', JSON.stringify(favorites));
     } catch (e) {
       console.warn(e);
@@ -133,6 +136,7 @@ export default function App() {
 
   useEffect(() => {
     try {
+      localStorage.setItem('neetmonic_learned', JSON.stringify(learnedIds));
       localStorage.setItem('neet_mnemo_learned', JSON.stringify(learnedIds));
     } catch (e) {
       console.warn(e);
@@ -141,6 +145,8 @@ export default function App() {
 
   useEffect(() => {
     try {
+      localStorage.setItem('neetmonic_streak', streak.toString());
+      localStorage.setItem('neetmonic_xp', xp.toString());
       localStorage.setItem('neet_mnemo_streak', streak.toString());
       localStorage.setItem('neet_mnemo_xp', xp.toString());
     } catch (e) {
@@ -277,12 +283,18 @@ export default function App() {
             <HeroSection
               onExploreSubjects={() => handleNavigate('chapters')}
               onStartRevision={() => handleNavigate('revision')}
+              onNavigateClass11={() => handleNavigate('class-11')}
+              onNavigateClass12={() => handleNavigate('class-12')}
             />
 
-            {/* 10 NCERT Biology Units Showcase */}
+            {/* 10 NCERT Biology Units Showcase & 4-Card Hub */}
             <SubjectCardsSection 
               onSelectSubject={() => handleNavigate('chapters')} 
               onSelectUnit={(unitId) => handleNavigate('chapters')}
+              onNavigateClass11={() => handleNavigate('class-11')}
+              onNavigateClass12={() => handleNavigate('class-12')}
+              onExploreChapters={() => handleNavigate('chapters')}
+              onStartRevision={() => handleNavigate('revision')}
             />
 
             {/* Popular Visual Mnemonics Feed */}
@@ -385,6 +397,32 @@ export default function App() {
         )}
 
         {/* =========================================================================
+            2A. CLASS 11 BIOLOGY MNEMONICS LANDING PAGE
+           ========================================================================= */}
+        {currentRoute === 'class-11' && (
+          <Class11LandingView
+            onSelectChapter={handleSelectChapter}
+            onSelectMnemonic={handleSelectMnemonic}
+            onNavigate={handleNavigate}
+            favorites={favorites}
+            onToggleFavorite={handleToggleFavorite}
+          />
+        )}
+
+        {/* =========================================================================
+            2B. CLASS 12 BIOLOGY MNEMONICS LANDING PAGE
+           ========================================================================= */}
+        {currentRoute === 'class-12' && (
+          <Class12LandingView
+            onSelectChapter={handleSelectChapter}
+            onSelectMnemonic={handleSelectMnemonic}
+            onNavigate={handleNavigate}
+            favorites={favorites}
+            onToggleFavorite={handleToggleFavorite}
+          />
+        )}
+
+        {/* =========================================================================
             3. CHAPTER DETAIL PAGE
            ========================================================================= */}
         {currentRoute === 'chapter' && (
@@ -393,6 +431,7 @@ export default function App() {
             onBack={() => handleNavigate('chapters')}
             onSelectMnemonic={handleSelectMnemonic}
             onSelectChapter={handleSelectChapter}
+            onNavigateClass={handleNavigate}
             favorites={favorites}
             onToggleFavorite={handleToggleFavorite}
             onStartQuiz={handleStartQuiz}
@@ -509,38 +548,33 @@ export default function App() {
             <div className="space-y-2 md:col-span-1">
               <div className="flex items-center gap-1.5">
                 <span className="font-title text-lg font-bold text-[#243044]">NEET</span>
-                <span className="font-title text-lg font-bold text-[#3DBE75]">Mnemo</span>
+                <span className="font-title text-lg font-bold text-[#3DBE75]">MONIC</span>
                 <DoodleSparkle className="w-4 h-4 text-[#FFE681]" />
               </div>
               <p className="text-xs text-[#667085] font-sans leading-relaxed">
-                Handcrafted visual mnemonics, illustrated memory tricks &amp; chapter-wise study tools strictly mapped to NCERT Class 11 &amp; 12 Biology (Botany &amp; Zoology).
+                Handcrafted visual mnemonics, illustrated memory tricks &amp; chapter-wise revision tools strictly mapped to NCERT Class 11 &amp; 12 Biology (Botany &amp; Zoology) by AKSHDEV.
               </p>
             </div>
 
             {/* Biology Units Column */}
             <div className="space-y-2">
               <h4 className="font-title text-xs font-bold text-[#243044] uppercase tracking-wider">
-                Biology Units
+                Biology Mnemonics
               </h4>
               <ul className="space-y-1.5 text-xs font-title font-semibold text-[#667085]">
                 <li>
-                  <button onClick={() => handleNavigate('chapters')} className="hover:text-[#3DBE75] transition-colors text-left">
-                    Diversity in Living World (Ch 1–4)
+                  <button onClick={() => handleNavigate('class-11')} className="hover:text-[#3DBE75] transition-colors text-left">
+                    Class 11 Biology Mnemonics (Units 1–5)
                   </button>
                 </li>
                 <li>
-                  <button onClick={() => handleNavigate('chapters')} className="hover:text-[#3DBE75] transition-colors text-left">
-                    Plant &amp; Human Physiology
-                  </button>
-                </li>
-                <li>
-                  <button onClick={() => handleNavigate('chapters')} className="hover:text-[#3DBE75] transition-colors text-left">
-                    Genetics, Evolution &amp; Biotech
+                  <button onClick={() => handleNavigate('class-12')} className="hover:text-[#3DBE75] transition-colors text-left">
+                    Class 12 Biology Mnemonics (Units 6–10)
                   </button>
                 </li>
                 <li>
                   <button onClick={() => handleNavigate('chapters')} className="hover:text-[#243044] transition-colors text-left">
-                    All 32 Biology Chapters →
+                    All 32 NCERT Biology Chapters →
                   </button>
                 </li>
               </ul>
@@ -583,7 +617,7 @@ export default function App() {
               <ul className="space-y-1.5 text-xs font-title font-semibold text-[#667085]">
                 <li>
                   <button onClick={() => handleNavigate('about')} className="hover:text-[#3DBE75] transition-colors">
-                    About NEET Mnemo
+                    About NEETMONIC
                   </button>
                 </li>
                 <li>
@@ -613,7 +647,7 @@ export default function App() {
 
           <div className="pt-6 border-t border-[#E8E4D9] flex flex-col sm:flex-row items-center justify-between gap-3 text-[11px] font-mono text-[#667085]">
             <div>
-              © {new Date().getFullYear()} NEET Mnemo • Visual Learning &amp; Memory Platform for NEET UG Biology
+              © {new Date().getFullYear()} NEETMONIC • Parent Brand AKSHDEV • Visual Learning &amp; Memory Platform for NEET UG Biology
             </div>
             <div className="flex items-center gap-2">
               <span>Zero invented facts • 100% NCERT verified</span>

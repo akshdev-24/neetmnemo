@@ -2,6 +2,10 @@
 # Permanent 301s for consolidated Biology routes
 /biology           /chapters 301
 /subjects          /chapters 301
+/class-11          /class-11-biology-mnemonics 301
+/class-12          /class-12-biology-mnemonics 301
+/class11           /class-11-biology-mnemonics 301
+/class12           /class-12-biology-mnemonics 301
 
 # Removed Subject Routes return 404
 /physics           /404 404

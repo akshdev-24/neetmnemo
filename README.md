@@ -1,8 +1,11 @@
-# NEETMnemo – NEET Biology Mnemonics & Revision Platform
+# NEETMONIC – NEET Biology Mnemonics & Revision Platform
 
-A dedicated, student-friendly web application for **NEET UG Biology preparation**, featuring 1,180+ visual mnemonics, active recall cards, and chapter-wise study tools mapped 100% to NCERT Class 11 & Class 12 Biology (Botany & Zoology).
+A dedicated, student-friendly educational platform under parent brand **AKSHDEV** for **NEET UG Biology preparation**, featuring 1,180+ visual mnemonics, active recall cards, and chapter-wise study tools mapped 100% to NCERT Class 11 & Class 12 Biology (Botany & Zoology).
 
-- **Production URL:** `https://neetmnemo.akshdev.site/` (Fallback: `https://neetmnemo.pages.dev/`)
+- **Production URL:** `https://neetmonic.akshdev.site/`
+- **Class 11 Hub:** `https://neetmonic.akshdev.site/class-11-biology-mnemonics`
+- **Class 12 Hub:** `https://neetmonic.akshdev.site/class-12-biology-mnemonics`
+- **Parent Brand:** AKSHDEV
 - **Curriculum:** NCERT Class 11 & 12 Biology (32 Chapters across 10 Units)
 - **Target Exam:** NTA NEET UG (Biology Section: 360/720 marks)
 

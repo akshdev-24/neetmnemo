@@ -1,5 +1,5 @@
 /**
- * NEET Mnemo — Route Matching and URL Synchronizer (100% NEET Biology)
+ * NEETMONIC — Route Matching and URL Synchronizer (100% NEET Biology)
  * Enables deep linking, HTML5 History API pushState, and canonical path resolution.
  */
 
@@ -9,6 +9,14 @@ export function parsePath(pathname = window.location.pathname) {
 
   if (cleanPath === '/' || cleanPath === '') {
     return { route: 'home' };
+  }
+
+  if (cleanPath === '/class-11-biology-mnemonics' || cleanPath === '/class-11') {
+    return { route: 'class-11' };
+  }
+
+  if (cleanPath === '/class-12-biology-mnemonics' || cleanPath === '/class-12') {
+    return { route: 'class-12' };
   }
 
   if (cleanPath === '/subjects' || cleanPath === '/chapters' || cleanPath === '/biology') {
@@ -74,6 +82,10 @@ export function formatUrlForRoute({ route, subjectId, chapterId, mnemonicId, tab
   switch (route) {
     case 'home':
       return '/';
+    case 'class-11':
+      return '/class-11-biology-mnemonics';
+    case 'class-12':
+      return '/class-12-biology-mnemonics';
     case 'chapters':
     case 'subjects':
     case 'biology':

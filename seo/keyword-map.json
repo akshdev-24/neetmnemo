@@ -1,0 +1,786 @@
+{
+  "platform": "NEETMONIC",
+  "parentBrand": "AKSHDEV",
+  "domain": "https://neetmonic.akshdev.site",
+  "scope": "100% NEET Biology Mnemonics & NCERT Revision",
+  "lastUpdated": "2026-10-19T14:58:04.381Z",
+  "clusters": [
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/",
+      "primarySearchIntent": "Informational / Core Platform Navigation",
+      "primaryKeyword": "NEET mnemonics",
+      "supportingKeywords": [
+        "NEET Biology mnemonics",
+        "Biology mnemonics for NEET",
+        "NEET Biology memory tricks",
+        "Biology memory tricks for NEET",
+        "NCERT Biology mnemonics",
+        "easy mnemonics for NEET Biology",
+        "NEET Biology revision tricks",
+        "Biology tricks to remember for NEET"
+      ],
+      "seoTitle": "NEETMONIC – NEET Biology Mnemonics & Memory Tricks",
+      "h1": "NEET Biology Mnemonics to Remember More and Revise Smarter",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/revision",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/class-11-biology-mnemonics",
+      "primarySearchIntent": "Class 11 Curriculum Mnemonic Discovery",
+      "primaryKeyword": "Class 11 Biology mnemonics",
+      "supportingKeywords": [
+        "Class 11 Biology mnemonics for NEET",
+        "NEET Class 11 Biology memory tricks",
+        "Class 11 Biology chapter-wise mnemonics",
+        "NCERT Class 11 Biology mnemonics",
+        "Class 11 Biology tricks to remember",
+        "NEET Biology mnemonics Class 11",
+        "Class 11 Biology important examples mnemonics",
+        "Class 11 Botany mnemonics for NEET",
+        "Class 11 Zoology mnemonics for NEET"
+      ],
+      "seoTitle": "Class 11 Biology Mnemonics for NEET | NEETMONIC",
+      "h1": "Class 11 Biology Mnemonics for NEET",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters/bio-ch-01",
+        "/chapters/bio-ch-03",
+        "/chapters/bio-ch-04",
+        "/chapters/bio-ch-08",
+        "/chapters/bio-ch-10",
+        "/chapters/bio-ch-15"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/class-12-biology-mnemonics",
+      "primarySearchIntent": "Class 12 Curriculum Mnemonic Discovery",
+      "primaryKeyword": "Class 12 Biology mnemonics",
+      "supportingKeywords": [
+        "Class 12 Biology mnemonics for NEET",
+        "NEET Class 12 Biology memory tricks",
+        "Class 12 Biology chapter-wise mnemonics",
+        "NCERT Class 12 Biology mnemonics",
+        "Class 12 Biology tricks to remember",
+        "NEET Biology mnemonics Class 12",
+        "Class 12 Biology important examples mnemonics",
+        "Class 12 Botany mnemonics for NEET",
+        "Class 12 Zoology mnemonics for NEET",
+        "Genetics mnemonics for NEET",
+        "Biotechnology mnemonics for NEET",
+        "Ecology mnemonics for NEET"
+      ],
+      "seoTitle": "Class 12 Biology Mnemonics for NEET | NEETMONIC",
+      "h1": "Class 12 Biology Mnemonics for NEET",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters/bio-ch-20",
+        "/chapters/bio-ch-23",
+        "/chapters/bio-ch-24",
+        "/chapters/bio-ch-28",
+        "/chapters/bio-ch-30",
+        "/chapters/bio-ch-32"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters",
+      "primarySearchIntent": "Comprehensive Chapter-Wise Directory",
+      "primaryKeyword": "NEET Biology chapter-wise mnemonics",
+      "supportingKeywords": [
+        "NCERT Biology chapters mnemonics",
+        "NEET Botany chapters",
+        "NEET Zoology chapters",
+        "NEET memory tricks"
+      ],
+      "seoTitle": "NEET Biology Chapters & NCERT Memory Tricks | NEETMONIC",
+      "h1": "Explore 32 NEET Biology Chapters",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/class-12-biology-mnemonics",
+        "/revision"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/revision",
+      "primarySearchIntent": "Fast-Paced Exam Sprint & Active Recall",
+      "primaryKeyword": "NEET Biology revision tricks",
+      "supportingKeywords": [
+        "Quick Biology revision sprints",
+        "active recall NEET Biology",
+        "timed Biology revision"
+      ],
+      "seoTitle": "Quick Biology Revision Sprints for NEET UG | NEETMONIC",
+      "h1": "Speed Revision Sprints",
+      "relatedInternalLinks": [
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/quiz",
+      "primarySearchIntent": "Interactive Concept Testing & Retention",
+      "primaryKeyword": "NEET Biology quiz",
+      "supportingKeywords": [
+        "interactive Biology quiz NEET",
+        "NCERT Biology recall practice",
+        "micro flash quiz Biology"
+      ],
+      "seoTitle": "Interactive NEET Biology Quiz & Recall Practice | NEETMONIC",
+      "h1": "Interactive NEET Biology Quiz",
+      "relatedInternalLinks": [
+        "/chapters",
+        "/revision"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-01",
+      "primarySearchIntent": "The Living World specific mnemonic search",
+      "primaryKeyword": "The Living World mnemonics for NEET",
+      "supportingKeywords": [
+        "The Living World memory tricks",
+        "The Living World NEET Biology",
+        "Class 11 The Living World revision",
+        "The Living World NCERT examples",
+        "easy tricks for The Living World"
+      ],
+      "seoTitle": "The Living World Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "The Living World Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-02",
+      "primarySearchIntent": "Biological Classification specific mnemonic search",
+      "primaryKeyword": "Biological Classification mnemonics for NEET",
+      "supportingKeywords": [
+        "Biological Classification memory tricks",
+        "Biological Classification NEET Biology",
+        "Class 11 Biological Classification revision",
+        "Biological Classification NCERT examples",
+        "easy tricks for Biological Classification"
+      ],
+      "seoTitle": "Biological Classification Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Biological Classification Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-03",
+      "primarySearchIntent": "Plant Kingdom specific mnemonic search",
+      "primaryKeyword": "Plant Kingdom mnemonics for NEET",
+      "supportingKeywords": [
+        "Plant Kingdom memory tricks",
+        "Plant Kingdom NEET Biology",
+        "Class 11 Plant Kingdom revision",
+        "Plant Kingdom NCERT examples",
+        "easy tricks for Plant Kingdom"
+      ],
+      "seoTitle": "Plant Kingdom Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Plant Kingdom Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-04",
+      "primarySearchIntent": "Animal Kingdom specific mnemonic search",
+      "primaryKeyword": "Animal Kingdom mnemonics for NEET",
+      "supportingKeywords": [
+        "Animal Kingdom memory tricks",
+        "Animal Kingdom NEET Biology",
+        "Class 11 Animal Kingdom revision",
+        "Animal Kingdom NCERT examples",
+        "easy tricks for Animal Kingdom"
+      ],
+      "seoTitle": "Animal Kingdom Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Animal Kingdom Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-05",
+      "primarySearchIntent": "Morphology of Flowering Plants specific mnemonic search",
+      "primaryKeyword": "Morphology of Flowering Plants mnemonics for NEET",
+      "supportingKeywords": [
+        "Morphology of Flowering Plants memory tricks",
+        "Morphology of Flowering Plants NEET Biology",
+        "Class 11 Morphology of Flowering Plants revision",
+        "Morphology of Flowering Plants NCERT examples",
+        "easy tricks for Morphology of Flowering Plants"
+      ],
+      "seoTitle": "Morphology of Flowering Plants Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Morphology of Flowering Plants Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-06",
+      "primarySearchIntent": "Anatomy of Flowering Plants specific mnemonic search",
+      "primaryKeyword": "Anatomy of Flowering Plants mnemonics for NEET",
+      "supportingKeywords": [
+        "Anatomy of Flowering Plants memory tricks",
+        "Anatomy of Flowering Plants NEET Biology",
+        "Class 11 Anatomy of Flowering Plants revision",
+        "Anatomy of Flowering Plants NCERT examples",
+        "easy tricks for Anatomy of Flowering Plants"
+      ],
+      "seoTitle": "Anatomy of Flowering Plants Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Anatomy of Flowering Plants Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-07",
+      "primarySearchIntent": "Structural Organisation in Animals specific mnemonic search",
+      "primaryKeyword": "Structural Organisation in Animals mnemonics for NEET",
+      "supportingKeywords": [
+        "Structural Organisation in Animals memory tricks",
+        "Structural Organisation in Animals NEET Biology",
+        "Class 11 Structural Organisation in Animals revision",
+        "Structural Organisation in Animals NCERT examples",
+        "easy tricks for Structural Organisation in Animals"
+      ],
+      "seoTitle": "Structural Organisation in Animals Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Structural Organisation in Animals Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-08",
+      "primarySearchIntent": "Cell: The Unit of Life specific mnemonic search",
+      "primaryKeyword": "Cell: The Unit of Life mnemonics for NEET",
+      "supportingKeywords": [
+        "Cell: The Unit of Life memory tricks",
+        "Cell: The Unit of Life NEET Biology",
+        "Class 11 Cell: The Unit of Life revision",
+        "Cell: The Unit of Life NCERT examples",
+        "easy tricks for Cell: The Unit of Life"
+      ],
+      "seoTitle": "Cell: The Unit of Life Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Cell: The Unit of Life Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-09",
+      "primarySearchIntent": "Biomolecules specific mnemonic search",
+      "primaryKeyword": "Biomolecules mnemonics for NEET",
+      "supportingKeywords": [
+        "Biomolecules memory tricks",
+        "Biomolecules NEET Biology",
+        "Class 11 Biomolecules revision",
+        "Biomolecules NCERT examples",
+        "easy tricks for Biomolecules"
+      ],
+      "seoTitle": "Biomolecules Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Biomolecules Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-10",
+      "primarySearchIntent": "Cell Cycle and Cell Division specific mnemonic search",
+      "primaryKeyword": "Cell Cycle and Cell Division mnemonics for NEET",
+      "supportingKeywords": [
+        "Cell Cycle and Cell Division memory tricks",
+        "Cell Cycle and Cell Division NEET Biology",
+        "Class 11 Cell Cycle and Cell Division revision",
+        "Cell Cycle and Cell Division NCERT examples",
+        "easy tricks for Cell Cycle and Cell Division"
+      ],
+      "seoTitle": "Cell Cycle and Cell Division Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Cell Cycle and Cell Division Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-11",
+      "primarySearchIntent": "Photosynthesis in Higher Plants specific mnemonic search",
+      "primaryKeyword": "Photosynthesis in Higher Plants mnemonics for NEET",
+      "supportingKeywords": [
+        "Photosynthesis in Higher Plants memory tricks",
+        "Photosynthesis in Higher Plants NEET Biology",
+        "Class 11 Photosynthesis in Higher Plants revision",
+        "Photosynthesis in Higher Plants NCERT examples",
+        "easy tricks for Photosynthesis in Higher Plants"
+      ],
+      "seoTitle": "Photosynthesis in Higher Plants Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Photosynthesis in Higher Plants Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-12",
+      "primarySearchIntent": "Respiration in Plants specific mnemonic search",
+      "primaryKeyword": "Respiration in Plants mnemonics for NEET",
+      "supportingKeywords": [
+        "Respiration in Plants memory tricks",
+        "Respiration in Plants NEET Biology",
+        "Class 11 Respiration in Plants revision",
+        "Respiration in Plants NCERT examples",
+        "easy tricks for Respiration in Plants"
+      ],
+      "seoTitle": "Respiration in Plants Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Respiration in Plants Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-13",
+      "primarySearchIntent": "Plant Growth and Development specific mnemonic search",
+      "primaryKeyword": "Plant Growth and Development mnemonics for NEET",
+      "supportingKeywords": [
+        "Plant Growth and Development memory tricks",
+        "Plant Growth and Development NEET Biology",
+        "Class 11 Plant Growth and Development revision",
+        "Plant Growth and Development NCERT examples",
+        "easy tricks for Plant Growth and Development"
+      ],
+      "seoTitle": "Plant Growth and Development Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Plant Growth and Development Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-14",
+      "primarySearchIntent": "Breathing and Exchange of Gases specific mnemonic search",
+      "primaryKeyword": "Breathing and Exchange of Gases mnemonics for NEET",
+      "supportingKeywords": [
+        "Breathing and Exchange of Gases memory tricks",
+        "Breathing and Exchange of Gases NEET Biology",
+        "Class 11 Breathing and Exchange of Gases revision",
+        "Breathing and Exchange of Gases NCERT examples",
+        "easy tricks for Breathing and Exchange of Gases"
+      ],
+      "seoTitle": "Breathing and Exchange of Gases Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Breathing and Exchange of Gases Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-15",
+      "primarySearchIntent": "Body Fluids and Circulation specific mnemonic search",
+      "primaryKeyword": "Body Fluids and Circulation mnemonics for NEET",
+      "supportingKeywords": [
+        "Body Fluids and Circulation memory tricks",
+        "Body Fluids and Circulation NEET Biology",
+        "Class 11 Body Fluids and Circulation revision",
+        "Body Fluids and Circulation NCERT examples",
+        "easy tricks for Body Fluids and Circulation"
+      ],
+      "seoTitle": "Body Fluids and Circulation Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Body Fluids and Circulation Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-16",
+      "primarySearchIntent": "Excretory Products and Their Elimination specific mnemonic search",
+      "primaryKeyword": "Excretory Products and Their Elimination mnemonics for NEET",
+      "supportingKeywords": [
+        "Excretory Products and Their Elimination memory tricks",
+        "Excretory Products and Their Elimination NEET Biology",
+        "Class 11 Excretory Products and Their Elimination revision",
+        "Excretory Products and Their Elimination NCERT examples",
+        "easy tricks for Excretory Products and Their Elimination"
+      ],
+      "seoTitle": "Excretory Products and Their Elimination Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Excretory Products and Their Elimination Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-17",
+      "primarySearchIntent": "Locomotion and Movement specific mnemonic search",
+      "primaryKeyword": "Locomotion and Movement mnemonics for NEET",
+      "supportingKeywords": [
+        "Locomotion and Movement memory tricks",
+        "Locomotion and Movement NEET Biology",
+        "Class 11 Locomotion and Movement revision",
+        "Locomotion and Movement NCERT examples",
+        "easy tricks for Locomotion and Movement"
+      ],
+      "seoTitle": "Locomotion and Movement Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Locomotion and Movement Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-18",
+      "primarySearchIntent": "Neural Control and Coordination specific mnemonic search",
+      "primaryKeyword": "Neural Control and Coordination mnemonics for NEET",
+      "supportingKeywords": [
+        "Neural Control and Coordination memory tricks",
+        "Neural Control and Coordination NEET Biology",
+        "Class 11 Neural Control and Coordination revision",
+        "Neural Control and Coordination NCERT examples",
+        "easy tricks for Neural Control and Coordination"
+      ],
+      "seoTitle": "Neural Control and Coordination Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Neural Control and Coordination Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-19",
+      "primarySearchIntent": "Chemical Coordination and Integration (Endocrine) specific mnemonic search",
+      "primaryKeyword": "Chemical Coordination and Integration (Endocrine) mnemonics for NEET",
+      "supportingKeywords": [
+        "Chemical Coordination and Integration (Endocrine) memory tricks",
+        "Chemical Coordination and Integration (Endocrine) NEET Biology",
+        "Class 11 Chemical Coordination and Integration (Endocrine) revision",
+        "Chemical Coordination and Integration (Endocrine) NCERT examples",
+        "easy tricks for Chemical Coordination and Integration (Endocrine)"
+      ],
+      "seoTitle": "Chemical Coordination and Integration (Endocrine) Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Chemical Coordination and Integration (Endocrine) Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-11-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-20",
+      "primarySearchIntent": "Sexual Reproduction in Flowering Plants specific mnemonic search",
+      "primaryKeyword": "Sexual Reproduction in Flowering Plants mnemonics for NEET",
+      "supportingKeywords": [
+        "Sexual Reproduction in Flowering Plants memory tricks",
+        "Sexual Reproduction in Flowering Plants NEET Biology",
+        "Class 12 Sexual Reproduction in Flowering Plants revision",
+        "Sexual Reproduction in Flowering Plants NCERT examples",
+        "easy tricks for Sexual Reproduction in Flowering Plants"
+      ],
+      "seoTitle": "Sexual Reproduction in Flowering Plants Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Sexual Reproduction in Flowering Plants Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-21",
+      "primarySearchIntent": "Human Reproduction specific mnemonic search",
+      "primaryKeyword": "Human Reproduction mnemonics for NEET",
+      "supportingKeywords": [
+        "Human Reproduction memory tricks",
+        "Human Reproduction NEET Biology",
+        "Class 12 Human Reproduction revision",
+        "Human Reproduction NCERT examples",
+        "easy tricks for Human Reproduction"
+      ],
+      "seoTitle": "Human Reproduction Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Human Reproduction Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-22",
+      "primarySearchIntent": "Reproductive Health specific mnemonic search",
+      "primaryKeyword": "Reproductive Health mnemonics for NEET",
+      "supportingKeywords": [
+        "Reproductive Health memory tricks",
+        "Reproductive Health NEET Biology",
+        "Class 12 Reproductive Health revision",
+        "Reproductive Health NCERT examples",
+        "easy tricks for Reproductive Health"
+      ],
+      "seoTitle": "Reproductive Health Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Reproductive Health Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-23",
+      "primarySearchIntent": "Principles of Inheritance and Variation specific mnemonic search",
+      "primaryKeyword": "Principles of Inheritance and Variation mnemonics for NEET",
+      "supportingKeywords": [
+        "Principles of Inheritance and Variation memory tricks",
+        "Principles of Inheritance and Variation NEET Biology",
+        "Class 12 Principles of Inheritance and Variation revision",
+        "Principles of Inheritance and Variation NCERT examples",
+        "easy tricks for Principles of Inheritance and Variation"
+      ],
+      "seoTitle": "Principles of Inheritance and Variation Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Principles of Inheritance and Variation Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-24",
+      "primarySearchIntent": "Molecular Basis of Inheritance specific mnemonic search",
+      "primaryKeyword": "Molecular Basis of Inheritance mnemonics for NEET",
+      "supportingKeywords": [
+        "Molecular Basis of Inheritance memory tricks",
+        "Molecular Basis of Inheritance NEET Biology",
+        "Class 12 Molecular Basis of Inheritance revision",
+        "Molecular Basis of Inheritance NCERT examples",
+        "easy tricks for Molecular Basis of Inheritance"
+      ],
+      "seoTitle": "Molecular Basis of Inheritance Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Molecular Basis of Inheritance Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-25",
+      "primarySearchIntent": "Evolution specific mnemonic search",
+      "primaryKeyword": "Evolution mnemonics for NEET",
+      "supportingKeywords": [
+        "Evolution memory tricks",
+        "Evolution NEET Biology",
+        "Class 12 Evolution revision",
+        "Evolution NCERT examples",
+        "easy tricks for Evolution"
+      ],
+      "seoTitle": "Evolution Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Evolution Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-26",
+      "primarySearchIntent": "Human Health and Disease specific mnemonic search",
+      "primaryKeyword": "Human Health and Disease mnemonics for NEET",
+      "supportingKeywords": [
+        "Human Health and Disease memory tricks",
+        "Human Health and Disease NEET Biology",
+        "Class 12 Human Health and Disease revision",
+        "Human Health and Disease NCERT examples",
+        "easy tricks for Human Health and Disease"
+      ],
+      "seoTitle": "Human Health and Disease Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Human Health and Disease Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-27",
+      "primarySearchIntent": "Microbes in Human Welfare specific mnemonic search",
+      "primaryKeyword": "Microbes in Human Welfare mnemonics for NEET",
+      "supportingKeywords": [
+        "Microbes in Human Welfare memory tricks",
+        "Microbes in Human Welfare NEET Biology",
+        "Class 12 Microbes in Human Welfare revision",
+        "Microbes in Human Welfare NCERT examples",
+        "easy tricks for Microbes in Human Welfare"
+      ],
+      "seoTitle": "Microbes in Human Welfare Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Microbes in Human Welfare Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-28",
+      "primarySearchIntent": "Biotechnology: Principles and Processes specific mnemonic search",
+      "primaryKeyword": "Biotechnology: Principles and Processes mnemonics for NEET",
+      "supportingKeywords": [
+        "Biotechnology: Principles and Processes memory tricks",
+        "Biotechnology: Principles and Processes NEET Biology",
+        "Class 12 Biotechnology: Principles and Processes revision",
+        "Biotechnology: Principles and Processes NCERT examples",
+        "easy tricks for Biotechnology: Principles and Processes"
+      ],
+      "seoTitle": "Biotechnology: Principles and Processes Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Biotechnology: Principles and Processes Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-29",
+      "primarySearchIntent": "Biotechnology and Its Applications specific mnemonic search",
+      "primaryKeyword": "Biotechnology and Its Applications mnemonics for NEET",
+      "supportingKeywords": [
+        "Biotechnology and Its Applications memory tricks",
+        "Biotechnology and Its Applications NEET Biology",
+        "Class 12 Biotechnology and Its Applications revision",
+        "Biotechnology and Its Applications NCERT examples",
+        "easy tricks for Biotechnology and Its Applications"
+      ],
+      "seoTitle": "Biotechnology and Its Applications Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Biotechnology and Its Applications Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-30",
+      "primarySearchIntent": "Organisms and Populations specific mnemonic search",
+      "primaryKeyword": "Organisms and Populations mnemonics for NEET",
+      "supportingKeywords": [
+        "Organisms and Populations memory tricks",
+        "Organisms and Populations NEET Biology",
+        "Class 12 Organisms and Populations revision",
+        "Organisms and Populations NCERT examples",
+        "easy tricks for Organisms and Populations"
+      ],
+      "seoTitle": "Organisms and Populations Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Organisms and Populations Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-31",
+      "primarySearchIntent": "Ecosystem specific mnemonic search",
+      "primaryKeyword": "Ecosystem mnemonics for NEET",
+      "supportingKeywords": [
+        "Ecosystem memory tricks",
+        "Ecosystem NEET Biology",
+        "Class 12 Ecosystem revision",
+        "Ecosystem NCERT examples",
+        "easy tricks for Ecosystem"
+      ],
+      "seoTitle": "Ecosystem Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Ecosystem Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    },
+    {
+      "targetUrl": "https://neetmonic.akshdev.site/chapters/bio-ch-32",
+      "primarySearchIntent": "Biodiversity and Conservation specific mnemonic search",
+      "primaryKeyword": "Biodiversity and Conservation mnemonics for NEET",
+      "supportingKeywords": [
+        "Biodiversity and Conservation memory tricks",
+        "Biodiversity and Conservation NEET Biology",
+        "Class 12 Biodiversity and Conservation revision",
+        "Biodiversity and Conservation NCERT examples",
+        "easy tricks for Biodiversity and Conservation"
+      ],
+      "seoTitle": "Biodiversity and Conservation Mnemonics & NCERT Revision | NEET Biology | NEETMONIC",
+      "h1": "Biodiversity and Conservation Mnemonics & NCERT Revision",
+      "relatedInternalLinks": [
+        "/class-12-biology-mnemonics",
+        "/chapters",
+        "/quiz"
+      ],
+      "contentStatus": "Published & Canonical"
+    }
+  ]
+}

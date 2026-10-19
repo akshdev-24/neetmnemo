@@ -1,0 +1,19 @@
+{
+  "name": "NEETMONIC – NEET Biology Mnemonics & Memory Tricks",
+  "short_name": "NEETMONIC",
+  "description": "Learn NEET Biology with easy mnemonics, NCERT-based memory tricks, chapter-wise revision guides, and active recall practice for NEET UG.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFFDF7",
+  "theme_color": "#FFFDF7",
+  "categories": ["education", "books", "reference"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

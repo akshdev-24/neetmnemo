@@ -13,12 +13,13 @@ export function Navbar({
 }) {
   const navItems = [
     { id: 'home', label: 'Home' },
-    { id: 'chapters', label: 'Biology Chapters' },
-    { id: 'revision', label: 'Quick Revision' },
+    { id: 'class-11', label: 'Class 11' },
+    { id: 'class-12', label: 'Class 12' },
+    { id: 'chapters', label: 'All Chapters' },
+    { id: 'revision', label: 'Revision' },
     { id: 'quiz', label: 'Quiz' },
     { id: 'about', label: 'About' },
-    { id: 'favorites', label: 'My Saves', badge: savedCount > 0 ? savedCount : null },
-    { id: 'progress', label: 'Progress' },
+    { id: 'favorites', label: 'Saves', badge: savedCount > 0 ? savedCount : null },
   ];
 
   return (
@@ -29,7 +30,7 @@ export function Navbar({
         <button 
           onClick={() => onNavigate('home')}
           className="flex items-center gap-2 group text-left transition-transform active:scale-95"
-          aria-label="NEET Mnemo Home"
+          aria-label="NEETMONIC Home"
         >
           <div className="w-10 h-10 rounded-2xl bg-[#FFE681] border-2 border-[#243044] flex items-center justify-center shadow-sketch group-hover:rotate-6 transition-transform">
             <span className="font-title text-xl font-bold text-[#243044]">NM</span>
@@ -37,7 +38,7 @@ export function Navbar({
           <div>
             <div className="flex items-center gap-1">
               <span className="font-title text-xl font-bold text-[#243044] tracking-tight">NEET</span>
-              <span className="font-title text-xl font-bold text-[#3DBE75]">Mnemo</span>
+              <span className="font-title text-xl font-bold text-[#3DBE75]">MONIC</span>
               <DoodleSparkle className="w-4 h-4 text-[#FFE681]" />
             </div>
             <p className="text-[10px] font-hand text-[#667085] leading-none hidden sm:block">

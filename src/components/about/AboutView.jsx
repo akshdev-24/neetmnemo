@@ -75,7 +75,7 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
             </h1>
 
             <p className="text-sm sm:text-base text-[#667085] max-w-2xl mx-auto leading-relaxed font-sans">
-              NEET Mnemo is a focused educational platform designed specifically for medical aspirants preparing for NTA NEET UG Biology (Botany &amp; Zoology).
+              NEETMONIC is an independent educational platform under the <strong>AKSHDEV</strong> parent brand, designed specifically for medical aspirants preparing for NTA NEET UG Biology (Botany &amp; Zoology).
             </p>
           </div>
 
@@ -89,7 +89,7 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
                 The NEET Biology syllabus accounts for <strong>360 out of 720 marks (50% of the entire exam)</strong> across 32 NCERT chapters. It contains thousands of Latin taxonomic names, anatomical exceptions, hormone functions, cell cycle stages, and ecological statistics.
               </p>
               <p className="text-sm text-[#243044] font-medium leading-relaxed font-sans">
-                Under exam stress, simple rote memorization can lead to confusing similar-sounding terms. NEET Mnemo applies <strong>Dual-Coding Theory</strong> — combining whimsical visual verbal hooks with accurate NCERT facts so students can trigger instant, accurate recall on exam day.
+                Under exam stress, simple rote memorization can lead to confusing similar-sounding terms. NEETMONIC applies <strong>Dual-Coding Theory</strong> — combining whimsical visual verbal hooks with accurate NCERT facts so students can trigger instant, accurate recall on exam day.
               </p>
             </div>
 
@@ -147,7 +147,7 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
             </div>
 
             <p className="text-xs sm:text-sm text-[#667085] font-sans">
-              NEET Mnemo covers all 10 units prescribed by the National Medical Commission (NMC) and NTA:
+              NEETMONIC covers all 10 units prescribed by the National Medical Commission (NMC) and NTA:
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs font-sans text-[#243044]">
@@ -206,12 +206,12 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
           <div className="space-y-4 text-xs sm:text-sm text-[#667085] leading-relaxed font-sans">
             <h2 className="font-title text-base font-bold text-[#243044]">1. Overview &amp; Commitment</h2>
             <p>
-              At NEET Mnemo (accessible from https://neetmnemo.pages.dev and https://neetmnemo.akshdev.site), we respect your privacy. Our core philosophy is student-first: we do not require account registration, login credentials, or personal identification to browse our NEET Biology mnemonics, revision decks, or practice quizzes.
+              At NEETMONIC (accessible from https://neetmonic.akshdev.site), we respect your privacy. As an educational service operated under AKSHDEV, our core philosophy is student-first: we do not require account registration, login credentials, or personal identification to browse our NEET Biology mnemonics, revision decks, or practice quizzes.
             </p>
 
             <h2 className="font-title text-base font-bold text-[#243044]">2. Information Stored Locally in Your Browser</h2>
             <p>
-              To provide interactive features like "My Memory Shelf" (saved bookmarks), daily streaks, XP counters, and learned status, NEET Mnemo uses your web browser's standard <strong>LocalStorage</strong>. This data resides solely on your personal device and is not transmitted to or stored on any external server. You can clear this data at any time through your browser settings.
+              To provide interactive features like "My Memory Shelf" (saved bookmarks), daily streaks, XP counters, and learned status, NEETMONIC uses your web browser's standard <strong>LocalStorage</strong>. This data resides solely on your personal device and is not transmitted to or stored on any external server. You can clear this data at any time through your browser settings.
             </p>
 
             <h2 className="font-title text-base font-bold text-[#243044]">3. Web Analytics &amp; Cookies</h2>
@@ -226,7 +226,7 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
 
             <h2 className="font-title text-base font-bold text-[#243044]">5. Contact Regarding Privacy</h2>
             <p>
-              If you have any questions or feedback regarding this Privacy Policy, you can reach out via our Contact section or by email at <strong>privacy@neetmnemo.akshdev.site</strong>.
+              If you have any questions or feedback regarding this Privacy Policy, you can reach out via our Contact section or by email at <strong>privacy@neetmonic.akshdev.site</strong>.
             </p>
           </div>
         </article>
@@ -249,22 +249,22 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
           <div className="space-y-4 text-xs sm:text-sm text-[#667085] leading-relaxed font-sans">
             <h2 className="font-title text-base font-bold text-[#243044]">1. Acceptance of Terms</h2>
             <p>
-              By accessing and using NEET Mnemo, you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please do not use the website.
+              By accessing and using NEETMONIC (a service by AKSHDEV), you agree to comply with and be bound by these Terms of Service. If you do not agree to these terms, please do not use the website.
             </p>
 
             <h2 className="font-title text-base font-bold text-[#243044]">2. Purpose of the Platform</h2>
             <p>
-              NEET Mnemo is an independent educational revision companion created to assist students in preparing for the Biology portion of the NEET UG examination through memory techniques and active recall exercises.
+              NEETMONIC is an independent educational revision companion created to assist students in preparing for the Biology portion of the NEET UG examination through memory techniques and active recall exercises.
             </p>
 
             <h2 className="font-title text-base font-bold text-[#243044]">3. Intellectual Property &amp; Fair Use</h2>
             <p>
-              The original mnemonic rhymes, memory aids, illustrations, and software interface of NEET Mnemo are protected by intellectual property rights. All scientific concepts, terms, and textbook references belong to their respective standard educational publications (primarily NCERT). Content is provided for individual, non-commercial educational study only.
+              The original mnemonic rhymes, memory aids, illustrations, and software interface of NEETMONIC are protected by intellectual property rights under AKSHDEV. All scientific concepts, terms, and textbook references belong to their respective standard educational publications (primarily NCERT). Content is provided for individual, non-commercial educational study only.
             </p>
 
             <h2 className="font-title text-base font-bold text-[#243044]">4. Limitation of Liability</h2>
             <p>
-              While every effort is made to maintain 100% fidelity to NCERT Class 11 and 12 Biology, NEET Mnemo does not guarantee specific examination scores or selection in competitive examinations. Learning outcomes depend on individual student dedication and practice.
+              While every effort is made to maintain 100% fidelity to NCERT Class 11 and 12 Biology, NEETMONIC does not guarantee specific examination scores or selection in competitive examinations. Learning outcomes depend on individual student dedication and practice.
             </p>
           </div>
         </article>
@@ -288,13 +288,13 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
             <div className="p-4 rounded-2xl bg-[#EFFBF4] border-2 border-[#3DBE75] flex items-start gap-3">
               <ShieldCheck className="w-5 h-5 text-[#3DBE75] shrink-0 mt-0.5" />
               <p className="text-[#243044] font-medium text-xs sm:text-sm">
-                <strong>100% Biology-Only Focus:</strong> NEET Mnemo is exclusively devoted to NEET Biology (Botany &amp; Zoology). We do not provide Physics or Chemistry materials.
+                <strong>100% Biology-Only Focus:</strong> NEETMONIC is exclusively devoted to NEET Biology (Botany &amp; Zoology). We do not provide Physics or Chemistry materials.
               </p>
             </div>
 
             <h2 className="font-title text-base font-bold text-[#243044]">1. Non-Affiliation Statement</h2>
             <p>
-              NEET Mnemo is an independent educational revision resource. We are <strong>not affiliated, endorsed, or officially connected with</strong> the National Testing Agency (NTA), the National Medical Commission (NMC), or the National Council of Educational Research and Training (NCERT). "NEET" is a registered trademark of the National Testing Agency.
+              NEETMONIC is an independent educational revision resource under the AKSHDEV parent brand. We are <strong>not affiliated, endorsed, or officially connected with</strong> the National Testing Agency (NTA), the National Medical Commission (NMC), or the National Council of Educational Research and Training (NCERT). "NEET" is a registered trademark of the National Testing Agency.
             </p>
 
             <h2 className="font-title text-base font-bold text-[#243044]">2. Syllabus Fidelity</h2>
@@ -332,10 +332,10 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
                 For academic inquiries, corrections, or feature requests:
               </p>
               <a 
-                href="mailto:contact@neetmnemo.akshdev.site" 
+                href="mailto:contact@neetmonic.akshdev.site" 
                 className="font-mono text-xs font-bold text-[#3DBE75] hover:underline block"
               >
-                contact@neetmnemo.akshdev.site
+                contact@neetmonic.akshdev.site
               </a>
             </div>
 

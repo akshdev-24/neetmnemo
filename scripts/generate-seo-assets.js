@@ -8,7 +8,7 @@ import { MNEMONICS } from '../src/data/mnemonics.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const BASE_URL = 'https://neetmnemo.akshdev.site';
+const BASE_URL = 'https://neetmonic.akshdev.site';
 
 function generateSitemap() {
   const publicDir = path.resolve(__dirname, '../public');
@@ -20,6 +20,8 @@ function generateSitemap() {
 
   // 1. Core High-Priority Biology Pages
   urls.push({ loc: `${BASE_URL}/`, changefreq: 'daily', priority: '1.0' });
+  urls.push({ loc: `${BASE_URL}/class-11-biology-mnemonics`, changefreq: 'weekly', priority: '0.9' });
+  urls.push({ loc: `${BASE_URL}/class-12-biology-mnemonics`, changefreq: 'weekly', priority: '0.9' });
   urls.push({ loc: `${BASE_URL}/chapters`, changefreq: 'weekly', priority: '0.9' });
   urls.push({ loc: `${BASE_URL}/revision`, changefreq: 'weekly', priority: '0.8' });
   urls.push({ loc: `${BASE_URL}/quiz`, changefreq: 'weekly', priority: '0.8' });
@@ -66,7 +68,7 @@ ${urls
   console.log(`✅ Generated sitemap.xml with ${urls.length} indexable canonical URLs.`);
 
   // 4. Generate robots.txt
-  const robotsTxt = `# NEET Mnemo Robots.txt (https://neetmnemo.akshdev.site)
+  const robotsTxt = `# NEETMONIC Robots.txt (https://neetmonic.akshdev.site)
 User-agent: *
 Allow: /
 Disallow: /favorites

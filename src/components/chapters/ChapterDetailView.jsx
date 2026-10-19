@@ -20,6 +20,7 @@ export function ChapterDetailView({
   onBack,
   onSelectMnemonic,
   onSelectChapter,
+  onNavigateClass,
   favorites = [],
   onToggleFavorite,
   onStartQuiz
@@ -37,7 +38,7 @@ export function ChapterDetailView({
   return (
     <article className="max-w-4xl mx-auto py-6 px-4 sm:px-6 space-y-6">
       
-      {/* Breadcrumb Bar */}
+      {/* Breadcrumb Bar with Class Collection Link */}
       <nav aria-label="Breadcrumb" className="flex items-center justify-between flex-wrap gap-2">
         <button
           onClick={onBack}
@@ -50,7 +51,12 @@ export function ChapterDetailView({
         <div className="text-xs font-mono text-[#667085] font-semibold flex items-center gap-1.5">
           <span>NEET Biology</span>
           <span>›</span>
-          <span className="text-[#243044] font-bold">Class {chapter.classLevel || 11}</span>
+          <button
+            onClick={() => onNavigateClass && onNavigateClass(chapter.classLevel === 12 ? 'class-12' : 'class-11')}
+            className="text-[#3DBE75] hover:underline font-bold"
+          >
+            Class {chapter.classLevel || 11} Mnemonics
+          </button>
           <span>›</span>
           <span className="text-[#243044] font-bold">{chapter.number}. {chapter.title}</span>
         </div>
@@ -58,9 +64,17 @@ export function ChapterDetailView({
 
       {/* Chapter Title & Overview Header */}
       <header className="p-6 sm:p-8 rounded-3xl bg-white border-2 border-[#243044] shadow-sketch space-y-3">
-        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#FFE681]/40 border border-[#FFE681] text-[#243044] font-title text-xs font-bold">
+        <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#FFE681]/40 border border-[#FFE681] text-[#243044] font-title text-xs font-bold flex-wrap">
           <GraduationCap className="w-4 h-4 text-[#FF8D78]" />
           <span>NEET Biology Chapter {chapter.number} • Class {chapter.classLevel || 11} NCERT</span>
+          {onNavigateClass && (
+            <button
+              onClick={() => onNavigateClass(chapter.classLevel === 12 ? 'class-12' : 'class-11')}
+              className="text-[#3DBE75] hover:underline font-bold text-[11px]"
+            >
+              (View Class {chapter.classLevel || 11} Hub →)
+            </button>
+          )}
         </div>
 
         <h1 className="font-title text-2xl sm:text-3xl font-extrabold text-[#243044]">
