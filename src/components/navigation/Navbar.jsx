@@ -13,7 +13,7 @@ export function Navbar({
 }) {
   const navItems = [
     { id: 'home', label: 'Home' },
-    { id: 'subjects', label: 'Subjects' },
+    { id: 'chapters', label: 'Biology Chapters' },
     { id: 'revision', label: 'Quick Revision' },
     { id: 'quiz', label: 'Quiz' },
     { id: 'about', label: 'About' },
@@ -37,11 +37,11 @@ export function Navbar({
           <div>
             <div className="flex items-center gap-1">
               <span className="font-title text-xl font-bold text-[#243044] tracking-tight">NEET</span>
-              <span className="font-title text-xl font-bold text-[#5B8DEF]">Mnemo</span>
+              <span className="font-title text-xl font-bold text-[#3DBE75]">Mnemo</span>
               <DoodleSparkle className="w-4 h-4 text-[#FFE681]" />
             </div>
             <p className="text-[10px] font-hand text-[#667085] leading-none hidden sm:block">
-              Remember More. Revise Faster.
+              NEET Biology Mnemonics &amp; NCERT Revision
             </p>
           </div>
         </button>

@@ -1,1 +1,13 @@
-/*    /index.html   200
+# Cloudflare Pages Redirects & Status Codes
+# Permanent 301s for consolidated Biology routes
+/biology           /chapters 301
+/subjects          /chapters 301
+
+# Removed Subject Routes return 404
+/physics           /404 404
+/chemistry         /404 404
+/chapters/phy-*    /404 404
+/chapters/chem-*   /404 404
+
+# SPA Fallback for HTML5 History API Routing
+/*                 /index.html 200

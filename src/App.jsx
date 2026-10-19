@@ -16,7 +16,7 @@ import { ProgressView } from './components/progress/ProgressView';
 import { AboutView } from './components/about/AboutView';
 import { SEOHead } from './components/seo/SEOHead';
 
-import { SUBJECTS } from './data/subjects';
+import { SUBJECTS, BIOLOGY_UNITS } from './data/subjects';
 import { CHAPTERS } from './data/chapters';
 import { MNEMONICS } from './data/mnemonics';
 import { REVISION_SETS } from './data/revisionSets';
@@ -28,7 +28,8 @@ import {
   Clock, 
   BookOpen, 
   ShieldCheck,
-  Heart
+  Heart,
+  Sprout
 } from 'lucide-react';
 import { DoodleSparkle } from './components/illustrations/DoodleIllustrations';
 
@@ -36,31 +37,27 @@ export default function App() {
   // Navigation State parsed from initial URL
   const initialNav = parsePath(typeof window !== 'undefined' ? window.location.pathname : '/');
 
-  const [currentRoute, setCurrentRoute] = useState(initialNav.route || 'home');
-  const [selectedSubjectId, setSelectedSubjectId] = useState(
-    initialNav.subjectId || 'physics'
+  const [currentRoute, setCurrentRoute] = useState(
+    initialNav.route || 'home'
   );
-  const [selectedChapterId, setSelectedChapterId] = useState(
-    initialNav.chapterId || null
-  );
-  const [selectedMnemonicId, setSelectedMnemonicId] = useState(
-    initialNav.mnemonicId || null
-  );
-  const [quizSubjectFilter, setQuizSubjectFilter] = useState('all');
+  const [selectedSubjectId, setSelectedSubjectId] = useState('biology');
+  const [selectedChapterId, setSelectedChapterId] = useState(initialNav.chapterId || null);
+  const [selectedMnemonicId, setSelectedMnemonicId] = useState(initialNav.mnemonicId || null);
+  const [aboutActiveTab, setAboutActiveTab] = useState(initialNav.tab || 'about');
+  const [quizSubjectFilter, setQuizSubjectFilter] = useState('biology');
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
-  // If initial load targeted a mnemonic or chapter, resolve its subject
+  // If initial load targeted a mnemonic or chapter, resolve its chapter
   useEffect(() => {
     if (initialNav.mnemonicId) {
       const mnemo = MNEMONICS.find((m) => m.id === initialNav.mnemonicId);
       if (mnemo) {
-        setSelectedSubjectId(mnemo.subject);
         setSelectedChapterId(mnemo.chapterId);
       }
     } else if (initialNav.chapterId) {
       const ch = CHAPTERS.find((c) => c.id === initialNav.chapterId);
       if (ch) {
-        setSelectedSubjectId(ch.subject);
+        setSelectedChapterId(ch.id);
       }
     }
   }, []);
@@ -69,18 +66,16 @@ export default function App() {
   useEffect(() => {
     const handlePopState = () => {
       const parsed = parsePath(window.location.pathname);
+
       setCurrentRoute(parsed.route);
-      if (parsed.subjectId) setSelectedSubjectId(parsed.subjectId);
+      if (parsed.tab) setAboutActiveTab(parsed.tab);
       if (parsed.chapterId) {
         setSelectedChapterId(parsed.chapterId);
-        const ch = CHAPTERS.find((c) => c.id === parsed.chapterId);
-        if (ch) setSelectedSubjectId(ch.subject);
       }
       if (parsed.mnemonicId) {
         setSelectedMnemonicId(parsed.mnemonicId);
         const mnemo = MNEMONICS.find((m) => m.id === parsed.mnemonicId);
         if (mnemo) {
-          setSelectedSubjectId(mnemo.subject);
           setSelectedChapterId(mnemo.chapterId);
         }
       }
@@ -182,46 +177,48 @@ export default function App() {
   };
 
   // Navigation Handlers
-  const handleNavigate = (route) => {
-    if (['physics', 'chemistry', 'biology'].includes(route)) {
-      setSelectedSubjectId(route);
-      setCurrentRoute(route);
-      pushRoute(route, { subjectId: route });
-    } else {
-      setCurrentRoute(route);
-      pushRoute(route);
-    }
-  };
+  const handleNavigate = (route, params = {}) => {
 
-  const handleSelectSubject = (subjectId) => {
-    setSelectedSubjectId(subjectId);
-    setCurrentRoute(subjectId);
-    pushRoute(subjectId, { subjectId });
+
+    if (['subjects', 'biology', 'chapters'].includes(route)) {
+      setCurrentRoute('chapters');
+      pushRoute('chapters');
+      return;
+    }
+
+    if (['about', 'privacy', 'terms', 'disclaimer', 'contact'].includes(route)) {
+      const tab = ['privacy', 'terms', 'disclaimer', 'contact'].includes(route) ? route : (params.tab || 'about');
+      setAboutActiveTab(tab);
+      setCurrentRoute('about');
+      pushRoute('about', { tab });
+      return;
+    }
+
+    setCurrentRoute(route);
+    pushRoute(route, params);
   };
 
   const handleSelectChapter = (chapter) => {
     setSelectedChapterId(chapter.id);
-    setSelectedSubjectId(chapter.subject);
     setCurrentRoute('chapter');
     pushRoute('chapter', { chapterId: chapter.id });
   };
 
   const handleSelectMnemonic = (mnemonic) => {
     setSelectedMnemonicId(mnemonic.id);
-    setSelectedSubjectId(mnemonic.subject);
     setSelectedChapterId(mnemonic.chapterId);
     setCurrentRoute('mnemonic');
     pushRoute('mnemonic', { mnemonicId: mnemonic.id });
   };
 
-  const handleStartQuiz = (subject = 'all') => {
-    setQuizSubjectFilter(subject);
+  const handleStartQuiz = (subject = 'biology') => {
+    setQuizSubjectFilter('biology');
     setCurrentRoute('quiz');
     pushRoute('quiz');
   };
 
   // Active items lookup
-  const activeSubject = SUBJECTS.find((s) => s.id === selectedSubjectId) || SUBJECTS[0];
+  const activeSubject = SUBJECTS[0];
   const activeChapter = CHAPTERS.find((c) => c.id === selectedChapterId) || CHAPTERS[0];
   const activeMnemonic = MNEMONICS.find((m) => m.id === selectedMnemonicId) || (MNEMONICS.length > 0 ? MNEMONICS[0] : null);
 
@@ -253,6 +250,7 @@ export default function App() {
         subject={activeSubject}
         chapter={activeChapter}
         mnemonic={activeMnemonic}
+        tab={aboutActiveTab}
       />
 
       {/* Top Main Navigation Header */}
@@ -277,12 +275,15 @@ export default function App() {
             
             {/* Hero Section */}
             <HeroSection
-              onExploreSubjects={() => handleNavigate('subjects')}
+              onExploreSubjects={() => handleNavigate('chapters')}
               onStartRevision={() => handleNavigate('revision')}
             />
 
-            {/* Subject Selection (Physics, Chemistry, Biology) */}
-            <SubjectCardsSection onSelectSubject={handleSelectSubject} />
+            {/* 10 NCERT Biology Units Showcase */}
+            <SubjectCardsSection 
+              onSelectSubject={() => handleNavigate('chapters')} 
+              onSelectUnit={(unitId) => handleNavigate('chapters')}
+            />
 
             {/* Popular Visual Mnemonics Feed */}
             <section className="py-6 space-y-4">
@@ -290,16 +291,16 @@ export default function App() {
                 <div>
                   <h2 className="font-title text-2xl font-bold text-[#243044] flex items-center gap-2">
                     <Sparkles className="w-5 h-5 text-[#FFE681]" />
-                    <span>High-Yield NEET Mnemonics</span>
+                    <span>High-Yield NEET Biology Mnemonics</span>
                   </h2>
                   <p className="text-xs text-[#667085] font-sans">
-                    Handcrafted visual memory hooks from NCERT textbooks.
+                    Handcrafted visual memory hooks from NCERT Class 11 &amp; 12 textbooks.
                   </p>
                 </div>
 
                 <button
                   onClick={() => handleNavigate('search')}
-                  className="text-xs font-title font-bold text-[#5B8DEF] hover:underline flex items-center gap-1"
+                  className="text-xs font-title font-bold text-[#3DBE75] hover:underline flex items-center gap-1"
                 >
                   <span>View All ({MNEMONICS.length})</span>
                   <ArrowRight className="w-3.5 h-3.5" />
@@ -320,10 +321,7 @@ export default function App() {
                 ) : (
                   <div className="col-span-full p-8 rounded-3xl bg-white border-2 border-dashed border-[#243044]/30 text-center space-y-2">
                     <p className="font-title text-sm font-bold text-[#243044]">
-                      No visual mnemonics currently available
-                    </p>
-                    <p className="text-xs text-[#667085]">
-                      All mnemonics have been cleared across subjects and chapters.
+                      No visual mnemonics currently loaded
                     </p>
                   </div>
                 )}
@@ -338,7 +336,7 @@ export default function App() {
                     ⚡ Fast Recall
                   </span>
                   <h3 className="font-title text-xl font-bold text-[#243044]">
-                    Quick Revision Sprints
+                    Quick Biology Revision Sprints
                   </h3>
                 </div>
 
@@ -377,33 +375,22 @@ export default function App() {
         )}
 
         {/* =========================================================================
-            2. ALL SUBJECTS OVERVIEW
+            2. ALL 32 BIOLOGY CHAPTERS OVERVIEW
            ========================================================================= */}
-        {currentRoute === 'subjects' && (
-          <AllSubjectsView onSelectSubject={handleSelectSubject} />
-        )}
-
-        {/* =========================================================================
-            3. DEDICATED SUBJECT PAGE (Physics, Chemistry, Biology)
-           ========================================================================= */}
-        {['physics', 'chemistry', 'biology'].includes(currentRoute) && (
-          <SubjectView
-            subject={activeSubject}
-            onBack={() => handleNavigate('subjects')}
+        {(currentRoute === 'chapters' || currentRoute === 'subjects' || currentRoute === 'biology') && (
+          <AllSubjectsView 
             onSelectChapter={handleSelectChapter}
-            onSelectMnemonic={handleSelectMnemonic}
-            favorites={favorites}
-            onToggleFavorite={handleToggleFavorite}
+            onSelectUnit={() => {}}
           />
         )}
 
         {/* =========================================================================
-            4. CHAPTER DETAIL PAGE
+            3. CHAPTER DETAIL PAGE
            ========================================================================= */}
         {currentRoute === 'chapter' && (
           <ChapterDetailView
             chapter={activeChapter}
-            onBack={() => handleNavigate(activeChapter.subject)}
+            onBack={() => handleNavigate('chapters')}
             onSelectMnemonic={handleSelectMnemonic}
             onSelectChapter={handleSelectChapter}
             favorites={favorites}
@@ -413,12 +400,12 @@ export default function App() {
         )}
 
         {/* =========================================================================
-            5. MNEMONIC DETAIL PAGE
+            4. MNEMONIC DETAIL PAGE
            ========================================================================= */}
         {currentRoute === 'mnemonic' && (
           <MnemonicDetailView
             mnemonic={activeMnemonic}
-            onBack={() => handleNavigate(activeMnemonic?.subject || 'subjects')}
+            onBack={() => handleNavigate('chapters')}
             onPrev={handlePrevMnemonic}
             onNext={handleNextMnemonic}
             hasPrev={hasPrevMnemonic}
@@ -434,7 +421,7 @@ export default function App() {
         )}
 
         {/* =========================================================================
-            6. SEARCH PAGE
+            5. SEARCH PAGE
            ========================================================================= */}
         {currentRoute === 'search' && (
           <SearchView
@@ -445,7 +432,7 @@ export default function App() {
         )}
 
         {/* =========================================================================
-            7. FAVORITES ("My Memory Shelf")
+            6. FAVORITES ("My Memory Shelf")
            ========================================================================= */}
         {currentRoute === 'favorites' && (
           <FavoritesView
@@ -457,7 +444,7 @@ export default function App() {
         )}
 
         {/* =========================================================================
-            8. REVISION SPRINTS
+            7. REVISION SPRINTS
            ========================================================================= */}
         {currentRoute === 'revision' && (
           <RevisionModeView
@@ -469,7 +456,7 @@ export default function App() {
         )}
 
         {/* =========================================================================
-            9. INTERACTIVE QUIZ
+            8. INTERACTIVE QUIZ
            ========================================================================= */}
         {currentRoute === 'quiz' && (
           <QuizView
@@ -481,7 +468,7 @@ export default function App() {
         )}
 
         {/* =========================================================================
-            10. PROGRESS DASHBOARD
+            9. PROGRESS DASHBOARD
            ========================================================================= */}
         {currentRoute === 'progress' && (
           <ProgressView
@@ -494,10 +481,13 @@ export default function App() {
         )}
 
         {/* =========================================================================
-            11. ABOUT & SYLLABUS COMPLIANCE
+            10. ABOUT, PRIVACY, TERMS, DISCLAIMER & CONTACT
            ========================================================================= */}
         {currentRoute === 'about' && (
-          <AboutView onNavigate={handleNavigate} />
+          <AboutView 
+            onNavigate={handleNavigate} 
+            initialTab={aboutActiveTab}
+          />
         )}
 
       </main>
@@ -519,38 +509,38 @@ export default function App() {
             <div className="space-y-2 md:col-span-1">
               <div className="flex items-center gap-1.5">
                 <span className="font-title text-lg font-bold text-[#243044]">NEET</span>
-                <span className="font-title text-lg font-bold text-[#5B8DEF]">Mnemo</span>
+                <span className="font-title text-lg font-bold text-[#3DBE75]">Mnemo</span>
                 <DoodleSparkle className="w-4 h-4 text-[#FFE681]" />
               </div>
               <p className="text-xs text-[#667085] font-sans leading-relaxed">
-                Visual mnemonics, illustrated memory tricks & formula hooks strictly mapped to NCERT Physics, Chemistry & Biology.
+                Handcrafted visual mnemonics, illustrated memory tricks &amp; chapter-wise study tools strictly mapped to NCERT Class 11 &amp; 12 Biology (Botany &amp; Zoology).
               </p>
             </div>
 
-            {/* Subjects Column */}
+            {/* Biology Units Column */}
             <div className="space-y-2">
               <h4 className="font-title text-xs font-bold text-[#243044] uppercase tracking-wider">
-                Subjects
+                Biology Units
               </h4>
               <ul className="space-y-1.5 text-xs font-title font-semibold text-[#667085]">
                 <li>
-                  <button onClick={() => handleNavigate('biology')} className="hover:text-[#3DBE75] transition-colors">
-                    NEET Biology Mnemonics
+                  <button onClick={() => handleNavigate('chapters')} className="hover:text-[#3DBE75] transition-colors text-left">
+                    Diversity in Living World (Ch 1–4)
                   </button>
                 </li>
                 <li>
-                  <button onClick={() => handleNavigate('chemistry')} className="hover:text-[#A66CFF] transition-colors">
-                    NEET Chemistry Tricks
+                  <button onClick={() => handleNavigate('chapters')} className="hover:text-[#3DBE75] transition-colors text-left">
+                    Plant &amp; Human Physiology
                   </button>
                 </li>
                 <li>
-                  <button onClick={() => handleNavigate('physics')} className="hover:text-[#5B8DEF] transition-colors">
-                    NEET Physics Formulas
+                  <button onClick={() => handleNavigate('chapters')} className="hover:text-[#3DBE75] transition-colors text-left">
+                    Genetics, Evolution &amp; Biotech
                   </button>
                 </li>
                 <li>
-                  <button onClick={() => handleNavigate('subjects')} className="hover:text-[#243044] transition-colors">
-                    All Subjects Overview
+                  <button onClick={() => handleNavigate('chapters')} className="hover:text-[#243044] transition-colors text-left">
+                    All 32 Biology Chapters →
                   </button>
                 </li>
               </ul>
@@ -579,32 +569,42 @@ export default function App() {
                 </li>
                 <li>
                   <button onClick={() => handleNavigate('progress')} className="hover:text-[#243044] transition-colors">
-                    Streak & XP Tracker
+                    Streak &amp; XP Tracker
                   </button>
                 </li>
               </ul>
             </div>
 
-            {/* About & Syllabus Column */}
+            {/* Trust & Legal Column */}
             <div className="space-y-2">
               <h4 className="font-title text-xs font-bold text-[#243044] uppercase tracking-wider">
-                About & NCERT
+                Trust &amp; Policies
               </h4>
               <ul className="space-y-1.5 text-xs font-title font-semibold text-[#667085]">
                 <li>
-                  <button onClick={() => handleNavigate('about')} className="hover:text-[#5B8DEF] transition-colors">
+                  <button onClick={() => handleNavigate('about')} className="hover:text-[#3DBE75] transition-colors">
                     About NEET Mnemo
                   </button>
                 </li>
                 <li>
-                  <span className="text-[#667085] flex items-center gap-1">
-                    <ShieldCheck className="w-3.5 h-3.5 text-[#3DBE75]" /> 100% NCERT Scope
-                  </span>
+                  <button onClick={() => handleNavigate('privacy')} className="hover:text-[#3DBE75] transition-colors">
+                    Privacy Policy
+                  </button>
                 </li>
                 <li>
-                  <span className="text-[#667085]">
-                    Class 11 & 12 Syllabus
-                  </span>
+                  <button onClick={() => handleNavigate('terms')} className="hover:text-[#3DBE75] transition-colors">
+                    Terms of Service
+                  </button>
+                </li>
+                <li>
+                  <button onClick={() => handleNavigate('disclaimer')} className="hover:text-[#3DBE75] transition-colors">
+                    Disclaimer &amp; NCERT Scope
+                  </button>
+                </li>
+                <li>
+                  <button onClick={() => handleNavigate('contact')} className="hover:text-[#3DBE75] transition-colors">
+                    Contact Us
+                  </button>
                 </li>
               </ul>
             </div>
@@ -613,7 +613,7 @@ export default function App() {
 
           <div className="pt-6 border-t border-[#E8E4D9] flex flex-col sm:flex-row items-center justify-between gap-3 text-[11px] font-mono text-[#667085]">
             <div>
-              © {new Date().getFullYear()} NEET Mnemo • Visual Learning & Memory Platform for NEET UG
+              © {new Date().getFullYear()} NEET Mnemo • Visual Learning &amp; Memory Platform for NEET UG Biology
             </div>
             <div className="flex items-center gap-2">
               <span>Zero invented facts • 100% NCERT verified</span>

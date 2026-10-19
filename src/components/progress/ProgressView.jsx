@@ -8,12 +8,10 @@ import {
   Clock, 
   Award,
   Sparkles,
-  Atom,
-  FlaskConical,
   Sprout
 } from 'lucide-react';
 import { MNEMONICS } from '../../data/mnemonics';
-import { SUBJECTS } from '../../data/subjects';
+import { BIOLOGY_UNITS } from '../../data/subjects';
 import { DoodleBrainMascot } from '../illustrations/DoodleIllustrations';
 
 export function ProgressView({
@@ -25,18 +23,17 @@ export function ProgressView({
 }) {
   const totalMnemonics = MNEMONICS.length;
   const learnedCount = learnedIds.length;
-  const needsRevisionCount = totalMnemonics - learnedCount;
 
-  // Subject wise statistics
-  const subjectStats = SUBJECTS.map((sub) => {
-    const totalInSub = MNEMONICS.filter((m) => m.subject === sub.id).length;
-    const learnedInSub = MNEMONICS.filter((m) => m.subject === sub.id && learnedIds.includes(m.id)).length;
-    const percent = totalInSub > 0 ? Math.round((learnedInSub / totalInSub) * 100) : 0;
+  // Unit wise statistics across the 10 NCERT Biology Units
+  const unitStats = BIOLOGY_UNITS.map((unit) => {
+    const totalInUnit = MNEMONICS.filter((m) => unit.chapterIds.includes(m.chapterId)).length;
+    const learnedInUnit = MNEMONICS.filter((m) => unit.chapterIds.includes(m.chapterId) && learnedIds.includes(m.id)).length;
+    const percent = totalInUnit > 0 ? Math.round((learnedInUnit / totalInUnit) * 100) : 0;
 
     return {
-      ...sub,
-      total: totalInSub,
-      learned: learnedInSub,
+      ...unit,
+      total: totalInUnit,
+      learned: learnedInUnit,
       percent
     };
   });
@@ -49,13 +46,13 @@ export function ProgressView({
         <div className="space-y-1 text-center sm:text-left">
           <div className="inline-flex items-center gap-1.5 px-3 py-0.5 rounded-full bg-[#FFE681] border border-[#243044] font-title text-xs font-bold text-[#243044]">
             <BarChart2 className="w-3.5 h-3.5" />
-            <span>Learning Dashboard</span>
+            <span>Biology Learning Dashboard</span>
           </div>
           <h1 className="font-title text-2xl sm:text-3xl font-bold text-[#243044]">
-            Your NEET Mastery Track
+            Your NEET Biology Mastery
           </h1>
           <p className="text-xs sm:text-sm text-[#667085] font-sans">
-            Every statistic here reflects your genuine study progress saved in your browser.
+            Track your recall progress, streaks, and mastery across all 10 NCERT units.
           </p>
         </div>
 
@@ -82,7 +79,7 @@ export function ProgressView({
             <Zap className="w-4 h-4 text-[#FFE681] fill-[#FFE681]" />
           </div>
           <div className="font-title text-3xl font-bold text-[#243044]">{xp} XP</div>
-          <span className="text-[10px] font-mono text-[#5B8DEF] font-bold">Level 3 Aspirant</span>
+          <span className="text-[10px] font-mono text-[#5B8DEF] font-bold">Biology Scholar</span>
         </div>
 
         {/* Mastered */}
@@ -107,27 +104,32 @@ export function ProgressView({
 
       </div>
 
-      {/* Subject-Wise Mastery Bars */}
+      {/* 10 Biology Units Mastery Bars */}
       <div className="p-6 rounded-3xl bg-white border-2 border-[#243044] shadow-sketch space-y-6">
-        <h2 className="font-title text-xl font-bold text-[#243044] flex items-center gap-2">
-          <Sparkles className="w-5 h-5 text-[#FFE681]" />
-          <span>Subject Mastery Breakdown</span>
-        </h2>
+        <div className="flex items-center justify-between">
+          <h2 className="font-title text-xl font-bold text-[#243044] flex items-center gap-2">
+            <Sparkles className="w-5 h-5 text-[#FFE681]" />
+            <span>NCERT Biology Units Mastery</span>
+          </h2>
+          <span className="text-xs font-mono font-bold text-[#667085]">
+            10 Units • 32 Chapters
+          </span>
+        </div>
 
         <div className="space-y-4">
-          {subjectStats.map((sub) => (
-            <div key={sub.id} className="space-y-1.5">
+          {unitStats.map((unit) => (
+            <div key={unit.id} className="space-y-1.5">
               <div className="flex items-center justify-between text-xs font-title font-bold text-[#243044]">
-                <span className="capitalize">{sub.name}</span>
-                <span className="font-mono text-[#667085]">{sub.learned} / {sub.total} Learned ({sub.percent}%)</span>
+                <span>Unit {unit.number}: {unit.title} (Class {unit.classLevel})</span>
+                <span className="font-mono text-[#667085]">{unit.learned} / {unit.total} Learned ({unit.percent}%)</span>
               </div>
               
               <div className="w-full h-3 rounded-full bg-[#E8E4D9] overflow-hidden p-0.5 border border-[#243044]/10">
                 <div 
                   className="h-full rounded-full transition-all duration-500"
                   style={{ 
-                    width: `${Math.max(8, sub.percent)}%`,
-                    backgroundColor: sub.accentColor 
+                    width: `${Math.max(5, unit.percent)}%`,
+                    backgroundColor: unit.color 
                   }}
                 />
               </div>

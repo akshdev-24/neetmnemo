@@ -8,25 +8,11 @@ export function MnemonicCard({
   onToggleFavorite,
   onOpenDetail
 }) {
-  const subjectThemes = {
-    physics: {
-      badgeBg: 'bg-[#EDF4FF] text-[#5B8DEF] border-[#5B8DEF]',
-      accentColor: '#5B8DEF',
-      tagBg: 'bg-[#DCE8FF] text-[#243044]',
-    },
-    chemistry: {
-      badgeBg: 'bg-[#F7F0FF] text-[#A66CFF] border-[#A66CFF]',
-      accentColor: '#A66CFF',
-      tagBg: 'bg-[#EFE4FF] text-[#243044]',
-    },
-    biology: {
-      badgeBg: 'bg-[#EFFBF4] text-[#3DBE75] border-[#3DBE75]',
-      accentColor: '#3DBE75',
-      tagBg: 'bg-[#DDF7E8] text-[#243044]',
-    },
+  const theme = {
+    badgeBg: 'bg-[#EFFBF4] text-[#3DBE75] border-[#3DBE75]',
+    accentColor: '#3DBE75',
+    tagBg: 'bg-[#DDF7E8] text-[#243044]',
   };
-
-  const theme = subjectThemes[mnemonic.subject] || subjectThemes.physics;
 
   return (
     <div

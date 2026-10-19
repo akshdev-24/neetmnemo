@@ -62,7 +62,7 @@ export function FavoritesView({
             Your Memory Shelf is Empty!
           </h3>
           <p className="text-xs text-[#667085] font-sans leading-relaxed">
-            Tap the bookmark icon on any mnemonic card to pin formulas, plant hormones, or periodic trends to your personal shelf.
+            Tap the bookmark icon on any mnemonic card to pin taxonomy rules, plant hormones, cardiac valves, or genetics crosses to your personal shelf.
           </p>
         </div>
       )}

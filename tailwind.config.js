@@ -21,20 +21,7 @@ export default {
           border: '#E8E4D9',
           card: '#FFFFFF',
         },
-        physics: {
-          DEFAULT: '#5B8DEF',
-          light: '#DCE8FF',
-          bg: '#EDF4FF',
-          border: '#B3CEFF',
-          dark: '#3A6ED8',
-        },
-        chemistry: {
-          DEFAULT: '#A66CFF',
-          light: '#EFE4FF',
-          bg: '#F7F0FF',
-          border: '#D7BEFF',
-          dark: '#8541EB',
-        },
+
         biology: {
           DEFAULT: '#3DBE75',
           light: '#DDF7E8',

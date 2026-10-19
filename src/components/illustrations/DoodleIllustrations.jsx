@@ -67,39 +67,39 @@ export function DoodleBooksStack({ className = "w-28 h-28" }) {
   return (
     <div className={`relative flex items-center justify-center select-none ${className}`}>
       <svg viewBox="0 0 160 160" fill="none" className="w-full h-full drop-shadow-sm">
-        {/* BOTTOM BOOK: BIOLOGY (Green) */}
+        {/* BOTTOM BOOK: BOTANY (Green) */}
         <g transform="translate(10, 88) rotate(-2 70 20)">
           {/* Pages */}
           <path d="M25 15 L125 15 L125 32 L25 32 Z" fill="#FFFDF7" stroke="#243044" strokeWidth="3.5" />
           {/* Cover */}
           <path d="M20 12 L128 12 L128 35 L20 35 Q15 24 20 12 Z" fill="#78D6A3" stroke="#243044" strokeWidth="4" strokeLinejoin="round" />
           {/* Spine text */}
-          <text x="40" y="27" fill="#243044" fontSize="10" fontWeight="bold" fontFamily="Fredoka, sans-serif" letterSpacing="1">
-            BIOLOGY
+          <text x="42" y="27" fill="#243044" fontSize="10" fontWeight="bold" fontFamily="Fredoka, sans-serif" letterSpacing="1">
+            BOTANY
           </text>
         </g>
 
-        {/* MIDDLE BOOK: CHEMISTRY (Purple) */}
+        {/* MIDDLE BOOK: ZOOLOGY (Soft Pink / Coral) */}
         <g transform="translate(14, 58) rotate(3 70 20)">
           {/* Pages */}
           <path d="M25 15 L122 15 L122 30 L25 30 Z" fill="#FFFDF7" stroke="#243044" strokeWidth="3.5" />
           {/* Cover */}
-          <path d="M20 12 L125 12 L125 33 L20 33 Q15 23 20 12 Z" fill="#B69CFF" stroke="#243044" strokeWidth="4" strokeLinejoin="round" />
+          <path d="M20 12 L125 12 L125 33 L20 33 Q15 23 20 12 Z" fill="#FF9FB2" stroke="#243044" strokeWidth="4" strokeLinejoin="round" />
           {/* Spine text */}
-          <text x="36" y="26" fill="#243044" fontSize="9.5" fontWeight="bold" fontFamily="Fredoka, sans-serif" letterSpacing="1">
-            CHEMISTRY
+          <text x="38" y="26" fill="#243044" fontSize="9.5" fontWeight="bold" fontFamily="Fredoka, sans-serif" letterSpacing="1">
+            ZOOLOGY
           </text>
         </g>
 
-        {/* TOP BOOK: PHYSICS (Blue) */}
+        {/* TOP BOOK: MNEMONICS (Warm Yellow) */}
         <g transform="translate(12, 28) rotate(-1 70 20)">
           {/* Pages */}
           <path d="M25 15 L120 15 L120 30 L25 30 Z" fill="#FFFDF7" stroke="#243044" strokeWidth="3.5" />
           {/* Cover */}
-          <path d="M20 12 L123 12 L123 33 L20 33 Q15 23 20 12 Z" fill="#8DD8FF" stroke="#243044" strokeWidth="4" strokeLinejoin="round" />
+          <path d="M20 12 L123 12 L123 33 L20 33 Q15 23 20 12 Z" fill="#FFE681" stroke="#243044" strokeWidth="4" strokeLinejoin="round" />
           {/* Spine text */}
-          <text x="42" y="26" fill="#243044" fontSize="10" fontWeight="bold" fontFamily="Fredoka, sans-serif" letterSpacing="1">
-            PHYSICS
+          <text x="32" y="26" fill="#243044" fontSize="9" fontWeight="bold" fontFamily="Fredoka, sans-serif" letterSpacing="1">
+            MNEMONICS
           </text>
         </g>
       </svg>

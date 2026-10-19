@@ -1,30 +1,35 @@
+/**
+ * High-Yield NEET Biology Quick Revision Sets
+ * Timed active recall sprints mapped to NCERT Biology
+ */
+
 export const REVISION_SETS = [
   {
     id: 'rev-5min',
     title: '5-Minute Rapid Sprint',
-    description: 'Quick morning warmup across high-frequency Physics, Chemistry & Biology memory hooks.',
+    description: 'Quick morning warmup across high-frequency Botany and Zoology memory hooks.',
     duration: '5 Mins',
     itemsCount: 5,
     accent: '#FF8D78',
     bg: '#FFF0ED',
-    subjectFilter: 'all',
+    subjectFilter: 'biology',
     icon: 'zap'
   },
   {
     id: 'rev-10min',
     title: '10-Minute Power Deck',
-    description: 'Balanced daily review deck with 10 essential NCERT mnemonics & trap alerts.',
+    description: 'Balanced daily review deck with 10 essential NCERT Biology mnemonics & trap alerts.',
     duration: '10 Mins',
     itemsCount: 10,
     accent: '#FFE681',
     bg: '#FFFBE6',
-    subjectFilter: 'all',
+    subjectFilter: 'biology',
     icon: 'clock'
   },
   {
-    id: 'rev-bio-sprint',
-    title: 'Quick Biology Sprint',
-    description: 'Taxonomy ladder, hormone master functions, PMAT mitosis, and cardiac valve sequences.',
+    id: 'rev-plant-physio',
+    title: 'Plant Physiology Sprint',
+    description: 'Light reactions Z-scheme, Calvin cycle, glycolysis, Krebs cycle & plant hormone functions.',
     duration: '6 Mins',
     itemsCount: 6,
     accent: '#3DBE75',
@@ -33,36 +38,36 @@ export const REVISION_SETS = [
     icon: 'leaf'
   },
   {
-    id: 'rev-formula-sprint',
-    title: 'Formula Sprint (Physics)',
-    description: 'SUVAT kinematics, dimensional homogeneity, friction hierarchy, and escape velocity ratios.',
+    id: 'rev-human-physio',
+    title: 'Human Physiology Sprint',
+    description: 'Cardiac cycle valves, respiratory volumes, nephron RAAS, sliding filament & adrenal layers.',
     duration: '7 Mins',
     itemsCount: 6,
     accent: '#5B8DEF',
     bg: '#EDF4FF',
-    subjectFilter: 'physics',
-    icon: 'atom'
+    subjectFilter: 'biology',
+    icon: 'heart'
   },
   {
-    id: 'rev-organic-sprint',
-    title: 'Organic Reaction Sprint',
-    description: 'Aldol vs Cannizzaro Alpha-H test, carbocation stability, and spectrochemical series.',
+    id: 'rev-genetics-sprint',
+    title: 'Genetics & Molecular Sprint',
+    description: 'Mendelian ratios, Central Dogma, Lac operon enzymes, genetic code and aneuploidies.',
     duration: '6 Mins',
-    itemsCount: 5,
+    itemsCount: 6,
     accent: '#A66CFF',
     bg: '#F7F0FF',
-    subjectFilter: 'chemistry',
-    icon: 'flask'
+    subjectFilter: 'biology',
+    icon: 'dna'
   },
   {
     id: 'rev-ncert-facts',
-    title: 'NCERT Facts Sprint',
-    description: 'Strict NCERT line-by-line exceptions, textbook tables, and high-yield numerical facts.',
+    title: 'NCERT Ecology & Diversity',
+    description: 'Taxonomic hierarchy, Whittaker 5 kingdoms, Evil Quartet and biodiversity conservation.',
     duration: '8 Mins',
     itemsCount: 8,
     accent: '#8DD8FF',
     bg: '#F0F9FF',
-    subjectFilter: 'all',
+    subjectFilter: 'biology',
     icon: 'bookmark'
   }
 ];

@@ -10,17 +10,19 @@ export function SearchView({
   onToggleFavorite
 }) {
   const [searchQuery, setSearchQuery] = useState(initialQuery);
-  const [selectedSubject, setSelectedSubject] = useState('all');
+  const [selectedClass, setSelectedClass] = useState('all');
 
   const popularKeywords = [
-    'SI Units', 'SUVAT', 'PMAT', 'Taxonomy', 'Aldol', 
-    'Plant Hormones', 'Heart Valves', 'Ionization', 'Friction', 'Escape Velocity'
+    'Taxonomy', 'Algae Pigments', 'PMAT Mitosis', 'Plant Hormones', 
+    'Heart Valves', 'Lac Operon', 'Krebs Cycle', 'Evil Quartet', 
+    'Adrenal Cortex', 'Placentation', 'Antibodies'
   ];
 
   const searchResults = useMemo(() => {
     return MNEMONICS.filter((item) => {
-      if (selectedSubject !== 'all' && item.subject !== selectedSubject) {
-        return false;
+      if (selectedClass !== 'all') {
+        const targetClass = parseInt(selectedClass, 10);
+        if (item.classLevel !== targetClass) return false;
       }
       if (!searchQuery.trim()) return true;
 
@@ -31,11 +33,11 @@ export function SearchView({
       const matchHook = item.memoryHook?.toLowerCase().includes(q);
       const matchTopic = item.topicTitle.toLowerCase().includes(q);
       const matchChapter = item.chapterTitle.toLowerCase().includes(q);
-      const matchTags = item.tags.some((t) => t.toLowerCase().includes(q));
+      const matchTags = item.tags ? item.tags.some((t) => t.toLowerCase().includes(q)) : false;
 
       return matchTitle || matchMnemo || matchFact || matchHook || matchTopic || matchChapter || matchTags;
     });
-  }, [searchQuery, selectedSubject]);
+  }, [searchQuery, selectedClass]);
 
   return (
     <div className="max-w-4xl mx-auto py-6 px-4 sm:px-6 space-y-6">
@@ -43,10 +45,10 @@ export function SearchView({
       {/* Search Header */}
       <div className="text-center space-y-2">
         <h1 className="font-title text-2xl sm:text-3xl font-bold text-[#243044]">
-          Search <span className="hl-yellow">Visual Mnemonics</span>
+          Search <span className="hl-yellow">Biology Mnemonics</span>
         </h1>
         <p className="text-xs sm:text-sm text-[#667085] font-sans">
-          Search across 100+ NEET Physics, Chemistry & Biology memory hooks.
+          Search across 1,180+ NEET Biology memory hooks from NCERT Class 11 &amp; 12.
         </p>
       </div>
 
@@ -58,8 +60,8 @@ export function SearchView({
             type="text"
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            placeholder="Search by formula, mnemonic keyword, hormone, law..."
-            className="w-full pl-12 pr-10 py-3.5 rounded-2xl bg-white border-2 border-[#243044] font-title text-sm sm:text-base text-[#243044] placeholder:text-[#667085]/60 shadow-sketch focus:outline-none focus:border-[#5B8DEF]"
+            placeholder="Search by scientific name, mnemonic hook, hormone, pathway, organelle..."
+            className="w-full pl-12 pr-10 py-3.5 rounded-2xl bg-white border-2 border-[#243044] font-title text-sm sm:text-base text-[#243044] placeholder:text-[#667085]/60 shadow-sketch focus:outline-none focus:border-[#3DBE75]"
             autoFocus
           />
           {searchQuery && (
@@ -89,21 +91,20 @@ export function SearchView({
         ))}
       </div>
 
-      {/* Subject Filter Tabs */}
+      {/* Class Level Filter Tabs */}
       <div className="flex items-center justify-between gap-2 border-t border-[#E8E4D9] pt-4 flex-wrap">
         <div className="flex items-center gap-1.5 flex-wrap">
           {[
-            { id: 'all', label: 'All Subjects' },
-            { id: 'physics', label: 'Physics' },
-            { id: 'chemistry', label: 'Chemistry' },
-            { id: 'biology', label: 'Biology' },
+            { id: 'all', label: 'All Biology (32 Ch)' },
+            { id: '11', label: 'Class 11 (Ch 1–19)' },
+            { id: '12', label: 'Class 12 (Ch 20–32)' },
           ].map((sub) => (
             <button
               key={sub.id}
-              onClick={() => setSelectedSubject(sub.id)}
+              onClick={() => setSelectedClass(sub.id)}
               className={`
                 px-3.5 py-1.5 rounded-xl font-title text-xs font-bold transition-all
-                ${selectedSubject === sub.id 
+                ${selectedClass === sub.id 
                   ? 'bg-[#243044] text-white shadow-sm' 
                   : 'bg-white border border-[#E8E4D9] text-[#243044] hover:border-[#243044]'
                 }
@@ -122,7 +123,7 @@ export function SearchView({
       {/* Results Grid */}
       {searchResults.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          {searchResults.map((mnemo) => (
+          {searchResults.slice(0, 60).map((mnemo) => (
             <MnemonicCard
               key={mnemo.id}
               mnemonic={mnemo}
@@ -138,15 +139,13 @@ export function SearchView({
             🔍
           </div>
           <h3 className="font-title text-lg font-bold text-[#243044]">
-            {searchQuery ? `No mnemonics matched "${searchQuery}"` : 'No mnemonics available in library'}
+            {searchQuery ? `No mnemonics matched "${searchQuery}"` : 'No mnemonics found'}
           </h3>
           <p className="text-xs text-[#667085] font-sans">
-            {searchQuery
-              ? 'Try searching for another keyword or reset the subject filter.'
-              : 'All mnemonics have been cleared across subjects and chapters.'}
+            Try searching for another NCERT Biology concept, keyword, or reset the filter.
           </p>
           <button
-            onClick={() => { setSearchQuery(''); setSelectedSubject('all'); }}
+            onClick={() => { setSearchQuery(''); setSelectedClass('all'); }}
             className="px-4 py-2 rounded-xl bg-[#243044] text-white font-title text-xs font-bold"
           >
             Clear Search

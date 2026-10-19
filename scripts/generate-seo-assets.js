@@ -2,7 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
-import { SUBJECTS } from '../src/data/subjects.js';
 import { CHAPTERS } from '../src/data/chapters.js';
 import { MNEMONICS } from '../src/data/mnemonics.js';
 
@@ -19,17 +18,18 @@ function generateSitemap() {
 
   const urls = [];
 
-  // 1. Core High-Priority Pages
+  // 1. Core High-Priority Biology Pages
   urls.push({ loc: `${BASE_URL}/`, changefreq: 'daily', priority: '1.0' });
-  urls.push({ loc: `${BASE_URL}/subjects`, changefreq: 'weekly', priority: '0.9' });
-  urls.push({ loc: `${BASE_URL}/biology`, changefreq: 'weekly', priority: '0.9' });
-  urls.push({ loc: `${BASE_URL}/chemistry`, changefreq: 'weekly', priority: '0.9' });
-  urls.push({ loc: `${BASE_URL}/physics`, changefreq: 'weekly', priority: '0.9' });
+  urls.push({ loc: `${BASE_URL}/chapters`, changefreq: 'weekly', priority: '0.9' });
   urls.push({ loc: `${BASE_URL}/revision`, changefreq: 'weekly', priority: '0.8' });
   urls.push({ loc: `${BASE_URL}/quiz`, changefreq: 'weekly', priority: '0.8' });
   urls.push({ loc: `${BASE_URL}/about`, changefreq: 'monthly', priority: '0.7' });
+  urls.push({ loc: `${BASE_URL}/privacy`, changefreq: 'monthly', priority: '0.5' });
+  urls.push({ loc: `${BASE_URL}/terms`, changefreq: 'monthly', priority: '0.5' });
+  urls.push({ loc: `${BASE_URL}/disclaimer`, changefreq: 'monthly', priority: '0.5' });
+  urls.push({ loc: `${BASE_URL}/contact`, changefreq: 'monthly', priority: '0.5' });
 
-  // 2. All Published Chapter Pages
+  // 2. All 32 Published Biology Chapter Pages
   CHAPTERS.forEach((ch) => {
     urls.push({
       loc: `${BASE_URL}/chapters/${ch.id}`,
@@ -38,7 +38,7 @@ function generateSitemap() {
     });
   });
 
-  // 3. All Published Mnemonic Detail Pages
+  // 3. All Published Biology Mnemonic Detail Pages
   MNEMONICS.forEach((m) => {
     urls.push({
       loc: `${BASE_URL}/mnemonics/${m.id}`,

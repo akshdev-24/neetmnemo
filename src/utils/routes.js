@@ -1,5 +1,5 @@
 /**
- * NEET Mnemo — Route Matching and URL Synchronizer
+ * NEET Mnemo — Route Matching and URL Synchronizer (100% NEET Biology)
  * Enables deep linking, HTML5 History API pushState, and canonical path resolution.
  */
 
@@ -11,13 +11,8 @@ export function parsePath(pathname = window.location.pathname) {
     return { route: 'home' };
   }
 
-  if (cleanPath === '/subjects') {
-    return { route: 'subjects' };
-  }
-
-  if (cleanPath === '/physics' || cleanPath === '/chemistry' || cleanPath === '/biology') {
-    const subjectId = cleanPath.slice(1);
-    return { route: subjectId, subjectId };
+  if (cleanPath === '/subjects' || cleanPath === '/chapters' || cleanPath === '/biology') {
+    return { route: 'chapters', subjectId: 'biology' };
   }
 
   if (cleanPath === '/revision') {
@@ -41,7 +36,23 @@ export function parsePath(pathname = window.location.pathname) {
   }
 
   if (cleanPath === '/about') {
-    return { route: 'about' };
+    return { route: 'about', tab: 'about' };
+  }
+
+  if (cleanPath === '/privacy') {
+    return { route: 'about', tab: 'privacy' };
+  }
+
+  if (cleanPath === '/terms') {
+    return { route: 'about', tab: 'terms' };
+  }
+
+  if (cleanPath === '/disclaimer') {
+    return { route: 'about', tab: 'disclaimer' };
+  }
+
+  if (cleanPath === '/contact') {
+    return { route: 'about', tab: 'contact' };
   }
 
   // /chapters/:chapterId
@@ -59,20 +70,18 @@ export function parsePath(pathname = window.location.pathname) {
   return { route: 'home' };
 }
 
-export function formatUrlForRoute({ route, subjectId, chapterId, mnemonicId }) {
+export function formatUrlForRoute({ route, subjectId, chapterId, mnemonicId, tab }) {
   switch (route) {
     case 'home':
       return '/';
+    case 'chapters':
     case 'subjects':
-      return '/subjects';
-    case 'physics':
-    case 'chemistry':
     case 'biology':
-      return `/${route}`;
+      return '/chapters';
     case 'chapter':
-      return chapterId ? `/chapters/${chapterId}` : '/subjects';
+      return chapterId ? `/chapters/${chapterId}` : '/chapters';
     case 'mnemonic':
-      return mnemonicId ? `/mnemonics/${mnemonicId}` : '/subjects';
+      return mnemonicId ? `/mnemonics/${mnemonicId}` : '/chapters';
     case 'revision':
       return '/revision';
     case 'quiz':
@@ -84,7 +93,19 @@ export function formatUrlForRoute({ route, subjectId, chapterId, mnemonicId }) {
     case 'progress':
       return '/progress';
     case 'about':
+      if (tab === 'privacy') return '/privacy';
+      if (tab === 'terms') return '/terms';
+      if (tab === 'disclaimer') return '/disclaimer';
+      if (tab === 'contact') return '/contact';
       return '/about';
+    case 'privacy':
+      return '/privacy';
+    case 'terms':
+      return '/terms';
+    case 'disclaimer':
+      return '/disclaimer';
+    case 'contact':
+      return '/contact';
     default:
       return '/';
   }

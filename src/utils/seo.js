@@ -1,5 +1,6 @@
 /**
  * NEET Mnemo — SEO Architecture & Metadata Engine
+ * Dedicated 100% to NEET Biology Mnemonics and NCERT Revision.
  * Handles canonical URLs, dynamic page titles, descriptions, OpenGraph, Twitter cards,
  * robots directives, and validated JSON-LD structured data schemas.
  */
@@ -7,15 +8,15 @@
 export const siteConfig = {
   name: 'NEET Mnemo',
   shortName: 'NEETMnemo',
-  title: 'NEET Mnemonics for Physics, Chemistry & Biology | NEET Mnemo',
-  description: 'Visual mnemonics, illustrated memory tricks, NCERT revision facts and formulas for NEET Physics, Chemistry, and Biology. Remember more, revise faster.',
+  title: 'NEETMnemo – NEET Biology Mnemonics & Revision',
+  description: 'Learn NEET Biology with chapter-wise mnemonics, NCERT revision resources, memory tricks and practice tools for smarter exam preparation.',
   url: 'https://neetmnemo.pages.dev',
   ogImage: 'https://neetmnemo.pages.dev/og-image.svg',
   locale: 'en_IN',
   twitterHandle: '@neetmnemo',
   creator: 'NEET Mnemo Academic Team',
-  targetExam: 'NTA NEET UG',
-  curriculum: 'NCERT Class 11 & Class 12'
+  targetExam: 'NTA NEET UG (Biology)',
+  curriculum: 'NCERT Class 11 & Class 12 Biology'
 };
 
 /**
@@ -32,7 +33,7 @@ export function getCanonicalUrl(path = '') {
 /**
  * Generates SEO metadata for any route and parameters
  */
-export function getRouteMetadata({ route, subject, chapter, mnemonic, params = {} }) {
+export function getRouteMetadata({ route, chapter, mnemonic, tab, params = {} }) {
   const defaultMeta = {
     title: siteConfig.title,
     description: siteConfig.description,
@@ -48,98 +49,60 @@ export function getRouteMetadata({ route, subject, chapter, mnemonic, params = {
     case 'home':
       return {
         ...defaultMeta,
-        title: 'NEET Mnemonics for Physics, Chemistry & Biology | NEET Mnemo',
-        description: 'Learn NEET Biology, Physics and Chemistry with visual mnemonics, memorable tricks, NCERT revision facts and quick study tools.',
+        title: 'NEETMnemo – NEET Biology Mnemonics & Revision',
+        description: 'Learn NEET Biology with chapter-wise mnemonics, NCERT revision resources, memory tricks and practice tools for smarter exam preparation.',
         canonical: getCanonicalUrl(''),
-        keywords: 'NEET mnemonics, NEET UG revision, visual memory tricks, NCERT Biology mnemonics, NEET Physics formulas, NEET Chemistry tricks'
+        keywords: 'NEET Biology mnemonics, NEET UG revision, NCERT Biology mnemonics, Botany mnemonics, Zoology memory tricks, NEET 2026, memory shelf'
       };
 
+    case 'chapters':
     case 'subjects':
-      return {
-        ...defaultMeta,
-        title: 'NEET UG Subjects: Physics, Chemistry & Biology Mnemonics | NEET Mnemo',
-        description: 'Explore visual mnemonics and memory tricks mapped to the complete NEET UG syllabus for Physics, Chemistry, Botany, and Zoology.',
-        canonical: getCanonicalUrl('/subjects'),
-        breadcrumbs: [
-          { name: 'Home', url: getCanonicalUrl('') },
-          { name: 'Subjects', url: getCanonicalUrl('/subjects') }
-        ]
-      };
-
-    case 'physics':
-      return {
-        ...defaultMeta,
-        title: 'NEET Physics Formula Tricks & Mnemonics | NEET Mnemo',
-        description: 'Learn NEET Physics formulas, SI units, dimensions and difficult concepts using simple memory tricks and quick revision.',
-        canonical: getCanonicalUrl('/physics'),
-        breadcrumbs: [
-          { name: 'Home', url: getCanonicalUrl('') },
-          { name: 'Physics', url: getCanonicalUrl('/physics') }
-        ],
-        keywords: 'NEET Physics formulas, Physics memory tricks, SI units mnemonic, Kinematics formulas, Current electricity formulas, Optics formulas'
-      };
-
-    case 'chemistry':
-      return {
-        ...defaultMeta,
-        title: 'NEET Chemistry Mnemonics & Reaction Tricks | NEET Mnemo',
-        description: 'Revise NEET Chemistry with useful mnemonics, periodic trends, organic reaction tricks and memorable chemistry concepts.',
-        canonical: getCanonicalUrl('/chemistry'),
-        breadcrumbs: [
-          { name: 'Home', url: getCanonicalUrl('') },
-          { name: 'Chemistry', url: getCanonicalUrl('/chemistry') }
-        ],
-        keywords: 'NEET Chemistry tricks, Periodic table mnemonics, Organic chemistry memory tricks, Named reactions tricks, Coordination compounds mnemonics'
-      };
-
     case 'biology':
       return {
         ...defaultMeta,
-        title: 'NEET Biology Mnemonics & NCERT Memory Tricks | NEET Mnemo',
-        description: 'Remember important NEET Biology concepts with visual mnemonics, NCERT-based memory tricks, classifications and quick revision.',
-        canonical: getCanonicalUrl('/biology'),
+        title: 'NEET Biology Chapters & NCERT Memory Tricks | NEET Mnemo',
+        description: 'Explore all 32 NEET Biology chapters across 10 NCERT units (Botany and Zoology) with handcrafted visual mnemonics and active recall cards.',
+        canonical: getCanonicalUrl('/chapters'),
         breadcrumbs: [
           { name: 'Home', url: getCanonicalUrl('') },
-          { name: 'Biology', url: getCanonicalUrl('/biology') }
+          { name: 'Biology Chapters', url: getCanonicalUrl('/chapters') }
         ],
-        keywords: 'NEET Biology mnemonics, NCERT Biology revision, Taxonomic hierarchy mnemonic, Plant hormones mnemonic, Animal kingdom memory tricks, Genetics mnemonics'
+        keywords: 'NEET Biology chapters, NCERT Class 11 Biology, NCERT Class 12 Biology, Botany chapters, Zoology chapters, NEET memory tricks'
       };
 
     case 'chapter':
       if (chapter) {
-        const subjectName = chapter.subject ? chapter.subject.charAt(0).toUpperCase() + chapter.subject.slice(1) : 'NEET';
         return {
           ...defaultMeta,
-          title: `${chapter.title} Mnemonics & Quick Revision for NEET | NEET Mnemo`,
-          description: `Master ${chapter.title} for NEET ${subjectName} with high-yield visual mnemonics, NCERT facts, key formulas, and active recall cards.`,
+          title: `${chapter.title} Mnemonics & NCERT Revision | NEET Biology`,
+          description: `Master ${chapter.title} (Class ${chapter.classLevel || 11} NCERT Biology) for NEET with high-yield visual mnemonics, key facts, and active recall cards.`,
           canonical: getCanonicalUrl(`/chapters/${chapter.id}`),
           breadcrumbs: [
             { name: 'Home', url: getCanonicalUrl('') },
-            { name: subjectName, url: getCanonicalUrl(`/${chapter.subject}`) },
+            { name: 'Biology Chapters', url: getCanonicalUrl('/chapters') },
             { name: chapter.title, url: getCanonicalUrl(`/chapters/${chapter.id}`) }
           ],
-          keywords: `${chapter.title} NEET, ${chapter.title} mnemonics, NEET ${subjectName} chapter ${chapter.number}`
+          keywords: `${chapter.title} NEET Biology, ${chapter.title} mnemonics, NEET Biology chapter ${chapter.number}`
         };
       }
       return defaultMeta;
 
     case 'mnemonic':
       if (mnemonic) {
-        const subjectName = mnemonic.subject ? mnemonic.subject.charAt(0).toUpperCase() + mnemonic.subject.slice(1) : 'NEET';
-        const hookSnippet = mnemonic.memoryHook ? ` Memory Hook: "${mnemonic.memoryHook}".` : '';
+        const hookSnippet = mnemonic.mnemonic ? ` Memory Hook: "${mnemonic.mnemonic}".` : '';
         return {
           ...defaultMeta,
-          title: `${mnemonic.title} Mnemonic for NEET ${subjectName} | NEET Mnemo`,
-          description: `Learn ${mnemonic.title} (${mnemonic.chapterTitle}) for NEET ${subjectName}.${hookSnippet} NCERT fact, breakdown, and practice question.`,
+          title: `${mnemonic.title} Mnemonic for NEET Biology | NEET Mnemo`,
+          description: `Learn ${mnemonic.title} (${mnemonic.chapterTitle}) for NEET Biology.${hookSnippet} NCERT fact, breakdown, and practice question.`,
           canonical: getCanonicalUrl(`/mnemonics/${mnemonic.id}`),
           ogType: 'article',
           breadcrumbs: [
             { name: 'Home', url: getCanonicalUrl('') },
-            { name: subjectName, url: getCanonicalUrl(`/${mnemonic.subject}`) },
+            { name: 'Biology Chapters', url: getCanonicalUrl('/chapters') },
             { name: mnemonic.chapterTitle, url: getCanonicalUrl(`/chapters/${mnemonic.chapterId}`) },
             { name: mnemonic.title, url: getCanonicalUrl(`/mnemonics/${mnemonic.id}`) }
           ],
-          keywords: `${mnemonic.title} mnemonic, ${mnemonic.topicTitle} NEET, ${mnemonic.chapterTitle} tricks`
+          keywords: `${mnemonic.title} mnemonic, ${mnemonic.topicTitle} NEET Biology, ${mnemonic.chapterTitle} tricks`
         };
       }
       return defaultMeta;
@@ -147,8 +110,8 @@ export function getRouteMetadata({ route, subject, chapter, mnemonic, params = {
     case 'revision':
       return {
         ...defaultMeta,
-        title: 'Quick Revision Sprints for NEET UG | NEET Mnemo',
-        description: 'Speed-revise high-yield NCERT facts, formulas, and visual memory hooks with timed active recall revision sprints.',
+        title: 'Quick Biology Revision Sprints for NEET UG | NEET Mnemo',
+        description: 'Speed-revise high-yield NCERT Biology facts, diagrams, and visual memory hooks with timed active recall revision sprints.',
         canonical: getCanonicalUrl('/revision'),
         breadcrumbs: [
           { name: 'Home', url: getCanonicalUrl('') },
@@ -159,8 +122,8 @@ export function getRouteMetadata({ route, subject, chapter, mnemonic, params = {
     case 'quiz':
       return {
         ...defaultMeta,
-        title: 'Interactive NEET UG Flash Quiz & Recall Practice | NEET Mnemo',
-        description: 'Test your memory on NCERT NEET concepts, formula recall, and high-yield mnemonics with instant explanations.',
+        title: 'Interactive NEET Biology Quiz & Recall Practice | NEET Mnemo',
+        description: 'Test your memory on NCERT NEET Biology concepts, taxonomy, pathways, and high-yield mnemonics with instant explanations.',
         canonical: getCanonicalUrl('/quiz'),
         breadcrumbs: [
           { name: 'Home', url: getCanonicalUrl('') },
@@ -169,10 +132,58 @@ export function getRouteMetadata({ route, subject, chapter, mnemonic, params = {
       };
 
     case 'about':
+      if (tab === 'privacy') {
+        return {
+          ...defaultMeta,
+          title: 'Privacy Policy | NEET Mnemo',
+          description: 'Privacy Policy for NEET Mnemo. Learn how we handle your study data, local storage preferences, and respect your privacy.',
+          canonical: getCanonicalUrl('/privacy'),
+          breadcrumbs: [
+            { name: 'Home', url: getCanonicalUrl('') },
+            { name: 'Privacy Policy', url: getCanonicalUrl('/privacy') }
+          ]
+        };
+      }
+      if (tab === 'terms') {
+        return {
+          ...defaultMeta,
+          title: 'Terms of Service | NEET Mnemo',
+          description: 'Terms of Service and user guidelines for NEET Mnemo educational revision tools and content.',
+          canonical: getCanonicalUrl('/terms'),
+          breadcrumbs: [
+            { name: 'Home', url: getCanonicalUrl('') },
+            { name: 'Terms of Service', url: getCanonicalUrl('/terms') }
+          ]
+        };
+      }
+      if (tab === 'disclaimer') {
+        return {
+          ...defaultMeta,
+          title: 'Educational Disclaimer & NCERT Scope | NEET Mnemo',
+          description: 'NEET Mnemo educational disclaimer, copyright notices, and official NCERT syllabus scope information.',
+          canonical: getCanonicalUrl('/disclaimer'),
+          breadcrumbs: [
+            { name: 'Home', url: getCanonicalUrl('') },
+            { name: 'Disclaimer', url: getCanonicalUrl('/disclaimer') }
+          ]
+        };
+      }
+      if (tab === 'contact') {
+        return {
+          ...defaultMeta,
+          title: 'Contact Us | NEET Mnemo',
+          description: 'Contact the NEET Mnemo team for feedback, mnemonic suggestions, or educational inquiries.',
+          canonical: getCanonicalUrl('/contact'),
+          breadcrumbs: [
+            { name: 'Home', url: getCanonicalUrl('') },
+            { name: 'Contact Us', url: getCanonicalUrl('/contact') }
+          ]
+        };
+      }
       return {
         ...defaultMeta,
-        title: 'About NEET Mnemo — Visual Learning Platform for NEET UG | NEET Mnemo',
-        description: 'Learn about NEET Mnemo, our cognitive visual mnemonics methodology, and 100% NCERT syllabus compliance for NEET UG aspirants.',
+        title: 'About NEET Mnemo — Dedicated NEET Biology Mnemonics Platform',
+        description: 'Learn about NEET Mnemo, our cognitive visual mnemonics methodology, and 100% NCERT Biology syllabus alignment for NEET UG aspirants.',
         canonical: getCanonicalUrl('/about'),
         breadcrumbs: [
           { name: 'Home', url: getCanonicalUrl('') },
@@ -180,14 +191,13 @@ export function getRouteMetadata({ route, subject, chapter, mnemonic, params = {
         ]
       };
 
-    // Private or user-specific client states: Noindex
     case 'search':
       return {
         ...defaultMeta,
-        title: 'Search NEET Mnemonics & NCERT Tricks | NEET Mnemo',
-        description: 'Search through 100+ visual mnemonics, formulas, and memory hooks for NEET Physics, Chemistry, and Biology.',
+        title: 'Search NEET Biology Mnemonics & NCERT Tricks | NEET Mnemo',
+        description: 'Search through 1,180+ visual mnemonics, memory hooks, and taxonomy tricks for NEET Biology.',
         canonical: getCanonicalUrl('/search'),
-        robots: 'noindex, follow', // Do not index arbitrary search queries
+        robots: 'noindex, follow',
         breadcrumbs: [
           { name: 'Home', url: getCanonicalUrl('') },
           { name: 'Search', url: getCanonicalUrl('/search') }
@@ -197,10 +207,10 @@ export function getRouteMetadata({ route, subject, chapter, mnemonic, params = {
     case 'favorites':
       return {
         ...defaultMeta,
-        title: 'My Memory Shelf — Saved NEET Mnemonics | NEET Mnemo',
-        description: 'Review your personalized saved visual mnemonics and revision shelf for NEET UG preparation.',
+        title: 'My Memory Shelf — Saved NEET Biology Mnemonics | NEET Mnemo',
+        description: 'Review your personalized saved visual mnemonics and revision shelf for NEET Biology preparation.',
         canonical: getCanonicalUrl('/favorites'),
-        robots: 'noindex, nofollow', // Private client state
+        robots: 'noindex, nofollow',
         breadcrumbs: [
           { name: 'Home', url: getCanonicalUrl('') },
           { name: 'My Saves', url: getCanonicalUrl('/favorites') }
@@ -210,10 +220,10 @@ export function getRouteMetadata({ route, subject, chapter, mnemonic, params = {
     case 'progress':
       return {
         ...defaultMeta,
-        title: 'My Study Progress & Mastery Tracker | NEET Mnemo',
-        description: 'Track your NEET preparation streak, learned mnemonics, XP points, and active recall mastery.',
+        title: 'My Biology Study Progress & Mastery Tracker | NEET Mnemo',
+        description: 'Track your NEET Biology preparation streak, learned mnemonics, XP points, and unit-by-unit recall mastery.',
         canonical: getCanonicalUrl('/progress'),
-        robots: 'noindex, nofollow', // Private client state
+        robots: 'noindex, nofollow',
         breadcrumbs: [
           { name: 'Home', url: getCanonicalUrl('') },
           { name: 'Progress', url: getCanonicalUrl('/progress') }
@@ -228,7 +238,7 @@ export function getRouteMetadata({ route, subject, chapter, mnemonic, params = {
 /**
  * Builds JSON-LD Schema graph based on active page metadata
  */
-export function generateStructuredData({ route, subject, chapter, mnemonic, metadata }) {
+export function generateStructuredData({ route, chapter, mnemonic, metadata }) {
   const schemas = [];
 
   // 1. WebSite Schema (Homepage & global)
@@ -261,7 +271,7 @@ export function generateStructuredData({ route, subject, chapter, mnemonic, meta
     name: siteConfig.name,
     url: siteConfig.url,
     logo: `${siteConfig.url}/favicon.svg`,
-    description: 'Educational revision and visual memory platform for Indian NEET UG aspirants (Physics, Chemistry, Biology).'
+    description: 'Educational revision and visual memory platform dedicated to NCERT Biology (Botany & Zoology) for NEET UG aspirants.'
   });
 
   // 3. BreadcrumbList Schema
@@ -284,10 +294,10 @@ export function generateStructuredData({ route, subject, chapter, mnemonic, meta
       '@context': 'https://schema.org',
       '@type': 'LearningResource',
       '@id': `${getCanonicalUrl(`/mnemonics/${mnemonic.id}`)}#resource`,
-      name: `${mnemonic.title} Mnemonic for NEET`,
-      description: mnemonic.explanation || mnemonic.fact || mnemonic.memoryHook,
+      name: `${mnemonic.title} Mnemonic for NEET Biology`,
+      description: mnemonic.explanation || mnemonic.fact || mnemonic.mnemonic,
       learningResourceType: 'Mnemonic',
-      educationalLevel: 'Class 11 & Class 12 / NEET UG',
+      educationalLevel: 'Class 11 & Class 12 Biology / NEET UG',
       inLanguage: 'en-IN',
       url: getCanonicalUrl(`/mnemonics/${mnemonic.id}`),
       about: [
@@ -301,7 +311,7 @@ export function generateStructuredData({ route, subject, chapter, mnemonic, meta
         },
         {
           '@type': 'Thing',
-          name: mnemonic.subject.charAt(0).toUpperCase() + mnemonic.subject.slice(1)
+          name: 'NEET Biology'
         }
       ],
       teaches: mnemonic.fact || mnemonic.mnemonic,
@@ -309,13 +319,12 @@ export function generateStructuredData({ route, subject, chapter, mnemonic, meta
       isAccessibleForFree: true
     });
 
-    // If micro-quiz exists on mnemonic, add Quiz schema
     if (mnemonic.quiz) {
       schemas.push({
         '@context': 'https://schema.org',
         '@type': 'Quiz',
         name: `Recall Quiz: ${mnemonic.title}`,
-        educationalLevel: 'NEET UG',
+        educationalLevel: 'NEET UG Biology',
         hasPart: [
           {
             '@type': 'Question',
@@ -343,9 +352,9 @@ export function generateStructuredData({ route, subject, chapter, mnemonic, meta
       '@context': 'https://schema.org',
       '@type': 'LearningResource',
       '@id': `${getCanonicalUrl(`/chapters/${chapter.id}`)}#chapter`,
-      name: `${chapter.title} NEET Revision & Mnemonics`,
-      description: chapter.description || `Complete NCERT revision, formulas, and visual memory hooks for ${chapter.title}.`,
-      educationalLevel: `Class ${chapter.classLevel || 11} / NEET UG`,
+      name: `${chapter.title} NEET Biology Revision & Mnemonics`,
+      description: chapter.description || `Complete NCERT Biology revision and visual memory hooks for ${chapter.title}.`,
+      educationalLevel: `Class ${chapter.classLevel || 11} Biology / NEET UG`,
       learningResourceType: 'Study Guide',
       url: getCanonicalUrl(`/chapters/${chapter.id}`),
       isAccessibleForFree: true

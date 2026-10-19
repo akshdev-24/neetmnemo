@@ -5,9 +5,9 @@ import { DoodleBrainMascot, DoodleBooksStack, DoodleSparkle, DoodleStar, DoodleA
 export function HeroSection({ onExploreSubjects, onStartRevision }) {
   const featureStrip = [
     { label: 'Visual Mnemonics', icon: Lightbulb, bg: '#FFE681', color: '#243044' },
-    { label: 'Memory Tricks', icon: Brain, bg: '#FF9FB2', color: '#243044' },
+    { label: 'Botany & Zoology', icon: Brain, bg: '#FF9FB2', color: '#243044' },
     { label: 'Quick Revision', icon: Clock, bg: '#B69CFF', color: '#243044' },
-    { label: 'NEET Focused', icon: Target, bg: '#78D6A3', color: '#243044' },
+    { label: '100% NCERT Scope', icon: Target, bg: '#78D6A3', color: '#243044' },
     { label: 'Track Progress', icon: BarChart2, bg: '#8DD8FF', color: '#243044' }
   ];
 
@@ -25,17 +25,16 @@ export function HeroSection({ onExploreSubjects, onStartRevision }) {
         {/* Left Column: Heading & CTAs */}
         <div className="lg:col-span-7 space-y-4 text-left z-10">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#FFE681]/40 border border-[#FFE681] text-[#243044] text-xs font-title font-bold">
-            <span>✨ NEET UG Memory Platform</span>
+            <span>✨ 100% NCERT NEET Biology Revision</span>
           </div>
 
           <h1 className="font-title text-3xl sm:text-5xl font-extrabold text-[#243044] leading-[1.15]">
-            Turn Hard Facts <br />
+            Turn Hard Biology Facts <br />
             into <span className="hl-yellow text-[#243044]">Easy Memories</span>
           </h1>
 
           <p className="text-sm sm:text-base text-[#667085] max-w-lg leading-relaxed font-sans">
-            Visual mnemonics, memory tricks and simple explanations for NEET. 
-            Study smarter, not harder!
+            1,180+ visual mnemonics, NCERT memory tricks and chapter-wise study tools for NEET Biology (Botany & Zoology). Study smarter, not harder!
           </p>
 
           <div className="flex flex-wrap items-center gap-3 pt-2">
@@ -43,7 +42,7 @@ export function HeroSection({ onExploreSubjects, onStartRevision }) {
               onClick={onExploreSubjects}
               className="px-6 py-3 rounded-2xl bg-[#FF8D78] hover:bg-[#ff7b63] text-white font-title text-sm sm:text-base font-bold flex items-center gap-2 shadow-sketch transition-all hover:scale-105 active:scale-95"
             >
-              <span>Explore Subjects</span>
+              <span>Explore Biology Units</span>
               <ArrowRight className="w-4 h-4" />
             </button>
 

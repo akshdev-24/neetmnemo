@@ -44,11 +44,11 @@ export function ChapterDetailView({
           className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-2xl bg-white border-2 border-[#243044] font-title text-xs font-bold text-[#243044] hover:bg-[#FFE681]/30 transition-all shadow-sm active:scale-95"
         >
           <ArrowLeft className="w-4 h-4" />
-          <span className="capitalize">{chapter.subject} Chapters</span>
+          <span>Biology Chapters</span>
         </button>
 
         <div className="text-xs font-mono text-[#667085] font-semibold flex items-center gap-1.5">
-          <span className="capitalize">{chapter.subject}</span>
+          <span>NEET Biology</span>
           <span>›</span>
           <span className="text-[#243044] font-bold">Class {chapter.classLevel || 11}</span>
           <span>›</span>
@@ -60,7 +60,7 @@ export function ChapterDetailView({
       <header className="p-6 sm:p-8 rounded-3xl bg-white border-2 border-[#243044] shadow-sketch space-y-3">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#FFE681]/40 border border-[#FFE681] text-[#243044] font-title text-xs font-bold">
           <GraduationCap className="w-4 h-4 text-[#FF8D78]" />
-          <span>NEET UG Chapter {chapter.number} • Class {chapter.classLevel || 11} NCERT</span>
+          <span>NEET Biology Chapter {chapter.number} • Class {chapter.classLevel || 11} NCERT</span>
         </div>
 
         <h1 className="font-title text-2xl sm:text-3xl font-extrabold text-[#243044]">
@@ -180,7 +180,7 @@ export function ChapterDetailView({
         <section className="p-6 rounded-3xl bg-white border-2 border-[#E8E4D9] shadow-sm space-y-3">
           <h2 className="font-title text-base font-bold text-[#243044] flex items-center gap-2">
             <Layers className="w-4 h-4 text-[#5B8DEF]" />
-            <span className="capitalize">Other NEET {chapter.subject} Chapters</span>
+            <span>Other NEET Biology Chapters</span>
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
             {siblingChapters.map((sib) => (

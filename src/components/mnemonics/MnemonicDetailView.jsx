@@ -94,13 +94,13 @@ export function MnemonicDetailView({
             className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-white border border-[#243044]/20 hover:border-[#243044] text-[#243044] font-title font-bold shadow-sm transition-all active:scale-95"
           >
             <ArrowLeft className="w-3.5 h-3.5" />
-            <span className="capitalize">{mnemonic.subject}</span>
+            <span>NEET Biology</span>
           </button>
           <span>/</span>
           {onNavigateChapter ? (
             <button 
               onClick={() => onNavigateChapter(mnemonic.chapterId)}
-              className="text-[#5B8DEF] font-bold hover:underline truncate max-w-[160px]"
+              className="text-[#3DBE75] font-bold hover:underline truncate max-w-[160px]"
             >
               {mnemonic.chapterTitle}
             </button>
@@ -113,8 +113,8 @@ export function MnemonicDetailView({
 
         {/* Subject & Importance Badges */}
         <div className="flex items-center gap-2">
-          <span className="px-3 py-1 rounded-full bg-[#EDF4FF] border border-[#5B8DEF] font-title text-xs font-bold text-[#5B8DEF] capitalize">
-            {mnemonic.subject}
+          <span className="px-3 py-1 rounded-full bg-[#EFFBF4] border border-[#3DBE75] font-title text-xs font-bold text-[#3DBE75]">
+            NEET Biology
           </span>
           {mnemonic.importance && (
             <span className="px-3 py-1 rounded-full bg-[#FFF0F3] border border-[#FF8D78] font-title text-xs font-bold text-[#FF8D78]">
