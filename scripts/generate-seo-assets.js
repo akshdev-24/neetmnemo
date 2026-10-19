@@ -8,7 +8,7 @@ import { MNEMONICS } from '../src/data/mnemonics.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const BASE_URL = 'https://neetmnemo.pages.dev';
+const BASE_URL = 'https://neetmnemo.akshdev.site';
 
 function generateSitemap() {
   const publicDir = path.resolve(__dirname, '../public');
@@ -66,7 +66,7 @@ ${urls
   console.log(`✅ Generated sitemap.xml with ${urls.length} indexable canonical URLs.`);
 
   // 4. Generate robots.txt
-  const robotsTxt = `# NEET Mnemo Robots.txt (https://neetmnemo.pages.dev)
+  const robotsTxt = `# NEET Mnemo Robots.txt (https://neetmnemo.akshdev.site)
 User-agent: *
 Allow: /
 Disallow: /favorites

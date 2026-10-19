@@ -2,8 +2,7 @@
 
 A dedicated, student-friendly web application for **NEET UG Biology preparation**, featuring 1,180+ visual mnemonics, active recall cards, and chapter-wise study tools mapped 100% to NCERT Class 11 & Class 12 Biology (Botany & Zoology).
 
-- **Production URL:** `https://neetmnemo.pages.dev/`
-- **Planned Custom Domain:** `https://neetmnemo.akshdev.site/`
+- **Production URL:** `https://neetmnemo.akshdev.site/` (Fallback: `https://neetmnemo.pages.dev/`)
 - **Curriculum:** NCERT Class 11 & 12 Biology (32 Chapters across 10 Units)
 - **Target Exam:** NTA NEET UG (Biology Section: 360/720 marks)
 
