@@ -342,7 +342,7 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
           <div className="space-y-4 text-xs sm:text-sm text-[#667085] leading-relaxed font-sans">
             <h2 className="font-title text-base font-bold text-[#243044]">1. Overview &amp; Commitment</h2>
             <p>
-              At NEETMONIC (accessible from https://neetmonic.akshdev.site), we respect your privacy. As an educational service operated under AKSHDEV, our core philosophy is student-first: we do not require account registration, login credentials, or personal identification to browse our NEET Biology mnemonics, revision decks, or practice quizzes.
+              At NEETMONIC (accessible from https://neetmonic.study), we respect your privacy. As an educational service operated under AKSHDEV, our core philosophy is student-first: we do not require account registration, login credentials, or personal identification to browse our NEET Biology mnemonics, revision decks, or practice quizzes.
             </p>
 
             <h2 className="font-title text-base font-bold text-[#243044]">2. Information Stored Locally in Your Browser</h2>
@@ -362,7 +362,7 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
 
             <h2 className="font-title text-base font-bold text-[#243044]">5. Contact Regarding Privacy</h2>
             <p>
-              If you have any questions or feedback regarding this Privacy Policy, you can reach out via our Contact section or by email at <strong>privacy@neetmonic.akshdev.site</strong>.
+              If you have any questions or feedback regarding this Privacy Policy, you can reach out via our Contact section or by email at <strong>privacy@neetmonic.study</strong>.
             </p>
           </div>
         </article>
@@ -468,10 +468,10 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
                 For academic inquiries, corrections, or feature requests:
               </p>
               <a 
-                href="mailto:contact@neetmonic.akshdev.site" 
+                href="mailto:contact@neetmonic.study" 
                 className="font-mono text-xs font-bold text-[#3DBE75] hover:underline block"
               >
-                contact@neetmonic.akshdev.site
+                contact@neetmonic.study
               </a>
             </div>
 

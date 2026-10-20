@@ -35,8 +35,8 @@ function assert(condition, testName, details = '') {
 console.log('\n--- 1. Brand Identity & Production Domain ---');
 assert(siteConfig.name === 'NEETMONIC', 'siteConfig.name is NEETMONIC', siteConfig.name);
 assert(siteConfig.shortName === 'NEETMONIC', 'siteConfig.shortName is NEETMONIC', siteConfig.shortName);
-assert(siteConfig.url === 'https://neetmonic.akshdev.site', 'siteConfig.url points to https://neetmonic.akshdev.site', siteConfig.url);
-assert(siteConfig.ogImage === 'https://neetmonic.akshdev.site/og-image.svg', 'siteConfig.ogImage uses new domain', siteConfig.ogImage);
+assert(siteConfig.url === 'https://neetmonic.study', 'siteConfig.url points to https://neetmonic.study', siteConfig.url);
+assert(siteConfig.ogImage === 'https://neetmonic.study/og-image.svg', 'siteConfig.ogImage uses new domain', siteConfig.ogImage);
 assert(siteConfig.parentBrand === 'AKSHDEV', 'siteConfig.parentBrand is AKSHDEV', siteConfig.parentBrand);
 
 // -----------------------------------------------------------------------------
@@ -54,7 +54,7 @@ assert(
   'Class 11 meta description is optimized and present'
 );
 assert(
-  class11Meta.canonical === 'https://neetmonic.akshdev.site/class-11-biology-mnemonics',
+  class11Meta.canonical === 'https://neetmonic.study/class-11-biology-mnemonics',
   'Class 11 canonical URL is self-referencing and correct',
   class11Meta.canonical
 );
@@ -70,7 +70,7 @@ assert(
   'Class 12 meta description is optimized and present'
 );
 assert(
-  class12Meta.canonical === 'https://neetmonic.akshdev.site/class-12-biology-mnemonics',
+  class12Meta.canonical === 'https://neetmonic.study/class-12-biology-mnemonics',
   'Class 12 canonical URL is self-referencing and correct',
   class12Meta.canonical
 );
@@ -134,15 +134,15 @@ if (fs.existsSync(sitemapPath)) {
   
   assert(urls.length >= 1220, `Sitemap contains all canonical URLs (Count: ${urls.length})`);
   assert(
-    urls.includes('https://neetmonic.akshdev.site/class-11-biology-mnemonics'),
+    urls.includes('https://neetmonic.study/class-11-biology-mnemonics'),
     'Sitemap includes /class-11-biology-mnemonics'
   );
   assert(
-    urls.includes('https://neetmonic.akshdev.site/class-12-biology-mnemonics'),
+    urls.includes('https://neetmonic.study/class-12-biology-mnemonics'),
     'Sitemap includes /class-12-biology-mnemonics'
   );
 
-  const oldDomainLeaks = urls.filter((u) => !u.startsWith('https://neetmonic.akshdev.site'));
+  const oldDomainLeaks = urls.filter((u) => !u.startsWith('https://neetmonic.study'));
   assert(oldDomainLeaks.length === 0, 'Zero URLs with old domain in sitemap', `Leaks: ${oldDomainLeaks.length}`);
 }
 
@@ -151,7 +151,7 @@ assert(fs.existsSync(robotsPath), 'public/robots.txt exists');
 if (fs.existsSync(robotsPath)) {
   const robotsContent = fs.readFileSync(robotsPath, 'utf8');
   assert(
-    robotsContent.includes('Sitemap: https://neetmonic.akshdev.site/sitemap.xml'),
+    robotsContent.includes('Sitemap: https://neetmonic.study/sitemap.xml'),
     'robots.txt points to new domain sitemap'
   );
 }
@@ -165,7 +165,7 @@ assert(fs.existsSync(keywordMapPath), 'seo/keyword-map.json exists');
 if (fs.existsSync(keywordMapPath)) {
   const mapData = JSON.parse(fs.readFileSync(keywordMapPath, 'utf8'));
   assert(mapData.platform === 'NEETMONIC', 'Keyword map platform is NEETMONIC');
-  assert(mapData.domain === 'https://neetmonic.akshdev.site', 'Keyword map domain is https://neetmonic.akshdev.site');
+  assert(mapData.domain === 'https://neetmonic.study', 'Keyword map domain is https://neetmonic.study');
   assert(mapData.clusters && mapData.clusters.length >= 35, `Keyword clusters mapped (${mapData.clusters.length} clusters)`);
 }
 

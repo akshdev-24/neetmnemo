@@ -8,10 +8,10 @@
 export const siteConfig = {
   name: 'NEETMONIC',
   shortName: 'NEETMONIC',
-  title: 'NEETMONIC – NEET Biology Mnemonics & Memory Tricks',
-  description: 'Learn NEET Biology with easy mnemonics, NCERT-based memory tricks, chapter-wise revision guides, and simple ways to remember important Biology facts for NEET UG.',
-  url: 'https://neetmonic.akshdev.site',
-  ogImage: 'https://neetmonic.akshdev.site/og-image.svg',
+  title: 'NEETMONIC – NEET Biology Mnemonics & NCERT Class 11 & 12',
+  description: 'NEETMONIC helps NEET aspirants memorize and revise Biology through 1,180+ mnemonics, NCERT-based memory tricks, chapter-wise revision guides, and active recall tools for Class 11 and Class 12 Biology.',
+  url: 'https://neetmonic.study',
+  ogImage: 'https://neetmonic.study/og-image.svg',
   locale: 'en_IN',
   twitterHandle: '@neetmonic',
   creator: 'Naman Sharma (Founder of AKSHDEV)',
@@ -57,8 +57,8 @@ export function getRouteMetadata({ route, chapter, mnemonic, tab, params = {} })
     case 'home':
       return {
         ...defaultMeta,
-        title: 'NEETMONIC – NEET Biology Mnemonics & Memory Tricks',
-        description: 'Learn NEET Biology with easy mnemonics, NCERT-based memory tricks, chapter-wise revision guides, and simple ways to remember important Biology facts for NEET UG.',
+        title: 'NEETMONIC – NEET Biology Mnemonics & NCERT Class 11 & 12',
+        description: 'NEETMONIC helps NEET aspirants memorize and revise Biology through 1,180+ mnemonics, NCERT-based memory tricks, chapter-wise revision guides, and active recall tools for Class 11 and Class 12 Biology.',
         canonical: getCanonicalUrl(''),
         keywords: 'NEET mnemonics, NEET Biology mnemonics, Biology mnemonics for NEET, NEET Biology memory tricks, Biology memory tricks for NEET, NCERT Biology mnemonics, NEET Biology chapter-wise mnemonics, Biology mnemonics for NEET UG, easy mnemonics for NEET Biology, NEET Biology revision tricks, Biology tricks to remember for NEET'
       };

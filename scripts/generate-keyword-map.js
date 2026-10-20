@@ -11,7 +11,7 @@ if (!fs.existsSync(seoDir)) {
   fs.mkdirSync(seoDir, { recursive: true });
 }
 
-const BASE_URL = 'https://neetmonic.akshdev.site';
+const BASE_URL = 'https://neetmonic.study';
 
 const keywordMap = {
   platform: 'NEETMONIC',
@@ -34,7 +34,7 @@ const keywordMap = {
         'NEET Biology revision tricks',
         'Biology tricks to remember for NEET'
       ],
-      seoTitle: 'NEETMONIC – NEET Biology Mnemonics & Memory Tricks',
+      seoTitle: 'NEETMONIC \u2013 NEET Biology Mnemonics & NCERT Class 11 & 12',
       h1: 'NEET Biology Mnemonics to Remember More and Revise Smarter',
       relatedInternalLinks: [
         '/class-11-biology-mnemonics',
