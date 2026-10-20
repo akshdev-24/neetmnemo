@@ -37,10 +37,10 @@ export function HeroSection({ onExploreSubjects, onStartRevision, onNavigateClas
             Learn NEET Biology with 1,180+ easy mnemonics, NCERT-based memory tricks, chapter-wise revision guides, and simple ways to remember important Biology facts for NEET UG.
           </p>
 
-          <div className="flex flex-wrap items-center gap-3 pt-2">
+          <div className="flex flex-wrap items-center gap-2.5 sm:gap-3 pt-2">
             <button
               onClick={onNavigateClass11 || onExploreSubjects}
-              className="px-5 py-2.5 rounded-2xl bg-[#FFE681] hover:bg-[#fed94f] text-[#243044] font-title text-xs sm:text-sm font-bold flex items-center gap-2 border-2 border-[#243044] shadow-sketch transition-all hover:scale-105 active:scale-95"
+              className="min-h-[44px] px-4 sm:px-5 py-2.5 rounded-2xl bg-[#FFE681] hover:bg-[#fed94f] text-[#243044] font-title text-xs sm:text-sm font-bold flex items-center gap-2 border-2 border-[#243044] shadow-sketch transition-all hover:scale-105 active:scale-95"
             >
               <span>Class 11 Mnemonics</span>
               <ArrowRight className="w-3.5 h-3.5" />
@@ -48,7 +48,7 @@ export function HeroSection({ onExploreSubjects, onStartRevision, onNavigateClas
 
             <button
               onClick={onNavigateClass12 || onExploreSubjects}
-              className="px-5 py-2.5 rounded-2xl bg-[#EFFBF4] hover:bg-[#d8f5e5] text-[#243044] font-title text-xs sm:text-sm font-bold flex items-center gap-2 border-2 border-[#3DBE75] shadow-sketch transition-all hover:scale-105 active:scale-95"
+              className="min-h-[44px] px-4 sm:px-5 py-2.5 rounded-2xl bg-[#EFFBF4] hover:bg-[#d8f5e5] text-[#243044] font-title text-xs sm:text-sm font-bold flex items-center gap-2 border-2 border-[#3DBE75] shadow-sketch transition-all hover:scale-105 active:scale-95"
             >
               <span>Class 12 Mnemonics</span>
               <ArrowRight className="w-3.5 h-3.5 text-[#3DBE75]" />
@@ -56,7 +56,7 @@ export function HeroSection({ onExploreSubjects, onStartRevision, onNavigateClas
 
             <button
               onClick={onStartRevision}
-              className="px-5 py-2.5 rounded-2xl bg-white hover:bg-[#EFFBF4] border-2 border-[#243044] text-[#243044] font-title text-xs sm:text-sm font-bold transition-all shadow-sketch active:scale-95"
+              className="min-h-[44px] px-4 sm:px-5 py-2.5 rounded-2xl bg-white hover:bg-[#EFFBF4] border-2 border-[#243044] text-[#243044] font-title text-xs sm:text-sm font-bold transition-all shadow-sketch active:scale-95"
             >
               Start Revising ⚡
             </button>

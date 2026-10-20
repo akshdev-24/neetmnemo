@@ -41,14 +41,15 @@ export function MnemonicCard({
               e.stopPropagation();
               onToggleFavorite(mnemonic.id);
             }}
-            className={`p-1.5 rounded-xl border transition-all ${
+            className={`min-h-[44px] min-w-[44px] p-2.5 rounded-xl border transition-all flex items-center justify-center active:scale-90 ${
               isFavorite
                 ? 'bg-[#FF8D78] text-white border-[#243044] shadow-sm'
-                : 'bg-white/80 border-[#E8E4D9] text-[#667085] hover:border-[#243044] hover:text-[#FF8D78]'
+                : 'bg-white/90 border-[#E8E4D9] text-[#667085] hover:border-[#243044] hover:text-[#FF8D78]'
             }`}
             title={isFavorite ? 'Remove from Saved' : 'Save Mnemonic'}
+            aria-label={isFavorite ? 'Remove from Saved' : 'Save Mnemonic'}
           >
-            <Bookmark className={`w-3.5 h-3.5 ${isFavorite ? 'fill-white' : ''}`} />
+            <Bookmark className={`w-4 h-4 ${isFavorite ? 'fill-white' : ''}`} />
           </button>
         </div>
 

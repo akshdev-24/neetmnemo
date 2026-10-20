@@ -152,10 +152,10 @@ export function SubjectCardsSection({
         </p>
 
         {/* Class Level Switcher */}
-        <div className="flex items-center justify-center gap-2 pt-2">
-          <div className="p-1 rounded-2xl bg-white border-2 border-[#243044] shadow-sm inline-flex gap-1">
+        <div className="flex items-center justify-center gap-2 pt-2 px-1">
+          <div className="p-1 rounded-2xl bg-white border-2 border-[#243044] shadow-sm inline-flex flex-wrap justify-center gap-1 max-w-full">
             {[
-              { id: 'all', label: 'All 10 Units (32 Chapters)' },
+              { id: 'all', label: 'All 10 Units' },
               { id: '11', label: 'Class 11 (Units 1–5)' },
               { id: '12', label: 'Class 12 (Units 6–10)' },
             ].map((tab) => (
@@ -163,7 +163,7 @@ export function SubjectCardsSection({
                 key={tab.id}
                 onClick={() => setSelectedClass(tab.id)}
                 className={`
-                  px-3.5 py-1.5 rounded-xl font-title text-xs font-bold transition-all
+                  min-h-[40px] px-3 sm:px-3.5 py-1.5 rounded-xl font-title text-xs font-bold transition-all
                   ${selectedClass === tab.id 
                     ? 'bg-[#243044] text-white shadow-sm' 
                     : 'text-[#243044] hover:bg-[#EFFBF4]'

@@ -382,11 +382,11 @@ export function MnemonicDetailView({
       )}
 
       {/* Bottom Previous / Next Controls */}
-      <footer className="flex items-center justify-between gap-4 pt-2">
+      <footer className="flex items-center justify-between gap-2 sm:gap-4 pt-2">
         <button
           onClick={onPrev}
           disabled={!hasPrev}
-          className="px-5 py-2.5 rounded-2xl bg-white border-2 border-[#243044] font-title text-xs sm:text-sm font-bold text-[#243044] flex items-center gap-1.5 shadow-sketch disabled:opacity-40 disabled:pointer-events-none hover:bg-[#FFE681]/30 transition-all active:scale-95"
+          className="min-h-[44px] px-4 sm:px-5 py-2.5 rounded-2xl bg-white border-2 border-[#243044] font-title text-xs sm:text-sm font-bold text-[#243044] flex items-center gap-1.5 shadow-sketch disabled:opacity-40 disabled:pointer-events-none hover:bg-[#FFE681]/30 transition-all active:scale-95"
         >
           <ChevronLeft className="w-4 h-4" />
           <span>Previous</span>
@@ -394,7 +394,7 @@ export function MnemonicDetailView({
 
         <button
           onClick={handleShare}
-          className="px-4 py-2.5 rounded-2xl bg-white border-2 border-[#E8E4D9] text-[#243044] font-title text-xs font-bold flex items-center gap-1.5 hover:border-[#243044] shadow-sm transition-all"
+          className="min-h-[44px] px-3.5 sm:px-4 py-2.5 rounded-2xl bg-white border-2 border-[#E8E4D9] text-[#243044] font-title text-xs font-bold flex items-center gap-1.5 hover:border-[#243044] shadow-sm transition-all"
         >
           {copied ? <Check className="w-4 h-4 text-[#3DBE75]" /> : <Share2 className="w-4 h-4" />}
           <span className="hidden sm:inline">{copied ? 'Copied!' : 'Share Hook'}</span>
@@ -403,7 +403,7 @@ export function MnemonicDetailView({
         <button
           onClick={onNext}
           disabled={!hasNext}
-          className="px-6 py-2.5 rounded-2xl bg-[#5B8DEF] hover:bg-[#4377db] text-white border-2 border-[#243044] font-title text-xs sm:text-sm font-bold flex items-center gap-1.5 shadow-sketch disabled:opacity-40 disabled:pointer-events-none transition-all active:scale-95"
+          className="min-h-[44px] px-5 sm:px-6 py-2.5 rounded-2xl bg-[#5B8DEF] hover:bg-[#4377db] text-white border-2 border-[#243044] font-title text-xs sm:text-sm font-bold flex items-center gap-1.5 shadow-sketch disabled:opacity-40 disabled:pointer-events-none transition-all active:scale-95"
         >
           <span>Next</span>
           <ChevronRight className="w-4 h-4" />

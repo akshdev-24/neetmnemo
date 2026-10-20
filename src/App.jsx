@@ -217,8 +217,11 @@ export default function App() {
     pushRoute('mnemonic', { mnemonicId: mnemonic.id });
   };
 
-  const handleStartQuiz = (subject = 'biology') => {
+  const handleStartQuiz = (subject = 'biology', chapterId = null) => {
     setQuizSubjectFilter('biology');
+    if (chapterId) {
+      setSelectedChapterId(chapterId);
+    }
     setCurrentRoute('quiz');
     pushRoute('quiz');
   };
@@ -248,7 +251,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-[#FFFDF7] text-[#243044] font-sans pb-20 md:pb-8">
+    <div className="min-h-screen flex flex-col bg-[#FFFDF7] text-[#243044] font-sans pb-24 md:pb-8">
       
       {/* Dynamic SEO Metadata & JSON-LD structured data updater */}
       <SEOHead

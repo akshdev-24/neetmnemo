@@ -166,27 +166,29 @@ export function ChapterDetailView({
         )}
       </section>
 
-      {/* Chapter Quiz Trigger Banner */}
+      {/* Chapter Quiz & Revision Trigger Banner */}
       <section className="p-6 rounded-3xl bg-[#EDF4FF] border-2 border-[#243044] shadow-sketch flex flex-col sm:flex-row items-center justify-between gap-4">
         <div className="space-y-1 text-center sm:text-left">
           <span className="px-2.5 py-0.5 rounded-full bg-white border border-[#243044] font-title text-xs font-bold text-[#5B8DEF]">
-            🎯 Active Practice
+            🎯 Active Practice & Revision
           </span>
           <h3 className="font-title text-lg font-bold text-[#243044]">
             Ready to test your recall on {chapter.title}?
           </h3>
           <p className="text-xs text-[#667085] font-sans">
-            Bite-sized NCERT questions with instant explanations & dopamine XP.
+            50 NCERT practice questions with instant solutions, active recall cards, and dopamine XP.
           </p>
         </div>
 
-        <button
-          onClick={() => onStartQuiz(chapter.subject)}
-          className="px-5 py-2.5 rounded-2xl bg-[#5B8DEF] hover:bg-[#4377db] text-white font-title text-sm font-bold flex items-center gap-2 border-2 border-[#243044] shadow-sm shrink-0 active:scale-95 transition-all"
-        >
-          <HelpCircle className="w-4 h-4" />
-          <span>Launch Micro Quiz</span>
-        </button>
+        <div className="flex items-center gap-2.5 flex-wrap justify-center sm:justify-end">
+          <button
+            onClick={() => onStartQuiz(chapter.subject, chapter.id)}
+            className="min-h-[44px] px-5 py-2.5 rounded-2xl bg-[#5B8DEF] hover:bg-[#4377db] text-white font-title text-xs sm:text-sm font-bold flex items-center gap-2 border-2 border-[#243044] shadow-sm shrink-0 active:scale-95 transition-all"
+          >
+            <HelpCircle className="w-4 h-4" />
+            <span>Practice Quiz (50 Qs)</span>
+          </button>
+        </div>
       </section>
 
       {/* Related Sibling Chapters (Internal Linking SEO) */}
