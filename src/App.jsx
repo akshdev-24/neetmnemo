@@ -555,7 +555,7 @@ export default function App() {
                 <DoodleSparkle className="w-4 h-4 text-[#FFE681]" />
               </div>
               <p className="text-xs text-[#667085] font-sans leading-relaxed">
-                Handcrafted visual mnemonics, illustrated memory tricks &amp; chapter-wise revision tools strictly mapped to NCERT Class 11 &amp; 12 Biology (Botany &amp; Zoology) by AKSHDEV.
+                Handcrafted visual mnemonics, illustrated memory tricks &amp; chapter-wise revision tools strictly mapped to NCERT Class 11 &amp; 12 Biology (Botany &amp; Zoology) by <a href="https://akshdev.site/" target="_blank" rel="noopener noreferrer" className="font-semibold text-[#243044] hover:text-[#3DBE75] underline decoration-[#3DBE75]/40 transition-colors">AKSHDEV</a>.
               </p>
             </div>
 
@@ -650,7 +650,7 @@ export default function App() {
 
           <div className="pt-6 border-t border-[#E8E4D9] flex flex-col sm:flex-row items-center justify-between gap-3 text-[11px] font-mono text-[#667085]">
             <div>
-              © {new Date().getFullYear()} NEETMONIC • Parent Brand AKSHDEV • Visual Learning &amp; Memory Platform for NEET UG Biology
+              © {new Date().getFullYear()} NEETMONIC • Parent Brand <a href="https://akshdev.site/" target="_blank" rel="noopener noreferrer" className="hover:text-[#3DBE75] underline transition-colors">AKSHDEV</a> • Visual Learning &amp; Memory Platform for NEET UG Biology
             </div>
             <div className="flex items-center gap-2">
               <span>Zero invented facts • 100% NCERT verified</span>

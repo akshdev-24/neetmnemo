@@ -14,8 +14,15 @@ export const siteConfig = {
   ogImage: 'https://neetmonic.akshdev.site/og-image.svg',
   locale: 'en_IN',
   twitterHandle: '@neetmonic',
-  creator: 'NEETMONIC Academic Team (AKSHDEV)',
+  creator: 'Naman Sharma (Founder of AKSHDEV)',
   parentBrand: 'AKSHDEV',
+  parentBrandUrl: 'https://akshdev.site/',
+  founder: {
+    name: 'Naman Sharma',
+    role: 'Founder of AKSHDEV',
+    work: 'Web developer and digital project creator',
+    url: 'https://akshdev.site/'
+  },
   targetExam: 'NTA NEET UG (Biology)',
   curriculum: 'NCERT Class 11 & Class 12 Biology'
 };
@@ -212,12 +219,12 @@ export function getRouteMetadata({ route, chapter, mnemonic, tab, params = {} })
       }
       return {
         ...defaultMeta,
-        title: 'About NEETMONIC – NEET Biology Mnemonics Platform | AKSHDEV',
-        description: 'Learn about NEETMONIC, an independent educational platform by AKSHDEV dedicated to NCERT Class 11 and 12 Biology mnemonics and revision for NEET UG.',
+        title: 'About NEETMONIC, Naman Sharma & AKSHDEV',
+        description: 'Learn about NEETMONIC, an independent NEET Biology revision platform created by web developer Naman Sharma under the independent digital brand AKSHDEV.',
         canonical: getCanonicalUrl('/about'),
         breadcrumbs: [
           { name: 'Home', url: getCanonicalUrl('') },
-          { name: 'About NEETMONIC', url: getCanonicalUrl('/about') }
+          { name: 'About', url: getCanonicalUrl('/about') }
         ]
       };
 
@@ -484,6 +491,34 @@ export function generateStructuredData({ route, chapter, mnemonic, metadata }) {
       learningResourceType: 'Study Guide',
       url: getCanonicalUrl(`/chapters/${chapter.id}`),
       isAccessibleForFree: true
+    });
+  }
+
+  // 8. About Page Schema (Founder & Brand)
+  if (route === 'about' && (!metadata?.tab || metadata.tab === 'about')) {
+    schemas.push({
+      '@context': 'https://schema.org',
+      '@type': 'AboutPage',
+      '@id': `${getCanonicalUrl('/about')}#aboutpage`,
+      name: 'About NEETMONIC, Naman Sharma & AKSHDEV',
+      description: 'Learn about NEETMONIC, an independent NEET Biology revision platform created by web developer Naman Sharma under the independent digital brand AKSHDEV.',
+      url: getCanonicalUrl('/about'),
+      mainEntity: [
+        {
+          '@type': 'Person',
+          name: siteConfig.founder.name,
+          jobTitle: siteConfig.founder.work,
+          description: 'Web developer, digital project creator, and founder of AKSHDEV.',
+          url: siteConfig.founder.url,
+          sameAs: [siteConfig.founder.url]
+        },
+        {
+          '@type': 'Brand',
+          name: siteConfig.parentBrand,
+          url: siteConfig.parentBrandUrl,
+          description: 'Independent digital brand focused on creating useful websites, educational resources, and practical online tools.'
+        }
+      ]
     });
   }
 

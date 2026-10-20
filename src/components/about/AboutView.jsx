@@ -15,7 +15,11 @@ import {
   FileText,
   Lock,
   HelpCircle,
-  Award
+  Award,
+  User,
+  Globe,
+  ExternalLink,
+  Code2
 } from 'lucide-react';
 import { DoodleBrainMascot, DoodleSparkle, DoodleStar } from '../illustrations/DoodleIllustrations';
 
@@ -57,7 +61,7 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
       </div>
 
       {/* =========================================================================
-          TAB 1: ABOUT NEET MNEMO
+          TAB 1: ABOUT (FOUNDER, AKSHDEV, NEETMONIC)
          ========================================================================= */}
       {activeTab === 'about' && (
         <div className="space-y-10">
@@ -66,125 +70,257 @@ export function AboutView({ onNavigate, initialTab = 'about' }) {
           <div className="text-center space-y-4">
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-[#EFFBF4] border-2 border-[#3DBE75] text-[#243044] text-xs font-title font-bold shadow-sm">
               <Sprout className="w-4 h-4 text-[#3DBE75]" />
-              <span>Dedicated NEET Biology Revision Platform</span>
+              <span>Independent Educational Resource</span>
             </div>
 
             <h1 className="font-title text-3xl sm:text-4xl font-extrabold text-[#243044]">
-              Visual Mnemonics &amp; Memory Tricks <br />
-              <span className="hl-yellow text-[#243044]">100% Strictly Mapped to NCERT Biology</span>
+              About NEETMONIC, the Founder &amp; AKSHDEV
             </h1>
 
             <p className="text-sm sm:text-base text-[#667085] max-w-2xl mx-auto leading-relaxed font-sans">
-              NEETMONIC is an independent educational platform under the <strong>AKSHDEV</strong> parent brand, designed specifically for medical aspirants preparing for NTA NEET UG Biology (Botany &amp; Zoology).
+              Learn more about the vision behind NEETMONIC, the creator building it, and the independent digital brand driving this educational project.
             </p>
           </div>
 
-          {/* Core Mission Banner */}
-          <div className="p-6 sm:p-8 rounded-3xl bg-white border-2 border-[#243044] shadow-sketch grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
-            <div className="md:col-span-8 space-y-3">
-              <h2 className="font-title text-2xl font-bold text-[#243044]">
-                Why Visual Mnemonics for NEET Biology?
-              </h2>
-              <p className="text-sm text-[#667085] leading-relaxed font-sans">
-                The NEET Biology syllabus accounts for <strong>360 out of 720 marks (50% of the entire exam)</strong> across 32 NCERT chapters. It contains thousands of Latin taxonomic names, anatomical exceptions, hormone functions, cell cycle stages, and ecological statistics.
-              </p>
-              <p className="text-sm text-[#243044] font-medium leading-relaxed font-sans">
-                Under exam stress, simple rote memorization can lead to confusing similar-sounding terms. NEETMONIC applies <strong>Dual-Coding Theory</strong> — combining whimsical visual verbal hooks with accurate NCERT facts so students can trigger instant, accurate recall on exam day.
-              </p>
-            </div>
-
-            <div className="md:col-span-4 flex justify-center">
-              <DoodleBrainMascot className="w-36 h-36" />
-            </div>
-          </div>
-
-          {/* 3 Core Pillars */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            <div className="p-6 rounded-3xl bg-[#EFFBF4] border-2 border-[#243044] shadow-sketch space-y-3">
-              <div className="w-10 h-10 rounded-2xl bg-white border-2 border-[#3DBE75] flex items-center justify-center text-[#3DBE75]">
-                <Target className="w-5 h-5" />
-              </div>
-              <h3 className="font-title text-lg font-bold text-[#243044]">
-                100% NCERT Verified
-              </h3>
-              <p className="text-xs text-[#667085] leading-relaxed">
-                Zero invented facts or out-of-syllabus material. Every mnemonic, taxonomic classification, and scientific term is cross-referenced directly with official Class 11 &amp; 12 NCERT Biology textbooks.
-              </p>
-            </div>
-
-            <div className="p-6 rounded-3xl bg-[#FFF9E6] border-2 border-[#243044] shadow-sketch space-y-3">
-              <div className="w-10 h-10 rounded-2xl bg-white border-2 border-[#FFE681] flex items-center justify-center text-[#243044]">
-                <Brain className="w-5 h-5" />
-              </div>
-              <h3 className="font-title text-lg font-bold text-[#243044]">
-                Cognitive Memory Hooks
-              </h3>
-              <p className="text-xs text-[#667085] leading-relaxed">
-                Long complex lists (taxonomic hierarchy, algae pigments, plant hormones, heart valves, and prophase I stages) are organized into structured, memorable acronyms and mental pictures.
-              </p>
-            </div>
-
-            <div className="p-6 rounded-3xl bg-[#EDF4FF] border-2 border-[#243044] shadow-sketch space-y-3">
-              <div className="w-10 h-10 rounded-2xl bg-white border-2 border-[#5B8DEF] flex items-center justify-center text-[#5B8DEF]">
-                <Zap className="w-5 h-5" />
-              </div>
-              <h3 className="font-title text-lg font-bold text-[#243044]">
-                Active Recall &amp; Quizzes
-              </h3>
-              <p className="text-xs text-[#667085] leading-relaxed">
-                Reinforce your memory with micro flash quizzes, NEET trap warnings, and timed sprint decks designed to strengthen retrieval pathways.
-              </p>
-            </div>
-          </div>
-
-          {/* 10 Biology Units Overview */}
-          <section className="p-6 sm:p-8 rounded-3xl bg-white border-2 border-[#243044] shadow-sketch space-y-4">
-            <div className="flex items-center gap-2">
-              <BookOpen className="w-6 h-6 text-[#3DBE75]" />
-              <h2 className="font-title text-2xl font-bold text-[#243044]">
-                Complete 10 NCERT Biology Units Coverage
-              </h2>
-            </div>
-
-            <p className="text-xs sm:text-sm text-[#667085] font-sans">
-              NEETMONIC covers all 10 units prescribed by the National Medical Commission (NMC) and NTA:
-            </p>
-
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs font-sans text-[#243044]">
-              <div className="p-3 rounded-2xl bg-[#EFFBF4] border border-[#3DBE75]/30">
-                <span className="font-title font-bold block mb-1">Class 11 Units:</span>
-                <ul className="space-y-1 text-[#667085]">
-                  <li>• Unit 1: Diversity in Living World (Ch 1–4)</li>
-                  <li>• Unit 2: Structural Organisation in Animals &amp; Plants (Ch 5–7)</li>
-                  <li>• Unit 3: Cell: Structure and Function (Ch 8–10)</li>
-                  <li>• Unit 4: Plant Physiology (Ch 11–13)</li>
-                  <li>• Unit 5: Human Physiology (Ch 14–19)</li>
-                </ul>
+          {/* =========================================================================
+              SECTION 1: ABOUT THE FOUNDER
+             ========================================================================= */}
+          <section className="p-6 sm:p-8 rounded-3xl bg-white border-2 border-[#243044] shadow-sketch space-y-6">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-b border-[#E8E4D9] pb-4">
+              <div className="flex items-center gap-3">
+                <div className="w-12 h-12 rounded-2xl bg-[#EFFBF4] border-2 border-[#3DBE75] flex items-center justify-center text-[#3DBE75] shrink-0">
+                  <User className="w-6 h-6" />
+                </div>
+                <div>
+                  <div className="inline-flex items-center gap-1.5 text-[11px] font-title font-bold text-[#3DBE75] uppercase tracking-wider">
+                    <Code2 className="w-3.5 h-3.5" />
+                    <span>Founder &amp; Creator</span>
+                  </div>
+                  <h2 className="font-title text-2xl font-bold text-[#243044]">
+                    About the Founder
+                  </h2>
+                </div>
               </div>
 
-              <div className="p-3 rounded-2xl bg-[#FFF9E6] border border-[#FFE681]/50">
-                <span className="font-title font-bold block mb-1">Class 12 Units:</span>
-                <ul className="space-y-1 text-[#667085]">
-                  <li>• Unit 6: Reproduction (Ch 20–22)</li>
-                  <li>• Unit 7: Genetics and Evolution (Ch 23–25)</li>
-                  <li>• Unit 8: Biology in Human Welfare (Ch 26–27)</li>
-                  <li>• Unit 9: Biotechnology (Ch 28–29)</li>
-                  <li>• Unit 10: Ecology and Environment (Ch 30–32)</li>
-                </ul>
+              <a
+                href="https://akshdev.site/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl bg-[#EFFBF4] hover:bg-[#d8f4e3] border-2 border-[#3DBE75] text-[#243044] font-title text-xs font-bold transition-all self-start sm:self-auto"
+              >
+                <span>Visit Portfolio</span>
+                <ExternalLink className="w-3.5 h-3.5 text-[#3DBE75]" />
+              </a>
+            </div>
+
+            {/* Profile Summary & Quote */}
+            <div className="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
+              <div className="md:col-span-8 space-y-4">
+                <div className="space-y-1">
+                  <h3 className="font-title text-xl font-bold text-[#243044]">
+                    Naman Sharma
+                  </h3>
+                  <p className="text-xs sm:text-sm font-medium text-[#3DBE75]">
+                    Founder of AKSHDEV • Web Developer &amp; Digital Project Creator
+                  </p>
+                </div>
+
+                {/* First-person Introduction Quote */}
+                <blockquote className="p-4 rounded-2xl bg-[#FFFDF7] border-l-4 border-[#3DBE75] border-y border-r border-[#E8E4D9] text-sm sm:text-base text-[#243044] font-sans leading-relaxed italic">
+                  “Hi, I’m Naman Sharma, a web developer and the founder of AKSHDEV. I enjoy building useful digital projects that solve real problems and make information easier to access. Through my projects, I aim to create simple, practical, and accessible online experiences that genuinely help people.”
+                </blockquote>
+
+                <p className="text-xs sm:text-sm text-[#667085] leading-relaxed font-sans">
+                  <strong>Mission:</strong> Building useful digital projects and websites that solve real problems and make information easier to access. With NEETMONIC, the focus is on breaking down complex NCERT Biology chapters into intuitive memory triggers so medical aspirants can revise faster with confidence.
+                </p>
+              </div>
+
+              <div className="md:col-span-4 flex flex-col items-center justify-center p-4 rounded-2xl bg-[#EFFBF4] border border-[#3DBE75]/30 text-center space-y-2">
+                <DoodleBrainMascot className="w-28 h-28" />
+                <span className="text-xs font-title font-bold text-[#243044]">Handcrafted with Care</span>
+                <span className="text-[11px] text-[#667085]">Dedicated to simple, fast, and accessible learning tools</span>
               </div>
             </div>
           </section>
 
-          {/* CTA Box */}
-          <div className="text-center pt-2">
-            <button
-              onClick={() => onNavigate('chapters')}
-              className="px-8 py-3.5 rounded-2xl bg-[#FF8D78] hover:bg-[#ff7b63] text-white font-title text-base font-bold inline-flex items-center gap-2 shadow-sketch transition-all hover:scale-105 active:scale-95"
-            >
-              <span>Explore All 32 Biology Chapters</span>
-              <ArrowRight className="w-5 h-5" />
-            </button>
-          </div>
+          {/* =========================================================================
+              SECTION 2: ABOUT AKSHDEV
+             ========================================================================= */}
+          <section className="p-6 sm:p-8 rounded-3xl bg-[#FFFDF7] border-2 border-[#243044] shadow-sketch space-y-6">
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 border-b border-[#E8E4D9] pb-4">
+              <div className="flex items-center gap-3">
+                <div className="w-12 h-12 rounded-2xl bg-[#EDF4FF] border-2 border-[#5B8DEF] flex items-center justify-center text-[#5B8DEF] shrink-0">
+                  <Globe className="w-6 h-6" />
+                </div>
+                <div>
+                  <div className="inline-flex items-center gap-1.5 text-[11px] font-title font-bold text-[#5B8DEF] uppercase tracking-wider">
+                    <span>Parent Brand</span>
+                  </div>
+                  <h2 className="font-title text-2xl font-bold text-[#243044]">
+                    About AKSHDEV
+                  </h2>
+                </div>
+              </div>
+
+              <a
+                href="https://akshdev.site/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl bg-white hover:bg-[#f0f5ff] border-2 border-[#5B8DEF] text-[#243044] font-title text-xs font-bold transition-all self-start sm:self-auto"
+              >
+                <span>Explore akshdev.site</span>
+                <ExternalLink className="w-3.5 h-3.5 text-[#5B8DEF]" />
+              </a>
+            </div>
+
+            <div className="space-y-4">
+              <p className="text-sm sm:text-base text-[#243044] font-medium leading-relaxed font-sans">
+                “AKSHDEV is an independent digital brand focused on creating useful websites, educational resources, and practical online tools. Our goal is to make digital experiences simpler, more accessible, and more helpful for the people who use them.”
+              </p>
+
+              <p className="text-xs sm:text-sm text-[#667085] leading-relaxed font-sans">
+                AKSHDEV serves as the parent brand behind NEETMONIC and an expanding portfolio of independent digital tools. Every initiative under the AKSHDEV umbrella is guided by a straightforward philosophy: prioritize clean code, user privacy, fast loading speeds, and genuinely helpful functionality without unnecessary clutter.
+              </p>
+
+              <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-2">
+                <div className="p-4 rounded-2xl bg-white border border-[#E8E4D9] space-y-1.5">
+                  <span className="font-title text-xs font-bold text-[#243044] block">Independent Focus</span>
+                  <p className="text-xs text-[#667085] leading-relaxed">
+                    Built autonomously to solve genuine challenges in everyday study and productivity.
+                  </p>
+                </div>
+                <div className="p-4 rounded-2xl bg-white border border-[#E8E4D9] space-y-1.5">
+                  <span className="font-title text-xs font-bold text-[#243044] block">User Privacy First</span>
+                  <p className="text-xs text-[#667085] leading-relaxed">
+                    Zero forced accounts, paywalls, or invasive trackers. Study data stays safely on your device.
+                  </p>
+                </div>
+                <div className="p-4 rounded-2xl bg-white border border-[#E8E4D9] space-y-1.5">
+                  <span className="font-title text-xs font-bold text-[#243044] block">Practical Utility</span>
+                  <p className="text-xs text-[#667085] leading-relaxed">
+                    Designed for fast access, clean typography, and seamless operation on mobile and desktop.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          {/* =========================================================================
+              SECTION 3: ABOUT NEETMONIC
+             ========================================================================= */}
+          <section className="p-6 sm:p-8 rounded-3xl bg-white border-2 border-[#243044] shadow-sketch space-y-6">
+            <div className="flex items-center gap-3 border-b border-[#E8E4D9] pb-4">
+              <div className="w-12 h-12 rounded-2xl bg-[#FFF9E6] border-2 border-[#FFE681] flex items-center justify-center text-[#243044] shrink-0">
+                <Brain className="w-6 h-6" />
+              </div>
+              <div>
+                <div className="inline-flex items-center gap-1.5 text-[11px] font-title font-bold text-[#243044] uppercase tracking-wider">
+                  <span>Learning Platform</span>
+                </div>
+                <h2 className="font-title text-2xl font-bold text-[#243044]">
+                  About NEETMONIC
+                </h2>
+              </div>
+            </div>
+
+            <div className="space-y-4">
+              <p className="text-sm sm:text-base text-[#243044] font-medium leading-relaxed font-sans">
+                “NEETMONIC is a Biology-focused learning and revision platform designed to help NEET aspirants remember important concepts through mnemonics, chapter-wise study resources, revision activities, and quizzes. It covers Class 11 and Class 12 Biology and aims to make revision more engaging and easier to organize.”
+              </p>
+
+              {/* Non-Affiliation Notice */}
+              <div className="p-4 rounded-2xl bg-[#EFFBF4] border-2 border-[#3DBE75] flex items-start gap-3">
+                <ShieldCheck className="w-5 h-5 text-[#3DBE75] shrink-0 mt-0.5" />
+                <div className="text-xs sm:text-sm text-[#243044] leading-relaxed">
+                  <strong>Independent Educational Resource:</strong> NEETMONIC is an independent educational revision companion and is <strong>not an official website of, affiliated with, or endorsed by</strong> the National Testing Agency (NTA), the National Medical Commission (NMC), or NEET. All curriculum terms are referenced for educational revision purposes strictly aligned with NCERT Biology textbooks.
+                </div>
+              </div>
+
+              {/* 3 Core Pillars */}
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
+                <div className="p-5 rounded-2xl bg-[#EFFBF4] border border-[#3DBE75]/40 space-y-2">
+                  <div className="w-8 h-8 rounded-xl bg-white border border-[#3DBE75] flex items-center justify-center text-[#3DBE75]">
+                    <Target className="w-4 h-4" />
+                  </div>
+                  <h3 className="font-title text-sm font-bold text-[#243044]">
+                    100% NCERT Verified
+                  </h3>
+                  <p className="text-xs text-[#667085] leading-relaxed">
+                    Strictly covers Class 11 &amp; 12 NCERT Biology with zero invented facts, focusing 100% on high-yield exam concepts.
+                  </p>
+                </div>
+
+                <div className="p-5 rounded-2xl bg-[#FFF9E6] border border-[#FFE681]/60 space-y-2">
+                  <div className="w-8 h-8 rounded-xl bg-white border border-[#FFE681] flex items-center justify-center text-[#243044]">
+                    <Brain className="w-4 h-4" />
+                  </div>
+                  <h3 className="font-title text-sm font-bold text-[#243044]">
+                    Cognitive Memory Hooks
+                  </h3>
+                  <p className="text-xs text-[#667085] leading-relaxed">
+                    Combines verbal rhymes, visual associations, and mnemonics to untangle tricky taxonomy, cycles, and anatomy exceptions.
+                  </p>
+                </div>
+
+                <div className="p-5 rounded-2xl bg-[#EDF4FF] border border-[#5B8DEF]/40 space-y-2">
+                  <div className="w-8 h-8 rounded-xl bg-white border border-[#5B8DEF] flex items-center justify-center text-[#5B8DEF]">
+                    <Zap className="w-4 h-4" />
+                  </div>
+                  <h3 className="font-title text-sm font-bold text-[#243044]">
+                    Active Recall &amp; Quizzes
+                  </h3>
+                  <p className="text-xs text-[#667085] leading-relaxed">
+                    Interactive sprint decks and chapter-wise question practice to lock in retention right after learning each trick.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            {/* 10 NCERT Units Overview */}
+            <div className="border-t border-[#E8E4D9] pt-6 space-y-3">
+              <div className="flex items-center gap-2">
+                <BookOpen className="w-5 h-5 text-[#3DBE75]" />
+                <h3 className="font-title text-base sm:text-lg font-bold text-[#243044]">
+                  Complete 10 NCERT Biology Units Coverage
+                </h3>
+              </div>
+
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs font-sans text-[#243044]">
+                <div className="p-3.5 rounded-2xl bg-[#EFFBF4] border border-[#3DBE75]/30">
+                  <span className="font-title font-bold block mb-1 text-[#243044]">Class 11 Biology Units:</span>
+                  <ul className="space-y-1 text-[#667085]">
+                    <li>• Unit 1: Diversity in Living World (Ch 1–4)</li>
+                    <li>• Unit 2: Structural Organisation in Animals &amp; Plants (Ch 5–7)</li>
+                    <li>• Unit 3: Cell: Structure and Function (Ch 8–10)</li>
+                    <li>• Unit 4: Plant Physiology (Ch 11–13)</li>
+                    <li>• Unit 5: Human Physiology (Ch 14–19)</li>
+                  </ul>
+                </div>
+
+                <div className="p-3.5 rounded-2xl bg-[#FFF9E6] border border-[#FFE681]/50">
+                  <span className="font-title font-bold block mb-1 text-[#243044]">Class 12 Biology Units:</span>
+                  <ul className="space-y-1 text-[#667085]">
+                    <li>• Unit 6: Reproduction (Ch 20–22)</li>
+                    <li>• Unit 7: Genetics and Evolution (Ch 23–25)</li>
+                    <li>• Unit 8: Biology in Human Welfare (Ch 26–27)</li>
+                    <li>• Unit 9: Biotechnology (Ch 28–29)</li>
+                    <li>• Unit 10: Ecology and Environment (Ch 30–32)</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            {/* Explore Button */}
+            <div className="text-center pt-2">
+              <button
+                onClick={() => onNavigate('chapters')}
+                className="px-8 py-3.5 rounded-2xl bg-[#FF8D78] hover:bg-[#ff7b63] text-white font-title text-sm sm:text-base font-bold inline-flex items-center gap-2 shadow-sketch transition-all hover:scale-105 active:scale-95"
+              >
+                <span>Explore All 32 Biology Chapters</span>
+                <ArrowRight className="w-5 h-5" />
+              </button>
+            </div>
+          </section>
 
         </div>
       )}

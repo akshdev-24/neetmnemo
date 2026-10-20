@@ -13,7 +13,8 @@ import {
   AlertTriangle,
   Edit3,
   BookmarkCheck,
-  Brain
+  Brain,
+  Sparkles
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
 import { REVISION_SETS } from '../../data/revisionSets';
